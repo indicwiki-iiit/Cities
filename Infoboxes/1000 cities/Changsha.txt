@@ -12,15 +12,15 @@
 | image_style            = border:1;
 | perrow                 = 1/2/2
 | image1                 = Skyline with Xiang River.png
-| image2                 = Changsha_2019_1.jpg
+| image2                 = 爱晚亭（秋-侧面）.jpg
 | image3                 = Changsha- Dufu Pavilion.jpg
-| image4                 = Changsha_2019_2.jpg
+| image4                 = Changsha_Yuelu_Shuyuan_2014.03.04_08-10-05.jpg
 | image5                 = Changsha_mao_statue.jpg
-| image6                 = Changsha-1825254 1280.jpg
+| image6                 = 梅溪湖国际文化艺术中心.jpg
 }}
 | imagesize                       = 
 | image_alt                       = 
-| image_caption                   = '''Clockwise form top:''' Skyline with [[Xiang River]], Dufu Pavilion, [[Young Mao Zedong statue|Young Mao Statue]], [[Meixi Lake Park]], view of central Changsha, [[Furong District]] from Juzizhou Bridge
+| image_caption                   = '''Clockwise form top:''' Skyline with [[Xiang River]], Dufu Pavilion, [[Young Mao Zedong statue|Young Mao Statue]], Meixihu International Culture & Arts Center, [[Yuelu Academy]], [[Aiwan Pavilion]] 
 | image                           = 
 | etymology                       = 
 | nickname                        = "{{lang|zh-Hans-CN|星城}}" (Star City)
@@ -73,8 +73,8 @@
 | area_total_km2                  = 11819
 | elevation_m                     = 63
 | elevation_min_rank              = <!-- population -->
-| population_as_of                = 2018
-| population_total                = 8,154,700<ref>https://www.citypopulation.de/en/china/hunan/admin/</ref>
+| population_as_of                = 2020
+| population_total                = 10,047,900<ref>http://www.chinanews.com/gn/2021/05-19/9480789.shtml</ref>
 | population_urban                = 4,409,500
 | population_metro                = 5,498,400
 | area_urban_km2                  = 1917.7
@@ -103,12 +103,12 @@
 | iso_code                        = [[ISO 3166-2:CN|CN-HN-01]]
 | geocode                         = 
 | registration_plate              = <!-- blank fields (section 1) -->
-| blank_name_sec1                 = [[Gross domestic product|GDP]] Total (2018)
-| blank_info_sec1                 = [[Renminbi|CNY]] 1.1 trillion<br />[[USD]] 166 billion<br />$315 billion([[Purchasing power parity|PPP]])<ref name="gdp2018">{{cite web |url=https://baijiahao.baidu.com/s?id=1625503611699142052&wfr=spider&for=pc }}</ref>
-| blank1_name_sec1                = [[Gross domestic product|GDP]] per capita (2018)
-| blank1_info_sec1                = [[CNY|¥]]139,000<br />[[USD|$]]20,996 ($40,986, PPP)
+| blank_name_sec1                 = [[Gross domestic product|GDP]] Total (2020)
+| blank_info_sec1                 = [[Renminbi|CNY]] 1.2 trillion<br />[[USD]] 189 billion<br />$315 billion([[Purchasing power parity|PPP]])<ref name="gdp2020">{{cite web |url=http://tjj.changsha.gov.cn/tjxx/tjsj/tjgb/202104/t20210409_9874800.html }}</ref>
+| blank1_name_sec1                = [[Gross domestic product|GDP]] per capita (2020)
+| blank1_info_sec1                = [[CNY|¥]]120,846<br />[[USD|$]]18,845 ($40,986, PPP)
 | blank2_name_sec1                = [[Gross domestic product|GDP]] growth rate
-| blank2_info_sec1                = {{increase}} 7.77%
+| blank2_info_sec1                = {{increase}} 4.0%
 <!-- blank fields (section 2) -->| blank_name_sec2                 = [[Vehicle registration plates of China|License Plate]]
 | blank_info_sec2                 = {{lang|zh-cn|湘A}}<br> {{lang|zh-cn|湘O}} (police and authorities)
 | blank1_name_sec2                = City tree

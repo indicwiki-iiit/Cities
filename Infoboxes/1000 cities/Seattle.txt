@@ -31,9 +31,9 @@
 | pushpin_relief                  = 1
 | coordinates                     = {{coord|47|36|35|N|122|19|59|W|region:US-WA|display=inline,title}}
 | subdivision_type                = [[List of sovereign states|Country]]
-| subdivision_name                = United States
+| subdivision_name                = {{flag|United States}}
 | subdivision_type1               = [[U.S. state|State]]
-| subdivision_name1               = [[Washington (state)|Washington]]
+| subdivision_name1               = {{flag|Washington (state)|name=Washington}}
 | subdivision_type2               = [[List of counties in Washington|County]]
 | subdivision_name2               = [[King County, Washington|King]]
 | established_title1              = Founded

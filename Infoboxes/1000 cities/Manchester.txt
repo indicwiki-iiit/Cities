@@ -106,7 +106,7 @@
 | utc_offset                      = +0
 | timezone_DST                    = [[British Summer Time]]
 | utc_offset_DST                  = +1
-| coordinates                     = {{coord|53|28|46|N|2|14|43|W|region:GB|display=inline,title}}
+| coordinates                     = {{coord|53|28|46|N|2|14|43|W|region:GB_type:city(553000)|display=inline,title}}
 | elevation_footnotes             = <!--for references: use tags-->
 | elevation_m                     = 38
 | elevation_ft                    = 

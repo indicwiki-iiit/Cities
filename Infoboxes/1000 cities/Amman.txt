@@ -11,7 +11,7 @@
 | nicknames                       = {{unbulleted list|The White Pigeon|The City of Stairs}}<ref>{{cite book|url=https://books.google.com/books?id=wGCGLEO-Vs8C&pg=PA36|title=The Cities Book: A Journey Through the Best Cities in the World|isbn=978-1-74179-887-6|page=36|author= Trent Holden, Anna Metcalfe|publisher=Lonely Planet Publications|year=2009}}</ref><ref name="Amman's Street Food">{{cite web|title=Amman's Street Food|url=http://beamman.com/food-/175-amman-street-food|access-date=2015-09-26|publisher=BeAmman.com|work=BeAmman.com|url-status=dead|archive-url=https://web.archive.org/web/20150926043908/http://beamman.com/food-/175-amman-street-food|archive-date=2015-09-26}}</ref>
 | image_map                       = خريطة مدينة عمان.png
 | pushpin_map                     = Jordan#Mediterranean east#Arab world#Asia
-| coordinates                     = {{coord|31|56|59|N|35|55|58|E|region:JO|display=inline,title}}
+| coordinates                     = {{coord|31|56|59|N|35|55|58|E|region:JO_type:city(4300000)|display=inline,title}}
 | subdivision_type                = Country
 | subdivision_name                = [[Jordan]]
 | subdivision_type1               = [[Governorates of Jordan|Governorate]]

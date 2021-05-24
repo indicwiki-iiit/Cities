@@ -22,12 +22,12 @@
 | image_map1                      = 
 | mapsize1                        = 
 | map_caption1                    = 
-| pushpin_map                     = Gansu
-| pushpin_label_position          = 
+| pushpin_map                     = Gansu#China
+| pushpin_label_position          = top
 | pushpin_mapsize                 = 
-| pushpin_map_caption             = Location of the city center in Gansu
+| pushpin_map_caption             = Location of the city center in Gansu##Location of the city in China
 | subdivision_type                = Country
-| subdivision_name                = People's Republic of China
+| subdivision_name                = {{CHN}}
 | subdivision_type1               = [[Autonomous regions of the People's Republic of China|Region]]
 | subdivision_name1               = [[Gansu]]
 | subdivision_type2               = 

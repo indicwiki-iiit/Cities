@@ -19,7 +19,7 @@
 |leader_name              = Hussein Bani Hani
 |established_title        = Founded <!-- Settled -->
 |established_date         = 7000 BC
-|area_footnotes          =<ref>http://dosweb.dos.gov.jo/ar/</ref>
+|area_footnotes           =<ref>http://dosweb.dos.gov.jo/ar/</ref>
 |area_total_km2           = 410
 |area_magnitude           = 1 E8
 |area_metro_km2           = 1572
@@ -28,8 +28,8 @@
 |population_as_of         = 2018
 |population_total         = 907675
 |population_footnotes     = <ref>http://dosweb.dos.gov.jo/DataBank/Population_Estimares/Municipalities.pdf</ref>
-|timezone                 = [[Greenwich Mean Time|GMT]] +2
-|utc_offset               =
+|timezone                 = [[Greenwich Mean Time|GMT]]
+|utc_offset               = +2
 |timezone_DST             = +3
 |coordinates              = {{coord|32|33|0|N|35|51|0|E|region:JO_type:city(292040)|display=inline,title}}
 | grid_position           =  230/217
