@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+| name                            = The Bronx
+| official_name                   =
+| other_name                      = Bronx County, New York
+| native_name                     =
+| settlement_type                 = [[Boroughs of New York City|Borough]] and [[List of counties in New York (state)|county]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = ''Ne cede malis'' – "Yield Not to Evil"<br />(lit. "Yield Not to Evil Things")
+
+<!-- images and maps ----------->
+| image_skyline                   = Yankee Stadium 001.JPG
+| imagesize                       = 300px
+| image_caption                   = [[Yankee Stadium]] (center), [[Bronx County Courthouse]] and the [[Grand Concourse (Bronx)|Grand Concourse]] towards the top. To the right of the current stadium is the site of [[Yankee Stadium (1923)|its predecessor]].
+| image_flag                      = Flag of Bronx County, New York.svg
+| flag_size                       =
+| image_seal                      = Seal of the Bronx.svg
+| seal_size                       =
+| image_shield                    =
+| shield_size                     =
+| image_blank_emblem              =
+| blank_emblem_type               =
+| blank_emblem_size               =
+| image_map                       = {{Maplink|frame=yes|plain=yes|frame-width=300|frame-align=center|type=shape|fill=#ffffff|fill-opacity=0|stroke-width=3}}
+| mapsize                         =
+| map_caption                     = Map outlining the Bronx
+| image_map1                      = Map of New York highlighting Bronx County.svg
+| map_caption1                    = Location within the state of New York
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|New York}}
+| subdivision_type2               = [[County]]
+| subdivision_name2               = Bronx <small>(coterminous)</small>
+| subdivision_type3               = City
+| subdivision_name3               = [[New York City]]
+
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+| seat_type                       =
+| seat                            =
+| parts_type                      =
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              =
+| p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+
+<!-- Politics ----------------->
+| government_footnotes            =
+| government_type                 = [[Boroughs of New York City|Borough of New York City]]
+| leader_title                    = [[Borough President]]
+| leader_name                     = [[Rubén Díaz Jr.]] ([[Democratic Party (United States)|D]])<br />– ''(Borough of the Bronx)''
+| leader_title1                   = [[District attorney|District Attorney]] <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = [[Darcel Clark]]<br />– ''(Bronx County)''
+| established_title               = Borough created
+| established_date                = 1898 ('''County''' in 1914)
+| named_for                       = [[Jonas Bronck]]
+
+<!-- Area    --------------------->
+| area_magnitude                  =
+| unit_pref                       = imperial
+| area_footnotes                  =
+| area_total_sq_mi                = 57
+| area_land_sq_mi                 = 42
+| area_water_sq_mi                = 15
+| area_water_percent              = 27
+
+<!-- Elevation -------------------------->
+| elevation_footnotes             = http://www.peakbagger.com/peak.aspx?pid=7110 "Bronx High Point" at Peakbagger.com
+| elevation_m                     =
+| elevation_ft                    =
+| elevation_max_m                 =
+| elevation_max_ft                = 280
+| elevation_min_m                 =
+| elevation_min_ft                =
+
+<!-- Population   ----------------------->
+| population_as_of                = 2019
+| population_footnotes            =
+| population_note                 =
+| population_total                = 1,418,207<ref name=BronxQuickFacts>{{cite web|url=https://www.census.gov/quickfacts/fact/table/bronxcountybronxboroughnewyork/PST045216|title=QuickFacts Bronx County (Bronx Borough), New York|publisher=[[U.S. Census Bureau]]|access-date=March 31, 2018}}</ref>
+| population_density_sq_mi        = 32903.6
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Bronxite<ref>Moynihan, Colin. [https://www.nytimes.com/1999/09/19/nyregion/fyi-530409.html "F.Y.I."], ''[[The New York Times]]'', September 19, 1999. Accessed December 17, 2019. "There are well-known names for inhabitants of four boroughs: Manhattanites, Brooklynites, Bronxites and Staten Islanders. But what are residents of Queens called?"</ref>
+| blank2_name                     = [[Gross domestic product|GDP]] (2018)
+| blank2_info                     = US$42.7 billion<ref>[https://www.bea.gov/system/files/2019-12/lagdp1219.pdf ''Local Area Gross Domestic Product, 2018''], [[Bureau of Economic Analysis]], released December 12, 2019. Accessed December 17, 2019.</ref>
+
+<!-- General information  --------------->
+| timezone                        = [[Eastern Time Zone|Eastern]]
+| utc_offset                      = −05:00
+| timezone_DST                    = EDT
+| utc_offset_DST                  = −04:00
+| coordinates                     = {{coord|40|50|14|N|73|53|10|W|region:US-NY|display=title,inline}}
+| postal_code_type                = [[ZIP Code]] prefix
+| postal_code                     = 104
+| area_codes                      = [[Area codes 718, 347, and 929|718/347/929]], [[Area code 917|917]]
+| website                         = {{Official URL}}
+| footnotes                       =
+}}

@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                            = {{raise|0.1em|Daejeon}}
+| official_name                   = Daejeon Metropolitan City<br/>{{lower|0.1em|{{nobold|{{lang|ko-Hang|대전광역시}}}}}}
+| native_name                     = {{lower|0.1em|{{lang|ko-Hang|대전시}}}}
+| settlement_type                 = [[List of special cities of South Korea|Metropolitan City]]
+| coordinates                     = {{Coord|36.351|127.385|type:city|format=dms|display=inline,title}}
+| translit_lang1                  = &nbsp;
+| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 290
+| perrow                   = 1/2/1
+| image1                   = Daejeon southern cityscape from Gyejoksan (cropped).jpg
+| alt1                     = Daejeon southern cityscape from Gyejoksan
+| image2                   = Hanbit Tower in Expo Science Park.jpg
+| alt2                     = Hanbit Tower in Expo Science Park
+| image3                   = Daejeon Government Complex.jpg
+| alt3                     = Daejeon Government Complex
+| image4                   = Daejeon Expo Bridge arches.jpg
+| alt4                     = Daejeon Expo Bridge arches
+}}
+| imagesize                       = 250px
+| image_caption                   = '''Top''':Panorama view of the city from [[Gyejoksan (Daejon)|Gyejoksan]], '''Middle left''':Hanbit Tower in Daejeon Expo Science Park, '''Middle right''':Daejeon Government Complex area in Seo-gu, '''Bottom''':Expo Bridge
+| image_flag                      = Flag of Daejeon.svg
+| image_blank_emblem              = Seal of Daejeon.svg
+| blank_emblem_type               = Logo
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = #South Korea
+| pushpin_label_position          = right
+| pushpin_map_size                = 
+| pushpin_map_caption             = 
+| pushpin_relief                  = 1
+| subdivision_type                = Country
+| subdivision_name                = {{flag|South Korea}}
+| subdivision_type1               = [[Regions of Korea|Region]]
+| subdivision_name1               = [[Hoseo]]
+| parts_type                      = Districts
+| parts                           = 5
+<!-- Counties             = 1 -->| government_type                 = [[Mayor–council government|Mayor–council]]
+| leader_title                    = [[Mayor of Daejeon|Mayor]]
+| leader_name                     = [[Heo Tae-jeong]] {{small|([[Democratic Party of Korea|Democratic]])}}
+| leader_title1                   = Body
+| leader_name1                    = [[Daejeon Metropolitan Council]]
+| area_total_km2                  = 539.85
+| population_total                = 1,508,120 <!-- population_rank      = 5th -->
+| population_as_of                = January 2019
+| population_density_km2          = auto
+| population_blank1_title         = Dialect
+| population_blank1               = [[Chungcheong dialect|Chungcheong]]
+| iso_code                        = KR-30
+| blank_name_sec2                 = GDP
+| blank_info_sec2                 = [[American Dollar|US$]] 39.6&nbsp;billion<ref name="brookingsgdp">{{cite web |url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global city GDP 2014 |publisher=Brookings Institution |access-date=18 November 2014 |url-status=dead |archive-url=https://www.webcitation.org/6H7Jql2A9?url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |archive-date=4 June 2013 }}</ref>
+| blank1_name_sec2                = GDP per capita
+| blank1_info_sec2                = US$25,976<ref name="brookingsgdp" />
+<!-- AreaRank             = 6th doesn't seem to fit into settlement template -->
+| website                         = {{url|1=https://www.daejeon.go.kr/dre/index.do|2=Official website (English)}}
+| translit_lang1_type1            = [[Hangul]]
+| translit_lang1_info1            = {{lang|ko-Hang|대전광역시}}
+| translit_lang1_type2            = [[Hanja]]
+| translit_lang1_info2            = {{lang|ko-Hant|大田廣域市}}
+| translit_lang1_type3            = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3            = {{nowrap|Daejeon-gwangyeoksi}}
+| translit_lang1_type4            = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info4            = {{nowrap|Taejŏn-kwangyŏksi}}
+| blank_name                      = Flower
+| blank_info                      = [[Magnolia|White magnolia]]
+| blank1_name                     = Tree
+| blank1_info                     = [[Pine]]
+| blank2_name                     = Bird
+| blank2_info                     = [[Korean magpie]]
+}}

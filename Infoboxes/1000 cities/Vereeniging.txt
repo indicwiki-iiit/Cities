@@ -1,0 +1,64 @@
+{{Infobox settlement
+| name                    = Vereeniging
+| image_skyline           = Dutch Reformed Church Vereeniging-017.jpg
+| image_caption           = Dutch Reformed Church, Vereeniging
+| image_shield            = Vereeniging.jpg
+| motto                   = ''Per Pacem Ad Industriam''<br/>("From peace to industry")
+| pushpin_map             = South Africa Gauteng#South Africa#Africa
+| coordinates             = {{coord|26|40|25|S|27|55|55|E|region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]]
+| subdivision_name        = {{flagdeco|RSA}} [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]]
+| subdivision_name1       = [[Gauteng]]
+| subdivision_type2       = [[District]]
+| subdivision_name2       = [[Sedibeng District Municipality|Sedibeng]]
+| subdivision_type3       = [[Municipality]]
+| subdivision_name3       = [[Emfuleni Local Municipality|Emfuleni]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1892
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/760009 |title = Main Place Vereeniging |work=Census 2011}}</ref>
+| area_total_km2          = 188.19
+| elevation_m             = 1479
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 99000
+| population_as_of        = 2020
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 55.0%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 5.1%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 5.8%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 33.1%
+| demographics1_title5    = Other
+| demographics1_info5     = 1.0%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 34.9%
+| demographics2_title2    = [[Sotho language|Sotho]]
+| demographics2_info2     = 26.2%
+| demographics2_title3    = [[South African English|English]]
+| demographics2_info3     = 15.5%
+| demographics2_title4    = [[Zulu language|Zulu]]
+| demographics2_info4     = 8.3%
+| demographics2_title5    = Other
+| demographics2_info5     = 15.2%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 1930
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 1939
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 016
+}}

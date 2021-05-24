@@ -1,0 +1,90 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->| name                            = Amsterdam
+| settlement_type                 = [[Capital of the Netherlands|Capital city]] and [[Municipalities of the Netherlands|municipality]]
+<!-- Images, nicknames, motto -->| image_skyline                   = {{Photomontage|position=center
+   | photo1a = KeizersgrachtReguliersgrachtAmsterdam.jpg
+   | photo2a = Amsterdam - Boat - 0635.jpg
+   | photo2b = Concertgebouw 04.jpg
+   | photo3a = Amsterdam - Rijksmuseum - panoramio - Nikolai Karaneschev.jpg
+   | size = 270
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0}}
+| image_caption                   = From top down, left to right: [[Keizersgracht]], [[Canals of Amsterdam|canal]] in the [[Amsterdam-Centrum|Centrum]] borough, the [[Concertgebouw|Royal Concertgebouw]] and [[Rijksmuseum]]
+| image_alt                       = 
+| image_flag                      = Flag of Amsterdam.svg
+| flag_size                       = 100x110px
+| flag_alt                        = 
+| image_shield                    = Wapen van Amsterdam.svg
+| shield_size                     = 150x220px
+| shield_alt                      = 
+| nicknames                       = [[Mokum]], the [[Venice of the North]]
+| motto                           = [[Coat of arms of Amsterdam|Heldhaftig, Vastberaden, Barmhartig]] (''Valiant, Steadfast, Compassionate'')
+<!-- Maps, coordinates -->| image_map                       = Amsterdam_location_map.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Amsterdam in the Netherlands
+| pushpin_map                     = Netherlands#Europe
+| pushpin_map_caption             = Location of Amsterdam in the Netherlands
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|52|22|N|4|54|E|region:NL|display=inline,title}}
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Netherlands}}
+| subdivision_type1               = [[Provinces of the Netherlands|Province]]
+| subdivision_name1               = [[North Holland]]
+| subdivision_type2               = [[List of regions of the Netherlands|Region]]
+| subdivision_name2               = [[Amsterdam metropolitan area]]
+| parts_type                      = <!-- defaults to: Boroughs -->
+| parts_style                     = coll
+| parts                           = Eight districts
+| p1                              = [[Amsterdam-Centrum|Centrum]]
+| seat_type                       = [[Seat of local government|City Hall]]
+| seat                            = [[Stopera]]
+| government_footnotes            = <ref name="mayor_now">{{Cite web |title=Portfolios: Mayor & Alderpersons |url=http://www.iamsterdam.com/en-GB/living/about-amsterdam/city-of-amsterdam/city-government/portfolios-mayor-alderpersons |url-status=dead |archive-url=https://web.archive.org/web/20140228111659/http://www.iamsterdam.com/en-GB/living/about-amsterdam/city-of-amsterdam/city-government/portfolios-mayor-alderpersons |archive-date=28 February 2014 |access-date=18 February 2014 |publisher=Gemeente Amsterdam}}</ref>
+| governing_body                  = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party                    = 
+| leader_title                    = [[List of mayors of Amsterdam|Mayor]]
+| leader_name                     = [[Femke Halsema]] ([[GroenLinks|GL]])
+<!-- Geographic information -->| total_type                      = [[Municipalities of the Netherlands|Municipality]]<!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes                  = <ref>{{Dutch municipality total area|dataref}}</ref><ref name="tno_randstad">{{Cite techreport |author1=Anita Bouman–Eijs |author2=Thijmen van Bree |author3=Wouter Jonkhoff |author4=Olaf Koops |author5=Walter Manshanden |author6=Elmer Rietveld |url=https://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf |title=De Top 20 van Europese grootstedelijke regio's 1995–2011; Randstad Holland in internationaal perspectief |language=nl |trans-title=Top 20 of European metropolitan regions 1995–2011; Randstad Holland compared internationally |date=17 December 2012 |publisher=[[Netherlands Organisation for Applied Scientific Research|TNO]] |place=Delft |access-date=25 July 2013 |archive-url=https://web.archive.org/web/20140303212054/http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf |archive-date=3 March 2014 |url-status=dead}}</ref>
+<!-- square kilometers -->| area_total_km2                  = 219.32
+| area_land_km2                   = 165.76
+| area_water_km2                  = 53.56
+| area_blank1_title               = [[Randstad]]
+| area_blank1_km2                 = 3043
+| elevation_footnotes             = <ref name="AHN">{{Cite web |last=<!--Staff writer(s); no by-line.--> |title=Postcodetool for 1012JS (Dam Square) |url=https://www.ahn.nl/postcodetool |url-status=dead |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool |archive-date=21 September 2013 |access-date=18 February 2014 |website=Actueel Hoogtebestand Nederland |publisher=Het Waterschapshuis |language=nl}}</ref>
+| elevation_m                     = −2
+| elevation_min_m                 = <!-- Population, dcs -->
+| elevation_max_footnotes         = <!-- for references: use <ref name="cbs statline" /><ref name="tno_randstad" /><ref name="CBS_muni">{{Dutch municipality population|dataref}}</ref><ref name="CBS_urbanmetro">{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_density_km2  = {{Dutch municipality population density|Amsterdam}} <!-- For automatic calculation: auto-->
+| population_total                = 872,680
+| population_urban                = 1,558,755
+| population_blank1_title         = {{nowrap|[[Amsterdam metropolitan area|<abbr style="border-bottom: none;" title="Amsterdam metropolitan region">Metro region</abbr>]]}}
+| population_blank1               = 2,480,394
+| population_blank2_title         = [[Randstad]]
+| population_blank2               = 8,116,000
+| population_demonym              = Amsterdammer
+<!-- Other information -->| postal_code_type                = [[Postal codes in the Netherlands|Postcode]]
+| postal_code                     = 1000–1183
+| area_code                       = 020
+| area_code_type                  = [[Telephone numbers in the Netherlands|Area code]]
+| blank_name_sec2                 = [[GeoTLD]]
+| blank_info_sec2                 = [[.amsterdam]]
+| website                         = {{URL|1=https://www.amsterdam.nl}}
+| footnotes                       = 
+| p2                              = [[Amsterdam-Noord|Noord]]
+| p3                              = [[Amsterdam-West|West]]
+| p4                              = [[Amsterdam Nieuw-West|Nieuw-West]]
+| p5                              = [[Amsterdam-Zuid|Zuid]]
+| p6                              = [[Amsterdam-Oost|Oost]]
+| p7                              = [[Amsterdam-Zuidoost|Zuidoost]]
+| p8                              = [[Westpoort]]
+| elevation_max_m                 = 
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+| name                            = {{raise|0.1em|Ürümqi}}
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = {{ug-textonly|ئۈرۈمچى شەھىرى}}{{·}}{{lang|zh-hans|乌鲁木齐市}}
+| other_name                      = Urumchi{{·}}Dihua
+| settlement_type                 = [[Prefecture-level city]]
+| motto                           = 
+| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 300
+| perrow                   = 1/2/1
+| image1                   = Urumqi skyline.jpg
+| alt1                     = Urumqi skyline
+| image2                   = Urumqi s bazzar.jpg
+| alt2                     = Urumqi's bazzar
+| image3                   = Hong Shan.jpg
+| alt3                     = Hong Shan
+| image4                   = Tian Shan Panorama.jpg
+| alt4                     = Arid city outskirts
+}}
+| image_caption                   = From top: A panoramic view of Ürümqi's [[Central business district|CBD]], Red Mountain ([[Hong Shan]]), Ürümqi Night Market in the Grand Bazaar and a view of [[Tian Shan]] from Ürümqi
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=6}}
+| image_map1                      = China Xinjiang Ürümqi.svg
+| map_caption1                    = Ürümqi City jurisdiction (red) in Xinjiang (orange)
+| pushpin_map                     = Xinjiang#China#Asia
+| pushpin_map_caption             = Location of the city center in Xinjiang
+| pushpin_relief = yes
+| subdivision_type = Country
+| subdivision_name                = [[China]]
+| subdivision_type1               = [[Autonomous regions of China|Autonomous region]]
+| subdivision_name1               = [[Xinjiang]]
+| subdivision_name2               = 
+| subdivision_type3               = [[Administrative divisions of China#County level|County-level divisions]]
+| subdivision_name3               = 8
+| seat_type = Municipal seat
+| seat = [[Shuimogou District]]
+| government_type         = [[Prefecture-level city]]
+|governing_body = [[Ürümqi Municipal People's Congress]]
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+|leader_name            = Xu Hairong
+| leader_title1 = [[Ürümqi Municipal People's Congress|Congress]] Chairman
+| leader_name1 = Ahmetjan Ahniyaz
+|leader_title2          = [[Mayor]]
+|leader_name2           = Yasim Sadiq
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Wei Yi
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = <!-- ([[List of China administrative regions by area|ranked 29th]]) -->
+| area_total_km2                  = 14577
+| area_urban_km2                  = 583<!--ALL
+ fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| population_est                  = 3,550,000
+| pop_est_as_of                   = 2015
+| pop_est_footnotes               = <ref name="2015 Pop Estimate">{{cite web|title=Bulletin for the economical and social development in 2015 |url=http://tjj.urumqi.gov.cn/tjsj/283763.htm |access-date=March 16, 2016}}</ref>
+| population_urban                = 3,575,000
+| population_urban_footnotes      = (2017)<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+| population_as_of                = 2017 census
+| population_total                = 3519600
+| population_density_km2          = auto
+| timezone                        = ''[[De jure]]'': [[China Standard Time|China Standard]] ([[UTC+08:00]])<br/>''[[De facto]]'': Both [[China Standard Time|China Standard]] ([[UTC+08:00]]) and [[Xinjiang Time|Ürümqi Time]] ([[UTC+06:00]])
+| coor_pinpoint = Ürümqi municipal government
+| coordinates                     = {{coord|43|49|21|N|87|36|45|E|type:adm2nd_region:CN-65|display=it}}
+| elevation_footnotes             = 
+| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 830000
+| area_code_type                  = [[Telephone numbers in China|Area code]]
+| area_code                       = 991
+| iso_code                        = [[ISO 3166-2:CN|CN-XJ-01]]
+| website                         = [http://www.urumqi.gov.cn/ www.urumqi.gov.cn] {{in lang|zh}}
+| footnotes                       = 
+| blank_name                     = [[Gross domestic product|GDP]] (2019)<ref>{{Cite web|date=12 March 2021|title=乌鲁木齐市2019年国民经济和社会发展统计公报|url=http://www.tjcn.org/tjgb/31xj/36515.html|url-status=live|access-date=12 March 2021|language=zh}}</ref>
+| blank_info                     = [[Renminbi|CNY]] ￥341.3 billion<br/>US $49.4 billion
+| blank1_name                     = GDP per capita
+| blank1_info                     = [[Renminbi|CNY]] ￥94,813<br/>US $13,721
+| blank2_name                     = &nbsp;- Growth
+| blank2_info                     = {{increase}} 5.9%
+| blank3_name                      = [[License Plate (China)|License plate prefixes]]
+| blank3_info                      = {{lang|zh-cn|新A}}
+}}

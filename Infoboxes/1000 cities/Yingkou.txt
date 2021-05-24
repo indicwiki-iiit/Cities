@@ -1,0 +1,124 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Yingkou}}
+|official_name          = 
+|other_name             = Yingkow
+|native_name            = {{lower|0.1em|营口市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 2/2/1
+| image1                 = Xishi, Yingkou, Liaoning, China - panoramio - Matthew Summerton (24) (cropped).jpg
+| image2                 = 辽宁省营口市站前区 楞严禅寺.jpg
+| image3                 = 鲅鱼圈山海广场 (cropped).jpg
+| image4                 = 鲅鱼圈海滨.jpg
+| image5                 = Autumn Red-Mountains Series - 3rd Going to the top of mountains - Right on the Peak (cropped).jpg
+}}
+|imagesize              = 
+|image_caption           = From top, left to right: [[Xishi District]], {{ill|Lengyan Temple|zh|楞严禅寺}}, Shanhai Plaza, Beach of [[Bayuquan]], Red Mountain in [[Gaizhou]]
+|image_seal              = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Yingkou Prefecture within Liaoning (China).png
+|mapsize                =  
+|map_caption            = Location of Yingkou City jurisdiction in Liaoning
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Liaoning
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Liaoning
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Liaoning]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =Municipal seat
+|seat                   =[[Xishi District]]
+|parts_type             =Districts and Counties
+|parts_style            =coll
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =Zhanqian District
+|p2                     =Xishi District
+|p3                     =Bayuquan District
+|p4                     =Laobian District
+|p5                     =Dashiqiao City
+|p6                     =Gaizhou City	
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Communist Party of China|CPC]] Yingkou
+|leader_name            = Committee Secretary
+|leader_title1          = Mayor
+|leader_name1           = Gao Jun
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 4970
+|area_land_km2            = 
+|area_water_km2           = 
+|area_water_percent       = 
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 880.3 
+| area_urban_km2          = 538.25 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =census 2010 
+|population_footnotes           = <ref name=pop>[http://english.yingkou.net.cn/profile.htm Copyright by Yingkou People<!-- Bot generated title -->]</ref>
+|population_note                =
+|population_total               = 2428534
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_urban_km2   =auto 
+|population_density_metro_km2   =auto 
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 1010000
+| population_urban        = 848100
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Yingkou municipal government
+|coordinates            = {{coord|40.625|N|122.219|E|type:adm2nd_region:CN-21_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =115000
+|blank_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank_info             ={{lang|zh-Hans-CN|辽}}H
+|blank1_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank1_info            =210800
+|iso_code = [[ISO 3166-2:CN|CN-LN-08]]
+|area_code              =[[Telephone numbers in China|410]]
+|website = {{URL|www.yingkou.gov.cn/}}
+|footnotes              = 
+}}

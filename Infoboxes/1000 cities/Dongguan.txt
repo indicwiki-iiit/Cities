@@ -1,0 +1,82 @@
+{{Infobox settlement
+| name                   = {{raise|0.2em|Dongguan}}
+| official_name          = <!-- Official name in English if different from 'name' -->
+| native_name            = {{lower|0.1em|东莞市}}
+| native_name_lang = zh-Hans
+| other_name             = Tungkun; Tungkuan
+| settlement_type        = [[Prefecture-level city]]
+| image_skyline          = Dongguan montage.jpg
+| image_caption          = From top left, clockwise: [[Guanyin]] mountain, [[Humen Bridge]], [[Keyuan]], Dongguan Avenue
+| image_seal             = 
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+| image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9|frame-lat=22.904|frame-long=113.89}}
+| image_map1             = Guangdong subdivisions - Dongguan.svg
+| map_caption1           = Location of Dongguan in Guangdong
+| pushpin_map            = China
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location in China
+| coor_pinpoint = Dongguan government
+| coordinates            = {{coord|23.021|N|113.752|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+| subdivision_type       = Country
+| subdivision_name       = [[China]]
+| subdivision_type1      = [[Provinces of China|Province]]
+| subdivision_name1      = [[Guangdong]]
+| seat_type = Municipal seat
+| seat = [[Nancheng Subdistrict, Dongguan|Nancheng Subdistrict]]
+| established_title      = County
+| established_date       = 331 AD
+| established_title2     = City (County-level)
+| established_date2      = September 1985
+| established_title3     = City (Prefecture-level)
+| established_date3      = 1 January 1988
+| government_type        = [[Prefecture-level city]]
+|governing_body = [[Dongguan Municipal People's Congress]]
+| government_footnotes   = 
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+| leader_name            = [[Liang Weidong]]
+| leader_title1 = [[Dongguan Municipal People's Congress|Congress]] Chairman
+| leader_name1 = Liang Weidong
+| leader_title2          = [[Mayor]]
+| leader_name2           = Xiao Yafei
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Luo Zhaoqun
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = <!-- ([[List of China administrative regions by area|ranked 29th]]) -->
+| area_total_km2         = 2465<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = 
+| area_water_km2         = 
+| area_water_percent     = 
+| area_urban_km2         = 2465
+| area_metro_km2         = 17572.9
+| elevation_footnotes    = <!--for references: use<ref> </ref> tags-->
+| elevation_m            = 8
+| population_footnotes   = 
+| population_total       = 8220207
+| population_as_of       = 2010 census<ref name="citypopulation.de">{{cite web|url=http://www.citypopulation.de/php/china-guangdong-admin.php|title=China: Administrative Division of Guăngdōng / 广东省|access-date=25 May 2015|archive-url=https://web.archive.org/web/20141228193052/http://www.citypopulation.de/php/china-guangdong-admin.php|archive-date=28 December 2014|url-status=live}}</ref>
+| population_density_km2 = auto
+| population_urban       = 8220207
+| population_density_urban_km2 = auto
+| population_metro       = 44449738
+| population_density_metro_km2 = auto
+| population_note         = 
+| demographics_type1      = [[Gross domestic product|GDP]]
+| demographics1_footnotes = 
+| demographics1_title1    = Total
+| demographics1_info1     = [[Chinese renminbi|¥]] 948 billion<ref>http://news.southcn.com/gd/content/2020-01/21/content_190107121.htm#:~:text=%E7%BB%8F%E5%88%9D%E6%AD%A5%E6%A0%B8%E7%AE%97%EF%BC%8C2019%E5%B9%B4,%E6%95%B0%E5%A2%9E%E5%8A%A0539.51%E4%BA%BF%E5%85%83%E3%80%82</ref> (${{To USD|627|CHN|year=2015|round=yes}}B)
+| demographics1_title2    = Per capita
+| demographics1_info2     = [[Chinese renminbi|¥]] 75,213 (${{To USD|75213|CHN|year=2015|round=yes}})
+| timezone                = [[China Standard Time]]
+| utc_offset              = +8
+| postal_code_type        = [[Postal code of China|Postal code]]
+| postal_code             = 523000
+| area_code               = 769
+|iso_code = [[ISO 3166-2:CN|CN-GD-19]]
+| blank_name              = [[Vehicle registration plates of China|Licence plate prefixes]]
+| blank_info              = {{lang|zh-cn|粤S}}
+| blank2_name             = City flower
+| blank2_info             = [[Yulan magnolia]] <br/> ''Magnolia denudata''
+| website                 = {{URL|http://www.dg.gov.cn/}}
+| footnotes               = 
+}}

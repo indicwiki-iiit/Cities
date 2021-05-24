@@ -1,0 +1,22 @@
+{{Infobox pandemic
+| name            = COVID-19 pandemic in South Korea
+| image           = COVID-19_in_South_Korea_-_Photo_montage.jpg
+| caption         = From top to bottom then from left to right: a queue in front of a pharmacy in [[Wonju]] for the distribution of masks, a drone of disinfection in [[Seongnam]], a closed elementary school in [[Daegu]], protest inscriptions against [[Shincheonji Church of Jesus|Shincheonji]] on a car, video call between members of the South Korean government, manufacturing of masks in [[Busan]], [[2020 South Korean legislative election]], admission of a symptomatic patient to a hospital in Busan, portable medical negative pressure isolation stretcher in a fire station in [[Hoengseong County]], firefighters' training in Daegu, thermal camera at the entrance to Wonju hospital, temperature check at [[Incheon International Airport]], drive-through testing in [[Gyeongju]].
+| map1            = COVID-19 Outbreak Cases in South Korea (Density).svg
+| legend1         = Map of special cities & municipals with confirmed or suspected coronavirus cases (as of 13 March 2021): {{legend|#FCEED3|Confirmed 1–9}}{{legend|#F2A88D|Confirmed 10–99}}{{legend|#E36654|Confirmed 100–499}}{{legend|#E5354B|Confirmed 500–999}}{{legend|#87353F|Confirmed 1000–9999}}{{legend|#630606|Confirmed ≥10000}}
+| map2            = Coronavirus Outbreak in South Korea over Time.gif
+| legend2         = Coronavirus pandemic in South Korea over time (since 20 January 2020).<br /><div style="background-image: linear-gradient(to right, #ffffff, #ff0000); border:solid 1px black; width:50px; height:0.5em; float:left; position:relative; top:0.4em;">&nbsp;</div> &nbsp; Number of cases ([[Logarithmic scale|logarithmically]]){{legend|#e7e8e6|Day not included in map}}{{legend|#989896|Day included in map}}{{legend|#444443|Last day included in map}}
+| disease         = [[COVID-19]]
+| virus_strain    = [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]]
+| first_case      = [[Incheon International Airport]]
+| location        = South Korea
+| arrival_date    = 20 January 2020<br />({{Age in years, months, weeks and days|month1=01|day1=20|year1=2020|month2=|day2=|year2=}})
+| origin          = [[Wuhan]], [[Hubei]], [[China]]
+| confirmed_cases = 132,818
+| recovery_cases  = 122,631
+| deaths          = 1,904
+| active_cases    = 8,283
+| suspected_cases = 103,413
+| fatality_rate   = {{Percentage|1904|132818|pad=2}}
+| website         = {{URL|ncov.mohw.go.kr/en}}
+}}

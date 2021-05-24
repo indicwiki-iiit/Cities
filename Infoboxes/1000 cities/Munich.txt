@@ -1,0 +1,71 @@
+{{Infobox German location
+|imagesize             = 300px
+|image_caption         = 
+|Bürgermeistertitel    = Oberbürgermeister
+|Gemeindeschlüssel     = 09 1 62 000
+|Stand                 = 2015-10-31
+|pop_urban             = 2606021
+|pop_metro      = 5,991,144<ref>{{cite web |url=https://www.metropolregion-muenchen.eu/metropolregion-muenchen/daten-und-fakten-der-metropolregion-muenchen/ |title=Daten und Fakten aus der Metropolregion München |trans-title=Data and facts about the Munich Metropolitan Region |work=Europäische Metropolregion München e.V. |access-date=20 June 2019 |archive-url=https://web.archive.org/web/20190620161149/https://www.metropolregion-muenchen.eu/metropolregion-muenchen/daten-und-fakten-der-metropolregion-muenchen/ |archive-date=20 June 2019 |url-status=dead }}</ref>
+|name                  = Munich
+|German_name           = München
+|image_photo={{Photomontage|position=center
+| photo1a = Frauenkirche and Neues Rathaus Munich March 2013.JPG
+| photo3a = Schloss Nymphenburg Münich.jpg
+| photo3b = Englischer_Garten_München.jpg
+| photo5a = BMW Welt Night cropped.jpg
+| photo5b = Feldherrnhalle_-_Odeonsplatz.jpg
+| photo6a = Allianz_arena_golden_hour_Richard_Bartz.jpg
+| size = 270
+| spacing = 2
+| color = white
+| border = 0
+| foot_montage = {{nobreak|From top, left to right: [[Marienplatz]] with [[New Town Hall (Munich)|Neues Rathaus]]<br /> and [[Munich Frauenkirche|Frauenkirche]] in the background,}}<br />[[Nymphenburg Palace]], [[Englischer Garten]], [[BMW Welt]], [[Feldherrnhalle]] and [[Allianz Arena]]<br />}}
+|type                  = Stadt
+|image_coa             = Muenchen Kleines Stadtwappen.svg
+|image_flag            = Flag of Munich (striped).svg
+|coordinates           = {{coord|48|08|N|11|34|E|format=dms|display=inline,title}}
+|state                 = Bavaria
+|region                = Upper Bavaria
+|district              = urban
+|elevation             = 520
+|area                  = 310.71
+|population            = 100001<!-- for categorization as city, real value fetched via Gemeindeschlüssel -->
+|postal_code           = 80331–81929
+|area_code             = 089
+|licence               = M
+|divisions             = {{Collapsible list
+ |titlestyle=background:transparent;text-align:left;font-weight:normal;
+ |title='''[[Boroughs of Munich|25 boroughs]]'''
+|{{nowrap|[[Altstadt-Lehel]]}}
+|{{nowrap|[[Ludwigsvorstadt-Isarvorstadt]]}}
+|{{nowrap|[[Maxvorstadt]]}}
+|{{nowrap|[[Schwabing-West]]}}
+|{{nowrap|[[Au-Haidhausen]]}}
+|{{nowrap|[[Sendling]]}}
+|{{nowrap|[[Sendling-Westpark]]}}
+|{{nowrap|[[Schwanthalerhöhe]]}}
+|{{nowrap|[[Neuhausen-Nymphenburg]]}}
+|{{nowrap|[[Moosach (Munich)|Moosach]]}}
+|{{nowrap|[[Milbertshofen-Am Hart]]}}
+|{{nowrap|[[Schwabing-Freimann]]}}
+|{{nowrap|[[Bogenhausen]]}}
+|{{nowrap|[[Berg am Laim]]}}
+|{{nowrap|[[Trudering-Riem]]}}
+|{{nowrap|[[Ramersdorf-Perlach]]}}
+|{{nowrap|[[Obergiesing]]}}
+|{{nowrap|[[Untergiesing-Harlaching]]}}
+|{{nowrap|[[Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln]]}}
+|{{nowrap|[[Hadern]]}}
+|{{nowrap|[[Pasing-Obermenzing]]}}
+|{{nowrap|[[Aubing-Lochhausen-Langwied]]}}
+|{{nowrap|[[Allach-Untermenzing]]}}
+|{{nowrap|[[Feldmoching-Hasenbergl]]}}
+|{{nowrap|[[Laim]]}}
+}}
+|website               = [http://www.muenchen.de/ www.muenchen.de]
+|mayor                 = [[Dieter Reiter]]
+|party                 = SPD
+|ruling_party1         = Green
+|ruling_party2         = SPD
+|year_of_first_mention = 1158
+}}

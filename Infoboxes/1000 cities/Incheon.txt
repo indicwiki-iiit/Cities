@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->| name                            = {{raise|0.1em|Incheon}}
+| official_name                   = Incheon Metropolitan City<br/>{{lower|0.1em|{{nobold|{{lang|ko-Hang|인천광역시}}}}}}
+| native_name                     = {{lower|0.1em|{{lang|ko-Hang|인천시}}}}
+| settlement_type                 = [[Special cities of South Korea|Metropolitan City]]
+| translit_lang1                  = Korean name
+| translit_lang1_type             = [[Hangul]]
+| translit_lang1_info             = {{lang|ko-Hang|{{linktext|인|천|광|역|시}}}}
+| translit_lang1_type1            = [[Hanja]]
+| translit_lang1_info1            = {{lang|ko-Hant|{{linktext|仁|川|廣|域|市}}}}
+| translit_lang1_type2            = {{nowrap|[[Revised&nbsp;Romanization]]}}
+| translit_lang1_info2            = {{nowrap|Incheon Gwang-yeoksi}}
+| translit_lang1_type3            = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info3            = {{nowrap|Inch'ŏn Kwang'yŏkshi}}
+| image_skyline                   = {{Photomontage
+| photo1a = Seoul incheon airport terminal 2.jpg{{!}}Incheon International Airport
+| photo1b = 인천도호부청사 아문.jpg{{!}}Nam-gu
+| photo2b = Incheon Soccer Stadium 2.JPG{{!}}Incheon Soccer Stadium
+| photo2a = Incheon-port.jpg{{!}}Incheon Port
+| size = 270
+| position = center
+| spacing = 2
+| color = transparent
+| border = 0
+| foot_montage = Clockwise from top: [[Incheon International Airport]], [[Nam District, Incheon|Nam District]], [[Incheon Football Stadium]], Incheon Port
+}}
+| image_flag                      = Flag of Incheon.svg
+| image_blank_emblem              = Seal of Incheon.svg
+| blank_emblem_type               = Logo
+| blank_emblem_size               = 
+| nickname                        = 
+| motto                           = 
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = #South Korea#Asia
+| pushpin_label_position          = right
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|37|29|N|126|38|E|region:KR-28|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = {{ROK}}
+| subdivision_type1               = [[Regions of Korea|Region]]
+| subdivision_name1               = [[Seoul Capital Area|Seoul Capital]]
+
+ <!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| established_title               = Founded
+| established_date                = 18 BC as Michuhol
+                          1995 AD as Incheon Metropolitan City
+| founder                         = 
+| named_for                       = <!-- Area    --------------------->
+| seat_type                       = 
+| seat                            = 
+| parts_type                      = [[#Administrative divisions|Subdivisions]]
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = '''8 districts ("gu")'''
+| government_footnotes            = 
+| government_type                 = [[Mayor–council government|Mayor-Council]]
+| leader_title                    = [[Mayor of Incheon|Mayor]]
+| leader_name                     = [[Park Nam-chun]] {{small|([[Democratic Party of Korea|Democratic]])}}<!--add   (no-break space) to leader names to disable automatic links-->
+| leader_title1                   = Body
+| leader_name1                    = [[Incheon Metropolitan Council]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = 
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_total_km2                  = 1062.63 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_total_sq_mi                = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_total                = 2,954,955
+| population_as_of                = February 2020
+| population_footnotes            = <ref>{{cite web|url=http://www.mois.go.kr/frt/sub/a05/totStat/screen.do |script-title=ko:연령별 인구현황 |trans-title=Population by Age |work=mois.go.kr}}</ref>
+| population_density_km2          = auto <!--For automatic calculation, any density field may contain: auto -->
+| population_density_sq_mi        = <!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| website                         ={{url|1=https://www.incheon.go.kr/en/index|2=Official website (English)}}
+| footnotes                       = <!-- images and maps  ----------->
+| p2                              = {{nowrap|[[Bupyeong-gu, Incheon|Bupyeong-gu]] ({{Korean|labels=no|부평구|富平區}})}}
+| p3                              = {{nowrap|[[Gyeyang-gu, Incheon|Gyeyang-gu]] ({{Korean|labels=no|계양구|桂陽區}})}}
+| p4                              = {{nowrap|[[Jung-gu, Incheon|Jung-gu]] ({{Korean|labels=no|중구|中區}})}}
+| p5                              = {{nowrap|[[Nam-gu, Incheon|Michuhol-gu]] ({{Korean|labels=no|미추홀구|彌鄒忽區}})}}
+| p6                              = {{nowrap|[[Namdong-gu, Incheon|Namdong-gu]] ({{Korean|labels=no|남동구|南洞區}})}}
+| p7                              = {{nowrap|[[Seo-gu, Incheon|Seo-gu]] ({{Korean|labels=no|서구|西區}})}}
+| p8                              = {{nowrap|[[Yeonsu-gu, Incheon|Yeonsu-gu]] ({{Korean|labels=no|연수구|延壽區}})}}
+| p9                              = &nbsp;
+| p10                             = '''2 counties ("gun")'''
+| p11                             = {{nowrap|[[Ganghwa County|Ganghwa-gun]] ({{Korean|labels=no|강화군|江華郡}})}}
+| p12                             = {{nowrap|[[Ongjin County, Incheon|Ongjin-gun]] ({{Korean|labels=no|옹진군|甕津郡}})}}
+<!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| elevation_max_m                 = 
+| elevation_max_ft                = 
+| timezone                        = Korea Standard Time
+| utc_offset                      = +9
+| blank_name                      = [[Dialects of Korean|Dialect]]
+| blank_info                      = [[Gyeonggi dialect|Gyeonggi]]
+| blank1_name                     = Flower
+| blank1_info                     = [[Rose]]
+| blank2_name                     = Tree
+| blank2_info                     = [[Liriodendron|Tulip tree]]
+| blank3_name                     = Bird
+| blank3_info                     = [[Crane (bird)|Crane]]
+| blank4_name                     = 
+| blank4_info                     = 
+| blank5_name                     = 
+| blank5_info                     = 
+}}

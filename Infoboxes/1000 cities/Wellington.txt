@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!-- Basic info --------------->| name                            = Wellington
+| native_name                     = {{native name|mi|Te Whanganui-a-Tara|nbsp=omit}}
+| native_name_lang                = Māori
+| settlement_type                 = [[Capital of New Zealand|Capital city]]
+| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 300
+| perrow                   = 1/2/2
+| image1                   = Lambton Harbour, Wellington (cropped).jpg
+| alt1                     = Lambton Harbour
+| image2                   = Wellington NZ-cablecar-topview.jpg
+| alt2                     = Cable car
+| image3                   = Bowen House Beehive Parliament (cropped).JPG
+| alt3                     = Bowen House
+| image4                   = Bucket Fountain, 2020.png
+| alt4                     = The Bucket Fountain
+| image5                   = National Library of New Zealand Wellington 2015 (cropped).jpg
+| alt5                     = National Library of New Zealand
+}}
+| imagesize                       = 300px
+| image_caption                   = Clockwise from top: Waterfront along [[Wellington Harbour]], [[New Zealand Parliament Buildings|Parliament Buildings]], [[National Library of New Zealand|National Library]], [[Cuba Street, Wellington|Cuba Street]] and its [[Bucket Fountain]], [[Wellington Cable Car]]
+| image_flag                      = Flag_of_Wellington_City,_New_Zealand.svg
+| image_shield                    = Wellington COA.gif
+| motto                           = ''Suprema a Situ''<ref>{{cite web |last1=Thorns |first1=David |last2=Schrader |first2=Ben |title=City history and people – Towns to cities |url= https://teara.govt.nz/en/interactive/23508/civic-coats-of-arms |publisher=[[Te Ara - the Encyclopedia of New Zealand]] |access-date=15 February 2021 |date=11 March 2010}}</ref><br/>[[English language|English]]: ''Supreme by position''
+| nickname                        = Windy Wellington, [[Wellywood]]
+| pushpin_map                     = New Zealand#Oceania#Pacific Ocean
+| pushpin_map_caption             = Location in [[New Zealand]] & [[Pacific Ocean]]
+| pushpin_relief                  = yes
+<!-- Location ------------------>| coordinates                     = {{Coord|41|17|20|S|174|46|38|E|type:city(370000)_region:NZ-WGN|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = [[New Zealand]]
+| subdivision_type1               = [[Regions of New Zealand|Region]]
+| subdivision_type2               = [[Territorial authorities of New Zealand|Territorial authorities]]
+| subdivision_name1               = [[Wellington Region|Wellington]]
+| subdivision_name2               = [[Wellington City]]<br />[[Lower Hutt|Lower Hutt City]]<br />[[Upper Hutt|Upper Hutt City]]<br />[[Porirua|Porirua City]]
+<!-- Politics ----------------->| established_title1              = Settled by Europeans
+| established_date1               = 1839
+<!-- Area --------------------->| founder                         = 
+| named_for                       = [[Arthur Wellesley, 1st Duke of Wellington|A. Wellesley, 1st Duke of Wellington]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor of Wellington|Mayor]]
+| leader_name                     = [[Andy Foster (politician)|Andy Foster]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| area_footnotes                  = <ref>{{Cite web|title=Urban Rural 2020 (generalised) – GIS {{!}} {{!}} GIS Map Data Datafinder Geospatial Statistics {{!}} Stats NZ Geographic Data Service|url=https://datafinder.stats.govt.nz/layer/104269-urban-rural-2020-generalised/|access-date=2020-10-25|website=datafinder.stats.govt.nz}}</ref>
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_urban_km2                  = 303.67
+| area_metro_km2                  = 1388.83
+<!-- Elevation -------------------------->| elevation_footnotes             = <!--for references: use tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 495
+| elevation_min_m                 = 0
+| elevation_min_ft                = <!-- Population ----------------------->
+| population_as_of                = {{NZ population data 2018|||y}}
+| population_footnotes            = <ref name="NZ_population_data_2018"/>
+| population_urban                = {{NZ population data 2018||y}}
+| population_density_urban_km2    = auto
+| population_metro                = {{Decimals|{{formatnum:{{NZ population data 2018|Wellington city|y}}|R}}+{{formatnum:{{NZ population data 2018|Porirua city|y}}|R}}+{{formatnum:{{NZ population data 2018|Lower Hutt city|y}}|R}}+{{formatnum:{{NZ population data 2018|Upper Hutt city|y}}|R}}|0}}
+| population_density_metro_km2    = auto
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Wellingtonian
+<!-- General information --------------->| population_note                 = 
+| postal_code_type                = Postcode(s)
+| postal_code                     = 5010, 5011, 5012, 5013, 5014, 5016, 5018, 5019, 5022, 5024, 5026, 5028, 6011, 6012, 6021, 6022, 6023, 6035, 6037
+| area_code                       = 04
+| website                         = [http://www.wellingtonnz.com/ www.wellingtonnz.com]
+| footnotes                       = 
+| timezone                        = [[Time in New Zealand|NZST]]
+| utc_offset                      = +12
+| timezone_DST                    = NZDT
+| utc_offset_DST                  = +13
+| blank_name                      = Local [[iwi]]
+| blank_info                      = Ngāti Toa Rangatira, [[Ngāti Raukawa]], [[Te Āti Awa]]
+| official_name                   = 
+| leader_title1                   = MPs
+| leader_name1                    = {{Plainlist|
+* [[Ginny Andersen]] ([[New Zealand Labour Party|Labour]])
+* [[Paul Eagle]] ([[New Zealand Labour Party|Labour]])
+* [[Kris Faafoi]] ([[New Zealand Labour Party|Labour]])
+* [[Chris Hipkins]] ([[New Zealand Labour Party|Labour]])
+* [[Greg O'Connor (politician)|Greg O'Connor]] ([[New Zealand Labour Party|Labour]])
+* [[Grant Robertson]] ([[New Zealand Labour Party|Labour]])
+* [[Adrian Rurawhe]] ([[New Zealand Labour Party|Labour]])
+* [[Rino Tirikatene]] ([[New Zealand Labour Party|Labour]])
+* [[Meka Whaitiri]] ([[New Zealand Labour Party|Labour]])
+}}
+| seat_type                       = [[New Zealand House of Representatives|NZ Parliament]]
+| seat                            = [[Hutt South]]<br/>[[Ikaroa-Rāwhiti]] ([[Māori electorates|Māori]])<br/>[[Mana (New Zealand electorate)|Mana]]<br/>[[Ōhāriu (New Zealand electorate)|Ōhāriu]]<br/>[[Remutaka (New Zealand electorate)|Remutaka]]<br/>[[Rongotai (New Zealand electorate)|Rongotai]]<br/>[[Te Tai Hauāuru]] ([[Māori electorates|Māori]])<br/>[[Te Tai Tonga]] ([[Māori electorates|Māori]])<br/>[[Wellington Central (New Zealand electorate)|Wellington Central]]
+<!-- Politics ----------------->}}

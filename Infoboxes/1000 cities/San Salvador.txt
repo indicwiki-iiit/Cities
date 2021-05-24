@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage-->| name                            = San Salvador
+| official_name                   = San Salvador City
+| native_name                     = <!--San Salvador-->
+| settlement_type                 = National capital
+| image_skyline                   = SanSalvador-Photomontage.png
+| imagesize                       = 300px
+| image_caption                   = Images, from top, left to right: Plaza Morazán, Plaza Libertad, Plaza Gerardo Barrios, Torre Roble Metrocentro, [[National Palace (El Salvador)]], [[Estadio Cuscatlan]]
+| image_flag                      = Bandera de San Salvador (2021).svg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = Escudo de San Salvador (2021).svg
+| motto                           = Nuestra Capital – 2011 Ibero-American Capital of Culture
+<!--Location-->
+| image_map                       = {{Maplink|frame=yes|plain=yes|frame-width=270|frame-height=300|frame-align=center|stroke-width=1.5|zoom=11|frame-lat=13.6979|frame-long=-89.2184 |type=shape-inverse|stroke-color=#382212|id=Q3110|title=San Salvador}}
+| mapsize                         = 275px
+| map_caption                     = Interactive map outlining San Salvador
+| pushpin_map                     = El Salvador#Central America#North America
+| pushpin_map_caption             = Location within El Salvador##Location within Central America##Location within North America
+| pushpin_relief                  = 1
+| pushpin_label                   = San Salvador
+| pushpin_label_position          = left
+| coordinates                     = {{coord|13|41|56|N|89|11|29|W|type:city_region:SV-SS|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = [[El Salvador]]
+| subdivision_type1               = [[Departments of El Salvador|Department]]
+| subdivision_type2               = Metro
+| subdivision_name1               = [[San Salvador Department|San Salvador]]
+| subdivision_name2               = [[Metropolitan Area of San Salvador|San Salvador Metropolitan Area]]
+<!--Establishment-->| established_title               = Founded
+| established_date                = 1525
+| established_title2              = Founded by
+| established_date2               = Pedro de Alvarado
+| established_title3              = 
+| established_date3               = 
+| named_for                       = [[Transfiguration of Jesus|Divine Savior]] placed on the [[Monumento al Divino Salvador del Mundo|Monument]]
+<!--Politics-->| government_type                 = Democratic Republic
+| leader_title                    = Mayor
+| leader_name                     = [[Mario Durán]]
+| leader_title1                   = 
+| leader_name1                    = 
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = <!--Area and Elevation-->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = 72.25
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_metro_km2                  = 651.31
+| elevation_m                     = 658
+| elevation_ft                    = 2159
+<!--Population-->| population_total                = 2,406,709
+| population_as_of                = 2018
+| population_est                  = 570,459
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name=UNData>[http://data.un.org/en/iso/sv.html United Nations Data: El Salvador→ Capital city Population]</ref>
+| pop_est_footnotes               = <ref name=SanSalvador>[http://www.citypopulation.de/world/Agglomerations.html Major Agglomerations Of The World], City Population. Accessed Jul 12, 2019.</ref>
+| population_density_km2          = 72.25
+| population_urban                = 
+| population_metro                = 2,177,432<ref>{{cite web|title=Global BR Data|url=https://brtdata.org/location/latin_america/el_salvador/gran_san_salvador|publisher=BRT+ CoE|access-date=July 12, 2019}}</ref>
+| population_density_metro_km2    = 651.31
+| population_rank                 = [[List of cities in El Salvador|1st, El Salvador]]
+| population_blank1_title         = 
+| population_blank1               = 
+| population_note                 = <!--General Information-->
+| postal_code_type                = [[ISO 3166-2:SV|SV-SS]]
+| postal_code                     = CP 1101
+| area_code                       = + 503
+| blank_name_sec2                 = '''[[Human Development Index|HDI]]''' (2018)
+| blank_info_sec2                 = 0.704  <span style>very high<ref>{{cite web|url=https://globaldatalab.org/shdi/shdi/|title=|website=GlobalDataLab}}</ref>
+| footnotes                       = 
+| population_demonym              = Sansalvadoran<br>Sansalvadoreño/a<br>Capitalino/a
+| timezone                        = [[Central Time Zone (North America)|Central Standard Time]]
+| utc_offset                      = −6
+| blank_name                      = '''[[Human Development Index|HDI]]''' (2018)
+| blank_info                      = 0.965 – <span style="color:#050">very high</span><ref>{{cite web |year= 2009 |url= https://www.scribd.com/doc/89165551/almanaque-262-50405kb |access-date=7 September 2010 | language=es|title=Data}}</ref>
+| website                         = [http://www.sansalvador.gob.sv sansalvador.gob.sv]
+}}

@@ -1,0 +1,26 @@
+{{Infobox settlement
+| name                            = Nouakchott
+| native_name                     = <small>{{ubl|{{lang-ar|label=<small>[[Arabic]]</small>|نواكشوط}}|{{lang-ber|label=[[Berber languages|<small>Berber</small>]]|italic=yes|Nwakcoṭ}}}}</small>
+| image_skyline                   = Nouakchott.jpg
+| image_caption                   = City view of Nouakchott
+| pushpin_map                     = Mauritania#Arab world#Africa
+| pushpin_relief                  = 1
+| mapsize                         = 
+| map_caption                     = Map of Mauritania showing Nouakchott
+| subdivision_type                = Country
+| subdivision_name                = [[Mauritania]]
+| subdivision_type1               = [[Capital district]]
+| subdivision_name1               = Nouakchott
+| leader_title                    = Council president
+| leader_name                     = [[Fatimatou Abdel Malick]]
+| population_as_of                = 2019 census
+| population_total                = 1,195,600
+| area_total_km2                  = 1000
+| population_density_km2          = auto
+| area_total_sq_mi                = 400
+| coordinates                     = {{coord|18.08581|-15.9785|format=dms|region:MR_type:city |display=inline,title}}
+| coordinates_footnotes           = <ref>[{{geonameslink|gnid=2377450|name=nouakchott}} Nouakchott, Mauritania] in [{{geonamesabout}} Geonames.org (cc-by)]</ref>
+| elevation_m                     = 7
+| elevation_ft                    = 
+| website                         = {{official URL}}
+}}

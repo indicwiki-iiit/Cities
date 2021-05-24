@@ -1,0 +1,96 @@
+{{Infobox settlement
+|name                     = Hempstead, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = {{multiple image
+|total_width=300px
+|perrow=1/2/1
+|border=infobox
+| image1                          = Atlantic Beach and Long Beach Aeriel View.JPG
+| image2                          = Village of Hempstead.jpg
+| image3                          = Uniondale.JPG
+| image4                          = Wantaghpark.jpg
+}}
+| image_caption                   = [[Atlantic Beach, New York|Atlantic Beach]] view, [[Hempstead (village)|downtown Hempstead]], [[Uniondale, NY|Uniondale]] skyline, [[Wantagh Park]]
+|imagesize                = 250px
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Nassau County New York incorporated and unincorporated areas Hempstead highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location of Hempstead in [[Nassau County, New York|Nassau County]] (right), and location of Nassau County in the State of New York (left)
+|pushpin_map              = New York#USA
+|pushpin_label            = Hempstead
+|pushpin_map_caption      = Location in the State of New York##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|coordinates              = {{coord|40|42|17|N|73|37|02|W|region:US-NY|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Nassau County, New York|Nassau]]
+|government_footnotes     = 
+|government_type          = [[Town council]]
+|leader_title             = [[Town supervisor]]
+|leader_name              =  Don Clavin  (R)
+| leader_title1           = [[Town council]]
+| leader_name1            = {{Collapsible list
+ |title       = Members
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • D1: Dorothy L. Goosby ([[United States Democratic Party|D]])
+ |2           = • D2: Edward A. Ambrosino ([[United States Republican Party|R]])
+ |3           = • D3: Bruce A. Blakeman ([[United States Republican Party|R]])
+ |4           = • D4: Anthony P. D'Esposito ([[United States Republican Party|R]])
+ |5           = • D5: Erin King Sweeney ([[United States Republican Party|R]])
+ |6           = • D6: Dennis Dunne Sr. ([[United States Republican Party|R]])
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 496.68
+|area_land_km2            = 307.39
+|area_water_km2           = 189.29
+|area_total_sq_mi         = 191.77
+|area_land_sq_mi          = 118.68
+|area_water_sq_mi         = 73.08
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR8">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2011-05-14|title=U.S. Census website}}</ref>
+|population_total         = 759757
+|population_density_km2   = 2506.16
+|population_density_sq_mi = 6490.91
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 
+|area_code                = [[Area code 516|516]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-059-34000
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 
+|website                  = {{URL|www.hempsteadny.gov}}
+|footnotes                = 
+|pop_est_as_of = 2017
+|pop_est_footnotes = <ref name="USCensusEst2017"/>
+|population_est = 772296
+|unit_pref = Imperial
+}}

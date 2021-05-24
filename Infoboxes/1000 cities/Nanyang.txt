@@ -1,0 +1,244 @@
+{{Infobox settlement
+| name                    = {{raise|0.2em|Nanyang}}
+| official_name           =
+| native_name             = {{lower|0.1em|南阳市}}
+| native_name_lang        = zh-Hans
+| other_name              =
+| settlement_type         = [[Prefecture-level city]] <!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto -->
+| image_skyline           = Nanyang1.png
+| imagesize               =
+| image_alt               =
+| image_caption           =
+| flag_alt                =
+| flag_border             =
+| flag_link               =
+| image_seal              =
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| seal_type               =
+| image_shield            =
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      =
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       =
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| etymology               = 
+| nickname                = Wan ({{nobold|{{lang|zh|{{linktext|宛}}}}}})
+| nicknames               =
+| motto                   =
+| mottoes                 =
+| anthem                  =
+
+<!-- maps and coordinates -->
+| image_map               = Nanyang_City%2C_Henan.jpg
+| mapsize                 =
+| map_alt                 =
+| map_caption             = Satellite view of Nanyang
+| image_map1              = ChinaHenanNanyang.png
+| mapsize1                =
+| map_alt1                =
+| map_caption1            = Nanyang City in Henan
+| pushpin_map             = China Northern Plain#China
+| pushpin_mapsize         = 250
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location on the [[North China Plain]]
+| pushpin_map_caption_notsmall =
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_outside         =
+| pushpin_relief          =
+| pushpin_image           =
+| pushpin_overlay         =
+| coordinates             = {{coord|32.9902|N|112.5285|E|type:adm2nd_region:CN-41_source:Gaode|format=dms|display=it}}
+| coor_pinpoint           = Nanyang municipal government
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+| grid_name               = <!-- name of a regional grid system -->
+| grid_position           = <!-- position on the regional grid system -->
+
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = [[China|People's Republic of China]] <!-- the name of the country -->
+| subdivision_type1       = [[Province (China)|Province]]
+| subdivision_name1       = [[Henan]]
+| subdivision_type2       = [[County-level division]]s
+| subdivision_name2       = 2 districts<br>10 counties <!-- etc., subdivision_type6 / subdivision_name6 -->
+
+<!-- established -->
+| established_title       = <!-- Founded -->
+| established_date        = <!-- requires established_title= -->
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       = <!-- requires established_title1= -->
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       = <!-- requires established_title2= -->
+| established_title3      =
+| established_date3       = <!-- requires established_title3= -->
+| established_title4      =
+| established_date4       = <!-- requires established_title4= -->
+| established_title5      =
+| established_date5       = <!-- requires established_title5= -->
+| established_title6      =
+| established_date6       = <!-- requires established_title6= -->
+| established_title7      =
+| established_date7       = <!-- requires established_title7= -->
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts -->
+| seat_type               = Municipal seat
+| seat                    = [[Wolong District]]
+| seat1_type              = <!-- defaults to: Former seat -->
+| seat1                   =
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      =
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         =
+| governing_body          =
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = [[Huo Haosheng]] <!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_footnotes          = <ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref><!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| dunam_link              = <!-- If dunams are used, this specifies which dunam to link. -->
+| area_total_km2          = 26591 <!-- ALL fields with measurements have automatic unit conversion -->
+| area_total_ha           = 
+| area_land_km2           =
+| area_land_ha            =
+| area_water_km2          =
+| area_water_ha           =
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          = 1988
+| area_urban_ha           =
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          = 24521
+| area_rural_ha           =
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          = 1988
+| area_metro_ha           =
+| area_rank               =
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_ha          =
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_ha          =
+| area_note               =
+<!-- dimensions -->
+| dimensions_footnotes    = <!-- for references: use <ref> tags -->
+| length_km               = 263
+| length_mi               =
+| width_km                = 168
+| width_mi                =
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 131
+| elevation_ft            =
+| elevation_point         = <!-- for denoting the measurement point -->
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         = 2212.5
+| elevation_max_ft        =
+| elevation_max_point     = <!-- for denoting the measurement point -->
+| elevation_max_rank      =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         = 72.2
+| elevation_min_ft        =
+| elevation_min_point     = <!-- for denoting the measurement point -->
+| elevation_min_rank      =
+<!-- population -->
+| population_as_of        = 2019
+| population_footnotes    =  <ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref></ref> <!-- for references: use <ref> tags -->
+| population_total        = 10031600
+| pop_est_as_of           =
+| pop_est_footnotes       =
+| population_est          =
+| population_rank         =
+| population_density_km2  = auto <!-- for automatic calculation of any density field, use: auto -->
+| population_urban_footnotes     =
+| population_urban               = 1902000
+| population_density_urban_km2   = auto
+| population_rural_footnotes     =
+| population_rural               = 8111600
+| population_density_rural_km2   = auto
+| population_metro_footnotes     =
+| population_metro               = 1902000
+| population_density_metro_km2   = auto
+| population_density             = auto
+| population_density_rank        =
+| population_blank1_title        =
+| population_blank1              =
+| population_density_blank1_km2  =
+| population_blank2_title        =
+| population_blank2              =
+| population_density_blank2_km2  =
+| population_demonym      = <!-- demonym, e.g. Liverpudlian for someone from Liverpool -->
+| population_demonyms     =
+| population_note         =
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title7 / demographics1_info7 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title10 / demographics2_info10 -->
+<!-- time zone(s) -->
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = +8
+<!-- postal codes, area code -->
+| postal_code_type        = [[Postal code of China|Postal code]] <!-- enter ZIP Code, Postcode, Post code, Postal code... -->
+| postal_code             = 473000
+| postal2_code_type       = <!-- enter ZIP Code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 0377
+| area_codes              =
+| geocode                 =
+| iso_code                = [[ISO 3166-2:CN|CN-HA-13]]
+| registration_plate_type =
+| registration_plate      =
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Major [[Nationalities of China|Nationalities]]
+| blank_info_sec1         = [[Han Chinese|Han]]
+| blank1_name_sec1        =
+| blank1_info_sec1        =
+| blank2_name_sec1        =
+| blank2_info_sec1        = <!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = [[License Plate (China)|License plate prefixes]]
+| blank_info_sec2         = {{lang|zh-cn|{{linktext|豫}}R}}
+| blank1_name_sec2        = [[Maidenhead locator]] or [[QTH]] grid square
+| blank1_info_sec2        = OM62GX - OM63GA
+| blank2_name_sec2        = [[City Flower]]s
+| blank2_info_sec2        = [[Chrysanthemum]]&[[Rosa chinensis|China Rose]] <!-- etc., up to blank7_name_sec2 / blank7_info_sec2 -->
+<!-- website, footnotes -->
+| website                 = {{URL|http://www.nanyang.gov.cn}} <!-- {{URL|example.com}} -->
+| footnotes               =
+}}

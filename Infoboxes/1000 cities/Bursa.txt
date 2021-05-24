@@ -1,0 +1,51 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+| name                            = Bursa
+| settlement_type                 = [[Cities in Turkey|City]]
+| image_skyline                   = City of Bursa11.jpg
+| imagesize                       = 275
+| image_caption                   = '''Clockwise from top left:''' Grand Mosque, Maksem, Irgandı Bridge, Kozahan
+| image_blank_emblem              = Bursa city emblem.png
+| blank_emblem_type               = Emblem of Bursa Metropolitan Municipality
+| pushpin_map                     = #Turkey Marmara #Turkey
+| pushpin_map_alt                 = 
+| pushpin_map_caption             = Location of Bursa within the [[Marmara Region|Region of Marmara]]##Location of Bursa within Turkey
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|40|11|N|29|03|E|region:TR-16|display=it}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{TUR}}
+| subdivision_type1               = [[Regions of Turkey|Region]]
+| subdivision_type2               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Marmara Region|Marmara]]
+| subdivision_name2               = [[Bursa province|Bursa]]
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = [[Mayor#Turkey|Mayor]]
+| leader_name                     = [[Alinur Aktaş]]
+| area_blank1_title               = City
+| area_blank1_km2                 = 1036
+| elevation_m                     = 100
+| population_urban                = 3,101,833
+| population_as_of                = 2020
+| population_footnotes            = <ref name="citypopulation.de">{{cite web|title= Turkey: Major cities and provinces|url= http://citypopulation.de/Turkey-C20.html |publisher= citypopulation.de|access-date= 2020-12-13}}</ref>
+| population_density_km2          = 293.2
+| postal_code_type                = [[Postal code]]
+| postal_code                     = 16000
+| area_code                       = (+90) 224
+| website                         = [http://www.bursa.bel.tr www.bursa.bel.tr]
+| footnotes                       = {{designation list | embed=yes
+  | designation1 = WHS
+  | designation1_offname = ''Bursa and [[Cumalıkızık]]: the Birth of the [[Ottoman Empire]]''
+  | designation1_date = 2014 <small>([[World Heritage Committee#Sessions|38th session]])</small>
+  | designation1_type =  Cultural
+  | designation1_criteria = i, ii, iv, vi
+  | designation1_number = [https://whc.unesco.org/en/list/1452 1452]
+  | designation1_free1name = State Party
+  | designation1_free1value = {{TUR}}
+  | designation1_free2name = Region
+  | designation1_free2value = [[Lists of World Heritage Sites in Europe|Europe]]
+  }}
+| timezone                        = [[Time in Turkey|TRT]]
+| utc_offset                      = +3
+| blank_info                      = 16
+| blank_name                      = [[Turkish car number plates|Licence&nbsp;plate]]
+| official_name                   = 
+}}

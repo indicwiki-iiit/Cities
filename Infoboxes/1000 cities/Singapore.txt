@@ -1,0 +1,94 @@
+{{Infobox country
+| conventional_long_name  = Republic of Singapore
+| common_name             = Singapore
+| name                    = {{collapsible list
+| titlestyle = background:transparent; text-align:center; line-height:normal; font-size:84%;
+| title = {{resize|1.0em|3 other official names}}|<small>{{center|{{ubl|{{native name|ms|Republik Singapura}}|{{native name|zh-SG|新加坡共和国}}|{{native name|ta|சிங்கப்பூர் குடியரசு}}}}}}}}</small>
+| image_flag              = Flag of Singapore.svg
+| image_coat              = State Crest of Singapore.png
+| other_symbol            =
+| national_motto          = {{native phrase|ms|Majulah Singapura|italics=on|nolink=on}}<br />(English: "Onward, Singapore")
+| national_anthem         = ''[[Majulah Singapura]]''<br />(English: "Onward, Singapore")<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Majulah Singapura.ogg]]}}</div>
+| image_map               = Singapore on the globe (Southeast Asia centered) zoom.svg
+| map_width               = 275px
+| capital                 = '''Singapore'''{{efn|Singapore has no official distinct capital city as it is a [[city-state]].<ref name="City-state">{{cite encyclopedia |title=Singapore |quote= The city, once a distinct entity, so came to dominate the island that the Republic of Singapore essentially became a city-state.  |url= https://www.britannica.com/place/Singapore-capital |access-date=29 August 2019 |encyclopedia= Encyclopaedia Britannica }}</ref>}}
+| coordinates             = {{Coord|1|17|N|103|50|E|type:city|display=inline,title}}
+| largest_settlement      =
+| largest_settlement_type =
+| official_languages      = {{hlist|[[Singaporean English|English]]
+|[[Malay Language|Malay]]
+|[[Singaporean Mandarin|Mandarin]]
+|[[Tamil language|Tamil]]}}
+| languages_type          = [[National language]]
+| languages               = [[Malay language|Malay]]
+| ethnic_groups           = {{unbulleted list |76% [[Chinese Singaporeans|Chinese]]|15% [[Malay Singaporeans|Malay]]|7.5% [[Indian Singaporeans|Indian]]|1.5% Other}}
+| ethnic_groups_ref       = <ref>{{Cite web |url=https://www.gov.sg/article/what-are-the-racial-proportions-among-singapore-citizens |title=Population in Brief 2019 |access-date=9 August 2020 |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630150752/https://www.gov.sg/article/what-are-the-racial-proportions-among-singapore-citizens |url-status=dead }}</ref>
+| ethnic_groups_year = 2019
+| religion_year = 2015
+| religion_ref            = <ref name="Singapore Census 2015" />
+| religion                = {{unbulleted list |33.2% [[Buddhism in Singapore|Buddhism]] |18.8% [[Christianity in Singapore|Christianity]] |18.5% [[Irreligion in Singapore|No religion]] |14.0% [[Islam in Singapore|Islam]] |10.0% [[Taoism in Singapore|Taoism]] and<br />[[Chinese folk religion|folk religion]] |5.0% [[Hinduism in Singapore|Hinduism]] |0.6% [[Religion in Singapore|Other]] }}
+| demonym                 = [[Singaporeans|Singaporean]]
+| government_type         = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Parliamentary system|parliamentary]] [[constitutional republic]]
+| leader_title1           = [[President of Singapore|President]]
+| leader_name1            = [[Halimah Yacob]]
+| leader_title2           = [[Prime Minister of Singapore|Prime Minister]]
+| leader_name2            = [[Lee Hsien Loong]]
+| leader_title3           = [[Chief Justice of Singapore|Chief Justice]]
+| leader_name3            = [[Sundaresh Menon]]
+| leader_title4           = [[Speaker of the Parliament of Singapore|Parliament Speaker]]
+| leader_name4            = [[Tan Chuan-Jin]]
+| legislature             = [[Parliament of Singapore|Parliament]]
+| upper_house             =
+| lower_house             =
+| sovereignty_type        = Independence
+| sovereignty_note        = from the [[United Kingdom]] and [[Malaysia]]
+| established_event1      = {{nowrap|[[Self-governance of Singapore|Self-governance]]}}
+| established_date1       = 3 June 1959
+| established_event2      = {{nowrap|[[Malaysia Agreement]]}}
+| established_date2       = 16 September 1963
+| established_event3      = [[Proclamation of Singapore]]
+| established_date3       = 9 August 1965
+| established_event4      = [[ASEAN Declaration]]
+| established_date4       = 8 August 1967
+| area_km2                = 728.3
+| area_footnote           = <ref name="total area of Singapore">{{cite web |title=Environment |website=Base |url = https://www.singstat.gov.sg/find-data/search-by-theme/society/environment/latest-data |access-date=21 February 2021 }}</ref>
+| area_rank = 176th
+| population_estimate     = {{IncreaseNeutral}} 5,703,600{{efn|Of which 3,471,900 are citizens.<ref name="Population and Population Structure">{{cite web |title = Population and Population Structure |website = Singstat |publisher = Department of Statistics Singapore |url = https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/latest-data |access-date=5 August 2018 }}</ref>}}
+| population_estimate_year = 2019
+| population_estimate_rank = 115th
+| population_density_km2  = 7,804
+| population_density_sq_mi = 20,212
+| population_density_rank = 2nd
+| GDP_PPP                 = {{increase}} $600.063&nbsp;billion<ref name="IMFWEOSG">{{cite web |url = https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=72&pr.y=7&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=576&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title = World Economic Outlook Database, October 2019 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=21 June 2020 }}</ref>
+| GDP_PPP_year = 2021
+| GDP_PPP_rank = 38th
+| GDP_PPP_per_capita      = {{increase}} $102,742<ref name=IMFWEOSG />
+| GDP_PPP_per_capita_rank = 2nd
+| GDP_nominal             = {{increase}} $374.394&nbsp;billion<ref name=IMFWEOSG />
+| GDP_nominal_year = 2021
+| GDP_nominal_rank = 38st
+| GDP_nominal_per_capita  = {{increase}} $64,103<ref name=IMFWEOSG />
+| GDP_nominal_per_capita_rank = 8th
+| Gini                    = 45.9 <!--number only-->
+| Gini_year = 2017
+| Gini_change             = steady <!--increase/decrease/steady-->
+| Gini_ref                = <ref name="CIA">{{cite web|title=DISTRIBUTION OF FAMILY INCOME – GINI INDEX|publisher=[[Central Intelligence Agency]]|url=https://www.cia.gov/library/publications/the-world-factbook/fields/223.html#SN|access-date=25 January 2019}}</ref>
+| Gini_rank =
+| HDI                     = 0.938 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change              = increase <!--increase/decrease/steady-->
+| HDI_ref                 = <ref>{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 11th
+| currency                = [[Singapore dollar]] (S$)
+| currency_code           = SGD
+| time_zone               = [[Singapore Standard Time]]
+| utc_offset              = +8
+| antipodes               =
+| date_format             = {{abbr|dd|day}}/{{abbr|mm|month}}/{{abbr|yyyy|year}}
+| drives_on               = [[Right- and left-hand traffic|left]]
+| calling_code            = [[+65]]
+| iso3166code             = SG
+| cctld                   = [[.sg]]
+| today                   =
+| electricity             = 230 V–50 Hz
+}}

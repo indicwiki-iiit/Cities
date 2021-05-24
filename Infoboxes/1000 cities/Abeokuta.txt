@@ -1,0 +1,27 @@
+{{Infobox settlement
+<!---See [[Template:Infobox Settlement]] for all fields available--->
+|official_name          = Abeokuta
+|image_skyline          = File:A view of Gbagura mosque in Abeokuta, Ogun State-Nigeria.jpg
+|imagesize              = 250
+|settlement_type        = [[City]]
+|image_caption          = Abeokuta from Olumo Rock
+|pushpin_map            = Nigeria
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Nigeria
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nigeria}}
+|subdivision_type1      = [[States of Nigeria|State]]
+|subdivision_name1      = [[Ogun State]]
+|established_title      = Founded
+|established_date       = 1830
+|population_as_of       = 2006<ref>{{cite web|url=http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |title=FEDERAL REPUBLIC OF NIGERIA : 2006 Population Census |access-date=25 July 2016 |url-status=dead |archive-url=https://web.archive.org/web/20120305101910/http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |archive-date=5 March 2012 }}</ref>
+|population_total       = 451,607
+|population_metro       = 1117000
+|area_total_km2         = 879
+|area_metro_km2         =
+|population_density_km2 = auto
+|coordinates            = {{coord|7|9|39|N|3|20|54|E|region:NG|display=inline,title}}
+|elevation_m            = 66
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+}}

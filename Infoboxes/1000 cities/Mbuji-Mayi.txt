@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Mbuji-Mayi
+| official_name           = ''Ville de Mbuji-Mayi''
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Provincial capital and city
+| image_skyline           = Kongo_C3.jpg
+| image_alt               = 
+| image_caption           = Mbuji-Mayi Airport
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               =
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Democratic Republic of the Congo 
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = 
+| pushpin_mapsize         =
+| pushpin_map_alt         = 
+| coordinates             = {{coord|06|09|S|23|36|E|region:CD_type:city|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = {{COD}}
+| subdivision_type1       = [[Provinces of the Democratic Republic of the Congo|Province]]
+| subdivision_name1       = [[Kasai-Oriental]] 
+| subdivision_type2       = 
+| subdivision_name2       = mbuji-mayi wa balengela
+| subdivision_type3       = 
+| subdivision_name3       = 
+| established_title       = Founded
+| established_date        = 1914
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Louis D’or Ntumba Tshiapota<ref>{{cite news |title=Kasaï Oriental: furieux, les journalistes de la RTNC exigent la démission du Directeur provincial G.R. Mulopo |url=http://afriqueinfomagazine.net/kasai-oriental-furieux-journalistes-de-rtnc-exigent-demission-directeur-provincial-g-r-mulopo/ |access-date=9 August 2019 |work=Afrique Infos |date=8 May 2019 |language=fr}}</ref>
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 135.12
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 549
+| population_footnotes    = 
+| population_total        = 3,367,582<ref>https://www.caid.cd/index.php/donnees-par-villes/ville-de-mbuji-mayi/?domaine=fiche</ref>
+| population_as_of        = 2015
+| population_density_km2  = auto
+| population_urban_footnotes    = <ref>[https://populationstat.com/democratic-republic-of-the-congo/mbuji-mayi PopulationStat.com]</ref>
+| population_urban        =2009000
+| population_demonym      = 
+| population_note         = 
+| timezone1               = [[Central Africa Time]]
+| utc_offset1             = +2
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

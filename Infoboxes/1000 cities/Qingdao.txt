@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+| name                            = {{raise|0.2em|Qingdao}}
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = {{lower|0.1em|青岛市}}
+| native_name_lang = zh-Hans
+| other_name                      = Tsingtao
+| settlement_type                 = [[Prefecture-level city|Prefecture-level]] and [[Sub-provincial city]]
+| image_skyline                   = Qingdao new montage.png
+| image_caption                   = Clockwise from top left: Qingdao's skyline, [[St. Michael's Cathedral, Qingdao|St. Michael's Cathedral]], Qingdao harbor, a temple at the base of [[Mount Lao]], and [[May Fourth Square]]
+| image_blank_emblem              = Emblem of Qingdao City.svg
+<!-- images and maps  ----------->| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=36.34|frame-long=120.36}}
+| image_map1                      = Qingdao_in_NEA.svg
+| mapsize1                        = 
+| map_caption1                    = Location of Qingdao city (red) on China's eastern coast
+| pushpin_map                     = China Qingdao#China Shandong
+| pushpin_label_position          = right
+| pushpin_mapsize                 = 250
+<!-- Location ------------------>| pushpin_map_caption             = Location of the municipal government
+| coor_pinpoint                   = Qingdao municipal government
+| coordinates                     = {{coord|36.0669|N|120.3827|E|format=dms|type:adm2nd_region:CN-3702_source:Gaode|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = [[China]]
+| subdivision_type1               = [[Province of China|Province]]
+| subdivision_name1               = [[Shandong]]
+| established_title               = 
+| established_date                = 
+| established_title1              = [[Kiautschou Bay concession|Lease to Germany]]
+| established_date1               = 6 March 1898
+| established_title2              = [[World War I|Japanese occupation]]
+| established_date2               = 7 November 1914
+| established_title3              = [[Washington Naval Conference|Return to China]]
+| established_date3               = 10 December 1922
+| established_title4              = [[Second Sino-Japanese War|Japanese Occupation]]
+| established_date4               = 10 January 1938
+| established_title5              = [[Japanese Instrument of Surrender|Return to China]]
+| established_date5               = 15 August 1945
+<!-- Area    --------------------->| seat_type                       = Municipal seat
+| seat                            = 11, Xianggangzhong Rd, [[Shinan District]]
+| parts_type                      = 
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+|government_type        = [[Sub-provincial division|Sub-provincial city]]
+|governing_body = [[Qingdao Municipal People's Congress]]
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+| leader_name                     = ''vacant'' {{as of|2021|1|lc = on}}
+| leader_title1 = [[Qingdao Municipal People's Congress|Congress]] Chairman
+| leader_name1 = Wang Luming
+| leader_title2                   = Mayor
+| leader_name2                    = Zhao Haozhi
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Yang Jun
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = 
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_total_km2                  = 11067 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = 11067 <!--See table @ Template:Infobox settlement for details on unit conversion-->
+| area_metro_km2                  = 5019
+<!-- Elevation -------------------------->| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+<!--
+|elevation_m             =
+|elevation_max_m         =
+|elevation_min_m         = 0
+-->
+<!-- Population   ----------------------->| population_total                = 9,046,200
+| population_as_of                = 2014
+| population_footnotes            = 
+| population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+| area_urban_km2                  = 1632
+| area_urban_footnotes            = &nbsp;(2018)<ref name="demog14">{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=Wendell|publisher=Demographia|year=2018|location=St. Louis|page=22|access-date=16 June 2018|archive-url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf|archive-date=3 May 2018|url-status=live}}</ref>
+| population_urban                = 5930000
+| population_urban_footnotes      = &nbsp;(2018)<ref name="demog14"/>
+| population_density_urban_km2    = auto
+<!-- General information  --------------->| population_density_metro_km2    = auto
+| population_note                 = 
+| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 266000
+|area_code =  0532
+| iso_code                        = [[ISO 3166-2:CN|CN-SD-02]]
+| website                         = [http://english.qingdao.gov.cn www.qingdao.gov.cn]
+| footnotes                       = 
+| p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| timezone                        = [[China standard time|China Standard]]
+| utc_offset                      = +8
+| blank_name                      = [[GDP]]
+| blank_info                      = [[Renminbi|¥]] 1.2 trillion <br/>(US$140 billion)
+| blank1_name                     = GDP per capita
+| blank1_info                     = [[Renminbi|¥]] 127,745 <br/>(US$18,000)
+| blank2_name                     = [[Licence plates of the People's Republic of China|License Plate]] Prefix
+| blank2_info                     = {{lang|zh-cn|鲁B}} & {{lang|zh-cn|鲁U}}
+| blank3_name                     = [[Coastline]]
+| blank3_info                     = {{convert|862.64|km|abbr=on}}<br/><small>(inclusive of offshore islands)</small><br/>{{convert|730.64|km|abbr=on}}<br/><small>(exclusive of islands)</small>
+| blank4_name                     = Major [[Nationalities of China|Nationalities]]
+| blank4_info                     = [[Han Chinese|Han]]: 99.86%
+| blank5_name                     = [[County-level division]]s
+| blank5_info                     = 10
+| blank6_name                     = 
+| blank6_info                     = 
+}}

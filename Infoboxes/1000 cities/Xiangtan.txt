@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Xiangtan}}
+|native_name            = {{lower|0.1em|湘潭市}}
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        = [[Prefecture-level city]]
+|other_name             = Siangtan
+<!-- images and maps  ----------->
+|image_skyline          = File:JinYuanSquare.jpg
+|imagesize              =  
+|image_caption          = Jinyuan Square (2010 photo)
+<!--
+|image_map              = Location of Xiangtan Prefecture within Hunan (China).png
+|mapsize                =  
+|map_caption            = location of Xiangtan City jurisdiction in Hunan
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+-->
+|pushpin_map            = China Hunan
+|pushpin_label_position = bottom
+|pushpin_map_caption    =Location of the city centre in Hunan
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Hunan]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|seat_type              = Municipal seat
+|seat                   = [[Yuetang District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =Zhang Yingchun ({{lang|zh-hans|张迎春}})
+|leader_title1          =[[Communist Party of China|Party]] Secretary
+|leader_name1           =Cao Jiongfang ({{lang|zh-hans|曹炯芳}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|area_footnotes           =
+|area_total_km2           =5006
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 657.7 
+| area_urban_km2          = 169.02 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=68 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               =2752171
+|population_density_km2         =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_density_metro_km2   =auto
+|population_density_urban_km2   =auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 915000
+| population_urban        = 817600
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|27.8313|N|112.9454|E|type:adm2nd_region:CN-43_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Xiangtan municipal government
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|iso_code = [[ISO 3166-2:CN|CN-HN-03]]
+|website                = {{url|www.xiangtan.gov.cn}}
+|footnotes              = 
+}}

@@ -1,0 +1,45 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Gongyi}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|巩义市}}}}}}
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code = 451200
+|pushpin_map = China Henan
+|pushpin_map_caption = Location in Henan
+|pushpin_mapsize =
+|settlement_type = [[County-level city|County-level]] & [[Sub-prefecture-level city|Sub-prefectural city]]
+|image_skyline = Songling.jpg
+|imagesize = 220px
+|image_caption = Gate towers leading into the Song tombs.
+|image_map = 
+|map_caption =
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province of China|Province]]
+|subdivision_name1 = [[Henan]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Zhengzhou]]
+|area_total_km2 = 1041
+|area_footnotes =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|population = 
+|population_as_of = 2019
+|population_density_km2 = auto
+|population_total = 843900
+|population_footnotes =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|coordinates = {{coord|34|46|N|112|58|E|type:adm3rd_region:CN-41|display=inline,title}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website = {{URL|www.gongyi.gov.cn/}}
+}}

@@ -1,0 +1,46 @@
+{{Infobox German location
+|name               = Hanover
+|German_name        = Hannover
+|type               = City
+|image_photo        = {{Photomontage|position=center
+| photo1a = Hannover Blick Neues Rathaus 01.jpg
+| photo2a = Hannover_old_townhall_Karmarschstrasse_Mitte_Hannover_Germany_01.jpg
+| photo2b = Marktkirche_St_Georgii_et_Jacobi_Mitte_Hannover_Germany.jpg
+| photo3a = Herrenhäuser gärten 2.jpg
+| photo3b = Neues Rathaus bei Nacht.jpg
+| photo4a = Universität Hannover - Hauptgebäude - B02.jpg
+   | size = 280
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+}}
+|image_caption = Clockwise from top: View over the city centre, [[Marktkirche St. Georgii et Jacobi|Market Church of Sts. George and James]], [[New Town Hall (Hanover)|New Town Hall]], [[University of Hanover]], [[Herrenhausen Gardens]], [[Altes Rathaus, Hanover|Old Town Hall]]
+|image_flag         = Flagge Hanover.svg
+|image_coa          = Coat of arms of Hannover.svg
+|coordinates        = {{coord|52|22|N|9|43|E|format=dms|display=inline,title}}
+|image_plan         = Hannover in H.svg
+|state              = Lower Saxony
+|district           = Hannover
+|elevation          = 55
+|area               = 204.01
+|area_metro         = <!-- Metropolitan area, in km². XXX.XX (no commas or other text) -->
+<!-- |population         = 518386  filled via Gemeindeschlüssel 
+|pop_date              = 31 December 2013
+|pop_ref            = <ref>{{cite web |url=http://www.statistik.niedersachsen.de/portal/live.php?navigation_id=25688&article_id=87673&_psmand=40|title=Themenbereich: Bevölkerung - Tabellen |access-date=2014-04-03 |language=de}}</ref>
+-->
+|pop_metro          = 1119032
+|postal_code        = 30001 - 30669
+|area_code          = 0511
+|licence            = H
+|Gemeindeschlüssel  = 03 2 41 001
+|NUTS               = <!-- NUTS value: DEXXX  - WILL ''not'' BE DISPLAYED -->
+|LOCODE             = DE HAJ
+|divisions          = 13 districts
+|website            = [https://www.hannover.de/ www.hannover.de]|
+|mayor              = [[Belit Onay]]
+|Bürgermeistertitel = Oberbürgermeister
+|party              = Greens
+|ruling_party1      = SPD
+|ruling_party2      = Greens
+<ref>{{Cite web|url=https://www.haz.de/Hannover/Aus-der-Stadt/Rathausaffaere-Oberbuergermeister-Stefan-Schostok-tritt-zurueck|title=Oberbürgermeister Stefan Schostok tritt zurück|website=HAZ – Hannoversche Allgemeine|language=de|access-date=2019-06-14}}</ref>
+}}

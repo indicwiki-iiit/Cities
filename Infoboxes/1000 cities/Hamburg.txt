@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| official_name                   = Free and Hanseatic City of Hamburg
+| native_name                     = {{native name|nds|Hamborg}}
+| native_name_lang                = 
+| settlement_type                 = [[City]] and [[States in Germany|state]]
+| image_skyline                   = {{Photomontage
+| photo1a             = Alster Hd pano a.jpg
+| photo2a             = Elbphilharmonie zum Sonnenaufgang.jpg
+| photo2b             = Projekt_Heißluftballon_-_Highflyer_-IMG-1407.jpg
+| photo3a             = 1106 Hamburg.JPG
+| photo3b             = HamburgSpeicherstadt.jpg
+| photo4a             = Rathaus Hbg.jpg|Hamburg Rathaus
+| photo4b             = CTB-CTW Port of Hamburg-Waltershof.jpg
+| spacing             = 2
+| position            = center
+| color_border        = white
+| color               = white
+| size                = 266
+ | foot_montage = Descending, from top: View of the {{lang|de|[[Binnenalster]]|italic=no}}, {{lang|de|[[Elbphilharmonie]]|italic=no}}, {{lang|de|[[St. Catherine's Church, Hamburg|St Catherine's Church]]|italic=no}}, {{lang|de|[[Hafencity]]|italic=no}}, {{lang|de|[[Speicherstadt]]|italic=no}}, [[Hamburg City Hall]] and [[Port of Hamburg]]}}
+| imagesize                       = 270px
+| image_caption                   = 
+| image_flag                      = Flag of Hamburg.svg
+| flag_size                       = 120px
+| image_shield                    = Wappen der Hamburgischen Bürgerschaft.svg
+| shield_size                     = 70
+| anthem                          = {{lang|de|[[:de:Hamburg-Hymne|Stadt Hamburg an der Elbe Auen]]|italic=unset}}
+| image_map                       = {{maplink|frame=y|plain=yes|frame-align=center|zoom=5|type=shape<!--line-->|stroke-color=|stroke-width=2|frame-lat=51.1|frame-long=10.5|frame-width=250|frame-height=300}}
+| mapsize                         = 155px
+| map_caption                     = 
+| coordinates                     = {{coord|53|33|55|N|10|00|05|E|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Germany]]
+| seat_type                       = Capital
+| seat                            = 
+| governing_body                  = [[Bürgerschaft of Hamburg]]
+| leader_party                    = [[SPD]]
+| leader_title                    = [[List of mayors of Hamburg|First Mayor]]
+| leader_name                     = [[Peter Tschentscher]]
+| leader_title1                   = Governing parties
+| leader_name1                    = {{Polparty|Germany|SPD}} / {{Polparty|Germany|[[Alliance '90/The Greens|The Greens]]}}
+| leader_title2                   = [[Bundesrat of Germany|Bundesrat votes]]
+| leader_name2                    = 3 (of 69)
+| total_type                      = City
+| area_footnotes                  = 
+| area_total_km2                  = 755.22
+| elevation_m                     = 
+| population_footnotes            = <ref>{{cite web |url=https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_S_1_j_H/A_I_S1_j19.pdf |title=State population |work=Portal of the Land Statistics Office Hamburg |access-date= 31 May 2020}}</ref>
+| population_total                = 1845229
+| population_as_of                = 30 June 2020
+| population_density_km2          = auto
+| population_urban                = 2484800<ref name="citypopulation_urban"/>
+| population_metro                = 5107429
+| population_demonym              = {{lang-de|Hamburger (male), Hamburgerin (female)}}<br />{{lang-en|Hamburgian(s)}}
+| timezone1                       = [[Central European Time|CET]]
+| utc_offset1                     = +1
+| timezone1_DST                   = [[Central European Summer Time|CEST]]
+| utc_offset1_DST                 = +2
+| postal_code_type                = [[List of postal codes in Germany|Postal code(s)]]
+| postal_code                     = 20001–21149, 22001–22769
+| area_code_type                  = [[Area codes in Germany|Area code(s)]]
+| area_code                       = 040
+| registration_plate              = {{Plainlist|
+*HH {{small|(1906–1945; again since 1956) }}
+*MGH {{small|(1945) }}
+*H {{small|(1945–1947) }} 
+*HG {{small|(1947) }}
+*BH {{small|(1948–1956) }}
+}}
+| blank_name_sec1                 = [[Gross regional product|GRP (nominal)]]
+| blank_info_sec1                 = €123 billion (2019)<ref>{{cite web|url=https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|title=Bruttoinlandsprodukt – in jeweiligen Preisen – in Deutschland 1991 bis 2019 nach Bundesländern (WZ 2008) – VGR dL|website=www.vgrdl.de|access-date=21 March 2019|archive-url=https://web.archive.org/web/20200625204722/https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|archive-date=25 June 2020|url-status=dead}}</ref>
+| blank1_name_sec1                = GRP per capita
+| blank1_info_sec1                = €67,000<ref>{{Cite web|url=https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|title=Bruttoinlandsprodukt – in jeweiligen Preisen – in Deutschland 1991 bis 2019 nach Bundesländern (WZ 2008) – VGR dL|website=www.statistik-bw.de|access-date=21 March 2019|archive-url=https://web.archive.org/web/20200625204722/https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|archive-date=25 June 2020|url-status=dead}}</ref> (2019)
+| blank1_name_sec2                = [[Human Development Index|HDI]] (2018)
+| blank1_info_sec2                = 0.975<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|green|very high}} · [[List of German states by Human Development Index|1st of 16]]
+| iso_code                        = DE-HH
+| blank_name_sec2                 = [[First level NUTS of the European Union#Germany|NUTS Region]]
+| blank_info_sec2                 = DE6
+| website                         = {{Official URL}}
+| footnotes                       = 
+| name                            = Hamburg
+}}

@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                   = {{raise|0.2em|Linfen}}
+| official_name          =
+| native_name            = {{lower|0.1em|临汾市}}
+| native_name_lang = zh-Hans
+| other_name             =
+| settlement_type        = [[Prefecture-level city]]
+| image_skyline          = File:J82023 Linfen 20140706-185139.07 Gulou.jpg
+| image_caption          = Drum Tower of Linfen
+| image_seal             =
+| image_shield           =
+| nickname               =
+| motto                  =
+| image_map              = Location of Linfen Prefecture within Shanxi (China).png
+| mapsize                = 
+| map_caption            = Location of Linfen City jurisdiction in Shanxi
+| pushpin_map            = Shanxi
+| pushpin_label_position = right
+| pushpin_mapsize        = 240
+<!-- Location ------------------>
+| pushpin_map_caption    = Location of the city centre in Shanxi
+| coor_pinpoint = Linfen municipal government
+| coordinates            = {{coord|36.088|N|111.519|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+| subdivision_type       = Country
+| subdivision_name       = [[People's Republic of China]]
+| subdivision_type1      = [[Province (China)|Province]]
+| subdivision_type2      = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+| subdivision_name1      = [[Shanxi]]
+| subdivision_name2      = 17
+| established_title      = <!-- Settled -->
+| established_date       =
+| founder                =
+| named_for              =
+<!-- Area    --------------------->
+| seat_type              = Municipal seat
+| seat                   = [[Yaodu District]]
+<!-- Politics ----------------->
+| government_footnotes   =
+| government_type        = [[Prefecture-level city]]
+| leader_title           = [[Communist Party of China|CPC]] Linfen Secretary
+| leader_name            = Yue Puyu ({{lang|zh-hans|岳普煜}})
+| leader_title1          = Mayor
+| leader_name1           = Liu Yuqiang ({{lang|zh-hans|刘予强}})
+| total_type             = <!-- to set a non-standard label for total area and population rows -->
+<!-- images and maps  ----------->
+| unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes         =
+| area_magnitude         = <!-- use only to set a special wikilink -->
+| area_total_km2         = 20275<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2         =
+| area_water_percent     =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1307.0 
+| area_urban_km2          = 60.00 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+
+<!-- Elevation -------------------------->
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 452
+| elevation_min_m        = 385.1
+| population_total       = 4316612
+| population_as_of       = 2010 census
+| population_footnotes   = <ref name="Census2010">{{cite web
+  |language=zh-hans
+  |url=http://www.lfxww.com/xinwen/bsxw/2011/7/88582.shtml
+  |script-title=zh:2010年临汾市第六次全国人口普查主要数据公报
+  |trans-title=Sixth National Population Census of the People's Republic of China
+  |publisher=[[National Bureau of Statistics of China]]
+  |access-date=30 August 2012
+  }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<!-- Population   ----------------------->
+| population_density_km2 = auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 950000
+| population_urban        = 617000
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+
+| population_note        =
+| postal_code_type       = [[Postal code of China|Postal code]]
+| postal_code            = 041000
+| area_code              = 0357
+| website                = {{URL|linfen.gov.cn}}
+| footnotes              =
+| elevation_max_m        = 2346.8
+| timezone               = [[China Standard Time|China Standard]]
+| utc_offset             = +8
+| blank_name             = [[Licence plates of the People's Republic of China|Licence plates]]
+| blank_info             = {{lang|zh-cn|晋}}L
+| blank1_name            = [[Administrative division codes of the People's Republic of China|Administrative division code]]
+| blank1_info            = 141000
+|iso_code = [[ISO 3166-2:CN|CN-SX-10]]
+}}

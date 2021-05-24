@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                            = Santa Cruz County, California
+| settlement_type                 = [[County (United States)|County]]
+| official_name                   = County of Santa Cruz
+| image_skyline                   = {{photomontage
+   | photo1a = Santa Cruz, California - Boardwalk.jpg
+   | photo2a = Bigbasinredwoods.jpg
+   | photo2b = Roaring Camp Shay1 04.jpg
+   | photo3a = DowntownWatsonville.JPG
+   | photo3b = Davenportbeach.jpg
+   | spacing = 1
+   | size = 300
+   | foot_montage = Images, from top down, left to right: The [[Santa Cruz Beach Boardwalk]] in 2005, a walkway through redwood groves in [[Big Basin Redwoods State Park]], the [[Roaring Camp and Big Trees Narrow Gauge Railroad]] in 2008, Downtown [[Watsonville, California|Watsonville]] in 2010, [[Davenport, California|Davenport]] Beach in 2006
+}}
+| image_flag                      = Flag of Santa Cruz County, California.svg
+| image_seal                      = Seal of Santa Cruz County, California.png
+| image_map                       = {{Maplink|frame=yes|plain=yes|frame-width=250|frame-align=center|type=shape|fill=#ffffff|fill-opacity=0|stroke-width=3}}
+| map_caption                     = Interactive map of Santa Cruz County
+| image_map1                      = Map of California highlighting Santa Cruz County.svg
+| mapsize1                        = 200px
+| map_caption1                    = Location in the state of [[California]]
+| coordinates                     = {{coord|37.03|-122.01|type:adm2nd_region:US-CA_source:UScensus1990|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of regions of California|Region]]
+| subdivision_name2               = [[Central Coast (California)|Central Coast]]
+| subdivision_type3               = [[Combined Statistical Area|CSA]]
+| subdivision_name3               = [[San Jose-San Francisco-Oakland, CA Combined Statistical Area|San Jose-San Francisco-Oakland]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = February 18, 1850<ref name=csac>{{cite web |url= http://www.counties.org/general-information/chronology |title= Chronology |publisher= California State Association of Counties|access-date=February 6, 2015}}</ref>
+| named_for                       = [[Mission Santa Cruz]] and the city of [[Santa Cruz, California|Santa Cruz]], both named after the [[Exaltation of the Cross]]
+| leader_title                    = 
+| leader_name                     = 
+| seat_type                       = [[County seat]]
+| seat                            = [[Santa Cruz, California|Santa Cruz]]
+| seat1_type                      = Largest city
+| seat1                           = Santa Cruz
+| unit_pref                       = US
+| area_total_sq_mi                = 607
+| area_land_sq_mi                 = 445
+| area_water_sq_mi                = 162
+<!-- Elevation ------------>| elevation_max_footnotes         = <ref>{{Cite web|url=http://www.peakbagger.com/peak.aspx?pid=1196|title=Mount Bielewski|publisher=Peakbagger.com|access-date=April 18, 2015}}</ref>
+| elevation_max_ft                = 3234
+| elevation_min_footnotes         = 
+| elevation_min_ft                = <!-- Population ----------->
+| population_as_of                = [[2010 United States Census|April 1, 2010]]
+| population_footnotes            = <ref name="QF" />
+| population_total                = 262382
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2018" />
+| population_est                  = 273213
+| population_density_sq_mi        = auto
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time]]
+| utc_offset_DST                  = −7
+| postal_code_type                = <!--[[ZIP Code]]-->
+| postal_code                     = 
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 831|831]]
+| blank_name_sec1                 = [[Federal Information Processing Standard|FIPS]] code
+| blank_info_sec1                 = 06-087
+| blank1_name_sec1                = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1                = {{GNIS 4|277308}}
+| website                         = {{URL|www.co.santa-cruz.ca.us}}
+}}

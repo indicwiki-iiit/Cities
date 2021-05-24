@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| official_name =N'Djamena
+| native_name = {{lang|ar|انجمينا}} ''Injamīnā''
+| other_name = Fort-Lamy
+| settlement_type = <!--For Town or village (leave blank for the default city)-->
+<!-- images and maps ----------->
+| image_skyline = Place de la nation2 (Tchad).jpg
+| image_caption = Place de la Nation
+| image_flag = 
+| image_seal = 
+| image_shield = N'Djamena coa.svg
+| nickname = 
+| motto = 
+| image_map = 
+| map_caption = 
+| pushpin_map = Chad#Africa
+|pushpin_relief = yes
+| pushpin_label_position =bottom
+| pushpin_mapsize=250
+| pushpin_map_caption = Location in [[Chad]] and [[Africa]]
+| coordinates = {{coord|12|06|36|N|15|03|00|E|region:TD|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name = [[Chad]]
+| subdivision_type1 = [[Regions of Chad|Region]]
+| subdivision_name1 = N’Djamena
+| subdivision_type2 = [[Arrondissment]]s
+| subdivision_name2 = 
+| established_title =
+<!-- Settled -->
+| established_date = 
+| established_title2 =
+<!-- Incorporated (town) -->
+| established_date2 = 
+| established_title3 =
+<!-- Incorporated (city) -->
+| established_date3 = 
+| government_type =
+<!-- Politics ----------------->
+| government_footnotes = 
+| leader_title = 
+| leader_name = 
+<!-- Area --------------------->
+| area_footnotes = 
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_km2 = 104
+| area_metro_km2 = 166
+| area_water_km2 = 
+| area_water_percent = 
+| elevation_footnotes =
+<!--for references: use<ref> </ref>  tags-->
+| elevation_m = 298
+<!-- Population ----------------------->
+| population_footnotes = <ref>{{cite web|url=http://www.world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&geo=-205&srt=pnan&col=abcdefghinoq&msz=1500&va=&pt=a |title=World Gazetteer |archive-url=https://archive.today/20130111115800/http://www.world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&geo=-205&srt=pnan&col=abcdefghinoq&msz=1500&va=&pt=a |archive-date=11 January 2013 |url-status=dead }}</ref>
+| population_total = 951418
+| population_as_of = 2009 census
+| population_density_km2 = 9148
+| population_metro = 1605696
+| population_density_metro_km2 = 
+| population_note =
+<!-- General information --------------->
+| timezone = +1
+| utc_offset = 
+| timezone_DST = 
+| utc_offset_DST =
+<!-- Area/postal codes & others -------->
+| postal_code_type =
+<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code = 
+| area_code = 235
+| blank_name_sec1         = [[Human Development Index|HDI]] (2017)
+| blank_info_sec1         = 0.553<ref name="GlobalDataLab">{{cite web |url=https://hdi.globaldatalab.org/areadata/shdi/ |title=Sub-national HDI - Area Database - Global Data Lab |website=hdi.globaldatalab.org |access-date=2018-09-13 |archive-url=https://web.archive.org/web/20180923120638/https://hdi.globaldatalab.org/areadata/shdi/ |archive-date=2018-09-23 |url-status=dead }}</ref><br/>{{color|#fc0|medium}} 
+| website = 
+}}

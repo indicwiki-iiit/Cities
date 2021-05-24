@@ -1,0 +1,126 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Nanping}}
+|official_name          = 
+|other_name             =
+|native_name            = {{lower|0.1em|南平市}}
+|native_name_lang = zh
+|nickname               = Northern Min
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =  Nanping-At-Night-2.jpg
+|imagesize              = 
+|image_caption          =  
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Locator map Nanping in Fujian.svg
+|mapsize                =  
+|map_caption            = Location of Nanping City jurisdiction in Fujian
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Provinces of the People's Republic of China|Province]]
+|subdivision_name1      = [[Fujian]] 
+|seat_type              = Municipal seat
+|seat                   =Yanping District(currently), Jianyang District(future)
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary
+|leader_name            = Yuan Yi
+|leader_title1          = Mayor
+|leader_name1           = Xu Weize
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 26278<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =2660
+|area_metro_km2           =2660
+|area_blank1_title        =
+|area_blank1_km2          =
+
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 89
+|elevation_ft           = 291
+|elevation_max_m            = 
+|elevation_min_m            =
+
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =<ref>{{cite web |url=http://www.geohive.com/cntry/cn-35.aspx |title=Archived copy |access-date=2013-05-22 |url-status=dead |archive-url=https://web.archive.org/web/20130512054817/http://www.geohive.com/cntry/cn-35.aspx |archive-date=2013-05-12 }}</ref>
+|population_note                =
+|population_total               =2645549
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =467875
+|population_density_metro_km2   =auto
+|population_urban               =467875
+|population_density_urban_km2   =auto 
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|26.6418|N|118.1774|E|type:adm2nd_region:CN-35_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Nanping Administrative Services Center ({{lang|zh-Hans|南平市行政服务中心}})
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 353000, 354000
+|area_code              = 0599
+|iso_code = [[ISO 3166-2:CN|CN-FJ-07]]
+|blank_name             = [[Gross domestic product|GDP]]
+|blank_info             = 2009<ref name="stat">{{cite web|url=http://www.np.gov.cn/html/20100415/035579.html|script-title=zh:南平市2009年国民经济和社会发展统计公报|access-date=2010-05-03|date=2010-03-31|publisher=Nanping Municipal Statistic Bureau|language=zh}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|blank1_name            = &nbsp;- Total
+|blank1_info            = [[Renminbi|CNY]] 62.174 billion (US$9.11 billion)
+|blank2_name            = &nbsp;- per capita
+|blank2_info            = [[Renminbi|CNY]] 21,439 (US$3,142)
+|blank3_name            = &nbsp;- Growth
+|blank3_info            = {{increase}} 13.9%
+|blank4_name            = [[Licence plates of the People's Republic of China|License Plate Prefixes]]
+|blank4_info            = {{lang|zh-cn|闽H}}
+|blank5_name            = [[Chinese language|Local Dialect]]
+|blank5_info            = [[Northern Min]]
+|website                = {{URL|np.gov.cn}}
+|footnotes              = 
+}}

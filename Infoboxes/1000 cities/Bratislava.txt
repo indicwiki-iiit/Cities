@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name                            = Bratislava
+| settlement_type                 = [[Capital city]]
+<!-- images, nicknames, motto -->
+| image_skyline = {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 1/2/1/2
+| image1                 = Bratislava Panorama R01.jpg
+| image2                 = Bratislava Cityscape.jpg
+| image3                 = Panorama of Bratislava.jpg
+| image4                 = Hlavné Namestie (35096533142).jpg
+| image5                 = Blue Church, Bratislava 02.jpg
+| image6                 = Palais Grassalkovich Bratislava September 2016.jpg
+}}
+| image_caption                   = Bratislava montage. Clockwise from top left: View of Bratislava, View of [[Old Town, Bratislava|Old Town]], Financial District, [[Old Town, Bratislava|Old Town]] streets, [[Blue Church]], [[Grassalkovich Palace]]. 
+| image_flag                      = Flag of Bratislava.svg
+| flag_border                     = no
+| image_shield                    = Coat of Arms of Bratislava.svg
+| motto                           = 
+| nicknames                       = Beauty on the Danube, Little Big City
+| etymology                       = <!-- location -->
+| subdivision_type                = Country
+| subdivision_name                = [[Slovakia]]
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = Region
+| subdivision_name2               = [[Bratislava Region|Bratislava]]
+| subdivision_type4               = 
+| subdivision_name4               = <!-- maps and coordinates -->
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Slovakia#Slovakia Bratislava Region
+| pushpin_relief                  = 1
+| pushpin_map_caption             = Location of Bratislava in [[Slovakia]]
+| coordinates                     = {{coord|48|08|38|N|17|06|35|E|display=inline,title}}
+| coordinates_footnotes           = <!-- government type, leaders -->
+| leader_title                    = [[Mayor of Bratislava|Mayor]]
+| leader_name                     = [[Matúš Vallo]]
+<!-- established -->
+| established_title               = First mentioned
+| established_date                = 907
+<!-- area -->
+| area_footnotes                  = 
+| area_total_km2                  = 367.584
+<!-- elevation -->
+| elevation_footnotes             = 
+| elevation_m                     = 134
+<!-- population -->
+| population_as_of                = 2020-12-31<ref>{{cite web |title=Population and migration |url=https://slovak.statistics.sk/wps/portal/ext/themes/demography/population/indicators/|publisher=Statistical Office of the Slovak Republic |access-date=2020-12-21}}</ref>
+| population_footnotes            = 
+| population_total                = 440948
+| population_density_km2          = auto
+| population_demonym              = Bratislavčan (m), Bratislavčanka (f) ([[Slovak language |sk]]) Bratislavan ([[English language|en]])
+| population_metro                = 659598
+| population_urban                = 563682
+| timezone1                       = [[Central European Time|CET]]
+| utc_offset1                     = +1
+| timezone1_DST                   = [[Central European Summer Time|CEST]]
+| utc_offset1_DST                 = +2
+<!-- postal codes, area code -->
+| postal_code_type                = Postal code
+| postal_code                     = 8XX XX
+| area_code_type                  = 
+| area_code                       = 421 2
+| geocode                         = 
+| iso_code                        = 
+| blank_name                      = [[Vehicle registration plates of Slovakia|Car plate]]
+| blank_info                      = BA, BL, BT
+<!-- website, footnotes -->
+| website                         = [http://bratislava.sk/ www.bratislava.sk/]
+| blank_name_sec2                 = [[Gross regional product|GRP]] (Metro)<ref>https://ec.europa.eu/eurostat/documents/2995521/10474907/1-05032020-AP-EN.pdf</ref>
+| blank_info_sec2                 = 2018
+| blank1_name_sec2                = &nbsp;– Total
+| blank1_info_sec2                = €25 billion <br/>(${{To USD|25|EUR|year=2018|round=yes}}B)
+| blank2_name_sec2                = &nbsp;– Per capita
+| blank2_info_sec2                = €38,800 <br/>(${{To USD|38800|EUR|year=2018|round=yes}})
+| footnotes                       = 
+| official_name                   = 
+| area_urban_km2                  = 853.15
+| area_metro_km2                  = 2,053
+| area_metro_sq_mi                = 792.66
+| population_density_urban_km2    = 661
+| population_density_metro_km2    = 321
+| elevation_max_point             = Devínska Kobyla  - výška 514 m
+}}

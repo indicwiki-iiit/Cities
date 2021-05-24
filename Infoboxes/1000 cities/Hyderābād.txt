@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                            = Hyderabad
+<!-- Please do not add any Indic script in this infobox, per WP:INDICSCRIPT policy. -->| settlement_type                 = [[Metropolis]] <!-- Not a Megacity, as the population of the city is under 10 million residents -->
+| image_skyline                   = Hyderabad Montage 2020.jpg
+| imagesize                       = 300px
+| image_alt                       = A montage of images related to Hyderabad city
+| image_caption                   = Clockwise from top: [[Charminar]] during Ramzan night bazaar, [[Qutb Shahi tombs]], [[Buddha Statue of Hyderabad|Buddha Statue]] at [[Hussain Sagar]], [[Falaknuma Palace]], skyline at [[Gachibowli]], [[Birla Mandir, Hyderabad|Birla Mandir]]
+| nickname                        = [[Hyderabad pearl|City of Pearls]]
+| other_name                      = 
+| image_map                       = {{Maplink|frame=yes|plain=y|frame-width=300|frame-height=300|frame-align=center|type=shape|from=India/Telangana/Hyderabad.map}}
+| map_caption                     = Interactive Map Outlining Hyderabad
+| pushpin_map_alt                 = A map showing location of Hyderabad in Telangana, India.
+| pushpin_map_caption             = Location in Telangana##Location in India##Location in Asia##Location in Earth
+| pushpin_map                     = India Telangana#India#Asia#Earth
+| pushpin_mapsize                 = 300
+| pushpin_label_position          = right
+| coordinates                     = {{coord|17.361719|N|78.475166|E|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|India}}
+| subdivision_type1               = [[States and territories of India|State]]
+| subdivision_type2               = [[List of districts of India|Districts]]
+| subdivision_name1               = {{flagicon image|Government_of_Telangana_Logo.png}} [[Telangana]]
+| subdivision_name2               = {{plainlist|
+* [[Hyderabad district, India|Hyderabad]]
+* [[Medchal-Malkajgiri district|Medchal–Malkajgiri]]
+* [[Ranga Reddy district|Ranga Reddy]]
+* [[Sangareddy district|Sangareddy]]}}
+| established_title               = Established
+| established_date                = 1591
+| founder                         = [[Muhammad Quli Qutb Shah]]
+| government_type                 = [[Municipal Corporations in India|Municipal Corporation]]
+| governing_body                  = [[Greater Hyderabad Municipal Corporation]], <br />
+[[Hyderabad Metropolitan Development Authority]]
+| total_type                      = [[City proper|City]]
+| unit_pref                       = Metric
+| area_footnotes                  = 
+| area_total_km2                  = 650
+| area_metro_km2                  = 7,257
+| elevation_footnotes             = 
+| elevation_m                     = 542
+| population_total                = 6,809,970 ([[List of cities in India by population|4th]])
+| population_as_of                = 2011
+| population_footnotes            = <ref name="greater Hyderabad" />
+| population_density_km2          = 10477
+| population_est                  = 9,482,000
+| pop_est_as_of                   = 2018
+| pop_est_footnotes               = <ref>{{cite web|url=https://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf|title=The World's Cities in 2018|website=United Nations|access-date=11 July 2020|url-status=live|archive-url=https://web.archive.org/web/20210315074343/https://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf|archive-date=15 March 2021}}</ref>
+| population_urban                = 7,749,334  ([[List of million-plus urban agglomerations in India|6th]])
+| population_urban_footnotes      = <ref name="2011UA" />
+| population_metro                = 9.7 million ([[List of metropolitan areas in India|6th]])
+| population_metro_footnotes      = <ref name="metropop">{{cite news|title=Time to put metropolitan planning committee in place|url=https://timesofindia.indiatimes.com/city/hyderabad/Time-to-put-metropolitan-planning-committee-in-place/articleshow/39138115.cms|access-date=22 March 2016|work=[[The Times of India]]|date=28 July 2014|location=Hyderabad|url-status=live|archive-url=https://web.archive.org/web/20210314172214/http://timesofindia.indiatimes.com/city/hyderabad/Time-to-put-metropolitan-planning-committee-in-place/articleshow/39138115.cms|archive-date=14 March 2021}}</ref>
+| population_demonym              = Hyderabadi
+| timezone1                       = [[Indian Standard Time|IST]]
+| utc_offset1                     = +5:30
+| postal_code_type                = [[Postal Index Number|PIN(s)]]
+| postal_code                     = 500xxx, 501xxx, 502xxx
+| area_codes                      = [[Telephone numbers in India|+91–40, 8413, 8414, 8415, 8417, 8418, 8453, 8455]]
+| registration_plate              = [[List of Regional Transport Office districts in India|TS-07 to TS-15<br />(previously AP-09 to AP-14 and AP-28, AP-29)]]
+| blank_name_sec1                 = [[Gross metropolitan product|Metro GDP]] ([[Purchasing power parity|PPP]])
+| blank_info_sec1                 = $40–$74&nbsp;billion<ref name=gdp />
+| leader_title                    = [[Greater Hyderabad Municipal Corporation|Mayor]]
+| leader_name                     = [[Gadwal Vijayalakshmi]]
+| leader_party                    = [[Telangana Rashtra Samiti|TRS]]
+| blank2_name                     = {{nowrap|Official languages}}
+| blank2_info                     = {{hlist|[[Telugu language|Telugu]]|[[Urdu language|Urdu]]}}<!-- Please do not add anything besides Telugu and Urdu. -->
+| website                         = {{URL|www.ghmc.gov.in}}
+| official_name                   = 
+}}

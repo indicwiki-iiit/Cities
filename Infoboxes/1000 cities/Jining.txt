@@ -1,0 +1,129 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Jining}}
+|official_name          = 
+|other_name             = Tsining
+|native_name            = {{lower|0.1em|济宁市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Jining Railway Station 2015.08.13 18-41-17.jpg
+|imagesize              = 
+|image_caption          = Jining Railway Station
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =ChinaShandongJining.png
+|mapsize                =  
+|map_caption            =  
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+<!-- Location ------------------>
+|coor_pinpoint = Jining municipal government
+|coordinates            = {{coord|35.4151|N|116.5871|E|type:adm2nd_region:CN-37_source:Gaode|format=dms|display=it}}
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Shandong]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      = 12
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|subdivision_name3      =   
+|subdivision_type4      = 
+|subdivision_name4      = 
+|seat_type              = Municipal seat
+|seat                   =[[Shizhong District, Jining|Shizhong District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            = 
+|leader_title1          =[[Mayor]]
+|leader_name1           =Fu Mingxian ({{lang|zh-Hans-CN|傅明先}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =11186.97 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =1534.2
+|area_metro_km2           =884
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 8081905
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =1241012
+|population_density_metro_km2   =auto
+|population_urban               =1859406
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2  =auto
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- [[Postal code of China|Postal code]] -->
+|postal_code            = 272000
+|area_code              = 0537
+|iso_code = [[ISO 3166-2:CN|CN-SD-08]]
+|blank_name             =[[GDP]]
+|blank_info             =
+|blank1_name            =GDP per capita
+|blank1_info            = 
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank2_info            ={{lang|zh-cn|鲁H}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            = 
+|website                = 
+|footnotes              =   
+}}

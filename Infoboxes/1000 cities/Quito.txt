@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->| name                            = Quito
+| native_name                     = ''San Francisco de Quito''
+| native_name_lang                = es
+| official_name                   = Saint Francis of Quito
+| settlement_type                 = [[Capital city]]
+<!-- images and maps ----------->| image_skyline                   = Montaje_Quito.png
+| imagesize                       = 270
+| image_caption                   = Clockwise from top: La Ronda street, [[Church of the Society of Jesus (Quito, Ecuador)|Church of the Society of Jesus]], [[El Panecillo]] as seen from Northern Quito, [[Carondelet Palace]], Central-Northern Quito, [[La Carolina Park]] and [[Church and Convent of St. Francis]]
+| image_flag                      = Flag of Quito.svg
+| flag_size                       = 
+| flag_border                     = 
+| flag_alt                        = 
+| image_shield                    = Coat of Arms of Quito.svg
+| shield_size                     = 60
+| shield_alt                      = 
+| nicknames                       = ''Carita de Dios'' (God's Face), ''[[Ciudad Mitad del Mundo|Mitad del Mundo]]'' (Middle of the World), ''[[Luz de América]]'' (Light of America)
+| map_caption                     = Location of Quito in Ecuador.
+| pushpin_map                     = Ecuador#South America
+| pushpin_relief                  = 1
+| pushpin_map_caption             = Location of Quito within [[Ecuador]]
+<!-- Location ------------------>| coordinates                     = {{coord|00|14|S|78|31|W|type:city_region:EC-P|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Ecuador]]
+| subdivision_type1               = [[Provinces of Ecuador|Province]]
+| subdivision_name1               = [[Pichincha Province|Pichincha]]
+| subdivision_type2               = [[Cantons of Ecuador|Canton]]
+| subdivision_name2               = [[Quito Canton|Metropolitan District of Quito]]
+| established_title               = Spanish foundation
+| established_date                = {{birth date|1534|12|6|df=y}}
+| founder                         = [[Sebastián de Benalcázar]]
+| named_for                       = [[Quitu]]
+<!-- Smaller parts -->| parts_type                      = Urban parishes
+| parts_style                     = coll
+| parts                           = 32 urban parishes
+<!-- Politics ----------------->| government_type                 = Mayor and council
+| leader_party                    = 
+| leader_title                    = Governing body
+| leader_name                     = [[Municipality of Quito]]
+| leader_title1                   = [[Mayor]]
+| leader_name1                    = [[Jorge Yunda]]
+| leader_title2                   = Vice mayor
+| leader_name2                    = Santiago Guarderas
+<!-- Geography --------------------->| area_footnotes                  = {{small| (approx.)}}
+| area_total_km2                  = 372.39
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_metro_km2                  = 4217.95
+| elevation_m                     = 2850
+| elevation_ft                    = 9350
+<!-- Population ----------------------->| population_total                = 2,011,388
+| population_as_of                = 2020
+| population_density_km2          = auto
+| population_metro                = 3,156,182
+| population_density_metro_km2    = auto
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Quitonian<ref>{{citation |contribution=[[s:Encyclopædia Britannica, Ninth Edition/Ecuador|Ecuador]] |title=''''Encyclopædia Britannica'', 9th ed., Vol.&nbsp;VII'' |editor-last=Baynes |editor-first=Thomas Spencer |display-editors=0 |publisher=Charles Scribner's Sons |location=New York |date=1878 |ref={{harvid|''EB''|1878}} |page=649 }}.</ref>
+<!-- General information --------------->| timezone                        = [[Ecuador Time|ECT]]
+| utc_offset                      = &minus;5
+| postal_code_type                = Postal code
+| postal_code                     = EC170150
+| area_code                       = (0)2
+| blank_name                      = Languages
+| blank_info                      = [[Spanish language|Spanish]] and [[Kichwa language|Quichua]]
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Oceanic climate|Cfb]]
+| website                         = [http://www.quito.gob.ec Municipality of Quito]
+| footnotes                       = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = City of Quito
+   | designation1_date = 1978 <small>(2nd [[World Heritage Committee|session]])</small>
+   | designation1_type = Cultural
+   | designation1_criteria = ii, iv
+   | designation1_number = [https://whc.unesco.org/en/list/2 2]
+   | designation1_free1name = State Party
+   | designation1_free1value = Ecuador
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in North America|Latin America and the Caribbean]]
+  }}
+}}

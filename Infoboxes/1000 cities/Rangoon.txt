@@ -1,0 +1,67 @@
+{{Infobox settlement
+| official_name                  = Yangon
+| native_name                    = {{nobold|{{lang-my-Mymr|ရန်ကုန်မြို့}}
+ }}
+| other_name                     = Rangoon
+| settlement_type                = [[Metropolis|Metropolitan City]]
+| image_skyline                  = {{multiple image|total_width=270px|perrow=1/2/2/1|border=infobox
+| image1                          = Travel-Burma-yangon-shwedagon-pagoda.jpg
+| alt1                            = 
+| image2                          = Yangon Municipal Building.jpg
+| alt2                            = 
+| image3                          = Yangon downtown at night.jpg
+| alt3                            = 
+| image4                          = SulePagoda.jpg
+| alt4                            = 
+| image5                          = Buildings along the river in Yangon.jpg
+| alt5                            = 
+| image6                          = KandawgyiLake (cropped).jpg
+| alt6                            = 
+}}
+| imagesize                      = 270px
+| image_caption                  = <small>Clockwise from top: [[Shwedagon Pagoda]], aerial view of [[Downtown Yangon|central Yangon]], colonial-era buildings along [[Strand Road, Yangon|Strand Road]], the [[Karaweik]] at [[Kandawgyi Lake]], [[Sule Pagoda]], [[High Court Building (Yangon)|Yangon High Court]]</small>
+| image_flag                     = Flag of Yangon Division.svg
+| image_blank_emblem             = Emblem of Yangon Region.png
+| pushpin_map                    = Burma
+| pushpin_label_position         = left
+| pushpin_map_caption            = Location of Yangon, Myanmar
+| coordinates                    = {{Coord|16|51|N|96|11|E|region:MM|display=inline,title}}
+| subdivision_type               = Country
+| subdivision_name               = [[Myanmar]]
+| subdivision_type1              = [[Administrative divisions of Myanmar|Region]]
+| subdivision_name1              = [[Yangon Region]]
+| established_title              = Settled
+| established_date               = {{circa|1028–1043}} CE
+| leader_title                   = Mayor
+| leader_name                    = [[Maung Maung Soe]]
+| unit_pref                      = Metric
+| area_footnotes                 =<ref name=uncrd/>
+| area_urban_km2                 = 598.75
+| area_metro_km2                 = 10170
+| elevation_m                    = 
+| population_as_of               = [[2014 Burma Census|2014 Census]]
+| population_density_urban_km2   = auto
+| population_density_urban_sq_mi = auto
+| population_urban               = 5,160,512
+| population_rural               = 2,200,191
+| population_density_metro_km2   = auto
+| population_density_metro_sq_mi = auto
+| population_metro               = 7,360,703 ([[Yangon Region]])
+| population_metro_footnotes     =<ref name="census-2014">{{cite book|title=Census Report|publisher=Ministry of Immigration and Population|location=Naypyitaw|date=May 2015|series=The 2014 Myanmar Population and Housing Census|volume=2|page=31|url=https://drive.google.com/file/d/0B067GBtstE5TeUlIVjRjSjVzWlk/view}}</ref>
+| population_blank1_title        = Ethnicities
+| population_blank1              =  {{Collapsible list
+        | titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        | title = List of ethnicities 
+        |[[Bamar]] | [[Burmese Chinese]] | [[Burmese Indians]] | [[Chin people|Chin]] | [[Rakhine people|Rakhine]] | [[Mon people|Mon]] | [[Karen people|Karen]] | [[Shan people|Shan]] | [[Kayah people|Kayah]]| [[Kachin people|Kachin]]}}
+| population_blank2_title        = Religions
+| population_blank2              = {{Collapsible list
+        | titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        | title = List of religions 
+        |[[Buddhism]] 91% | [[Islam]] 4.7% | [[Christianity]] 3.2% | [[Hinduism]] 1.0%| Others 0.1%}}
+| population_demonym             = Yangonite
+| timezone                       = [[Burma Standard Time|MST]]
+| utc_offset                     = +6:30
+| area_code                      = 01
+| registration_plate             = YGN
+| website                        = {{URL|ycdc.gov.mm/}}
+}}

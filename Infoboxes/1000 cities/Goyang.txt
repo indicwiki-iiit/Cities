@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Goyang}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|고양시}}}}
+| translit_lang1          = Korean
+| settlement_type         = [[Cities of South Korea|Specific city]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|고|양|시|}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|高|陽|市|}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Goyang-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Koyang-si
+| image_skyline           =Goyang montage.JPG
+| image_caption           = 
+| image_map               = Gyeonggi-Goyang.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = Province
+| subdivision_name1       = [[Gyeonggi Province|Gyeonggi]] 
+| subdivision_type2       = [[Regions of Korea|Region]]
+| subdivision_name2       = [[Seoul Capital Area|Sudogwon]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| area_total_km2          = 267.29
+| population_as_of        = 2005
+| population_total        = 1073069
+| population_density_km2  = 4014.6
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 3 ''gu'', 39 ''dong''
+| image_blank_emblem      = Goyang logo.png
+| imagesize               = 260px
+| blank_emblem_type       = Emblem of Goyang
+}}

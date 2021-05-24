@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Hengshui}}
+|official_name          = 
+|other_name             =
+|native_name            = {{lower|0.1em|衡水市}}
+|native_name_lang = zh
+|nickname               = Peach City ({{lang|zh|桃城}}), Lake City ({{lang|zh|水市湖城}})
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a               = Hengshui Old Town Bridge by Graham Strachan.JPG
+| photo1b               = Hengshui Lake, Hebei, China3.jpg
+| photo2a               = 衡水.jpg
+| photo3a               = Hengshui High School Panoramic View.JPG
+| color_border          = white
+| spacing               = 2
+| color                 = white
+| size                  = 280
+| foot_montage          = }}
+|image_caption          = Clockwise from top: Fuyang Bridge, Hengshui Lake, Skyline of Hengshui, [[Hengshui High School]]
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = Location_of_Hengshui_Prefecture_within_Hebei_(China).png
+|mapsize1               =
+|map_caption1           = Location of Hengshui City jurisdiction in Hebei
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China Hebei#China Northern Plain#China
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Hebei
+|pushpin_mapsize        =
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Hebei]]
+|subdivision_type2      =
+|subdivision_name2      =
+|seat_type              = Municipal seat
+|seat                   = [[Taocheng District]]
+|established_title      = Settled
+|established_date       = 1265
+|established_title2     = Established
+|established_date2      = May 31, 1996
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 8836.95<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1509.6 
+| area_urban_km2          = 401.40 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =4340773
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 1082000
+| population_urban        = 643400
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+|population_density_metro_km2   =auto
+| population_density_urban_km2   = auto
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Hengshui municipal government
+|coordinates            = {{coord|37.739|N|115.669|E|type:adm2nd_region:CN-13_source:Gaode|format=dms|display=it}}
+|iso_code = [[ISO 3166-2:CN|CN-HE-11]]
+|blank_name             = [[Vehicle registration plates of China|License Plate Prefix]]
+|blank_info             = {{lang|zh-cn|冀T}}
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              =
+}}

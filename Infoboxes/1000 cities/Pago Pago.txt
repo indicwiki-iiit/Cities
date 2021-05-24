@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Pago Pago <!-- at least one of the first two fields must be filled in -->
+|image_skyline          = Pagopago_amerika_sāmoa.jpg
+|image_caption          = [[Pago Pago Harbor]]
+|pushpin_map            = American Samoa 
+|pushpin_label_position = top
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|pushpin_map_caption    = 
+|coordinates            = {{coord|14|16|46|S|170|42|02|W|region:US-AS|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = {{flagu|United States}}
+|subdivision_type1      = Territory
+|subdivision_type2      = County
+|subdivision_name1      = {{flag|American Samoa}}
+|subdivision_name2      = [[Maoputasi County|Maoputasi]]
+|elevation_m            = 9
+|population_total       = 3656
+|population_as_of       = 2010
+|population_footnotes   = 
+|population_density_km2 = 
+|population_note        = 
+|postal_code_type       = [[ZIP code]]
+|postal_code            = 96799<ref name="GR7">{{cite web|url=http://tools.usps.com/go/ZipLookupAction!input.action|title=USPS - Look Up a ZIP Code|access-date=February 15, 2012|author=United States Postal Service|year=2012|archive-url=https://web.archive.org/web/20120214204322/https://tools.usps.com/go/ZipLookupAction!input.action|archive-date=February 14, 2012|url-status=live}}</ref>
+|area_code              = [[Area code 684|+1 684]]
+|website                = [http://www.pagopago.com/ www.pagopago.com]
+|timezone               = [[Samoa Time Zone]]
+|utc_offset = &minus;11
+|blank_name             = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info             = 1389119<ref name="GR4">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic|title=Geographic Names Information System|access-date=January 31, 2008|publisher=[[United States Geological Survey]]|archive-url=https://www.webcitation.org/698t1HjXe?url=http://geonames.usgs.gov/pls/gnispublic/f?p=132:1:3161899225272452|archive-date=July 14, 2012|url-status=live}}</ref>
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+}}

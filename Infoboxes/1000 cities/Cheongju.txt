@@ -1,0 +1,46 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Cheongju}}
+| native_name             = {{lower|0.1em|{{lang|ko-Hang|청주시}}}}
+| translit_lang1          = Korean 
+| settlement_type         = [[Cities of South Korea|Specific city]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|청주시}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2    = {{lang|ko-Hant|淸州市}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Cheongju-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Ch'ŏngju-si
+| image_skyline           = Cheongju Sangdangsangseong.jpg
+| imagesize               = 
+| image_caption           = A front view of [[Sangdangsanseong]]
+| image_map               = North Chungcheong-Cheongju.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = South Korea
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Hoseo]]
+| established_title1      = First mention
+| established_date1       = 940
+| established_title2      = Founded
+| established_date2       = 1949  
+| population_blank1_title = Dialect
+| population_blank1       = [[Chungcheong dialect|Chungcheong]]
+| area_total_km2          = 940.3
+| population_as_of        = 2014
+| population_total        = 838689
+| population_density_km2  = auto
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 4 ''gu'' 30 ''dong''
+| coordinates             = {{coord|36|38|N|127|29|E|region:KR-43|display=it}}
+| elevation_m             = 39
+| Tree                    = zelkova serrata
+| Flower                  = Yulan 
+| image_blank_emblem      = 
+| blank_emblem_type       = 
+| postal_code_type        = Postal code
+| postal_code             = 28100~28899
+| area_code               = (+82) 43-2xx
+| website                 ={{url|cheongju.go.kr/english/index.do}}
+}}

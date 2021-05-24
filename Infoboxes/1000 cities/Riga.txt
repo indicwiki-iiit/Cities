@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- See the Table at Infobox settlement for all fields and descriptions of usage -->| name = Riga
+| native_name = Rīga
+| native_name_lang = lv
+| settlement_type = [[Capital city]]
+| image_skyline = Riga montage.jpg
+| imagesize = 280px
+| image_alt =
+| image_caption = From top, left to right: the [[Freedom Monument]], the [[Riga City Council]] building, the [[House of the Blackheads]], Livonian Square, and the [[Latvian National Opera]]
+| image_flag = Flag of Riga.svg
+| image_shield = Coat of Arms of Riga.svg
+| map_alt =
+| mapsize =
+| pushpin_map_caption = Location within Latvia##Location within the Baltics##Location within Europe
+| pushpin_map = Latvia#Baltic states#Europe
+| pushpin_relief = 1
+| subdivision_type = Country
+| subdivision_name = [[Latvia]]
+| government_footnotes =<ref name="council">{{cite web|url=http://www.riga.lv/EN/Channels/Riga_Municipality/Riga_City_Council/default.htm |title=Riga City Council |publisher=Riga City Council |access-date=22 July 2009}}</ref>
+| government_type = [[Riga City Council|City Council]]
+| leader_title = Mayor
+| leader_name = [[Mārtiņš Staķis]]
+| area_magnitude = 1 E+6
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_water_percent = 15.8
+| area_metro_km2 = 7292.8
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_density_km2 = auto
+| population_urban = 931,918<ref>http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en</ref>
+| population_metro = 1,070,000
+| population_metro_footnotes =<ref>https://www.geo.lu.lv/fileadmin/user_upload/lu_portal/projekti/gzzf/Konferences/EGEA/Krisjane_Zira_Rigas_aglomeracija.pdf#page=10</ref>
+| population_density_metro_km2 = 146.7
+| population_blank1_title = [[Demonym]]
+| population_blank1 = ''Rīdzinieki''
+| demographics_type1 = Ethnicity
+| demographics1_footnotes = &nbsp;(''2019'')<ref name="ethnicity">{{cite web|url= http://data.csb.gov.lv/pxweb/en/iedz/iedz__iedzrakst/IRG080.px/|title= RESIDENT POPULATION BY ETHNICITY AND BY STATISTICAL REGION AND CITY AT THE BEGINNING OF THE YEAR, Central Statistical Bureau of Latvia, 06 June 2019}}</ref>
+| demographics1_title1 = Latvians
+| demographics1_info1 = 47.1%
+| demographics1_title2 = [[Russians]]
+| demographics1_info2 = 36.4%
+| demographics1_title3 = [[Belarusians]]
+| demographics1_info3 = 3.7%
+| demographics1_title4 = [[Ukrainians]]
+| demographics1_info4 = 3.4%
+| demographics1_title5 = [[Poles]]
+| demographics1_info5 = 1.8%
+| demographics1_title6 = [[Lithuanians]]
+| demographics1_info6 = 0.8%
+| demographics1_title7 = [[Romani people|Romani]]
+| demographics1_info7 = 0.1%
+| timezone1 = EET
+| utc_offset1 = +2
+| timezone1_DST = EEST
+| utc_offset1_DST = +3
+| blank_name = GRP(nominal)
+| blank_info = 2018<ref>{{cite web|url=https://data1.csb.gov.lv/pxweb/en/ekfin/ekfin__ikp__reg/IKG10_110.px/|title=2.1. Gross Domestic Product – Stratēģijas Uzraudzības Sistēma|work=sus.lv}}</ref>
+| blank1_name = &nbsp;- Total
+| blank1_info = €16.4&nbsp;billion
+| blank2_name = &nbsp;- Per capita
+| blank2_info = €25,820
+| blank3_name = [[Human Development Index|HDI]] (2018)
+| blank3_info = 0.885<ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/|title=Sub-national HDI – Subnational HDI – Global Data Lab|website=globaldatalab.org}}</ref> – <span style="color:#090">very high</span>
+| coordinates = {{coord|56|56|56|N|24|6|23|E|display=inline,title}}
+| area_code_type = [[Telephone numbers in Latvia|Calling codes]]
+| area_code = 66 and 67
+| website = [http://www.riga.lv/ www.riga.lv]
+| official_name =
+}}

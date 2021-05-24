@@ -1,0 +1,65 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Lhasa}}
+| native_name                     = {{lower|0.3em|{{bo-textonly|ཁྲིན་ཀོན་ཆུས་}} • {{lang|zh-hans|城关区}}}}
+| other_name                      = 
+| official_name                   = 
+| settlement_type                 = [[District (China)|District]]
+<!-- images and maps  ----------->| image_skyline                   = Collage of views of Lhasa, Tibet.jpg
+| image_caption                   = '''From upper left''': roof of the [[Jokhang]] Temple; [[Norbulingka]] monastery main gate; [[Potala Palace]]; [[Dharmacakra|Wheel of Dharma]] and [[Tibetan prayer wheel|prayer wheels]] (bottom), Jokhang; satellite picture of Lhasa
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| image_map1                      = File:Location of Chengguan within Xizang (China).png
+| mapsize                         = 
+| map_caption1                    = Chengguan District (pink) within [[Lhasa (prefecture-level city)|Lhasa City]] (yellow)
+<!-- Location ------------------>| subdivision_type                = Country Tibet
+| subdivision_name              
+| subdivision_type1               = [[Autonomous regions of China|Autonomous region]]
+| subdivision_name1               = [[Tibet Autonomous Region|Tibet]]
+| subdivision_type2               = [[Prefecture-level city]]
+| subdivision_name2               = [[Lhasa (prefecture-level city)|Lhasa]]
+| government_footnotes            = 
+| government_type                 = [[District (China)|District]]
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = 
+| area_footnotes                  = 
+| area_total_km2                  = 525
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 168
+| area_urban_footnotes            = &nbsp;<ref>{{cite web|title=Lhasa City Master Plan|url=http://www.gov.cn/zhengce/content/2017-08/08/content_5216625.htm|publisher=gov.cn|access-date=2017-08-07}}</ref><ref name="demographia84">{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|page=84}}</ref>
+| area_metro_km2                  = <!-- Population   ----------------------->
+| population_footnotes            = 
+| population_total                = 279,074
+| population_as_of                = 2010
+| population_urban                = 330,000
+| population_urban_footnotes      = &nbsp;(2018)<ref name="demographia84"/>
+| population_density_km2          = 531.6
+| population_blank1_title         = [[Ethnic groups in China|Major Ethnic groups]]
+| population_blank1               = [[Tibetan people|Tibetan]]; [[Han Chinese|Han]]; [[Hui people|Hui]]
+| population_density_blank1_km2   = 
+| population_blank2_title         = [[Languages of China|Languages]]
+| population_blank2               = [[Standard Tibetan|Tibetan]], [[Mandarin Chinese|Mandarin]]
+<!-- General information  --------------->| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+| coordinates                     = {{coord|29.6487|N|91.1174|E|type:adm3rd_region:CN-54_source:Gaode|format=dms|display=it}}
+| coor_pinpoint                   = Tibet Autonomous Region government
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = 3656
+<!-- Area/postal codes and others -------->| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 850000
+| area_code                       = [[Telephone numbers in China|891]]
+| website                         = {{url|www.xzcgq.gov.cn}}
+| footnotes                       = 
+| pushpin_map                     = Tibet
+| pushpin_map_caption             = Location in Tibet
+}}

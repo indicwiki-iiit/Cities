@@ -1,0 +1,70 @@
+{{Infobox settlement
+| name                         = Sarajevo
+| native_name                  = Сарајево
+| official_name                = {{lang|bs|Grad Sarajevo}}<br /> City of Sarajevo
+| settlement_type              = [[Capital city]]
+| image_skyline                = {{multiple image
+| border                       = infobox
+| total_width                  = 250
+| image_style                  = border:1;
+| perrow                       = 1/3/2/2
+| image1                       = Sarajevo City Panorama.JPG
+| image2                       = Sarajevo (2673214613).jpg
+| image3                       = JesusesHearthCathedral.jpg
+| image5                       = Саборна црква у Сарајеву.jpg
+| image6                       = Holiday Inn, Blizanci andTram K2YU in Sarajevo BiH.jpg
+| image7                       = Vijecnica (41626036484).jpg
+| image8                       = Trebevićka žičara 2018 07.jpg
+}}
+| image_caption                = Clockwise from top: Sarajevo panorama, [[Cathedral of the Nativity of the Theotokos, Sarajevo|Cathedral Church of the Nativity of the Theotokos]], [[Vijećnica]], [[Sarajevo cable car]], [[Holiday Inn#1980s–present|Holiday Inn]] and the [[United Investment and Trading Company|UNITIC World Trade Towers]], [[Sebilj in Sarajevo|Sebilj]] and the [[Sarajevo cathedral|Sacred Heart Cathedral]].
+| image_flag                   = Flag of Sarajevo.svg
+| image_seal                   = Coat of arms of Sarajevo.svg
+| seal_size                    = 75px
+| nickname                     = "Jerusalem of Europe",<ref name="In Europe's Jerusalem">Stilinovic, Josip (3 January 2002). [http://www.cwnews.com/news/viewstory.cfm?recnum=21006 "In Europe's Jerusalem"], ''Catholic World News''. The city's principal mosques are the Gazi Husrev-Bey's Mosque, or Begova Džamija (1530), and the Mosque of Ali Pasha (1560–61). Retrieved on 5 August 2006.</ref> "Jerusalem of the Balkans",<ref name="google27">{{cite book|url=https://archive.org/details/jewstheirfuturec0000benb|url-access=registration|quote=Sarajevo.|title=The Jews and their Future: A Conversation on Judaism and Jewish Identities|first1=Esther|last1=Benbassa|author-link1=Esther Benbassa|first2=Jean-Christophe|last2=Attias|year=2004|location=London|publisher=Zed Books|page=[https://archive.org/details/jewstheirfuturec0000benb/page/27 27]|isbn=978-1-84277-391-8}}</ref> "Šeher, Rajvosa"<ref name=history>{{cite web|url=http://www.visitsarajevo.ba/history |title=Visit Sarajevo: A Brief History of the City |publisher=Visit Sarajevo |access-date=28 March 2012 |url-status=dead |archive-url=https://web.archive.org/web/20110823104702/http://www.visitsarajevo.ba/history/ |archive-date=23 August 2011 }}</ref>
+<!-- images, nickname, motto --->| motto                           = 
+| image_map                    = 
+| map_caption                  = Interactive map outlining Sarajevo
+| pushpin_map_caption          = Location within Bosnia and Herzegovina##Location within Europe
+| pushpin_relief               = 1
+| pushpin_map                  = Bosnia and Herzegovina#Balkans#Europe
+| coordinates                  = {{coord|43|52|N|18|25|E|region:BA|display=inline,title}}
+| subdivision_type             = Country
+| subdivision_name             = {{flag|Bosnia and Herzegovina}}
+| subdivision_type2            = [[Cantons of the Federation of Bosnia and Herzegovina|Canton]]
+| subdivision_name2            = {{flag|Sarajevo Canton|Sarajevo}}
+| subdivision_type3            = [[Municipalities of Bosnia and Herzegovina|Municipalities]]:<br/>{{bulleted list|[[Centar, Sarajevo|Centar]]|[[Novi Grad, Sarajevo|Novi Grad]]|[[Novo Sarajevo]]|[[Stari Grad, Sarajevo|Stari Grad]]}}
+| subdivision_name3            = [[#Municipalities and city government|4]]
+| established_title            = Founded
+| established_date             = 1461
+| leader_party                 = {{nowrap|[[Social Democratic Party (Bosnia and Herzegovina)|SDP BiH]]}}
+| leader_title                 = [[List of mayors of Sarajevo|Mayor]]
+| leader_name                  = [[Benjamina Karić]]<ref>{{cite web|url=https://www.klix.ba/vijesti/bih/benjamina-karic-je-zvanicno-nova-gradonacelnica-sarajeva/210408032|title=Benjamina Karić je zvanično nova gradonačelnica Sarajeva|date=8 April 2021|access-date=8 April 2021|language=bs|author=R.D.|publisher=Klix.ba}}</ref>
+| area_footnotes               = 
+| area_total_km2               = 141.5
+| area_urban_km2               = 419.16
+| area_metro_km2               = 3350
+| elevation_m                  = 550
+| population_as_of             = 2013 census
+| population_footnotes         = <ref name="ds">[http://www.popis.gov.ba/popis2013/doc/RezultatiPopisa_BS.pdf Census 2013th official data].</ref>
+| total_type                   = [[City proper]]
+| population_total             = 275,524
+| population_density_km2       = auto
+| population_urban             = 419,957<!--Includes City of Sarajevo as well as municipalities of Ilidža, Vogošća, Istočna Ilidža and Istočno Novo Sarajevo-->
+| population_density_urban_km2 = auto
+| population_metro             = 555,210
+| population_density_metro_km2 = auto
+| population_blank2_title      = [[Demonym]]
+| population_blank2            = Sarajevan (English)<br />Sarajlija (Bosnian)
+| population_note              = 
+| postal_code_type             = [[Postal code]]
+| postal_code                  = BIH-71 000
+| area_code                    = +387 33
+| website                      = {{url|http://sarajevo.ba/}}
+| footnotes                    = 
+| timezone                     = [[Central European Time|CET]]
+| utc_offset                   = +1
+| timezone_DST                 = [[Central European Summer Time|CEST]]
+| utc_offset_DST               = +2
+| population_est               = 
+| pop_est_as_of                = 30.06.2020
+}}

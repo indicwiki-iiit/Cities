@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                            = San José
+| settlement_type                 = [[Capital city]]
+<!-- Images, nickname, motto -->
+| image_skyline                   = Ciudad de San José.png
+| image_size                      = 280
+| image_alt                       = 
+| image_caption                   = From top, left to right: [[Skyline]] of San José, [[La Sabana Metropolitan Park|La Sabana Park]], southeastern face of the [[Museo Nacional de Costa Rica|National Museum]], [[National Theatre of Costa Rica|National Theatre]], [[Morazán Park]], the ''[[Edificio Metálico]]'', entrance of the National Museum, ''Paseo Colón'' avenue, [[Metropolitan Cathedral of San José|Metropolitan Cathedral]]
+| image_flag                      = Bandera de San José (Costa Rica).svg
+| flag_size                       = 100x67px
+| flag_alt                        = 
+| image_shield                    = Blason de San José (Costa Rica).svg
+| shield_size                     = 100x80px
+| shield_alt                      = 
+| image_blank_emblem              = San José - City Brand Logo.png
+| blank_emblem_type               = Wordmark
+| nickname                        = ''Chepe''
+| motto                           = Ad Meliora{{nbsp|2}}<small>([[Latin]])<br/>''"Towards better things"''</small>
+<!-- Maps, coordinates -->
+| image_map                       = Sjo map.svg
+| mapsize                         = 275px
+| map_caption                     = Borders of San José city within San José canton, where East sector of Uruca district is excluded.<ref name="divadm" /><ref name="decr1980" />
+| pushpin_map                     = Costa Rica
+| pushpin_map_caption             = Location of San José within Costa Rica
+| coordinates                     = {{Coord|9|56|N|84|5|W|region:CR|display=inline,title}}
+| coordinates_footnotes           = 
+| subdivision_type                = Country
+| subdivision_name                = [[Costa Rica]]
+| subdivision_type1               = [[Provinces of Costa Rica|Province]]
+| subdivision_name1               = [[San José Province|San José]]
+| subdivision_type2               = [[Cantons of Costa Rica|Canton]]
+| subdivision_name2               = [[San José (canton)|San José]]
+| parts_type                      = Districts <!-- defaults to: Boroughs -->
+| parts_style                     = coll
+| parts                           = 10 total, 1 partial.<ref name="divadm" /><ref name="decr1980" />
+| government_type                 = 
+| leader_title                    = [[Mayor of San José, Costa Rica|Mayor]]
+| leader_name                     = [[Johnny Araya Monge]] ([[Alliance for San José Party (Costa Rica)|PASJ]])
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| established_title               = Founded
+| established_date                = [[Circa|ca]]. 1739
+| established_title2              = Capital as of
+| established_date2               = 16 May 1823
+| established_title3              = 
+| established_date3               = 
+| area_magnitude                  = 
+| unit_pref                       = Metric
+| area_footnotes                  = 
+| area_total_km2                  = 44.62
+| area_total_sq_mi                = 
+| area_land_km2                   = 
+| area_land_sq_mi                 = 
+| area_water_km2                  = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 2044
+| area_metro_sq_mi                = 
+| population_as_of                = 2018
+| population_note                 = 
+| population_footnotes            = 
+| population_total                = 342,188<ref>https://www.inec.cr/anuario-estadistico</ref>
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Josefino/a
+| population_density_km2          = auto
+| population_density_sq_mi        = auto
+| population_metro                = 2158898
+| population_density_metro_km2    = 1056.2
+| population_density_metro_sq_mi  = auto
+| population_urban                = 1543000 (March 2013)<ref>{{cite web|title=Demographia World Urban Areas PDF (March 2013)|url=http://www.inec.go.cr/Web/Home/GeneradorPagina.aspx|publisher=Instituto Nacional de Censos de Costa Rica|access-date=24 November 2013|url-status=dead|archive-url=https://web.archive.org/web/20151120125018/http://www.inec.go.cr/Web/Home/GeneradorPagina.aspx|archive-date=20 November 2015|df=dmy-all}}</ref>
+| timezone                        = [[Central Time Zone|CST]]
+| utc_offset                      = -6
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| elevation_m                     = 1172
+| elevation_ft                    = 
+| area_code                       = + 506
+| blank_name                      = '''[[Human Development Index|HDI]]'''
+| blank_info                      = 0.808<ref>{{cite web |title=Subnational Human Development Index |url=https://globaldatalab.org/shdi/shdi/CRI/?levels=1%2B4&interpolation=0&extrapolation=0&nearest_real=0}}</ref> – <span style="color:#090">Very High</span>
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Tropical savanna climate|Aw]]
+| website                         = [https://www.msj.go.cr/SitePages/home.aspx MSJ.go.cr]
+| footnotes                       = 
+| official_name                   = 
+}}

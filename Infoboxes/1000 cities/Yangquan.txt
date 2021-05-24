@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Yangquan}}
+|official_name          = 
+|other_name             = Yangchuan
+|native_name            = {{lower|0.1em|阳泉市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 阳泉网通大厦.jpg
+|imagesize              = 
+|image_caption          = 
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Yangquan Prefecture within Shanxi (China).png
+|mapsize                =  
+|map_caption            = Location of Yangquan City jurisdiction in Shanxi
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =  Shanxi
+|pushpin_map_caption    =  Location of the city centre in Shanxi
+|pushpin_label_position =  right
+|pushpin_mapsize       =  240
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Shanxi]]
+|subdivision_type2      = Districts
+|subdivision_name2      = 3
+|subdivision_type3      = Counties
+|subdivision_name3      = 2
+|seat_type              = Municipal seat
+|seat                   = [[Chengqu, Yangquan|Chengqu]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =<!-- CPC Secretary -->
+|leader_name            =
+|leader_title1          =<!-- Mayor -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title2     = Incorporated (prefecture)
+|established_date2      = 1952
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 4452<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_metro_km2           =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_footnotes           =
+|population_note                =
+|population_total               =1368502
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_urban_km2   =auto
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 5221.9 
+| area_urban_km2          = 68.93 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 813000
+| population_urban        = 637600
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Yangquan municipal government
+|coordinates            = {{coord|37.8571|N|113.5804|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 045000
+|area_code = 0353
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank2_info            ={{lang|zh-cn|晋C}}
+|blank3_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank3_info            =140300
+|iso_code = [[ISO 3166-2:CN|CN-SX-03]]
+|website                = {{URL|yq.gov.cn}}
+|footnotes              = 
+}}

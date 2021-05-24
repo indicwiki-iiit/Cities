@@ -1,0 +1,52 @@
+{{Infobox Australian place
+| type               = city
+| name               = Sydney
+| state              = NSW
+| image              = Sydney Opera House and Harbour Bridge Dusk (2) 2019-06-21.jpg
+| caption            = The [[Sydney Opera House]] and [[Sydney Harbour Bridge]], two of Sydney's most famous landmarks, taken at dusk
+| image_alt          = 
+| image2             = Free vector map of Sydney city Australia Level 12.svg
+| image2_alt         = Map of the Sydney metropolitan area
+| caption2           = Map of the Sydney metropolitan area
+| coordinates        = {{coord|33|51|54|S|151|12|34|E|display=inline,title}}
+| force_national_map = yes
+| pop                = 5367206
+| pop_year           = 2020
+| pop_footnotes      = <ref name="ABSGCCSA">{{cite web |title = 3218.0 – Regional Population Growth, Australia, 2019–20 |url = https://www.abs.gov.au/statistics/people/population/regional-population/latest-release |website = abs.gov.au  |publisher = [[Australian Bureau of Statistics]] |access-date = 30 March 2021 }}</ref>
+| poprank            = 1st
+| density            = 433
+| density_footnotes  = (2020)<ref name="ABSGCCSA">{{cite web |title = 3218.0 – Regional Population Growth, Australia, 2019–20 |url = https://www.abs.gov.au/statistics/people/population/regional-population/latest-release |website = abs.gov.au  |publisher = [[Australian Bureau of Statistics]] |access-date = 30 March 2021 }}</ref>
+| established        = [[Australia Day|26 January]] [[1788 in Australia|1788]]
+| area               = 12367.7
+| area_footnotes     = (GCCSA)<ref name=ABSGCCSAXLS>{{cite web |url = http://www.censusdata.abs.gov.au/CensusOutput/copsub.NSF/All%20docs%20by%20catNo/2011~Community%20Profile~1GSYD/$File/BCP_1GSYD.zip?OpenElement |title = Greater Sydney: Basic Community Profile |publisher=[[Australian Bureau of Statistics]] |work=2011 Census Community Profiles |date=28 March 2013 |format=xls |access-date=9 April 2014 }}</ref>
+| timezone           = [[Australian Eastern Standard Time|AEST]]
+| utc                = +10
+| timezone-dst       = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst            = +11
+| dist1              = 877
+| dir1               = NE
+| location1          = Melbourne
+| dist2              = 923
+| dir2               = S
+| location2          = Brisbane
+| dist3              = 287
+| dir3               = NE
+| location3          = Canberra
+| dist4              = 3936
+| dir4               = E
+| location4          = Perth
+| dist5              = 1404
+| dir5               = E
+| location5          = Adelaide
+| lga                = [[#Government|various]] (31)
+| county             = [[Cumberland County, New South Wales|Cumberland]]<ref name=gnbcounty>{{NSW GNR|id=JPYbwptLTR|title=Cumberland County|accessdate=20 September 2017}}</ref>
+| division           = 
+| stategov           = [[Electoral districts of New South Wales|various]] (49)
+| fedgov             = [[:File:Sydney divisions overview 2010.png|various]] (24)
+| maxtemp            = 21.8
+| maxtemp_footnotes  = <ref name=metdata>{{BoM Aust stats|site_ref=cw_066062_All|site_name=Sydney (Observatory Hill)|accessdate=15 December 2016}}</ref>
+| mintemp            = 13.8
+| mintemp_footnotes  = <ref name=metdata/>
+| rainfall           = 1213.4
+| rainfall_footnotes = <ref name=metdata/>
+}}

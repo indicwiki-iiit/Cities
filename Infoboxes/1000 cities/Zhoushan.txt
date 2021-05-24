@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Zhoushan}}
+|official_name          = 
+|other_name             = Chou Shan
+|native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|舟山市}}}}}}
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Skyline of the new city center of Zhoushan City.jpg
+|imagesize              = 280
+|image_caption          = Skyline of the new city center
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=30.19|frame-long=122.24}}
+|image_map1             = ChinaZhejiangZhoushan.png
+|mapsize1               =
+|map_caption1           = Location in Zhejiang
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Zhejiang]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County divisions]]
+|subdivision_name2      =  4
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township divisions]]
+|subdivision_name3      =  45
+|seat_type              = Municipal seat
+|seat                   = [[Dinghai District]]
+|leader_title           = [[CPC Secretary]]
+|leader_name            = Yu Donglai ({{lang|zh-hans|俞东来}})
+|leader_title1          = [[Mayor]]
+|leader_name1           = Wen Nuan ({{lang|zh-hans|温暖}})
+|established_title      = County established
+|established_date       = [[Tang Dynasty]]
+|established_title1     = Converted to prefecture-level city
+|established_date1      = 1987
+|area_total_km2           = 22,200
+|area_land_km2            = 1,440.12
+|area_water_km2           = 20,800
+|population_as_of               = 2015 census<ref>{{cite web|url=http://www.zstj.net/ShowArticle.aspx?ArticleID=6681 |script-title=zh:2015年舟山市常住人口为115.2万人|language=zh}}</ref>
+|population_total               = 1,152,000
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Zhoushan municipal government
+|coordinates            = {{coord|29.9856|N|122.2074|E|type:adm2nd_scale:1000000_region:CN-33_source:Gaode|format=dms|display=it}}
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 316000, 202450 for [[Shengsi County]] 
+|area_code = (0)580
+|iso_code = [[ISO 3166-2:CN|CN-ZJ-09]]
+|blank_name             = [[GDP]]
+|blank_info             = $9.518 billion
+|blank1_name            = GDP per capita
+|blank1_info            = $15,514.38
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]]
+|blank2_info            = {{lang|zh-cn|浙L}}
+|website = {{URL|www.zhoushan.gov.cn/}} {{in lang|zh-hans}}
+|footnotes              =
+}}

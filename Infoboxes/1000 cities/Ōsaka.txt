@@ -1,0 +1,134 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Osaka}}
+| native_name             = {{lower|0.1em|{{nobold|{{Nihongo2|大阪市}}}}}}
+| official_name           = Osaka City
+| settlement_type         = [[Cities designated by government ordinance of Japan|Designated city]]
+<!-- images, nickname, motto --->
+| image_skyline           = {{multiple image
+| border                   = infobox
+| total_width              = 290
+| perrow                   = 1/3/2
+| image1                   = Osaka Umeda Sky Building Panoramablick 05.jpg
+| alt1                     = The Umeda skyline from Umeda Sky Building
+| image2                   = Dotonbori, Osaka, at night, November 2016.jpg
+| alt2                     = Dotonbori at night
+| image3                   = Shinsekai downtown MShades.jpg
+| alt3                     = Tsūtenkaku at Shinsekai
+| image4                   = Abeno Harukas 20140507-002.jpg
+| alt4                     = Abeno Harukas
+| image5                   = Osaka Castle Keep Tower in 201504 013.JPG
+| alt5                     = Osaka Castle
+| image6                   = Shitennoji03s3200.jpg
+| alt6                     = Shitennō-ji
+}}
+| imagesize               =
+| image_alt               =
+| image_caption           = From top left:  [[Umeda]] skyscrapers, [[Dōtonbori]], [[Tsūtenkaku]] viewed from [[Shinsekai]], [[Abenobashi Terminal Building|Abeno Harukas]], [[Osaka Castle]], [[Shitennō-ji]]
+| image_flag              = Flag of Osaka, Osaka.svg
+| image_seal              = Emblem of Osaka, Osaka.svg
+| image_shield            =
+| image_blank_emblem      =
+| nickname                =
+| motto                   =
+<!-- maps and coordinates ------>
+| image_map               = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| image_map1              = Osaka in Osaka Prefecture Ja.svg
+| map_alt1                =
+| map_caption1            = Location of Osaka in [[Osaka Prefecture]]
+| image_dot_map           =
+| dot_mapsize             = 
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x                   =
+| dot_y                   =
+| pushpin_map             = Japan Kansai##Japan#Asia#Earth
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location in the [[Kansai region]]######
+| coordinates             = {{coord|34|41|38|N|135|30|8|E|type:city(2668586)_region:JP-27|display=it}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type = Country
+| subdivision_name        = {{flag|Japan}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kansai region|Kansai]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Osaka Prefecture]]
+| subdivision_type3       = [[List of islands of Japan|Island]]
+| subdivision_name3       = [[Honshu]]
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| governing_body          = [[Osaka City Council]]
+| leader_party            =
+| leader_title            = [[Politics of Osaka City|Mayor]]
+| leader_name             = [[Ichirō Matsui]] ([[Osaka Restoration Association|ORA]])<ref>{{cite web|url=https://www.japantimes.co.jp/news/2019/04/08/national/politics-diplomacy/osaka-leaders-projected-win-elections-swap-roles/|title=Osaka leaders win in elections to swap roles, but merger prospects unclear|first=Eric|last=Johnston|date=April 8, 2019|via=Japan Times Online}}</ref>
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = Metric
+<!-- area ---------------------->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 225.21
+| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| area_note               = <ref>with undecided boundary, see Japanese wiki [[:ja:大阪市]]</ref>{{circular inline|date=March 2021}}
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 2,668,586 
+| population_rank         = [[List of cities in Japan|3rd in Japan]]
+| population_as_of        = January 1, 2012
+| population_density_km2  = 12,214 
+| population_metro_footnotes = <ref name="japan2"/> ([[List of metropolitan areas in Japan by population|2nd]])
+| population_metro        = 19,303,000 (<nowiki>2019, </nowiki>[[Keihanshin]])
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- time zone(s) -------------->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+<!-- postal codes, area code --->
+| postal_code_type        =
+| postal_code             =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Prunus serrulata|Cherry]]
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Pansy]]
+| blank3_name_sec1        =
+| blank3_info_sec1        =
+| blank4_name_sec1        =
+| blank4_info_sec1        =
+| blank5_name_sec1        =
+| blank5_info_sec1        =
+| blank6_name_sec1        =
+| blank6_info_sec1        =
+| blank7_name_sec1        =
+| blank7_info_sec1        =
+<!-- blank fields (section 2) -->
+| blank_name_sec2        = Address
+| blank_info_sec2        = Osaka City Hall: 1-3-20 Nakanoshima, Kita-ku, Ōsaka-shi, Ōsaka-fu<br/>530-8201
+| blank1_name_sec2       = Phone&nbsp;number
+| blank1_info_sec2       = 06-6208-8181
+<!-- website, footnotes -------->
+| website                 = {{URL|www.city.osaka.lg.jp}}
+| footnotes               =
+}}

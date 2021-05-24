@@ -1,0 +1,134 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info ---------------->
+|name                 = {{raise|0.2em|Huainan}}
+|official_name        = 
+|other_name           = Hwainan
+|native_name          = {{lower|0.1em|淮南市}}
+|native_name_lang = zh
+|nickname             = 
+|settlement_type      = [[Prefecture-level city]]
+|total_type           = <!-- to set a non-standard label for total area and population rows -->
+|motto                =
+<!-- images and maps ----------->
+|image_skyline        = Tongfei Gate, Shou County.jpg
+|imagesize            = 
+|image_caption        = 
+|image_seal           = 
+|seal_size            = 
+|image_shield         = 
+|shield_size          = 
+|image_blank_emblem   = 
+|blank_emblem_type    = 
+|blank_emblem_size    = 
+|image_map            = Location of Huainan Prefecture within Anhui (China).png
+|mapsize              = 
+|map_caption          = Location of Huainan City jurisdiction in Anhui
+|image_map1           = 
+|mapsize1             = 
+|map_caption1         = 
+|image_dot_map        = 
+|dot_mapsize          = 
+|dot_map_caption      = 
+|dot_x                = 
+|dot_y                = 
+<!--
+|pushpin_map          = Anhui
+|pushpin_label_position = 
+|pushpin_map_caption  = Location of the city centre in Anhui
+|pushpin_mapsize      =
+-->
+|coor_pinpoint = [[:zh:淮南站|Huainan railway station]] plaza
+|coordinates = {{coord|32.6314|N|117.0194|E|type:adm2nd_region:CN-34_source:Gaode|format=dms|display=it}}
+<!-- Location ------------------>
+|subdivision_type     = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1    = [[Provinces of China|Province]]
+|subdivision_name1    = [[Anhui]]
+|subdivision_type2    = [[Administrative divisions of China#County level|County-level divisions]]
+|subdivision_name2    = 7
+|subdivision_type3    = [[Administrative divisions of China#Township level|Township-level divisions]]
+|subdivision_name3    = 66
+|subdivision_type4    = 
+|subdivision_name4    = 
+|seat_type            = Municipal seat
+|seat                 = [[Tianjia'an District]]
+|parts_type           =
+|parts_style          = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                      Default is list if up to 5 items, coll if more than 5-->
+|parts                = <!-- parts text, or header for parts list -->
+|p1                   = 
+|p2                   = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type      = 
+|leader_title         = CPC Secretary
+|leader_name          = Shen Qiang ({{lang|zh-hans|沈强}})
+|leader_title1        = [[Mayor]]
+|leader_name1         = Wang Hong ({{lang|zh|王宏}})
+|leader_title2        = 
+|leader_name2         = 
+|leader_title3        = 
+|leader_name3         = 
+|leader_title4        = 
+|leader_name4         = 
+|established_title    = <!-- Settled -->
+|established_date     = 
+|established_title1   = <!-- Incorporated (town) -->
+|established_date1    = 
+|established_title2   = <!-- Incorporated (city) -->
+|established_date2    = 
+|established_title3   = 
+|established_date3    = 
+|founder              = 
+|named_for            = 
+<!-- Area --------------------->
+|area_magnitude       = <!-- use only to set a special wikilink --> 
+|unit_pref            = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes       =
+|area_total_km2       = 5533 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2        = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2       = 
+|area_water_percent   = 
+|area_urban_km2       = 1492.3
+|area_metro_km2       = 1985.6
+|area_blank1_title    = 
+|area_blank1_km2      = 
+<!-- Elevation -------------------------->
+|elevation_footnotes  = <!--for references: use <ref> </ref> tags-->
+|elevation_m          = 
+|elevation_ft         = 
+|elevation_max_m      = 
+|elevation_max_ft     = 
+|elevation_min_m      = 
+|elevation_min_ft     = 
+<!-- Population ----------------------->
+|population_as_of     = 2010 census
+|population_footnotes =
+|population_note      =
+|population_total     = 2333896 
+|population_density_km2 = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro     = 1938212
+|population_density_metro_km2 = auto
+|population_urban     = 1666826
+|population_density_urban_km2 = auto
+|population_blank1_title =
+|population_blank1    =
+|population_density_blank1_km2 =
+<!-- General information --------------->
+|timezone             = [[China Standard Time|CST]]
+|utc_offset           = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type     = <!-- [[Postal code of China|Postal code]] -->
+|postal_code          = 232000
+|area_code            = 554
+|iso_code = [[ISO 3166-2:CN|CN-AH-04]]
+|blank_name           = [[GDP]] 
+|blank_info           = 
+|blank1_name          = GDP per capita 
+|blank1_info          = 
+|blank2_name          = [[Vehicle registration plates of China|License plate]] Prefix 
+|blank2_info          = {{lang|zh-cn|皖D}}
+|website              = 
+|footnotes            = 
+}}

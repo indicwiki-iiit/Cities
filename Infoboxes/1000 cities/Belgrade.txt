@@ -1,0 +1,82 @@
+{{Infobox settlement
+| name                            = Belgrade
+| native_name                     = {{lang|sr|{{lang|sr-Cyrl|Београд}}{{-}}{{lang|sr-Latn|Beograd}}}}
+| native_name_lang                = sr
+| settlement_type                 = [[Capital city]]
+| official_name                   = City of Beograd
+| other_name                      = 
+| image_skyline                   = <center><imagemap>
+File:Beograd collage.jpg|275px|alt=Belgrade montage. Clicking on an image in the picture causes the browser to load the appropriate article.
+rect 739 82 759 134 [[Beograđanka]]
+rect 853 76 878 96 [[Eastern City Gate]]
+poly 559 341 295 206 323 186 663 342 [[Branko's Bridge]]
+poly 855 199 1008 217 1008 264 846 223 [[Old Sava Bridge]]
+poly 15 244 1009 232 1007 283 17 278 [[Sava|Sava River]]
+rect 510 647 92 361 [[House of the National Assembly of the Republic of Serbia|House of the National Assembly]]
+rect 600 551 963 364 [[Novi Dvor|New Palace]]
+rect 100 710 266 1329 [[Avala Tower]]
+rect 93 805 615 1305 [[Ušće Tower]]
+rect 700 1337 993 695 [[Gardoš Tower]]
+rect 164 1635 491 1413 [[Serbian Academy of Sciences and Arts|Serbian Academy of Sciences and Arts' building]]
+rect 580 1674 909 1378 [[Church of Saint Sava]]
+rect 3 1747 510 2033 [[Belgrade Fortress]]
+rect 695 1738 836 2011 [[Monument to the Unknown Hero]]
+</imagemap></center>
+| image_caption                   = From top: Panorama of Belgrade, [[House of the National Assembly of the Republic of Serbia|House of the National Assembly]], [[Novi Dvor|New Palace]], [[Avala Tower]], [[Ušće Tower]], [[Gardoš Tower]], [[Serbian Academy of Sciences and Arts|Serbian Academy of Sciences and Arts' building]], [[Church of Saint Sava]], [[Belgrade Fortress]], [[Monument to the Unknown Hero]]
+| image_flag                      = Flag of Belgrade.svg
+| flag_size                       = 
+| image_seal                      = 
+| image_shield                    = Small Coat of Arms Belgrade.svg
+| map_caption                     = Interactive map outlining Belgrade
+| pushpin_map_caption             = Location within Serbia##Location within Europe
+| pushpin_relief                  = 1
+| pushpin_map                     = Serbia#Balkans#Europe
+| coordinates                     = {{coord|44|49|N|20|28|E|region:RS|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Serbia]]
+| subdivision_type1               = [[Administrative divisions of Serbia|District]]
+| subdivision_type2               = [[Municipalities of Serbia|Municipalities]]
+| subdivision_name1               = Belgrade
+| subdivision_name2               = [[#Municipalities|17]]
+| established_title               = Establishment
+| established_date                = Prior to 279 B.C. ([[Singidunum]])<ref>{{cite web|url=http://www.beograd.rs/cms/view.php?id=201172|title=Ancient Period|publisher=City of Belgrade|date=5 October 2000|access-date=16 November 2010}}</ref>
+| government_type                 = 
+| leader_party                    = Independent
+| leader_title                    = [[Mayor of Belgrade|Mayor]]
+| leader_name                     = [[Zoran Radojičić]]
+| leader_title2                   = [[List of political parties in Serbia|Ruling&nbsp;parties]]
+| leader_name2                    = [[Serbian Progressive Party|SNS]]/[[Social Democratic Party of Serbia|SDPS]]/[[Party of United Pensioners of Serbia|PUPS]] – [[Socialist Party of Serbia|SPS]]/[[United Serbia|JS]]
+| leader_title1                   = Deputy Mayor
+| leader_name1                    = [[Goran Vesić]] ([[Serbian Progressive Party|SNS]])
+| area_footnotes                  = <ref>{{cite web|url=http://www.beograd.rs/cms/view.php?id=201197|title=Territory|publisher=City of Belgrade|access-date=6 May 2009}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 359.9
+| area_urban_km2                  = 1,035
+| area_metro_km2                  = 3222.6
+| area_metro_sq_mi                = 
+| area_rank                       = 
+| elevation_footnotes             = <ref>{{cite web|url=http://www.beograd.rs/cms/view.php?id=201029|title=Geographical position|publisher=City of Belgrade|access-date=10 July 2007}}</ref>
+| elevation_m                     = 117
+| elevation_ft                    = 384
+| population_as_of                = 2011 Census
+| population_urban                = 1,344,844<ref>{{cite book | title = Comparative overview of the number of population in 1948, 1953, 1961, 1971, 1981, 1991, 2002 and 2011 – Data by settlements | page = 28 | date = 2014 | publisher = Statistical Office of the Republic of Serbia, Belgrade | isbn = 978-86-6161-109-4}}</ref>
+| population_metro                = 1,687,132<ref name="zis">{{cite web|url=http://publikacije.stat.gov.rs/G2018/Pdf/G201826001.pdf|title=Regions in Republic of Serbia, 2018|website=publikacije.stat.gov.rs|access-date=14 November 2018}}</ref>
+| population_total                = 1,166,763<ref name="census2011">{{Serbian census 2011}}</ref>
+| population_density_km2          = 3241
+| population_density_urban_km2    = 1192
+| population_density_metro_km2    = 514
+| population_demonym              = Belgradian ([[English language|en]])<br />Beograđanin ([[Serbian language|sr]])
+| blank_name                      = [[Human Development Index|HDI]] (2018)
+| blank_info                      = 0.828<ref>{{cite web|url=https://globaldatalab.org/shdi/shdi/|title=Sub-national HDI – Subnational HDI – Global Data Lab|website=globaldatalab.org}}</ref> – <span style="color:#090;">very high</span>
+| postal_code_type                = Postal code
+| postal_code                     = 11000
+| area_code                       = +381(0)11
+| area_code_type                  = [[Telephone numbers in Serbia|Area code]]
+| registration_plate              = [[Vehicle registration plates of Serbia|BG]]
+| iso_code                        = RS-00
+| website                         = {{URL|http://www.beograd.rs|www.beograd.rs}}
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+}}

@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+| name                   = {{raise|0.2em|Taiyuan}}
+| official_name          =
+| native_name            = {{lower|0.1em|太原市}}
+| native_name_lang = zh
+| settlement_type        = [[Prefecture-level city]]
+| nickname               = Bīngzhōu ({{lang|zh|并州}}); Jìnyáng ({{lang|zh-hans|晋阳}}); Dragon City ({{lang|zh-hans|龙城}})
+<!-- images and maps  ----------->
+| image_skyline          = Taiyuan Montage.png
+| motto                  =
+| image_caption          = [[Longtan Park]], The east pagoda in [[Twin Pagoda Temple]], [[Jinci]] temple.
+| image_seal             =
+| image_shield           =
+| image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+| image_map1             = Location of Taiyuan Prefecture within Shanxi (China).png
+| map_caption1           = Location of Taiyuan City jurisdiction in Shanxi
+| pushpin_map            = Shanxi
+| pushpin_label_position = right
+| pushpin_mapsize        = 240
+| pushpin_map_caption    = Location of the city center in Shanxi
+<!-- Location ------------------>
+| coordinates            = {{coord|37.8704|N|112.5497|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+| coor_pinpoint = Taiyuan municipal government
+| subdivision_type       = Country
+| subdivision_name       = [[China]]
+| subdivision_type1      = [[Province of China|Province]]
+| subdivision_name1      = [[Shanxi]]
+| subdivision_type2      =
+| subdivision_name2      =
+| seat_type = Municipal seat
+| seat = [[Xinghualing District]]
+| parts_type             = Divisions
+| parts_style            = para
+| p1                     = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]: 10
+| p2                     = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]: 83
+<!-- Politics ----------------->
+| government_footnotes   =
+| government_type         = [[Prefecture-level city]]
+|governing_body = [[Taiyuan Municipal People's Congress]]
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+|leader_name            = [[Luo Qingyu]]
+| leader_title1 = [[Taiyuan Municipal People's Congress|Congress]] Chairman
+| leader_name1 = Wei Min
+|leader_title2          = [[Mayor]]
+|leader_name2           = Zhang Xinwei
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Cao Xuecheng
+| established_date       =
+| founder                =
+| named_for              =
+<!-- Area    --------------------->
+| area_magnitude         = <!-- use only to set a special wikilink -->
+| unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes         =
+| area_total_km2         = 6,959<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2         =
+| area_water_percent     =
+| area_urban_km2         = 1,460
+| area_metro_km2         =
+<!-- Elevation -------------------------->
+| elevation_footnotes    =
+| elevation_m            = 800
+| elevation_max_m        = 2670
+| elevation_min_m        = 760
+<!-- Population   ------------------>
+| population_footnotes   = <ref name="Census2010"/>
+| population_as_of       = 2010 census
+| population_total       = 4,201,591 
+| population_note        =
+| population_density_km2 = auto <!--For automatic calculation, any density field may contain: auto -->
+| population_metro       =
+| population_blank1_title = Districts<ref name="CUCSY_2017">{{cite book |editor1=[[Ministry of Housing and Urban-Rural Development]] |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=48 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_blank1       = 4372000
+| population_urban        = 3709700
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+| population_density_metro_km2 = auto
+| population_density_urban_km2 = auto
+<!-- General information  --------------->
+| timezone           = [[China Standard Time|China Standard]]
+| utc_offset         = +08:00
+<!-- Area/postal codes & others -------->
+| area_code          = 351
+| blank_name         = [[GDP]]
+| blank_info         = [[Renminbi|¥]] 3382.18&nbsp;billion (2017)
+| blank1_name        = GDP per capita
+| blank1_info        = [[Renminbi|¥]] 78,472 (2017)
+| blank2_name        = [[Globalization and World Cities Research Network|GaWC Global City level classification]]
+| blank2_info        = Gamma - <ref>{{cite web |title=The World According to GaWC 2020 |url=https://www.lboro.ac.uk/gawc/world2020t.html |website=GaWC - Research Network |publisher=Globalization and World Cities |access-date=31 August 2020}}</ref> 
+| blank3_name        = Major [[Nationalities of China|Nationalities]]
+| blank3_info        = [[Han Chinese|Han]]
+| blank4_name        = [[Administrative division codes of the People's Republic of China|Administrative division code]]
+| blank4_info        = 140100
+| postal_code_type   = [[Postal code of China|Postal code]]
+| registration_plate = {{lang|zh-cn|[[Vehicle registration plates of China|晋A]]}}
+| postal_code        = 030000
+| iso_code           = [[ISO 3166-2|CN-SX-01]]
+| website            = {{URL|taiyuan.gov.cn}}
+| footnotes          =
+}}

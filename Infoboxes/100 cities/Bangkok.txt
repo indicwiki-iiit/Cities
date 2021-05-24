@@ -1,0 +1,89 @@
+{{Infobox settlement
+|name                    = Bangkok
+|other_name              =
+|native_name             = {{vpad|0.5em}}{{nobold|{{lang|th|กรุงเทพมหานคร}}}}<br />{{lang|th-Latn|Krung Thep Maha Nakhon}}
+|native_name_lang        = 
+|settlement_type         = Special administrative area
+|image_skyline           = Bangkok montage 3.jpg
+|image_alt               = A composite image, consisting of the following, in clockwise fashion: a skyline with several skyscrapers; a tall gate-like structure, painted in red; a monument featuring bronze figures standing around the base of an obelisk, surrounded by a large traffic circle; a cable-stayed bridge with a single pylon on one side of the river it spans; a temple with a large stupa surrounded by four smaller ones on a river bank; and a stately building with a Thai-style roof with three spires
+|image_caption           = Clockwise from top: [[Si Lom]]–[[Sathon]] business district, the [[Giant Swing]], [[Victory Monument (Bangkok)|Victory Monument]], [[Rama VIII Bridge]], [[Wat Arun]], and the [[Grand Palace]]
+|image_flag              = Flag of Bangkok.svg
+|flag_alt                = A green rectangular flag with the seal of Bangkok in the centre
+|image_seal              = Seal Bangkok Metropolitan Admin (green).svg
+|seal_alt                = A round seal bearing the image of Indra riding Airavata among clouds, with the words &quot;Krung Thep Maha Nakhon&quot; (in Thai) across the top
+|nickname                =
+|image_map               = Thailand Bangkok locator map.svg
+|mapsize                 = 142px
+|map_alt                 = Map of Thailand, with a small highlighted area near the centre of the country, near the coast of the Gulf of Thailand
+|map_caption             = Location within Thailand
+|coordinates             = {{coord|13|45|09|N|100|29|39|E|region:TH-10|display=inline,title}}
+|coordinates_footnotes   =<ref name="BMA geo"/>
+|subdivision_type        = Country
+|subdivision_name        = [[Thailand]]
+|subdivision_type2       = [[Regions of Thailand|Region]]
+|subdivision_name2       = [[Central Thailand]]
+|established_title       = Settled
+|established_date        = c. 15th century
+|established_title2      = Founded as capital
+|established_date2       = 21 April 1782
+|established_title3      = Re-incorporated
+|established_date3       = 13 December 1972
+|founder                 = King [[Rama I]]
+|seat_type               = Governing body
+|seat                    = [[Bangkok Metropolitan Administration]]
+|government_footnotes    =
+|government_type         = [[Special administrative area (Thailand)|Special administrative area]]
+|leader_party            =
+|leader_title            = [[Bangkok Metropolitan Administration#List of governors|Governor]]
+|leader_name             = [[Aswin Kwanmuang]]
+<!-- display settings  --------->
+|total_type              = City
+|unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+|area_footnotes          =<ref name="BMA geo"/>
+|area_urban_footnotes    = <!-- -->
+|area_rural_footnotes    = <!-- -->
+|area_metro_footnotes    =<ref name="Tangchonlatip"/>
+|area_magnitude          = <!-- -->
+|area_note               =
+|area_water_percent      =
+|area_rank               =
+|area_blank1_title       =
+|area_blank2_title       =
+<!-- square km -->
+|area_total_km2          = 1568.737
+|area_land_km2           =
+|area_water_km2          =
+|area_urban_km2          =
+|area_rural_km2          =
+|area_metro_km2          = 7761.6
+|area_blank1_km2         =
+|area_blank2_km2         =
+|length_km               =
+|width_km                =
+|dimensions_footnotes    =
+|elevation_footnotes     =<ref name="Sinsakul"/>
+|elevation_m             = 1.5
+|population_footnotes    =<ref name="2010 census 1">{{cite book|title=The 2010 Population and Housing Census: Whole Kingdom|chapter=Table 1 Population by sex, household by type of household, changwat and area |chapter-url=http://popcensus.nso.go.th/report/WholeKingdom_T.pdf |publisher=National Statistical Office|website=popcensus.nso.go.th|access-date=6 September 2020|date=2012|page=32|archive-url=https://web.archive.org/web/20190312075524/http://popcensus.nso.go.th/report/WholeKingdom_T.pdf|archive-date=12 March 2019|url-status=dead}}</ref>
+|population_total        = 8305218
+|population_metro        = 14626225
+|population_as_of        = 2010 census
+|pop_est_footnotes       =<ref name="CIA">{{cite web |title=Thailand |url=https://www.cia.gov/the-world-factbook/countries/thailand/ |website=The World Factbook |publisher=CIA |access-date=26 September 2020}}</ref>
+|pop_est_as_of           = 2020
+|population_est          = 10539000
+|population_density_km2  = auto
+|population_density_metro_km2 = auto
+|population_demonym      = Bangkokian
+|demographics1_title1    = HDI
+|demographics1_info1     = 0.943&nbsp;(<span style="color:#090;">very high</span>) ([[Provinces of Thailand|1st]])|population_note         =
+|timezone1               = [[Time in Thailand|ICT]]
+|utc_offset1             = +07:00
+|postal_code_type        = Postal code
+|postal_code             = 10###
+|area_code_type          =
+|area_code               = 02
+|iso_code                = TH-10
+|website                 = {{url|www.bangkok.go.th}}
+|footnotes               =
+}}

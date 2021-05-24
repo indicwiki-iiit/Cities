@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                = Rome
+| official_name       = ''Roma Capitale''
+| native_name         = {{lang|it|Roma}}
+| settlement_type     = [[Capital city]] and ''[[comune]]''
+| image_skyline       = [[File:Rome Montage 2017.png|270px]]
+| image_caption       = Clockwise from top: the [[Colosseum]], [[St. Peter's Basilica]], [[Castel Sant'Angelo]], [[Ponte Sant'Angelo]], [[Trevi Fountain]] and the [[Pantheon, Rome|Pantheon]]
+| image_flag          = [[File:Flag of Rome.svg|100px]]
+| image_shield        = [[File:Insigne Romanum coronatum.svg|70px]]
+| nickname            = {{native name|la|Urbs Aeterna}}<br />{{small|The Eternal City}}
+{{native name|la|Caput Mundi}}<br />{{small|The Capital of the world}}
+ Throne of St. Peter
+| etymology           = Possibly {{lang-ett|Rumon||river}} {{cross-reference|(See ''[[#Etymology|Etymology]]'').}}
+| established_title   = Founded
+| established_date    = 753 BC
+| founder             = King [[Romulus]]
+<!-- maps and coordinates ------>
+| image_map           = Map of comune of Rome (metropolitan city of Capital Rome, region Lazio, Italy).svg
+| map_caption         = The territory of the ''comune'' (''Roma Capitale'', in red) inside the Metropolitan City of Rome (''Città Metropolitana di Roma'', in yellow). The white area in the centre is Vatican City.
+| pushpin_map         = Italy#Europe
+| pushpin_map_caption = Location within Italy##Location within Europe
+| pushpin_relief      = yes
+| coordinates         = {{Coord|41|53|N|12|30|E|region:IT-62_type:city(3000000)|display=inline,title}}
+| coor_pinpoint       = <!-- to specify exact location of coordinates (was coor_type) -->
+<!-- re- location ------------------>
+| subdivision_type    = [[List of sovereign states|Country]]
+| subdivision_name    = {{flagicon|Italy}} {{nowrap|[[Italy]]{{efn|Excluding [[Vatican City]].}}}}
+| subdivision_type2   = [[Regions of Italy|Region]]
+| subdivision_name2   = {{Flag|Lazio}}
+| subdivision_type3   = [[Metropolitan cities of Italy|Metropolitan city]]
+| subdivision_name3=
+Rome
+<!-- government type, leaders -->
+| government_footnotes=
+| government_type     = [[Mayor–council government|Strong Mayor–Council]]
+| leader_title2       = Legislature
+| leader_name2        = [[City Council of Rome|Capitoline Assembly]]
+| leader_title1       = [[Mayor of Rome|Mayor]]
+| leader_name1        = [[Virginia Raggi]] ([[Five Star Movement|M5S]])
+| total_type          = Total
+| unit_pref           = IT
+<!-- area ---------------------->
+| area_footnotes=
+| area_total_sq_mi    = 496.3
+| elevation_footnote=
+| elevation_m         = 21
+| elevation_ft=
+<!-- population ---------------->
+| population_total=
+| population_as_of        = 31 December 2019
+| population_footnotes=
+| population_density_km2  = 2236
+| population_rank         = [[List of cities in Italy|1st in Italy]] ([[List of cities in the European Union by population within city limits|3rd in the EU]])
+| population_blank1_title = ''Comune''
+| population_blank1       = 2,860,009<ref name="Population">{{cite web |title=I numeri di Roma Capitale |url=https://www.comune.roma.it/web-resources/cms/documents/Popolazione_2018_RC_rev.pdf |website=Comune di Roma |archive-url=https://web.archive.org/web/20200504140647/https://www.comune.roma.it/web-resources/cms/documents/Popolazione_2018_RC_rev.pdf |archive-date=4 May 2020 |date=31 December 2018 |access-date=4 May 2020 |url-status=live}}</ref>
+| population_blank2_title = [[Metropolitan cities of Italy|Metropolitan City]]
+| population_blank2       = 4,342,212<ref name="PR">{{Cite web |url=http://dati.istat.it/Index.aspx?DataSetCode=DCIS_POPRES1 |title=Popolazione residente al 1° gennaio}}</ref>
+| population_demonym      = {{lang-it|romano (masculine), romana (feminine)}}<br />{{lang-en|Roman}}
+<!-- time zone(s) -------------->
+| timezone1           = [[Central European Time|CET]]
+| utc_offset1         = +1
+<!-- postal codes, area code --->
+| postal_code_type    = [[Postal code|CAP code(s)]]
+| postal_code         = 00100; 00118 to 00199
+| area_code           = 06
+| website             = [https://www.comune.roma.it comune.roma.it]
+| pushpin_label       = Rome
+| un_locode = 
+<!-- website, footnotes -------->
+| module              = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = ''[[Historic district of Rome|Historic Centre of Rome]], the [[Properties of the Holy See#Outside Vatican City but inside Rome|Properties of the Holy See in that City Enjoying Extraterritorial Rights]] and [[Basilica of Saint Paul Outside the Walls|San Paolo Fuori le Mura]]''
+| criteria      = {{UNESCO WHS type|i, ii, iii, iv, vi}}
+| ID            = 91
+| year          = 1980
+| area          = {{convert|1431|ha|acre|abbr=on}}
+| buffer_zone=
+ }}
+}}

@@ -1,0 +1,104 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = {{raise|0.2em|Yunnan Province}}
+| native_name                     = {{lower|0.1em|{{lang|zh-Hans|云南省}}}}
+| settlement_type                 = [[Provinces of China|Province]]
+| translit_lang1                  = Name
+| translit_lang1_type             = {{nobold|Chinese}}
+| translit_lang1_info             = {{lang|zh-Hans|云南省}} ({{transl|zh|Yúnnán Shěng}})
+| translit_lang1_type1            = {{nobold|Abbreviation}}
+| translit_lang1_info1            = YN / {{linktext|lang=zh|滇}} ({{transl|zh|Diān}}) or {{linktext|lang=zh-Hans|云}} ({{transl|zh|Yún}})
+| image_skyline= {{Photomontage
+| photo1a = R0010879.JPG
+| photo2a = 多依樹日出20191224221513 01.jpg 
+| photo2b = Yuantong Temple, Kunming - DSC03318.JPG
+| photo3a = Juyingchi.JPG 
+| photo3b =石林正门.JPG
+| position = center
+| size = 265
+| color = #F5F5F5
+| border = 0
+| color_border = white
+| text = {{Center|(clockwise from top){{flatlist|
+* [[Meili Snow Mountains]]
+* [[Yuantong Temple]] in [[Kunming]]
+* [[Stone Forest]]
+* The [[Three Pagodas]] of [[Dali City]]
+* [[Honghe Hani Rice Terraces]]
+}}
+}}
+}}
+| image_map                       = Yunnan in China (+all claims hatched).svg
+| mapsize                         = 265px
+| map_alt                         = Map showing the location of Yunnan Province
+| map_caption                     = Map showing the location of Yunnan Province
+| coordinates                     = {{coord|25|03|N|101|52|E|type:adm1st_region:CN-53|format=dms|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = China
+| named_for                       = 
+| seat_type                       = Capital<br/>{{nobold|(and largest city)}}
+| seat                            = [[Kunming]]
+| seat1_type                      = 
+| seat1                           = 
+| parts_type                      = Divisions
+| parts_style                     = para
+| p1                              = 16 [[Prefectures of China|prefectures]]
+| p2                              = 129 [[Counties of China|counties]]
+| p3                              = 1565 [[Townships of China|townships]]
+|government_type = [[Provinces of China|Province]]
+|governing_body = [[Yunnan Provincial People's Congress]]
+| leader_title                    = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+| leader_name                     = [[Ruan Chengfa]]
+|leader_title1                    = [[Yunnan Provincial People's Congress|Congress]] chairman
+|leader_name1                     = Ruan Chengfa
+| leader_title2                   = [[Governor (China)|Governor]]
+| leader_name2                    = [[Wang Yubo]]
+|leader_title3                    = [[Chinese People's Political Consultative Conference|CPPCC]] chairman
+|leader_name3                    = [[Li Jiang (politician)|Li Jiang]]
+| area_footnotes                  = <ref name=mofcom>{{cite web|title=Doing Business in Yunnan Province of China|url=http://english.mofcom.gov.cn/aroundchina/yunnan.shtml|publisher=Ministry Of Commerce - People's Republic Of China|access-date=5 August 2013}}</ref>
+| area_total_km2                  = 394000
+| area_rank                       = [[List of Chinese administrative divisions by area|8th]]
+| elevation_max_m                 = 6740
+| elevation_max_point             = [[Kawagarbo]]
+| elevation_max_ft                = 
+| elevation_max_rank              = 
+| elevation_min_m                 = 
+| elevation_min_point             = 
+| elevation_min_ft                = 
+| elevation_min_rank              = 
+| population_footnotes            = <ref>{{Cite web|date=11 May 2021|title=Communiqué of the Seventh National Population Census (No. 3)|url=http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html|url-status=live|access-date=11 May 2021|publisher=[[National Bureau of Statistics of China]]}}</ref>
+| population_total                = 47,209,277
+| population_as_of                = 2020
+| population_rank                 = [[List of Chinese administrative divisions by population|12th]]
+| population_density_km2          = auto
+| population_density_rank         = [[Provinces of China#List of province-level divisions|24th]]
+| demographics_type1              = Demographics
+| demographics1_footnotes         = <!-- for references: use <ref> tags -->
+| demographics1_title1            = Ethnic composition
+| demographics1_info1             = {{Plainlist|
+* [[Han Chinese|Han]]: 67%
+* [[Yi people|Yi]]: 11%
+* [[Bai people|Bai]]: 3.6%
+* [[Hani people|Hani]]: 3.4%
+* [[Zhuang people|Zhuang]]: 2.7%
+* [[Dai people|Dai]]: 2.7%
+* [[Miao people|Miao]]: 2.5%
+* [[Hui people|Hui]]: 1.5%
+* [[Tibetan people|Tibetan]]: 0.3%
+* [[Palaung people|De'ang]] (Ta'ang): 0.19%
+}}
+| demographics1_title2            = Languages and dialects
+| demographics1_info2             = [[Southwestern Mandarin]]<br/>25 [[#Languages|ethnic minority languages]]
+| iso_code                        = CN-YN
+| blank_name_sec1                 = [[Gross domestic product|GDP]] {{nobold|(2017<ref name="GDP2017">{{cite web|url=http://yndaily.yunnan.cn/html/2018-06/12/content_1224330.htm?div=5 |trans-title=Statistical Communiqué of Yunnan on the 2017 National Economic and Social Development |script-title=zh:云南省2017年国民经济和社会发展统计公报|publisher=Yunnan Bureau of Statistics |language=zh|date=2018-06-12|access-date=2018-06-22}}</ref>)}}
+| blank_info_sec1                 = [[Renminbi|CNY]] 1.65 trillion<br />US$244.84 billion ([[List of Chinese administrative divisions by GDP|20th]])
+| blank1_name_sec1                = &nbsp;• per capita
+| blank1_info_sec1                = [[Renminbi|CNY]] 34,546<br />US$5,117 ([[List of Chinese administrative divisions by GDP per capita|30th]])
+| blank2_name_sec1                = &nbsp;• growth
+| blank2_info_sec1                = 
+| blank_name_sec2                 = [[Human Development Index|HDI]] {{nobold|(2018)}}
+| blank_info_sec2                 = {{increase}} 0.672<ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/?interpolation=0&extrapolation=0&nearest_real=0|title=Sub-national HDI - Subnational HDI - Global Data Lab|website=globaldatalab.org|access-date=2020-04-17}}</ref><br/>{{color|#FFA500|medium}} · [[List of administrative divisions of Greater China by Human Development Index|30th]]
+| website                         = {{url|www.yn.gov.cn}}
+| footnotes                       = 
+| official_name                   = 
+}}

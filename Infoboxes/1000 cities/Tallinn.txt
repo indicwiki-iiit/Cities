@@ -1,0 +1,61 @@
+{{Infobox settlement
+|settlement_type        = [[Capital city]]
+|official_name          = Tallinn
+|native_name            = 
+|image_skyline          = Tallinncollage2.jpg
+|imagesize              = 290
+|image_caption          = Clockwise from top right: [[Kadriorg Palace]], Skyline of Tallinn, spires of [[St. Mary's Cathedral, Tallinn|St. Mary's Cathedral]] and [[Tallinn Town Hall]], View of Tallinn Old Town, [[Kumu Art Museum]], and [[Walls of Tallinn]]
+|image_flag             = Flag of Tallinn.svg
+|image_shield           = Tallinn wapen.svg
+| image_blank_emblem       =Tallinn city logo.svg
+| blank_emblem_type       = Logo
+| blank_emblem_size       =
+| blank_emblem_alt        = 
+| blank_emblem_link        =
+|mapsize                =
+|pushpin_map_caption    = Location within Europe##Location within [[Baltic Sea]] region##Location within Estonia|pushpin_relief = 1
+|pushpin_map            = Europe#Baltic Sea#Estonia
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Estonia]]
+|subdivision_type1      = [[Counties of Estonia|County]]
+|subdivision_name1      = [[Harju County|Harju]]
+|leader_party           = [[Estonian Centre Party|Centre Party]]
+|leader_title1          = Mayor
+|leader_name1           = [[Mihhail Kõlvart]]
+|established_title      = First historical record
+|established_date       = 1219
+|established_title1     = First possible appearance on map
+|established_date1      = 1154
+|established_title2     = Town rights
+|established_date2      = 1248
+|area_total_km2         = 159.2
+|area_total_sq_mi       = 61.5
+|population_footnotes   =<ref name="stat-pop">{{cite web |url= http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO022U&lang=1|title= Population, 1 January by Year, County, Sex and Age group|publisher= Statistics Estonia |access-date=20 October 2020}}</ref>
+|population_as_of       = 2020
+|population_total       = 437,619<!-- data by Statistikaamet, see also resident registration data below -->
+|population_rank        = [[List of cities and towns in Estonia|1st in Estonia]]
+|population_density_km2 = auto
+|population_density_sq_mi =auto
+
+|demographics_type1      = [[Resident registration]] {{nobold|(October 2020)}}
+|demographics1_footnotes =<ref>{{cite web |url= https://www.tallinn.ee/tallinna-elanike-arv |title= Tallinna elanike arv|access-date=20 October 2019}}</ref>
+|demographics1_title1    = Total
+|demographics1_info1     = 447,032
+
+|population_demonym    = ''Tallinner'' (English)<br>{{lang|et|tallinlane}} (Estonian)
+
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST         = +3
+|blank_name             = [[Gross regional product|GRP]]<ref>{{cite web |url=http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=NAA0050&lang=1|title=Gross domestic product by county (ESA 2010)|publisher= Statistics Estonia }}</ref>
+|blank_info             = 2019
+|blank1_name            = &nbsp;- Total
+|blank1_info            = €15.3&nbsp;billion<br/>(${{To USD|15.3|EUR|year=2019|round=yes}}B)
+|blank2_name            = &nbsp;- Per capita
+|blank2_info            = €35,050<br/>(${{Formatnum:{{To USD|35050|EUR|year=2019|round=yes}}}})
+|elevation_m            = 9
+|coordinates            = {{coord|59|26|14|N|24|44|43|E|region:EE|display=inline,title}}
+|website                = {{url|tallinn.ee/eng}}
+|iso_code               = EE-784
+}}

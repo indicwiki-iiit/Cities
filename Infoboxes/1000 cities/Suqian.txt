@@ -1,0 +1,133 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Suqian}}
+|official_name          = 
+|other_name             = Sutsien, Su-ch'ien
+|native_name            = {{lower|0.1em|宿迁市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Renmindadao road and Xihu road intersection.to west,see Xihu road.20141105..JPG
+|imagesize              = 
+|image_caption          =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = ChinaJiangsuSuqian.png
+|mapsize1               =  
+|map_caption1           = Location of Suqian City (yellow) in Jiangsu
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Jiangsu#Eastern China#China
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of the city center in Jiangsu
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Jiangsu]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|seat_type              = Municipal seat
+|seat                   = [[Sucheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =[[Wang Tianqi]] ({{lang|zh|王天琦}})
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =8555  <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =2108
+|area_metro_km2           =2108
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               =4,719,178
+|population_density_km2         =auto 
+|population_metro               =1,437,685 
+|population_density_metro_km2   =auto
+|population_urban               =1,437,685
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Suqian municipal government
+|coordinates            = {{coord|33.963|N|118.275|E|type:adm2nd_region:CN-32_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]] <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = {{ublist|223800 <small>(Urban center)</small>|223600, 223700, 223900 <small>(Other areas)</small>}}
+|area_code              =527
+|iso_code = [[ISO 3166-2:CN|CN-JS-13]]
+|blank_name             =[[GDP]]
+|blank_info             =[[Renminbi|¥]]193.6 billion (2011)
+|blank1_name            =GDP per capita
+|blank1_info            =¥40,930 (2011)
+|blank2_name            =Major [[Nationalities of China|Nationalities]]
+|blank2_info            =[[Han Chinese|Han]]
+|blank3_name            =[[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|blank3_info            =5
+|blank4_name            = '''[[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]'''
+|blank4_info            =115
+|blank5_name            ='''[[Licence plates of the People's Republic of China|License Plate]] Prefix'''
+|blank5_info            = {{lang|zh-cn|苏N}}
+|blank6_name            =
+|blank6_info            =
+|website = {{URL|www.suqian.gov.cn/}}
+|footnotes              = 
+}}

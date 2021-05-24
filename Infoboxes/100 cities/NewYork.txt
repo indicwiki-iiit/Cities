@@ -1,0 +1,124 @@
+{{Infobox settlement
+| name                            = New York<!-- DO NOT change without discussion -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| settlement_type                 = [[City (New York)|City]]
+| named_for                       = [[James II of England|James, Duke of York]]
+| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 300
+| image_style              = border:1;
+| perrow                   = 1/3/2/2
+| image1                   = Lower Manhattan skyline - June 2017.jpg
+| alt1                     = Lower Manhattan skyline
+| image2                   = Lower Central Park Shot 5 (cropped).JPG
+| alt2                     = Central park scenery
+| image3                   = Unisphere Flushing Meadows Queens.jpg
+| alt3                     = The Unisphere, a large metal globe sculpture
+| image4                   = Brooklyn Bridge, west tower (7433306334).jpg
+| alt4                     = Brooklyn Bridge
+| image5                   = New york times square-terabass.jpg
+| alt5                     = Bustling Times Square
+| image6                   = Lady Liberty under a blue sky (cropped) (cropped).jpg
+| alt6                     = Statue of Liberty
+| image7                   = The United Nations Secretariat Building.jpg
+| alt7                     = United Nations headquarters building, with flags in foreground
+| image8                   = Coney Island beach and amusement parks (June 2016).jpg
+| alt8                     = Crowded Coney Island beach with ferris wheel and roller coaster in background
+}}
+| image_caption                   = From top, left to right: [[Lower Manhattan]], [[Central Park]], the [[Unisphere]], the [[Brooklyn Bridge]], [[Times Square]], the [[Statue of Liberty]], the [[United Nations headquarters]], and the [[Coney Island boardwalk|Boardwalk]] at [[Coney Island]]
+| image_flag                      = Flag of New York City.svg
+| image_seal                      = Seal_of_New_York_City_BW.svg
+| image_blank_emblem              = NYC Logo Wolff Olins.svg
+| blank_emblem_type               = [[Wordmark]]
+| nicknames                        = ''[[The Big Apple]]'', ''[[The City That Never Sleeps (nickname)|The City That Never Sleeps]]'', ''[[Gotham: A History of New York City to 1898|Gotham]]'', and ''[[Nicknames of New York City|others]]''
+<!-- maps and coordinates -->
+| image_map                       = {{Maplink|frame=yes|plain=y|frame-width=290|frame-height=270|frame-align=center|stroke-width=3|zoom=9|frame-lat=40.7|frame-long=-73.944|type=shape-inverse|stroke-color=#808080|id=Q60|title=New York City}}
+| subdivision_name                = United States
+| map_caption                     = Interactive map outlining New York City
+| pushpin_map                     = New York#USA#North America
+| pushpin_relief                  = 1
+| pushpin_mapsize                 = 290px
+| pushpin_map_caption             = Location within the state of New York##Location within the United States##Location within North America
+| pushpin_label                   = New York
+| pushpin_label_position          = left
+| coordinates                     = {{coord|40.712740|N|74.005974|W|region:US-NY|display=inline, title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <ref name="GR1">{{Cite web |date=February 12, 2011 |title=US Gazetteer files: 2010, 2000, and 1990 |url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html |access-date=April 23, 2011 |publisher=[[United States Census Bureau]]}}</ref>
+| area_total_sq_mi                = 468.19
+| official_name                   = <!-- DO NOT add to this parameter without consensus -->
+| subdivision_type2               = [[U.S. state|State]]
+| subdivision_name2               = [[New York (state)|New York]]
+| subdivision_type3               = [[List of regions of the United States|Region]]
+| subdivision_name3               = [[Mid-Atlantic (United States)|Mid-Atlantic]]
+| subdivision_type4               = [[County (United States)|Constituent counties]] ([[Boroughs of New York City|boroughs]])
+| subdivision_name4               = [[The Bronx|Bronx (The Bronx)]]<br />[[Brooklyn|Kings (Brooklyn)]]<br />[[Manhattan|New York (Manhattan)]]<br />[[Queens|Queens (Queens)]]<br />[[Staten Island|Richmond (Staten Island)]]
+----
+| subdivision_type5               = [[Colony|Historic colonies]]
+| subdivision_name5               = [[New Netherland]]<br />[[Province of New York]]
+| established_title               = Settled
+| established_date                = 1624
+| established_title1              = [[City of Greater New York|Consolidated]]
+| established_date1               = 1898
+| established_title2              = 
+| government_footnotes            = 
+| government_type                 = [[Mayor–council government|Mayor–Council]]
+| governing_body                  = [[New York City Council]]
+| leader_title                    = [[Mayor of New York City|Mayor]]
+| leader_name                     = [[Bill de Blasio]] ([[Democratic Party (United States)|D]])
+| total_type                      = Total
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{Cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt |access-date=July 27, 2020 |publisher=United States Census Bureau}}</ref>
+| mapsize                         = 
+| area_land_sq_mi                 = 300.37
+| pop_est_footnotes               = <ref name="USCensusEst2019">{{Cite web |title=Population and Housing Unit Estimates |url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html |access-date=May 21, 2020}}</ref>
+| utc_offset1                     = −05:00
+| elevation_footnotes             = <ref name="GR3">{{Cite web |date=June 23, 2018 |title=US Board on Geographic Names |url=http://geonames.usgs.gov |access-date=January 31, 2008 |publisher=[[United States Geological Survey]]}} Search for feature ID 975772.</ref>
+| elevation_m                     = 10
+| elevation_ft                    = 33
+| population_rank                 = [[List of United States cities by population|1st in the U.S.]]
+| population_density_sq_mi        = 27755.25
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 8175133
+| population_footnotes            = <ref name="Census2010">[https://www.census.gov Community Facts for New York City], [[United States Census Bureau]]. Retrieved May 26, 2017.</ref>
+| population_est                  = 8336817
+| pop_est_as_of                   = 2019
+| timezone1_DST                   = [[Eastern Time Zone|EDT]]
+| population_blank1_title         = [[Metropolitan statistical area|MSA (2018)]]
+| population_blank1               = 19,979,477<ref name="MetroEst">{{Cite web |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2017—Metropolitan Statistical Area; and for Puerto Rico—2017 Population Estimates |url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2017/GCTPEPANNR.US24PR |url-status=dead |archive-url=https://archive.today/20200213005215/https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2017/GCTPEPANNR.US24PR |archive-date=February 13, 2020 |access-date=March 24, 2018 |publisher=U.S. Census Bureau}}</ref> ([[List of metropolitan statistical areas|1st]])
+| population_blank2_title         = [[New York metropolitan area|CSA (2018)]]
+| population_blank2               = 22,679,948<ref name="CombinedEst">{{Cite web |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2018—Combined Statistical Area; and for Puerto Rico—2017 Population Estimates |url=https://www.census.gov |access-date=April 27, 2018 |publisher=U.S. Census Bureau}}</ref> ([[List of Combined Statistical Areas|1st]])
+| population_demonym              = New Yorker
+| blank6_name                     = [[GDP]] (City, 2019)
+| blank6_info                     = $884&nbsp;billion<ref name="bea.gov">[https://www.bea.gov/sites/default/files/2020-12/lagdp1220_2.pdf ''Gross Domestic Product by County, 2019''], [[Bureau of Economic Analysis]], released December 9, 2020. Accessed December 9, 2020.</ref> (1st)
+| blank7_name                     = [[Gross metropolitan product|GMP]] (Metro, 2020)
+| blank7_info                     = $1.67&nbsp;trillion<ref name="NYCMetroGMP">{{Cite web |title=U.S. metro areas—ranked by Gross Metropolitan Product (GMP) 2020 {{!}} Statistic |url=https://www.statista.com/statistics/183808/gmp-of-the-20-biggest-metro-areas/ |access-date=May 31, 2019 |website=Statista}}</ref> (1st)
+| timezone1                       = [[Eastern Time Zone|EST]]
+| area_water_sq_mi                = 167.82
+| area_metro_sq_mi                = 13318
+| utc_offset1_DST                 = −04:00
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 100xx–104xx, 11004–05, 111xx–114xx, 116xx
+| area_code                       = [[Area codes 212, 646, and 332|212/646/332]], [[Area codes 718, 347, and 929|718/347/929]], [[Area code 917|917]]
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 36-51000
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 975772
+| blank2_name                     = Major airports
+| blank2_info                     = [[John F. Kennedy International Airport|JFK Airport]]<br>[[Newark Liberty International Airport|Newark Liberty Airport]]<br>[[LaGuardia Airport]]<br>[[Islip Airport]]<br>[[White Plains Airport]]<br>[[Stewart International Airport|Stewart Airport]]
+| blank4_name                     = [[Commuter rail]]
+| blank4_info                     = [[LIRR]], [[Metro-North]], [[NJ Transit Rail Operations|NJ Transit]]
+| blank5_name                     = [[Rapid transit]]
+| blank5_info                     = [[File:MTA New York City Subway logo.svg|150px|link=New York City Subway]]
+ [[File:NYCS-bull-trans-SIR-Std.svg|35px|link=Staten Island Railway]] [[File:PATH.svg|40px|link=PATH (rail system)]]
+| blank_name_sec2                 = Largest [[Boroughs of New York City|borough]] by area
+| blank_info_sec2                 = [[Queens]] ({{convert|109|sqmi|km2|disp=or}})
+| blank1_name_sec2                = Largest borough by population
+| blank1_info_sec2                = [[Brooklyn]] (2019 est. 2,559,903)<ref name="BrooklynQuickFacts">{{Cite web |title=State & County QuickFacts—Kings County (Brooklyn Borough), New York |url=http://quickfacts.census.gov/qfd/states/36/36047.html |archive-url=https://web.archive.org/web/20160217175357/http://quickfacts.census.gov/qfd/states/36/36047.html |archive-date=February 17, 2016 |access-date=May 16, 2020 |publisher=United States Census Bureau}}</ref>
+| blank2_name_sec2                = Largest borough by [[GDP]] (2019)
+| blank2_info_sec2                = [[Manhattan]] ($635.3 billion)<ref name="bea.gov" />
+| website                         = {{URL|https://www.nyc.gov/}}
+| population_density_km2          = 10716.36
+|area_total_km2 = 1212.60
+|area_land_km2 = 777.95
+|area_water_km2 = 434.65
+}}

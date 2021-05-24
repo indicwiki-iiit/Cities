@@ -1,0 +1,34 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Xinyi}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh|信宜市}}}}}}
+|other_name = Sunyi; Hsini
+|settlement_type = [[County-level city]]
+|image_skyline = Morning of Xinyi.jpg
+|image_map = Administrative Division Maoming 3.png
+|map_caption = Xinyi is the northernmost division on this map of Maoming
+|pushpin_map = China Guangdong
+|pushpin_label_position = 
+|pushpin_map_caption = Location in Guangdong
+|subdivision_type = Country
+|subdivision_name = People's Republic of China
+|subdivision_type1 = [[Provinces of the People's Republic of China|Province]]
+|subdivision_name1 = [[Guangdong]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Maoming]]
+|area_total_km2 = 3081
+|population = 913708
+|population_as_of = 2010 census
+|population_density_km2 = auto
+|coordinates = {{coord|22.3549|N|110.9468|E|type:adm3rd_region:CN-33_source:Gaode|format=dms|display=it}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|postal_code_type = [[Postal code of China|Postal code]]
+|postal_code = 525300
+|area_code = (0)668
+|blank_name             =[[License Plate (China)|License plate prefixes]]
+|blank_info             = {{lang|zh-cn|粤K}}
+|website = {{URL|www.xinyi.gov.cn/}}
+}}

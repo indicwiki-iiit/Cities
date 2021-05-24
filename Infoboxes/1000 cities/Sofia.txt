@@ -1,0 +1,60 @@
+{{Infobox settlement
+|name                    = Sofia
+|native_name             = {{native name|bg|София}}
+|native_name_lang        = bg
+|settlement_type         = Capital city
+|image_skyline           = Sofia 333.jpg
+|image_caption           = 
+|image_flag              = BG Sofia flag.svg
+|image_shield            = BG_Sofia_coa.svg
+|motto                   = "Ever growing, never aging"<ref>{{cite web|url=http://www.sofia.bg/en/display.asp?ime=sofia|title=Sofia through centuries|publisher=Sofia Municipality|access-date=16 October 2009|url-status = dead|archive-url=https://web.archive.org/web/20090819151030/https://www.sofia.bg/en/display.asp?ime=sofia|archive-date=19 August 2009}}</ref><br/><small>("Расте, но не старее")</small>
+|pushpin_map             = Bulgaria#Balkans#Europe
+|pushpin_map_caption     = Location of Sofia
+|coordinates             = {{coord|42.70|23.33|type:city|display=inline,title}}
+|subdivision_type        = Country
+|subdivision_name        = [[Bulgaria]]
+|subdivision_type1       = [[Provinces of Bulgaria|Province]]
+|subdivision_name1       = [[Sofia City Province|Sofia City]]
+|subdivision_type2       = [[Municipalities of Bulgaria|Municipality]]
+|subdivision_name2       = [[Stolichna Municipality|Capital]]
+|established_title       = Cont. inhabited
+|established_date        = since 7000 BC<ref name="ghodsee"/>
+|established_title2      = Neolithic settlement
+|established_date2       = 5500–6000 BC<ref>{{cite web|url=http://archaeologyinbulgaria.com/2015/12/07/archaeologist-discovers-8000-year-old-nephrite-frog-like-swastika-in-slatina-neolithic-settlement-in-bulgarias-capital-sofia/|title=Archaeologist Discovers 8,000-Year-Old Nephrite 'Frog-like' Swastika in Slatina Neolithic Settlement in Bulgaria's Capital Sofia – Archaeology in Bulgaria|first=Ivan Dikov · in|last=Prehistory|date=7 December 2015|work=archaeologyinbulgaria.com}}</ref>
+|established_title3      = [[Thracians|Thracian]] settlement
+|established_date3       = 1400 BC<ref name="Marazov, Ivan 1998">Marazov, Ivan (ed.). Ancient Gold: The Wealth of the Thracians. NY: Harry N. Abrams Inc., 1998. Texts by Marazov, Ivan; Venedikov, Ivan; Fol, Alexander; Tacheva, Margarita. {{ISBN|9780810919921}}.</ref><ref>Popov, Dimitar (ed.). The Thracians, Iztok – Zapad, Sofia, 2011. {{ISBN|9789543218691}}.</ref>
+|established_title4      = Roman administration
+|established_date4       = 46 AD (as ''Serdica''){{Sfn|Sofia|2016|page=13}}
+|established_title5      = Conquered by [[Krum]]
+|established_date5       = 809 AD (as ''Sredets''){{Sfn|Sofia|2016|page=13}}
+|leader_party            = [[GERB]]
+|leader_title            = [[List of mayors of Sofia|Mayor]]
+|leader_name             = [[Yordanka Fandakova]]
+|unit_pref               = Metric
+|area_urban_footnotes    = <ref name="URBANISED AREAS"/>
+|area_metro_footnotes    = <ref>https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_d3area&lang=en</ref>
+|area_total_km2          = 492
+|area_urban_km2          = 5723
+|area_metro_km2          = 10,738
+|elevation_footnotes     = <ref>https://www.nsi.bg/nrnm/show2.php?sid=57422&ezik=en&e=128142&e=9787</ref>
+|elevation_m             = 500–699
+|elevation_ft            = 1640–2293
+|population_as_of        = 2019
+|population_total        = {{increase}} 1,242,568<ref name="population">{{cite web|title=Население по градове и пол {{!}} Национален статистически институт|url=http://www.nsi.bg/bg/content/2981/население-по-градове-и-пол|website=www.nsi.bg|language=bg}}</ref>
+|population_urban        = {{increase}} 1,549,465<ref name="Urban area populaton - Budapest">{{cite web|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en|title=Eurostat-Sofia urban area population}}</ref>
+|population_metro        = {{increase}} 1,678,041<ref name="European Metropolitan regions" />
+|population_density_km2  = auto
+|population_density_urban_km2 = 271
+|population_demonym      = [[wikt:Sofian|Sofian]] ([[English language|en]]) <br> Софиянец/''Sofiyanets'' ([[Bulgarian language|bg]])
+|blank_name_sec1         = [[Human Development Index|HDI]] (2018)
+|blank_info_sec1         = 0.871<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|green|very high}}
+|timezone1               = [[Eastern European Time|EET]]
+|utc_offset1             = +2
+|timezone1_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset1_DST         = +3
+|postal_code             = 1000
+|area_code               = (+359) 02
+|blank3_name             = [[Vehicle registration plates of Bulgaria|Vehicle registration plate]]
+|blank3_info             = C, CA, CB
+|website                 = {{URL|www.sofia.bg}}
+}}

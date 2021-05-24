@@ -1,0 +1,78 @@
+{{Infobox settlement
+| name                            = Rajkot
+| native_name                     = <!-- Please do not add any Indic script in this infobox, per WP:INDICSCRIPT policy. -->
+| native_name_lang                = guj
+| settlement_type                 = [[Metropolis]]
+| image_skyline                   = {{Photomontage
+| photo1a = Ramakrishna Ashram.jpg 
+| photo1b =Rajkot railway station IMG 20200125 190055 02.jpg
+| photo2a = Underbridge Circle Rajkot.jpg
+| photo3a =Watson Museum.jpg
+| photo3b =Big Bazaar - Rajkot.jpg
+
+| size                            = 280
+| spacing                         = 1
+| position                        = centre
+| border                          = 0
+| color                           = black
+}}
+| imagesize                       = 250px
+| image_caption                   = From top: Ramkrishna Ashram, Rajkot railway station, Under bridge Circle, Watson Museum, Shopping mall
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = India Gujarat
+| pushpin_label_position          = right
+| coordinates                     = {{coord|22.3000|70.7833|region:IN-GJ|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flagu| India}}
+| subdivision_type1               = State
+| subdivision_name1               = [[Gujarat]]
+| subdivision_type2               = [[List of regions of India|Region]]
+| subdivision_name2               = [[Saurashtra (region)|Saurashtra]]
+| subdivision_type3               = [[List of districts of India|District]]
+| subdivision_name3               = [[Rajkot district|Rajkot]]
+| subdivision_type4               = Zone
+| subdivision_name4               = 3 (Central, East and West)<ref name=zone>{{cite web |publisher = Rajkot Municipal Corporation |title = Statistics |url=http://www.rmc.gov.in/statictic.php |access-date = 19 December 2007 |archive-url=https://web.archive.org/web/20071017231412/http://rmc.gov.in/statictic.php |archive-date = 17 October 2007 |url-status = dead |df = dmy-all }}</ref>
+| subdivision_type5               = Ward
+| subdivision_name5               = 23<ref name="zone"/><ref name="Ward">{{cite web |publisher=Rajkot Municipal Corporation |title=Ward details |url=http://www.rmc.gov.in/ward.php |access-date=19 December 2007 |archive-url=https://web.archive.org/web/20071017231501/http://rmc.gov.in/ward.php |archive-date=17 October 2007 |url-status=dead  }}</ref>
+| established_title               = [[Rajkot Municipal Corporation]]
+| established_date                = 1973
+| governing_body                  = ([[Rajkot Municipal Corporation|RMC]])
+| leader_title1                   = Mayor
+| leader_name1                    = Pradip Dav
+| unit_pref                       = Metric
+| area_footnotes                  = <ref name=zone1>{{cite web|publisher=Rajkot Municipal Corporation|title=Statistics|url=http://www.rmc.gov.in/statictic.php|access-date=19 December 2007|url-status=dead|archive-url=https://web.archive.org/web/20071017231412/http://rmc.gov.in/statictic.php|archive-date=17 October 2007}}</ref>
+| area_total_km2                  = 170(City)   686(Metro)
+| elevation_footnotes             = 
+| elevation_m                     = 128
+| population_footnotes            = <ref>{{cite web|url=http://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=539125|publisher=Census of India|title=Rajkot Municipal Corporation Demographics|access-date=5 June 2016|archive-url=https://web.archive.org/web/20150924121356/http://www.censusindia.gov.in/pca/SearchDetails.aspx?Id=539125|archive-date=24 September 2015|url-status=live}}</ref>
+| population_total                = 20,00,000 (As of 2021)
+| population_as_of                = 
+| population_rank                 = [[List of most populous cities in India|28th]]
+[[List of most populous cities in Gujarat|4th (in Gujarat state)]]
+| population_density_km2          = auto
+| population_metro                = 2.45 million expected (As of 2021)
+| population_metro_footnotes      = {{citation needed|date=November 2019}}
+| population_blank1_title         = Metro rank
+| population_blank1               = [[List of million-plus urban agglomerations in India|35th]]
+| population_demonym              = Rajkotian
+| timezone1                       = [[Indian Standard Time|IST]]
+| utc_offset1                     = +5:30
+| postal_code_type                = [[Postal Index Number|PIN]]
+| postal_code                     = 360 0XX
+| area_code_type                  = Telephone code
+| area_code                       = 0281
+| registration_plate              = GJ-03
+| blank2_name_sec1                = Literacy
+| blank2_info_sec1                = 87.80 (2016)%{{citation needed|date=November 2019}}
+| blank7_name_sec1                = [[Urban planning|Planning]] agency
+| blank7_info_sec1                = ([[Rajkot Urban Development Authority|RUDA]])
+| blank1_name_sec2                = [[Climate of India|Climate]]
+| blank1_info_sec2                = [[Climatic regions of India|Semi-Arid]] {{small|([[Köppen climate classification|Köppen]])}}
+| blank2_name_sec2                = [[Precipitation (meteorology)|Precipitation]]
+| blank2_info_sec2                = {{convert|590|mm|in}}
+| blank3_name_sec2                = Avg. annual temperature
+| blank3_info_sec2                = {{convert|26|°C|°F}}
+| website                         = {{URL|www.rmc.gov.in}}
+| Area (Metro)                    = 686 km2
+}}

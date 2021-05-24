@@ -1,0 +1,78 @@
+{{Infobox settlement
+| name                            = Athens
+| native_name                     = {{lang-el|Αθήνα}}
+| image_skyline                   = <!-- NOTE: Do not add or change photos 
+ without consensus. -->
+<!-- RECT X beginning (left), Y beginning (top), X end (right), Y end (bottom). -->
+<imagemap>
+File:Athens Montage L.png|center|275px|alt=Athens montage. Clicking on an image in the picture causes the browser to load the appropriate article.
+rect 15 15 985 460 [[Acropolis of Athens]]
+rect 15 475 485 874 [[Hellenic Parliament|Greek Parliament]]
+rect 500 475 985 874 [[Zappeion|Zappeion Hall]]
+rect 15 888 523 1298 [[Athens Olympic Sports Complex]]
+rect 535 888 985 1298 [[Monastiraki]]
+rect 15 1312 985 1763 [[Mount Lycabettus|Aerial view from Lycabettus]]
+</imagemap>
+| image_caption                   = '''Clockwise from top:''' [[Acropolis of Athens]], [[Zappeion|Zappeion Hall]], [[Monastiraki]], [[Mount Lycabettus|Aerial view from Lycabettus]], [[Athens Olympic Sports Complex]], and [[Hellenic Parliament]]
+| settlement_type                 = [[Capital city]]
+| nicknames                       = ''Ιοστεφές άστυ'' (the violet-crowned city)<br/>''Το κλεινόν άστυ'' (the glorious city)
+| image_flag                      = File:Flag of the City of Athens.svg
+| flag_link                       = List of Greek flags
+| image_seal                      = Coat of Arms of Athens (English Version).svg
+| pushpin_map                     = Greece#Balkans#Europe
+| pushpin_map_caption             = Location within Greece##Location within Europe
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|37|59|03|N|23|43|41|E|display=it}}
+| subdivision_type                = [[Country]]
+| subdivision_name                = {{flag|Greece}}
+| subdivision_type1               = [[Geographic regions of Greece|Geographic region]]
+| subdivision_name1               = [[Central Greece]]
+| subdivision_type2               = [[Administrative regions of Greece|Administrative region]]
+| subdivision_name2               = [[Attica (region)|Attica]]
+| subdivision_type3               = [[Regional units of Greece|Regional unit]]
+| subdivision_name3               = [[Central Athens (regional unit)|Central Athens]]
+| government_type                 = [[Mayor–council government]]
+| leader_party                    = {{nowrap|[[New Democracy (Greece)|New Democracy]]}}
+| leader_title                    = [[List of mayors of Athens|Mayor]]
+| leader_name                     = [[Kostas Bakoyannis]]
+| parts_type                      = Districts
+| parts_style                     = para
+| p1                              = 7
+| established_title               = 
+| established_date                = 
+| population_as_of                = 2012
+| population_footnotes            = <ref name=census11/>
+| area_total_km2                  = 38.964
+| population_total                = 664,046
+| total_type                      = Municipality
+| population_rank                 = [[List of cities in Greece|1st]] urban, 1st metro in Greece
+| population_urban                = 3,090,508
+| area_urban_km2                  = 412
+| population_density_urban_km2    = auto
+| population_metro                = 3,753,783<ref name="European Metropolitan regions">{{cite web |url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjanaggr3&lang=en |title=Eurostat – Data Explorer |website=appsso.eurostat.ec.europa.eu}}</ref>
+| area_metro_km2                  = 2,928.717
+| population_density_metro_km2    = auto
+| population_demonym              = [[wikt:Athenian|Athenian]]
+| demographics_type1              = GDP PPP {{nobold|(2016)}}
+| demographics1_footnotes         = <ref>{{cite web |title=Regions and Cities at a Glance 2018 – Greece |url=https://www.oecd.org/cfe/GREECE-Regions-and-Cities-2018.pdf|publisher=OECD}}</ref>
+| demographics1_title1            = Total
+| demographics1_info1             = [[US$]] 102,446&nbsp;billion
+| demographics1_title2            = Per capita
+| demographics1_info2             = [[US$]] 32,461
+| timezone1                       = [[East European Time|EET]]
+| utc_offset1                     = +2
+| timezone1_DST                   = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST                 = +3
+| elevation_min_m                 = 70.1
+| elevation_max_m                 = 338
+| postal_code_type                = [[List of postal codes in Greece|Postal codes]]
+| postal_code                     = 10x xx, 11x xx, 120 xx
+| area_code_type                  = [[Telephone numbers in Greece|Telephone]]
+| area_code                       = 21
+| registration_plate              = [[Vehicle registration plates of Greece|Yxx, Zxx, Ixx]]
+| blank_name_sec1                 = [[Patron saint]]
+| blank_info_sec1                 = [[Dionysius the Areopagite]] (3 October)
+| website                         = [http://www.cityofathens.gr/en/ www.cityofathens.gr]
+| official_name                   = 
+| population_density_rank         = 
+}}

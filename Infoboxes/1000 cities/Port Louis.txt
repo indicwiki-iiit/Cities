@@ -1,0 +1,89 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = Port Louis<!-- at least one of the first two fields must be filled in -->
+| official_name          = 
+| native_name            = {{native name|fr|Port-Louis}}
+| native_name_lang       = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name             = 
+| settlement_type        = City<!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->
+| image_skyline          = {{Photomontage
+| photo1a = Port Louis Waterfront Panorama (4920891632).jpg{{!}}Port Louis Waterfront
+| photo2a = Champ de Mars.jpg{{!}}Champ de Mars
+| photo2b = Evening Port Louis.jpg{{!}}Aerial view of Port Louis
+| photo3a = 2007-09-09 Mauritius 26.jpg{{!}}Port Louis Harbour
+| size = 300
+| position = center
+| spacing = 3
+| color = #FFFFFF
+| border = 2
+| color_border = black
+}}
+| image_flag             = Flag of Port Louis, Mauritius.svg
+| image_seal             = Coat of arms of Port Louis, Mauritius.svg
+| image_shield           = 
+| motto                  = "Concordia et Progressio" <br />([[Latin language|Latin]] for "Harmony and Progress")
+<!-- maps and coordinates ------>
+| image_map              = 
+| map_caption            = 
+| pushpin_map = Mauritius#Indian Ocean
+| pushpin_map_caption = Location in [[Mauritius]] & [[Indian Ocean]]
+|pushpin_relief           = yes
+| coordinates            = {{coord|20|9|52|S|57|30|15|E|region:MU|format=dms|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flagicon|MRI}} [[Mauritius]]<!-- the name of the country -->
+| subdivision_type1      = [[Districts of Mauritius|District]]
+| subdivision_name1      = [[Port Louis District]]
+| subdivision_type2      = 
+| subdivision_name2      = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->
+| established_title      = Founded
+| established_date       = 1638
+| established_title2     = Town
+| established_date2      = 25 August 1966
+| established_title3     = City
+| established_date3      = 12 December 2011
+| government_type        = [[Municipal City Council of Port Louis|Municipality]]
+<!-- government type, leaders -->
+| government_footnotes   = <ref name="mem">{{cite journal|url=http://www.govmu.org/portal/site/mlge/menuitem.f9c1c444c628df3cb3347524e2b521ca/#br|publisher=Government of Mauritius|title=Municipal & District Councils in Mauritius|access-date=24 July 2012}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| leader_party           = 
+| leader_title           = Lord [[List of mayors of Port Louis|Mayor]]
+| leader_name            = Daniel Eric Clive Laurent
+| leader_title1          = Deputy Lord Mayor
+| leader_name1           = Chris Loïc Dick
+| leader_name2           = {{Collapsible list
+| title                  = Members' List
+| frame_style            = border:none; padding: 0;
+| title_style            = <!-- (optional) -->
+| list_style             = text-align:left;display:none;
+| 1 = •
+| 2 = •
+}}
+| area_total_km2         = 46.7<!-- Calculated as per official figure of population and density -->
+| area_total_sq_mi       = <!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2          = 
+| area_water_km2         =
+<!-- elevation ----------------->
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_max_m        = 
+| elevation_min_m        = 
+<!-- population ---------------->
+| population_footnotes   = <ref name="stats2018">{{cite journal|url=http://statsmauritius.govmu.org/English/StatsbySubj/Documents/Digest/Demography/Digest_Demo_Yr18.pdf|publisher=Government of Mauritius|title=DIGEST OF DEMOGRAPHIC STATISTICS 2018|page=33|author=Statistics Mauritius: Demography Unit|version=Dec|year=2018|access-date=21 May 2020}}</ref>
+| population_total       = 147,066
+| population_as_of       = 2018
+| population_rank        = 1st in Mauritius
+| population_density_km2 = auto<!-- for automatic calculation of any density field, use: auto -->
+<!-- time zone(s) -------------->
+| timezone1              = [[Mauritius Time|MUT]]
+| utc_offset1            = +4
+| timezone1_DST          = 
+| utc_offset1_DST        =
+<!-- postal codes, area code --->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code_type         = <!-- defaults to: Area code(s) -->
+| area_code              =
+<!-- website, footnotes -------->
+| website                = {{URL|http://www.mccpl.mu|Municipal Council}}
+}}

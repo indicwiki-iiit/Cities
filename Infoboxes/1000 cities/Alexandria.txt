@@ -1,0 +1,106 @@
+{{Infobox settlement
+| official_name                   = Alexandria
+| native_name                     = {{collapsible list
+  | titlestyle                    = background:transparent;text-align:center;line-height:normal;font-size:84%;
+  | title                         = {{resize|1.25em|{{lang|ar|الإسكندرية}}}} ([[Arabic]])
+  | {{Infobox | subbox=yes | bodystyle=font-size:75%;font-weight:normal;
+    | rowclass1 = mergedrow | label1 = [[Standard Arabic]]: | data1 = {{transl|ar|ALA-LC|al-ʾIskandariyya}}
+    | rowclass2 = mergedrow | label2 = [[Egyptian Arabic]]: | data2 = {{transl|arz|Eskenderiyya}}
+    }}
+ }}
+ {{collapsible list
+  | titlestyle                    = background:transparent;text-align:center;line-height:normal;font-size:84%;
+  | title                         = {{lang|cop|ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ}}, {{lang|cop|ⲣⲁⲕⲟϯ}} ([[Coptic language|Coptic]])
+  | {{Infobox | subbox=yes | bodystyle=font-size:75%;font-weight:normal;
+    | rowclass1 = mergedrow | label1 = {{lang|cop|ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ}}: | data1 = {{transl|cop|Alexandria}}
+    | rowclass2 = mergedrow | label2 = {{lang|cop|ⲣⲁⲕⲟϯ}}: | data2 = {{transl|cop|Rakodī}}
+    }}
+ }}
+ {{collapsible list
+  | titlestyle                    = background:transparent;text-align:center;line-height:normal;font-size:84%;
+  | title                         = {{lang|el|Αλεξάνδρεια}} ([[Greek language|Greek]])
+  | {{Infobox | subbox=yes | bodystyle=font-size:75%;font-weight:normal;
+    | rowclass1 = mergedrow | label1 = {{lang|el|Αλεξάνδρεια}}: | data1 = {{transl|el|Alexandria}}
+    | rowclass2 = mergedrow | label2 = {{lang|el|Ρακώτις}}: | data2 = {{transl|el|Rhakotis}}
+    }}
+ }}
+| settlement_type                 = [[Metropolis]]
+| image_skyline                   = {{Photomontage
+| photo1a = Suez canalst-Alexandria, Egypt.jpg
+| photo2a = Alexandria, Egypt (26543517029).jpg
+| photo3a = Coast of Alexandria, A view From Bibliotheca Alexandrina, Egypt.jpg
+| photo3b = Stanly Bridge - Alexandria.jpg
+| photo4a = View of Bibliotheca Alexandrina.jpg
+| photo4b = El-Montazah_Palace_1.jpg
+| spacing = 2
+| size = 280
+| color = transparent
+| border = 0
+ }}
+| image_caption                   = '''Clockwise from top:''' <br> View of Shatby district and Suez Canal street, skyline of the eastern district (Sharq), Stanley Bridge, [[Montaza Palace]], [[Bibliotheca Alexandrina]] and the statue of [[Ptolemy II Philadelphus]], [[Planetarium Science Center]] (with [[Corniche (Alexandria)|corniche]] in the background).
+| image_flag                      = Flag of Alexandria.svg
+| flag_link                       = Lighthouse of Alexandria
+| image_blank_emblem              = Coat_of_Arms_-_Alexandria,_Egypt.png
+| blank_emblem_type               = Emblem
+| blank_emblem_size               = 100px
+| blank_emblem_alt                = Egyptian goddess [[Isis]] (left), standing on a ship in the [[Alexandria Port|harbour]], and looking towards the [[lighthouse of Alexandria]] (right), while she is holding a [[papyrus]] on which Alexandria has recorded the secrets of Science and wisdom throughout the ages.
+| nicknames                       = ''[[Mediterranean Sea|Mediterranean]]'s Bride'', ''Pearl of the Mediterranean'', ''Aleks''
+| motto                           = <!-- images and maps ----------->
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Egypt#Africa
+| pushpin_relief                  = yes
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = Location in Egypt
+<!-- Location ------------------>| coordinates                     = {{coord|31|12|N|29|55|E|region:EG|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Egypt]]
+| subdivision_type1               = [[Governorates of Egypt|Governorate]]
+| subdivision_name1               = [[Alexandria Governorate|Alexandria]]
+| established_title               = Founded
+| established_date                = 331 BC
+| established_title1              = Founded by
+| established_date1               = [[Alexander the Great]]
+<!-- Area --------------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Governor
+| leader_name                     = Elsherif<ref>{{cite web |url=http://www.alexandria.gov.eg/Alex/english/gov.html |title=Alexandria Governor |archive-url=https://web.archive.org/web/20180212104601/http://www.alexandria.gov.eg/Alex/English/gov.html |archive-date=12 February 2018 |url-status=live  }}</ref>
+| leader_title1                   = 
+| leader_name1                    = 
+| unit_pref                       = Metric
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = 2679<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+<!-- Population ----------------------->| elevation_footnotes             = 
+| elevation_m                     = 5
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| population_total                = 5,200,000
+| population_as_of                = October 2018<ref>{{cite web |title=الجهاز المركزي للتعبئة العامة والإحصاء |url=http://www.capmas.gov.eg/Pages/populationClock.aspx |website=www.capmas.gov.eg |access-date=27 October 2018 |archive-url=https://web.archive.org/web/20181001165920/http://www.capmas.gov.eg/Pages/populationClock.aspx |archive-date=1 October 2018 |url-status=live  }}</ref>
+| population_density_km2          = auto
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information --------------->
+| population_note                 = 
+| postal_code_type                = Postal code
+| postal_code                     = 21500
+| area_code                       = (+20) 3
+| website                         = [http://www.alexandria.gov.eg/ Alexandria.gov.eg]
+| footnotes                       = 
+| mapsize                         = |<!-- Politics ----------------->
+| timezone                        = [[Egypt Standard Time|EST]]
+| utc_offset                      = +2
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| blank_name                      = 
+| blank_info                      = 
+| blank1_name                     = 
+| blank1_info                     = 
+| population_demonym              = Alexandrian, Alexandrine ({{lang-ar|إسكندراني}})
+| name                            = 
+}}

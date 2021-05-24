@@ -1,0 +1,77 @@
+{{Infobox settlement <!-- modelled after [[Seoul]] and [[Daegu]] -->
+| name                            = {{raise|0.1em|Pyongyang}}
+| official_name                   = Pyongyang Directly Governed City<br />{{lang|ko|{{nobold|평양직할시}}<br />{{nobold|平壤直轄市}}}}
+| native_name                     = {{lower|0.1em|{{nobold|평양시}}<br />{{nobold|平壤市}}}}
+| native_name_lang                = ko
+| settlement_type                 = [[Special cities of North Korea|Directly governed city]]
+| translit_lang1                  = &nbsp;
+| image_skyline                   = Pyongyang montage.png
+| imagesize                       = 
+| image_caption                   = Clockwise from top left: Pyongyang skyline and the [[Taedong River]]; [[Juche Tower|''Juche'' Tower]]; [[Arch of Triumph (Pyongyang)|Arch of Triumph]]; [[Tomb of King Tongmyong|Tomb of King Tongmyeong]]; Puhŭng Station in the [[Pyongyang Metro]]; [[Arch of Reunification]]; and [[Kumsusan Palace of the Sun]]
+| image_seal                      = Emblem of Pyongyang.svg
+| nickname                        = <span style="line-height:1.5em;"> (류경/{{lang|ko|柳京}}){{nbsp|2}}<small>([[Korean language|Korean]])<br />"Capital of Willows"</small></span><ref>{{cite book |last=Funabashi |first=Yoichi |title=The Peninsula Question: A Chronicle of the Second Northern Korean Nuclear Crisis |publisher=[[Brookings Institution Press]] |location=Washington, DC |year=2007 |page=50 |isbn=978-0-8157-3010-1}}</ref>
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| map_caption                     = ''Location of Pyongyang in North Korea''
+| pushpin_relief                  = 1
+| pushpin_map                     = North Korea#Asia
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|39|1|10|N|125|44|17|E|type:city_region:KP|display=inline,title}}
+| coor_pinpoint                   = <!-- can be used to specify exactly where/what the coordinates refer to -->
+| subdivision_type                = Country
+| subdivision_name                = North Korea
+| subdivision_type1               = 
+| subdivision_type2               = 
+| subdivision_name1               = 
+| subdivision_name2               = 
+| parts_type                      = [[Administrative divisions of North Korea#Second-level divisions|Districts]]
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = 18 districts, 2 counties
+| p1                              = [[Chung-guyok]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = <!--add (no-break space) to leader names to disable automatic links-->
+| leader_title1                   = Chairman of Pyongyang People's Committee
+| leader_name1                    = [[Cha Hui-rim]]<ref name="hrnk.org">{{cite book|last=Collins|first=Robert|date=2016|url=https://www.hrnk.org/uploads/pdfs/Collins_PyongyangRepublic_FINAL_WEB.pdf#page=63|title=Pyongyang Republic|location=Washington, D.C.|publisher=Committee for Human Rights in North Korea|isbn=978-0-9856480-6-0|page=54}}</ref>
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes                  = <ref>{{cite book|title=The Statesman's Yearbook 2016: The Politics, Cultures and Economies of the World
+|editor=Nick Heath-Brown |page=720}}</ref>
+| area_total_km2                  = 2000 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| population_total                = 2,870,000<ref>{{Cite web|url=https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001|script-title=ko:네이버 뉴스|website=news.naver.com}}</ref>
+| population_as_of                = 2016
+| population_density_km2          = auto
+| translit_lang1_type1            = [[Hangul|Chosŏn'gŭl]]
+| translit_lang1_info1            = {{lang|ko|{{linktext|평양|직할시}}}}
+| translit_lang1_type2            = [[Hanja|Hancha]]
+| translit_lang1_info2            = {{lang|ko|{{linktext|平壤|直轄市}}}}
+| translit_lang1_type3            = {{nowrap|[[McCune–Reischauer]]}}
+| translit_lang1_info3            = P'yŏngyang Chikhalsi
+| translit_lang1_type4            = {{nowrap|[[Revised Romanization of Korean|Revised Romanization]]}}
+| translit_lang1_info4            = Pyeongyang Jikhalsi
+| translit_lang1_type5            = {{nowrap|[[McCune–Reischauer#North Korean variant|Official North Korean variant]]}}
+| translit_lang1_info5            = Phyŏngyang Jikhalsi
+| p2                              = [[Pyongchon-guyok]]
+| p3                              = [[Potonggang-guyok]]
+| p4                              = [[Moranbong-guyok]]
+| p5                              = [[Sosong-guyok]]
+| p6                              = [[Songyo-guyok]]
+| p7                              = [[Tongdaewon-guyok]]
+| p8                              = [[Taedonggang-guyok]]
+| p9                              = [[Sadong-guyok]]
+| p10                             = [[Taesong-guyok]]
+| p11                             = [[Mangyongdae-guyok]]
+| p12                             = [[Hyongjesan-guyok]]
+| p13                             = [[Ryongsong-guyok]]
+| p14                             = [[Samsok-guyok]]
+| p15                             = [[Ryokpo-guyok]]
+| p16                             = [[Nakrang-guyok]]
+| p17                             = [[Sunan-guyok]]
+| p18                             = [[Unjong-guyok]]
+| p19                             = [[Kangdong-gun]]
+| p20                             = [[Kangnam-gun]]
+<!-- Politics ----------------->| leader_title2                   = Secretary of the Workers' Party of Korea Pyongyang City Committee
+| leader_name2                    = [[Kim Yong-hwan (politician)|Kim Yong-hwan]]<ref>{{Cite web|url=https://www.yna.co.kr/view/AKR20200301048600504|script-title=ko:김정은 '최고권력' 조직지도부장 해임 파격…기강잡기 칼 빼들다|date=1 March 2020|script-website=ko:연합뉴스}}</ref>
+| timezone                        = [[Time in North Korea|Pyongyang Time]]
+| utc_offset                      = +9
+}}

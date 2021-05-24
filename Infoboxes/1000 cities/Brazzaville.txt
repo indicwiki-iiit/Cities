@@ -1,0 +1,84 @@
+{{Infobox country
+|conventional_long_name = Republic of the Congo
+|native_name = {{native name|fr|République du Congo|fontsize=100%}}<br />{{native name|mkw|Repubilika ya Kôngo|fontsize=100%}}<br />{{native name|ln|Republíki ya Kongó|fontsize=100%}}
+|common_name = the Republic of the Congo
+|image_flag = Flag of the Republic of the Congo.svg
+|image_coat = Coat of arms of the Republic of the Congo.svg
+|national_motto = {{native phrase|fr|"Unité, Travail, Progrès"|italics=off|nolink=on}}<br/>({{Lang-en|"Unity, Work, Progress"}})
+|image_map = {{Switcher|[[File:Republic of the Congo (orthographic projection).svg|frameless]]|Show globe|[[File:Location Republic of the Congo AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+|map_caption = 
+|national_anthem = {{native name|fr|[[La Congolaise]]|nolink=on}}<br/>{{native name|kg|Besi Kôngo}}<br />({{Lang-en|"The Congolese"}})<div style="padding-top:0.5em;"><center>[[File:National anthem of the Republic of the Congo.oga]]</center></div>
+|official_languages = [[French language|French]]
+|national_languages = {{hlist |[[Kituba language|Kituba]] | [[Lingala language|Lingala]]}}<ref name=Digitheque >{{cite web|url=https://mjp.univ-perp.fr/constit/cg2015.htm |language=fr|title=Constitution de 2015 |work=Digithèque matériaux juridiques et politiques, Jean-Pierre Maury, Université de Perpignan |access-date=2 January 2021}}</ref>
+|demonym = <span class="noautolink">Congolese</span>
+|ethnic_groups =
+ {{unbulleted list
+  | 40.5% [[Kongo people|Kongo]]
+  | 16.9% [[Teke people|Teke]]
+  | 13.1% [[Mbochi people|M'Bochi]]
+  | 5.6% [[Sangha people|Sangha]]
+  | {{nowrap|23.9% Other African/Europeans}}
+ }}
+|capital = [[Brazzaville]]
+|coordinates = {{Coord|4|16|S|15|17|E|type:city}}
+|largest_city = [[Brazzaville]]
+|government_type = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Semi-presidential system|semi-presidential]] [[republic]] 
+|leader_title1 = [[President of the Republic of the Congo|President]]
+|leader_name1 = [[Denis Sassou Nguesso]]
+|leader_title2 = [[Prime Minister of the Republic of Congo|Prime Minister]]
+|leader_name2 = [[Anatole Collinet Makosso]]
+|legislature = [[Parliament of the Republic of the Congo|Parliament]]
+|upper_house = [[Senate (Republic of the Congo)|Senate]]
+|lower_house = [[National Assembly (Republic of the Congo)|National Assembly]]
+|area_km2 = 342,000
+|area_sq_mi = 132,047 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 64th <!-- Should match [[List of countries and dependencies by area]] -->
+|percent_water = 3.3
+|population_estimate = {{UN_Population|Congo}}{{UN_Population|ref}}
+|population_estimate_year = {{UN_Population|Year}}
+|population_estimate_rank = 117th
+|population_census = |population_census_year = 
+|population_density_km2 = 12.8
+|population_density_sq_mi = 33.1 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 204th
+|GDP_PPP_year = 2019
+|GDP_PPP = $32.516 billion
+|GDP_PPP_per_capita = $7,119<ref name="auto">{{Cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=80&pr.y=5&sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=634&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+|Gini_year = 2011
+|Gini_change = <!--increase/decrease/steady-->
+|Gini = 40.2 <!--number only-->
+|Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=GINI index|publisher=World Bank|access-date=12 September 2015|archive-url=https://web.archive.org/web/20150209003326/http://data.worldbank.org/indicator/SI.POV.GINI|archive-date=9 February 2015|url-status=live}}</ref>
+|Gini_rank = 
+|GDP_nominal = $11.162 billion
+|GDP_nominal_year = 2019
+|GDP_nominal_per_capita = $2,444<ref name="auto"/>
+|HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+|HDI_change = decrease<!--increase/decrease/steady-->
+|HDI = 0.574 <!--number only-->
+|HDI_ref = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+|HDI_rank = 149th
+|sovereignty_type = [[Independence]]
+|established_event1 = Republic established
+|established_date1 = 28 November 1958
+|established_event2 = from [[France]]
+|established_date2 = 15 August 1960
+|currency = [[Central African CFA franc]]
+|currency_code = XAF
+|time_zone = [[West Africa Time|WAT]]
+|utc_offset = +1
+|drives_on = right
+|calling_code = [[+242]]
+|cctld = [[.cg]]
+| religion = {{ublist |item_style=white-space:nowrap;
+  |88.5% [[Christianity]]
+  |—52.9% [[Catholic Church|Roman Catholic]]
+  |—27.3% [[Protestant]]
+  |—8.3% Other [[List of Christian denominations|Christian]]
+  |4.7% [[African Traditional Religion|Traditional Faiths]]
+  |3.0% [[Irreligion|No Religion]]
+  |2.3% Others
+  |1.5% Undeclared
+  }}
+| religion_year                = 2015
+| religion_ref                =<ref name="ARDA">{{cite web|date=2015|title=Congo, Republic of the|access-date=18 May 2020|publisher=[[Association of Religion Data Archives]]|url=http://www.thearda.com/internationalData/countries/Country_58_1.asp}}</ref>
+}}

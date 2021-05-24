@@ -1,0 +1,69 @@
+{{Infobox settlement
+|name                    = Brasília
+|official_name           = ''Região Administrativa de Brasília''<br>Administrative Region of Brasília
+|settlement_type         = [[Federal capital]]
+|image_skyline           = [[File:Brasília Collage.png|280px]]
+|image_caption           = From the top, clockwise: [[Monumental Axis]] seen from the [[Brasilia TV Tower|TV Tower]]; [[Cathedral of Brasília|Metropolitan Cathedral]] at night; facade of the [[Palácio da Alvorada|Alvorada Palace]]; [[Juscelino Kubitschek bridge]] in [[Paranoá Lake]]; buildings of the South Banking Sector and the [[National Congress of Brazil|National Congress]] building with the national mast in the [[Praça dos Três Poderes|Three Powers Plaza]] at the background.
+|image_flag              = 
+|image_seal              = 
+|nicknames               = ''Capital Federal'', ''BSB'', ''Capital da Esperança''
+|motto                   = "Venturis ventis"{{small|([[Latin language|Latin]])<br/>"To the coming winds"}}
+|image_map               = Distrito Federal RA Brasilia.svg
+|map_caption             = Location in the Federal District
+|pushpin_map             = Brazil#South America
+|pushpin_relief=1
+|pushpin_map_caption     = Location in Brazil
+|coordinates             = {{coord|15|47|38|S|47|52|58|W|region:BR|display=inline}}
+|subdivision_type        = Country
+|subdivision_name        = [[Brazil]]
+|subdivision_type1       = [[Regions of Brazil|Region]]
+|subdivision_type2       = [[States of Brazil|District]]
+|subdivision_name1       = [[Central-West Region, Brazil|Central-West]]
+|subdivision_name2       = [[Federal District (Brazil)|Federal District]]
+|established_title       = Founded
+|established_date        = April 21, 1960
+|leader_title            = [[Governor (Brazil)|Governor]]
+|leader_name             = 
+|area_total_km2          = 5802
+|area_total_sq_mi        = 2240.164
+|elevation_m             = 1172
+|population_urban        = 3,039,444<ref name="Codeplan, PDAD-DF 2011">{{cite web |url=http://www.codeplan.df.gov.br/images/CODEPLAN/PDF/Pesquisas%20Socioecon%C3%B4micas/PDAD/2012/PDAD-DF-2011-091112.pdf |archive-url=https://web.archive.org/web/20150903212501/http://www.codeplan.df.gov.br/images/CODEPLAN/PDF/Pesquisas%20Socioecon%C3%B4micas/PDAD/2012/PDAD-DF-2011-091112.pdf |url-status=dead |archive-date=September 3, 2015 |title=Estimativa Populacional 2013 |work=Pesquisa Demográfica por Amostra de Domicílios 2011 |publisher=Codeplan |language=pt |date=November 9, 2012 |access-date=June 6, 2015}}</ref><ref group=note>The [[List of administrative regions of the Federal District (Brazil)|administrative region]] of Brasília recorded a population of 214,529 in a 2012 survey; [[IBGE]] demographic publications do not make this distinction and considers the entire population of the Federal District.
+</ref>
+|population_metro        = 4,291,577<ref name=pop>[http://www.ibge.gov.br/estadosat/perfil.php?sigla=df IBGE: Brasília] {{webarchive |url=https://web.archive.org/web/20131017074709/http://www.ibge.gov.br/estadosat/perfil.php?sigla=df |date=October 17, 2013}} [[Brazilian Institute of Geography and Statistics|IBGE]]. Retrieved on February 21, 2016. {{in lang|pt}}.</ref> ([[List of largest cities in Brazil|3rd]])
+|population_as_of        = 2017
+|population_footnotes    = 
+|population_density_km2  = 480.827
+|population_demonym      = Brasiliense
+|population_note         = population of the [[Federal District (Brazil)|Federal District]]{{citation needed|date=May 2020}} 
+|demographics_type1      = [[Gross domestic product|GDP]]
+|demographics1_footnotes = <!-- for references: use <ref> tags -->
+|demographics1_title1    = Year
+|demographics_type2      = [[Human Development Index|HDI]]
+|demographics2_footnotes = <!-- for references: use <ref> tags -->
+|demographics2_title1    = Year
+|demographics2_info1     = 2014
+|postal_code_type        = Postal code
+|postal_code             = 70000-000
+|area_code               = +55 61
+|website                 = {{URL|http://www.brasilia.df.gov.br}}<br>{{in lang|pt}}
+|footnotes               = 
+{{designation list | embed=yes
+| designation1 = WHS
+| designation1_offname = Brasilia
+| designation1_date = 1987 <small>(11th [[World Heritage Committee|session]])</small>
+| designation1_type = Cultural
+| designation1_criteria = i, iv
+| designation1_number = [https://whc.unesco.org/en/list/445 445]
+| designation1_free1name = Region
+| designation1_free1value = [[List of World Heritage Sites in South America|Latin America and the Caribbean]]
+}}
+|demographics1_info1     = 2015&nbsp;estimate
+|demographics1_title2    = Total
+|demographics1_info2     = $65.338 billion ([[List of Brazilian states by gross domestic product|8th]])
+|demographics1_title3    = Per capita
+|demographics1_info3     = $21,779 ([[List of Brazilian states by gross domestic product|1st]])
+|demographics2_title2    = Category
+|demographics2_info2     = 0.839 <span style="color:#090">very high ([[List of Brazilian states by Human Development Index|1st]])</span>
+|timezone                = [[Time in Brazil|BRT]]
+|utc_offset              = −03:00
+}}

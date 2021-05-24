@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                   = {{raise|0.2em|Zhoukou}}
+| official_name          = 
+| other_name             = Chowkow
+| native_name            = {{lower|0.1em|周口市}}
+| native_name_lang = zh
+| settlement_type        = [[Prefecture-level city]]
+<!-- images and maps  ----------->
+| image_skyline          = ShayingRiver Zhoukou.jpg
+| image_caption          = Shaying River near downtown of Zhoukou City
+| image_seal             = 
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+| image_map              = ChinaHenanZhoukou.png
+| map_caption            = Zhoukou in Henan
+| pushpin_map            = China
+| pushpin_label_position = 
+| pushpin_map_caption    = Location in China
+| coor_pinpoint = Zhoukou municipal government
+| coordinates            = {{coord|33.6367|N|114.7014|E|type:adm2nd_region:CN-41_source:Gaode|format=dms|display=it}}
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = People's Republic of China
+| subdivision_type1      = [[Province (China)|Province]]
+| subdivision_name1      = [[Henan]]
+| subdivision_type2      = 
+| subdivision_name2      = 
+| established_title      = <!-- Settled -->
+| established_date       = 
+| founder                = 
+| named_for              = 
+| seat_type              = 
+| seat                   = 
+| government_type        =
+<!-- Politics ----------------->
+| government_footnotes   = 
+| leader_title           = 
+| leader_name            = 
+| leader_title1          = [[Yue Wenhai]]
+| leader_name1           = 
+| total_type             = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes         =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+<!-- Area    --------------------->
+| area_magnitude         = <!-- use only to set a special wikilink -->
+| area_total_km2         = 11822
+<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2         = 
+| area_water_percent     = 
+| area_urban_km2         = 101
+| area_metro_km2         = 141
+<!-- Elevation -------------------------->
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_max_m        = 
+| elevation_min_m        =
+<!-- Population   ----------------------->
+| population_footnotes   = <ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+| population_total       = 8662200
+| population_as_of       = 2010 census
+| population_density_km2 = auto <!--For automatic calculation, any density field may contain: auto -->
+| population_urban = 620,000
+| population_urban_footnotes = &nbsp;(2018)<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+| population_density_urban_km2 = auto
+| population_metro       = 505571
+| population_density_metro_km2 = auto
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[China Standard Time|China Standard]]
+| utc_offset             = +8
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[Postal code of China|Postal code]]  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 466000
+| area_code              = 0394
+|iso_code = [[ISO 3166-2:CN|CN-HA-16]]
+| registration_plate     = {{lang|zh-cn|[[Vehicle registration plates of the People's Republic of China|豫P]]}}
+| blank_name             = GDP(2009)
+| blank_info             = [[CNY]] 111.17 billion<ref>{{cite news |language=zh-hans |url=http://www.ha.stats.gov.cn/hntj/tjfw/tjfx/sxsfx/ndfx/webinfo/2010/02/1266896171544729.htm |script-title=zh:2009年周口市经济运行情况分析}}</ref>
+| blank1_name            = Major [[Nationalities of China|Nationalities]]
+| blank1_info            = [[Han Chinese|Han]]
+| blank2_name            = County-level divisions
+| blank2_info            = 9
+| blank3_name            = Township-level divisions
+| blank3_info            = 1
+| website                = {{URL|http://www.zhoukou.gov.cn}}
+| footnotes              = 
+}}

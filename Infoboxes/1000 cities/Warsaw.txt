@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                            = Warsaw
+| native_name                     = <small>''Warszawa''</small>
+| native_name_lang                = pl
+| settlement_type                 = [[City with powiat rights|Capital city and county]]
+| image_skyline                   = {{Photomontage|
+ |color=#ffffff
+ |photo1a = Panorama siekierkowski.jpg
+ |photo2a = Pałac Na Wyspie w Warszawie, widok na elewację południową.jpg
+ |photo2b = Poland-00808 - Castle Square (31215382745).jpg
+ |photo3a = Warszawa, ul. Nowy Świat 72-74 20170517 002.jpg
+ |photo3b = Warszawa, Rynek Starego Miasta 42-34 20170518 001.jpg
+ |photo4a = Warszawa, ul. Krakowskie Przedmieście 87, 89 20170516 003.jpg
+ |photo4b = Warszawa, ul. Senatorska 10 20170516 001.jpg
+ |photo5a = Wilanów Palace.jpg
+ | spacing = 2
+ | border = 0
+ | size = 276
+}}
+| image_caption                   = <small>{{hlist|From top, left to right: [[Panorama|Warsaw Skyline]]|[[Łazienki Park]]|[[Royal Castle, Warsaw|Royal Castle]] and [[Sigismund's Column]]|[[Staszic Palace]] and [[Nicolaus Copernicus Monument, Warsaw|Copernicus Monument]]|[[Old Town Market Place, Warsaw|Main Market Square]]|[[Royal Route, Warsaw|Royal Route]]|[[Warsaw Old Town]]|[[Wilanów Palace]]}} </small>
+| image_flag                      = Flag of Warsaw.svg
+| image_shield                    = [[File:POL Warszawa COA.svg|75px]]
+| nickname                        = ''Paris of the North, Phoenix City''
+| motto                           = ''Semper invicta''{{spaces|2}}<small>([[Latin]] "Ever invincible")</small>
+| mapsize                         = 230px
+| map_caption                     = Location within Poland##Location within Europe
+| pushpin_map                     = Poland#Europe
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|52|14|N|21|1|E|region:PL|display=inline,title}}<!--coordinates for the point from where all distances in Poland are measured-->
+| subdivision_type                = Country
+| subdivision_name                = [[Poland]]
+| subdivision_type1               = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_type2               = [[Powiat|County]]
+| subdivision_name1               = [[Masovian Voivodeship|Masovia]]
+| subdivision_name2               = ''City county''
+| established_title               = Founded
+| established_date                = 13th century
+| established_title1              = City rights
+| established_date1               = 1323
+| parts_style                     = coll
+| parts_type                      = [[Dzielnica|Districts]]
+| parts                           = [[Warsaw#Districts|18 boroughs]]
+| leader_party                    = [[Civic Platform|PO]]
+| leader_title                    = [[List of mayors of Warsaw|Mayor]]
+| leader_name                     = [[Rafał Trzaskowski]]
+| area_total_km2                  = 517.24
+| area_metro_km2                  = 6,100.43
+| elevation_m                     = 78–116
+| elevation_ft                    = 328
+| population_total                = 1,793,579 ([[List_of_cities_and_towns_in_Poland|1st]]) {{increase}}<ref name=population>{{cite web|url=https://bdl.stat.gov.pl/BDL/dane/teryt/jednostka|title=Local Data Bank|access-date=1 June 2019|publisher=Statistics Poland}} Data for territorial unit 1465000.</ref>
+| population_as_of                = 30 June 2020
+| population_density_km2          = 3460
+| population_metro                = 3100844<ref>http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en</ref>
+| population_density_metro_km2    = 509.1
+| population_rank                 = [[List of cities and towns in Poland|1st in Poland]] ([[List of largest cities in the European Union by population within city limits|8th in EU]])
+| population_demonym              = Varsovian
+| postal_code_type                = Postal code
+| postal_code                     = 00-001 to 04–999
+| area_code                       = +48 22
+| website                         = {{Plain link|http://www.um.warszawa.pl/en |um.warszawa.pl}}
+| footnotes                       = {{designation list | embed = yes
+   | designation1 = WHS
+   | designation1_offname = [[Warsaw Old Town|Historic Centre of Warsaw]]
+   | designation1_date = 1980 <small>(4th [[World Heritage Committee|session]])</small>
+   | designation1_number = [https://whc.unesco.org/en/list/30]
+   | designation1_criteria = ii, vi
+   | designation1_type = Cultural
+   | designation1_free1name = UNESCO region
+   | designation1_free1value = [[List of World Heritage Sites in Europe|Europe]]
+   }}
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| official_name                   = 
+}}

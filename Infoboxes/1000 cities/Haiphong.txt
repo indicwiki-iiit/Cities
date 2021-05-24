@@ -1,0 +1,63 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                            = Haiphong
+| official_name                   = Hải Phòng City
+| native_name                     = Thành phố Hải Phòng
+| native_name_lang                = vi
+| other_name                      = 
+| settlement_type                 = [[Municipalities of Vietnam|Municipality (Class-1)]]
+| image_skyline                   = Hải Phòng collection picture.jpg
+| imagesize                       = 290
+| image_caption                   = Hải Phòng City
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| nickname                        = [[delonix regia|Flamboyant]] City (Thành phố Hoa Phượng Đỏ)
+<!-- images and maps  ----------->
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| image_map1                      = Hai Phong in Vietnam.svg
+| mapsize1                        = 250px
+| map_caption1                    = Provincial location in Vietnam
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+<!-- Location ------------------>
+| pushpin_map_caption             = Location of in Vietnam
+| coordinates                     = {{coord|20|51|54.5|N|106|41|01.8|E|region:VN|display=inline}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Vietnam}}
+| seat_type                       = Capital
+| seat                            = [[Hồng Bàng District|Hồng Bàng]]
+| subdivision_type2               = [[Regions of Vietnam|Region]]
+| subdivision_name2               = [[Hong River Delta|Red River Delta]]
+| established_title               = <!-- Settled -->
+| established_date                = 
+| leader_title1                   = Party Secretary:
+| leader_name1                    = Trần Lưu Quang
+| leader_title2                   = People's Council Chairman:
+| leader_name2                    = Lê Văn Thành
+| leader_title3                   = People's Committee Chairman:  <!-- for places with, say, both a mayor and a city manager -->
+| leader_name3                    = Nguyễn Văn Tùng
+| area_total_km2                  = 1,527.4<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = <!-- Elevation -------------------------->
+| elevation_footnotes             = 
+| elevation_m                     = 
+| elevation_max_m                 = 
+| elevation_min_m                 = <!-- Population   ----------------------->
+| population_footnotes            = <ref name="Statistic office">[http://www.gso.gov.vn/default.aspx?tabid=387&idmid=3&ItemID=15571 Statistical Handbook of Vietnam 2015], General Statistics Office Of Vietnam</ref>
+| population_total                = 2,028,514<ref>http://thongkehaiphong.gov.vn/tong-dieu-tra-dan-so-va-nha-o-nam-2019/ket-qua-so-bo-tong-dieu-tra-dan-so-va-nha-o-nam-2019-324.html</ref> 
+| population_as_of                = 2019
+| population_density_km2          = 1274
+| timezone                        = [[UTC+07:00|ICT]]
+| utc_offset                      = +07:00
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code_type                  = [[Telephone numbers in Vietnam|Area codes]]
+| area_code                       = 225
+| blank_name                      = 
+| blank_info                      = <!-- Area/postal codes & others -------->
+| website                         = [http://www.haiphong.gov.vn/ Haiphong.gov.vn]
+}}

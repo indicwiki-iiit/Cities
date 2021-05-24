@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Bazhou}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|霸州市}}}}}}
+|nickname               = 
+|settlement_type        = [[County-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = City of Bazhou (20080607132746).JPG
+|imagesize              = 280px
+|image_caption          = Street on the east of Bazhou Railway Station
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|map_caption            = 
+|pushpin_map            = China Hebei
+|pushpin_map_caption    = Location in Hebei
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Hebei]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2      = [[Langfang]]
+|seat_type              = Municipal seat
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =
+|leader_name1           = 
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+| area_total_km2          = 784.0 
+| area_urban_km2          = 79.00 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_max_m        = 
+|elevation_min_m        = 
+|elevation_min_ft       =
+<!-- Population   ----------------------->
+|population_footnotes   =
+|population_note        =
+|population_density_km2 = <!--For automatic calculation, any density field may contain: auto -->
+| population_total        = 776000
+| population_as_of        = 2017
+| population_urban        = 165400
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|39|08|N|116|23|E|region:CN-13_type:city(570000)_source:dewiki|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              = 
+}}

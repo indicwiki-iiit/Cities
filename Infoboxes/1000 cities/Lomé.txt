@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- See the Table at Infobox settlement for all fields and descriptions of usage. -->
+<!-- Basic info -->
+| name                   = Lomé
+| native_name            = <!-- Lome de le. -->
+| other_name             = 
+| settlement_type        = City <!-- For Town or Village (Leave blank for the default City) -->
+<!-- Images and maps -->
+| image_skyline          ={{Photomontage|position=center
+|photo1a =Quartier des administrations (Lomé, Togo).jpg
+|photo2a =LoméJetty.jpg
+|photo2b =Gnassingbé Eyadéma International Airport(24183843346).jpg
+|photo3a =Françoise Foliot - Togo - 029 - Palais des Congrès.jpg
+|photo3b =Cathedral Lome ext.jpg
+|photo3c =Françoise Foliot - Togo - 027 - Hôtel de la Paix.jpg
+|photo3d =
+|photo4a =N2 Lomé.jpg
+|photo4b =Hôtel du 2 février à Lomé 2.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+}}
+| image_caption          = Photos of Lomé
+| image_flag             = 
+| image_shield           = Lomé Coat of arms.jpg
+| nickname               = 
+| motto                  = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Togo <!-- The name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map. -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Togo
+| coordinates            = {{coord|6|7|55|N|1|13|22|E|region:TG|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = [[Togo]]
+| subdivision_type1      = [[Regions of Togo|Region]]
+| subdivision_type2      = [[Prefectures of Togo|Prefecture]]
+| subdivision_name1      = [[Maritime Region]]
+| subdivision_name2      = [[Golfe]]
+| established_title      = <!-- Settled -->
+| established_date       = 
+| government_footnotes   = 
+| government_type        =
+<!-- Politics -->
+| leader_title           = Mayor
+| leader_name            = [[Aouissi Lodé]]
+<!-- Area -->
+| area_footnotes         = 
+| area_total_km2         = 99.14
+| area_land_km2          = <!-- See table @ Template:Infobox settlement for details on automatic unit conversion. -->
+| area_water_km2         = 
+| area_water_percent     = 
+| area_metro_km2         = 280
+| area_metro_sq_mi       = 
+| elevation_footnotes    = <!-- For references: use<ref> </ref>  tags. -->
+| elevation_m            = 10
+<!-- Population -->
+| population_total       = 837437
+| population_as_of       = 2010 census
+| population_footnotes   = 
+| population_density_km2 = 9305
+| population_metro       = 1477660
+| population_density_metro_km2 = 5608
+| population_density_metro_sq_mi = 
+| population_note  =
+<!-- General information -->
+| postal_code_type = <!-- Enter ZIP code, Postcode, Post      code, 
+DapaongPostal code... -->
+| postal_code      = 
+| area_code        = 
+| blank_name_sec1        = [[Human Development Index|HDI]] (2017)
+| blank_info_sec1        = 0.604<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|#fc0|medium}} · [[List of Togolese regions by Human Development Index|1st]]
+| website          = 
+| footnotes        = 
+| timezone         = [[UTC±0|UTC]]
+| utc_offset       = 
+| timezone_DST     = 
+| utc_offset_DST   =
+<!-- Area/postal codes & others -------->
+}}

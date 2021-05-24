@@ -1,0 +1,17 @@
+{{Infobox UNESCO World Heritage Site
+| image         = 1 lijiang old town 2012a.jpg
+| image_upright = 1.2
+| caption       = 
+| location      = [[Lijiang]], [[Yunnan]], [[China]]
+| part_of       = 
+| includes      = <!--replace by summary if the list of sub-entities is too large or incomplete-->
+| criteria      = {{UNESCO WHS type|(ii), (iv), (v)}}(ii), (iv), (v)
+| ID            = 811bis
+| coordinates   = {{coord|26|52|N|100|14|E|scale:100000|display=title, inline|format=dms}}
+| year          = 1997
+| extension     = 2012
+| area          = {{convert|145.6|ha|acre|abbr=on}}
+| buffer_zone   = {{convert|582.3|ha|acre|abbr=on}}
+| locmapin      = China Yunnan#China
+| map_caption   = 
+}}

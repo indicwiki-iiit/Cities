@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Hubei Province}}
+| native_name             = {{lower|0.1em|{{lang|zh|湖北省}}}}
+| settlement_type         = [[Provinces of China|Province]]
+| translit_lang1          = Name
+| translit_lang1_type     = {{nobold|Chinese}}
+| translit_lang1_info     = {{lang|zh|湖北省}} ({{transl|zh|Húběi Shěng}})
+| translit_lang1_type1    = {{nobold|Abbreviation}}
+| translit_lang1_info1    = HB / {{linktext|lang=zh|鄂}} ({{zh|p=È}})
+| image_skyline = {{Photomontage
+| photo1a = Xiling Gorge 2016 2.jpg
+| photo2a = Yellow Crane Tower, 2013 photo.jpg
+| photo2b = 三峡大坝.jpg
+| photo3a = 赤壁图片-用于中文维基百科咸宁市条目.jpg
+| photo3b = 武当山紫霄殿格子门.JPG
+| photo4a = Enshi_grand_canyon.jpg
+| position = center
+| size = 270
+| color = #F5F5F5
+| border = 0
+| color_border = white
+| text = {{Center|(clockwise from top){{flatlist|
+* [[Xiling Gorge]]
+* [[Three Gorges Dam]]
+* [[Wudang Mountains]]
+* [[Enshi Grand Canyon]]
+* [[Chibi, Hubei|Red Cliffs]]
+* [[Yellow Crane Tower]]
+}}
+}}
+}}
+| image_alt               = 
+| image_caption           = 
+| image_map               = Hubei in China (+all claims hatched).svg
+| mapsize                 = 275px
+| map_alt                 = Map showing the location of Hubei Province
+| map_caption             = Map showing the location of Hubei Province
+| coordinates             = {{coord|31.2|N|112.3|E|type:adm1st|format=dms|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = China
+| named_for               = {{linktext|lang=zh|湖}} {{transl|zh|hú}}—"lake" <br/>{{linktext|lang=zh|北}} {{transl|zh|běi}}—"north" <br/>"north of the [[Dongting Lake|(Dongting) Lake]]" 
+| seat_type               = Capital<br/>{{nobold|(and largest city)}}
+| seat                    = [[Wuhan]]
+| seat1_type              = 
+| seat1                   = 
+| parts_type              = Divisions
+| parts_style             = para
+| p1                      = 13 [[Prefectures of China|prefectures]]
+| p2                      = 102 [[Counties of China|counties]]
+| p3                      = 1235 [[Townships of China|townships]]
+|government_type = [[Provinces of China|Province]]
+|governing_body = [[Hubei Provincial People's Congress]]
+| leader_title            = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+| leader_name             = [[Ying Yong]]
+|leader_title1            = [[Hubei Provincial People's Congress|Congress]] director
+|leader_name1             = Ying Yong
+| leader_title2           = [[Governor (China)|Governor]]
+| leader_name2            = [[Wang Zhonglin (politician)|Wang Zhonglin]] (acting)
+|leader_title3            = [[Chinese People's Political Consultative Conference|CPPCC]] chairman
+|leader_name3             = [[Huang Chuping (politician)|Huang Chuping]]
+| area_footnotes          = <ref name=mofcom>{{cite web|title= Hubei--Survey|url= http://english.mofcom.gov.cn/aarticle/zt_business/lanmub/200704/20070404609936.html|publisher= Ministry Of Commerce - People's Republic Of China |date= 25 April 2007|quote= Hubei {...} an area of 185,900 square km. |access-date= 8 April 2018 |url-status= live |archive-url= https://web.archive.org/web/20180406185510/http://english.mofcom.gov.cn/aarticle/zt_business/lanmub/200704/20070404609936.html |archive-date= 6 April 2018 }}</ref><ref>{{cite web |url= http://www.gov.cn/test/2013-03/26/content_2362487.htm |script-title= zh:湖北 |trans-title= Hubei |language= zh |publisher= The Central People's Government of the People's Republic of China |date= 26 March 2013 |quote= {{lang|zh-hans|全省国土总面积18.59万平方公里}} |access-date= 7 June 2016 |archive-url= https://web.archive.org/web/20160708151501/http://www.gov.cn/test/2013-03/26/content_2362487.htm |archive-date= 8 July 2016 |url-status= live }}</ref>
+| area_total_km2          = 185900
+| area_rank               = [[List of Chinese administrative divisions by area|13th]]
+| elevation_max_m         = 3105
+| elevation_max_point     = [[Shennong Peak]]
+| elevation_max_rank      = 
+| elevation_min_m         = 
+| elevation_min_point     = 
+| elevation_min_rank      = 
+| population_footnotes    = <ref>{{Cite web|date=11 May 2021|title=Communiqué of the Seventh National Population Census (No. 3)|url=http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html|url-status=live|access-date=11 May 2021|publisher=[[National Bureau of Statistics of China]]}}</ref>
+| population_total        = 57,752,557
+| population_as_of        = 2020
+| population_rank         = [[List of Chinese administrative divisions by population|10th]]
+| population_density_km2  = auto
+| population_density_rank = [[List of Chinese administrative divisions by population density|12th]]
+| demographics_type1      = Demographics
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = Ethnic composition
+| demographics1_info1     = [[Han Chinese|Han]]: 95.6%<br />[[Tujia people|Tujia]]: 3.7%<br />[[Hmong people|Miao]]: 0.4%
+| demographics1_title2    = Languages and dialects
+| demographics1_info2     = [[Southwestern Mandarin]], [[Lower Yangtze Mandarin|Jianghuai Mandarin]], [[Gan Chinese|Gan]], [[Xiang Chinese|Xiang]]
+| iso_code                = CN-HB
+| blank_name_sec1         = [[Gross domestic product|GDP]] {{nobold|(2017)}}
+| blank_info_sec1         = [[Renminbi|CNY]] 3.65 trillion<br>USD 540.94 billion <ref name="gdp2017">{{cite web|url= http://www.hubei.gov.cn/zwgk/zxwj/201803/t20180306_1259493.shtml|trans-title= Statistical Communiqué of Hubei on the 2017 National Economic and Social Development|script-title= zh:湖北省2017年国民经济和社会发展统计公报|publisher= Statistical Bureau of Hubei|language= zh|date=2018-02-27|access-date= 2018-06-22|archive-url= https://web.archive.org/web/20180622111517/http://www.hubei.gov.cn/zwgk/zxwj/201803/t20180306_1259493.shtml|archive-date= 2018-06-22|url-status= live}}</ref> ([[List of Chinese administrative divisions by GDP|7th]])
+| blank1_name_sec1        = &nbsp;• per capita
+| blank1_info_sec1        = [[Renminbi|CNY]] 61,971 <br>USD 9,179 ([[List of Chinese administrative divisions by GDP per capita|11th]])
+| blank2_name_sec1        = &nbsp;• growth
+| blank2_info_sec1        = 
+| blank_name_sec2         = [[Human Development Index|HDI]] {{nobold|(2018)}}
+| blank_info_sec2         = 0.762<ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/?interpolation=0&extrapolation=0&nearest_real=0|title=Sub-national HDI - Subnational HDI - Global Data Lab|website=globaldatalab.org|access-date=2020-04-17}}</ref> (<span style="color:#090;">high</span>) ([[List of Chinese administrative divisions by Human Development Index|12th]])
+| website                 = [http://www.hubei.gov.cn/ Hubei.gov.cn] <br /> ([[Simplified Chinese]])
+| footnotes               = 
+}}

@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Nanchang}}
+|official_name          = Nanchang
+|native_name            = {{lower|0.1em|南昌市}}
+|native_name_lang = zh
+|nickname               = Hongcheng ({{lang|zh|洪城}} lit. Grand City{{citation needed|date=September 2019}}), Hongdu ({{lang|zh|洪都}} lit. Grand Metropolis{{citation needed|date=September 2019}}), Yuzhang ({{lang|zh|豫章}})
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{multiple image
+| border                   = infobox
+| total_width              = 280
+| image_style              = border:1;
+| perrow                   = 1/3/1
+| image1                   = Nanchang Xinsijun Junbu Jiuzhi 20120608-02 (cropped).jpg
+| alt1                     = 
+| image2                   = Nanchang sunrise.jpg
+| alt2                     = 
+| image3                   = Pavillion of Prince Teng frontview.JPG
+| alt3                     = 
+| image4                   = StarOfNanchang20070718.jpg
+| alt4                     = 
+| image5                   = Nanchang Bayi Guangchang 20120723-20 (cropped).jpg
+| alt5                     = 
+}}
+|imagesize              =
+|image_caption          = Clockwise from top: [[New Fourth Army]] Headquarter, [[Star of Nanchang]], Bayi Square, Nanchang sunrise, [[Pavilion of Prince Teng]].
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8|frame-lat=28.65|frame-long=116.17}}
+|image_map1             = Location of Nanchang Prefecture within Jiangxi (China).png
+|mapsize1               =
+|map_caption1           = Location of Nanchang City jurisdiction in Jiangxi
+|pushpin_map            = Eastern China#China
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in eastern China
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[China]]
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_name1      = [[Jiangxi]]
+|subdivision_type2      = [[Administrative divisions of China#County level (3rd)|County-level divisions]]
+|subdivision_name2      = 6 [[Districts of the People's Republic of China|districts]], 3 [[Counties of the People's Republic of China|counties]]
+|seat_type              = Municipal seat
+|seat                   = [[Honggutan District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+| government_type         = [[Prefecture-level city]]
+|governing_body = [[Nanchang Municipal People's Congress]]
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+|leader_name            = Wu Xiaojun
+| leader_title1 = [[Nanchang Municipal People's Congress|Congress]] Chairman
+| leader_name1 = Wu Weizhu
+|leader_title2          = [[Mayor]]
+|leader_name2           = Ge Guangming
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Liu Jiafu
+|area_total_km2           = 7194<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_metro_km2           = 4,588
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref>
+tags-->
+|elevation_m            =37
+|elevation_ft           =122
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census<ref>{{cite web|url=http://www.citypopulation.de/php/china-jiangxi-admin.php|title=China: Jiāngxī (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=29 March 2018|archive-url=https://web.archive.org/web/20171118141230/http://citypopulation.de/php/china-jiangxi-admin.php|archive-date=18 November 2017|url-status=live|df=dmy-all}}
+</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =5,042,565
+|population_density_km2         = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =4,171,926
+|population_density_metro_km2   = auto
+| area_urban_km2                  = 686
+| area_urban_footnotes            = &nbsp;(2018)<ref name=autogenerated2>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=24|access-date=2018-08-06|archive-url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf|archive-date=2018-05-03|url-status=live}}</ref>
+| population_urban                = 2935000
+| population_urban_footnotes      = &nbsp;(2018)<ref name=autogenerated2 />
+|population_density_urban_km2   = auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|CST]]
+|utc_offset             = +8
+|coor_pinpoint = Nanchang municipal government
+|coordinates            = {{coord|28.683|N|115.858|E|type:adm2nd_region:CN-36_source:Gaode|format=dms|display=it}}
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 330000
+|area_code              =
+|iso_code = [[ISO 3166-2:CN|CN-JX-01]]
+|blank_name             = [[Vehicle registration plates of China|Licence plate prefixes]]
+|blank_info             = {{lang|zh-cn|赣A}}, {{lang|zh-cn|赣M}}
+|blank1_name            =City Flower
+|blank1_info            =[[Rosa chinensis|Chinese Rose]]
+|blank2_name            =City Tree
+|blank2_info            =[[Camphor Laurel]]
+|website                = {{URL|nc.gov.cn}}
+|footnotes              =
+}}

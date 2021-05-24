@@ -1,0 +1,102 @@
+{{Infobox country
+| conventional_long_name   = Socialist Republic of Vietnam
+| common_name              = Vietnam
+| native_name              = {{native name|vi|Cộng hòa Xã hội chủ nghĩa<br>Việt Nam}}
+| image_flag               = Flag of Vietnam.svg
+| image_coat               = Emblem of Vietnam.svg
+| symbol_type              = Emblem
+| national_motto           = {{lang|vi|Độc lập – Tự do – Hạnh phúc|Độc lập – Tự do – Hạnh phúc}}
+| englishmotto="Independence – Liberty – Happiness"
+| national_anthem          = {{lang|vi|[[Tiến Quân Ca]]}}<br />{{small|({{lang-en|"Army March"}})}}<div style="display:inline-block;margin-top:0.4em;">{{center|}}</div>
+| image_map                = {{Switcher|[[File:Vietnam (orthographic projection).svg|frameless]]|Show globe|[[File:Location Vietnam ASEAN.svg|upright=1.15|frameless]]|Show map of ASEAN|default=1}}
+| map_caption              = {{map caption|location_color=green|region=[[ASEAN]]|region_color=dark grey|legend=Location Vietnam ASEAN.svg}}
+| capital                  = [[Hanoi]]
+| coordinates              = {{coord|21|2|N|105|51|E|type:city}}
+| largest_city             = [[Ho Chi Minh City| Ho Chi Minh City (Saigon)]]<br />{{coord|10|48|N|106|39|E|type:city}}
+| languages_type           = National language
+| languages                = [[Vietnamese language|Vietnamese]]{{#tag:ref|The Constitution of the Socialist Republic of Vietnam states that [[Vietnamese language|Vietnamese]] is the "national language", rather than the "official language"; Vietnamese is the only language used in official documents and legal proceedings ''[[de facto]]''.<ref>{{cite web|url=https://vietnamnews.vn/politics-laws/250222/the-constitution-of-the-socialist-republic-of-viet-nam.html#pKxAv0j1eAlwxQq9.97|title=The Constitution of the Socialist Republic of Vietnam|publisher=[[Vietnam News Agency]]|date=15 January 2014|access-date=13 June 2019}}</ref>|group="n"}}
+| ethnic_groups            = {{vunblist
+  | 85.32% [[Vietnamese people|Vietnamese]]{{#tag:ref|Also called Kinh people.{{sfn|Communist Party of Vietnam|2004}}|group="n"}}
+| {{collapsible list
+  | title                  = {{small|[[List of ethnic groups in Vietnam|53 minorities]]}}| 1.92% [[Tày people|Tày]]  | 1.89% [[Tai peoples|Thái]]  | 1.51% [[Muong people|Mường]]  | 1.45% [[Hmong people|H'Mông]]  | 1.37% [[Khmer people|Khmer]]  | 1.13% [[Nùng people|Nùng]]  | 0.93% [[Yao people|Dao]]| 4.48% Others{{sfn|General Statistics Office of Vietnam|2019}}}}}}
+| religion                 = {{ublist |item_style=white-space:nowrap; |73.7% [[Irreligion|No religion]] / [[Vietnamese folk religion|Folk]] |14.9% [[Buddhism in Vietnam|Buddhism]] |8.5% [[Christianity in Vietnam|Christianity]] |1.5% [[Hòa Hảo|Hoahaoism]] |1.2% [[Caodaism]]  |0.2% [[Religion in Vietnam|Other]]s<ref>{{Cite web|url=https://www.state.gov/reports/2019-report-on-international-religious-freedom/vietnam/|title=2019 Report on International Religious Freedom: Vietnam|website=[[U.S. Department of State]]}}</ref>}}
+| demonym                  = [[Vietnamese people|Vietnamese]]
+| government_type          = [[Unitary state|Unitary]] [[Marxism–Leninism|Marxist–Leninist]] [[One-party state|one-party]] [[Socialist state|socialist]] [[republic]]<!-- The Constitution of Vietnam states that the country is a "socialist republic". This is often regarded as being interchangeable with "communist state" by Western scholars, but legally and officially speaking it is not. -->
+| leader_title1            = [[General Secretary of the Communist Party of Vietnam|General Secretary]]
+| leader_name1             = [[Nguyễn Phú Trọng]]{{#tag:ref|Nguyễn Phú Trọng is also [[Secretary of the Central Military Commission of the Communist Party of Vietnam]]. The first priority political position in [[One-party state|one party]] [[communist state]], Vietnam is [[General Secretary of the Communist Party of Vietnam]], not [[President of Vietnam]].|group="n"}}
+| leader_title2            = [[President of Vietnam|President]] 
+| leader_name2             = [[Nguyễn Xuân Phúc]]
+| leader_title3            = [[Vice President of Vietnam|Vice-President]]
+| leader_name3             = [[Võ Thị Ánh Xuân]]
+| leader_title4            = [[Prime Minister of Vietnam|Prime Minister]]
+| leader_name4             = [[Phạm Minh Chính]]
+| leader_title5            = [[Chairperson of the National Assembly of Vietnam|Chairman of National Assembly]]
+| leader_name5             = [[Vương Đình Huệ]]
+| leader_title6            = [[Supreme People's Court of Vietnam|Chief Justice]]
+| leader_name6            = [[Nguyễn Hòa Bình]]
+| legislature              = [[National Assembly (Vietnam)|National Assembly]]
+| sovereignty_type         = [[History of Vietnam|Formation]]
+| sovereignty_note         =
+| established_event1       = [[Hồng Bàng dynasty]] (First Royal Dynasty)
+| established_date1        = c. 7th century BC
+| established_event3       = [[Chinese domination of Vietnam]]
+| established_date3        = 111 BC
+| established_event4       = [[Battle of Bạch Đằng (938)|Reclaimed independence from China]]
+| established_date4        = 938
+| established_event5       = [[Nguyễn dynasty]] (Last Royal Dynasty)
+| established_date5        = 1 June 1802
+| established_event6       = Became under [[French Indochina|French Protectorate]]
+| established_date6        = 6 June 1884
+| established_event7       = [[National Day (Vietnam)|Independence declared]] from [[France]]
+| established_date7        = 2 September 1945
+| established_event8       = [[1954 Geneva Conference|Geneva Accords]] (South-North division)
+| established_date8        = 21 July 1954
+| established_event9       = [[Liberation of Saigon|Fall of Saigon]]
+| established_date9        = 30 April 1975
+| established_event10       = Reunification
+| established_date10        = 2 July 1976
+| established_event11       = [[Constitution of the Socialist Republic of Vietnam|Current constitution]]
+| established_date11        = 28 November 2013{{#tag:ref|In effect since 1 January 2014.{{sfn|Constitution of Vietnam|2014}}|group="n"}}
+| area_km2                 = 331,699
+| area_rank                = 66th
+| area_sq_mi               = 128,069
+| percent_water            = 6.38
+| population_census        = 96,208,984{{sfn|General Statistics Office of Vietnam|2019}}
+| population_census_year   = 2019
+| population_census_rank   = 16th
+| population_density_km2   = 295.0
+| population_density_sq_mi = 752
+| population_density_rank  = 29th
+| GDP_PPP                  = {{increase}} $1,047.318&nbsp;billion{{sfn|International Monetary Fund}}
+| GDP_PPP_year             = 2020
+| GDP_PPP_rank             = 23rd
+| GDP_PPP_per_capita       = {{increase}} $10,755{{sfn|International Monetary Fund}}
+| GDP_PPP_per_capita_rank  = 106th
+| GDP_nominal              = {{increase}} $340.602&nbsp;billion{{sfn|International Monetary Fund}}
+| GDP_nominal_year         = 2020
+| GDP_nominal_rank         = 35th
+| GDP_nominal_per_capita   = {{increase}} $3,498{{sfn|International Monetary Fund}}
+| GDP_nominal_per_capita_rank                         = 115th
+| Gini                     = 33.4 <!--number only-->
+| Gini_year                = 2020
+| Gini_change              = decrease
+| Gini_ref                 = {{sfn|World Bank|2018c}}
+| Gini_rank                =
+| HDI                      = 0.708<!--number only-->
+| HDI_year                 = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change               = increase<!--increase/decrease/steady-->
+| HDI_ref                  =<ref>{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2019.pdf|title=Human Development Report 2019|publisher=United Nations Development Programme|date=2019|access-date=9 December 2019}}</ref>
+| HDI_rank                 = 117th
+| currency                 = [[Vietnamese đồng|đồng]] (₫)
+| currency_code            = VND
+| time_zone                = [[UTC+07:00|Vietnam Standard Time]]
+| utc_offset               = +07:00
+| utc_offset_DST           =
+| time_zone_DST            =
+| date_format              = dd/mm/yyyy
+| electricity              =[[Mains electricity by country|220 V – 50 Hz]]
+| drives_on                = right
+| calling_code             = [[Telephone numbers in Vietnam|+84]]
+| cctld                    = [[.vn]]
+| today                    =
+}}

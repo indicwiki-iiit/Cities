@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Chiba Prefecture, Japan}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|千葉県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|千葉県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Chiba-ken}}
+| image_flag              = Flag of Chiba Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Emblem of Chiba prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 12 Chiba prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kantō region|Kantō]]
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Chiba, Chiba|Chiba]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 6 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 54
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[:ja:熊谷俊人|Toshihito Kumagai]] (from April 2021)
+| area_total_km2          = 5157.61
+| area_water_percent      = 0.8
+| area_rank               = [[List of Japanese prefectures by area|28th]]
+| population_footnotes    = 
+| population_total        = 6278060
+| population_as_of        = June 1, 2019
+| population_rank         = [[List of Japanese prefectures by population|6th]]
+| population_density_km2  = auto
+| iso_code                = JP-12
+| website                 = {{URL|https://www.pref.chiba.lg.jp/}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = [[Meadow bunting]]
+| fish     = [[Sparidae|Seabream]]
+| flower   = [[Oilseed rape|Seiyō aburana blossom]]
+| tree     = [[Kusamaki]]
+}}}}

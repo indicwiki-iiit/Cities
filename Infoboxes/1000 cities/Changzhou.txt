@@ -1,0 +1,124 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Changzhou}}
+|official_name          = 
+|native_name            = {{lower|0.1em|常州市}}
+|native_name_lang = zh
+|other_name             = Changchow
+|settlement_type        =[[Prefecture-level city]]
+|image_skyline          =Changzhoushi.png
+|imagesize              =300px
+|image_caption          =
+|image_seal             =
+|seal_size                     = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8|frame-lat=31.602|frame-long=119.77}}
+|image_map1             = ChinaJiangsuChangzhou.png
+|mapsize1               = 275px
+|map_caption1           = Location of Changzhou City jurisdiction in Jiangsu
+|pushpin_map            = China Jiangsu#Eastern China#China
+|pushpin_label_position = 
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|pushpin_map_caption    =Location of the city center in China
+|coor_pinpoint = Changzhou municipal government
+|coordinates            = {{coord|31.811|N|119.974|E|format=dms|type:adm2nd_region:CN-32_source:Gaode|display=it}}
+<!-- Area/postal codes & others -------->
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_type2      =
+|subdivision_name1      = [[Jiangsu]]
+|subdivision_name2      =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|seat_type              = Municipal seat
+|seat                   = [[Xinbei District]]
+|parts_type          = Divisions
+|parts               = 5 districts, 1 city
+|p1                     =
+|government_footnotes   =
+|government_type        =
+|leader_title           =Party Secretary
+|leader_name            =WANG Quan
+|leader_title1          =Mayor  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =[[Ding Chun]] ({{lang|zh-hans|丁纯}})
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|area_total_km2           =4384.58 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =1872.1
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_total               =4,592,431
+|population_as_of               =2010 census
+|population_footnotes           =<ref name="stat">{{cite web |url=http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Changzhou-Jiangsu-City-Information/ff/en/1/1X000000/1X07403X.htm |title=Changzhou ( Jiangsu ) City Information |access-date=2010-06-30 |date=2010-03-01 |publisher=Changzhou Municipal Statistic Bureau |language=zh-hans |archive-url=https://web.archive.org/web/20150530005731/http://china-trade-research.hktdc.com/business-news/article/Fast-Facts/Changzhou-Jiangsu-City-Information/ff/en/1/1X000000/1X07403X.htm |archive-date=2015-05-30 |url-status=live }}</ref>
+|population_density_km2         =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_urban               =3,290,918
+|population_density_urban_km2   =auto
+|population_metro               =12400000
+|population_metro_footnotes     =<ref name="oecd2015"/>
+|population_density_metro_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       = [[Postal code of China|Postal code]] <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =213000, 213100 (Urban center) <br/> 213200, 213300
+(Other areas)
+|area_code              =0519
+|website                = [http://www.changzhou.gov.cn www.changzhou.gov.cn]
+|footnotes              =
+<!-- images and maps  ----------->
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|iso_code = [[ISO 3166-2:CN|CN-JS-04]]
+|blank_name             = [[Gross domestic product|GDP]]
+|blank_info             = 2017<ref name="stat" />
+|blank1_name            = &nbsp;- Total
+|blank1_info            = [[Renminbi|CNY]] 662.23 billion (US$103.47 billion)
+|blank2_name            = &nbsp;- per capita
+|blank2_info            = [[Renminbi|CNY]] 140383 (U$21,934.84)
+|blank3_name            = &nbsp;- Growth
+|blank3_info            = {{increase}} 8.1%
+|blank4_name            ='''[[Licence plates of the People's Republic of China|License Plate]] Prefix'''
+|blank4_info            ={{lang|zh-cn|苏D}}
+|blank5_name            =[[varieties of Chinese|Local dialect]]
+|blank5_info            =[[Wu Chinese|Wu]]: [[Changzhou dialect]]
+}}

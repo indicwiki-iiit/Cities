@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Jilin Province}}
+| native_name             = {{lower|0.1em|{{lang|zh|吉林省}}}}
+| other_name              = Chi-lin, Kirin
+| settlement_type         = [[Province of China|Province]]
+| translit_lang1          = Name
+| translit_lang1_type     = {{nobold|Chinese}}
+| translit_lang1_info     = {{lang|zh|吉林省}} ({{transl|zh|Jílín Shěng}})
+| translit_lang1_type1    = {{nobold|Abbreviation}}
+| translit_lang1_info1    = JL / {{linktext|lang=zh|吉}} ({{zh|p=Jí}})
+| image_skyline           = 从长白山西坡看天池-2017-08-24 1.jpg
+| image_alt               = 
+| image_caption           = View of [[Heaven Lake]]
+| image_map               = Jilin in China (+all claims hatched).svg
+| mapsize                 = 275px
+| map_alt                 = Map showing the location of Jilin Province
+| map_caption             = Map showing the location of Jilin Province
+| coordinates             = {{coord|43.7|N|126.2|E|type:adm1st_region:CN-22|format=dms|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = China
+| named_for               = from ''girin ula'', a [[Manchu language|Manchu]] phrase meaning "along the river"
+| seat_type               = Capital<br />{{nobold|(and largest city)}}
+| seat                    = {{hidden|{{nobold|[[Changchun]]}}|[[Jilin City|Jilin]] (1949–1954)<br />[[Changchun]] (1954–present)}}
+| seat1_type              = 
+| seat1                   = 
+| parts_type              = Divisions
+| parts_style             = para
+| p1                      = 9 [[Prefectures of China|prefectures]]
+| p2                      = 60 [[Counties of China|counties]]
+| p3                      = 1006 [[Townships of China|townships]]
+|government_type = [[Provinces of China|Province]]
+|governing_body = [[Jilin Provincial People's Congress]]
+| leader_title            = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+| leader_name             = [[Jing Junhai]]
+|leader_title1                    = [[Jilin Provincial People's Congress|Congress]] chairman
+|leader_name1                     = Jing Junhai
+| leader_title2           = [[Governor (China)|Governor]]
+| leader_name2            = [[Han Jun (politician)|Han Jun]]
+|leader_title3                    = [[Chinese People's Political Consultative Conference|CPPCC]] chairman
+|leader_name3                    = [[Jiang Zelin]]
+| area_footnotes          = <ref name=mofcom>{{cite web|title=Doing Business in China - Survey |url=http://english.mofcom.gov.cn/article/zt_business/lanmub/ |publisher=Ministry Of Commerce - People's Republic Of China |access-date=5 August 2013 |url-status=dead |archive-url=https://archive.today/20130805091244/http://english.mofcom.gov.cn/article/zt_business/lanmub/ |archive-date=5 August 2013 }}</ref>
+| area_total_km2          = 191126
+| area_rank               = [[List of Chinese administrative divisions by area|14th]]
+| elevation_max_m = 2744
+| elevation_max_point = [[Paektu Mountain|Mount Paektu]]
+| elevation_max_ft = 
+| elevation_max_rank = 
+| elevation_min_m = 
+| elevation_min_point = 
+| elevation_min_ft = 
+| elevation_min_rank = 
+| population_footnotes    = <ref>{{Cite web|date=11 May 2021|title=Communiqué of the Seventh National Population Census (No. 3)|url=http://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html|url-status=live|access-date=11 May 2021|publisher=[[National Bureau of Statistics of China]]}}</ref>
+| population_total        = 24,073,453
+| population_as_of        = 2020
+| population_rank         = [[List of Chinese administrative divisions by population|21st]]
+| population_density_km2  = auto
+| population_density_rank = [[List of Chinese administrative divisions by population density|23rd]]
+| demographics_type1      = Demographics
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = Ethnic composition
+| demographics1_info1     = {{plainlist|
+*[[Han Chinese|Han]]: 91%
+*[[Koreans in China|Korean]]: 4%
+*[[Manchu]]: 4%
+*[[Mongol]]: 0.6%
+*[[Hui people|Hui]]: 0.5%}}
+| demographics1_title2    = Languages and dialects
+| demographics1_info2     = [[Northeastern Mandarin]], [[Hamgyŏng dialect|Hamgyŏng Korean]]
+| iso_code                = CN-JL
+| blank_name_sec1         = [[Gross domestic product|GDP]] {{nobold|(2017 <ref name="GDP2017">{{cite web|url=https://www.sohu.com/a/226609568_99965872|trans-title=Statistical Communiqué of Jilin Province on the 2017 National Economic and Social Development |script-title=zh:吉林省2017年国民经济和社会发展统计公报 |publisher=Jilin Bureau of Statistics|language=zh|date=2018-03-28|access-date=2018-06-22}}</ref>)}}
+| blank_info_sec1         = [[Renminbi|CNY]] 1.53 trillion (US$226.44 billion) ([[List of Chinese administrative divisions by GDP|23nd]])
+| blank1_name_sec1        = &nbsp;• per capita
+| blank1_info_sec1        = [[Renminbi|CNY]] 56,101 (US$8,309) ([[List of Chinese administrative divisions by GDP per capita|13th]])
+| blank2_name_sec1        = &nbsp;• growth
+| blank2_info_sec1        = 
+| blank_name_sec2         = [[Human Development Index|HDI]] {{nobold|(2018)}}
+| blank_info_sec2         = {{increase}} 0.768<ref>{{Cite web|url=https://globaldatalab.org/shdi/shdi/?interpolation=0&extrapolation=0&nearest_real=0|title=Sub-national HDI - Subnational HDI - Global Data Lab|website=globaldatalab.org|access-date=2020-04-17}}</ref> (<span style="color:#090;">high</span>) ([[List of Chinese administrative divisions by Human Development Index|9th]])
+| website                 = {{url|www.jl.gov.cn}}
+| footnotes               = 
+}}

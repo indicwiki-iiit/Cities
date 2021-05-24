@@ -1,0 +1,33 @@
+{{Infobox Australian place
+| type               = city
+| name               = Perth
+| state              = WA
+| image              = Perth-skyline.jpg
+| caption            = Perth's skyline viewed from [[South Perth, Western Australia|South Perth]]
+| coordinates        = {{coord|31|57|8|S|115|51|32|E|display=inline,title}}
+| force_national_map = yes
+| pop                = 2125114 <!--NOTE: UPDATES TO POPULATION NUMBER REQUIRE A RELIABLE SOURCE (usually from Australian Bureau of Statistics)-->
+| pop_year           = 2020
+| pop_footnotes      = <ref name=ABSERP18>{{cite web |publisher=[[Australian Bureau of Statistics]]|title=3218.0&nbsp;– Regional Population Growth, Australia, 2019–20|url=https://www.abs.gov.au/statistics/people/population/regional-population/latest-release|date=30 March 2020|access-date=1 April 2021}} ERP at 30 June 2020.</ref>
+| poprank            = 4th
+| density            = 
+| density_footnotes  = 
+| est                = [[Western Australian Day|4 June]] [[1829 in Australia|1829]]
+| area               = 6417.9
+| area_footnotes     = (GCCSA)<ref name="ABSGCCSAXLS">{{cite web |url = http://www.censusdata.abs.gov.au/CensusOutput/copsub.NSF/All%20docs%20by%20catNo/2011~Community%20Profile~5GPER/$File/BCP_5GPER.zip?OpenElement |title = Greater Perth: Basic Community Profile |publisher=[[Australian Bureau of Statistics]] |work=2011 Census Community Profiles |date=28 March 2013 |format=XLS |access-date=9 April 2014 }}</ref>
+| timezone           = [[Time in Australia#Western Australia|AWST]]
+| utc                = +08:00
+| dist1              = 2130
+| location1          = [[Adelaide]]<ref>{{cite web |url = http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=163285&placename=adelaide&placetype=0&state=SA+&place1=PERTH&place1long=115.858612&place1lat=-31.951941 |title = Great Circle Distance between PERTH and ADELAIDE |publisher = [[Geoscience Australia]] |date=March 2004 }}</ref>
+| dist2              = 2652
+| location2          = [[Darwin, Northern Territory|Darwin]]<ref>{{cite web |url = http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=113272&placename=darwin&placetype=0&state=NT+&place1=PERTH&place1long=115.858612&place1lat=-31.951941 |title = Great Circle Distance between PERTH and DARWIN CITY |publisher=Geoscience Australia |date=March 2004 }}</ref>
+| dist3              = 2721
+| location3          = [[Melbourne]]<ref>{{cite web |url = http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=248650&placename=melbourne&placetype=0&state=VIC&place1=PERTH&place1long=115.858612&place1lat=-31.951941 |title=Great Circle Distance between PERTH and MELBOURNE |publisher=Geoscience Australia |date=March 2004 }}</ref>
+| dist4              = 3288
+| location4          = [[Sydney]]<ref>{{cite web |url = http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=106743&placename=sydney&placetype=0&state=NSW&place1=PERTH&place1long=115.858612&place1lat=-31.951941 |title = Great Circle Distance between PERTH and SYDNEY |publisher=Geoscience Australia |date=March 2004 }}</ref>
+| stategov           = [[Electoral district of Perth|Perth]] (and 41 others)<ref>{{cite web |url = http://www.boundaries.wa.gov.au/2011/Final/QuickLinks/ |archive-url=https://web.archive.org/web/20130227041615/http://www.boundaries.wa.gov.au/2011/Final/QuickLinks/ |url-status=dead |archive-date=27 February 2013 |title=2011 Electoral Boundaries |access-date=20 February 2014 |year=2014 |publisher=State of Western Australia&nbsp;– Office of the Electoral Distribution Commissioners |df=dmy-all }}</ref>
+| fedgov             = [[Division of Perth|Perth]] (and 10 others)
+| maxtemp            = 24.8
+| mintemp            = 12.8
+| rainfall           = 730.9
+}}

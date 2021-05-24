@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| name                            = Multan
+| official_name                   =
+| other_name                      =
+| native_name                     = {{lang|ur|{{Nastaliq|مُلتان}}}}
+| nickname                        = ''The City of Saints''
+| etymology                       =
+| settlement_type                 = [[City Districts of Pakistan|Metropolis]]
+<!-- Divisions of Pakistan are official order administrative division system, not metropolitan which is a general term for any major city of world. Pakistan Government Body, see: [[List of divisions of Pakistan]] -->
+| motto                           = <!-- images and maps ----------->
+| image_skyline                   = MultanMontage.jpg
+| imagesize                       =
+| image_caption                   = <div style="background:#fee8ab;">'''Clockwise from top:<br />'''[[Shrine of Bahauddin Zakariya]], [[Shahi Eid Gah Mosque]], [[Ghanta Ghar (Multan)|Ghanta Ghar]], [[Tomb of Shah Rukn-e-Alam]], Shrine of [[Shamsuddin Sabzwari]], Blue-tiled tomb of [[Shah Gardez]]<br /></div>
+| image_flag                      =
+| flag_size                       =
+| image_seal                      =
+| seal_size                       =
+| image_shield                    =
+| shield_size                     =
+| image_blank_emblem              =
+| blank_emblem_type               =
+| blank_emblem_size               =
+| image_map                       =
+| mapsize                        =
+| map_caption                     =
+| pushpin_map                     = 
+Punjab Pakistan#Pakistan#Asia#South Asia#Earth
+| pushpin_label_position          =
+| pushpin_map_caption             = Location in Pakistan
+| pushpin_mapsize                 = 250
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{nowrap|{{flag|Pakistan}}}}
+| subdivision_type1               = [[Subdivisions of Pakistan|Province]]
+| subdivision_type2               = [[Divisions of Pakistan|Division]]
+| subdivision_name2               = [[Multan Division|Multan]]
+| subdivision_type3               = [[Deputy Commissioner Multan]]
+| subdivision_type4               = Autonomous towns
+| subdivision_type5               = Union council
+| subdivision_name1               = {{flag|Punjab}}
+| subdivision_name3               = [[Multan District|Engr.Amir Khattak PAS/DMG Officer]]
+| subdivision_name4               = 6
+| subdivision_name5               = 4
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government 7 seats -->| seat_type                       = 7 PTI MNA
+
+| seat                            =
+| parts_type                      =
+| parts_style                     = <!--=list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              =
+| p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| government_footnotes            = <ref>{{cite web|url=http://203.215.180.58/portal/portal/media-type/html/group/320/page/default.psml/js_pane/P-103d7b410be-10000?nav%3Dleft |title=Archived copy |access-date=2009-09-17 |url-status=dead |archive-url=https://web.archive.org/web/20060414034050/http://203.215.180.58/portal/portal/media-type/html/group/320/page/default.psml/js_pane/P-103d7b410be-10000?nav=left |archive-date=14 April 2006 }}</ref><ref>[http://203.215.180.58/portal/portal/media-type/html/group/320/page/default.psml/js_pane/P-103d7b410be-10000?nav=left Area reference] {{webarchive|url=https://web.archive.org/web/20060414034050/http://203.215.180.58/portal/portal/media-type/html/group/320/page/default.psml/js_pane/P-103d7b410be-10000?nav=left |date=14 April 2006 }}, [http://www.statpak.gov.pk/depts/pco/index.html Density reference] {{webarchive|url=https://web.archive.org/web/20090926230905/http://www.statpak.gov.pk/depts/pco/index.html |date=26 September 2009 }} statpak.gov.pk</ref>
+| government_type           =[[City Districts of Pakistan|Metropolitan Corporation]]<ref>https://www.dawn.com/news/1524621</ref>
+|Deputy Commissioner Multan_name            = Engr.Amir Khattak ([[DMG / PAS Officer]])
+| leader_title1                   = [[Minister from Multan|Syed Shah Mehmood Qureshi]]
+| leader_name1                    = * Zain Qureshi
+| established_title               =
+| established_date                = 550
+<!-- Area --------------------->| area_magnitude                  =
+| unit_pref                       =
+| area_footnotes                  =<ref>https://www.citypopulation.de/php/pakistan-distr-admin.php?adm2id=72102</ref>
+| area_total_km2                  = 286
+| area_metro_km2=3,721
+| area_land_km2                 =
+| area_water_km2               =
+| area_water_percent 70            = <!-- Elevation -------------------------->
+| elevation_footnotes             =
+| elevation_m                     =
+| elevation_ft                    =
+| elevation_max_m                 = 129
+| elevation_max_ft                = 423
+| elevation_min_m                 =
+| elevation_min_ft                = <!-- Population ----------------------->
+| population_as_of                = [[2017 Census of Pakistan|2017]]
+| population_footnotes            =<ref>{{cite web|url=http://www.pbs.gov.pk/content/provisional-summary-results-6th-population-and-housing-census-2017-0|title=PROVISIONAL SUMMARY RESULTS OF 6TH POPULATION AND HOUSING CENSUS-2017|work=pbs.gov.pk|access-date=24 November 2017}}</ref>
+| population_note                 =
+| population_total                = 1,871,843
+|total_type= [[City]]
+| population_density_km2=auto
+|population_rank=[[List of largest cities in Pakistan|7th, Pakistan]]
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Multani
+<!-- General information --------------->| timezone                        = [[Pakistan Standard Time|PST]]
+| utc_offset                      = +05:00
+| timezone_DST                    =
+| utc_offset_DST                  =
+| coordinates                     = {{coord|30|11|52|N|71|28|11|E|region:PK|display=inline,title}}
+| postal_code_type                =
+| postal_code                     = 60xxx
+| area_code                       = 061
+| area_code_type                  =
+| footnotes                       =
+| website                         = {{URL|http://www.mda.gop.pk/}}
+}}

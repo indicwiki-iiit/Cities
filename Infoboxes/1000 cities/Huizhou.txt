@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Huizhou}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|惠州市}}
+|native_name_lang = zh
+|other_name             = 
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = A city to benefit people ({{lang|zh|惠民之州}})
+<!-- images and maps  ----------->
+|image_skyline          = Huizhou montage.png
+|image_caption          = Top：[[Hejiang Attic]], [[Huizhou West Lake]],<br>Middle：[[Jiangbei skyline]], [[Huicheng District]] at night<br>Bottom：[[Shuangyue Bay]]
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = Guangdong subdivisions - Huizhou.svg
+|map_caption1           = Location of Huizhou in Guangdong
+|pushpin_map            = China 
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =
+|coor_pinpoint = Huizhou government
+|coordinates            = {{coord|23.112|N|114.416|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Guangdong]]
+|seat_type              = Municipal seat
+|seat                   = [[Huicheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[CPC Secretary]]
+|leader_name            =Li Yiwei ({{lang|zh-hans|李贻伟}})
+|leader_title1          =[[Mayor]]
+|leader_name1           =Liu Ji ({{lang|zh-hans|刘吉}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  City
+|established_date       = 1988
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 10922 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           = 2672
+|area_metro_km2           =
+|area_blank1_title        =[[Coastline]]
+|area_blank1_km2          =223.6 
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 15
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census<ref>{{cite web|url=http://www.citypopulation.de/php/china-guangdong-admin.php|title=China: Administrative Division of Guăngdōng / 广东省|access-date=26 February 2016}}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =4598402
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =44778513
+|population_density_metro_km2   =auto
+|population_urban               =2344634
+|population_density_urban_km2   = auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 = auto  
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +08:00
+|postal_code_type       =[[Postal code of China|Postal code]]
+|postal_code            = 516000
+|area_code              = 0752
+|iso_code = [[ISO 3166-2:CN|CN-GD-13]]
+|blank_name             =[[GDP]]
+|blank_info             =¥383.1 billion (2017)<br/>[[USD|$]]57&nbsp;billion ($0.11 trillion, [[Purchasing power parity|PPP]])
+|blank1_name            =[[GDP per capita]]
+|blank1_info            =¥80,222 (2017)<br/>[[USD|$]]11,882($22,862, [[Purchasing power parity|PPP]])
+|blank2_name            =[[Licence plates of the People's Republic of China|Licence Plate]] 
+|blank2_info            ={{lang|zh-cn|粤L}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = {{URL|www.huizhou.gov.cn/}}
+|footnotes              = 
+}}

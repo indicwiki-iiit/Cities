@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Niigata Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|新潟県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|新潟県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Niigata-ken}}
+| image_flag              = Flag of Niigata Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Emblem of Niigata Prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 15 Niigata prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Japan}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Kōshin'etsu region|Kōshinetsu]]) ([[Hokuriku region|Hokuriku]])
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Niigata, Niigata|Niigata]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 9 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 30
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Hideyo Hanazumi]]
+| area_total_km2          = 12,584.18
+| area_water_percent      = 0.2
+| area_rank               = [[List of Japanese prefectures by area|5th]]
+| population_footnotes    = 
+| population_total        = 2,227,496
+| population_as_of        = July 1, 2019
+| population_rank         = [[List of Japanese prefectures by population|14th]]
+| population_density_km2  = auto
+| iso_code                = JP-15
+| website                 = {{URL|http://www.pref.niigata.lg.jp/}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = [[Crested ibis]] (''Nipponia&nbsp;nippon'')
+| fish     = 
+| flower   = [[Tulip]] (''Tulipa&nbsp;gesneriana'')
+| tree     = [[Camellia]] (''Camellia&nbsp;japonica'')
+}}}}

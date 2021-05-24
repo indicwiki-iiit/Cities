@@ -1,0 +1,119 @@
+{{Infobox settlement
+<!-- Basic info ---------------->
+|name = {{raise|0.2em|Xiangyang}}
+|other_name = Siangyang, Siang-yang
+|native_name = {{lower|0.1em|襄阳市}}
+|native_name_lang = zh-Hans
+|settlement_type =[[Prefecture-level city]]
+<!-- images and maps ----------->
+|image_skyline = Xiangyang, Hubei, China.jpg
+|imagesize =280px
+|image_caption = Overlooking [[Fancheng District]] from [[Xiangcheng District, Xiangyang|Xiangcheng District]] on the other side of the [[Han River (Yangtze River tributary)|Han River]].
+|image_map = Location of Xiangfan Prefecture within Hubei (China).png
+|mapsize =
+|map_caption = Location of Xiangyang City jurisdiction in Hubei
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = Hubei
+|pushpin_label_position =
+|pushpin_map_caption = Location of the city centre in Hubei
+|pushpin_mapsize =
+<!-- Location ------------------>
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Hubei]]
+|subdivision_type2 = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2 = 8
+|subdivision_type3 = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|subdivision_name3 = 159
+|seat_type =Municipal seat
+|seat =[[Xiangcheng District, Xiangyang|Xiangcheng District]]
+|parts_type =
+|parts_style = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5-->
+|parts = <!-- parts text, or header for parts list -->
+|p1 =
+|p2 = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type =
+|leader_title = Mayor
+|leader_name = Qie Yingcai
+|leader_title1 = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1 =
+|leader_title2 =
+|leader_name2 =
+|leader_title3 =
+|leader_name3 =
+|leader_title4 =
+|leader_name4 =
+|established_title = <!-- Settled -->
+|established_date =
+|established_title1 = <!-- Incorporated (town) -->
+|established_date1 =
+|established_title2 = <!-- Incorporated (city) -->
+|established_date2 =
+|established_title3 =
+|established_date3 =
+|founder =
+|named_for =
+<!-- Area --------------------->
+|area_magnitude = <!-- use only to set a special wikilink -->
+|unit_pref = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes =
+|area_total_km2 =19724.41<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2 = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2 =
+|area_water_percent =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 3672.9 
+| area_urban_km2          = 374.30 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+
+<!-- Elevation -------------------------->
+|elevation_footnotes = <!--for references: use <ref> </ref> tags-->
+|elevation_m = 71
+|elevation_ft =232
+|elevation_max_m =
+|elevation_max_ft =
+|elevation_min_m =
+|elevation_min_ft =
+<!-- Population ----------------------->
+|population_as_of =2010 census<ref>{{cite web |url = http://www.citypopulation.de/php/china-hubei-admin.php |title=China: Húbĕi (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map |website=www.citypopulation.de |access-date= 5 April 2018 }}</ref>
+|population_footnotes =
+|population_note =
+|population_total = 5500307
+|population_density_km2 = auto <!--For automatic calculation, any density field may contain: auto -->
+|population_density_urban_km2 =auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 2384000
+| population_urban        = 1234500
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+
+<!-- General information --------------->
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|coor_pinpoint = Xiangyang municipal government
+|coordinates = {{coord|32.010|112.122|type:adm2nd_region:CN-42_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code = 441000
+|area_code = 710
+|iso_code = [[ISO 3166-2:CN|CN-HB-06]]
+|blank_name = [[GDP]] 2007
+|blank_info = ¥78.545 billion
+|blank1_name = GDP per capita 2007
+|blank1_info = ¥14,478
+|blank2_name = [[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank2_info = {{lang|zh-cn|鄂F}}
+|blank3_name =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info =
+|website = {{URL|xiangyang.gov.cn}}
+|footnotes =
+}}
