@@ -1,0 +1,99 @@
+{{Infobox settlement
+|name                   = Nicolet
+|official_name          = 
+|native_name            = 
+|other_name             = 
+|settlement_type        = [[City (Quebec)|City]]
+<!-- images, nickname, motto --->
+|image_skyline          = Nicolet.JPG
+|imagesize              = 250px
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|nickname               = 
+|motto                  = 
+|image_map              = Nicolet Quebec location diagram.PNG
+|mapsize                = 250px
+|map_caption            = Location within Nicolet-Yamaska RCM. 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Canada Southern Quebec
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in southern Quebec.
+|coordinates            = {{coord|46|13|N|72|37|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+<!-- location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Centre-du-Québec]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[Nicolet-Yamaska Regional County Municipality|Nicolet-Yamaska]]
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     = Constituted
+|established_date1      = December 27, 2000
+|established_title2     = 
+|established_date2      = 
+|established_title3     = 
+|established_date3      = 
+|seat_type              = 
+|seat                   = 
+|parts_type             = 
+|parts                  = 
+|government_footnotes   = <ref name="mamrot">{{Cite web |url=http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/50072/ |title=Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Nicolet |access-date=2012-03-11 |archive-url=https://web.archive.org/web/20120501174754/http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/50072/ |archive-date=2012-05-01 |url-status=dead }}</ref><ref>{{Cite web |url=http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&Search=Det&Include=Y&rid=1415 |title=Parliament of Canada Federal Riding History: BAS-RICHELIEU--NICOLET--BÉCANCOUR (Quebec) |access-date=2009-06-21 |archive-url=https://web.archive.org/web/20090609211221/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E |archive-date=2009-06-09 |url-status=dead }}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Geneviève Dubois
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Bécancour—Nicolet—Saurel]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Nicolet-Bécancour (provincial electoral district)|Nicolet-Bécancour]]
+<!-- area ---------------------->
+|area_footnotes         = <ref name="mamrot"/><ref name="cp2011">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2450072&Geo2=PR&Code2=24&Data=Count&SearchText=Nicolet&SearchType=Begins&SearchPR=01&B1=All&Custom= 2011 Statistics Canada Census Profile: Nicolet, Quebec]</ref>
+|area_magnitude         = 
+|area_total_km2           = 129.20
+|area_land_km2            = 96.11
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+|elevation_footnotes    = 
+|elevation_m            = 
+<!-- population ---------------->
+|population_footnotes   =<ref name="cp2011"/>
+|population_total               = 7828
+|population_as_of               = [[Canada 2011 Census|2011]]
+|population_density_km2         = 81.5
+|population_urban               =
+|population_density_urban_km2   =
+|population_metro               =
+|population_density_metro_km2   =
+|population_blank1_title        = Pop&nbsp;<small>2006-2011</small>
+|population_blank1              = {{steady}} 0.0%
+|population_blank2_title        = Dwellings
+|population_blank2              = 3515
+|population_note                =
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Time Zone|EDT]]
+|utc_offset_DST         = −4
+<!-- postal codes, area code --->
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            =[[List of J postal codes of Canada|J3T]]
+|area_code              = [[Area code 819|819]]
+|blank_name             = Highways 
+|blank_info             = {{jct|state=QC|QC|132}} <br> {{jct|state=QC|QC|259}}
+|website                = {{URL|www.ville.nicolet.qc.ca}}
+|footnotes              = 
+}}

@@ -1,0 +1,64 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Ho
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = City
+<!-- images and maps  ----------->
+| image_skyline          = Ho,_Ghana.JPG
+| imagesize              = 250px
+| image_caption          = View of Ho from Northern hills
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_blank_emblem     = Ho Municipal Assembly District logo.jpg
+| blank_emblem_size      = 150px
+| blank_emblem_type      = Ho Municipal Assembly logo
+| blank_emblem_link      = Ho Municipal District
+| nickname               = 
+| motto                  = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Ghana<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location of Ho in [[Volta Region]]
+| coordinates            = {{coord|6|36|43|N|0|28|13|E|type:city_region:GH|display=inline,title}}
+<!-- Location ------------------>
+| subdivision_type       = [[Ghana|Country]]
+| subdivision_name       = [[Ghana]]
+| subdivision_type1      = [[Regions of Ghana|Region]]
+| subdivision_name1      = [[Volta Region]]
+| subdivision_type2      = [[Districts of Ghana|District]]
+| subdivision_name2      = [[Ho Municipal District]]
+| established_title      = <!-- Settled -->
+| established_date       = 
+| government_type        = 
+| government_footnotes   = 
+| leader_title           = 
+| leader_name            =
+<!-- Area    --------------------->
+| area_footnotes         = 
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automaticre unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 150
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 96,213<ref name="World Gazetteer">{{cite web|url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com |url-status=dead |archive-url=https://web.archive.org/web/20120111172126/http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |archive-date=11 January 2012 |df=dmy-all }}</ref>
+| population_as_of       = 2012
+| population_density_km2 = auto
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Greenwich Mean Time|GMT]]
+| utc_offset             = 
+| timezone_DST           = [[Greenwich Mean Time|GMT]]
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 036
+| website                = 
+| footnotes              = 
+}}

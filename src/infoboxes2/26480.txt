@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_skyline   = {{nowrap|[[File:Abbey of Zirc 001.JPG|250px]]<br/>[[File:Abbey Church of Zirc.JPG|125px]][[File:Abbey of Zirc 002.JPG|125px]]}}
+|image_caption   = [[Cistercian Convent]] at Zirc 
+|image_shield    =Coa_Hungary_Town_Zirc.svg
+|image_flag      = Flag of Zirc.svg
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Zirc
+|pushpin_mapsize        =|
+
+official_name=Zirc|
+map=<!--<div style="position: relative">[[File:VeszprémMegye.png|275px]]<div style="position: absolute; left: 68px; top: 80px">[[File:Red_Dot.gif]]</div></div>-->|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Veszprém county|Veszprém]]|
+area_total_km2=37.4|
+population_total=7157|
+population_as_of=2008|
+population_density_km2=192.36|
+postal_code_type=[[Postal code]]|
+postal_code=8420|
+area_code=88
+|coordinates            = {{coord|47.26349|17.86928|region:HU|display=inline,title}}
+| website            = [http://www.zirc.hu www.zirc.hu]
+}}

@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->| name                            = Kotor
+| official_name                   = 
+| other_name                      = 
+| native_name                     = Котор
+| settlement_type                 = [[List of cities in Montenegro|Town]] and [[Municipalities of Montenegro|municipality]]
+| image_skyline                   = Kotor Montenegro panorama 2016.jpg
+| imagesize                       = 300px
+| image_caption                   = 
+| image_flag                      = Flag of Kotor, Montenegro.jpg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = Coat of Arms of Kotor.png
+| shield_size                     = 
+| shield_link                     = Coat of Arms of Kotor
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Montenegro
+| pushpin_label_position          = right<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within Montenegro
+| pushpin_mapsize                 =
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Montenegro]]
+| subdivision_type1               = [[Municipalities of Montenegro|Municipality]]
+| subdivision_name1               = [[Kotor Municipality|Kotor]]
+| seat_type                       = 
+| seat                            = 
+| parts_type                      = Settlements
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+Default is list if up to 5 items, coll if more than 5-->
+| parts                           = 56 <!--parts text, or header for parts list-->
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = Vladimir Jokić ([[Democratic Montenegro|DCG]])
+| leader_title1                   = Ruling&nbsp;coalition
+| leader_name1                    = DCG-[[Democratic Front (Montenegro)|DF]]-[[Socialist People's Party of Montenegro|SNP]]-[[United Reform Action|URA]]
+| established_title               = Founded
+| established_date                = 5th century BC
+| area_blank1_title               = Municipality
+| area_blank1_km2                 = 335
+| area_blank1_sq_mi               = 
+| population_as_of                = 2011 census
+| population_footnotes            = 
+| population_note                 = 
+| population_density_km2          = 68
+| population_urban                = 12,583
+| population_rural                = 10,018
+| population_blank1_title         = Municipality
+| population_blank1               = 22,601
+| timezone1                       = [[Central European Time|CET]]
+| utc_offset1                     = +1
+| timezone1_DST                   = CEST
+| utc_offset1_DST                 = +2
+| coordinates                     = {{coord|42|25|48|N|18|46|12|E|display=inline}}
+| postal_code_type                = [[List of postal codes in Montenegro|Postal code]]
+| postal_code                     = 85330
+| area_code_type                  = [[Telephone numbers in Montenegro|Area code]]
+| area_code                       = +382 32
+| blank_name_sec1                 = [[ISO 3166-2:ME|ISO 3166-2 code]]
+| blank_info_sec1                 = ME-10
+| blank1_name_sec1                = [[Vehicle registration plates of Montenegro|Car&nbsp;plates]]
+| blank1_info_sec1                = KO
+| website                         = {{URL|http://www.opstinakotor.com}}
+| footnotes     = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| part_of       = [[Natural and Culturo-Historical Region of Kotor]]
+| criteria      = {{UNESCO WHS type|(i)(ii)(iii)(iv)}}(i)(ii)(iii)(iv)
+| ID            = 125ter
+| year          = 1979
+| extension     = 2012, 2015
+}}
+}}

@@ -1,0 +1,65 @@
+{{Infobox settlement
+| official_name            = Gardendale, Alabama
+| settlement_type          = [[City]]
+<!-- Images -->
+| image_skyline            = Gardendale Civic Center.jpg
+| image_caption            = Gardendale Civic Center (2015)
+| image_seal               = 
+| image_map                = File:Jefferson County Alabama Incorporated and Unincorporated areas Gardendale Highlighted 0129056.svg
+| map_caption              = Location of Gardendale in Jefferson County, Alabama.
+| coordinates              = {{coord|33|39|36|N|86|48|46|W|region:US-AL_type:city_source:GNIS|display=inline}}
+<!-- Location -->
+| coordinates_footnotes    = <ref name="GNIS">[http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:118823 Geographic Names Information System (GNIS) details for Gardendale, Alabama; United States Geological Survey (USGS); September 4, 1980.]</ref>
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Alabama]]
+| subdivision_type2        = [[List of counties in Alabama|County]]
+| subdivision_name2        = [[Jefferson County, Alabama|Jefferson]]
+<!-- Established -->
+| established_title        = Founded
+| established_date         = 
+| established_title1       = [[Platted]]
+| established_date1        = 
+| established_title2       = [[Municipal corporation|Incorporated]]
+| established_date2        = 1955
+| government_type          = 
+<!-- Government -->
+| government_footnotes     = 
+| leader_title             = Mayor
+| leader_name              = Stan Hogeland
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_01.txt|publisher=United States Census Bureau|access-date=June 29, 2020}}</ref>
+| area_total_sq_mi         = 22.89
+| area_land_sq_mi          = 22.89
+| area_water_sq_mi         = 0.00
+<!-- Elevation -->
+| elevation_footnotes      = <ref name="GNIS"/>
+| elevation_ft             = 679
+<!-- Population -->
+| population_footnotes     = 
+| population_total         = 13893
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 14177
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 619.49
+<!-- General information -->
+| timezone                 = [[Central Time Zone|CST]]
+| utc_offset               = -6
+| timezone_DST             = CDT
+| utc_offset_DST           = -5
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 35071
+| area_code_type           = [[North American Numbering Plan|Area code]]
+| area_code                = [[Area codes 205 and 659|205 & 659]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = {{FIPS|01|29056}}<ref name="GNIS"/> 
+| blank1_name              = [[Geographic Names Information System|GNIS ID]]
+| blank1_info              = {{GNIS 4|118823}}<ref name="GNIS"/> 
+| website                  = {{URL|http://www.cityofgardendale.com/|cityofgardendale.com}}
+|area_total_km2 = 59.28
+|area_land_km2 = 59.27
+|area_water_km2 = 0.01
+|population_density_km2 = 239.19
+}}

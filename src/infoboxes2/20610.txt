@@ -1,0 +1,116 @@
+{{Infobox settlement
+|official_name          =
+|name                   = Acatlán
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = Town & Municipality
+|total_type             =Municipality
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =  HuascaTulancingoHwyAcatlan.JPG
+|imagesize              =
+|image_caption          = Main street through town
+|image_flag             =
+|flag_size              =
+|image_seal             = Glifoaca.gif
+|seal_size              =
+|image_shield           =
+|shield_size            = ""
+|city_logo              =
+|citylogo_size          =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =
+|pushpin_label_position =
+|pushpin_map_caption    =
+|pushpin_mapsize        = 300px
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{MEX}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Hidalgo (state)]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Municipal&nbsp;President
+|leader_name            =  Orlando Rubén Muñoz Medina
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = 1518
+|established_title2     = Municipal Status
+|established_date2      = 1869
+|established_title3     =
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2005
+|population_footnotes           = &nbsp;Municipality
+|population_note                =
+|population_total               = 17914
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_blank1_title        = Seat
+|population_blank1              = 418 <!-- population of seat -->
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = -6
+|timezone_DST           = Central
+|utc_offset_DST         = -5
+|coordinates            = {{coord|20|08|40|N|98|26|18|W|region:MX|display=inline,title}}
+|elevation_point        =  of seat
+|elevation_m            = 2140
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 43540
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            = [[Demonym]]
+|blank1_info            =
+|website                = http://www.acatlanhidalgo.gob.mx/
+|footnotes              =
+}}

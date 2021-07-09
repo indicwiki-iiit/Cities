@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Battalgazi
+| image_skyline           = Metin Sözen St., Battalgazi - Malatya 02.jpg
+| image_caption           = Battalgazi
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|38|25|22|N|38|21|56|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Malatya Province|Malatya]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Osman Güder
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Abdulmuttalip Aksoy
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Malatya|Battalgazi}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Malatya}}
+| population_urban        = {{Turkey district populations|Malatya|Battalgazi|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Malatya|Battalgazi|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 443xx
+| website                 = {{URL| www.battalgazi.bel.tr | www.battalgazi.bel.tr }}
+}}

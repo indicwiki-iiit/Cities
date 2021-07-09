@@ -1,0 +1,44 @@
+{{Infobox settlement
+| official_name                   = Libreville
+| image_skyline                   = {{Photomontage|position=center
+|photo1a =Libreville.jpg
+|photo2a =Libreville-palais-senat.jpg
+|photo2b =Libreville Centre-ville.jpg
+|photo3a =Church of Notre-Dame de Lourdes, Libreville.jpg
+|photo3b =Mosque, Libreville.jpg
+|photo4a =Baie du cap, l’estuaire de Libreville au Gabon.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+}}
+| image_caption          = Photos of Libreville
+| imagesize                       = 300px
+| image_shield                    = Libreville Coat of Arms.svg
+| image_map                       = 
+| mapsize                         = 250px
+| map_caption                     = Map of the Gabon showing Libreville.
+| pushpin_map                     = Gabon#Africa<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_relief                  = 1
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Gabon
+| blank_name_sec2                 = [[Human Development Index|HDI]] (2018)
+| blank_info_sec2                 = 0.738<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|#57994C|high}}
+<!-- Location ------------------>
+| subdivision_type  = Country
+| subdivision_name  = [[Gabon]]
+| subdivision_type1 = [[Provinces of Gabon|Province]]
+| subdivision_name1 = [[Estuaire Province]]
+| subdivision_type2 = [[Capital district]]
+| subdivision_name2 = Libreville
+| leader_title      = Mayor
+| leader_name       = 
+| area_land_km2     = 65.42
+| area_metro_km2    = 189
+| population_as_of  = 2013 census
+| population_total  = 703,904
+| coordinates                     = {{coord|0|23|25|N|9|27|15|E|region:GA|display=it}}
+| website                         = {{URL|www.libreville.ga}}
+| name                            = 
+}}

@@ -1,0 +1,25 @@
+{{Infobox Australian place | type = city
+| name                   = Lithgow
+| state                  = nsw
+| image                  = Lithgow NSW Main Street Shops NOV2019.jpg
+| coordinates            = {{coord|33|29|S|150|09|E|display=inline,title}}
+| pushpin_label_position = right
+| caption                = Main Street
+| lga                    = City of Lithgow
+| postcode      = 2790
+| pop           = 12973
+| pop_year      = 2018
+| pop_footnotes =<ref name=ABSSUA/>
+| est           = 1870s
+| elevation     = 950
+| elevation_footnotes= <ref name=BOMlithgow1 />
+| maxtemp       = 18.2
+| mintemp       = 6.4
+| rainfall      = 860.1
+| county        = [[Cook County, New South Wales|Cook]]
+| parish        = Lett
+| fedgov    =[[Division of Calare|Calare]]
+| stategov  =[[Electoral district of Bathurst|Bathurst]]
+| dist1     = 150
+| location1 = [[Sydney]]
+}}

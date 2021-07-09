@@ -1,0 +1,106 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| name                            = Milpitas, California
+| official_name                   = City of Milpitas
+| settlement_type                 = [[City (California)|City]]
+| native_name                     = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->| image_skyline                   = {{Photomontage
+| photo1a                 = Summer Solstice Silicon Valley Panorama.jpg
+| photo2a                 = Milpitas Cit Hall (cropped).jpg
+| photo2b                 = Milpitas Grammar School 1.JPG
+| photo3a                 = Jose Maria Alviso Adobe, 92 Piedmont Rd., Milpitas, CA 9-30-2012 2-02-31 PM.JPG
+| photo3b                 = Footbridge to Great Mall Main station, March 2018 (cropped).JPG
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = Clockwise: View of Milpitas and [[Silicon Valley]] from the [[Diablo Range]]; Milpitas Grammar School; [[Great Mall/Main Transit Center]]; [[Jose Maria Alviso Adobe|José María Alviso Adobe]].
+}}
+| image_flag                      = Flag of Milpitas, California.png
+| flag_size                       = 
+| image_seal                      = Seal of Milpitas, California.png
+| nickname                        = 
+| motto                           = 
+| image_map                       = Santa Clara County California Incorporated and Unincorporated areas Milpitas Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Santa Clara County, California|Santa Clara County]] and the state of [[California]]
+| pushpin_map                     = USA#California#San Francisco Bay Area
+| pushpin_map_caption             = Location in the United States
+| pushpin_label                   = Milpitas
+| pushpin_relief                  = 1
+<!-- Location ------------------>| coordinates                     = {{coord|37|26|5|N|121|53|42|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Santa Clara County, California|Santa Clara]]
+<!-- Politics ----------------->| established_title               = [[Settled]]
+| established_date                = 1852{{Citation needed|date=September 2014}}
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = January 26, 1954<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=October 17, 2013 
+}}</ref>
+| government_type                 = [[Council-City Manager Government]]
+| leader_title                    = [[List of mayors of Milpitas, California|Mayor]]
+| leader_name                     = Rich Tran<ref name=cc>{{cite web
+ | url = http://www.ci.milpitas.ca.gov/our-government/city-council/
+ | title = City Council
+ | publisher = City of Milpitas
+ | access-date = January 4, 2017}}</ref>
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Carmen Montano <ref name=cc/>
+| leader_title2                   = [[Councilmember]]
+| leader_name2                    = Evelyn Chua <ref name=cc/>
+| leader_title3                   = [[Councilmember]]
+| leader_name3                    = Karina Dominguez <ref name=cc/>
+| leader_title4                   = [[Councilmember]]
+| leader_name4                    = [[Anthony Phan]]<ref name=cc/>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 13.52
+| area_total_km2                  = 35.01
+| area_land_sq_mi                 = 13.48
+| area_land_km2                   = 34.91
+| area_water_sq_mi                = 0.04
+| area_water_km2                  = 0.10
+| area_water_percent              = 0.36
+| area_metro_sq_mi                = 
+| area_metro_km2                  = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1659759|Milpitas|access-date=December 29, 2014}}</ref>
+| elevation_ft                    = 20
+| elevation_m                     = 6
+<!-- Population   ----------------------->| population_as_of                = [[2010 United States Census|2010]]
+| population_note                 = City population is a 2019 estimate by the Census Bureau.
+| population_total                = 66790
+| population_footnotes            = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+| population_density_sq_mi        = 6246.46
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| population_density_metro_km2    = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95035, 95036
+| area_code                       = [[Area codes 408 and 669|408/669]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|47766}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1659759}}, {{GNIS 4|2411113}}
+| website                         = {{URL|www.ci.milpitas.ca.gov}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 84196
+| population_rank                 = [[List of largest California cities by population|99th]] in California
+| population_density_km2          = 2411.75
+}}

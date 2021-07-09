@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Lelystad
+| settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|Municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = ZuilvanLely.jpg
+| image_alt               = 
+| image_caption           = Lelystad city centre
+| image_flag              = Flag of Lelystad.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Lelystad wapen.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0995 (2009).svg
+| map_alt                 = Highlighted position of Lelystad in a municipal map of Flevoland
+| map_caption             = Location in Flevoland
+| coordinates             = {{coord|52|30|N|5|29|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[Flevoland]]
+| subdivision_type2               = [[List of regions of the Netherlands|Region]]
+| subdivision_name2               = [[Amsterdam metropolitan area]]
+| established_title       = Established
+| established_date        = 1 January 1967
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url = http://www.lelystad.nl/4/College/Portefeuilleverdeling.html
+ |title = Portefeuilleverdeling
+ |trans-title = Tasks
+ |language = nl
+ |publisher = Gemeente Lelystad
+ |access-date = 1 September 2013
+ |archive-url = https://web.archive.org/web/20130910112107/http://www.lelystad.nl/4/College/Portefeuilleverdeling.html
+ |archive-date = 10 September 2013
+ |url-status = dead
+ }}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[People's Party for Freedom and Democracy|VVD]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Henry Meijdam]]
+<!-- Geographic information -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Lelystad}}
+| area_land_km2           = {{Dutch municipality land area|Lelystad}}
+| area_water_km2          = {{Dutch municipality water area|Lelystad}}
+| elevation_footnotes     = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool 
+ |title=Postcodetool for 8232ZX 
+ |language=nl 
+ |work=Actueel Hoogtebestand Nederland 
+ |publisher=Het Waterschapshuis 
+ |access-date=1 September 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool 
+ |archive-date=21 September 2013 
+}}</ref>
+| elevation_m             = &minus;3
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Lelystad}}
+| population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}}
+| population_density_km2  = {{Dutch municipality population density|Lelystad}} <!-- For automatic calculation: auto-->
+| population_demonym      = 
+<!-- Other information -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 8200–8249
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 0320
+| website                 = {{URL|1=http://www.lelystad.nl}}
+| footnotes               =
+}}

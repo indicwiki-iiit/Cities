@@ -1,0 +1,85 @@
+{{Infobox settlement
+|name                     = Pascagoula, Mississippi
+|official_name            = City of Pascagoula
+|settlement_type          = [[City]]
+|nickname                 = Mississippi's Flagship City
+|motto                    = "A Great Place to Live, Work & Play"
+
+<!-- Images -->
+|image_skyline            = Pascagoula sign.jpg
+|imagesize                = 
+|image_caption            = Welcome sign on [[U.S. Route 90]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Jackson_County_Mississippi_Incorporated_and_Unincorporated_areas_Pascagoula_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Pascagoula in Jackson County, Mississippi
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Mississippi#USA
+| pushpin_label = Pascagoula
+| pushpin_label_position = top
+| pushpin_map_caption = Location in the United States
+
+<!-- Location -->
+| subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Mississippi}}
+|subdivision_type2        = [[List of counties in Mississippi|County]]
+|subdivision_name2        = [[Jackson County, Mississippi|Jackson]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor 
+|leader_name              = Steve Demetropoulos
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_28.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 63.48
+|area_land_km2            = 39.82
+|area_water_km2           = 23.66
+|area_total_sq_mi         = 24.51
+|area_land_sq_mi          = 15.38
+|area_water_sq_mi         = 9.13
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 21699
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2014-09-10}}</ref>
+|population_total         = 22392
+|population_urban         = 50428 (US: [[List of United States urban areas|497th]])
+|population_metro         = 382516 (US: [[List of Metropolitan Statistical Areas|137th]])
+|population_density_km2   = 544.87
+<!--2016 pop est-->
+|population_density_sq_mi = 1411.23
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 3
+|elevation_ft             = 10
+|coordinates              = {{coord|30|21|49|N|88|32|31|W|region:US-MS_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 39567-39581
+|area_code                = [[Area code 228|228]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 28-55360
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0675480
+|website                  = {{URL|cityofpascagoula.com}}
+|footnotes                = 
+}}

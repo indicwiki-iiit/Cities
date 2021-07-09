@@ -1,0 +1,63 @@
+{{Infobox settlement
+| name                    = Sládkovičovo
+| native_name             = 
+| other_name              = Diószeg
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Diószeg templom 2.JPG
+| image_caption           = Church
+| image_flag              = 
+| image_shield            = Coat of arms of Sládkovičovo.png
+| motto                   = 
+| nickname                = 
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{SVK}}
+| subdivision_type2       = Region
+| subdivision_name2       = [[Trnava Region|Trnava]]
+| subdivision_type3       = District
+| subdivision_name3       = [[Galanta District|Galanta]]
+| subdivision_type4       = 
+| subdivision_name4       = 
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Slovakia
+| pushpin_relief          = 
+| pushpin_map_caption     = Location of Sládkovičovo in Slovakia 
+| coordinates             = {{coord|48|12|19|N|17|38|39|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Anton Szabó
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1252
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 29.095
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 120
+<!-- population -->
+| population_as_of        = 2018-12-31<ref>{{cite web |title=Population and migration |url=https://slovak.statistics.sk/wps/portal/ext/themes/demography/population/indicators/|publisher=Statistical Office of the Slovak Republic |accessdate=2019-04-16}}</ref>
+| population_footnotes    = 
+| population_total        = 5219
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 925 21
+| area_code_type          =  
+| area_code               = +421-31
+| blank_name              = [[Slovak car registration plates|Car plate]]
+| blank_info              = GA
+<!-- website, footnotes -->
+| website                 = {{URL|https://www.sladkovicovo.sk}}
+| footnotes               = 
+}}

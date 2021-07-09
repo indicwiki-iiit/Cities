@@ -1,0 +1,78 @@
+{{Infobox settlement
+|
+|official_name            = Coralville, Iowa
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = City Center Square.jpg
+|imagesize                = 250px 
+|
+|image_caption            = City Center Square in downtown Coralville
+|image_flag               = 
+|image_seal               = Coralville_logo.jpg
+
+<!-- Maps -->
+|image_map = Johnson_County_Iowa_Incorporated_and_Unincorporated_areas_Coralville_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Coralville, Iowa
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Iowa}}
+|subdivision_type2        = [[List of counties in Iowa|County]]
+|subdivision_name2        = [[Johnson County, Iowa|Johnson]]
+|subdivision_type3        = [[Table of United States Metropolitan Statistical Areas|Metro]]
+|subdivision_name3        = [[Iowa City Metropolitan Area]]
+|government_footnotes     = 
+|government_type          = [[Council-manager government]]
+|leader_title             = [[Mayor]]
+|leader_name              = John Lundell
+|leader_title1            = [[City Administrator]]
+|leader_name1             = Kelly Hayworth
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1873
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 32.70
+|area_land_km2            = 32.53
+|area_water_km2           = 0.18
+|area_total_sq_mi         = 12.63
+|area_land_sq_mi          = 12.56
+|area_water_sq_mi         = 0.07
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 22290
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 18907
+|population_rank          = [[List of largest Iowa cities by population|23rd]] in Iowa
+|population_density_km2   = 685.31
+|population_density_sq_mi = 1774.96
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 208
+|elevation_ft             = 682
+|coordinates              = {{coord|41|41|18|N|91|35|12|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 52241
+|area_code                = [[Area code 319|319]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 19-16230
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0455624
+|website                  = [http://www.coralville.org/ www.coralville.org]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+}}

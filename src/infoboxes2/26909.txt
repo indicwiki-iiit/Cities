@@ -1,0 +1,61 @@
+{{Infobox settlement
+| name                     = Slippery Rock, Pennsylvania
+| official_name            = Borough of Slippery Rock
+| settlement_type          = [[Borough (Pennsylvania)|Borough]]
+| image_skyline            = South Main Street Slippery Rock 2013.jpg
+| imagesize                = 250px
+| image_caption            = South Main Street
+| image_flag               = 
+| image_seal               = 
+| motto                    = 
+| image_map                = File:Butler County Pennsylvania Incorporated and Unincorporated areas Slippery Rock Highlighted.svg
+| map_caption              = Location in Butler County, Pennsylvania
+| pushpin_map              = Pennsylvania#USA
+| pushpin_label_position   = right<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label            = Slippery Rock
+| pushpin_map_caption      = Location in Pennsylvania##Location in the United States
+| coordinates              = {{coord|41|03|49|N|80|03|18|W|region:US-PA|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Pennsylvania]]
+| subdivision_type2        = [[List of counties in Pennsylvania|County]]
+| subdivision_name2        = [[Butler County, Pennsylvania|Butler]]
+| established_title2       = Settled
+| established_date2        = 1841
+| leader_title             = [[Mayor]]
+| leader_name              = Jondavid R. Longo
+<!-- Area    --------------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_total_sq_mi         = 1.65
+| area_land_sq_mi          = 1.65
+| area_water_sq_mi         = 0.00
+| area_water_percent       = 
+| elevation_m              = 
+| elevation_ft             = 
+| population_total         = 3625
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_km2   = 828.56
+| population_density_sq_mi = 2146.50
+| population_urban         = 
+| population_metro         = 
+| population_note          = 
+| timezone                 = [[Eastern Time Zone|EST]]
+| utc_offset               = -5
+| timezone_DST             = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 16057<ref name="zipcode">{{cite web|url=http://www.zipdatamaps.com/16057|access-date=2016-11-06|title=Zipdatamaps}}</ref>
+|area_code                = [[Area code 724|724]]/[[Area code 878|878]]
+|website                  = {{URL|www.slipperyrockboroughpa.gov}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 3531
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-71184
+|area_total_km2 = 4.26
+|area_land_km2 = 4.26
+|area_water_km2 = 0.00
+}}

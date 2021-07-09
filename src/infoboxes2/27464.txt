@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name                     = Finderne, New Jersey
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Finderne, NJ.jpg
+|imagesize                = 250x200px
+|image_caption            = Along East Main Street ([[County Route 612 (Somerset County, New Jersey)|CR 612]])
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = USA New Jersey Somerset County#USA New Jersey#USA
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location of Finderne within Somerset County. Inset: Location of Somerset County in New Jersey.
+|pushpin_mapsize          = 
+|image_map                = 
+|map_caption              =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = [[Somerset County, New Jersey|Somerset]]
+|subdivision_type3        = [[List of townships in New Jersey|Township]]
+|subdivision_name3        = [[Bridgewater Township, New Jersey|Bridgewater]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_34.txt Gazetteer of New Jersey Places], [[United States Census Bureau]]. Accessed July 21, 2016.</ref>
+|area_magnitude           = 
+|area_total_km2           = 11.232
+|area_land_km2            = 10.607
+|area_water_km2           =  0.625
+|area_total_sq_mi         =  4.336
+|area_land_sq_mi          =  4.095
+|area_water_sq_mi         =  0.241
+|area_water_percent       =  5.56
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3423310 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Finderne CDP, New Jersey] {{Webarchive|url=https://archive.today/20200212140417/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3423310 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed February 11, 2013.</ref>
+|population_total         = 5600
+|population_density_km2   = auto
+|population_density_sq_mi = 1367.4
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref>{{Gnis|02583988|Finderne Census Designated Place}}, [[Geographic Names Information System]]. Accessed February 11, 2013.</ref>
+|elevation_m              = 25
+|elevation_ft             = 82
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.561278|-74.574237|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 08876 - [[Somerville, New Jersey|Somerville]]<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=Finderne&state=NJ Look Up a ZIP Code for Finderne, NJ], [[United States Postal Service]]. Accessed February 11, 2013.</ref>
+|area_code                = [[Area code 908|908]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3423310<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 02583988<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = 
+|footnotes                = 
+}}

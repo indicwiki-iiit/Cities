@@ -1,0 +1,46 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Dengzhou}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|邓州市}}}}}}
+|postal_code = 474170
+|postal_code_type = [[Postal code of China|Postal code]]
+|pushpin_map = China Henan
+|pushpin_map_caption = Location of the city center in Henan
+|settlement_type = [[County-level city|County-level]] & [[Sub-prefecture-level city|Sub-prefectural city]]
+|image_skyline = 
+|image_map = Dengzhou map.png
+|map_caption = Dengzhou City jurisdiction in Henan
+|subdivision_type = Country
+|subdivision_name = [[People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Henan]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Nanyang, Henan|Nanyang]]
+|area_code = 0377
+|area_total_km2 = 2294
+|area_footnotes =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|area_urban_km2 = 35
+|population = 
+|population_as_of = 2019
+|population_density_km2 = auto
+|population_density_urban_km2 = auto
+|population_total = 1366000
+|population_urban = 300000
+|population_footnotes =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|coordinates = {{coord|32.688|N|112.087|E|format=dms|type:adm3rd_region:CN-41_source:Gaode|display=it}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website = {{URL|www.dengzhou.gov.cn}}
+}}

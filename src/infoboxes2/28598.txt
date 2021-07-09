@@ -1,0 +1,26 @@
+{{Infobox Australian place
+| type     = town
+| name     = Pannawonica
+| state    = wa
+| image    = PannaHill.JPG
+| caption  = Pannawonica Hill
+| lga      = Shire of Ashburton
+| coordinates = {{coord|21|38|00|S|116|20|00|E|display=inline,title}}
+| postcode = 6716
+| est      = 1970
+| pop      = 695
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = 
+| elevation= 200
+| maxtemp  = 34.6
+| mintemp  = 19.5
+| rainfall = 407.2
+| stategov = [[Electoral district of North West Central|North West Central]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 1429
+| dir1     = N
+| location1= Perth
+| dist2    = 198
+| dir2     = SSW
+| location2= [[Karratha, Western Australia|Karratha]]
+}}

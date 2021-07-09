@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Mundelein, Illinois
+| settlement_type         = Village
+| image_map               = File:Lake County Illinois Incorporated and Unincorporated areas Mundelein Highlighted.svg
+| map_caption             = Location of Mundelein in Lake County, Illinois.
+| pushpin_map             = Illinois
+| coordinates             = {{coord|42|16|N|88|0|W|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{US}}
+| subdivision_type1       = State
+| subdivision_name1       = Illinois
+| subdivision_type2       = [[County (United States)|County]]
+| subdivision_name2       = [[Lake County, Illinois|Lake]]
+| subdivision_type3       = [[Civil township|Township]]
+| subdivision_name3       = [[Fremont Township, Lake County, Illinois|Fremont]]
+| established_title       = [[Municipal corporation|Incorporated]]
+| established_date        = {{Start date and age|1909}}<ref name=villagehistory>{{Cite web | url = http://www.mundelein.org/village/history | title = Village History | website = www.mundelein.org | publisher = Village of Mundelein | access-date = June 7, 2019}}</ref>
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = Village
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = Steve Lentz
+| leader_title1           = 
+| leader_name1            = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 4.02
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = <!-- square miles -->
+| area_total_sq_mi        = 9.96
+| area_land_sq_mi         = 9.55
+| area_water_sq_mi        = 0.41
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = <!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_ft            = 
+| population_footnotes    = 
+| population_total        = 31064
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_sq_mi = 3251.41
+| population_demonym      = 
+| population_note         = 
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[ZIP code|<span style="white-space:nowrap;">ZIP code(s)</span>]]
+| postal_code             = 60060
+| area_code_type          = [[North American Numbering Plan|<span style="white-space:nowrap;">Area code(s)</span>]]
+| area_code               = 847 and 224
+| iso_code                = 
+| geocode                 = 
+| website                 = {{Official website}}
+| footnotes               = <!-- demographics (section 1) -->
+| demographics_type1      = Standard of living
+| demographics1_footnotes = 
+| demographics1_title1    = [[Per capita income]]
+| demographics1_info1     = $26,280 (median: $71,500)
+| demographics1_title2    = 
+| demographics1_info2     = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 31051
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 17-51349
+|area_total_km2 = 25.78
+|area_land_km2 = 24.73
+|area_water_km2 = 1.05
+|population_density_km2 = 1255.37
+}}

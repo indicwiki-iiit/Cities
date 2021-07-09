@@ -1,0 +1,23 @@
+{{Infobox German location
+|type                = Stadt
+|image_photo        = Öhringen Panorama.JPG
+|image_coa             = Wappen Öhringen.svg
+|coordinates        = {{coord|49|12|N|9|30|E|format=dms|display=inline,title}}
+|image_plan = Öhringen in KÜN.svg
+|state         = Baden-Württemberg
+|region   = Stuttgart
+|district          = Hohenlohekreis
+|elevation               = 230
+|area             = 67.79
+|population          = 1 <!--any number, auto-sets population-->
+|Stand              = 2009-12-31
+|postal_code                = 74613
+|PLZ-alt            = 7110
+|area_code            = 07941
+|licence                = ÖHR
+|Gemeindeschlüssel  = 08 1 26 066
+|Straße             = Marktplatz 15
+|website            = [http://www.oehringen.de/ www.oehringen.de]
+|mayor      = Thilo Michler
+|party             = no party
+}}

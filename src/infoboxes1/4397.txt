@@ -1,0 +1,28 @@
+{{Infobox settlement
+|name                  = La Haute-Saint-Charles
+|settlement_type       = [[List of boroughs in Quebec|Borough]]
+|image_map             = Carte localisation Québec - La Haute-Saint-Charles.svg
+|map_caption           = La Haute-Saint-Charles within Quebec City
+|coordinates           = {{coord|46|53|25|N|71|22|20|W|region:CA-QC|display=inline,title}}
+|coordinates_footnotes = <ref>{{toponymie|378883}}</ref>
+|subdivision_type      = Country
+|subdivision_name      = {{CAN}}
+|subdivision_type1     = [[Provinces and territories of Canada|Province]]
+|subdivision_name1     = {{QC}}
+|subdivision_type2     = [[Region (Quebec)|Region]]
+|subdivision_name2     = [[Capitale-Nationale]]
+|established_title     = Effective
+|established_date      = January 1, 2002
+|government_footnotes  = <ref>{{mamrot |type=arrondissement |REQ06}}</ref>
+|leader_title          = [[Borough (Quebec)|Borough]] mayor
+|leader_name           = Simon Brouard
+|area_footnotes        = 
+|timezone              = [[Eastern Time Zone|EST]]
+|utc_offset            = −5
+|timezone_DST          = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST        = −4
+|postal_code_type      = [[Canadian postal code|Postal code(s)]]
+|postal_code           = [[List of G postal codes of Canada|G]]
+|area_code             = [[Area codes 418 and 581|418 and 581]]
+|website               = {{URL|www.ville.quebec.qc.ca}}
+}}

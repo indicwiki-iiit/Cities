@@ -1,0 +1,91 @@
+{{Infobox settlement
+| name                            = Baton Rouge, Louisiana
+| population                      = 229493
+| population_demonym              = Baton Rougean
+| population_density_sq_mi        = 2547.58
+| population_density_km2          = 983.63
+<!--Using 2014 pop estimate-->| population_urban                = 594309 (US: [[List of United States urban areas|68th]])
+| population_metro                = 830480 (US: [[List of Metropolitan Statistical Areas|70th]])
+| population_rank                 = US: [[List of United States cities by population|97th]]
+| population_footnotes            = <ref name="wwwcensusgov">{{cite web |title=U.S. Census website |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=August 27, 2014}}</ref>
+| utc_offset                      = &minus;6
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| pop_est_as_of                   = 2019
+| population_est                  = 220236
+| population_as_of                = [[2010 United States Census|2010]]
+| area_metro_sq_mi                = 
+| area_urban_sq_mi                = 
+| timezone                        = [[North American Central Time Zone|CST]]
+| timezone_DST                    = CDT
+| area_water_km2                  = 5.71
+| population_total                = 229493
+| area_total_km2                  = 229.61
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_22.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+| blank1_info                     = [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:1629914 1629914]
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank_info                      = 22-05000
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| footnotes                       = 
+| utc_offset_DST                  = &minus;5
+| website                         = {{URL|https://www.brla.gov}}
+| elevation_ft                    = 56
+| elevation_m                     = 17
+| coordinates                     = {{coord|30|26|51|N|91|10|43|W|region:US-LA|display=inline,title}}
+| area_code                       = [[Area code 225|225]]
+| postal_code                     = 70801–70817, 70819–70823, 70825–70827, 70831, 70833, 70835–70837, 70874, 70879, 70883, 70884, 70892–70896, 70898
+| postal_code_type                = ZIP Codes
+| area_water_percent              = 
+| area_water_sq_mi                = 2.20
+| official_name                   = City of Baton Rouge
+| mapsize                         = 270
+| subdivision_type                = Country
+| image_caption                   = From top, left to right: Downtown, [[Memorial Tower]] at LSU, [[USS Kidd (DD-661)|USS ''Kidd'']], [[Louisiana State Capitol]], [[St. Joseph Cathedral (Baton Rouge, Louisiana)|St. Joseph Cathedral]], [[Horace Wilkinson Bridge]], [[Tiger Stadium (LSU)]], [[Old Louisiana State Capitol]]
+| imagesize                       = 280px
+| image_skyline                   = {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 1/3/2/2
+| image1                 = Baton Rouge skyline 2013.jpg
+| image2                 = Lastatememorial.jpg
+| image3                 = USS Kidd (DD-661), January 2013.jpg
+| image4                 = Baton Rouge Capitol Building.jpg
+| image5                 = St. Joseph Cathedral - Baton Rouge, Louisiana.JPG
+| image6                 = Horace Wilkinson Bridge southeast.jpg
+| image7                 = Nightgame.jpg
+| image8                 = 2014 Old Louisiana State Capitol.JPG
+
+}}
+| pushpin_map_caption             = Location within Louisiana##Location within the United States##Location within North America
+| pushpin_map                     = Louisiana#USA#North America
+| map_caption                     = Baton Rouge City Limits
+| subdivision_type1               = [[U.S. state|State]]
+| image_map                       = {{Maplink|frame=yes|plain=y|frame-width=290|frame-height=270|frame-align=center|stroke-width=3|zoom=10|frame-lat=30.45|frame-long=-91.12|type=shape-inverse|stroke-color=#808080|id=Q28218|title=Baton Rouge}}
+| seal_size                       = 90px
+| image_seal                      = Baton-Rouge seal.png
+| image_flag                      = Flag of Baton Rouge, Louisiana.svg
+| nicknames                       = Red&nbsp;Stick, The&nbsp;Capital&nbsp;City, B.R.
+| settlement_type                 = [[List of capitals in the United States|State capital city]]
+| subdivision_name                = [[United States]]
+| subdivision_name1               = [[Louisiana]]
+| area_land_km2                   = 223.90
+| established_date2               = January 16, 1817
+| area_land_sq_mi                 = 86.45
+| area_blank1_sq_mi               = 
+| area_blank1_km2                 = 204.89
+| area_blank1_title               = Total{{NoteTag|Total area for the City of Baton Rouge, not all of East Baton Rouge Parish}}
+| unit_pref                       = Imperial
+| established_date1               = 1721
+| subdivision_type2               = Parish
+| established_date                = 1699
+| established_title2              = [[Municipal incorporation|Incorporated]]
+| established_title1              = Settled
+| established_title               = Founded
+| leader_name                     = [[Sharon Weston Broome]]<ref name="br-mayor">{{cite web |title=Office of Mayor President |url=http://www.brgov.com/dept/Mayor/ |website=Baton Rouge Government Website |access-date=3 January 2017 |archive-url=https://web.archive.org/web/20170107201744/http://www.brgov.com/dept/Mayor/ |archive-date=January 7, 2017 |url-status=live}}</ref> ([[Democratic Party (United States)|D]])
+| leader_title                    = [[Mayor]]-President
+| subdivision_name2               = [[East Baton Rouge Parish, Louisiana|East Baton Rouge]]
+| area_total_sq_mi                = 88.65
+| pushpin_relief                  = yes
+| image_blank_emblem              = Wordmark of Baton Rouge.png
+| blank_emblem_type               = Wordmark
+}}

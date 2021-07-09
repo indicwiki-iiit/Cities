@@ -1,0 +1,22 @@
+{{Infobox German location
+|type               = Stadt
+|image_photo       = Bahnhof Ohrdruf.JPG
+|image_caption     = Railway station
+|image_coa            = Wappen Ohrdruf.png
+|coordinates       = {{coord|50|49|41|N|10|43|58|E|format=dms|display=inline,title}}
+|image_plan = Ohrdruf in GTH.svg
+|state        = Thüringen
+|district         = Gotha
+|elevation              = 375
+|area            = 113.41
+|population         = 9786
+|Stand             = 2017-12-31
+|postal_code               = 99885
+|area_code           = 03624
+|licence               = GTH
+|Gemeindeschlüssel = 16 0 67 053<!--
+|Straße            = Marktplatz 1 (street) which is an unknown parameter in this ibox. -->
+|website           = [http://www.ohrdruf.de/ www.ohrdruf.de]
+|mayor     = Stefan Schambach
+|party            = SPD
+}}

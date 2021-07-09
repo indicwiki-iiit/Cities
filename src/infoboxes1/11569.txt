@@ -1,0 +1,28 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = {{raise|0.2em|Bade}}
+| official_name = Bade District
+| native_name = {{lower|0.1em|{{nobold|{{lang|zh-hant|八德區}}}}}}
+| other_name = 
+| settlement_type         = [[District (Taiwan)|District]]
+| image_skyline           = 八德都市計畫區.png
+| imagesize               = 
+| image_caption           = Bade District in Taoyuan City
+| image_map               = Bade.png
+| mapsize                 = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Taiwan}}
+| subdivision_type1       = Municipality
+| subdivision_name1       = [[Taoyuan City]]
+| government_footnotes    =
+| government_type         = District
+| leader_title            = Mayor
+| leader_name             = [[Ho Cheng-sen]]<ref>{{cite web |url=http://www.pader.gov.tw/content_edit.php?menu=2395&typeid=2395 |title=桃園縣八德市公所-英文版-A Note from the Mayor |publisher=Pader.gov.tw |date=2012-12-20 |access-date=2014-05-05 |archive-url=https://web.archive.org/web/20140413150310/http://www.pader.gov.tw/content_edit.php?menu=2395&typeid=2395 |archive-date=2014-04-13 |url-status=dead }}</ref>
+| area_total_km2          = 33.71
+| population_as_of        = January 2017
+| population_total        = 193236
+| population_density_km2  = 
+| parts_type              = [[Administrative divisions of Republic of China|Administrative divisions]]
+| parts                   = 
+| website                 = {{Official URL}} {{in lang|zh-tw}}
+}}

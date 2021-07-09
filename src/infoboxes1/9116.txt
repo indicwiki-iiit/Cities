@@ -1,0 +1,61 @@
+{{Infobox settlement
+| name                   = Hebron
+| translit_lang1         = Arabic
+| translit_lang1_type    = [[Arabic script|Arabic]]
+| translit_lang1_info    = {{lang|ar|الخليل}}
+| translit_lang1_type1   = [[Latin script|Latin]]
+| translit_lang1_info1   = {{transl|he|Ḥebron}} ([[ISO 259-3]])<br>{{transl|ar|Al-Khalīl}} (official)<br />{{transl|ar|DIN|Al-Ḫalīl}} (unofficial)
+| translit_lang2         = Hebrew
+| translit_lang2_type    = [[Hebrew script|Hebrew]]
+| translit_lang2_info    = {{lang|he|חברון}}
+| type                   = [[List of cities in Palestinian Authority areas|Municipality type A (City)]]
+| image_skyline          = Hebron172.JPG
+| imagesize              = 
+| image_caption          = Downtown Hebron
+| image_blank_emblem     = Seal of Hebron.tif
+| blank_emblem_type      = Municipal Seal of Hebron
+| blank_emblem_size      = 
+| pushpin_map            = Palestine
+| pushpin_map_caption    = Location of Hebron within [[State of Palestine|Palestine]]
+| image_map              = 
+| mapsize                = 
+| map_caption            = 
+| coordinates            = {{coord|31|32|00|N|35|05|42|E|region:PS|display=inline,title}}
+| grid_name              = [[Palestine grid|Palestine&nbsp;grid]]
+| grid_position          = 159/103
+| subdivision_type       = State
+| subdivision_name       = [[State of Palestine]]
+| subdivision_type1      = [[Governorates of the Palestinian National Authority|Governorate]]
+| subdivision_name1      = [[Hebron Governorate|Hebron]]
+| nickname               = City of the Patriarchs
+| established_title      = Founded
+| established_date       = 
+| government_footnotes   = <!-- for references: use <ref> tags -->
+| government_type        = [[List of cities in Palestinian Authority areas|City]] (from 1997)
+| leader_title           = Head of Municipality
+| leader_name            = [[Tayseer Abu Sneineh]]<ref name="ElectedMayor">{{cite news|title=Palestinian terrorist in killing of 6 Jews elected Hebron mayor|url=http://www.timesofisrael.com/palestinian-terrorist-in-killing-of-6-jews-elected-hebron-mayor/|access-date=17 May 2017|newspaper=Times of Israel|date=14 May 2017}}</ref>
+| unit_pref              = dunam
+| area_footnotes         = <ref>[http://vprofile.arij.org/hebron/pdfs/Hebron%20City%20profile.pdf Hebron City Profile – ARIJ]</ref>
+| area_total_km2         = 74.102
+| area_total_dunam       = 
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_min_m        = 
+| elevation_max_m        = 
+| population_footnotes   = <ref name="hebroncity">[https://docs.google.com/viewer?a=v&q=cache:z9f98LGZAzgJ:www.hebron-city.ps/pdfs/achievements%2Bbook2009.pdf+Hebron+population+site:hebron-city.ps/&hl=ar&gl=sa&pid=bl&srcid=ADGEESiGg1Z_tKDWG8k47e2GDqzDl7gUqB3uwKHIowKkWCEufgt7LJknFYkvKe-6kenBAqQ8T5Dwog7EQ-E3hCWQXrT2we1IxrGJtW1lHsW2ooKuXXF71_gia9drQY-DVa0ZeyQkq7g7&sig=AHIEtbQdWBXl_Yl7FSbJFGQBxPMHYW6dew 1] [https://docs.google.com/viewer?pid=bl&srcid=ADGEESiGg1Z_tKDWG8k47e2GDqzDl7gUqB3uwKHIowKkWCEufgt7LJknFYkvKe-6kenBAqQ8T5Dwog7EQ-E3hCWQXrT2we1IxrGJtW1lHsW2ooKuXXF71_gia9drQY-DVa0ZeyQkq7g7&q=cache%3Az9f98LGZAzgJ%3Awww.hebron-city.ps%2Fpdfs%2Fachievements%2Bbook2009.pdf%20population%20of%20250%2C000%20site%3Ahebron-city.ps%2F&docid=2a3dfabac239ffc31ae4eefe2485ec68&a=bi&pagenumber=80&w=2000 2] Hebron page 80, Hebron is {{convert|45|km2|0|abbr=out}} in area and has a population of 250,000, according to the Palestinian Central Bureau of Statistics for the year 2007. The figure given here refers to the population of the city of Hebron itself.</ref>
+| population_total       = 215,452
+| population_as_of       = 2016
+| population_note        = 
+| population_density_km2 = auto
+| website                = [http://www.hebron-city.ps/ www.hebron-city.ps]
+{{Infobox UNESCO World Heritage Site
+  |Official_name = [[Old City of Hebron|Hebron/Al-Khalil Old Town]]
+  |child = yes
+  |ID = 1565
+  |Year = 2017
+  |Danger = 2017–
+  |Criteria = Cultural: ii, iv, vi
+  |Area = 20.6 ha
+  |Buffer_zone = 152.2 ha
+  }}
+}}

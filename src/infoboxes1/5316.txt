@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                   = {{raise|0.2em|Jinchang}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|金昌市}}
+|native_name_lang = zh
+|other_name             = 
+|nickname               = 'Nickel Capital' ({{linktext|lang=zh-hans|镍都}})
+|settlement_type        = [[Prefecture-level city]]
+|motto                  = 
+|image_skyline          = 20060423105630.jpg
+|imagesize              = 
+|image_caption          = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_size      =
+|image_map              = Location of Jinchang Prefecture within Gansu (China).png
+|mapsize                = 
+|map_caption            = Location of Jinchang City jurisdiction in Gansu
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           =
+|pushpin_map            = China Gansu
+|pushpin_label_position = 
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location of the city centre in Gansu
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_name1      = [[Gansu]]
+|subdivision_type2      = 
+|subdivision_name2      =
+|seat_type              = Municipal seat
+|seat                   = [[Jinchuan District]]
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  
+|established_date       = 
+|area_magnitude         = 
+<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         = 
+|area_total_km2         = 8896
+|area_land_km2          = 
+|area_water_km2         = 
+|area_water_percent     = 
+|area_urban_km2         =
+|area_metro_km2         =
+|population_as_of       =2010
+|population_footnotes   = <ref name="xzqhjc"/>
+|population_note        = 
+|population_total       = 464050 
+|population_density_km2 =
+|population_metro       =
+|population_density_metro_km2 =
+|population_urban       = 
+|population_density_urban_km2 =
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|coor_pinpoint = Jinchang municipal government
+|coordinates            = {{coord|38.5214|N|102.1880|E|type:adm2nd_region:CN-62_source:Gaode|format=dms|display=it}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 737100
+|area_code              =
+|iso_code = [[ISO 3166-2:CN|CN-GS-03]]
+|website = {{URL|www.jc.gansu.gov.cn/}}
+|footnotes              = 
+}}

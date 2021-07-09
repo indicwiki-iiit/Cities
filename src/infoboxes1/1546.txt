@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =Nsukka<!-- at least one of the first two fields must be filled in -->
+|official_name          =
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|nickname               =NSK
+|settlement_type        = Town
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Ariel_view_of_Nsukka_from_the_mountains.jpg
+|imagesize              = 
+|image_caption          = View of Nsukka from a neighboring hill
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Nigeria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       ={{flag|Nigeria}}
+|subdivision_type1      = State
+|subdivision_name1      = [[Enugu State]]
+|subdivision_type2      =
+|subdivision_name2      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =  <!--add (no-break space) to leader names to disable automatic links-->
+|leader_title1          = 
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =Imperial<!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 5,545.38
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =430
+|elevation_ft           =1410
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2006 Census
+|population_footnotes           =<ref name=Umuahia_population>{{cite web| url=http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf| title=Legal Notice on Publication of the Details of the Breakdown of the National and State Provisional Totals 2006 Census| author=Federal Republic of Nigeria Official Gazette|date=15 May 2007|access-date=1 July 2010}}</ref>
+|population_note                =
+|population_total               = 309,633 
+
+
+ 1,500,000 now
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = GMT+1
+|utc_offset             =
+|timezone_DST           =
+|utc_offset_DST         =
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|6|51|24|N|7|23|45|E|region:NG|display=inline,title}}
+|postal_code_type       = 3-digit postal code prefix
+|postal_code            = 410
+|area_code             =
+|iso_code              = NG.EN.NS
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|website                =
+|footnotes              =
+}}

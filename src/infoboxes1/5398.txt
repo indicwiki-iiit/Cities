@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Qingzhen}}
+| official_name           = <!-- Official name in English if different from 'name' -->
+| native_name             = {{lower|0.1em|清镇市}}
+| native_name_lang = zh-Hans
+| settlement_type         = [[County-level city]]
+| image_skyline           = 
+| image_alt               =
+| image_caption           = 
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               = ChinaGuiyangQingzhen.png
+| map_alt                 =
+| map_caption             = Qingzhen in Guiyang
+| image_map1              = Location of Guiyang Prefecture within Guizhou (China).png
+| map_caption1            = Guiyang in Guizhou
+| coordinates = {{coord|26.5704|N|106.4687|E|type:adm3rd_region:CN-52_source:Gaode|format=dms|display=it}}
+| coor_pinpoint = Qingzhen municipal government
+<!--
+| pushpin_map             = Guizhou
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location in Guizhou
+-->
+| subdivision_type        = Country
+| subdivision_name = [[China|People's Republic of China]]
+| subdivision_type1       = [[Provinces of China|Province]]
+| subdivision_name1       = [[Guizhou]]
+| subdivision_type2       = [[Prefecture-level city]]
+| subdivision_name2       = [[Guiyang]]
+| subdivision_type3       = Township-level divisions
+| subdivision_name3       =
+| subdivision_type4       =
+| subdivision_name4       =
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               = Municipal seat
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- <ref> </re> -->
+| area_note               =
+| area_water_percent      =
+| area_rank               =
+| area_blank1_title       =
+| area_blank2_title       =
+<!-- square kilometres -->
+| area_total_km2          = 1381
+| area_land_km2           =
+| area_water_km2          =
+| area_urban_km2          =
+| area_rural_km2          =
+| area_metro_km2          =
+| area_blank1_km2         =
+| area_blank2_km2         =
+| length_km               =
+| width_km                =
+| dimensions_footnotes    =
+| elevation_footnotes     =
+| elevation_m             =
+| population_footnotes    =
+| population_total        = 467,438
+| population_as_of        = 2010
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = +8
+| postal_code_type        = [[List of postal codes in China|Postal code]]
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}

@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                            = Geneseo, New York
+| nickname                        = 
+| settlement_type                 = [[Administrative divisions of New York#Town|Town]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Bear Fountain in Geneseo.jpg
+| imagesize                       = 250px
+| image_caption                   = The Bear Fountain sits in the center of Geneseo village's Main Street. In this picture, it is decorated with flags for [[Memorial Day]].
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    =  
+| pushpin_map                     = New York#USA
+| pushpin_label_position          = top
+| pushpin_label                   = Geneseo
+| pushpin_map_alt                 = 
+| pushpin_mapsize                 = 
+| pushpin_relief                  = 
+| pushpin_map_caption             = 
+<!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = {{flagcountry|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flagcountry|New York}}
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Livingston County, New York|Livingston]]
+<!-- Politics ----------------->
+| government_footnotes            = <ref>{{cite web|title=Mayor Margaret Duff |url=http://www.geneseony.org/trustees/hatheway.html |access-date=2007-10-10 |publisher=The Village of Geneseo |work=The Village of Geneseo Board of Trustees |archive-url=https://web.archive.org/web/20070823193128/http://www.geneseony.org/trustees/hatheway.html |archive-date=August 23, 2007 |url-status=dead |df=mdy }}</ref>
+| government_type                 = [[Town Council]]
+| leader_title1                   = [[Mayor]]
+| leader_name1                    = Margaret Duff ([[Democratic Party (United States)|D]])
+| leader_title2                   = [[Town Council]]
+| leader_name2                    = 
+| established_title               = Town established
+| established_date                = 1789
+<!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_total_km2                  = 116.92
+| area_land_km2                   = 113.82
+| area_water_km2                  = 3.10
+| area_total_sq_mi                = 45.14
+| area_land_sq_mi                 = 43.94
+| area_water_sq_mi                = 1.20
+| area_water_percent              = 
+<!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 277
+| elevation_ft                    = 909
+<!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| population_note                 = 
+| population_total                = 10483
+| population_est                  = 10726
+| pop_est_as_of                   = 2016
+| population_density_km2          = 94.24
+| population_density_sq_mi        = 244.08
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone1                       = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset1                     = -5
+| timezone1_DST                   = [[Eastern Daylight Time|EDT]]
+| utc_offset1_DST                 = -4
+| coordinates                     = {{coord|42|47|45|N|77|48|49|W|region:US-NY|display=inline,title}}
+<!-- Area/postal codes & others -------->
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 14454
+| area_code                       = [[Area code 585|585]] Exchanges: 243,245,991
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 36-051-28629
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0978991
+| website                         = {{URL|www.geneseony.org}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2016"/>
+| official_name                   = 
+}}

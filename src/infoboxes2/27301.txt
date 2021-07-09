@@ -1,0 +1,29 @@
+{{Infobox Australian place
+| type     = town
+| state    = tas
+| image    = New Norfolk, Tasmania.JPG
+| caption  = New Norfolk town in Autumn
+| name     = New Norfolk
+| pop      = 5834 
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2011Y />
+| postcode = 7140
+| est      = 
+| relief   = 1
+| coordinates = {{coord|42|46|58|S|147|03|34|E|display=inline,title}}
+| maxtemp  = 17.3
+| maxtemp_footnotes  =<ref name="BoM"/>
+| mintemp  = 6.6
+| mintemp_footnotes  =<ref name="BoM"/>
+| rainfall = 551.1
+| rainfall_footnotes  =<ref name="BoM"/>
+| lga          = [[Derwent Valley Council]]
+| stategov     = [[Division of Lyons (state)|Lyons]]
+| fedgov       = [[Division of Lyons|Lyons]]
+| location1    = [[Hobart]]
+| dist1        = 32
+| location2    = [[Hamilton, Tasmania|Hamilton]]
+| dist2        = 38
+| location3    = [[Queenstown, Tasmania|Queenstown]]
+| dist3        = 213
+}}

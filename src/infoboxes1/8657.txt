@@ -1,0 +1,57 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info -->| name                            = Hetauda
+| other_name                      = 
+| native_name                     = {{lang|ne|हेटौंडा}}
+| nickname                        = 
+| settlement_type                 = [[List of cities in Nepal|Metropolitan City]]
+| motto                           = <!-- images and maps  -->
+| image_skyline                   = 
+| image_caption                   = Hetauda City
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = <!-- NepalMakwanpurDistrictmap.png -->
+| mapsize                         = 340px
+| map_caption                     = Map of [[Makwanpur District]]. Hetauda is shaded in light blue.
+| pushpin_map                     = Nepal Bagmati Province#Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Nepal
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = [[Nepal]]
+| subdivision_type1               = [[Provinces of Nepal|Province]]
+| subdivision_name1               = [[Bagmati Province]]
+| subdivision_type2               = [[Districts of Nepal|District]]
+| subdivision_name2               = [[Makwanpur District|Makwanpur]]|<!-- Politics -->
+| government_footnotes            = 
+| government_type                 = [[Mayor–council government|Mayor–council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Hari Bahadur Mahat ([[Nepal Communist Party|NCP]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Mina Kumari Lama ([[Nepal Communist Party|NCP]])
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 261.59
+<!-- Population   -->| population_as_of                = 2015
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 154,660  [2011] – Census
+| population_density_km2          = auto
+| population_blank1_title         = <!-- General information -->
+| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|27|25|N|85|02|E|region:NP_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 345
+<!-- Area/postal codes & others -->| postal_code_type                = [[Post code]]
+| postal_code                     = 44100, 44107
+| area_code                       = 057
+| blank_name                      = 
+| blank_info                      = 
+| website                         = {{url|https://www.hetaudamun.gov.np/}}
+| footnotes                       = 
+}}

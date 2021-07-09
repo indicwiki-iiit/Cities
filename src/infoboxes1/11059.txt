@@ -1,0 +1,40 @@
+{{Infobox German location
+|German_name        = Nürnberg
+|type               = City
+|image_photo        = {{Photomontage|position=center
+|photo1a            = Nuremberg panorama morning 3.jpg
+|photo2a            = Nürnberger Burg im Herbst 2013.jpg
+|photo2b            = Maxbrücke Nürnberg Nacht.jpg
+|photo3a            = Staatstheater Nürnberg 2006-08-08.jpg
+|photo3b            = Nürnberg-(Frauenkirche)-damir-zg.jpg
+|size               = 280
+|spacing            = 2
+|color              = #FFFFFF
+|border             = 0}}
+|image_caption      = Nuremberg skyline, [[Nuremberg Castle]], [[Pegnitz River]], [[Staatstheater Nürnberg|Nuremberg Opera House]], [[Frauenkirche, Nuremberg|Frauenkirche]]
+|image_coa          = Wappen von Nürnberg.svg
+|Wappengröße        = <!-- No longer supported -->
+|image_flag         = Bandera de Núrnberg.svg
+|coordinates        = {{coord|49|27|14|N|11|04|39|E|display=inline,title}}
+|Karte              =
+|image_plan         = 
+|plantext           = 
+|state              = Bavaria
+|region             = Middle Franconia
+|district           = urban
+|elevation          = 302
+|area               = 186.46
+|area_metro         = 
+|pop_urban          = {{formatnum: {{#expr: 518365  + 127748 + 111962 + 40792}} }} (includes [[Fürth]]&comma; [[Erlangen]]&comma;<!-- HTML entity needed to avoid template stripping the comma --> and [[Schwabach]])
+|pop_metro          = 3,557,648
+|postal_code        = 90000-90491
+|area_code          = 0911, 09122, 09129
+|licence            = N
+|Gemeindeschlüssel  = 09564000
+|divisions          = <!-- Subdivisions within location (e.g. "XX districts" or boroughs) -->
+|website            = [https://www.nuernberg.de/internet/portal_e/ nuernberg.de]
+|mayor              = [[Marcus König]]
+|Bürgermeistertitel = <!-- Only when different from [[Bürgermeister]] -->
+|party              = [[Christian Social Union in Bavaria|CSU]]
+|year               = <!-- Year founded (not "year of first recorded mention"), no wikilinking -->
+}}

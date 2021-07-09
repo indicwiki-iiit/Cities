@@ -1,0 +1,53 @@
+{{Infobox person
+| name               = Justin Timberlake
+| image              = Justin Timberlake by Gage Skidmore 2.jpg
+| caption            = Timberlake at the 2016 [[San Diego Comic-Con]]
+| birth_name         = Justin Randall Timberlake
+| birth_date         = {{Birth date and age|1981|1|31}}
+| birth_place        = [[Memphis, Tennessee]], U.S.
+| spouse             = {{marriage|[[Jessica Biel]]|2012}}
+| education  = [[University of Nebraska High School]]
+| agent = [[Johnny Wright (music manager)|Johnny Wright]]
+| children           = 2
+| occupation         = {{flat list|
+* Singer
+* songwriter
+* record producer 
+* actor
+}}
+| years_active       = 1992–present
+| awards             = [[List of awards and nominations received by Justin Timberlake|Full list]]
+| module             = {{Infobox musical artist|embed=yes
+| instrument      = {{flat list|
+* Vocals
+* guitar
+* keyboards
+}}
+| genre    = {{flat list|
+* [[Contemporary R&B|R&B]]
+* [[Pop music|pop]]
+* [[neo soul]]
+* [[dance-pop]]
+* [[funk]]
+}}
+| label           = {{flat list|
+* [[Jive Records|Jive]]
+* [[Zomba Group of Companies|Zomba]]
+* [[RCA Records|RCA]]
+* [[Tennman Records|Tennman]]<!--See [[Template:Infobox musical artist]] before making changes-->
+}}
+| associated_acts = {{flat list|
+* [[NSYNC|*NSYNC]]
+* [[Jawbreakers (duo)|Jawbreakers]]
+* [[Danja (record producer)|Danja]]
+* [[James Fauntleroy]]
+* [[Jay-Z]]
+* [[The Lonely Island]]
+* [[The Neptunes]]
+* [[Rob Knox (producer)|Rob Knox]]
+* [[Timbaland]]
+}}
+}}
+| signature          = Justin Timberlake Signature.svg
+| website            = {{URL|https://justintimberlake.com/}}
+}}

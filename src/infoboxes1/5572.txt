@@ -1,0 +1,99 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Ningxiang}}
+|native_name = {{lower|0.1em|宁乡市}}
+|native_name_lang = zh-Hans
+|other_name = Ningsiang
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = 
+|map_caption =
+|pushpin_map            = China Hunan
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location in Hunan
+|coordinates            = {{coord|28.278|N|112.552|E|type:adm3rd_region:CN-43_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Ningxiang government
+|subdivision_type       = Country
+|subdivision_name       = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_type2      = [[Prefecture-level city]]
+|subdivision_name1      = [[Hunan]]
+|subdivision_name2      = [[Changsha]]
+
+|established_title = Established 
+|established_date  = 627 ([[Tang dynasty|Tang]][[Emperor Taizong of Tang|Zhenguan]])
+| seat                  = [[Yutan Subdistrict|Yutan]]
+|leader_title      = [[Communist Party Secretary]]
+|leader_name       = Yu Xinfan ({{lang|zh-Hans-CN|于新凡}})
+|leader_title1     = Chairman of [[National People's Congress|Ningxiang People's Congress]]
+|leader_name1      = He Yinghui ({{lang|zh-Hans-CN|贺应辉}})<ref>{{cite news|url=http://hn.rednet.cn/c/2015/01/14/3575265.htm |script-title=zh:宁乡县十六届人大四次会议开幕 |newspaper=Red.net|date= 2015-01-14|location=Changsha}}</ref>
+|area_total_km2 = 2906
+|population_total = 1368117<ref>{{cite news |url=http://www.nxgov.com/zfmh/tmzf/tjsj/zxtjbgnj/content_62557.html |script-title=zh:宁乡县第六次全国人口普查主要数据公报 |newspaper=Ningxiang Government |date=2012-08-30 |language=zh |title=Archived copy |access-date=2015-04-19 |archive-url=https://web.archive.org/web/20150411191316/http://www.nxgov.com/zfmh/tmzf/tjsj/zxtjbgnj/content_62557.html |archive-date=2015-04-11 |url-status=dead }}</ref>
+|population_as_of = August 2012
+|population_density_km2 = auto
+|population_urban  = 300,000
+|website           = {{URL|www.nxgov.com/zfmh/index.html}}
+|footnotes         = 
+|admini_division_code = 430124<ref>{{cite news |url=http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201401/t20140116_501070.html |script-title=zh:最新县及县以上行政区划代码（截止2013年8月31日） |date=2014-01-17 |language=zh |url-status=dead |archive-url=https://web.archive.org/web/20161120232849/http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201401/t20140116_501070.html |archive-date=2016-11-20 }}</ref>
+|parts_type        = [[Township-level division]]s
+|parts             = 4 subdistricts, 21 towns, 8 townships, and 1 district
+|location          = [[Yutan Subdistrict]]
+<!--
+|neighbor          = [[Loudi]], [[Anhua County]]、[[Yiyang]]、[[Shaoshan]]、[[Wangcheng District]]
+-->
+|motto            = {{lang|zh-Hans-CN|心忧天下、敢为人先}}
+<!--
+|honor            = National Health City<ref>{{cite news|url=http://hn.rednet.cn/c/2014/01/10/3248134.htm |script-title=zh: 宁乡县被正式命名为“国家卫生县城”|newspaper= Red.net|date=2014-01-04 |language=zh |location=Changsha}}</ref>
+-->
+|leader_title2     = Mayor
+|leader_name2      = Fu Xuming ({{lang|zh-Hans-CN|付旭明}})
+|leader_title3     = Chairman of CPPCC Ningxiang Committee
+|leader_name3      = Deng Jieping ({{lang|zh-Hans-CN|邓杰平}})
+|elevation         = 
+|elevation_min_m   = 127.2
+|elevation_max_m   = 884
+<!--
+|climate           = 
+|temperature_mean  = 16.8
+|precipitation     = 1358.3mm
+|sunshine_hours    = 1737.6h
+-->
+|population_ratio  = 
+|population_urban_as_of = 2010
+|population_nonfarm  = 50,000
+|population_nonfarm_as_of = 2010
+|population_metropolitan = 
+|population_metropolitan_as_of = 
+|density_urban     = 
+|density_metropolitan = 
+|language          = Mandarin
+|dialect           = [[Changsha dialect]]<br />[[Ningxiang dialect]]
+|GDP               = 83.505 billion
+|GDP_us            = 
+|GDP_as_of         = 2013
+|GDP_ratio         = 2.9%
+|GDP_rank          = Second
+|GDPPC             = 69,797
+|GDPPC_us          = 
+|GDPPC_PPP_us      = 
+|GDPPC_rank        = Second
+|Urban_GDP         = 
+|GDP_urban_as_of   = 
+|Urban_GDPPC       = 
+|Metro_GDP         = 
+|GDP_metro_as_of   = 
+|GDP_metro_us      = 
+|GDP_metro_PPP_us  = 
+|Metro_GDPPC       = 
+|HDI               = 
+|HDI_as_of         = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|tree              = [[Cinnamomum camphora]]
+|flower            = [[Rhododendron]]
+|area_code         = [[Telephone numbers in China|(0)731]]
+|postal_code_type  = [[Postal code of China|Postal code]]
+|postal_code       = 410600
+|carlicense        = {{lang|zh-cn|湘A}}
+|ISO3166           = 
+}}

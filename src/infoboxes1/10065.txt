@@ -1,0 +1,43 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = District 
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = {{TUR}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2 
+|map_caption = Location of Turgutlu within Turkey.
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|official_name = Turgutlu
+|image_skyline = Resim Turgutlu orta-park.jpg
+|image_caption = Central park in Turgutlu
+|image_blank_emblem = 
+|blank_emblem_type = 
+|image_map = Manisa districts.png
+|subdivision_type1=[[Regions of Turkey|Region]]
+|subdivision_name1 = [[Aegean Region|Aegean]]
+|subdivision_type2=[[Provinces of Turkey|Province]]
+|subdivision_name2 = [[Manisa Province|Manisa]]
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Manisa|Turgutlu}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Manisa}}
+| population_urban        = {{Turkey district populations|Manisa|Turgutlu|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Manisa|Turgutlu|toplam}}
+| population_density_blank1_km2  = auto
+|elevation_m = 68
+|pushpin_map = Turkey
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption = Location of Turgutlu
+|pushpin_mapsize =
+|coordinates             = {{coord|38|30|N|27|42|E|region:TR|display=inline,title}}
+|postal_code_type = [[Postal code]]
+|postal_code = 45400
+|blank_info = 45
+|blank_name= [[Turkish car number plates|Licence&nbsp;plate]]
+|area_code = 236
+|leader_name = 
+|leader_name1 = 
+|website = {{url|www.turgutlu.gov.tr}}
+}}

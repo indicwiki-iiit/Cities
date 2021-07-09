@@ -1,0 +1,88 @@
+{{Infobox settlement
+|name           = Presque Isle, Maine
+|official_name            = City of Presque Isle
+|settlement_type          = [[City]]
+|nickname                 = The Star City
+|motto                    = The Hub Of Aroostook
+
+<!-- Images -->
+|image_skyline            = City_of_Presque_Isle,_Maine_Montage.jpg
+|imagesize                = 
+|image_caption            = Clockwise, from top:  Crown of Maine Balloon Fest in Presque Isle, Downtown, [[University of Maine at Presque Isle]], [[Aroostook Band of Micmac]] headquarters and museum, Nordic Heritage Center, Aroostook Centre Mall, UMPI [[wind turbine]], Main Street
+|image_flag               = 
+|image_seal               = Seal of Presque Isle, Maine.jpg
+
+<!-- Maps -->
+||pushpin_map             = USA Maine#USA
+| pushpin_label           = Presque Isle
+|pushpin_label_position   = left 
+|pushpin_map_caption      = Location
+|pushpin_mapsize          = +
+|image_map                = Aroostook County Maine incorporated and unincorporated areas Presque Isle highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Presque Isle, Maine
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maine}}
+|subdivision_type2        = [[List of counties in Maine|County]]
+|subdivision_name2        = [[Aroostook County, Maine|Aroostook]]
+| parts_type              = Named places
+| parts                   = Parkhurst<br>Spragueville
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated (town)
+|established_date         = April 4, 1859
+|established_title1       = Incorporated (city)
+|established_date1        = January 1, 1940
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_23.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 200.99
+|area_land_km2            = 196.26
+|area_water_km2           = 4.72
+|area_total_sq_mi         = 77.60
+|area_land_sq_mi          = 75.78
+|area_water_sq_mi         = 1.82
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 9116
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 9692
+|population_density_km2   = 45.89
+|population_density_sq_mi = 118.86
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 139
+|elevation_ft             = 456
+|coordinates              = {{coord|46|40|46|N|68|0|8|W|region:US-ME_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 04769
+|area_code                = [[Area code 207|207]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 23-60825
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0573790
+|website                  = [http://presqueislemaine.gov/ presqueislemaine.gov]
+|population_demonym                 = Presqueillian
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

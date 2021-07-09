@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                     = Laguna Beach, California
+| settlement_type          = [[City (California)|City]]
+| image_skyline            = Laguna Beach photo montage.jpg
+| image_caption            = Images from top, left to right: Laguna Beach coastline, Lifeguard Tower, view from Heisler Park, [[Pageant of the Masters|Festival of Arts]], and statue of Town Greeter [[Eiler Larsen]].
+| image_seal               = Seal of Laguna Beach, California.png
+| image_map                = File:Orange County California Incorporated and Unincorporated areas Laguna Beach Highlighted 0639178.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Laguna Beach in Orange County, California.
+| pushpin_map = Los Angeles##USA California#USA#North America
+| pushpin_map_caption = Location in the [[Los Angeles Metropolitan Area]]##Location in [[California]]##Location in the [[United States]]##Location in [[North America]]
+|pushpin_relief           = yes
+|pushpin_label = Laguna Beach
+| coordinates              = {{coord|33|31|53|N|117|46|9|W|region:US-CA|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[California]]
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[Orange County, California|Orange]]
+| established_title2       = Founded<br/>(post office)
+| established_date2        = 1887
+| established_title3       = [[Municipal corporation|Incorporated]]<br/>(city)
+| established_date3        = June 29, 1927<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+| government_type         = [[Council–manager government|Council–manager]]<ref name=about/>
+
+|leader_title             = Mayor
+|leader_name              = Bob Whalen ([[Republican Party (U.S.)|R]])<ref>{{cite web |title=Bob Whalen |url=https://ballotpedia.org/Bob_Whalen |website=Ballotpedia |access-date=18 September 2020 |language=en}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 9.86
+| area_total_km2          = 25.55
+| area_land_sq_mi         = 8.89
+| area_land_km2           = 23.04
+| area_water_sq_mi        = 0.97
+| area_water_km2          = 2.51
+| area_water_percent      = 9.89
+| elevation_footnotes      = <ref>{{Cite GNIS|1660874|Laguna Beach|access-date=October 20, 2014}}</ref>
+| elevation_ft             = 20
+| elevation_m              = 6
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0639178.html|title=Laguna Beach (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 16, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120701223548/http://quickfacts.census.gov/qfd/states/06/0639178.html|archive-date=July 1, 2012}}</ref>
+| population_total         = 22723
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 22827
+| population_density_km2   = 990.90
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = &minus;8
+| timezone_DST             = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST           = &minus;7
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 92651, 92652
+| area_code_type           = [[North American Numbering Plan|Area code]]
+| area_code                = [[Area code 949|949]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|06|39178}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|1660874}}, {{GNIS 4|2411595}}
+| website                  = {{URL|www.lagunabeachcity.net|lagunabeachcity.net}}
+| population_density_sq_mi = 2566.56
+}}

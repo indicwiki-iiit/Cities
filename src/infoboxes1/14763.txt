@@ -1,0 +1,56 @@
+{{Infobox settlement
+|official_name            = Pleasure Point
+|settlement_type          = [[census-designated place]]
+<!-- Images -->
+|image_skyline            =
+|imagesize                =
+|image_caption            =
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+|established_title        =
+|established_date         =
+
+<!-- Population------------------>
+| population_total        = 5846
+| population_as_of        = 2010
+| population_density_km2  = auto
+
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 2.014
+| area_land_sq_mi         = 0.753
+| area_water_sq_mi        = 1.261
+| area_total_km2          = 5.216
+| area_land_km2           = 1.949
+| area_water_km2          = 3.267
+| area_water_percent      = 62.63
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref name=gnis>{{gnis|2408992}}</ref>
+|elevation_m              =
+|elevation_ft             = 33
+| pushpin_map             = California
+| pushpin_map_caption     = Position in California.
+|coordinates              = {{coord|36|57|35|N|121|58|12|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              =
+|area_code                =
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = {{GNIS 4|2408992}}
+|website                  =
+|footnotes                = {{gnis|2408992}}
+}}

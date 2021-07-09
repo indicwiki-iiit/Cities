@@ -1,0 +1,118 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Royse City, Texas
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = "A Friendly Touch of Texas"
+<!-- images and maps  ----------->
+|image_skyline            = Royse City Texas1 (1 of 1).jpg 
+|imagesize                = 
+|image_caption            = [[Texas State Highway 66|Main Street]] in Royse City
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|image_map                = Rockwall County Texas Incorporated Areas Royse City highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Royse City in [[Rockwall County, Texas|Rockwall County]], [[Texas]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          = 
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagicon|USA}}United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flagicon|Texas}}[[Texas]]
+|subdivision_type2        = [[List of counties in Texas|Counties]]
+|subdivision_name2        = [[Rockwall County, Texas|Rockwall]], [[Collin County, Texas|Collin]], [[Hunt County, Texas|Hunt]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[City Council]]
+|leader_name              = [[Mayor]]  Janet Nichol <br/> Clay Ellis <br/> Bill Bell <br/> Brooks Williams <br/> James Branch  <br/> Tom Crowley
+|leader_title1            = [[City Manager]]
+|leader_name1              = Carl Alsabrook
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_total_km2           = 47.71
+|area_land_km2            = 47.38
+|area_water_km2           = 0.33
+|area_total_sq_mi         = 18.42
+|area_land_sq_mi          = 18.30
+|area_water_sq_mi         = 0.13
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = 
+<!-- Population   ----------------------->
+|population_est           = 14702
+|pop_est_as_of            = 2019
+|pop_est_footnotes    = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 9349
+|population_footnotes     = <ref name="Census 2010">{{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US4863668| title=Geographic Identifiers: 2010 Census Summary File 1 (G001): Royse City city, Texas| publisher=U.S. Census Bureau, American Factfinder| access-date=August 3, 2015| archive-url=https://archive.today/20200213081908/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US4863668| archive-date=February 13, 2020| url-status=dead}}</ref>
+|population_density_km2   = 310.27
+<!--2016 pop est-->
+|population_density_sq_mi = 803.61
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = 
+<!-- General information  --------------->
+|timezone                 = [[Central Time Zone (North America)|CST]]
+|utc_offset               = -6
+|timezone_DST             = [[Central Time Zone (North America)|CDT]]
+|utc_offset_DST           = -5
+|coordinates              = {{coord|32|58|27|N|96|19|58|W|region:US-TX|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> tags-->
+|elevation_m              = 169
+|elevation_ft             = 554
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 75189
+|area_code                = [[Area codes 214, 469, 972, and 945|214, 469, 945, 972]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-63668<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1345732<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.roysecity.com}}
+|footnotes                = 
+}}

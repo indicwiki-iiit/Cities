@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = McComb, Mississippi
+|settlement_type          = [[City]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Pike_County_Mississippi_Incorporated_and_Unincorporated_areas_McComb_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of McComb, Mississippi
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Mississippi]]
+|subdivision_type2        = [[List of counties in Mississippi|County]]
+|subdivision_name2        = [[Pike County, Mississippi|Pike]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Quordiniah Lockley
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_28.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 30.66
+|area_land_km2            = 30.51
+|area_water_km2           = 0.15
+|area_total_sq_mi         = 11.84
+|area_land_sq_mi          = 11.78
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 12790
+|population_density_km2   = 426.52
+|population_density_sq_mi = 1104.67
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = −6
+|timezone_DST             = CDT
+|utc_offset_DST           = −5
+|elevation_footnotes      = 
+|elevation_m              = 129
+|elevation_ft             = 423
+|coordinates              = {{coord|31|14|40.10|N|90|28|17.73|W|region:US-MS_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 39648-39649
+|area_code                = [[Area code 601|601]]/ [[Area code 769|769]]
+|blank_name             = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 28-43280
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0673307
+|website                  = [http://www.mccomb-ms.gov/ McComb Mississippi]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 13013
+}}

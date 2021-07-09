@@ -1,0 +1,82 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| official_name            = Village of Key Biscayne
+| native_name              = <!-- when native name is not in English -->
+| other_name               = 
+| settlement_type          = [[List of communities in Miami-Dade County, Florida|Village]]
+<!-- images and maps  ----------->
+| image_skyline            = 
+| image_caption            = 
+| image_flag               = 
+| image_seal               = Sealofkeybiscayne.png
+| image_shield             = 
+| nickname                 = 
+| motto                    = Island Paradise
+| image_map                = Miami-Dade_County_Florida_Incorporated_and_Unincorporated_areas_Key_Biscayne_Highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location in [[Miami-Dade County, Florida|Miami-Dade County]] and the state of [[Florida]]
+| image_map1               = Key_Biscayne.gif
+| mapsize1                 = 250x200px
+| map_caption1             = U.S. Census Bureau map showing village boundaries
+<!-- Location ------------------>
+| coordinates              = {{coord|25|41|25|N|80|9|54|W|region:US_type:city|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{USA}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{Flag|Florida}}
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = {{Flagicon image|Flag of Miami-Dade County, Florida.png}} [[Miami-Dade County, Florida|Miami-Dade]]
+| established_title        = [[municipal corporation|Incorporated]]
+| established_date         = June 18, 1991
+| government_type          = [[Council-Manager government|Council-Manager]]
+| government_footnotes     = 
+| leader_title             = [[Mayor]]
+| leader_name              = Michael W. Davey
+| leader_title1            = [[Vice Mayor]]
+| leader_name1             = Allison McCormick
+| leader_title2            = [[City Council|Councilmembers]]
+| leader_name2             = Luis Lauredo, <br>Edward London, <br>Brett Moss, <br>Katie Petros, and Ignacio J. Segurola
+| leader_title3            = [[city manager|Village Manager]]
+| leader_name3             = Andrea Agha
+| leader_title4            = [[city clerk|Village Clerk]]
+| leader_name4             = Jennifer Medina
+<!-- Area    --------------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2           = 4.42
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 1.71
+| area_land_km2            = 3.23
+<!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 1.25
+| area_water_km2           = 1.19
+| area_water_sq_mi         = 0.46
+| area_water_percent       = 8.63
+| elevation_footnotes      = <!--for references: use 1 tags-->
+| elevation_m              = 1
+| elevation_ft             = 3
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 12344
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_km2   = 3976.63
+| population_density_sq_mi = 10301.52
+| population_note          = <!-- General information  --------------->
+| timezone                 = Eastern (EST)
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- codes/etc. ------------->
+| postal_code_type         = [[ZIP code]] <!--enter ZIP code, Postcode, Post code, ...-->
+| postal_code              = 33149
+| area_code                = [[Area code 305|305]], [[Area code 786|786]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 12-36300<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0285075<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                  = {{URL|http://www.keybiscayne.fl.gov}}
+| footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 12846
+}}

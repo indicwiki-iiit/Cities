@@ -1,0 +1,72 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+|official_name            = City of San Ramon
+|name                     = San Ramon, California
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = San Ramon Waterfall Park 1 2016-05-15.jpg
+|image_caption            = San Ramon Waterfall Park
+|image_seal               = San_Ramon_CA_seal.jpg
+|image_map                = Contra_Costa_County_California_Incorporated_and_Unincorporated_areas_San_Ramon_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Contra Costa County, California|Contra Costa County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Contra Costa County, California|Contra Costa]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = July 1, 1983<ref>{{cite web|url=http://www.calafco.org/docs/Cities_by_incorp_date.doc|title=California Cities by Incorporation Date|format=Word|publisher=California Association of [[Local Agency Formation Commission]]s|access-date=March 27, 2013|url-status=dead|archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc|archive-date=November 3, 2014}}</ref>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Dave Hudson<ref>{{cite web|url=https://www.sanramon.ca.gov/our_city/city_council|title=City Council|access-date=March 29, 2021|publisher=City of San Ramon}}</ref>
+|leader_title1            = [[California's 7th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|7|fmt=sleader}}<ref>{{cite web
+ |url=http://senate.ca.gov/senators
+ |title=Senators
+ |access-date=March 27, 2013
+ |publisher=State of California}}</ref>
+|leader_title2            = [[California's 16th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|16|fmt=sleader}}<ref>{{cite web|url=http://assembly.ca.gov/assemblymembers|title=Members Assembly|access-date=March 27, 2013|publisher=State of California}}</ref>
+|leader_title3            = [[United States House of Representatives|United States representatives]]<ref>{{Cite web|url=http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip|title=Communities of Interest – City|publisher=California Citizens Redistricting Commission|access-date=September 27, 2014|archive-url=https://web.archive.org/web/20130930184128/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_cd_finaldraft_splits.zip|archive-date=September 30, 2013|url-status=dead}}</ref>
+|leader_name3             = {{Representative|cacd|11|fmt=usleader}} and {{Representative|cacd|15|fmt=usleader}}<ref name=GovTrack/>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 18.72
+| area_land_sq_mi         = 18.68
+| area_water_sq_mi        = 0.03
+| area_total_km2          = 48.48
+| area_land_km2           = 48.39
+| area_water_km2          = 0.09
+| area_water_percent      = 0.09
+|elevation_footnotes      = <ref>{{Cite GNIS|1656275|San Ramon|access-date=November 3, 2014}}</ref>
+|elevation_ft             = 486
+|elevation_m              = 148
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 72148
+|population_metro         = 
+|population_density_sq_mi = 4067.17
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|coordinates              = {{coord|37|46|48|N|121|58|41|W|region:US-CA|display=inline,title}}
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web|url=https://tools.usps.com/go/ZipLookupAction!input.action|title=ZIP Code(tm) Lookup|publisher=[[United States Postal Service]]|access-date=November 23, 2014}}</ref>
+|postal_code              = 94582, 94583
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 925|925]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|68378}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS4|1656275}}, {{GNIS4|2411805}}
+|website                  = {{URL|www.ci.san-ramon.ca.us}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|population_est = 75995
+|population_density_km2 = 1570.38
+}}

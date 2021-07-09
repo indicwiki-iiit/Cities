@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                   = Safed
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|צְפַת}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|صفد}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Çpat
+| translit_lang1_type2   = Translit.
+| translit_lang1_info2   = Tz'fat
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Tsfat, Tzefat, Zfat, Ẕefat (official)
+| image_skyline          = Safed1.jpg
+| image_blank_emblem     = Coat of arms of Safed.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northeast#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|57|57|N|35|29|54|E|region:IL|format=dms|display= inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| subdivision_type3      = Sub-district 
+| subdivision_name3      = [[Safed sub-district|Safed]]
+| established_title      = Founded
+| established_date       = 15th century BCE or before (?)<ref name="Gorys">{{cite book |title= Heiliges Land |series= Kunst-Reiseführer |author= Erhard Gorys |year= 1996 |location= Cologne |publisher= DuMont |isbn= 3-7701-3860-0 |language= de |page= 267 |quote= Der ägyptische Pharao Thutmosis III (1490-1436) erwähnte in seiner Liste der eroberten Städte Kanaans auch Saft, das möglicherweise mit Zefat identisch war. (The Egyptian Pharao [[Thutmose III]] (1490-1436) mentioned Saft in his [[Thutmose III#Thutmose's military campaigns|list of cities conquered in Canaan]], which might be identical with Safed.)}}</ref>
+| leader_title           = Mayor
+| leader_name            = Shuki Ohana
+| unit_pref              = dunam
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Zefat}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| elevation_m            = 900
+| website                = [http://www.zefat.muni.il/Pages/default.aspx http://www.zefat.muni.il]
+}}

@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Ploče
+|official_name          = ''Grad Ploče''<br /> Town of Ploče
+|native_name            =
+|nickname               = 
+|settlement_type        = [[List of cities and towns in Croatia|Town]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Luka Ploče 00166.JPG
+|imagesize              = 
+|image_caption          = Ploče harbor
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            = 
+|city_logo              =
+|citylogo_size          =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Croatia
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = The location of Ploče within Croatia
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{CRO}}
+|subdivision_type1      = [[Counties of Croatia|County]]
+|subdivision_name1      = [[File:Flag of Dubrovnik-Neretva County.png|border|23px]] [[Dubrovnik-Neretva County|Dubrovnik-Neretva]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = Mayor
+| leader_name            = Mišo Krstičević
+| leader_party = [[Social Democratic Party of Croatia|SDP]]
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+<!-- Population   ----------------------->
+| population_as_of               = 2011
+| population_footnotes           = <ref name="census2011">{{Croatian Census 2011|S|19|3352}}</ref>
+|population_note                = 
+| population_total               = 10135
+|population_density_km2         =
+|population_urban               = 6013
+|population_density_urban_km2   =
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|43|03|24|N|17|25|54|E|region:HR|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 0
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 20 340
+|area_code              = 020
+| registration_plate = [[Croatian vehicle registration plates|DU]]
+|website                = [http://www.ploce.hr ploce.hr]
+|footnotes              = 
+}}

@@ -1,0 +1,35 @@
+{{Infobox software
+| name                   = OpenGL ES
+| title                  = 
+| logo                   = OpenGL ES logo (Nov14).svg<!-- Image name is enough -->
+| logo caption           = Logo
+| logo size              = 220px
+| logo alt               = OpenGL ES logo
+| screenshot             = <!-- Image name is enough -->
+| caption                = 
+| screenshot size        = 
+| screenshot alt         = 
+| collapsible            = 
+| author                 = [[OpenGL Architecture Review Board|ARB]]
+| developer              = [[Khronos Group]]
+| released               = {{Start date and age|2003|07|28|df=yes}}
+| discontinued           = 
+| latest release version = 3.2<ref>{{cite web|url=https://www.khronos.org/news/press/khronos-expands-scope-of-3d-open-standard-ecosystem|title=Khronos Expands Scope of 3D Open Standard Ecosystem}}</ref>
+| latest release date    = {{Start date and age|2015|08|10|df=yes}}
+| latest preview version = 
+| latest preview date    = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| status                 = 
+| programming language   = 
+| operating system       = [[Cross-platform]]
+| platform               = [[Cross-platform]]
+| size                   = 
+| language               = 
+| language count         = <!-- Number only -->
+| language footnote      = 
+| genre                  = [[Application programming interface|API]]
+| license                = Free of charge, royalty or licensing
+| alexa                  = 
+| website                = {{URL|https://www.khronos.org/opengles}}
+| standard               = 
+| AsOf                   = 
+}}

@@ -1,0 +1,86 @@
+{{Infobox settlement
+|name                     = Overland Park, Kansas
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = DwntwnOPKS.png
+|image_caption            = Metcalf Ave and College Blvd corridor
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = File:Overland_Park,_Kansas_logo.png
+
+<!-- Maps -->
+|image_map                = Johnson_County_Kansas_Incorporated_and_Unincorporated_areas_Overland_Park_Highlighted.svg
+|map_caption              = Location within [[Johnson County, Kansas|Johnson County]] and [[Kansas]]
+|image_map1               = Map of Johnson County, Kansas, U.S..png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Johnson County, Kansas|Johnson County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|38|58|56|N|94|40|15|W|region:US-KS_type:city_source:GNIS|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name2        = [[Johnson County, Kansas|Johnson]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        =
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1960
+|named_for                =
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = [[Carl R. Gerlach]]<ref>{{cite web|url=http://www.opkansas.org/City-Government/Mayor-Carl-Gerlach|title=Mayor Carl Gerlach|publisher=City of Overland Park|access-date=10 September 2010|archive-url=https://web.archive.org/web/20120910222742/http://www.opkansas.org/City-Government/Mayor-Carl-Gerlach|archive-date=10 September 2012|url-status=dead}}</ref>
+|leader_title1            = <!-- City Administrator / Manager -->
+|leader_name1             =
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 75.64
+|area_land_sq_mi          = 75.18
+|area_water_sq_mi         = 0.46
+|area_total_km2           = 195.91
+|area_land_km2            = 194.72
+|area_water_km2           = 1.19
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_ft             = 1086
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2016-07-25}}</ref>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 173372
+|pop_est_footnotes        = <ref name="USCensusEst2019"/>
+|pop_est_as_of            = 2019
+|population_est           = 195494
+|population_density_sq_mi = 2600.24
+|population_density_km2   = 1003.96
+|population_rank          = US: [[List of United States cities by population|129th]]
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = &minus;6
+|timezone_DST             = CDT
+|utc_offset_DST           = &minus;5
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 913|913]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-53775
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0479210 <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|https://www.opkansas.org/|opkansas.org}}
+}}

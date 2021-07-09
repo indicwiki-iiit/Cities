@@ -1,0 +1,38 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name           = Gerze
+| settlement_type         = Town
+| image_map               =
+| map_caption             = Location of Gerze, Turkey within Turkey.
+| pushpin_map             = Turkey
+| pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption     = Location of Gerze
+| coordinates             = {{coord|41|48|20|N|35|11|53|E|region:TR|display=inline,title}}
+| subdivision_type        = [[Countries of the world|Country]]
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Regions of Turkey|Region]]
+| subdivision_name1       = Black Sea
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = Sinop
+| leader_title            = [[Mayor]]
+| leader_name             = Osman Belovacıklı ([[Republican People's Party (Turkey)|CHP]])
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Sinop|Gerze}}
+| elevation_m             =
+| population_footnotes    = {{Turkey district populations|SOURCE|Sinop}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Sinop|Gerze|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Sinop|Gerze|toplam}}
+| population_density_blank1_km2 = auto
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| postal_code_type        = [[Postal code]]
+| postal_code             = 57600
+| area_code               = (0090)+ 368
+| registration_plate      = [[Turkish car number plates|57]]
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Humid subtropical climate|Cfa]]
+}}

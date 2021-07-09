@@ -1,0 +1,60 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = Nuwara Eliya
+| official_name                   = Nuwara Eliya
+| native_name                     = {{native name|si|නුවර එළිය|italics=no}}<br/>{{native name|ta|நுவரெலியா|italics=no}}
+| native_name_lang                = 
+| other_name                      = 
+| settlement_type                 = [[City]]
+<!-- images, nickname, motto --->
+| image_skyline                   = Nuwara Eliya Town Hall and racecourseGround.jpg
+| image_caption                   = Nuwara Eliya Town Hall and racecourse Ground
+| image_shield                    = 
+| nickname                        = Little England
+<!-- maps and coordinates ------>
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Sri Lanka
+| pushpin_map_caption             = Map of Sri Lanka showing the location of Nuwara Eliya
+| coordinates                     = {{coord|6|58|0|N|80|46|0|E|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = Sri Lanka
+| subdivision_type1               = [[Provinces of Sri Lanka|Province]]
+| subdivision_type2               = [[List of districts of Sri Lanka|District]]
+| subdivision_name1               = [[Central Province, Sri Lanka|Central Province]]
+| subdivision_name2               = Nuwara Eliya District
+<!-- established --------------->
+| established_title               = <!-- Settled -->
+| established_date                = 
+| parts_type                      = [[Divisional Secretariats of Sri Lanka|Divisional Secretariats]]
+| parts_style                     = para
+| government_type                 = [[Municipal Council]]
+| leader_party                    = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = 
+| area_total_km2                  = 
+<!-- ALL fields with measurements have automatic unit conversion -->
+| area_land_km2                   = 
+| area_urban_km2                  = 13
+<!-- elevation ----------------->
+| elevation_footnotes             = 
+| elevation_m                     = 1868
+| elevation_min_m                 = 
+<!-- population ---------------->
+| population_total                = 27,500
+| population_as_of                = 2011 census
+| population_footnotes            = 
+| population_density_km2          = 3197
+<!-- time zone(s) -------------->
+| timezone1                       = [[Time zone#UTC .2B 6.2C F|Sri Lanka Standard Time Zone]]
+| utc_offset1                     = +5:30
+| timezone1_DST                   = 
+| utc_offset1_DST                 = <!-- postal codes, area code --->
+| postal_code_type                = Postcode
+| postal_code                     = 22200
+| area_code                       = 052
+<!-- website, footnotes -------->
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| website                         = 
+| elevation_max_m                 = 
+}}

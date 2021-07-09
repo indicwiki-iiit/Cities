@@ -1,0 +1,34 @@
+{{Infobox Australian place
+| type     = town
+| name     = Healesville
+| state    = vic
+| image    = Healesville Grand Hotel.JPG
+| caption  = The Grand Hotel at Healesville
+| lga      = Shire of Yarra Ranges
+| postcode = 3777
+| pop      = 7,461
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS2016">{{cite web |title=2016 Census QuickStats Healesville |url=http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC21149 |website=Australian Bureau if Statistics |access-date=16 February 2019}}</ref>
+| est      = 1864
+| elevation= 199
+| coordinates = {{coord|37|39|22|S|145|30|50|E|display=inline,title}}
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| pushpin_label_position = left
+| maxtemp  = 19.2
+| mintemp  = 8
+| rainfall = 1020.1
+| stategov = [[Electoral district of Eildon|Eildon]]
+| fedgov   = [[Division of Casey|Casey]]
+| dist1    = 52
+| location1= Melbourne
+| dist2    = 22
+| location2= [[Lilydale, Victoria|Lilydale]]
+| near-nw  = [[Chum Creek, Victoria|Chum Creek]]
+| near-n   = [[Toolangi, Victoria|Toolangi]]
+| near-ne  = [[Narbethong, Victoria|Narbethong]]
+| near-w   = [[Dixons Creek, Victoria|Dixons Creek]] [[Tarrawarra, Victoria|Tarrawarra]]
+| near-e   = [[McMahons Creek, Victoria|McMahons Creek]]
+| near-sw  = [[Coldstream, Victoria|Coldstream]] [[Gruyere, Victoria|Gruyere]]
+| near-s   = [[Badger Creek, Victoria|Badger Creek]] [[Woori Yallock, Victoria|Woori Yallock]]
+| near-se  = [[Don Valley, Victoria|Don Valley]]
+}}

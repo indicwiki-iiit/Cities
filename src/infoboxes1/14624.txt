@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Cheviot, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Big City Spirit - Small Town Charm"
+
+<!-- Images -->
+|image_skyline            = Cheviot Fieldhouse.jpg
+|imagesize                = 250px
+|image_caption            = Cheviot's 1930s fieldhouse and community center
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Hamilton County Ohio Incorporated and Unincorporated areas Cheviot highlighted.svg
+|map_caption              = Location in [[Hamilton County, Ohio|Hamilton County]] and the state of [[Ohio]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Hamilton County, Ohio|Hamilton]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = Mayor
+|leader_name1             = Samuel D. Keller (D)
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|accessdate=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 3.01
+|area_land_km2            = 3.01
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 1.16
+|area_land_sq_mi          = 1.16
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8209
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 8375
+|population_density_km2   = 2727.58
+|population_density_sq_mi = 7064.54
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 277
+|elevation_ft             = 909
+|coordinates              = {{coord|39|9|28|N|84|36|45|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 45211
+|area_code                = [[Area code 513|513]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-14128<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1056799<ref name="GR3" />
+|website                  = {{URL|http://www.cheviot.org/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

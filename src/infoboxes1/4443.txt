@@ -1,0 +1,92 @@
+{{Infobox settlement
+|name                   = Joliette
+|official_name          = 
+|native_name            = 
+|other_name             =
+|settlement_type        = [[City (Quebec)|City]]
+|image_skyline          = QC Joliette1 tango7174.jpg
+|imagesize              = 
+|image_caption          = Saint-Charles-Borromée Cathedral
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|nickname               = 
+|motto                  = 
+|image_map               = Joliette Quebec location diagram.png
+|map_caption             = Location within Joliette RCM.
+|pushpin_map             = Canada Central Quebec
+|pushpin_label_position = left
+|pushpin_label             = 
+|pushpin_map_caption  = Location in central Quebec.
+|coordinates            = {{coord|46|01|N|73|27|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Lanaudière]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[Joliette Regional County Municipality|Joliette]]
+|subdivision_type4      = 
+|subdivision_name4      = 
+|established_title      =
+|established_date       = 
+|established_title1     = Constituted
+|established_date1      = November 12, 1966
+|established_title2     = 
+|established_date2      = 
+|established_title3     =  
+|established_date3      = 
+|government_footnotes   = <ref name=mamrot>{{cite web |url=http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/61025/ |title=Joliette |work=Répertoire des municipalités |publisher=Ministère des Affaires municipales, des Régions et de l'Occupation du territoire |language=fr |access-date=2011-11-08 |archive-url=https://web.archive.org/web/20120607213917/http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/61025/ |archive-date=2012-06-07 |url-status=dead }}</ref>
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Alain Beaudry
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Joliette (electoral district)|Joliette]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Joliette (provincial electoral district)|Joliette]]
+|leader_title3          =
+|leader_name3           =
+|area_footnotes         = <ref name="mamrot"/><ref name="cp2011">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2461025&Geo2=PR&Code2=24&Data=Count&SearchText=Joliette&SearchType=Begins&SearchPR=01&B1=All&Custom= |title=Joliette census profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-05-24}}</ref>
+|area_magnitude         = 
+|area_total_km2         = 23.60
+|area_land_km2          = 22.81
+|area_water_km2         = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|area_metro_footnotes   = <ref name="cp2011-CA">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=456&Geo2=PR&Code2=24&Data=Count&SearchText=Joliette&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=456&TABID=1 |title=Joliette (Census agglomeration) census profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-05-24}}. The census agglomeration consists of Joliette, [[Notre-Dame-des-Prairies, Quebec|Notre-Dame-des-Prairies]], [[Saint-Charles-Borromée, Quebec|Saint-Charles-Borromée]], [[Saint-Paul, Quebec|Saint-Paul]]. In the 2006 census, the census agglomeration had also included [[Saint-Pierre, Quebec|Saint-Pierre]].</ref>
+|area_metro_km2         = 109.03
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|population_footnotes   = <ref name=cp2011/>
+|population_total       = 19621
+|population_as_of       = 2011
+|population_density_km2 = 860.3
+|population_urban       = 
+|population_density_urban_km2 =
+|population_metro_footnotes = <ref name="cp2011-CA"/>
+|population_metro       = 46932
+|population_density_metro_km2 = 430.5
+|population_blank1_title= Pop&nbsp;<small>2006-2011</small>
+|population_blank1      = {{increase}} 3.0%
+|population_blank2_title= Dwellings
+|population_blank2      = 9919
+|population_demonym     = Joliettain, Joliettaine
+|population_note        = 
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of J postal codes of Canada|J6E]]
+|area_code              = [[Area codes 450 and 579|450 and 579]]
+|blank_name             = Highways <br>{{jct|state=QC|A|31}}
+|blank_info             = <br> {{jct|state=QC|QC|131}} <br> {{jct|state=QC|QC|158}} <br> {{jct|state=QC|QC|343}}
+|website                = {{URL|www.ville.joliette.qc.ca}}
+|footnotes              = 
+}}

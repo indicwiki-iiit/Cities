@@ -1,0 +1,62 @@
+{{Infobox river
+| name               = Zambezi River
+| name_native        = 
+| name_native_lang   = 
+| name_other         = ''Zambesi'', ''Zambeze''
+| name_etymology     = 
+| nickname           = Besi
+<!---------------------- IMAGE & MAP -->
+| image              = Zambezi River at junction of Namibia, Zambia, Zimbabwe & Botswana.jpg
+| image_size         = 
+| image_caption      = The Zambezi River at the junction of Namibia, Zambia, Zimbabwe and Botswana
+| map                = Zambezi.svg
+| map_size           = 
+| map_caption        = 
+| pushpin_map        = 
+| pushpin_map_size   = 
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Countries
+| subdivision_name1  = {{hlist|[[Zambia]]|[[Angola]]|[[Namibia]]|[[Botswana]]|[[Zimbabwe]]|[[Mozambique]]}}
+| subdivision_type2  = 
+| subdivision_name2  = 
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = 
+| subdivision_name5  = 
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|2574|km|mi|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = {{convert|920|m3/s|cuft/s|abbr=on}}
+| discharge1_avg     = {{convert|3400|m3/s|cuft/s|abbr=on}}<ref name="Beilfuss">{{Cite web |url=http://files.gorongosa.net/filestore/348-patterns_hydrological_change_zambezi_delta.pdf |title=Richard Beilfuss & David dos Santos: Patterns of Hydrological Change in the Zambezi Delta, Monogram for the Sustainable Management of Cahora Bassa Dam and The Lower Zambezi Valley (2001). Estimated mean flow rate 3424 m³/s |access-date=18 October 2008 |archive-url=https://web.archive.org/web/20081217180850/http://files.gorongosa.net/filestore/348-patterns_hydrological_change_zambezi_delta.pdf |archive-date=17 December 2008 |url-status=dead}}</ref><ref name="INBO">[http://www.riob.org/transfrontalier/Bilanglobal.PDF International Network of Basin Organisations/Office International de L'eau:] {{webarchive|url=https://web.archive.org/web/20090327102256/http://www.riob.org/transfrontalier/Bilanglobal.PDF |date=27 March 2009}} "Développer les Compétences pour mieux Gérer l'Eau: Fleuves Transfrontaliers Africains: Bilan Global." (2002). Estimated annual discharge 106&nbsp;km<sup>3</sup>, equal to mean flow rate 3360 m<sup>3</sup>/s</ref>
+| discharge1_max     = {{convert|18600|m3/s|cuft/s|abbr=on}}
+<!---------------------- BASIN FEATURES -->
+| source1            = Main stem source. Zambezi Source National Forest
+| source1_location   = [[Ikelenge District]], [[North-Western Province, Zambia|North-Western Province]], [[Zambia]]
+| source1_coordinates= {{coord|11|22|11|S|24|18|30|E|display=inline}}
+| source1_elevation  = {{convert|1500|m|abbr=on}}
+| source2            = Most distant source of the Zambezi-Lungwebungu system
+| source2_location   = [[Moxico (municipality)|Moxico Municipality]], [[Moxico Province]], [[Angola]]
+| source2_coordinates= {{coord|12|40|34|S|18|24|47|E|display=inline}}
+| source2_elevation  = {{convert|1440|m|abbr=on}}
+| mouth              = [[Indian Ocean]]
+| mouth_location     = [[Zambezia Province]] and [[Sofala Province]], [[Mozambique]]
+| mouth_coordinates  = {{coord|18|34|14|S|36|28|13|E|display=inline,title}}
+| mouth_elevation    = 
+| progression        = 
+| river_system       = [[Zambezi Basin]]
+| basin_size         = {{convert|1390000|km2|abbr=on}}<ref name="Beilfuss"/><ref name="INBO"/>
+| tributaries_left   = 
+| tributaries_right  = 
+| custom_label       = 
+| custom_data        = 
+| extra              = 
+}}

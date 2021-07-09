@@ -1,0 +1,70 @@
+{{Infobox settlement
+| name                            = Fayetteville, North Carolina
+| official_name                   = City of Fayetteville
+| settlement_type                 = [[City]]
+| image_skyline                   = Fayetteville, NC Downtown Skyline.jpg
+| image_alt                       = 
+| image_caption                   = Downtown Fayetteville Skyline
+| nicknames                       = 
+| named_for                       = [[Gilbert du Motier, Marquis de Lafayette]]
+| motto                           = <!-- Maps -->
+| image_map                       = Cumberland County North Carolina incorporated and unincorporated areas Fayetteville highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Cumberland County, North Carolina|Cumberland County]] and the state of [[North Carolina]].
+
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|North Carolina}}
+| subdivision_type2               = [[List of counties in North Carolina|County]]
+| subdivision_name2               = [[Cumberland County, North Carolina|Cumberland]]
+| leader_title                    = [[Mayor of Fayetteville, North Carolina|Mayor]]
+| leader_name                     = [[Mitch Colvin]] ([[Democratic Party (United States)|D]])
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Doug Hewett|
+| established_title               = Settled
+| established_date                = 1783
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 388.63
+| area_land_km2                   = 383.89
+| area_water_km2                  = 4.73
+| area_total_sq_mi                = 150.05
+| area_land_sq_mi                 = 148.22
+| area_water_sq_mi                = 1.83
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 200782
+| population_metro                = 526719
+| population_blank1_title         = [[Combined statistical area|CSA]]
+| population_CSA                  = 854826
+| population_density_km2          = 551.34
+| population_density_sq_mi        = 1427.97
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = <ref name=gnis/>
+| elevation_m                     = 
+| elevation_ft                    = 102
+| coordinates                     = {{coord|35|3|9|N|78|52|41|W|region:US-NC_type:city|display=inline,title}}
+| postal_code_type                = ZIP code
+| postal_code                     = 28301, 28302, 28303, 28304, 28305, 28306, 28307 (Fort Bragg), 28308 (Pope AAF), 28309, 28310 (Fort Bragg), 28311, 28312, 28314,28387,28374
+| area_code                       = [[Area code 910|910]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 37-22920<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1020226<ref name=gnis>{{GNIS|1020226}}</ref> 
+| blank2_name = Primary Airport 
+| blank2_info = [[Fayetteville Regional Airport]]
+| website                         = {{official website|http://www.ci.fayetteville.nc.us}}
+| footnotes                       = 
+| government_type                 = Council-Manager
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 211657
+}}

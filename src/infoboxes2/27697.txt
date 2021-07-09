@@ -1,0 +1,26 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Vetovo
+| native_name            = Ветово
+| pushpin_map            = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = right
+| pushpin_map_caption    = Location of Vetovo
+| pushpin_mapsize        =
+| coordinates            = {{coord|43|42|N|26|16|E|region:BG|display=inline,title}}
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = [[Bulgaria]]
+| subdivision_type1      = [[Provinces of Bulgaria|Province]] (Oblast)
+| subdivision_name1      = Rousse
+| leader_title           = Mayor
+| leader_name            = Mehmed Mehmed
+| elevation_m            = 183
+| population_total       = {{decrease}}4,777
+| population_footnotes   = <ref name="statistika"/>
+| population_as_of       = 31.12.2009 
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST         = +3
+| postal_code_type       = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code            = 7080
+| area_code              = 08161
+}}

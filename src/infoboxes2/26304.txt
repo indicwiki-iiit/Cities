@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Sioux Center, Iowa
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = Growing Brighter 
+
+<!-- Images -->
+|image_skyline            = Grain Elevators, SiouxCenter, IA 9-2005 (6917732297).jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map = Sioux_County_Iowa_Incorporated_and_Unincorporated_areas_Sioux_Center_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Sioux Center, Iowa
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Iowa#USA
+| pushpin_label = Sioux Center
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Iowa}}
+|subdivision_type2        = [[List of counties in Iowa|County]]
+|subdivision_name2        = [[Sioux County, Iowa|Sioux]]
+|government_footnotes     = 
+|government_type          = Mayor-council
+|leader_title             = Mayor
+|leader_name              = David Krahling<ref>https://www.siouxcenter.org/197/Mayor-City-Council</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.11
+|area_land_km2            = 16.11
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 6.22
+|area_land_sq_mi          = 6.22
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 7605
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 7048
+|population_density_km2   = 471.94
+|population_density_sq_mi = 1222.28
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 446
+|elevation_ft             = 1463
+|coordinates              = {{coord|43|4|36|N|96|10|24|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 51250
+|area_code                = [[Area code 712|712]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 19-73290
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0461652
+|website                  = {{URL|http://www.siouxcenter.org/|City of Sioux Center}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+}}

@@ -1,0 +1,64 @@
+{{Infobox settlement
+|name                   = Alashankou
+|native_name            = {{lang|zh-Hans-CN|阿拉山口市}} · {{ug-textonly|ﺋﺎﻻﺗﺎﯞ ئېغىزى شەھرى}}
+|other_name             =
+|nickname               =
+|settlement_type        = [[County-level city]]
+|motto                  =
+<!-- images and maps ------------>
+|image_skyline          = 20060426051109.jpg
+|imagesize              =
+|image_caption          = Tianshan Street, Alashankou
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|pushpin_map            = China Xinjiang
+|pushpin_label_position = bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location in Xinjiang
+|pushpin_relief = yes
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Autonomous regions of China|Autonomous region]]
+|subdivision_name1      = [[Xinjiang]]
+|subdivision_type2      = [[Autonomous prefecture]]
+|subdivision_name2      = [[Bortala Mongol Autonomous Prefecture|Bortala]]
+|subdivision_type3      = Township-level divisions
+|subdivision_name3      = 2 [[Subdistricts of China|Subdistricts]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area ------------------------>
+|area_magnitude         =
+|unit_pref              = metric
+|area_footnotes         =
+|area_total_km2         = 1,204
+|area_land_km2          =
+|area_metro_km2         =
+<!-- Population ------------------------->
+|population_as_of       = 2012
+|population_footnotes   =
+|population_note        =
+|population_total       = 40,000
+|population_density_km2 =
+<!-- General information ---------------->
+|timezone               = [[China Standard Time]]
+|utc_offset             = +8
+|coordinates            = {{coord|45.1733|N|82.5546|E|type:adm3rd_region:CN-65_source:Gaode|format=dms|display=it}}
+|elevation_footnotes    = <!-- for references: use <ref> </ref> tags -->
+|elevation_m            =
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = {{url|www.alsk.gov.cn}}
+|footnotes              =
+}}

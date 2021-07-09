@@ -1,0 +1,33 @@
+{{Infobox Australian place| type = town
+| name      = Glenbrook
+| city      =
+| state     = nsw
+| image     = Rlwy stn glenbrook.jpg
+| caption   = Glenbrook railway station
+| coordinates = {{coord|33|46|00|S|150|37|10|E|display=inline,title}}
+| pushpin_label_position = left
+| lga       = City of Blue Mountains
+| postcode  = 2773
+| est       =
+| pop       = 5051
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016Y>{{Census 2016 AUS|id=SSC11656|name=Glenbrook (State Suburb)|accessdate=31 January 2019|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| elevation = 163
+| area      =
+| stategov  = [[Electoral district of Penrith|Penrith]]
+| fedgov    = [[Division of Macquarie|Macquarie]]
+| near-nw   = [[Blaxland, New South Wales|Blaxland]]
+| near-n    = [[Blaxland, New South Wales|Blaxland]]
+| near-ne   =
+| near-w    =
+| near-e    =
+| near-sw   =
+| near-s    =
+| near-se   = [[Lapstone, New South Wales|Lapstone]]
+| dist1     = 70
+| dir1      = west
+| location1 = Sydney
+| dist2     = 40
+| dir2      = east
+| location2 = {{NSWcity|Katoomba}}
+}}

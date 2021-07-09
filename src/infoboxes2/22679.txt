@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = Keokuk, Iowa
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = keokuk iowa.jpg
+|image_caption            = Main Street (January 2009)
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Lee_County_Iowa_Incorporated_and_Unincorporated_areas_Keokuk_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location within [[Lee County, Iowa|Lee County]] and [[Iowa]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Iowa]]
+|subdivision_type2        = [[List of counties in Iowa|County]]
+|subdivision_name2        = [[Lee County, Iowa|Lee]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = 1832
+|established_title1       = [[Municipal corporation|Incorporated]]
+|established_date1        = December 13, 1848<ref name="CData">{{cite web|url= http://www.city-data.com/city/Keokuk-Iowa.html|title=Keokuk, Iowa|publisher=City-Data|access-date=May 10, 2011}}</ref>
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+|area_total_sq_mi         = 10.53
+|area_land_sq_mi          = 9.08
+|area_water_sq_mi         = 1.45
+|area_total_km2           = 27.27
+|area_land_km2            = 23.52
+|area_water_km2           = 3.75
+|unit_pref                = Imperial
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 10157
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=United States Census Bureau|access-date=2012-05-11}}</ref>
+|population_total         = 10780
+|population_density_sq_mi = 1118.74
+|population_density_km2   = 431.93
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = −6
+|timezone_DST             = CDT
+|utc_offset_DST           = −5
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 
+|elevation_ft             = 568
+|coordinates              = {{coord|40|23|50|N|91|23|06|W|region:US_type:city|display=inline,title}}<ref name=gnis/>
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 52632
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 319|319]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 19-40845
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = <ref name=gnis>{{GNIS|458054}}</ref>
+|website                  = [http://www.cityofkeokuk.org/ City of Keokuk, Iowa]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

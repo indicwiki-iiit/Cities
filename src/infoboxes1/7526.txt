@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                   = Beit Shemesh
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|בֵּית שֶׁמֶשׁ}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|بيت شيمش}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Beit Šemš
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Bet Shemesh (official)
+| image_skyline          = File:בית שמש דרום.jpg
+| image_blank_emblem     = Coat of arms of Beit Shemesh.svg
+| blank_emblem_type      = Emblem of Beit Shemesh
+| pushpin_map_alt        = 
+| pushpin_map            = Israel jerusalem#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|44|44|N|34|59|12|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Jerusalem District|name=Jerusalem}}
+| leader_title           = Mayor
+| leader_name            = [[Aliza Bloch]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:34259|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Bet Shemesh}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = House of the sun
+}}

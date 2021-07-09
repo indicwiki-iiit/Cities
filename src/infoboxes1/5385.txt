@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                   = {{raise|0.2em|Pingxiang}}
+|settlement_type        = [[Prefecture-level city]]
+|other_name             = Pingsiang
+|native_name            = {{lower|0.1em|萍乡市}}
+|native_name_lang = zh-Hans
+|official_name          = 
+|nickname               = 
+|motto                  = 
+|image_skyline          = Pingxiang, JX, PRC.jpg
+|imagesize              = 250px
+|image_caption          =Downtown Pingxiang
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_size      =
+|image_map              = Location of Pingxiang Prefecture within Jiangxi (China).png
+|mapsize                =
+|map_caption            = Location of Pingxiang City jurisdiction in Jiangxi
+|image_map1             =
+|mapsize1               = 
+|map_caption1           =
+<!--
+|pushpin_map            = Jiangxi
+|pushpin_map_caption    = Location of the city centre in Jiangxi
+|pushpin_label_position = left
+|pushpin_mapsize        =
+-->
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_name1      = [[Jiangxi]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|seat_type              = Municipal seat
+|seat                   = [[Anyuan District]]
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = [[Li Xiaobao]] 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  
+|established_date       = 
+|area_magnitude         = 
+<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         = 
+|area_total_km2         = 3824 
+|area_land_km2          = 3824 
+|area_water_km2         =
+|area_water_percent     = 
+|area_urban_km2         = 1073
+|area_metro_km2         = 1073
+|population_as_of       =2010
+|population_footnotes   = 
+|population_note        = 
+|population_total       =1,854,510
+|population_density_km2 = auto
+|population_metro       = 893,550
+|population_density_metro_km2 =
+|population_urban       = 893,550
+|population_density_urban_km2 =
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|coor_pinpoint = Pingxiang government
+|coordinates            = {{coord|27.659|N|113.887|E|type:adm2nd_region:CN-36_source:Gaode|format=dms|display=it}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 
+|elevation_ft           = 
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 337000
+|area_code              = 0799
+|iso_code = [[ISO 3166-2:CN|CN-JX-03]]
+|website = {{URL|www.pingxiang.gov.cn/}}
+|footnotes              = 
+}}

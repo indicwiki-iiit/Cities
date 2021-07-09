@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name = Blythe, California
+|settlement_type = [[City (California)|City]]
+|image_skyline = BlytheCA.jpg
+|imagesize = 
+|image_caption = '''Blythe''' street scene, c. 1900
+|image_seal = Blythe,_California_City_Seal.png
+|image_map = File:Riverside County California Incorporated and Unincorporated areas Blythe Highlighted 0607218.svg
+|mapsize = 250px
+|map_caption = Location of Blythe in Riverside County, California.
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = [[United States]]
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Riverside County, California|Riverside]]
+|established_title = [[Municipal corporation|Incorporated]]
+|established_date = July 21, 1916<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+|named_for = Thomas Henry Blythe
+|government_type = 
+|leader_title = [[Mayor]]
+|leader_name = Dale Reynolds<ref>{{cite news|last1=Avendano|first1=Uriel|title=Blythe council appoints new Mayor in Dale Reynolds, Dec. 12: Newly elected Halby, Rodriguez and DeConinck sworn in|url=http://www.pvvt.com/blythe_news/blythe-council-appoints-new-mayor-in-dale-reynolds-dec-newly/article_50279efc-dfc4-11e7-a533-ff76eb88d654.html|access-date=2017-12-16|work=Palo Verde Valley Times|date=2017-12-12}}</ref>
+<!-- Area------------------>
+| unit_pref = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi = 27.37
+| area_land_sq_mi = 26.58
+| area_water_sq_mi = 0.78
+| area_total_km2 = 70.88
+| area_land_km2 = 68.85
+| area_water_km2 = 2.03
+| area_water_percent = 2.90
+| area_note = 
+|elevation_footnotes = <ref>{{Cite GNIS|1660349|Blythe|access-date=October 20, 2014}}</ref>
+|elevation_ft = 272
+|elevation_m = 83
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0607218.html|title=Blythe (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 22, 2015|archive-url=https://web.archive.org/web/20150222224833/http://quickfacts.census.gov/qfd/states/06/0607218.html|archive-date=2015-02-22|url-status=dead}}</ref>
+|population_total = 20817
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 19682
+|population_density_sq_mi = 740.40
+|population_metro = 
+|coordinates = {{coord|33|36|37|N|114|35|47|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes = <ref name="GNIS">{{cite gnis|1660349|Blythe}}.</ref>
+|timezone = [[Pacific Time Zone|PST]]
+|utc_offset = -8
+|timezone_DST = PDT
+|utc_offset_DST = -7
+|postal_code_type = [[ZIP code]]s
+|postal_code = 92225, 92226
+|area_code_type = [[North American Numbering Plan|Area code]]
+|area_code = [[Area codes 442 and 760|442/760]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = {{FIPS|06|07218}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1660349}}, {{GNIS 4|2409872}}
+|website = {{URL|www.cityofblythe.ca.gov}}
+|footnotes = 
+|population_density_km2 = 285.87
+}}

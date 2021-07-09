@@ -1,0 +1,82 @@
+{{Infobox settlement
+| official_name                   = Town of North Hempstead
+| name                            = North Hempstead, New York
+| settlement_type                 = [[Administrative divisions of New York#Town|Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = North_Hempstead_Town_Hall,_Manhasset,_New_York_with_Sign.jpg
+| imagesize                       = 
+| image_caption                   = [[North Hempstead Town Hall]], located in [[Manhasset, New York|Manhasset]], the town seat.
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = New York
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of New York
+| image_map                       = Nassau County New York incorporated and unincorporated areas North Hempstead highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Nassau County, New York|Nassau County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|New York}}
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = {{flag|Nassau County, New York|Nassau County}}
+| government_footnotes            = 
+| government_type                 = [[Town Council]]
+| leader_title                    = [[Town Supervisor]]
+| leader_name                     = Judi Bosworth
+| leader_title1                   = [[Town Council]]
+| leader_name1                    = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • D1: Viviana L. Russell ([[United States Democratic Party|D]])
+ |2           = • D2: [[Peter J. Zuckerman|Peter Zuckerman]] ([[United States Democratic Party|D]]), 
+ |3           = • D3: Angelo P. Ferrara ([[United States Republican Party|R]])
+ |4           = • D4: Veronica Lurvey ([[United States Democratic Party|D]])
+ |5           = • D5: Lee R. Seeman ([[United States Democratic Party|D]])
+ |6           = • D6: Mariann Dalimonte ([[United States Democratic Party|D]])
+}}
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 179.14
+| area_land_km2                   = 138.60
+| area_water_km2                  = 40.54
+| area_total_sq_mi                = 69.16
+| area_land_sq_mi                 = 53.51
+| area_water_sq_mi                = 15.65
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 226322
+| population_density_km2          = 1667.51
+| population_density_sq_mi        = 4318.84
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 31
+| elevation_ft                    = 102
+| coordinates                     = {{coord|40|45|32|N|73|35|17|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 11001-11599
+| area_code                       = [[Area code 516|516]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-059-53000
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 
+| website                         = {{URL|https://www.northhempsteadny.gov/}}
+| footnotes                       = 
+| pop_est_as_of                   = 2016
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 231114
+| seat_type                       = Town Seat
+| seat                            = [[Manhasset, New York|Manhasset]]
+}}

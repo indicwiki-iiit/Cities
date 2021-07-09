@@ -1,0 +1,126 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Zacatepec
+|settlement_type        = Municipal and rural
+|other_name             = Zacatepec de Hidalgo
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Zacatepec.JPG
+|imagesize              = 300px
+|image_caption          = View of a Zacatepec de Hidalgo street lined with palm trees, with the sugar mill in the distance
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 200px
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Mexico <!-- the name of a location map as per [[:en:Template:Location_map]] -->
+|pushpin_label_position =above
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Mexico
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Mexico}}
+|subdivision_type1      = [[Administrative divisions of Mexico|State]]
+|subdivision_name1      = [[Morelos]]
+|subdivision_type2      = 
+|subdivision_name2      =
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   = <ref name=inafed/>
+|government_type        = Municipality
+|leader_title           = President
+|leader_name            = Olivia Ramírez Lamadrid ([[New Alliance Party (Mexico)|Panal]])<ref name="prez">{{cite web |last1=Albarrán |first1=Angelina |title=Celebran triunfo de Olivia Ramírez en Zacatepec |url=https://www.elsoldecuernavaca.com.mx/local/celebran-triunfo-de-olivia-ramirez-en-zacatepec-1815510.html |website=El Sol de Cuernavaca |access-date=May 13, 2020 |language=es}}</ref>
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title2     =  Municipality<!-- Incorporated (town) -->
+|established_date2      = December 25, 1938
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = 
+|area_footnotes           = <ref name=inafed/>
+|area_total_km2           = 2,853<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 84
+|area_total_sq_mi         = 
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           = 
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         = 
+|area_blank1_title        = Agriculture
+|area_blank1_km2          = 1,175
+|area_blank1_sq_mi        =
+|area_blank2_title        = Industrial
+|area_blank2_km2          = 806
+<!-- Population   ----------------------->
+|population_as_of               = 2015
+|population_footnotes           = <ref name="pop" />
+|population_note                =
+|population_total               = 36,159
+|population_density_km2         =
+|population_density_sq_mi       = 
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|location               = 
+|timezone               = Central Zone
+|utc_offset             = -6
+|timezone_DST           = [[Time in Mexico|Central Zone]]
+|utc_offset_DST         = -5
+|coordinates            = 
+|elevation_footnotes    = <ref name=inafed/> <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 917
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  Postal code<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = [[List of postal codes in Mexico|62780]], 62785<ref>{{cite web |title=Listado de todos los Códigos Postales de Zacatepec, Morelos |url=https://micodigopostal.org/morelos/zacatepec/ |website=micodigopostal.org |access-date=May 13, 2020}}</ref>
+|area_code              = 734<ref>{{cite web |last1=Internacionales |first1=Códigos |title=Lada de Zacatepec de Hidalgo • Claves y códigos de área de Morelos |url=https://www.codigosinternacionales.com/lada-mexico-morelos/zacatepec-de-hidalgo/ |website=Códigos internacionales |access-date=May 13, 2020 |language=es |date=14 October 2019}}</ref>
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              =
+}}

@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = South Portland, Maine
+|settlement_type          = [[City]]
+|nickname                 = The Park City,<ref name=nickname>{{cite news|last1=Harrington|first1=Duke|title=Debate hard fought, but likely not over|url=http://sentry.mainelymediallc.com/news/2014-07-25/Front_Page/Debate_hard_fought_but_likely_not_over.html|access-date=25 July 2014|publisher=South Portland Sentry|date=25 July 2014|quote=The new zoning regulation for the Park City – so-called for its 15 public green spaces, including scenic Bug Light Park next to, and largely owned by PPL — bans bulk loading of all crude oil onto ships. It also bans construction of infrastructure needed for that purpose.}}</ref> SoPo<ref>{{cite news |last1=Kaplan |first1=Melanie D.G. |title=Things to do in South Portland, Maine |url=https://www.washingtonpost.com/lifestyle/travel/sunrise-sunset-in-maine-a-place-where-the-sun-is-the-star/2019/10/17/57213274-ea01-11e9-9306-47cb0324fd44_story.html |access-date=19 May 2020 |work=The Washington Post |date=18 October 2019 |quote=SoPo, as it’s called, is a city unto itself, a former shipbuilding center with a working waterfront that feels like a beach town.}}</ref>
+|motto                    = Forward
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Seal of South Portland, Maine.png
+|image_blank_emblem       = South Portland logo.png
+|blank_emblem_type        = Logo
+|blank_emblem_size        = 150px
+
+<!-- Maps -->
+|image_map                = Cumberland County Maine incorporated and unincorporated areas South Portland highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Cumberland County, Maine|Cumberland County]] and the state of [[Maine]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Maine]]
+|subdivision_type2        = [[List of counties in Maine|County]]
+|subdivision_name2        = [[Cumberland County, Maine|Cumberland]]
+|government_footnotes     = 
+|government_type          = [[Council-Manager|City Council and City Manager]]
+|leader_title             = [[City Manager]]
+|leader_name              = Scott Morelli<ref name="spexec">{{cite web|title=City of South Portland - Executive Department|url=http://southportland.org/departments/executive/|access-date=25 April 2018}}</ref>
+|leader_title1            = [[Mayor]]
+|leader_name1             = Misha Pride<ref name="mayorcouncil">{{cite web|title=City Council Members & Contact Information|url=https://www.southportland.org/our-city/city-council/city-council-members/|access-date=22 December 2020}}</ref>
+|established_title        = Incorporated (town)
+|established_date         = March 15, 1895
+|established_title1       = Incorporated (city)
+|established_date1        = March 22, 1898
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_23.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 36.29
+|area_land_km2            = 31.26
+|area_water_km2           = 5.04
+|area_total_sq_mi         = 14.01
+|area_land_sq_mi          = 12.07
+|area_water_sq_mi         = 1.95
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 25532
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 25002
+|population_density_km2   = 816.87
+|population_density_sq_mi = 2115.68
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 7
+|elevation_ft             = 23
+|coordinates              = {{coord|43|37|54|N|70|16|22|W|region:US-ME|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 04106, 04116
+|area_code                = [[Area code 207|207]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 23-76750
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0575893
+|website                  = [http://www.southportland.org/ www.southportland.org]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

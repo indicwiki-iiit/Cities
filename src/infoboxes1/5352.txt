@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Shaoguan}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|韶关市}}
+|native_name_lang = zh-Hans
+|other_name             = Shiukwan
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+<!-- images and maps  ----------->
+|image_skyline          = Shaoguan plane Feb 2016 bigger.jpg
+|imagesize              = 280
+|image_caption          = Aerial view of Shaoguan in February 2016
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=24.67|frame-long=113.82}}
+|image_map1             = Guangdong subdivisions - Shaoguan.svg
+|mapsize1               = 
+|map_caption1           = Location of Shaoguan City jurisdiction in Guangdong
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Guangdong]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level&nbsp;divisions]]
+|subdivision_name2      = 10
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township&nbsp;divisions]]
+|subdivision_name3      =
+|seat_type              = Municipal seat
+|seat                   = [[Zhenjiang District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            =Jiang Ling ({{lang|zh|江凌}})
+|leader_title1          =Mayor
+|leader_name1           =Luo Weifeng ({{lang|zh-hans|骆蔚峰}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 18645 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =2870.7
+|area_metro_km2           =1249.9
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 59
+|elevation_ft           = 194
+|elevation_max_m            =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 2826246
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =688229
+|population_density_metro_km2   =auto
+|population_urban               =991600
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Shaoguan municipal government
+|coordinates            = {{coord|24.811|N|113.597|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!--  [[Postal code of China|Postal code]] -->
+|postal_code            = 512000
+|area_code              = (0)751
+|iso_code = [[ISO 3166-2:CN|CN-GD-02]]
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             =
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            =[[Licence plates of the People's Republic of China|Licence plate prefixes]]
+|blank2_info            = {{lang|zh-cn|粤F}}
+|blank3_name            =[[Spoken Chinese|Local dialect]]
+|blank3_info            =[[Hakka language|Hakka]] (regional) <br/>[[Cantonese language|Cantonese]] (native; provincial level)
+|blank4_name            = Major [[Nationalities of China|Nationalities]]
+|blank4_info            = Han
+|website                =
+|footnotes              =
+}}

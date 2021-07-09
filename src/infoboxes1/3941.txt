@@ -1,0 +1,26 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = Nieuw Nickerie
+| settlement_type        = [[Resorts of Suriname|Resort]] and City
+| image_skyline          = Nickerie.jpg
+| image_caption          = Street in Nieuw Nickerie
+| pushpin_map            = Suriname
+| pushpin_label_position = right
+| pushpin_map_caption    = Location in Suriname
+| coordinates            = {{coord|05|56|N|56|59|W|region:SR_type:city|display=inline,title}}
+| coordinates_footnotes  = 
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Suriname]]
+| subdivision_type1      = [[Districts of Suriname|District]]
+| subdivision_name1      = [[Nickerie District|Nickerie]]
+| area_footnotes          = 
+| area_total_km2          = 30
+| elevation_footnotes     = 
+| elevation_m             = 0
+| population_footnotes    = 
+| population_total        = 12,818<ref name="stats">{{cite web|url=https://spangstaging.com/2019/abs/wp-content/uploads/2019/02/census8etn.pdf|title=2012 Census Resorts Suriname|access-date=11 May 2020|website=Spang Staging}}</ref>
+| population_as_of        = 2012 census
+| population_density_km2  = auto
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Tropical rainforest climate|Af]]/[[Tropical monsoon climate|Am]]
+}}

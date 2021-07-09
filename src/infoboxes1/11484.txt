@@ -1,0 +1,55 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name     = Oradea
+|other_name       = {{lang|hu|Nagyvárad}}<br/>{{lang|de|Großwardein}}
+|map_caption       = Location within [[Bihor County]]
+|image_flag        = ROU BH Oradea Flag.gif
+|flag_link         = 
+|image_shield      = Coa Oradea RO.png
+|image_skyline     = [[File:Piata Unirii Oradea.jpg|260px]]<br/>[[File:Oradea_City_Hall.jpg|x91px]][[File:RO BH Oradea Greek Catholic bishopric palace.jpg|x91px]]<br/>[[File:Oradea Vulturul Negru (2).JPG|x76px]][[File:Hotel şi cafenea "Astoria”.jpg|x76px]][[File:Oradea - Palatul Episcopal Romano-Catolic 3.jpg|x76px]]
+|image_caption     = From left: Overview of the city center, Oradea City Hall, Greek Catholic Diocese Palace, Black Eagle Palace, Astoria Hotel, [[Episcopal palace, Oradea|Roman Catholic Episcopal palace]]
+|image_map         = File:Oradea jud Bihor.png
+| mapsize          = 150px
+|settlement_type   = City
+|subdivision_type  = Country
+|subdivision_name  = {{ROU}}
+|subdivision_type1 = [[Counties of Romania|County]]
+|subdivision_name1 = [[Bihor County]]
+|subdivision_type2 = [[Subdivisions of Romania|Status]]
+subdivision_name2  = {{Autolink|County capital}}
+|leader_title      = Mayor {{no bold|(2020&ndash;2024)}}
+|leader_name       = Florin Birta<ref>{{cite web|title=Primăria Oradea ["Oradea Townhall", official website.] Primar ["Mayor"]|language=ro|url=http://www.oradea.ro/primar|access-date=5 January 2021}}</ref>
+|leader_party      = [[National Liberal Party (Romania)|PNL]]
+|area_total_km2    = 115.56
+|population_as_of  = {{Romania metadata Wikidata|population_as_of}}
+|population_total  = {{Romania metadata Wikidata|population_total}}
+|population_footnotes = {{Romania metadata Wikidata|population_footnotes}}
+|population_rank   = [[List of cities and towns in Romania|10th (Romania)]]
+|population_density_km2 = auto
+|pop_est_as_of     = 2016
+|population_est    = 222,736
+|pop_est_footnotes =<ref name="INSSER2016">{{cite web|url=http://www.insse.ro/cms/ro/content/popula%C5%A3ia-rom%C3%A2niei-pe-localitati-la-1-ianuarie-2016|title=Populaţia României pe localitati la 1 ianuarie 2016|date=6 June 2016|access-date=3 November 2017|publisher=[[National Institute of Statistics (Romania)|INSSE]]|language=ro|archive-url=https://web.archive.org/web/20171027131447/http://www.insse.ro/cms/ro/content/popula%C5%A3ia-rom%C3%A2niei-pe-localitati-la-1-ianuarie-2016|archive-date=27 October 2017|url-status=dead}}</ref>
+|coordinates       = {{coord|47|04|20|N|21|55|16|E|region:RO|display=inline,title}}
+|pushpin_map       = Romania
+|pushpin_map_caption= Location within [[Romania]]
+|timezone          = [[Eastern European Time|EET]]
+|utc_offset        = +2
+|timezone_DST      = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST    = +3
+|population_metro  = 245,537
+|elevation_m       = 142
+|postal_code_type  = Postal code
+|postal_code       = 4101xx
+|area_code         = (+40) 59
+|registration_plate= BH
+<!-- language(s), patron saint(s), main festivity --------------->
+| blank_name_sec1         = {{nowrap|[[Languages of Romania|Official language]]}}
+| blank_info_sec1         = [[Romanian language|Romanian]] 
+| blank1_name_sec1        = [[Languages of Romania|Recognized minority language]]
+| blank1_info_sec1 = [[Hungarian language|Hungarian]]<ref>Law 215/2001 ({{lang-ro|Legea nr. 215 din 2001 a administrației publice locale}})</ref>
+| blank2_name_sec1        = [[Patron saint]]
+| blank2_info_sec1        = [[Ladislaus I of Hungary|Saint Ladislaus]]<ref name="hram1">[http://www.erdon.ro/szent-laszlo-nagyvarad-vedoszentje/2019991 Dr. János Fleisz – Szent László Nagyvárad védőszentje]. Retrieved 19 May 2016.</ref>
+<!-- Climate                    --------------------------------->
+| blank3_name_sec2        = [[Köppen climate classification|Climate]]
+| blank3_info_sec2        = [[Humid continental climate|Dfb]]
+|website           = {{URL|oradea.ro/}}
+}}

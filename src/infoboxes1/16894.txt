@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| name                            = Keller, Texas
+| native_name                     = <!-- for cities whose native name is not in English -->
+| other_name                      = 
+| settlement_type                 = City
+| image_skyline                   = Keller Texas Farmers-Market 2015-07-11.jpg
+| imagesize                       = 
+| image_caption                   = Keller City Hall
+| image_flag                      = Flag of keller.svg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_size               = 
+| nickname                        = 
+| motto                           = <!-- images and maps  ----------->
+| image_map                       = Tarrant County Texas Incorporated Areas Keller highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location within [[Tarrant County, Texas|Tarrant County]] and [[Texas]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = 
+| pushpin_label_position          = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|32|55|39|N|97|14|10|W|region:US_type:city|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flagu|United States|size=23px}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Texas|County]]
+| subdivision_type3               = 
+| subdivision_type4               = 
+| subdivision_name1               = {{flag|Texas|size=23px}}
+| subdivision_name2               = {{Flagicon image|Flag of Tarrant County, Texas.svg|size=23px}} [[Tarrant County, Texas|Tarrant]]
+| subdivision_name3               = 
+| subdivision_name4               = <!-- Politics ----------------->
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = 
+| government_footnotes            = 
+| government_type                 = [[Council-manager government|Council-Manager]]
+| leader_title                    = [[City Council]]
+| leader_name                     = Mayor Armin Mizani <br/> Mitch Holmes <br/> Sean Hicks <br/> Sheri Almond <br/> Beckie Paquin <br/>Chris Whatley<br/> Ross McMullin 
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Mark Hafner
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 47.92
+| area_total_sq_mi                = 18.50
+| area_land_km2                   = 47.79
+| area_land_sq_mi                 = 18.45
+| area_water_km2                  = 0.13
+| area_water_sq_mi                = 0.05
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population   ----------------------->
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = 216
+| elevation_ft                    = 709
+<!-- Area/postal codes & others -------->| population_total                = 39627
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 47213
+| pop_est_as_of                   = 2019
+| population_footnotes            = 
+| population_density_km2          = 987.92
+| population_density_sq_mi        = 2558.69
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 76248, 76262, 76180
+| area_code                       = [[Area code 817|817]] 682
+| website                         = [http://www.cityofkeller.com/ CityOfKeller.com]
+
+<!-- Area    --------------------->| footnotes                       = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| timezone                        = [[Central Time Zone (North America)|CST]]
+| utc_offset                      = -6
+| timezone_DST                    = [[Central Time Zone (North America)|CDT]]
+| utc_offset_DST                  = -5
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 48-38632<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1338994<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| official_name                   = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

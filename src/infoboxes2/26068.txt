@@ -1,0 +1,44 @@
+{{Infobox settlement
+<!-- General information -->
+|official_name          =Soltvadkert
+|image_shield           =HUN Soltvadkert Címer.svg
+|image_flag             =Flag of Soltvadkert.svg
+|image_skyline          =Soltvadkert légifotó.jpg
+|image_caption          =Aerial view
+<!-- Pushpin map -->
+|pushpin_map            =Hungary
+|pushpin_map_caption    =Location of Soltvadkert in Hungary
+<!-- Political information -->
+|subdivision_type       =Country
+|subdivision_name       =[[Hungary]]
+|subdivision_type1      =[[List of regions of Hungary|Region]]
+|subdivision_name1      =[[{{Hungarian county region|Bács-Kiskun}}]]
+|subdivision_type2      =[[Counties of Hungary|County]]
+|subdivision_name2      ={{Hungarian county link|Bács-Kiskun}}
+|leader_title           =Mayor
+|leader_name            =Temerini Ferenc
+<!-- Geographical information -->
+|area_total_km2         =108.86
+|area_magnitude         =1 E6
+|area_footnotes         =<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=19983 Soltvadkert] at the [[Hungarian Central Statistical Office]] (Hungarian). </ref>
+|coordinates            ={{coord|46.58087|N|19.39370|E|region:HU|display=inline,title}}
+<!-- Demographical information -->
+|postal_code            =6230
+|postal_code_type       =[[Postal code]]
+|area_code              =+36 78
+|area_code_type         =[[Telephone numbers in Hungary|Area code]]
+|timezone               =[[Central European Time|CET]]
+|utc_offset             =+1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         =+2
+|total_type             =Total
+|population_total       =7,597
+|population_density_km2 =auto
+|population_density_urban_km2 =auto
+|population_density_metro_km2 =auto
+|population_as_of       =2008
+|population_footnotes   =<ref name="ksh_cite_population">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=19983 Soltvadkert] at the [[Hungarian Central Statistical Office]] (Hungarian). 2008</ref>
+
+|blank_info             =
+|website                ={{wikidata|property|P856}}
+}}

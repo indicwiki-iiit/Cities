@@ -1,0 +1,29 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.1em|Changyŏn County}}
+| native_name             = {{lower|0.1em|{{nobold|장연군}}}}
+| native_name_lang        = ko
+| settlement_type         = [[List of second-level administrative divisions of North Korea|County]]
+| translit_lang1          = Korean 
+| translit_lang1_type1    = Hanja
+| translit_lang1_info1    = 長淵郡
+| translit_lang1_type2    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info2    = Changyŏn-gun
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Jangyeon-gun
+| image_skyline           = 
+| imagesize               = 
+| image_caption           = 
+| image_map               = DPRK2006_Hwangnam-Changyon.PNG
+| mapsize                 = 
+| subdivision_type        = Country
+| subdivision_name        = [[North Korea]]
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[South Hwanghae Province]]
+| area_total_km2          = 
+| population_as_of        = 
+| population_total        = 
+| population_density_km2  = 
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 1 ''ŭp'', 1 ''rodongjagu'', 19 ''ri''
+}}

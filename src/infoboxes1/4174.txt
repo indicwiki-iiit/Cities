@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = City of Clovis
+|name = Clovis, California
+|settlement_type          = [[City (California)|City]]
+<!-- Images and maps ------>
+|image_skyline            = Pollasky Ave. Clovis.JPG
+|image_caption            = Pollasky Avenue, Old Town Clovis
+|image_seal               = Seal of Clovis, California.png
+|motto                    = "Gateway to the Sierras"<ref>{{cite web|url=http://www.ci.clovis.ca.us/Pages/default.aspx|title=City of Clovis, California|publisher=City of Clovis, California|access-date=August 11, 2012|url-status=dead|archive-url=https://web.archive.org/web/20120804191253/http://www.ci.clovis.ca.us/Pages/default.aspx|archive-date=August 4, 2012}}</ref>
+|image_map                = File:Fresno County California Incorporated and Unincorporated areas Clovis Highlighted 0614218.svg
+|map_caption              = Location of Clovis in Fresno County, California
+|pushpin_map              = California#USA
+|pushpin_map_caption      = Location in California##Location in the United States
+|pushpin_label=Clovis 
+|pushpin_relief           = 1
+<!-- Location ------------->
+|coordinates              = {{coord|36|49|31|N|119|42|11|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = California
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Fresno County, California|Fresno]]
+<!-- History -------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = February 27, 1912<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=April 5, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council–manager]]<ref name=CC/>
+|leader_title             = [[Mayor]]
+|leader_name              = José Flores <ref name=CC>{{Cite web
+ |url=http://www.ci.clovis.ca.us/Government/City-Council
+ |title=Clovis City Council
+ |access-date=April 18, 2015
+ |publisher=Clovis California}}</ref>
+|leader_title1            = Mayor [[Pro tempore|Pro Tem]]
+|leader_name1             = Lynne Ashbeck<ref name=CC/>
+|leader_title2            = [[California's 8th State Senate district|State senator]]
+|leader_name2             = {{Representative|casd|8|fmt=sleader}}<ref>{{Cite web
+ |url=http://senate.ca.gov/senators
+ |title=Senators
+ |access-date=April 5, 2013
+ |publisher=State of California}}</ref>
+|leader_title3            = [[California's 23rd State Assembly district|Assemblymember]]
+|leader_name3             = {{Representative|caad|23|fmt=sleader}}<ref>{{Cite web
+ |url=http://assembly.ca.gov/assemblymembers
+ |title=Members Assembly
+ |access-date=April 5, 2013
+ |publisher=State of California}}</ref>
+|leader_title4            = [[California's 22nd congressional district|U. S. rep.]]
+|leader_name4             = {{Representative|cacd|22|fmt=usleader}}<ref>{{Cite GovTrack|CA|22|access-date=April 5, 2013}}</ref>
+<!-- Area ----------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 25.53
+|area_total_km2           = 66.12
+|area_land_sq_mi          = 25.41
+|area_land_km2            = 65.81
+|area_water_sq_mi         = 0.12
+|area_water_km2           = 0.31
+|area_water_percent       = 0
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref name="gnis"/>
+|elevation_ft             = 361
+|elevation_m              = 110
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0614218.html|title=Clovis (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 6, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150412004710/http://quickfacts.census.gov/qfd/states/06/0614218.html|archive-date=April 12, 2015}}</ref>
+|population_total         = 95631
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 114584
+|population_rank          = [[List of largest California cities by population|57th]] in California
+|population_density_sq_mi = 4509.41
+|population_density_km2 = 1741.11
+|population_metro         = <!-- Time zone ------------>
+|named_for               = Clovis M. Cole <br> Clovis Station
+|population_demonym      = Clovisian
+<!-- Area ----------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 93611&ndash;93613, 93612, and 93619
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 559|559]]
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|06|14218}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1656303}}, {{GNIS 4|2409488}}
+|website                  = {{URL|www.ci.clovis.ca.us}}
+}}

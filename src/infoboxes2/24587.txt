@@ -1,0 +1,26 @@
+{{Infobox central bank
+| bank_name_in_local = 
+| image = [[File:Seal of the United States Federal Reserve System.svg|115px]]<br/>Seal of the Federal Reserve System<br/><br/>[[File:Flag of the United States Federal Reserve.svg|160px]]<br/>Flag of the Federal Reserve System
+| headquarters = [[Eccles Building]], [[Washington, D.C.]], U.S.
+| established = {{Start date and age|p=y|1913|12|23}}
+| governance = [[Federal Reserve Board of Governors|Board of Governors]]
+| president = [[Jerome Powell]]
+| leader_title = [[Chair of the Federal Reserve|Chair]]
+| president2 = [[Richard Clarida]]
+| leader2_title = Vice Chair
+| bank_of = [[United States]]
+| ownership = <!-- Before filling in this parameter, please review the talk page discussions regarding the topic. The Federal Reserve's ownership may be too complex to detail in an infobox; the topic is covered in the article body. -->
+| currency = [[United States dollar]]
+| currency_iso = USD
+| borrowing_rate = 0.25%<ref name="fed-discount-window">{{cite web|url=https://www.frbdiscountwindow.org/pages/discount-rates/current-discount-rates |title=The Federal Reserve Bank Discount Window & Payment System Risk Website|website=Federal Reserve System|access-date=March 16, 2020}}</ref> <!-- appears as "bank rate" in infobox, should be updated with Discount rate, NOT Federal Funds Rate -->
+| website = {{Official URL}}
+| footnotes = 
+| reserve_requirements = [[Reserve requirement#United States|None]]<ref name='fed-zero-rr'>{{cite web|url=https://www.federalreserve.gov/monetarypolicy/reservereq.htm|title=Reserve Requirements|website=Federal Reserve System|access-date=May 10, 2020}}</ref>
+| interest_rate_target = 0% to 0.25%<ref name="fomc-target">{{cite web|url=http://www.federalreserve.gov/monetarypolicy/openmarket.htm|title=Open Market Operations Archive|website=Federal Reserve System|access-date=March 16, 2020}}</ref><!-- Should be updated with Federal Funds Rate -->
+| deposit_rate = 0.10%<ref name="interestonreserves">{{cite web|url=http://www.federalreserve.gov/monetarypolicy/reqresbalances.htm|title=Interest on Required Reserve Balances and Excess Balances|website=Federal Reserve System|access-date=March 16, 2020}}</ref>
+| IOER = Yes
+| embed = {{Infobox government agency|child=yes
+|child1_agency = [[Federal Open Market Committee]]
+|jurisdiction = [[Federal government of the United States]]
+|keydocument1 = [[Federal Reserve Act]]}}
+}}

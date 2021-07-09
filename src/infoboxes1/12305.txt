@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of t -->
+|official_name = Compton, California
+|settlement_type = [[City (California)|City]]
+<!-- Images and maps ------>
+|image_skyline = {{Photomontage|position=center
+| photo1a = Compton martin luther king monument.jpg
+| photo1b = HSY- Los Angeles Metro, Compton, Platform View.jpg
+| photo2a = Compton High School billboard.jpg
+| photo2b = Entering compton.jpg
+| spacing = 2
+| color_border = white
+| color = white
+| size = 280
+| foot_montage = Clockwise from top: [[Martin Luther King Jr.|King]] Memorial, [[Compton station|Compton]] train platform, Compton [[obelisk]], [[Compton High School]]
+}}
+|image_seal = ComptonSeal.png
+|nickname = Hub City<ref>{{Cite web
+ | url = http://www.comptoncity.org/index.php/About-Compton/hub-city.htm
+ | title = Hub City – About Compton
+ | publisher = City of Compton
+ | access-date = December 16, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20150201173012/http://www.comptoncity.org/index.php/About-Compton/hub-city.htm
+ | archive-date = February 1, 2015
+ | df = mdy-all
+ }}</ref>
+|motto = Birthing a New Compton<ref>{{cite web|title=City Council Agenda|author=Compton City Council|date=March 5, 2013|access-date=February 16, 2015|page=17|url=http://www.comptoncity.org/agenda/2013/03_2013/130503/20778402272013062143181.pdf|url-status=dead|archive-url=https://web.archive.org/web/20150216214401/http://www.comptoncity.org/agenda/2013/03_2013/130503/20778402272013062143181.pdf|archive-date=February 16, 2015|df=mdy-all}}</ref>
+|image_map = File:Los Angeles County California Incorporated and Unincorporated areas Compton Highlighted 0615044.svg
+|map_caption = Location within Los Angeles County, California
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+| pushpin_map = Los Angeles#California#USA
+| pushpin_map_caption = Location within Los Angeles Metropolitan Area##Location within California##Location within the United States
+| pushpin_relief = 1
+| pushpin_label = Compton
+<!-- Location ------------->
+|coordinates   = {{coord|33|53|48|N|118|13|30|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flag|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->
+|established_title = [[Municipal corporation|Incorporated]]
+|established_date = May 11, 1888<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Government ----------->
+|government_type = [[Council-manager government|Council-Manager]]
+|leader_title = [[City Council]]<ref name=elected>{{Cite web
+ | url = http://www.comptoncity.org/officials/default.asp
+ | title = Elected Officials
+ | publisher = City of Compton
+ | access-date = February 12, 2016}}</ref>
+|leader_name = [[Mayor]]: [[Aja Brown]]&nbsp;([[Democratic Party (United States)|D]]) <br /> Michelle Chambers<br />  
+ Isaac Galvan (Mayor Pro-tempore)<br /> Tana McCoy <br /> Emma Sharif
+|leader_title1 = [[City Manager]]
+|leader_name1 = Craig J. Cornwell<ref>{{Cite web
+ | url =http://www.comptoncity.org/depts/manager/cmanage.asp
+ | title = City Manager
+ | publisher = City of Compton
+ | access-date = February 12, 2016}}</ref>
+|leader_title2 = City Attorney
+|leader_name2 = Damon Brown<ref name=elected/>
+|leader_title3 = [[City Treasurer]]
+|leader_name3 = Douglas Sanders<ref name=elected/>
+|leader_title4 = City Clerk
+|leader_name4 = Alita Godwin<ref name=elected/>
+<!-- Area ----------------->
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi = 10.12
+|area_total_km2 = 26.20
+|area_land_sq_mi = 10.03
+|area_land_km2 = 25.97
+|area_water_sq_mi = 0.09
+|area_water_km2 = 0.23
+|area_water_percent = 1.03
+<!-- Elevation ------------>
+|elevation_footnotes = <ref>{{Cite GNIS|1652689|Compton|access-date=December 3, 2014}}</ref>
+|elevation_ft = 69
+|elevation_m = 21
+<!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0615044.html|title=Compton (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 25, 2015|archive-url=https://www.webcitation.org/69ytOpHvf?url=http://quickfacts.census.gov/qfd/states/06/0615044.html|archive-date=August 17, 2012|url-status=dead}}</ref>
+|population_total = 96455
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 95605
+| population_rank         = [[List of largest California cities by population|78th]] in California
+|population_density_km2 = 3680.98
+<!-- Time zones ----------->
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = −8
+|timezone_DST = PDT
+|utc_offset_DST = −7
+<!-- Codes ---------------->
+|postal_code_type = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 20, 2014}}</ref>
+|postal_code = 90220–90224
+|area_code_type = [[North American Numbering Plan|Area codes]]
+|area_code = [[Area codes 310 and 424|310/424]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = {{FIPS|06|15044}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1652689}}, {{GNIS 4|2410213}}
+|website = {{URL|www.comptoncity.org}}
+|population_density_sq_mi = 9533.81
+}}

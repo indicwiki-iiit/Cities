@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Siddhicharan Municipality
+|other_name             =
+|native_name            = सिद्धिचरण नगरपालिका
+|nickname               =
+|settlement_type        = Municipality
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = File:Okhaldhunga.jpg
+|image_caption          =  Okhaldhunga Bajaar Entrance Hill within Siddhicharan Municipality (2018) 
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal Province1#Nepal
+|pushpin_label_position = top
+|pushpin_mapsize        = 300
+<!-- Location -->
+|pushpin_map_caption    = Location of Siddhicharan in map of Province No. 1
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Okhaldhunga District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Mohan Kumar Shrestha ([[Nepal Communist Party|NCP]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Ichha Kumari Gurung ([[Nepal Communist Party|NCP]])
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               = 
+|population_footnotes           =
+|population_note                =
+|population_total               = 
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               =  [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|27|19|N|86|30|E|type:city_region:NP|display=inline,title}}
+|elevation_footnotes    = 
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =+977
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = [http://siddhicharanmun.gov.np official website]
+|footnotes              = 
+}}

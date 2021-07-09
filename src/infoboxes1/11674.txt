@@ -1,0 +1,30 @@
+{{Infobox French commune
+|name                   = Dijon
+|commune status         = [[Prefectures in France|Prefecture]] and [[Communes of France|commune]]
+| image                 = {{Photomontage
+| photo1a = Panoramique palais duc de Bourgogne.jpg 
+| photo2a = Toits-dijonnais.jpg
+| photo3a = Parc Darcy Dijon.jpg
+| spacing = 2
+| border = 0
+| size = 276
+}}
+|caption                = From top to bottom: Palace of the Dukes and States of Burgundy, Panorama of the historical center seen from the [[Cathedral of Dijon]],  and the [[jardin Darcy]].
+|image coat of arms     = Coats of Arms of Dijon.svg
+|arrondissement         = Dijon
+|canton                 = [[Canton of Dijon-1|Dijon-1]], [[Canton of Dijon-2|2]], [[Canton of Dijon-3|3]],  [[Canton of Dijon-4|4]], [[Canton of Dijon-5|5]] and [[Canton of Dijon-6|6]]
+|INSEE                  = 21231
+|postal code            = 21000
+|mayor                  = [[François Rebsamen]] ([[Socialist Party (France)|PS]])
+|term                   = 2020&ndash;2026
+|intercommunality       = [[Dijon Métropole]]
+|coordinates            = {{coord|47.316667|5.016667|format=dms|display=inline,title}}
+|elevation m            = 245
+|elevation min m        = 220
+|elevation max m        = 410
+|area km2               = 40.41
+|population             = {{France metadata Wikidata|population_total}}
+|population date        = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+|website                = {{url|http://www.dijon.fr/}}
+}}

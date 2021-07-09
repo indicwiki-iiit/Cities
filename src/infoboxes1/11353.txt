@@ -1,0 +1,76 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Ivano-Frankivsk
+| native_name             = Івано-Франківськ
+| native_name_lang        = uk<!-- ISO 639-2 code e.g. "fr" for French. -->
+| other_name              = 
+| settlement_type         = [[City of regional significance (Ukraine)|City of regional significance]]
+| image_skyline           = {{Photomontage|position=center
+ | photo1a                       = Ratush-01.jpg
+ | photo2a                       = P1300688 вул. Січових Стрільців, 7.jpg
+ | photo2b                       = Держлісгосп - panoramio.jpg
+ | photo3a                       = Івано-Франківськ Франка, 17.jpg
+ | photo3b                       = Івано-Франківськ Страчених, 3.jpg
+   | size                       = 260
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Ivano-Frankivsk flag.svg
+| flag_link               = Flag of Ivano-Frankivsk
+| image_shield            = Ivano-Frankivsk Coat of Arms.png
+| shield_link             = Coat of arms of Ivano-Frankivsk
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Ukraine#Ukraine Ivano-Frankivsk Oblast
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location of Ivano-Frankivsk
+| coordinates             = {{coord|48|55|22|N|24|42|38|E|region:UA-26_type:adm2nd|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+ | subdivision_type = [[List of sovereign states|Country]]
+ | subdivision_name = {{UKR}}
+ | subdivision_type1 = [[Oblasts of Ukraine|Oblast]]
+ | subdivision_name1 = {{flag|Ivano-Frankivsk Oblast|name=Ivano-Frankivsk}}
+| subdivision_type2 = [[Raions of Ukraine|Raion]]
+ | subdivision_name2 = [[Ivano-Frankivsk Raion]]
+| parts_type              = Subdivisions
+| parts_style             = coll
+| p1                      = city municipalities
+| p2                      = town municipalities
+| p3                      = rural municipalities<br />-----
+| p4                      = '''Total settlements:'''<br />cities
+| p5                      = {{nowrap| urban-type settlements}}
+| p6                      = villages
+| p7                      = settlements
+| established_title       = Established
+| established_date        = 1663
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name              = {{Interlanguage link|Ruslan Martsinkiv|uk|Марцінків Руслан Романович}} ([[Svoboda (party)|Svoboda]])<ref name="hromadske.mer-ivano-frankivska"/>
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 83.7
+| elevation_footnotes     = 
+| elevation_m             = 244
+| population_footnotes    = 
+| population_total        = 237686
+| population_as_of        = 2020
+| population_density_km2  = auto
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[Ukrainian postal codes|Postal code]]
+| postal_code             = 76000–76030
+| area_code_type          = [[Area code#Ukraine|Area code]]
+| area_code               = +380 342
+| iso_code                = 
+| website                 = {{URL|mvk.if.ua}}
+| footnotes               = 
+|nickname =Franyk (Франик)
+}}

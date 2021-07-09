@@ -1,0 +1,32 @@
+{{Infobox language
+| name             = Japanese
+| nativename       = {{big|{{Nihongo2|日本語}}}}<br/>''Nihongo''
+| pronunciation    = {{nowrap|{{IPA|/nihoNɡo/}}: {{IPA|[ɲihoŋɡo]}}}}
+| states           = [[Japan]]
+| ethnicity        = [[Japanese people|Japanese]] {{smaller|([[Yamato people|Yamato]])}}
+| speakers         = ~128 million<!--(to nearest 5 million)-->
+| date             = 2020
+| ref              = ne2010
+| familycolor      = Altaic
+| fam1             = [[Japonic languages|Japonic]]
+| ancestor         = [[Old Japanese]]
+| ancestor2        = [[Early Middle Japanese]]
+| ancestor3        = [[Late Middle Japanese]]
+| ancestor4        = {{nowrap|[[Early Modern Japanese]]}}
+| script           = {{ublist |Mixed scripts of [[Kanji]] {{smaller|([[Chinese character]])}} and [[Kana]] {{smaller|([[Hiragana]], [[Katakana]])}} |[[Japanese Braille]]}}
+| nation           = {{flag|Japan}}<br/>{{flag|Palau}} ([[Angaur Island]])
+| minority         = {{flag|Palau}} ([[Angaur Island]])<br/>{{flag|Singapore}}
+| iso1             = ja
+| iso2             = jpn
+| iso3             = jpn
+| lingua           = 45-CAA-a
+| image            = Nihongo.svg
+| imagesize        = 75px
+| imagecaption     = {{longitem|{{transl|ja|Nihongo}} ('Japanese') in [[kanji]] in [[Japanese writing system|Japanese script]]}}
+| imageheader      = 
+| notice           = IPA
+| sign             = [[Signed Japanese]]
+| glotto           = nucl1643
+| glottoname       = excluding [[Hachijo language|Hachijo]]
+| glottorefname    = Japanese
+}}

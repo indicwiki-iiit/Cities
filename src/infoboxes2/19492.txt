@@ -1,0 +1,131 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = City of Patterson
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = Apricot Capital of the World<ref name="Guardian">
+{{Cite news
+ | url = https://www.theguardian.com/us-news/2017/apr/13/california-homelessness-silicon-valley-tech-commuters
+ | title = 'It's a perfect storm': homeless spike in rural California linked to Silicon Valley
+ | newspaper = [[The Guardian]]
+ | access-date = April 13, 2017| date = 2017-04-13
+ | last1 = Hepler
+ | first1 = Lauren
+ }}</ref>
+|settlement_type          = [[City (California)|City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Stanislaus_County_California_Incorporated_and_Unincorporated_areas_Patterson_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Stanislaus County, California|Stanislaus County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = California#USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_label = Patterson
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Stanislaus County, California|Stanislaus]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Dennis McCord
+|leader_title1            = District A
+|leader_name1             = Shivaugn Alves
+|leader_title2            = District B
+|leader_name2             = Al Parham
+|leader_title3            = District C
+|leader_name3             = Dominic Farinha
+|leader_title4            = District D
+|leader_name4             = Cynthia Homen
+
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = December 22, 1919<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 7.87
+| area_land_sq_mi         = 7.79
+| area_water_sq_mi        = 0.09
+| area_total_km2          = 20.39
+| area_land_km2           = 20.17
+| area_water_km2          = 0.22
+| area_water_percent      = 0
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 20413
+|population_density_km2   = 1116.85
+|population_density_sq_mi = 2892.51
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|28|23|N|121|7|58|W|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 31
+|elevation_ft             = 102
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95363
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 209|209]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|56112}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|277574}}
+|website                  = {{URL|www.ci.patterson.ca.us}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 22524
+}}

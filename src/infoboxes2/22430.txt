@@ -1,0 +1,85 @@
+{{Infobox settlement
+|name                     = Baker, California
+|official_name            = 
+|settlement_type          = [[Census designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 2010-0615-BakerCA.jpg
+|imagesize                = 
+|image_caption            = Aerial view of Baker looking north: I-15 jogs south around the town, leaving Baker Boulevard, the main street, to show where the pre-interstate highway ([[U.S. Route 91 (California)|US 91]] and [[U.S. Route 466 (California)|US 466]]) went. [[Baker Airport]] sits just north of the city alongside northbound [[California State Route 127|CA 127]], the "Death Valley Road".
+[[File:Baker California panorama.jpg|thumb|View of Baker from the east on I-15]]
+<!-- Maps -->
+|pushpin_map              = USA California
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of California
+|pushpin_mapsize          = 
+|image_map                = 
+|map_caption              = Location within San Bernardino county
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = <!-- Mayor -->
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+| area_total_sq_mi        = 2.69
+| area_land_sq_mi         = 2.69
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 6.96
+| area_land_km2           = 6.96
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+| area_note               =
+
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|2628708|Baker Census Designated Place|access-date=April 8, 2015}}</ref>
+|elevation_ft             = 942
+|elevation_m              = 287
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 735
+|population_density_km2   = NaN
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              = {{coord|35|16|33|N|116|03|57|W|type:city_region:US|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 92309
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|03512}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|238894}}, {{GNIS 4|2628708}}
+|website                  = 
+|footnotes                = {{gnis|2628708}}
+|pop_est_as_of = 2018
+|pop_est_footnotes = 
+|population_est = 835
+|population_density_sq_mi = NaN
+}}

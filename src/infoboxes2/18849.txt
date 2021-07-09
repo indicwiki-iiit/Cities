@@ -1,0 +1,77 @@
+{{Infobox settlement
+| official_name                   = City of Brawley
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Brawley city hall.JPG
+| imagesize                       = 
+| image_caption                   = City Hall of Brawley
+| image_seal                      = 
+| image_map                       = File:Imperial County California Incorporated and Unincorporated areas Brawley Highlighted 0608058.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Brawley in Imperial County, California.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_name1               = California
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Imperial County, California|Imperial]]
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = April 6, 1908<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=April 7, 2013
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+ |df=mdy
+}}</ref>
+<!-- Area------------------>
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 8.12
+| area_land_sq_mi                 = 8.12
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 21.02
+| area_land_km2                   = 21.02
+| area_water_km2                  = 0.00
+| area_water_percent              = 0
+| area_note                       = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1656443|Brawley}}</ref>
+| elevation_ft                    = -112
+| elevation_m                     = -34
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0608058.html|title=Brawley (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 25, 2015|archive-url=https://web.archive.org/web/20150226074406/http://quickfacts.census.gov/qfd/states/06/0608058.html|archive-date=February 26, 2015|url-status=dead|df=mdy-all}}</ref>
+| population_total                = 24953
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 26227
+| population_density_sq_mi        = 3230.72
+| population_metro                = 
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = −08:00
+| coordinates                     = {{coord|32|58|43|N|115|31|49|W|region:US-CA|display=inline,title}}
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −07:00
+| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 92227
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 442 and 760|442/760]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|08058}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1656443}}, {{GNIS 4|2409893}}
+| footnotes                       = 
+| website                         = {{URL|www.brawley-ca.gov}}
+| population_density_km2          = 1247.46
+}}

@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Hopa
+| image_skyline           = Centre of Hopa, province of Artvin, Turkey.jpg
+| image_caption           = Downtown Hopa
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|41|23|25|N|41|25|10|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Artvin Province|Artvin]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Republican People's Party|CHP]]
+| leader_title            = Mayor
+| leader_name             = Taner Ekmekçi
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Abdurrezzak Canpolat
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Artvin|Hopa}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Artvin}}
+| population_urban        = {{Turkey district populations|Artvin|Hopa|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Artvin|Hopa|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Humid subtropical climate|Cfa]]
+| postal_code_type        = Post code
+| postal_code             = 08600
+| website                 = {{URL| www.hopa.bel.tr | www.hopa.bel.tr }}
+}}

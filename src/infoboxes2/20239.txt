@@ -1,0 +1,15 @@
+{{Infobox website
+| name = {{Wiki favicon}} Japanese Wikipedia
+| screenshot = [[File:Current Japanese Wikipedia main page.png|280px|The [[Main Page]] of the Japanese Wikipedia on 3 April 2021.]]
+| collapsible = yes
+| logo = Wikipedia-logo-v2-ja.svg
+| logo_size = 140px
+| caption = Main Page of the Japanese Wikipedia in April 2021
+| url = [[:ja:|ja.wikipedia.org]]
+| commercial = No
+| type = [[Online encyclopedia]]
+| language = [[Japanese language|Japanese]]
+| registration = Optional
+| owner = [[Wikimedia Foundation]]
+| launch_date = {{start date and age|2001|5|11}}
+}}

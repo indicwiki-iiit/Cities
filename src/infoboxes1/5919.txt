@@ -1,0 +1,123 @@
+{{Infobox settlement
+|name                   = {{raise|0.2em|Wenzhou}}
+|official_name          = 
+|other_name             = Yujeu, Iu Tsiu
+|native_name            = {{lower|0.1em|温州市}}
+|native_name_lang = zh-Hans
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Vue générale de Wenzhou.JPG
+|imagesize              =  
+|image_caption          = City view of Wenzhou
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = ChinaZhejiangWenzhou.png
+|mapsize1               =
+|map_caption1           = Location of Wenzhou City jurisdiction in Zhejiang
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =  
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name    = People's Republic of China
+|subdivision_type1      = [[Provinces of the People's Republic of China|Province]]
+|subdivision_name1      = [[Zhejiang]]
+|subdivision_type2      = [[County-level division]]s
+|subdivision_name2      = 9
+|seat_type              = Municipal seat
+|seat                   = [[Lucheng District, Wenzhou|Lucheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[Party chief of the Communist Party of China|CPC Ctte Secretary]]
+|leader_name            =[[Chen Weijun]] ({{lang|zh-hans|陈伟俊}})
+|leader_title1          =[[Acting Mayor]]
+|leader_name1           =[[Yao Gaoyuan (politician)|Yao Gaoyuan]] ({{lang|zh-hans|姚高员}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = 12255.74<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_percent       =
+|area_urban_km2           = 1243.4
+|area_metro_km2           = 
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes      =  <!--for references: use <ref> </ref> tags-->
+|elevation_m              =
+|elevation_ft             =
+|elevation_max_m          =
+|elevation_min_m          =
+|elevation_min_ft         =
+<!-- Population   ----------------------->
+|population_as_of               = 2017 Estimate
+|population_footnotes           =<ref name="census10">{{cite web |url=http://www.wenzhou.gov.cn/art/2011/5/10/art_4247_166018.html |script-title=zh:温州市2010年第六次全国人口普查主要数据公报 |access-date=2011-08-24 |date=2011-05-10 |publisher=Wenzhou Municipal Statistic Bureau | language = zh-hans |archive-url=https://web.archive.org/web/20110927075644/http://www.wenzhou.gov.cn/art/2011/5/10/art_4247_166018.html |archive-date=27 September 2011 |url-status=dead |df=dmy-all }}</ref>
+|population_note                =
+|population_total               = 9,190,000
+|population_density_km2         =<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               = 6,642,592
+|population_blank1              =[[List of cities in the People's Republic of China by population|15th]]
+|population_density_metro_km2   = 
+|population_urban               = 3,039,439
+|population_density_urban_km2   =auto
+|population_blank1_title        = Rank in China
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Wenzhou municipal government
+|coordinates            = {{coord|27.9938|N|120.6993|E|type:adm2nd_region:CN-33_source:Gaode|format=dms|display=it}}
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 325000
+|area_code              = 0577
+|blank_name             =[[GDP]] (2018)<ref>{{cite web|url=http://www.wenzhou.gov.cn/art/2018/3/20/art_1214432_16296500.html|script-title=zh:产业经济|access-date=1 September 2017|df=dmy-all|archive-url=https://web.archive.org/web/20180518094604/http://www.wenzhou.gov.cn/art/2018/3/20/art_1214432_16296500.html|archive-date=18 May 2018|url-status=live}}</ref>
+|blank_info             = {{CNY|link=yes|600.6 billion}}<br />({{USD|links=yes|90.63 billion}})
+|blank1_name            =GDP per capita
+|blank1_info            = {{CNY|65,288}}<br />({{USD|9,862}})
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]]
+|blank2_info            ={{lang|zh-cn|浙C}}
+|iso_code = [[ISO 3166-2:CN|CN-ZJ-03]]
+|blank4_name            = [[Chinese language|Spoken language]]
+|blank4_info            = [[Wenzhounese]]
+|blank5_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank5_info            =
+|website                = [http://www.wenzhou.gov.cn www.wenzhou.gov.cn]
+|footnotes              =
+}}

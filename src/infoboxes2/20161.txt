@@ -1,0 +1,111 @@
+{{Infobox country
+| conventional_long_name = Republic of Iraq
+| native_name = {{unbulleted list|{{native name|ar|جمهورية العراق|italics=off}}|{{native name|ku|کۆماری عێراق|italics=off}}}}
+| common_name = Iraq
+| image_flag = Flag of Iraq.svg
+| image_coat = Coat_of_arms_of_Iraq.svg
+| image_map = Iraq (orthographic).svg
+| national_motto = {{native phrase|ar|الله أكبر|italics=off}}<br />"[[Takbir|Allahu Akbar]]"&nbsp;{{small|([[transliteration]])<br />"God is the Greatest"}}
+| national_anthem = "[[Mawtini (Ibrahim Tuqan song)|Mawṭinī]]"<br />{{lang|ar|"موطني"}}<br />({{Lang-en|"My Homeland"}})<br /><div style="display:inline-block;margin-top:0.4em;">{{center|[[File:United States Navy Band - Mawtini.ogg]]}}</div>
+| capital = [[Baghdad]]
+| coordinates = {{Coord|33|20|N|44|23|E|type:city_region:IQ}}
+| largest_city = capital
+| official_languages = {{hlist |[[Modern Standard Arabic|Arabic]]|[[Kurdish languages|Kurdish]]<ref name=Constitution>[https://web.archive.org/web/20110304074809/http://www.iraqinationality.gov.iq/attach/iraqi_constitution.pdf Iraq, Ministry of Interior - General Directorate for Nationality: Iraqi Constitution (2005)]</ref>
+}}
+| languages2_type = {{ubl|Recognised regional languages}}
+| languages2 = {{ubl|[[Iraqi Turkmen#Language|Turkmen]]|[[Northeastern Neo-Aramaic|Neo-Aramaic]]|[[Armenian language|Armenian]]<ref name=cia />}}
+| religion = {{unbulleted list
+ | 98% [[Islam in Iraq|Islam]] 
+ | 1% [[Christianity in Iraq|Christianity]]
+ | 1% Other
+ }}
+| demonym = [[Iraqis|Iraqi]]
+| government_type = [[Federal parliamentary republic]]
+| leader_title1 = [[President of Iraq|President]]
+| leader_name1 = [[Barham Salih]]
+| leader_title3 = [[Prime Minister of Iraq|Prime Minister]]
+| leader_name3 = [[Mustafa Al-Kadhimi]] 
+| leader_title4 = [[List of Speakers of the Council of Representatives of Iraq|Speaker]]
+| leader_name4 = [[Mohamed al-Halbousi]]
+| leader_title5 = [[Federal Supreme Court of Iraq|Chief Justice]]
+| leader_name5 = [[Medhat al-Mahmoud]]
+| legislature = [[Council of Representatives of Iraq|Council of Representatives]]
+| area_rank = 58th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_km2 = 438,317
+| area_sq_mi = 169,234 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| percent_water = 4.62 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=11 October 2020|publisher=Organisation for Economic Co-operation and Development (OECD) |url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_estimate = {{UN_Population|Iraq}}{{UN_Population|ref}}
+| population_estimate_rank = 36th
+| population_estimate_year = {{UN_Population|Year}}
+| population_census = 
+| population_census_year = 
+| population_density_km2 = 82.7
+| population_density_sq_mi = 183.9 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| population_density_rank = 125th
+| GDP_PPP = $399.400billion<ref name=imf3>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=433&s=PPPGDP,&sy=2020&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=14 March 2020}}</ref>
+| GDP_PPP_rank = 46
+| GDP_PPP_year = 2020
+| GDP_PPP_per_capita = $17,952<ref name=imf4>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=433,&s=PPPPC,&sy=2020&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=14 March 2020}}</ref>
+| GDP_PPP_per_capita_rank = 111th
+| GDP_nominal_year = 2019
+| GDP_nominal = $250.070 billion<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=37&pr.y=17&sy=2016&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=433&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a= |title=World Economic Outlook Database, October 2018 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=7 March 2019}}</ref>
+| GDP_nominal_rank = 48th
+| GDP_nominal_per_capita = $6,116<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 97th
+| sovereignty_type = Establishment
+| established_event1 = [[Sumer]]
+| established_date1 = 4500 BC
+| established_event2 = [[Akkadian Empire]]
+| established_date2 = 2334 BC
+| established_event3 = [[Assyria|Assyrian Empire]]
+| established_date3 = 2025 BC
+| established_event4 = [[Babylonia|Babylonian Empire]]
+| established_date4 = 1895 BC
+| established_event5 = [[Achaemenid Assyria]]
+| established_date5 = 439 BC
+| established_event6 = [[Kingdom of Hatra|Kingdom of Araba]]
+| established_date6 = 101 AD
+| established_event7 = [[Mesopotamia (Roman province)|Roman Mesopotamia]]
+| established_date7 = 198
+| established_event8 = [[Asoristan|Sasanian Mesopotamia]]
+| established_date8 = 226
+| established_event9 = [[Lakhmids|Lakhmid Kingdom]]
+| established_date9 = 300
+| established_event10 = [[Abbasid Caliphate]]
+| established_date10 = 750
+| established_event11 = [[Siege of Baghdad (1258)|Sack of Baghdad]]
+| established_date11 = 1258
+| established_event12 = [[Ottoman Iraq]]
+| established_date12 = 1534
+| established_event13 = [[Mandate for Mesopotamia|British Mandate]]
+| established_date13 = 1920
+| established_event14 = [[Kingdom of Iraq]]
+| established_date14 = 3 October 1932
+| established_event15 = [[14 July Revolution|Republic declared]]
+| established_date15 = 14 July 1958
+| established_event16 = {{nowrap|[[Constitution of Iraq|Current constitution]]}}
+| established_date16 = 15 October 2005
+| Gini_year = 2012
+| Gini_change = <!--increase/decrease/steady-->
+| Gini = 29.5 <!--number only-->
+| Gini_ref = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=World Bank GINI index |publisher=Data.worldbank.org |access-date=17 August 2016 }}</ref>
+| Gini_rank = 
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = decrease<!--increase/decrease/steady-->
+| HDI = 0.674 <!--number only-->
+| HDI_ref = <ref>{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 123rd
+| currency = [[Iraqi dinar]]
+| currency_code = IQD
+| time_zone = [[UTC+03:00#Arabia Standard Time|AST]]
+| utc_offset = +3
+| drives_on = right
+| calling_code = [[Telephone numbers in Iraq|+964]]
+| cctld = [[.iq]]
+| footnote_a = Constitution of Iraq, Article 4 (1st).
+| today = 
+|ethnic_groups={{unbulleted list
+  | 75%-80% [[Arabs|Arab]]
+  | 15%-20% [[Kurds|Kurd]]
+  | 10%-13% [[Iraqi Turkmen|Turkmen]]
+  | 5% [[Demographics of Iraq|Others]] }}|ethnic_groups_year=2019<ref name=cia /><ref>{{Cite web|url=https://www.al-monitor.com/pulse/originals/2018/10/turkey-iraq-new-administration-excludes-turkmens.html|title = Why Iraqi Turkmens are excluded from the new government}}</ref>}}

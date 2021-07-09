@@ -1,0 +1,52 @@
+{{Infobox Australian place
+| type                = city
+| name                = Townsville
+| state               = qld
+| image               = Ross River flowing through Townsville CBD.jpg
+| caption             = [[Ross Creek (Townsville, North Queensland)|Ross Creek]] flowing through Townsville CBD with [[Castle Hill, Townsville|Castle Hill]] in the background.
+| coordinates         = {{coord|19|15|23|S|146|49|6|E|display=it}}
+| pushpin_label_position = left
+| pop                 = 180820
+| pop_year            = 2018
+| pop_footnotes       = <ref name="ABSSUA"/>
+| poprank             = 13th
+| density             =
+| density_footnotes   =
+| est                 = 1865
+| postcode            = 4810
+| elevation           =
+| elevation_footnotes =
+| area                = 693.3
+| area_footnotes      = <ref name="ABSSUAProf">{{Census 2016 AUS|id=3016|name=Townsville|access-date=15 August 2018}}</ref> (2016 urban)
+| timezone            = [[UTC+10:00|AEST]]
+| utc                 = +10
+| mayor               = [[Jenny Hill (politician)|Jenny Hill]]
+| dist1               = 1348
+| dir1                =
+| location1           = [[Brisbane]]
+| dist2               = 348
+| dir2                =
+| location2           = [[Cairns]]
+| dist3               = 1267
+| dir3                =
+| location3           = [[Sunshine Coast, Queensland|Sunshine Coast]]
+| dist4               = 1434
+| dir4                =
+| location4           = [[Gold Coast, Queensland|Gold Coast]]
+| lga                 = City of Townsville
+| region              =
+| county              = [[County of Elphinstone|Elphinstone]]
+| stategov            = [[Electoral district of Townsville|Townsville]]
+| stategov2           = [[Electoral district of Thuringowa|Thuringowa]]
+| stategov3           = [[Electoral district of Mundingburra|Mundingburra]]
+| stategov4           = [[Electoral district of Burdekin|Burdekin]]
+| stategov5           = [[Electoral district of Hinchinbrook|Hinchinbrook]]
+| fedgov              = [[Division of Herbert|Herbert]]
+| fedgov2              = [[Division of Dawson|Dawson]]
+| maxtemp             = 28.9
+| maxtemp_footnotes   = <ref name="Climate statistics Townsville"/>
+| mintemp             = 19.8
+| mintemp_footnotes   = <ref name="Climate statistics Townsville"/>
+| rainfall            = 1134.7
+| rainfall_footnotes  = <ref name="Climate statistics Townsville"/>
+}}

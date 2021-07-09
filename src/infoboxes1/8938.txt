@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Hoeryong}}
+| native_name             = {{lower|0.1em|{{nobold|회령시}}}}
+| native_name_lang        = ko
+| official_name           = 
+| settlement_type         = [[List of cities in North Korea|Municipal City]]
+| translit_lang1          = Korean
+| translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+| translit_lang1_info    = {{linktext|회|령|시}}
+| translit_lang1_type1    = [[Hancha]]
+| translit_lang1_info1    = {{linktext|會|寧|市}}
+| translit_lang1_type2    = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info2    = Hoeryŏng-si
+| translit_lang1_type3    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3    = Hoeryeong-si
+| image_skyline           = Hoeryong North Korea.JPG
+| imagesize               = 
+| image_map               = DPRK2006 Hambuk-Hoiryong.PNG
+| image_caption           = Hoeryong City Centre
+| map_caption             = Map
+of North Hamgyong showing the location of Hoeryong
+| image_map1              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=12|frame-lat=42.44|frame-long=129.75}}
+| pushpin_map             = North Korea
+| pushpin_map_caption     = Location within North Korea
+| coordinates             = {{coord|42|26|N|129|45|E|region:KP_type:city|display=title, inline}}
+| subdivision_type        = Country
+| subdivision_name        = [[North Korea]]
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[North Hamgyong Province]]
+| area_total_km2          = 
+| population_as_of        = 2008
+| population_total        = 153,532
+| population_density_km2  = 
+| population_blank1_title        = Dialect
+| population_blank1              = [[Hamgyŏng dialect|Hamgyŏng]]
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 19 ''tong'', 28 ''ri''
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+}}

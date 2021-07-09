@@ -1,0 +1,46 @@
+{{Infobox Australian place
+| type               = City
+| name               = Central Coast
+| City               = 
+| state              = NSW
+| image              = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtTPOh0NpYOLbx7xzhZEepqADPn7pFY2fCA&usqp=CAU
+| caption            = Aerial view of [[Booker Bay, New South Wales|Booker Bay]], a suburb of the Central Coast region
+| relief   = 1
+| pop                = 354915 
+| pop_year           = 2021
+| pop_footnotes      = <ref name=ABSSUA/>
+| poprank            = 10th
+| density            = 
+| density_footnotes  = 
+| est                = 2005
+| postcode           = 2250, 2251, 2253, 2256, 2257, 2258, 2259, 2260, 2261, 2262, 2263, 2264, 2775
+| coordinates        = {{coord|33|17|57|S|151|11|32|E|display= inline,title}}
+| area               = 566.4
+| area_footnotes     = <ref name=ABSSUAList>{{cite web |title = Significant Urban Area (SUA) ASGS Edition 2016 in .csv Format |url = https://www.abs.gov.au/ausstats/subscriber.nsf/log?openagent&1270055004_sua_2016_aust_csv.zip&1270.0.55.004&Data%20Cubes&06739F6BDEE5A9D0CA2581B1000E0A05&0&July%202016&09.10.2017&Latest |website = abs.gov.au |publisher = [[Australian Bureau of Statistics]] |access-date = 26 May 2019 |date = 9 October 2017 }}</ref>
+| timezone           = [[Australian Eastern Standard Time|AEST]]
+| utc                = +10
+| timezone-dst       = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst            = +11
+| dist1              = 77
+| dir1               = N
+| location1          = [[Sydney]]{{NoteTag|name=distances}}
+| dist2              = 76
+| dir2               = SW
+| location2          = 
+| lga                = [[Central Coast Council (New South Wales)|Central Coast Council]]
+| stategov           = [[Electoral district of Gosford|Gosford]]
+| stategov2          = [[Electoral district of Wyong|Wyong]]
+| stategov4          = [[Electoral district of Terrigal|Terrigal]]
+| stategov5          = [[Electoral district of The Entrance|The Entrance]]
+| fedgov             = [[Division of Dobell|Dobell]]
+| fedgov2            = [[Division of Robertson|Robertson]]
+| fedgov3            = [[division of Shortland|Shortland]]
+| near-nw            = [[Hunter Region|Upper Hunter]]
+| near-n             = [[Hunter Region|Hunter]]
+| near-ne            = ''Tasman Sea''
+| near-w             = [[Greater Blue Mountains Area]]
+| near-e             = ''Tasman Sea''
+| near-sw            = [[Hills District]]
+| near-s             = [[Forest District (Sydney)|Forest District]]
+| near-se            = [[Northern Beaches]]
+}}

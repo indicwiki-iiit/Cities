@@ -1,0 +1,69 @@
+{{Infobox settlement
+| name                   = Cusco
+| official_name          = {{lang|es|Cusco}} or {{lang|es|Cuzco}}<br/> {{native name|qu|Qusqu}}
+| nickname               = {{lang|es|La Ciudad Imperial}} (The Imperial City), {{lang|es|El Ombligo del Mundo}} (The Navel of the World)
+| motto                  = 
+| image_skyline          = Cusco, Peru.png
+| image_size             = 285
+| image_caption          = Top: Plaza de Armas, Middle left: [[Sacsayhuamán]], Middle right: [[Qurikancha]], Bottom left: View of the colonial houses, Bottom right: Museum, Bottom: Aerial view of Cusco
+| image_flag             = Flag of Cusco.svg
+| flag_size              = 100px
+| image_shield           = Escudo de Cusco.png
+| image_map              = Cuzco-distritos.png
+| mapsize                = 200px
+| map_caption            = Districts of Cusco
+| pushpin_map            = Peru
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location within Peru
+| subdivision_type       = Country
+| subdivision_name       = [[Peru]]
+| subdivision_type1      = [[Administrative divisions of Peru|Region]]
+| subdivision_name1      = [[Cusco Region|Cusco]]
+| subdivision_type2      = [[Provinces of Peru|Province]]
+| subdivision_name2      = [[Cusco Province|Cusco]]
+| government_type        = 
+| leader_title           = Mayor
+| leader_name            = Víctor G. Boluarte Medina
+| established_title      = Founded
+| established_date       = 1100
+| established_title2     = <!-- Incorporated (town) -->
+| established_date2      = 
+| established_title3     = <!-- Incorporated (city) -->
+| established_date3      = 
+| area_footnotes         = 
+| area_total_km2         = 385.1
+| pop_est_as_of          = 2015
+| pop_est_footnotes      = <ref>{{cite report |url=http://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib1020/cuadros/c0206.xls |title=Perú: Población estimada al 30 de junio y tasa de crecimiento de las ciudades capitales, por departamento, 2011 y 2015 |work=Perú: Estimaciónes y proyecciones de población total por sexo de las principales ciudades, 2012–2015 |publisher=Instituto Nacional de Estadística e Informática |date=March 2012 |access-date=2015-06-03}}</ref>
+| population_est         = 427218
+| population_as_of       = 2017
+| population_footnotes   = 
+| population_note        = 
+| settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+| population_total       = 428450
+| population_density_km2 = auto
+| population_demonym     = {{lang|es|cuzqueño/a}}, {{lang|es|cusqueño/a}}
+| timezone               = PET
+| utc_offset             = -5
+| timezone_DST           = <!-- No -->
+| utc_offset_DST         = <!-- No -->-5
+| coordinates            = {{coord|13|31|30|S|71|58|20|W|region:PE|display=inline,title}}
+| elevation_footnotes    = <!--for references: use tags-->
+| elevation_m            = 3399
+| elevation_ft           = 
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 84
+| footnotes              = {{designation list | embed=yes
+  | designation1            = WHS
+  | designation1_offname    = City of Cuzco
+  | designation1_date       = 1983 <small>(7th [[World Heritage Committee|session]])</small>
+  | designation1_type       = Cultural
+  | designation1_criteria   = iii, iv
+  | designation1_number     = [http://whc.unesco.org/en/list/273/ 273]
+  | designation1_free1name  = State Party
+  | designation1_free1value = Peru
+  | designation1_free2name  = Region
+  | designation1_free2value = [[List of World Heritage Sites in South America|Latin America and the Caribbean]]
+ }}
+| website                = {{Official URL}}
+}}

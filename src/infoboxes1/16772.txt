@@ -1,0 +1,113 @@
+{{Infobox settlement
+|name                     = Poway
+|settlement_type          = [[City (California)|City]]
+|official_name            = City of Poway
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = "The City in the Country!"
+|image_skyline            = TwinPeaksPoway1.jpg
+|imagesize                = 
+|image_caption            = The Twin Peaks above Poway in August 2004.
+|image_flag               = Flag of Poway, California.png
+|flag_size                = 
+|image_seal               = Seal of Poway, California.png
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|image_map                = San_Diego_County_California_Incorporated_and_Unincorporated_areas_Poway_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in San Diego County
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA California San Diego County#USA California Southern#USA California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Diego County, California|San Diego]]
+|government_type          = [[Council-Manager]]
+|governing_body           = {{Collapsible list
+ |title=[[City council]]<ref name=cc>{{Cite web
+  | url = http://poway.org/163/City-Council
+  | title = City Council
+  | publisher = Poway, CA
+  | access-date = May 1, 2015}}</ref>
+ |1=[[Steve Vaus]] (mayor)
+ |2=Dave Grosch ([[deputy mayor]])
+ |3=Caylin Frank
+ |4=John Mullin
+ |5=Barry Leonard
+ }}
+|leader_title4            = [[City manager]]
+|leader_name4             = Chris Hazeltine<ref>{{Cite web
+ | url = https://poway.org/Directory.aspx?EID=15
+ | title = Official Website
+ | publisher = Poway, CA
+ | access-date = January 13, 2015}}</ref>
+|established_title        = Founded
+|established_date         = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = December 1, 1980<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = February 21, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 39.16
+| area_land_sq_mi         = 39.08
+| area_water_sq_mi        = 0.09
+| area_total_km2          = 101.44
+| area_land_km2           = 101.21
+| area_water_km2          = 0.22
+| area_water_percent      = 0.22
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1661258|Poway|access-date=December 30, 2014}}</ref>
+|elevation_ft             = 515
+|elevation_m              = 157
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0658520.html|title=Poway (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 8, 2015|archive-url=https://web.archive.org/web/20150413094228/http://quickfacts.census.gov/qfd/states/06/0658520.html|archive-date=April 13, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_total         = 47811
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 49323
+|population_density_sq_mi = 1262.14
+|population_metro         = 
+|population_density_metro_sq_mi = 
+|population_demonym       = Powegian
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = −08:00
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −07:00
+|coordinates              = {{coord|32|58|12|N|117|02|19|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 92064, 92074
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 858|858]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = {{FIPS|06|58520}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1661258}}, {{GNIS 4|2411480}}
+|website                  = {{URL|www.ci.poway.ca.us}}
+|footnotes                = 
+|population_density_km2 = 487.31
+}}

@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Kaysville, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = KaysvilleUtah.jpeg
+|imagesize                = 
+|image_caption            = Kaysville City Municipal Center
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Davis County Utah incorporated and unincorporated areas Kaysville highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Davis County, Utah|Davis County]] and the state of [[Utah]]
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Davis County, Utah|Davis]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Katie Witt
+|established_title        = Settled
+|established_date         = 1849
+|named_for                = William Kay, a pioneer settler<ref>{{cite news | url=https://news.google.com/newspapers?id=sa9SAAAAIBAJ&sjid=c38DAAAAIBAJ&pg=2503%2C5092871 | title=You name it - there's a town for it | work=The Deseret News | date=Jan 22, 1977 | access-date=18 October 2015 | author=Van Atta, Dale | pages=W6}}</ref>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 27.31
+|area_land_km2            = 27.20
+|area_water_km2           = 0.11
+|area_total_sq_mi         = 10.54
+|area_land_sq_mi          = 10.50
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 27368
+|population_est           = 32390
+|pop_est_as_of            = 2019
+|population_density_km2   = 1190.94
+<!--for 2018 pop est.-->
+|population_density_sq_mi = 3084.47
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1328
+|elevation_ft             = 4357
+|coordinates              = {{coord|41|1|59|N|111|56|10|W|region:US-UT_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84037
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-40360<ref name="GR2" />
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1442285<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.kaysvillecity.com}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

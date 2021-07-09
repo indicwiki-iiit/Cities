@@ -1,0 +1,36 @@
+{{Infobox settlement 
+<!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Kyustendil
+| settlement_type        = Town
+| native_name            = Кюстендил
+| image_skyline          = Kyustendil-view-and-Konyavska-mountain.jpg
+| image_caption          = 
+| image_shield           = Kyustendil-coat-of-arms.svg
+| map_caption            = Location of Kyustendil
+| pushpin_map            = Bulgaria
+| pushpin_label_position = 
+| pushpin_map_caption    = Location of Kyustendil
+| coordinates            = {{coord|42|17|N|22|41|E|region:BG|display=inline,title}}
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = [[Bulgaria]]
+| subdivision_type1      = [[Provinces of Bulgaria|Province]]<br />{{small|(Oblast)}}
+| subdivision_name1      = [[Kyustendil Province|Kyustendil]]
+| leader_title           = Mayor
+| leader_name            = Petar Paunov
+| area_total_km2         = 28.72
+| area_urban_km2         = 979.91
+| elevation_m            = 560
+| population_footnotes   = 
+| population_total       = 44532
+| population_as_of       = Census February 2011
+| population_density_km2 = auto
+| population_urban       = 60681
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST         = +3
+| postal_code_type       = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code            = 2500
+| area_code              = 078
+| registration_plate     = [[Bulgarian car number plates|KH]]
+}}

@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = İdil
+| image_skyline           = Idil 1290994.jpg	
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|37|20|30|N|41|53|30|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Şırnak Province|Şırnak]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Peoples' Democratic Party (Turkey)|HDP]]
+| leader_title            = Mayor
+| leader_name             = Songül Erdem
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Zafer Sağ
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Şırnak|İdil}}
+| elevation_m             = 
+| population_footnotes    = <ref>{{cite web |url=https://www.nufusune.com/idil-ilce-nufusu-sirnak|title=İDİL NÜFUSU, ŞIRNAK|access-date=11 August 2020|website=Türkiye Nüfusu|language=tr}}</ref>
+| population_urban        = 29,097
+| population_as_of        = 2019
+| population_blank1_title = District
+| population_blank1       = 76,895
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 733xx
+| website                 = {{URL| www.idil.bel.tr | www.idil.bel.tr }}
+}}

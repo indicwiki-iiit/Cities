@@ -1,0 +1,41 @@
+{%- macro demographics() -%}
+==జనాభా వివరాలు==
+	{% if population_density != "None" -%}
+	{{city_name}}లో ఒక చదరపు కిలోమీటరుకు {{population_density}} జనం నివసిస్తున్నారు.{{" "}}
+	{%- else -%}
+	{{"\n"}}
+	{%- endif -%}
+
+	{%- set population_line =[
+						 population_acc_to_year +' సంవత్సరానికి  ఈ నగరంలో '+population+' మంది ప్రజలు నివసిస్తున్నారు.',
+						 population_acc_to_year+' సంవత్సరానికి ఇక్కడి జనాభా '+ population +'.'
+					] | random
+	-%}
+
+	{%- if population!="None" -%}
+	{%- if population_acc_to_year != "None" -%}
+	{{population_line}}{{" "}}
+	{%- else -%}
+	ఈ నగరంలో {{population}} మంది ప్రజలు నివసిస్తున్నారు.{{" "}}
+	{%- endif -%}
+	{%- endif -%}
+
+	{%- if population_rank != "None" -%}
+	{%- if population_rank == "1" -%}
+	{{city_name}} {{country_name}} లో అత్యధిక జనాభా కలిగి ఉన్న  నగరం.{{" "}}
+	{%- else -%}
+	{{city_name}} {{country_name}} లో {{population_rank}}వ  అత్యధిక జనాభా కలిగి ఉన్న నగరం.{{" "}}
+	{%- endif -%}
+	{%- endif -%}
+
+	{%- if demonym != "None" -%}
+	ఈ నగర వాసులని {{demonym}} గా పిలుస్తారు.{{" "}} 
+	{%- endif -%}
+
+	{%- if unemployment_rate != "None" -%}
+    ఇక్కడ {{unemployment_rate}} శాతం నిరుద్యోగ రేటు ఉంది.{{" "}}
+    {%- endif -%}
+
+{%- endmacro -%}
+
+{{-demographics()-}}

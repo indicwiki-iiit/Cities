@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = El Jadida
+| native_name                     = Maziɣen
+| other_name                      = الجديدة / مازيغن 
+| settlement_type                 = 
+| image_skyline                   = {{Photomontage
+| photo1a = Forteresse Jadida 01.JPG
+| photo2a = El Jadida.jpg
+| photo2b = Builiding Jdida.JPG
+| photo3a = El Jadida, Mazagan.jpg
+| photo3b = Fantasia EL Jadida Morocco.jpg
+| photo4a = Citerne portugaise d'el jadida.jpg
+| photo4b = Mazagan (El Jadida).jpg
+| photo5a = CisternyElDjad.jpg
+| size = 275
+| spacing = 2
+| color = black
+| border = 0
+}}
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| nickname                        = 
+| motto                           = <!-- images and maps  ----------->
+| image_map                       = El Jadida panorama.jpg
+| mapsize                         = 300px
+| map_caption                     = View from El Jadida
+| pushpin_map                     = Morocco#Africa
+| pushpin_relief                  = 1
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Morocco
+<!-- Location ------------------>| coordinates                     = {{coord|33|14|N|8|30|W|region:MA|display=inline}}
+| subdivision_type                = Country
+| subdivision_name                = [[Morocco]]
+| subdivision_type1               = [[Regions of Morocco|Region]]
+| subdivision_type2               = [[Provinces of Morocco|Province]]
+| subdivision_type3               = 
+| subdivision_name1               = [[Casablanca-Settat]]
+| subdivision_name2               = [[El Jadida Province|El Jadida]]
+| subdivision_name3               = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| area_footnotes                  = 
+| area_total_km2                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| population_total                = 220 181
+| population_rank                 = [[List of cities in Morocco|15th in Morocco]]
+| population_as_of                = 2019
+| population_footnotes            = <ref name="rgph2014-1" /><ref name="rgph2014-2" /><ref name="rgph2014-3" /><ref>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}}</ref>
+| population_density_km2          = 
+| population_density_sq_mi        = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = Ethnicities
+| population_blank1               = <!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| unemployment_rate               = 
+| website                         = 
+| footnotes                       = {{designation list | embed=yes
+  | designation1 = WHS
+  | designation1_offname = Portuguese City of Mazagan (El Jadida)
+  | designation1_date = 2004 <small>(28th [[World Heritage Committee|session]])</small>
+  | designation1_type = Cultural
+  | designation1_criteria   =ii, iv
+  | designation1_number = [https://whc.unesco.org/en/list/1058 1058]
+  | designation1_free1name = State Party
+  | designation1_free1value = [[Morocco]]
+  | designation1_free2name = Region
+  | designation1_free2value = [[List of World Heritage Sites in the Arab States|Arab States]]
+}}
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| official_name                   = 
+}}

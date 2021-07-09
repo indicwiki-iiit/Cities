@@ -1,0 +1,61 @@
+{{Infobox river
+| name               = Rio Grande
+| name_native        = 
+| name_native_lang   = 
+| name_other         = ''Río Bravo del Norte, {{spell-nv|Tooh Baʼáadii}} {{in lang|nv}}, Kótsoi {{in lang|apj}}''
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = Rio_Grande_in_Big_Bend_NP.jpg
+| image_size         = 300
+| image_caption      = The Rio Grande at [[Big Bend National Park]],<br />on the Mexico–U.S. border
+| map                = Riogranderivermap.png
+| map_size           = 300
+| map_caption        = Map of the Rio Grande drainage basin
+| pushpin_map        = 
+| pushpin_map_size   = 
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[United States]], [[Mexico]]
+| subdivision_type2  = State
+| subdivision_name2  = [[Colorado]], [[New Mexico]], [[Texas]], [[Chihuahua (state)|Chihuahua]], [[Coahuila]], [[Nuevo León]], [[Tamaulipas]]
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = 
+| subdivision_name5  = 
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|1896|mi|km|abbr=on}}<ref name=tsha/> 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= [[Eagle Pass, Texas]]/[[Piedras Negras, Coahuila]]<ref name="ibwc">{{cite web |url= http://www.ibwc.gov/Water_Data/water_bulletins.html |title= Water Bulletin Number 75: Flow of the Rio Grande and Related Data; From Elephant Butte Dam, New Mexico to the Gulf of Mexico |year= 2005 |publisher= [[International Boundary and Water Commission]] |access-date= July 17, 2010}}</ref>
+| discharge1_min     = {{convert|24|cuft/s|m3/s|abbr=on}}
+| discharge1_avg     = {{convert|2403|cuft/s|m3/s|abbr=on}}<ref name="ibwc"/>
+| discharge1_max     = {{convert|964000|cuft/s|m3/s|abbr=on}}
+<!---------------------- BASIN FEATURES -->
+| source1            = Main stem source: Canby Mountain, [[Continental Divide of the Americas|Continental Divide]]
+| source1_location   = [[San Juan Mountains]], [[Rio Grande National Forest]],<ref name=tsha/> [[Colorado]], [[United States]]
+| source1_coordinates= {{coord|37|47|52|N|107|32|18|W|display=inline}}<ref name=gnis>{{Cite GNIS|1385432|Rio Grande}}</ref>
+| source1_elevation  = {{convert|12000|ft|abbr=on}}<ref name=tsha/>
+| source2            = Most distant source: Pole creek, Unnamed peak 13450, [[Continental Divide of the Americas|Continental Divide]]
+| source2_location   = [[San Juan Mountains]], [[Rio Grande National Forest]],<ref name=tsha/> [[Colorado]], [[United States]]
+| source2_coordinates= {{coord|37|51|6|N|107|25|28|W|display=inline}}
+| source2_elevation  = {{convert|12760|ft|abbr=on}}
+| mouth              = [[Gulf of Mexico]]
+| mouth_location     = [[Cameron County, Texas]]; [[Matamoros, Tamaulipas]]
+| mouth_coordinates  = {{coord|25|57|22|N|97|8|43|W|display=inline,title}}<ref name=gnis/>
+| mouth_elevation    = {{convert|0|ft|abbr=on}}
+| progression        = 
+| river_system       = 
+| basin_size         = {{convert|182200|sqmi|abbr=on}}<ref name=nasqan/>
+| tributaries_left   = [[Red River (New Mexico)|Red River]], [[Rio Hondo (Northern New Mexico)|Rio Hondo]], [[Rio Pueblo de Taos]], [[Embudo River]], [[Santa Fe River (New Mexico)|Santa Fe River]], [[Galisteo Creek]], [[Alamito Creek]], [[Terlingua Creek]], [[Pecos River]], [[Devils River (Texas)|Devils River]]
+| tributaries_right  = [[Conejos River]], [[Rio Chama]], [[Jemez River]], [[Rio Puerco (Rio Grande tributary)|Rio Puerco]], [[Rio Conchos]], [[Rio Salado (Mexico)|Rio Salado]], [[Rio Alamo]], [[San Juan River (Tamaulipas)|San Juan River]]
+| custom_label       = 
+| custom_data        = 
+| extra              = 
+}}

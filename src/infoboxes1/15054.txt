@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name = Līgatne
+| native_name =
+| native_name_lang = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type = Town
+| image_skyline =
+| image_alt =
+| image_caption =
+| image_flag =
+| flag_alt =
+| image_seal =
+| seal_alt =
+| image_shield = Ligatne gerb.png
+| shield_alt =
+| etymology =
+| nickname =
+| motto =
+| image_map =
+| map_alt =
+| map_caption =
+| pushpin_map = Latvia
+| pushpin_label_position = above
+| pushpin_map_alt =
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|57|14|N|25|03|E|region:LV_type:city|display=inline,title}}
+| coor_pinpoint =
+| coordinates_footnotes =
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| subdivision_type1 = [[Administrative divisions of Latvia|Municipality]]
+| subdivision_name1 = [[Līgatne Municipality]]
+| established_title = [[Town privileges]]
+| established_date = 1993
+| founder =
+| seat_type =
+| seat =
+| government_footnotes =
+| leader_party =
+| leader_title =
+| leader_name =
+| unit_pref = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref>tags -->
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_metro_footnotes = <!--<ref></ref> -->
+| area_note =
+| area_rank =
+<!-- square kilometers -->
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_metro_km2 =
+| elevation_m =
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_density_km2 = auto
+| population_note =
+| population_demonym =
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+| postal_code_type = [[Postal codes in Latvia|Postal code]]
+| postal_code = LV-4110
+| area_code_type = [[Telephone numbers in Latvia|Area code]]
+| area_code = +371 641
+| iso_code =
+| website = {{URL|ligatne.lv}}
+| footnotes =
+}}

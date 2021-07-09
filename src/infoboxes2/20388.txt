@@ -1,0 +1,36 @@
+{{Infobox body of water
+|name = Lake Baikal
+|pushpin_map=Russia Irkutsk Oblast#Russia
+|image = Baikal.A2001296.0420.250m-NASA.jpg
+|caption = Satellite photo of Baikal, 2001
+|image_bathymetry = Karte baikal2.png
+|caption_bathymetry = 
+|location = [[Siberia]], [[Russia]]
+|coords = {{Coord|53|30|N|108|0|E|region:RU-BU_type:waterbody_scale:5000000|display=inline,title}}
+|lake_type = [[Ancient lake]], [[Rift lake|Continental rift lake]]
+|inflow = [[Selenga]], [[Barguzin (river)|Barguzin]], [[Upper Angara]]
+|outflow = [[Angara]]
+|catchment = {{convert|560000|km2|-3|abbr=on}}
+|basin_countries = [[Mongolia]] and [[Russia]]
+|length = {{convert|636|km|abbr=on}}
+|width = {{convert|79|km|abbr=on}}
+|area = {{convert|31722|km2|abbr=on}}<ref name="INTAS">{{cite web|url= http://users.ugent.be/~mdbatist/intas/morphometry.htm|title= A new bathymetric map of Lake Baikal. Morphometric Data. INTAS Project 99-1669. Ghent University, Ghent, Belgium; Consolidated Research Group on Marine Geosciences (CRG-MG), University of Barcelona, Spain; Limnological Institute of the Siberian Division of the Russian Academy of Sciences, Irkutsk, Russian Federation; State Science Research Navigation-Hydrographic Institute of the Ministry of Defense, St. Petersburg, Russian Federation |publisher= Ghent University, Ghent, Belgium|access-date= 9 July 2009}}</ref>
+|depth = {{convert|744.4|m|abbr= on}}<ref name="INTAS"/>
+|residence_time = 330 years<ref>{{cite web |author= M.A. Grachev |url= http://lin.irk.ru/grachev/eng/introduction.htm |title= On the present state of the ecological system of lake Baikal |publisher= Limnological Institute, Siberian Division of the Russian Academy of Sciences |access-date= 9 July 2009 |url-status= dead |archive-url= https://web.archive.org/web/20110820023119/http://lin.irk.ru/grachev/eng/introduction.htm |archive-date= 20 August 2011}}</ref>
+|max-depth = {{convert|1642|m|abbr= on}}<ref name="INTAS"/>
+|volume = {{convert|23615.39|km3|cumi|-1|abbr= on}}<ref name="INTAS"/>
+|shore = {{convert|2100|km|-1|abbr= on}}
+|elevation = {{convert|455.5|m|0|abbr=on}}
+|islands = 27 ([[Olkhon Island]])
+|cities = [[Severobaykalsk]], [[Slyudyanka]], [[Baykalsk]], [[Ust-Barguzin]]
+|frozen = January–May
+|reference = 
+|extra = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |ID = 754
+  |Year = 1996
+  |Criteria = Natural: vii, viii, ix, x
+  |Area = 8,800,000 ha
+  }}
+}}

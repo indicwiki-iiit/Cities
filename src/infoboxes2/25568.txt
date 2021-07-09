@@ -1,0 +1,28 @@
+{{Infobox settlement
+| name                    = Svoge
+| native_name             = Своге
+| native_name_lang        = bul
+| settlement_type         = Town
+| image_skyline           = Svoge-station.jpg
+| image_caption           = View from the "Three Pines" area
+| image_shield            = Svoge gerb.svg
+| pushpin_map             = Bulgaria
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location of Svoge within Bulgaria
+| coordinates             = {{coord|42|58|N|23|21|E|type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Bulgaria]]
+| subdivision_type1       = [[Provinces of Bulgaria|Province]]
+| subdivision_name1       = [[Sofia Province|Sofia]]
+| subdivision_type2       = [[Municipalities of Bulgaria|Municipality]]
+| subdivision_name2       = [[Svoge Municipality|Svoge]]
+| leader_title            = Mayor
+| leader_name             = Emil Ivanov
+| unit_pref               = Metric
+| area_total_km2          = 21,932
+| elevation_m             = 679
+| population_as_of        = 2015
+| population_total        = 8,258
+| population_density_km2  = auto
+| postal_code             = 2260
+}}

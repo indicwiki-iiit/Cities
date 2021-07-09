@@ -1,0 +1,121 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Iringa
+|other_name             = Iringa Town
+|native_name            =  <!-- for cities whose native name is not in English --> LILINGA
+|nickname               = STONE TOWN
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =iringa.JPG
+|imagesize              =  
+|image_caption          = Hilltop view of Iringa
+|image_flag             = 
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     = 
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Tanzania <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_mapsize        =
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Tanzania
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Tanzania}}
+|subdivision_type1      = [[Regions of Tanzania|Region]]
+|subdivision_name1      = [[Iringa Region|Iringa]]
+|subdivision_type2      =[[Districts of Tanzania|District]]
+|subdivision_name2      = [[Iringa Urban]]
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =democratic
+|leader_title           = [(Member of Parliament)]
+|leader_name            =[(mchungaji Msigwa)]
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->[(Region commissioner)]
+|leader_name1           =[(Ally Hapi)]
+|leader_title2          =[(District commissioner)]
+|leader_name2           =[(Richard kasesela)]
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2012 census
+|population_footnotes           = <ref name=pop>[https://www.citypopulation.de/en/tanzania/cities/ Citypopulation.de] Population of cities & urban localities in Tanzania</ref>
+|population_note                =
+|population_total               = 151345
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+|coordinates            = {{coord|7|46|S|35|42|E|region:TZ|display=inline}}
+|timezone               =[[East Africa Time]] 
+|utc_offset             = +3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

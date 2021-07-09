@@ -1,0 +1,43 @@
+{{Infobox station
+| name                = Kami-Furano Station
+| native_name         = 上富良野駅
+| native_name_lang    = ja
+| symbol_location     = 
+| symbol              = 
+| type                = [[Hokkaido Railway Company|JR-Hokkaido]] [[commuter rail]] station
+| image               = JR Furano-Line Kami-Furano Station building.jpg
+| alt                 = Nishinaka Station in August 2017
+| caption             = Nishinaka Station in August 2017
+| address             = 1, Nakamachi 1-chome, [[Kamifurano, Hokkaido|Kamifurano]]
+| borough             = [[Hokkaido]]
+| country             = {{plainlist|
+* Japan
+* {{Nihongo2|（北海道空知郡上富良野町中町1丁目1）}}
+}}
+| coordinates         = {{Coord|43|27|50.81|N|142|28|7.56|E|type:railwaystation_region:JP-01|display=title, inline}}
+| owned               = [[File:JR_logo_(hokkaido).svg|13px]] [[Hokkaido Railway Company]]
+| operator            = [[File:JR_logo_(hokkaido).svg|13px]] [[Hokkaido Railway Company]]
+
+| line                = {{color|#aa5ea6|■}} [[Furano Line]]
+| distance            = {{convert|39.7|km|mile|abbr=on}} from {{STN|Asahikawa}}
+| platforms           = 2 side platform
+| tracks              = 2
+| train_operators     = [[File:JR_logo_(hokkaido).svg|13px]] [[Hokkaido Railway Company]]
+| connections         = 
+| structure           = 
+| parking             = 
+| bicycle             = 
+| disabled            = 
+| code                = F39
+| website             = {{URL|1=http://www.jrhokkaido.co.jp/network/station/station.html#4456|2=Official webcite}}
+| opened              = {{Start date|1899|11|15|df=y}}
+| closed              = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| passengers          = 
+| pass_year           = 
+| map_type            = Japan
+| services            = 
+{{s-rail|title=JR Hokkaido}}
+{{j-route|route= {{color|#aa5ea6|■}} [[Furano Line]]|col=#eee}}
+{{j-rserv|service=Local|previous={{STN|Nishinaka}}<br /><small>Toward {{STN|Furano}}</small>|next={{STN|Bibaushi}}<br /><small>Toward {{STN|Asahikawa}}</small>|col=gray}}
+|services_collapsible = yes
+}}

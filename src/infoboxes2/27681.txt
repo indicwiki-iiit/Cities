@@ -1,0 +1,26 @@
+{{Infobox settlement
+|official_name = Belogradchik
+|subdivision_type = Country
+|subdivision_name = Bulgaria
+|subdivision_type1 = [[Provinces of Bulgaria|Provinces]]<br /><small>(Oblast)</small>
+|subdivision_name1=Vidin
+|image_shield = Belogradchik-coat-of-arms.jpg
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Belogradchik|
+|pushpin_map =Bulgaria <!-- the name of a location map as per [[Template:Location map]] -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption =Location of Belogradchik
+|pushpin_mapsize =
+|coordinates            = {{coord|43|37|N|22|41|E|region:BG|display=inline,title}}
+|leader_title =Mayor
+|postal_code_type =[[List of postal codes in Bulgaria|Postal Code]]
+|population_total=5,334
+|population_as_of=31.12.2009 <ref name="statistika" />
+|elevation_m=522
+|postal_code=3900
+|area_code=0936
+|leader_name=Boris Nikolov
+}}

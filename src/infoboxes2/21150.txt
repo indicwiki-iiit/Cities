@@ -1,0 +1,40 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Berezan
+| native_name             = Березань
+| native_name_lang        = uk
+| settlement_type         = Town
+<!-- images, nickname, motto --->
+| image_flag              = 
+| image_shield            =Coat of Arms of Berezan.png
+| image_skyline = File:У центрі Березані на Київщині.JPG
+| image_caption = The center of Berezan
+<!-- maps and coordinates ------>
+| pushpin_map             = Ukraine
+| pushpin_map1             = Ukraine Kiev Oblast
+| coordinates             = {{coord|50|19|11|N|31|28|12|E|format=dms|display=inline,title}}
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Ukraine]]
+| subdivision_type1       = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1       = [[Kyiv Oblast]]
+<!-- established --------------->
+| established_title       = First reference
+| established_date        = 1616
+| established_title1      = Incorporated (town)
+| established_date1       = 1981
+<!-- area ---------------------->
+| area_land_km2           = 32.92
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 16383
+| population_as_of        = 2020
+<!-- postal codes, area code --->
+| postal_code_type        = [[Postal code]]|
+| postal_code             = 07540 — 07543
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = +380 4576
+| website                 = http://www.berezan.com.ua
+| leader_title                    = [[Mayor]]
+| leader_name                     = Volodymyr Tymchenko<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2020/11/2/7272115/ The second round will be held in the city of Kyiv region: "servant" against the EU representative], [[Ukrayinska Pravda]] (2 November 2020)</ref>
+}}

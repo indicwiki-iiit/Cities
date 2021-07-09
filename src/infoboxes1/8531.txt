@@ -1,0 +1,46 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Sidon
+| native_name                     = صيدا
+| native_name_lang                = ar
+| other_name                      = Saida
+| settlement_type                 = [[List of cities and towns in Lebanon|City]]
+| image_skyline                   = Sidon 004.jpg
+| imagesize                       = 275px
+| image_caption                   = 
+| image_flag                      = 
+| pushpin_map                     = Lebanon#West Asia <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 275
+| pushpin_relief                  = yes
+| pushpin_map_caption             = Location in Lebanon
+| coordinates                     = {{coord|33|33|38|N|35|23|53|E|region:LB|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Lebanon]]
+| subdivision_type1               = [[Governorates of Lebanon|Governorate]]
+| subdivision_name1               = [[South Governorate, Lebanon|South Governorate]]
+| subdivision_type2               = [[Districts of Lebanon|District]]
+| subdivision_name2               = [[Sidon District]]
+| established_title               = Settled
+| established_date                = [[3rd millennium BC]]
+| leader_title                    = 
+| leader_name                     = <!-- Area    --------------------->
+| unit_pref                       = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2                  = 7.82
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_metro_km2                  = 25
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = 
+| population_footnotes            = 
+| population_total                = ~80000
+| population_density_km2          = 
+| population_metro                = ~266,000
+<!-- General information  --------------->| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+<!-- Area/postal codes & others -------->| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| website                         = {{URL|http://www.sidon.com}}
+}}

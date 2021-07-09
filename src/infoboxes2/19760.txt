@@ -1,0 +1,86 @@
+{{Infobox settlement
+|official_name            = Del City, Oklahoma
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = Del City Flag.jpg
+|image_seal               = Del City Seal.jpg
+
+<!-- Maps -->
+|image_map        = Oklahoma County Oklahoma Incorporated and Unincorporated areas Del City highlighted.svg
+|map_caption       = Location in [[Oklahoma County, Oklahoma|Oklahoma County]] and the state of [[Oklahoma]].
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|County]]
+|subdivision_name2        = [[Oklahoma County, Oklahoma|Oklahoma County]]
+
+<!-- established --------------->
+| established_title1      = Settled
+| established_date1       = 1940s
+| established_title2      = [[Municipal corporation|Incorporated]]
+| established_date2       = October 9, 1948
+| established_title3      = 
+| established_date3       = 
+| extinct_title           = 
+| extinct_date            = 
+| founder                 = George I. Epperly
+| named_for               = Delaphene Campbell
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = Mayor
+|leader_name              = Floyd Eason
+|leader_title1            = [[City Manager]]
+|leader_name1             = Mike Cantrell
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 19.47
+|area_land_km2            = 19.47
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 7.52
+|area_land_sq_mi          = 7.52
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 21332
+|population_density_km2   = 1115.04
+|population_density_sq_mi = 2888.00
+|pop_est_as_of     = 2019
+|population_est           = 21712
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 366
+|elevation_ft             = 1201
+|coordinates              = {{coord|35|26|34|N|97|26|28|W|region:US-OK|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 73115, 73135
+|area_code                = [[Area code 405|405]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-19900<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website |df=mdy }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1092026<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = [http://www.cityofdelcity.com/ City of Del City]
+|footnotes                = 
+}}

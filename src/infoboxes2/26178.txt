@@ -1,0 +1,22 @@
+{{Infobox Australian place | type = town
+| name                   = Wauchope
+| state                  = nsw
+| image                  = Wauchope 2.jpg
+| caption                = Library and war memorial clock, Wauchope, NSW.
+| coordinates            = {{coord|31|27|0|S|152|44|0|E|display=inline,title}}
+| pushpin_label_position = left
+| lga                    = Port Macquarie-Hastings Council
+| county                 = [[Macquarie County, New South Wales|Macquarie]]
+| postcode               = 2446
+| est                    = 1836
+| pop                    = 6002| pop_year = {{CensusAU|2006}} (7,500 including King Creek and Redbank)
+| pop_footnotes = <ref name="abs">{{Census 2006 AUS | id = SSC19327 | name = Wauchope (State Suburb)|accessdate=6 September 2007|quick=on}}</ref>
+| elevation              = 20
+| maxtemp                = 
+| mintemp                = 
+| rainfall               = 
+| stategov               = [[Electoral district of Oxley (New South Wales)|Oxley]]
+| fedgov                 = [[Division of Lyne|Lyne]]
+| dist1                  = 19
+| location1              = Port Macquarie
+}}

@@ -1,0 +1,64 @@
+{{Infobox settlement
+| native_name       = {{native name|sr-Cyrl|Босилеград|italics=off}}<br>
+{{native name|bg|Босилеград|italics=off}}
+| native_name_lang  = Serbia
+| official_name     = Bosilegrad
+| other_name        = 
+| settlement_type   = [[List of cities in Serbia|Town]] and [[Municipalities and cities of Serbia|municipality]]
+| image_shield      = Grb Bosilegrada.png
+| image_flag        = File:Bosilegradzastava.png
+| image_skyline     = {{Photomontage|position=center
+|photo1a = Bosilegrad-house-03.jpg
+|photo1b = Bosilegrad-school-3.jpg
+|photo2a = Bosilegrad-entrance.jpg
+|photo2b = Vasil Levski Bosilegrad.jpg
+|photo3a = Bosilegrad-church-01.jpg
+|photo3b = Bosilegrad-fountains.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+|foot_montage = }}
+| image_caption     = 
+| image_map         = File:Municipalities of Serbia Bosilegrad.png
+| map_caption       = Location of the municipality of Bosilegrad within Serbia
+| mapsize           = 
+| coordinates       = {{coord|42|30|N|22|28|E|region:RS|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Serbia}}
+| subdivision_type1       = [[Subdivisions of Serbia|Region]]
+| subdivision_name1       = [[Southern and Eastern Serbia]]
+| subdivision_type2       = [[Districts of Serbia|District]]
+| subdivision_name2       = [[Pčinja District|Pčinja]]
+| parts_type        = Settlements
+| parts_style       = para
+| p1                = 37
+| leader_title      = Mayor
+| leader_name       = Vladimir Zaharijev
+| leader_party      = [[Democratic Party of Serbia|DSS]]
+| area_blank1_title = Town
+| area_blank1_km2   = 18.37
+| area_blank2_title = Municipality
+| area_blank2_km2   = 571
+| area_footnotes    = <ref>{{Serbian municipalities 2006}}</ref>
+| elevation_m       = 696
+| population_footnotes = <ref>{{Serbian census 2011}}</ref>
+| population_as_of  = 2011 census
+| population_blank1_title = Town
+| population_blank1 = 2,624
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipality
+| population_blank2 = 8,129
+| population_density_blank2_km2 = auto
+| timezone          = [[Central European Time|CET]]
+| utc_offset        = +1
+| timezone_DST      = [[Central European Summer Time|CEST]]
+| utc_offset_DST    = +2
+| postal_code_type  = [[Postal codes in Serbia|Postal code]]
+| postal_code       = 17540
+| area_code_type    = [[Telephone numbers in Serbia|Area code]]
+| area_code         = +381(0)17
+| blank_name        = [[Vehicle registration plates of Serbia|Car plates]]
+| blank_info        = VR
+| website           = {{url|www.bosilegrad.org}}
+}}

@@ -1,0 +1,45 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of districts of Turkey|District]] of [[Muğla Province]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{Flag|Turkey}}
+|timezone=[[Eastern European Summer Time|EEST]]
+|utc_offset=+3
+|map_caption =Location of Marmaris within Turkey.
+|timezone_DST=
+|utc_offset_DST=
+|official_name = Marmaris
+|image_skyline = Marmaris_harbor_(aerial_view),_Muğla_Province,_southwest_Turkey,_Mediterranean.jpg
+|image_caption = [[Marmaris Castle|Castle]] and harbour of Marmaris
+|imagesize=260px
+|image_blank_emblem =
+|blank_emblem_type =
+|subdivision_type1=[[Regions of Turkey|Region]]
+|subdivision_name1 = [[Aegean Region|Aegean]]
+|subdivision_type2=[[Provinces of Turkey|Province]]
+|subdivision_name2 = [[Muğla Province|Muğla]]
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Muğla|Marmaris}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Muğla}}
+| population_urban        = {{Turkey district populations|Muğla|Marmaris|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Muğla|Marmaris|toplam}}
+| population_density_blank1_km2  = auto
+|elevation_m =7
+|pushpin_map =Turkey#Europe#Mediterranean 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_relief                  = 1
+|pushpin_map_caption    =Location of Marmaris
+|pushpin_mapsize        = 260
+|coordinates             = {{coord|36|51|N|28|16|E|region:TR|display=inline,title}}
+|postal_code_type=[[Postal code]]
+|postal_code = 48700
+|registration_plate=[[Turkish car number plates|48]]
+|area_code = (0090)+ 252
+|leader_title = Mayor
+|leader_name = Mehmet Oktay
+|leader_party = [[Republican People's Party (Turkey)|CHP]]
+|leader_name1 =
+|website = {{URL|http://www.marmaris.bel.tr}}<br>{{URL|http://www.marmaris.gov.tr}}
+}}

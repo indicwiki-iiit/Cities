@@ -1,0 +1,40 @@
+{{Infobox bridge
+| image =File:GoldenGateBridge-001.jpg
+| image_size = 270px
+| caption = 
+| official_name = Golden Gate Bridge
+| carries = 6 lanes of {{jct|state=CA|US|101|CA|1}}&nbsp;([[#Traffic|see below]]), pedestrians and bicycles
+| crosses = [[Golden Gate]]
+| locale = [[San Francisco]], [[California]] and [[Marin County, California|Marin County]], California, U.S.
+| maint = [[Golden Gate Bridge, Highway and Transportation District]]<ref>{{cite web|title=About Us|url=http://goldengate.org/organization/|website=goldengate.org|publisher=Golden Gate Bridge, Highway and Transportation District|access-date=November 27, 2017|language=en}}</ref>
+| engineering = [[Joseph Strauss (engineer)|Joseph Strauss]], [[Charles Alton Ellis|Charles Ellis]], [[Leon Solomon Moisseiff]] 
+| architect = [[Irving Morrow]]
+| design = [[Suspension bridge|Suspension]], [[Art Deco]], [[Truss arch bridge|truss arch]] & [[Truss bridge|truss causeways]]
+| mainspan ={{convert|4200|ft|m|1|abbr=on}},<ref name="Denton"/> about 0.79 miles (1.28 km)
+| length = {{convert|8980|ft|m|1|abbr=on}},<ref name=structurae>{{Structurae|id=20000029|title=Golden Gate Bridge}}</ref> about {{convert|1.7|mi|km|1|abbr=on}}
+| width = {{convert|90|ft|m|1|abbr=on}}
+| height = {{convert|746|ft|m|1|abbr=on}}
+| clearance = {{convert|14|ft|m|1|abbr=on}} at toll gates, trucks cannot pass
+| below = {{convert|220|ft|m|1|abbr=on}} at high [[tide]]
+| traffic = 110,000<ref name="dailycrossings">{{cite web |url=http://goldengatebridge.org/research/crossings_revenues.php |title=Annual Vehicle Crossings and Toll Revenues, FY 1938 to FY 2011 |publisher=Golden Gate Bridge, Highway and Transportation District |access-date=December 23, 2012}}</ref>
+| material = Steel
+| begin = {{start-date|January 5, 1933}}
+| complete = {{end-date|April 19, 1937}}
+| open = {{start date and age|1937|May|27|mf=yes}}
+| closed =
+| toll = Cars (southbound only) <br /> $8.35 (Pay by plate), $7.35 ([[FasTrak]]), $5.35 (carpools during peak hours, FasTrak only)
+| map_image = San_Francisco_Bay_Bridges_map_en.svg
+| map_caption = Golden Gate Bridge within the San Francisco Bay Area (westernmost bridge)
+| coordinates = {{coord|37|49|11|N|122|28|43|W|display=inline,title}}
+| map_type            = 
+| map_relief          = yes<!-- Use the relief map, if it exists -->
+| extra                = {{Designation list
+  | embed = yes
+  | designation1 = California
+  | designation1_number = 974
+  | designation1_date = June 18, 1987<ref name=CHL>{{cite ohp|974|Golden Gate Bridge|2012-10-08}}</ref>
+  | designation2 = San Francisco
+  | designation2_number = 222
+  | designation2_date = May 21, 1999<ref name=SFLandmark>{{cite web |title=City of San Francisco Designated Landmarks |publisher=City of San Francisco |url=http://www.sf-planning.org/Modules/ShowDocument.aspx?documentid=5081 |access-date=October 21, 2012 |archive-url=https://web.archive.org/web/20140325040805/http://sf-planning.org/Modules/ShowDocument.aspx?documentid=5081 |archive-date=March 25, 2014 |url-status=dead }}</ref>
+  }}
+}}

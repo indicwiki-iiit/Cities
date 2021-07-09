@@ -1,0 +1,46 @@
+{{Infobox settlement
+| name = Krāslava
+| other_name =
+| settlement_type = Town
+| image_shield =Coat_of_Arms_of_Krāslava.svg
+| shield_size =
+| image_flag =
+| flag_size =
+| image_skyline = Kraslava (pilsetas centrs).jpg
+| imagesize =
+| image_caption = Krāslava town centre
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| subdivision_type1 = [[Administrative divisions of Latvia|Municipality]]
+| subdivision_name1 = [[Krāslava Municipality]]
+| established_title = [[Town rights]]
+| established_date = 1923
+| pushpin_map = Latvia
+| pushpin_label_position = left
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|55|53|N|27|10|E|region:LV_type:city|display=inline,title}}
+| nickname =
+| leader_title =
+| leader_name =
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_metro_km2 =
+| elevation_m =
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_metro =
+| population_density_km2 = auto
+| population_density_metro_km2 =
+| postal_code_type = [[Postal code]]
+| postal_code = LV-560(1–3)
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = +371 656
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+}}

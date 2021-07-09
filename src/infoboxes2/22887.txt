@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Wells Branch, Texas
+|settlement_type          = [[Census-designated place|CDP]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = TXMap-doton-WellsBranch.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Wells Branch, Texas
+|image_map1               = Travis County WellsBranch.svg
+|mapsize1                 = 250px
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Travis County, Texas|Travis]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 6.6
+|area_land_km2            = 6.6
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 2.5
+|area_land_sq_mi          = 2.5
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 12120
+|population_density_km2   = auto
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 250
+|elevation_ft             = 820
+|coordinates              = {{coord|30|26|38|N|97|40|42|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[Zip Code]]
+|postal_code              = 78728
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-77196<ref>{{cite web|url=https://www.census.gov/quickfacts/fact/table/wellsbranchcdptexas/fips#fips|title=Geography|work=[[US Census Bureau]]|access-date=July 17, 2019}}</ref>
+
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1867571<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = 
+|footnotes                = 
+}}

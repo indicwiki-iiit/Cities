@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Tiznit
+|other_name             = Tiznet
+|native_name            = {{native name|ar|تزنيت}}<br/>{{native name|ber|ⵜⵉⵣⵏⵉⵜ}}
+|nickname               = 
+|settlement_type        =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = Tiznit Gate.jpg
+| photo2a = Tiznit 85000, Morocco - panoramio (2).jpg
+| photo2b = Tiznit 85000, Morocco - panoramio (1).jpg
+| photo3a = Tiznit place2.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}  
+|imagesize              =300px
+|image_caption          =
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in Morocco
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_name1      = [[Souss-Massa]]
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_name2      = [[Tiznit Province|Tiznit]]
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2014
+|population_footnotes           =<ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |accessdate=29 September 2017}}</ref>
+|population_note                =
+|population_total               =74699
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Western European Time|WET]] 
+|utc_offset             =  +0
+|timezone_DST           = [[Western European Summer Time|WEST]]
+|utc_offset_DST         = +1
+|coordinates            = {{coord|29|43|N|9|43|W|region:MA|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

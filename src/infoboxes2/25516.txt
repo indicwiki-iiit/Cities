@@ -1,0 +1,109 @@
+{{Infobox settlement
+| name                     = Briarcliff Manor, New York
+| native_name              = 
+| other_name               = [[Administrative divisions of New York (state)#Village|Village]] of Briarcliff Manor
+<!-- images, nickname, motto -->
+| image_skyline            = BriarcliffManorCompilation2.png
+| image_size               = 260px
+| image_caption            = Clockwise from top: the Village Center; village pool at Law Memorial Park; [[Briarcliff High School]]; [[Briarcliff Manor Public Library]]; village clock and Municipal Building.
+| image_alt                = A medley of different scenes to represent the diversity of the village. At top is a photo of a street on the village's business district. Above center, right shows the Village Pool as part of Law Memorial Park. Below center, right shows Briarcliff Manor's high school. At the bottom is the village library, part of which was once Briarcliff's train station. Center, left shows the central business district with Briarcliff Manor's pocket park and clock in the foreground, and the old Municipal Building in the background.
+| image_blank_emblem       = BriarcliffRose.jpg
+| blank_emblem_type        = Village symbol
+| blank_emblem_alt         = A ''Briarcliff'' Rose
+| blank_emblem_size        = 80px
+| image_seal               = Seal of the Village of Briarcliff Manor.png
+| seal_type                = Village seal
+| seal_alt                 = Circular seal with a central image of the coat of arms of New York, with a Native American to the left and a Colonial-era soldier to the right.
+| motto                    = A village between two rivers
+| nickname                 = Briarcliff
+| named_for                = The Irish family home "Brier Cliff"
+<!-- location -->
+| subdivision_type         = Country
+| subdivision_name         = [[United States]]
+| subdivision_type1        = State
+| subdivision_name1        = [[New York (state)|New York]]
+| subdivision_type2        = Region
+| subdivision_name2        = [[Hudson Valley]]
+| subdivision_type3        = County
+| subdivision_name3        = [[Westchester County, New York|Westchester]]
+| subdivision_type4        = Municipality
+| subdivision_name4        = [[Mount Pleasant, New York|Mount Pleasant]] and [[Ossining (town), New York|Ossining]]
+| parts_type               = Parts
+| parts                    = Chilmark and Scarborough
+<!-- maps and coordinates -->
+| image_map                = {{Maplink|frame=yes|plain=y|frame-width=300|frame-height=200|frame-align=center|stroke-width=3|zoom=11|frame-lat=41.142|frame-long=-73.850|type=shape-inverse|stroke-color=#7e7e7e|fill=#7e7e7e|id=Q3452629|title=Briarcliff Manor}}
+| map_caption              = Interactive map of Briarcliff Manor's location
+| coordinates              = {{WikidataCoord|Q3452629|region:US-NY_type:city|display=inline}}
+| coordinates_footnotes    = 
+<!-- government type, leaders -->
+| leader_title             = Mayor
+| leader_name              = Steven A. Vescio
+| leader_party             = People's Caucus
+| leader_title1            = [[Town Council|Board]]
+| leader_name1             = {{Collapsible list|title=Trustees|Peter S. Chatzky|Cesare J. DeRose, Jr.|Kevin Hunt|Edward E. Midgley}}
+| seat                     = Briarcliff Manor Village Hall, <small>1111 Pleasantville Road, {{coord|41|08|56|N|73|49|43|W|display=inline}}</small>
+<!-- established -->
+| established_title        = Settled
+| established_date         = <!--no source found yet-->
+| established_title1       = Incorporation
+| established_date1        = 1902
+| founder                  = [[Walter William Law]]
+<!-- area -->
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| dunam_link               = 
+| area_total_km2           = 17.70
+| area_total_sq_mi         = 6.83
+| area_land_sq_mi          = 6.00
+| area_water_sq_mi         = 0.84
+<!-- elevation -->
+| elevation_footnotes      = 
+| elevation_m              = 
+| elevation_ft             = 351
+| elevation_max_footnotes  = <!-- for references: use <ref> tags -->
+| elevation_max_m          = 
+| elevation_max_ft         = 533
+| elevation_max_point      = {{coord|41|09|24|N|73|50|46|W|display=inline}}
+| elevation_max_rank       = 
+| elevation_min_footnotes  = 
+| elevation_min_m          = 
+| elevation_min_ft         = 0
+| elevation_min_point      = [[Hudson River]]
+| elevation_min_rank       = 
+<!-- population -->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = 
+| population_total         = 7867
+| population_density_km2   = 521.25
+| population_density_sq_mi = 1350.13
+| population_demonym       = 
+<!-- time zone(s) -->
+| timezone1                = [[Eastern Time Zone|EST]]
+| utc_offset1              = −5
+| timezone1_DST            = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST          = −4
+| timezone2                = 
+| utc_offset2              = 
+| timezone2_DST            = 
+| utc_offset2_DST          = 
+<!-- postal codes, area code -->
+| postal_code_type         = [[ZIP Code]]
+| postal_code              = 10510
+| area_code_type           = 
+| area_code                = [[Area code 914|914]]
+| geocode                  = 
+| iso_code                 = 
+| code1_name               = [[Federal Information Processing Standards|FIPS]] code
+| code1_info               = {{FIPS|36|08103}}
+| code2_name               = [[Geographic Names Information System|GNIS]] feature ID
+| code2_info               = {{GNIS 4|969912}}, {{GNIS 4|2391558}}
+| blank_name               = [[Virtual International Authority File|VIAF]] code
+| blank_info               = {{VIAF|130216697}}
+| website                  = {{URL|www.briarcliffmanor.org}}
+| footnotes                = 
+| pop_est_as_of            = 2019
+|pop_est_footnotes         = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+| population_est           = 8094
+| unit_pref                = Imperial
+| area_land_km2            = 15.53
+| area_water_km2           = 2.17
+}}

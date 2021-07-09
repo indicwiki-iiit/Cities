@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Uaco Cungo
+|official_name          = Waku-Kungo
+|other_name             = Santa Coma
+|native_name            =  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = Commune and town
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Angola <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country<!--Country-->
+|subdivision_name       = {{flag|Angola}}<!--the name of the country-->
+|subdivision_type1      = Province
+|subdivision_name1      = [[Cuanza Sul Province|Cuanza Sul]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Cela, Angola|Cela]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =  <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 1430
+|area_land_km2            = 
+<!--See table @ s Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    = <ref>{{cite web|url=http://www.fallingrain.com/world/AO/6/Waku_Kungo.html|title=Waku Kungo, Angola Page|publisher=Falling Rain Genomics}}</ref>
+|elevation_m            = 1475
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2014
+|population_footnotes           =<ref>[https://www.citypopulation.de/en/angola/communes/admin/ Citypopulation.de] Population of provinces and communes in Angola</ref>
+|population_note                =
+|population_total               = 150593
+|population_density_km2         = auto
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coor_pinpoint         =<!-- can be used to specify exactly where/what the coordinates refer to -->
+|coordinates            = {{coord|11|21|30|S|15|07|10|E|display=inline,title|region:AO-CUS_type:city(11000)_source:dewiki}}
+|blank1_name_sec2       = Climate
+|blank1_info_sec2       = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+}}

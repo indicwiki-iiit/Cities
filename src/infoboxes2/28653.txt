@@ -1,0 +1,32 @@
+{{Infobox airport
+| name         = Dombarovsky
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =General View snyi.jpg
+| image-width  =200px
+| caption      =
+| IATA         =
+| ICAO         =
+| type         = Military
+| owner        =
+| operator     = [[Russian Air Force]]
+| city-served  =
+| location     = Dombarovsky
+| elevation-f  = 869
+| elevation-m  = 265
+| coordinates  = {{Coord|51|05|38|N|59|50|32|E|type:airport|display=inline,title}}
+| website      =
+| metric-elev  =
+| metric-rwy   =
+| r1-number    =
+| r1-length-f  = 8202
+| r1-length-m  = 2500
+| r1-surface   = [[Concrete]]
+| stat-year    =
+| stat1-header =
+| stat1-data   =
+| stat2-header =
+| stat2-data   =
+| footnotes    =
+}}

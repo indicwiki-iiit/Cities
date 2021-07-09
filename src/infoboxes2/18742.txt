@@ -1,0 +1,98 @@
+{{Infobox settlement
+|name                     = Kingston
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Stockade District, Kingston, NY.jpg
+|imagesize                = 
+|image_caption            = Stockade District
+|image_flag               = 
+|image_seal               = Seal of Kingston, New York.png
+
+<!-- Maps --><!--
+|pushpin_map              = New York
+|pushpin_label_position   = 
+|pushpin_map_caption      = Location within the state of New York -->
+|pushpin_mapsize          = 
+|image_map                = Ulster County New York incorporated and unincorporated areas Kingston (city) highlighted.svg
+|mapsize                  = 
+|map_caption              = Location in [[Ulster County, New York|Ulster County]] and the state of [[New York (state)|New York]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Ulster County, New York|Ulster]]
+|government_footnotes     = 
+|government_type          = 
+|established_title        = 
+|established_date         = 
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total = 23893
+|population_metro = 177749
+|leader_title = [[Mayor]]
+|leader_name = Steve Noble ([[United States Democratic Party|D]])
+|leader_title1            = [[city council|Common Council]]
+|leader_name1             = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = At-Large Member:
+ |2           = • James L. Noble, Jr. ([[United States Democratic Party|D]])
+ |3           = • W1: Lynn Eckert ([[United States Democratic Party|D]], Majority Leader)
+ |4           = • W2: Douglas Koop ([[United States Democratic Party|D]])
+ |5           = • W3: Reynolds Scott-Childress ([[United States Democratic Party|D]])
+ |6           = • W4: Christina Dawson ([[United States Democratic Party|D]])
+ |7           = • W5: William Carey ([[United States Democratic Party|D]])
+ |8           = • W6: Anthony Davis ([[United States Democratic Party|D]])
+ |9           = • W7: Mary Ann Mills ([[United States Democratic Party|D]])
+ |10          = • W8: Steven Schabot ([[United States Democratic Party|D]])
+ |11          = • W9: Deborah Brown ([[United States Republican Party|R]], Minority Leader)
+}}
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 58
+|elevation_ft             = 191
+|coordinates              = {{coord|41|55|30|N|74|0|00|W|type:city(23000)_region:US-NY|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 12401-12402
+|area_code                = [[Area code 845|845]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 36-39727
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979119
+|website                  = [http://www.ci.kingston.ny.us City of Kingston, New York]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 22793
+|population_density_sq_mi = 3046.38
+|population_density_km2 = 1176.16
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_total_km2 = 22.71
+|area_total_sq_mi = 8.77
+|area_land_km2 = 19.38
+|area_water_km2 = 3.33
+|area_land_sq_mi = 7.48
+|area_water_sq_mi = 1.29
+}}
+

@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name          = Yokneam Illit
+| native_name   = {{Script/Hebrew|יָקְנְעָם עילית}}<br/>{{lang|ar|يوكنعام عيليت}}
+<!--
+| arname        = يوكنعام عيليت
+| hebname       = {{Script/Hebrew|יָקְנְעָם עילית}}
+| ISO           = Yoqnˁamm ʕillit
+| stdHeb        = Yokne'am Illit
+| altOffSp      = Yoqneam Illit
+-->
+| type          = City (from 2006)
+| image_skyline = Yokneam Collage.jpg
+| image_caption = From left to right: View from the West, view from the South, Tel Yokneam, Green Day, Yokneam City Park, Yokneam High-Tech Park at night, Metri Park, Nahal Shofet
+| image_flag    = Flag of Yoqneam.svg
+| image_seal    = Coat of arms of Yoqneam.svg
+| image_shield=
+| nickname      = Startup Village
+| pushpin_map   = Israel jezreel#Israel
+| coordinates   = {{coord|32|39|34|N|35|06|36|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name   = {{ISR}}
+| subdivision_type1  = [[Districts of Israel|District]]
+| subdivision_name1  = [[Northern District (Israel)|North]]
+| subdivision_type2=
+| subdivision_name2=
+| established_title  = Became a city on
+| established_date   = December 18, 2006
+| established_title1 = Modern settlement
+| established_date1  = 1950
+| established_title2 = Ancient city
+| established_date2  = Bronze Age
+| government_type    = [[Mayor–council government|Mayor–council]]
+| governing_body     = Yokneam Illit municipality
+| leader_party=
+| leader_title       = Mayor
+| leader_name        = Simon Alfasi
+| area_total_km2     = 7.39
+| area_land_km2=
+| area_water_km2=
+| elevation_footnotes=
+| elevation_m        = 166
+| population_footnotes = {{Israel populations|reference}}
+| population         = {{Israel populations|Yoqne'am Illit}}
+| population_as_of   = {{Israel populations|Year}}
+| population_rank    = [[List of Israeli cities|69th]] in Israel
+| population_density_km2  = 2478.3
+| population_density_rank = [[List of Israeli cities|57th]] in Israel
+| population_demonym  = Yokneami
+| timezone1           = [[Israel Standard Time|IST]]
+| utc_offset1         = +2
+| timezone1_DST       = [[Israel Summer Time|IDT]]
+| utc_offset1_DST     = +3
+| postal_code_type    = [[Postal codes in Israel|Postal code]]
+| postal_code         = 20692
+| area_code_type      = [[Telephone numbers in Israel|Area code]]
+| area_code           = +972 (Israel) 4 (City)
+| website             = {{URL|http://www.yoqneam.org.il/}}
+}}

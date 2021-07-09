@@ -1,0 +1,74 @@
+{{Infobox settlement
+| name                            = Sylvania, Ohio
+| settlement_type                 = [[City]]
+| official_name                   = 
+| image_skyline                   = {{multiple image|perrow=1|total_width=260|border=infobox
+| image1                          = City of Sylvania water tower.jpg
+| image2                          = Main_Street,_Downtown_Sylvania,_Ohio.jpg
+}}
+| imagesize                       = 
+| image_caption                   = {{ubl|Top: Sylvania water tower|Bottom: Main Street, downtown Sylvania}}
+| image_flag                      = Flag of Sylvania, Ohio.svg
+| image_seal                      = <!-- Maps -->
+| nickname                        = City of Trees
+| motto                           = "Serving the Community"
+
+<!-- Images -->
+| image_map                       = Lucas County Ohio incorporated and unincorporated areas Sylvania highlighted.svg
+| map_caption                     = Location in [[Lucas County, Ohio|Lucas County]] and the state of [[Ohio]].
+
+<!-- Location -->
+| coordinates                     = {{coord|41|42|41|N|83|42|12|W|region:US_type:city|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Ohio|County]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_name2               = [[Lucas County, Ohio|Lucas]]
+
+<!-- Government -->
+| established_title               = 
+| established_date                = <!-- Area -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Craig A. Stough ([[Republican Party (United States)|R]])<ref>{{cite web|title=Office Holder Details|url=http://co.lucas.oh.us/DocumentCenter/Home/View/7703#page=19|website=Lucas County Board of Elections|access-date=1 February 2016|page=19|date=31 December 2015|archive-url=https://web.archive.org/web/20160616201912/http://co.lucas.oh.us/DocumentCenter/Home/View/7703#page=19|archive-date=16 June 2016|url-status=live|df=dmy-all}}</ref>
+| leader_title1                   = 
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 
+| area_total_sq_mi                = 6.68
+| area_land_km2                   = 
+| area_land_sq_mi                 = 6.63
+| area_water_km2                  = 
+| area_water_sq_mi                = 0.04
+
+<!-- Population -->| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25|archive-url=https://web.archive.org/web/20120212191832/http://geonames.usgs.gov/|archive-date=2012-02-12|url-status=live}}</ref>
+| elevation_m                     = 202
+| elevation_ft                    = 663
+| population_total                = 18971
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_density_km2          = 1124.01
+| population_density_sq_mi        = 2911.35
+| population_est                  = 19311
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+
+<!-- General information -->
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 43560
+| area_code                       = [[Area code 419|419]]
+| footnotes                       = 
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-76022<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1061668<ref name="GR3" />
+| website                         = {{URL|www.cityofsylvania.com}}
+}}

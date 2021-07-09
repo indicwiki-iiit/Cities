@@ -1,0 +1,79 @@
+{{Infobox settlement
+| official_name          = Dana Point, California
+| settlement_type        = [[City (California)|City in California]]
+| image_skyline          = Dana Point a city in southern Orange County CA Photo D Ramey Logan.jpg
+| image_caption          = Aerial view of Dana Point
+| image_seal             = Dana Point Seal-VECTOR.png
+| seal_size              = 150px
+| motto                  = "Harboring the Good Life"
+| image_map              = File:Orange County California Incorporated and Unincorporated areas Dana Point Highlighted 0617946.svg
+| mapsize                = 250x200px
+| map_caption            = Location of Dana Point in Orange County, California
+| image_map1             = 
+| mapsize1               = 
+| map_caption1           = 
+| pushpin_map            = USA
+| pushpin_map_caption    = Location in the United States
+| pushpin_relief         = 1
+| coordinates            = {{coord|33|28|2|N|117|41|53|W|region:US-CA|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = United States
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = [[California]]
+| subdivision_type2      = [[List of counties in California|County]]
+| subdivision_name2      = [[Orange County, California|Orange]]
+<!-- History -------------->
+| established_title      = [[Municipal corporation|Incorporated]]
+| established_date       = January 1, 1989<ref name="CalAFCo">{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=July 2, 2013
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+| named_for              = [[Richard Henry Dana, Jr.]]<ref name=about/>
+<!-- Government ----------->
+| government_type        = [[Council–manager government|Council-Manager]]<ref name=about>{{cite web|url=http://www.danapoint.org/index.aspx?page=2|title=About Us|publisher=City of Dana Point|access-date=March 13, 2015}}</ref>
+| leader_title           = [[Mayor]]
+| leader_name            = Joe Muller<ref name=CC/>
+<!-- Area ----------------->
+| unit_pref              = Imperial
+| area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi       = 6.75
+| area_land_sq_mi        = 6.49
+| area_water_sq_mi       = 0.26
+| area_total_km2         = 17.49
+| area_land_km2          = 16.81
+| area_water_km2         = 0.68
+| area_water_percent     = 77.96
+| area_note              = 
+| elevation_footnotes    = <ref>{{Cite GNIS|1656474|Dana Point|access-date=October 16, 2014}}</ref>
+| elevation_ft           = 144
+| elevation_m            = 44
+<!-- Population ----------->
+| population_as_of       = [[2010 United States Census|2010]]
+| population_footnotes   = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0617946.html|title=Dana Point (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 30, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120712180732/http://quickfacts.census.gov/qfd/states/06/0617946.html|archive-date=July 12, 2012}}</ref>
+| population_total       = 33351
+| pop_est_as_of          = 2019
+| pop_est_footnotes      = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est         = 33577
+| population_density_km2 = 1998.02
+| timezone               = [[Pacific Time Zone|Pacific]]
+| utc_offset             = −8
+| timezone_DST           = PDT
+| utc_offset_DST         = −7
+| postal_code_type       = [[ZIP Code]]s
+| postal_code            = 92624, 92629
+| area_code              = [[Area code 949|949]]
+| blank_name             = [[Federal Information Processing Standard|FIPS code]]
+| blank_info             = {{FIPS|06|17946}}
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info            = {{GNIS 4|1656474}}, {{GNIS 4|2410293}}
+| website                = {{URL|www.danapoint.org}}
+| footnotes              = {{designation list|embed=yes|designation1=California|designation1_number=189<ref name=CHL/>}}
+| population_density_sq_mi = 5175.25
+| name                   = 
+}}

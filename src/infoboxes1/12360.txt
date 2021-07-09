@@ -1,0 +1,40 @@
+{{Infobox airline
+| airline = Société Air France, S.A.
+| logo = Air France Logo.svg
+| logo_size = 300
+| IATA = AF
+| ICAO = AFR
+| callsign = AIRFRANS <ref>http://www.carsamma.decea.gov.br/cms/wp-content/uploads/2018/08/DOC8585_182-orig.pdf</ref>
+| aoc = 
+| hubs = <!-- Hubs should be listed alphabetically, not by size -->
+{{bulletedlist|[[Charles de Gaulle Airport|Paris–Charles de Gaulle]]
+|[[Orly Airport|Paris–Orly]]}}
+| focus_cities = <!-- Focus Cities should be listed alphabetically, not by size -->
+{{bulletedlist|[[Bordeaux–Mérignac Airport|Bordeaux]]
+|[[Lyon–Saint-Exupéry Airport|Lyon]]
+|[[Marseille Provence Airport|Marseille]]
+|[[Nice Côte d'Azur Airport|Nice]]
+|[[Toulouse–Blagnac Airport|Toulouse]]}}
+| frequent_flyer = [[Flying Blue]]
+</div>
+| alliance = <div>
+* [[SkyTeam]]
+* [[SkyTeam Cargo]]
+</div>
+| fleet_size = [[Air France fleet|213]]
+| destinations = [[List of Air France destinations|211]]
+| parent = [[Air France–KLM]]
+| num_employees = 84,602<ref>{{Cite web|url=http://www.airfranceklm.com/sites/default/files/communiques/consolidated_financial_statements_2016.12_english.pdf|title=Financial statements 2016|access-date=2 October 2020}}{{Dead link|date=February 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| revenue = €16.1 billion <small>(2018)</small><ref name="airfrance_figures">https://www.airfranceklm.com/sites/default/files/q4_2018_press_release_en_vdef_0.pdf</ref>
+| operating_income = €266 million <small>(2018)</small><ref name="airfrance_figures"/>
+| founded = {{start date|1933|10|7|df=y}}
+| headquarters = Roissypôle, [[Charles de Gaulle Airport]]<br /> [[Tremblay-en-France]], [[France]]
+| key_people = {{nowrap|Anne Rigail (CEO)<ref>{{cite web |title=Air France names Anne Rigail as new head of airline |url=https://www.reuters.com/article/us-air-france-klm-management/air-france-names-anne-rigail-as-new-head-of-airline-idUSKBN1OB1D6 |date=12 December 2018 |publisher=Reuters |access-date=13 December 2018}}</ref>}}
+</div>
+| subsidiaries = <div>
+* [[Air France Hop]]
+* [[Servair]] (50,01%)
+* [[Transavia France]]
+</div>
+| website = {{URL|airfrance.com/}}
+}}

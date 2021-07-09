@@ -1,0 +1,34 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Kaišiadorys
+|nickname =
+|settlement_type = City
+|pushpin_map            =Lithuania 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Kaišiadorys
+|image_skyline = Kaišiadorių_centras.JPG
+|image_shield = Kaišiadorys COA.svg
+|coordinates       = {{coord|54|52|N|24|27|E|region:LT_type:city(10000)|display=inline,title}}
+|
+|subdivision_type  = Country
+|subdivision_name  = {{LTU}}
+|subdivision_type1 = [[Regions of Lithuania|Ethnographic&nbsp;region]]
+|subdivision_name1 = [[Aukštaitija]]
+|subdivision_type2 = [[Counties of Lithuania|County]]
+|subdivision_name2 = [[Image:LTU Kauno apskritis flag.svg|20px]] [[Kaunas County]]
+|subdivision_type3 = [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3 = [[Kaišiadorys district municipality]]
+|subdivision_type4 = [[Elderships of Lithuania|Eldership]]
+|subdivision_name4 = Kaišiadorys town eldership
+|subdivision_type6 = [[Capital (political)|Capital of]] 
+|subdivision_name6 = [[Kaišiadorys district municipality]] <br> Kaišiadorys town eldership <br> Kaišiadorys rural eldership
+|established_date  = 1590
+|established_title = First mentioned
+|established_date2 = 1946
+|established_title2= Granted city rights
+|population_total  = 8,664
+|population_as_of  = 2011
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+}}

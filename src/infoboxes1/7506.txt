@@ -1,0 +1,33 @@
+{{Infobox settlement
+|name = Samarra
+|native_name            = {{lang|ar|سَامَرَّاء}} <!-- for cities whose native name is not in English -->
+|native_name_lang       = ar
+|settlement_type        = City<!--For Town or Village (Leave blank for the default City)-->
+|image_skyline          = File:سامراء Samarra-Wielki Meczet ze spiralnym minaretem - panoramio.jpg
+|imagesize              = 250px
+|image_caption          = The spiral minaret of the [[Great Mosque of Samarra]]
+|pushpin_map            = Iraq
+|pushpin_label_position = left
+|pushpin_relief           = yes
+|pushpin_mapsize        = 
+|pushpin_map_caption    = Location of Samarra within Iraq
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Iraq}}
+|subdivision_type1      = [[Governorates of Iraq|Governorate]]
+|subdivision_name1      = [[Saladin Governorate]]
+|population_as_of               = 2003 est
+|population_total               = 348,700
+|footnotes = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Samarra Archaeological City
+  |ID = 276
+  |Year = 2007
+  |Danger = 2007-
+  |Area = 15,058 ha
+  |Buffer_zone = 31,414 ha 
+  |Criteria = Cultural: ii, iii, iv
+  }}
+|coordinates            = {{coord|34|11|54|N|43|52|27|E|region:IQ_type:city(300000)|display=inline,title}}
+}} <!-- Infobox ends -->
+

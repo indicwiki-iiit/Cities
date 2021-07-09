@@ -1,0 +1,52 @@
+{{Infobox settlement
+| official_name          = Catacamas
+| other_name             = Cata
+| native_name            =
+| nickname               =
+| motto                  =
+| image_skyline          = Catacamas_center.JPG
+| image_caption          = A street scene in central Catacamas -the 'Mirador de la Cruz' is visible in the background
+| image_map              =
+| map_caption            =
+| pushpin_map            = Honduras
+| pushpin_label_position = left
+| pushpin_mapsize        = 275
+| subdivision_type       = Country
+| subdivision_name       = {{Flag|Honduras}}
+| subdivision_type1      = [[Departments of Honduras|Department]]
+| subdivision_name1      = [[Olancho department|Olancho]]
+| subdivision_type2      =
+| subdivision_name2      =
+| government_type        =Municipality
+| leader_title           =governor
+| leader_name            =Lincoln Figueroa
+| established_title      = Founded
+| established_date       = {{start date and years ago|df=yes|1898|1|24}}
+| area_magnitude         =
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         = 7,264
+| area_land_km2          =
+| area_water_km2         =
+| population_as_of       = 2020 projection
+| population_footnotes   = <ref>[https://www.citypopulation.de/en/honduras/admin/ Citypopulation.de] Population of departments and municipalities in Honduras</ref>
+| population_note        =
+| settlement_type        = Municipality<!--For Town or Village (Leave blank for the default City)-->
+| population_total       = 133,896 
+| population_urban       = 
+| population_density_km2 = auto
+| timezone               =
+| utc_offset             = -UTC/GMT -6 hours
+| timezone_DST           =
+| utc_offset_DST         =
+| coordinates            = {{coord|14|48|N|85|54|W|region:HN|display=inline,title}}
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 450
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Tropical savanna climate|Aw]]/Tropical savanna
+| website                = {{Official website|http://www.catacamas.net/}}
+| footnotes              =
+}}

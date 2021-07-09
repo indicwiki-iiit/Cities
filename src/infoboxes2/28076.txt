@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Canal Fulton, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Ohio-Erie Canal in Canal Fulton.JPG
+|imagesize                = 250px
+|image_caption            = Along the [[Ohio and Erie Canal]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Canal_Fulton.png
+|mapsize                  = 250px
+|map_caption              = Location of Canal Fulton, Ohio
+|image_map1               = Map of Stark County Ohio Highlighting Canal Fulton City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Canal Fulton in Stark County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Stark County, Ohio|Stark]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.63
+|area_land_km2            = 8.46
+|area_water_km2           = 0.16
+|area_total_sq_mi         = 3.33
+|area_land_sq_mi          = 3.27
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5408
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5479
+|population_density_km2   = 638.91
+|population_density_sq_mi = 1654.83
+
+<!-- General information -->
+|timezone1                = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset1              = -05:00
+|timezone1_DST            = EDT
+|utc_offset1_DST          = -04:00
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 290
+|elevation_ft             = 951
+|coordinates              = {{coord|40|53|23|N|81|35|43|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44614
+|area_code                = [[Area code 330|330]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-11304<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1060923<ref name="GR3" />
+|website                  = {{URL|http://www.cityofcanalfulton-oh.gov/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

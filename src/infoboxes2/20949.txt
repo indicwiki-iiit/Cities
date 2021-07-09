@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                            = Pampa, Texas
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Pampa Texas 10-3-2013.jpg
+| imagesize                       = 
+| image_caption                   = Pampa business district
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| map_caption                     = Location of Pampa, Texas
+| image_map1                      = Gray County Pampa.svg
+| mapsize1                        = 250px
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Texas]]
+| subdivision_type2               = [[List of counties in Texas|County]]
+| subdivision_name2               = [[Gray County, Texas|Gray]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = [[Council-manager government|Council-Manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Lance DeFever
+| leader_title1                   = [[City Commission]]
+| leader_name1                    = Jimmy Keough<br />Brian Doughty<br />Paul Searl<br />Bryan Fisher<br />
+| leader_title2           = [[City Manager]]
+| leader_name2            = Shane Stokes
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 23.36
+| area_land_km2                   = 23.36
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 9.02
+| area_land_sq_mi                 = 9.02
+| area_water_sq_mi                = 0.00
+<!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 17994
+| population_density_km2          = 730.59
+| population_density_sq_mi        = 1892.24
+<!-- General information -->
+| timezone                        = [[North American Central Time Zone|Central (CST)]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| elevation_footnotes             = <ref name=gnis>{{GNIS|1364740}}</ref>
+| elevation_m                     = 
+| elevation_ft                    = 3238
+| coordinates                     = {{coord|35|32|10|N|100|57|36|W|region:US_type:city|display=inline,title}}<ref name=gnis/>
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 79065-79066
+| area_code                       = [[Area code 806|806]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 48-54912<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID = 1364740<ref name=gnis/>
+| website                         = {{URL|www.cityofpampa.org}}
+| footnotes                       = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 17068
+}}

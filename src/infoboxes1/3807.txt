@@ -1,0 +1,133 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  --------------Z8998,--->
+|name                   =  Portoviejo
+|official_name          = San Gregorio de Portoviejo
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|native_name_lang       =  
+|nickname               = 
+|settlement_type        = City
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = Spanish:''Portoviejo se Levanta Querer es Poder'' (English:''Portoviejo rises, When there's a will there's a way'')
+<!-- images and maps  ----------->
+|image_skyline          = Calle Olmedo.JPG
+|imagesize              = 
+|image_caption          = Calle Olmedo
+|image_flag             = Flag of Portoviejo.svg
+|flag_size              =
+|image_seal             = Escudo de Portoviejo.png
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Ecuador
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{ECU}}
+|subdivision_type1      = [[Provinces of Ecuador|Province]]
+|subdivision_name1      = [[Manabí Province|Manabí]]
+|subdivision_type2      = [[Cantons of Ecuador|Canton]]
+|subdivision_name2      = [[Portoviejo Canton|Portoviejo]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|parts_type             = Urban parishes
+|parts_style            = coll
+|parts                  = List of parishes
+|p1                     = 12 de Marzo
+|p2                     = 18 de Octubre
+|p3                     = Andrés de Vera
+|p4                     = Colón
+|p5                     = Francisco Pacheco
+|p6                     = [[Picoazá]]
+|p7                     = Portoviejo
+|p8                     = San Pablo
+|p9                     = Simón Bolívar
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            =  Agustin Casanova
+|established_title      =  Founded
+|established_date       = March 12, 1535
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                = Francisco Pacheco
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 418.06
+|area_land_km2            = 
+|area_water_km2           = 
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           = 960.73
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =  53 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of          = 2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 223086
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_metro               = 280029
+|population_density_metro_km2   = auto
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =  
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in Ecuador|ECT]]
+|utc_offset             = &minus;5
+|coor_pinpoint         =<!-- can be used to specify exactly where/what the coordinates refer to -->
+|coordinates            = {{coord|1|3|22|S|80|27|19|W|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = EC130105
+|area_code              = 593 5
+|ISO                    = EC-M
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+|website                = {{URL|http://www.portoviejo.gob.ec}}
+|footnotes              = 
+}}

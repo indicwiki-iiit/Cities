@@ -1,0 +1,86 @@
+{{Infobox settlement
+| official_name                   = Monte Águila
+| other_name                      = Monteaguila<br>
+Monte-Águila
+| native_name                     = <!-- for cities whose native name is not in English -->
+| settlement_type                 = [[List of cities in Chile|City]]
+| image_skyline                   = Inauguracion Nueva Plaza de Monte Aguila 2017 (12).jpg
+| image_caption                   = Monte Águila Main Square
+| image_flag                      = Bandera de monte águila.png
+| image_shield                    = Monte aguila escudo.png
+| image_map                       = <mapframe latitude="-27.839076" longitude="-69.960938" zoom="3" width="260" height="200" align="right">
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4399,
+          -37.0803
+        ]
+      }
+    }
+  ]
+}
+</mapframe>
+| map_caption                     = Location in Chile.
+| map_alt                         = 
+| latd                            = 
+| longd                           = 
+| coor_pinpoint                   = city
+| coordinates_region              = 
+| coordinates_display             = 
+| coordinates_footnotes           = 
+| pushpin_map                     = 
+| pushpin_map_narrow              = 
+| pushpin_label_position          = 
+| pushpin_map_caption             = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Chile]]
+| subdivision_type1               = [[Regions of Chile|Region]]
+| subdivision_name1               = [[Bío Bío Region|Bío Bío]]
+| subdivision_type2               = [[Provinces of Chile|Province]]
+| subdivision_name2               = [[Bío Bío Province|Bío Bío]]
+| subdivision_type3               = [[Communes of Chile|Commune]]
+| subdivision_name3               = [[Cabrero, Chile|Cabrero]]
+| government_footnotes            = 
+| government_type                 = Town belonging to [[Cabrero, Chile|Cabrero]].
+| leader_title                    = Mayor of Cabrero
+| leader_party                    = [[Independent politician|IND]]
+| leader_name                     = Mario Gierke Quevedo
+| established_title               = 
+| established_date                = 
+| unit_pref                       = Metric
+| area_footnotes                  = 
+| area_total_km2                  = 
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = 
+| population_total                = 6574
+| population_as_of                = 2017 Census
+| population_density_km2          = auto
+| population_demonym              = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_blank2_title         = 
+| population_blank2               = 
+| demographics_type1              = 
+| demographics1_footnotes         = 
+| demographics1_title1            = 
+| demographics1_info1             = 
+| demographics1_title2            = 
+| demographics1_info2             = 
+| postal_code_type                = 
+| postal_code                     = 
+| timezone                        = [[Time in Chile|CLT]]
+| utc_offset                      = −4
+| timezone_DST                    = [[Time in Chile|CLST]]
+| utc_offset_DST                  = −3
+| area_code                       = 56 + 43
+| website                         = {{URL|www.monteaguila.cl}}
+| footnotes                       = 
+| name                            = 
+}}

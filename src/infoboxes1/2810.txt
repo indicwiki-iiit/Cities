@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name          = Mahdia
+| native_name            = المهدية
+| native_name_lang       = ar
+| other_name             = 
+| settlement_type        = 
+| image_skyline           = Mahdia 0702.JPG
+| imagesize              = 300px
+| image_caption          = 
+| image_flag             = 
+| image_seal             = Logo commune Mahdia.svg
+| seal_size              = 120px
+| image_shield           = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Tunisia
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Tunisia
+<!-- Location ------------------>
+| coordinates            = {{coord|35|30|N|11|04|E|region:TN|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{TUN}} 
+| subdivision_type1      = [[Governorates of Tunisia|Governorate]]
+| subdivision_name1      = [[Mahdia Governorate]]
+| subdivision_type2      = 
+| subdivision_name2      = 
+| established_title      = <!-- Settled -->
+| established_date       = 
+| leader_title           = 
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi       = 
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| area_water_sq_mi       = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            =
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 62,189
+| population_as_of       = 2014
+| population_density_km2 = auto
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = 1
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 
+| website                = 
+}}

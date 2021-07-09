@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name                     = Montgomery Village, Maryland
+|official_name            = Montgomery Village Foundation
+|settlement_type          = [[Census-designated place]]
+|image_skyline            = Saint John Neumann Church (Montgomery Village, Maryland).JPG
+|imagesize                = 265px
+|image_caption            = The Saint John Neumann Church in August 2013
+|image_flag               = Flag of Montgomery Village, Maryland.svg
+|image_seal               = Seal of Montgomery Village, Maryland.svg
+|image_blank_emblem       = Logo of Montgomery Village, Maryland.png
+|blank_emblem_type        = Wordmark
+
+<!-- Maps -->
+|blank_emblem_link        = Wordmark
+|nickname                 = "MVF"<ref>{{cite web|url=http://www.mvf.org/|title=Montgomery Village|website=www.mvf.org}}</ref>
+
+<!-- Images -->
+|motto                    =
+|image_map                = Montgomery_County_Maryland_Incorporated_and_Unincorporated_areas_Montgomery_Village_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Montgomery Village in Montgomery County, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|coordinates              = {{coord|39|10|35|N|77|11|34|W|region:US-MD_type:city|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = {{Nowrap|{{Flagu|United States|size=23px}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name1        = {{Flag|Maryland|size=23px}}
+|subdivision_name2        = {{Flagicon image|Flag of Montgomery County, Maryland.svg|size=23px}} [[Montgomery County, Maryland|Montgomery]]
+|established_title        = Created
+|established_date         = {{Start date and age|1962}}
+|established_title1       = Foundation incorporated
+|established_date1        = {{Start date and age|1966}}
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = Foundation
+|leader_title             = President
+|leader_name              = Matt Brolley
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref  =  Imperial
+|area_footnotes           = <ref name=2010Census>{{cite web|url=http://quickfacts.census.gov/qfd/states/24/2453325.html|title=Montgomery Village CDP, Maryland|work=State and County QuickFacts|publisher=[[United States Census Bureau]]|author=United States Census Bureau|author-link=United States Census Bureau|location=United States of America|date=February 5, 2015|access-date=February 11, 2015|archive-url=https://web.archive.org/web/20150211175627/http://quickfacts.census.gov/qfd/states/24/2453325.html|archive-date=February 11, 2015|url-status=dead}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 
+|area_total_sq_mi         = 
+|area_land_km2            = 10.29
+|area_land_sq_mi          = 3.974
+|area_water_km2           =0.209 
+|area_water_sq_mi         =
+
+0.081
+|elevation_footnotes      = 
+|elevation_m              = 113
+|elevation_ft             = 371
+|population_total         = 32032
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=2010Census/>
+|population_density_km2   = 3096
+|population_density_sq_mi = 8018.0
+
+<!-- General information --> 
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 20877, 20879, 20886
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|website                  = {{URL|http://www.montgomeryvillage.com/}}
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-53325
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1712797
+}}

@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Temara
+|native_name            = تمارة<br />ⵜⵎⴰⵔⴰ
+|native_name_lang       = ar
+|other_name             =
+|settlement_type        =
+|imagesize              =
+|image_caption          =
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = Temara plage.JPG
+| photo2a = Harhoura Beach.jpg
+| photo2b = Temara01.jpg
+| photo3a = Wiki Loves Earth 2015 mai.JPG
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Morocco
+<!-- Location ------------------>
+|coordinates            = {{coord|33|55|36|N|6|54|44|W|region:MA|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_type2      = [[Prefectures of Morocco|Prefecture]]
+|subdivision_type3      =
+|subdivision_name1      = [[Rabat-Salé-Kénitra]]
+|subdivision_name2      = [[Skhirate-Témara Prefecture|Skhirate-Témara]]
+|subdivision_name3      = 
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|unit_pref                =
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               =313510 
+|population_rank        =  [[List of cities in Morocco|12th in Morocco]]
+|population_as_of               =2014
+|population_footnotes           =<ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+|<!-- Politics ----------------->
+|timezone               = [[Central European Time|CET]] 
+|utc_offset             = +1
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+}}

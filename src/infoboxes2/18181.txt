@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Nicholasville, Kentucky
+|settlement_type          = [[list of Ky cities|City]]
+|named_for                = 
+|nickname = 
+|motto                    = 
+<!-- Images -->
+|image_skyline            = Main Street in Nicholasville.jpg
+|imagesize                = 250px
+|image_caption            = Main Street
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = File:Jessamine County Kentucky Incorporated and Unincorporated areas Nicholasville Highlighted 2156136.svg
+|mapsize                  = 250px
+|map_caption              = Location of Nicholasville in Jessamine County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Jessamine County, Kentucky|Jessamine]]
+|government_footnotes     = <ref name="Government: City Commission">{{cite web | url=http://nicholasville.org/government/city-commission.php | title=Government: City Commission | publisher=www.nicholasville.org | access-date=12 October 2014}}</ref>
+|government_type          = [[City commission]]
+|leader_title             = Mayor
+|leader_name              = Pete Sutherland
+|leader_title1            = Commissioners
+|leader_name1             = Doug Blackford<br />Betty Black<br />Alex Carter, Mayor Pro Tempore<br />Patty Teater
+|established_title        = Incorporated
+|established_date         = February 13, 1837<ref name=sos>Commonwealth of Kentucky. Office of the Secretary of State. Land Office. "Nicholasville, Kentucky". Accessed 15 September 2013.</ref>
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 37.63
+<!--33875850 m2-->
+|area_land_km2            = 37.48
+<!--33699715 m2-->
+|area_water_km2           = 0.16
+<!--176135 m2-->
+|area_total_sq_mi         = 14.53
+<!--13.079539 mi2-->
+|area_land_sq_mi          = 14.47
+<!--13.011533 mi2-->
+|area_water_sq_mi         = 0.06
+<!--0.068006104 mi2-->
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 28015
+|population_density_km2   = 823.61
+|population_density_sq_mi = 2133.18
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 938
+|coordinates              = {{coord|37|52|50|N|84|34|23|W|region:US-KY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 40340, 40356
+|area_code                = [[Area code 859|859]]
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|21|56136}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 499462<ref name=GNIS1>{{Cite GNIS|499462|Nicholasville}}</ref>
+|website                  = {{URL|www.nicholasville.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 30865
+}}

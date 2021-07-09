@@ -1,0 +1,82 @@
+{{Infobox settlement
+| name                    = Rutland, Vermont
+| native_name             = 
+| other_name              = 
+| settlement_type         = [[List of cities in Vermont|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = Downtown Rutland, Vermont.jpg
+| image_caption           = Downtown Historic District
+| image_flag              = 
+| image_shield            = City of Rutland Vermont Seal.jpg
+| motto                   = 
+| nickname                = Marble City, Gateway to Southern Vermont, Rutvegas<ref>{{cite web | url = http://www.sevendaysvt.com/vermont/leaving-rutvegas/Content?oid=2183476 | title = Leaving RutVegas  | website = Seven Days | date = February 1, 2012 | last1 = Flagg | first1 = Kathryn}}</ref>
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = State
+| subdivision_name1       = Vermont
+| subdivision_type2       = [[County]]
+| subdivision_name2       = [[Rutland County, Vermont|Rutland]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Vermont
+| pushpin_relief          = 
+| pushpin_map_caption     = Location in Vermont
+| coordinates             = {{coord|43|36|32|N|72|58|47|W|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = David Allaire ([[Republican Party of Vermont|R]])
+<!-- established -->
+| established_title       = Incorporated
+| established_date        = 1892
+<!-- area -->
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_50.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| dunam_link              = 
+| area_total_km2          = 19.86
+| area_total_sq_mi        = 7.67
+| area_land_sq_mi         = 7.54
+| area_water_sq_mi        = 0.13
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_ft            = 541
+<!-- population -->
+| population_as_of        = [[2010 United States Census|2010]]
+| population_footnotes    = 
+| population_total        = 16495
+| population_density_km2  = 771.59
+| population_density_sq_mi = 1998.41
+| population_demonym      = 
+<!-- time zone(s) -->
+| timezone1               = [[North American Eastern Time Zone|EST]]
+| utc_offset1             = -5
+| timezone1_DST           = [[Eastern Daylight Time|EDT]]
+| utc_offset1_DST         = -4
+| timezone2               =  
+| utc_offset2             = 
+| timezone2_DST           = 
+| utc_offset2_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = [[ZIP code]]s
+| postal_code             = 05701, 05702
+| area_code_type          =  
+| area_code               = [[Area code 802|802]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 50-61225<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| geocode                 = 
+| iso_code                = 
+<!-- website, footnotes -->
+| website                 = http://www.rutlandcity.org/
+| footnotes               = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 15074
+|unit_pref = Imperial
+|area_land_km2 = 19.54
+|area_water_km2 = 0.33
+}}

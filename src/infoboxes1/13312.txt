@@ -1,0 +1,133 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = 
+| official_name                   = Swords
+| native_name                     = {{lang|ga|Sord}} / {{lang|ga|Sord Cholmcille}}
+| native_name_lang                = ga
+| other_name                      = 
+| settlement_type                 = Suburban town
+
+<!-- transliteration(s) -------->
+
+<!-- images, nickname, motto --->| image_skyline                   = Main Street, Swords.jpg
+| image_caption                   = Main Street, Swords
+| imagesize                       = 
+| image_alt                       = 
+| image                           = <!-- other image (specify File: or Image: namespace) -->
+| image_flag                      = 
+| flag_size                       = 
+| flag_alt                        = 
+| flag_link                       = 
+| motto                           = 
+<!-- maps and coordinates ------>| image_map                       = 
+| map_alt                         = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_alt1                        = 
+| map_caption1                    = 
+| mapsize                         = 230px
+| map_caption                     = Location of Swords in Dublin area
+| pushpin_map                     = Dublin
+| pushpin_relief                  = 1
+| pushpin_label_position          = right
+| pushpin_map_caption             = Location in Dublin area
+| pushpin_label                   = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt                 = 
+| pushpin_mapsize                 = 
+| coordinates                     = {{coord|53.4597|-6.2181|dim:100000_region:IE|format=dms|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <!-- for references: use <ref> tags -->
+
+<!-- location ------------------>| subdivision_type                = Country
+| subdivision_name                = Ireland
+| subdivision_type1               = [[Provinces of Ireland|Province]]
+| subdivision_name1               = [[Leinster]]
+| subdivision_type2               = [[NUTS 3 statistical regions of the Republic of Ireland|Region]]
+| subdivision_name2               = [[Dublin Region|Dublin]]
+| subdivision_type3               = [[Counties of Ireland|County]]
+| subdivision_name3               = [[Fingal]]
+| subdivision_type4               = [[European Parliament constituency|EU Constituency]]
+| subdivision_name4               = [[Dublin (European Parliament constituency)|Dublin]]
+| subdivision_type5               = [[Dáil constituencies|Dáil Constituency]]
+| subdivision_name5               = [[Dublin Fingal (Dáil constituency)|Dublin Fingal]]
+| subdivision_type6               = [[Local Electoral Areas]]
+| subdivision_name6               = Swords, Malahide
+
+<!-- established --------------->| established_title               = Founded
+| established_date                = 560
+| established_title1              = County Town
+| established_date1               = 1994
+| founder                         = [[St Colmcille]]
+| named_for                       = (possibly) St Colmcille's Well
+
+<!-- divisions of broader electoral area ------->| seat_type                       = County Hall
+| seat                            = Main Street, Swords
+| parts_style                     = coll
+| parts_type                      = Electoral Divisions<ref>{{cite web|url=http://www.irishstatutebook.ie/eli/2014/si/47/made/en/print|title=electronic Irish Statute Book (eISB)|first=electronic Irish Statute Book|last=(eISB)|website=www.irishstatutebook.ie}}</ref>
+| p1                              = Swords-Lissenhall
+| p2                              = Swords-Glasmore
+| p3                              = Swords-Forrest
+| p4                              = Swords Village
+| p5                              = Swords-Seatown
+| p6                              = Swords-Manor
+| p7                              = Holy well
+| p8                              = Applewood
+| p9                              = Brackenstown
+| p10                             = Cloghran
+| p11                             = Airport
+
+<!-- government type, leaders -->| government_footnotes            = <ref>{{Cite web |url=http://www.fingalcoco.ie/index.aspx |title=Fingal County Council |access-date=6 October 2012 |archive-date=18 October 2012 |archive-url=https://web.archive.org/web/20121018034155/http://www.fingalcoco.ie/index.aspx |url-status=dead }}</ref>
+| government_type                 = Local authority (whole county, not just Swords)
+| governing_body                  = Fingal County Council
+
+<!-- area ---------------------->| area_footnotes                  = <ref>[http://census.cso.ie/sapmap/ Swords Total Area – Swords Local Electoral Area] {{webarchive|url=https://web.archive.org/web/20141012073442/http://census.cso.ie/sapmap/ |date=12 October 2014 }} Central Statistics Office</ref>
+| area_urban_footnotes            = <ref>[http://census.cso.ie/sapmap/ Swords Urban Area – Swords and Kinsealy-Drinan Census Towns] {{webarchive|url=https://web.archive.org/web/20141012073442/http://census.cso.ie/sapmap/ |date=12 October 2014 }} Central Statistics Office</ref>
+| area_urban_km2                  = 11.35
+| area_metro_footnotes            = <ref>[http://www.fingalcoco.ie/Files/Planning/Sheet8%20-%20Swords.pdf Swords Metro Area – Swords Development Boundary]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} Fingal County Council</ref>
+| area_metro_km2                  = 15.99
+| area_note                       = Source: CSO Sapmap Viewer
+
+<!-- elevation ----------------->| elevation_max_footnotes         = <ref>[http://maps.osi.ie/publicviewer/#V1,717846,746742,4,1 Swords Max Elevation] {{Webarchive|url=https://web.archive.org/web/20120829114800/http://maps.osi.ie/publicviewer/#V1,717846,746742,4,1 |date=29 August 2012 }} Ordnance Survey Ireland</ref>
+| elevation_max_m                 = 60
+| elevation_min_footnotes         = <ref>[http://maps.osi.ie/publicviewer/#V1,717846,746742,4,1 Swords Min Elevation] {{Webarchive|url=https://web.archive.org/web/20120829114800/http://maps.osi.ie/publicviewer/#V1,717846,746742,4,1 |date=29 August 2012 }} Ordnance Survey Ireland</ref>
+| elevation_min_m                 = 0
+
+<!-- population ---------------->| population_urban_footnotes      = <ref>[http://www.cso.ie/en/media/csoie/census/documents/census2011vol1andprofile1/Table%205.pdf Swords Urban Population – Swords and Kinsealy Drinan Census Towns] {{webarchive|url=https://web.archive.org/web/20121113182304/http://www.cso.ie/en/media/csoie/census/documents/census2011vol1andprofile1/Table%205.pdf |date=13 November 2012 }} Census 2011</ref>
+| population_urban                = 42738
+| population_density_urban_km2    = 3765
+| population_blank1_title         = Swords CT<!-- CSO Swords Census Town -->
+| population_blank1               = 36924
+| population_density_blank1_km2   = 3615
+| population_blank2_title         = Kinsealy-Drinan CT<!-- CSO Kinsealy-Drinan Census Town -->
+| population_blank2               = 5814
+| population_density_blank2_km2   = 5101
+| population_note                 = Source: Census 2011
+
+<!-- demographics (section 1) -->| demographics_type1              = Ethnic or cultural background
+| demographics1_footnotes         = <ref>[http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=CD705&PLanguage=0 Swords Ethnic or Cultural Background] Census 2011</ref>
+| demographics1_title1            = White Irish
+| demographics1_info1             = 30,946
+| demographics1_title2            = White Other
+| demographics1_info2             = 7,089
+| demographics1_title3            = Asian or Asian Irish
+| demographics1_info3             = 1,169
+| demographics1_title4            = Black or Black Irish
+| demographics1_info4             = 1,142
+| demographics1_title5            = White Irish Traveller
+| demographics1_info5             = 96
+
+<!-- time zone(s) -------------->| timezone1                       = WET
+| utc_offset1                     = 0
+| timezone1_DST                   = WEST
+| utc_offset1_DST                 = +1
+
+<!-- postal codes, area code --->| postal_code_type                = Postal Hub
+| postal_code                     = DUBLIN K67
+| postal2_code_type               = Postal Sorting Office
+| postal2_code                    = SWORDS
+| area_code_type                  = Dialing Code
+| area_code                       = +353(0)1
+| website                         = [https://www.fingal.ie/visitor/locations/swords Swords on fingal.ie]
+| geocode                         = {{iem4ibx|O184469}}
+| iso_code                        = IE-D
+| registration_plate              = D
+}}

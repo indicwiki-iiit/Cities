@@ -1,0 +1,49 @@
+{{Infobox settlement
+| name                    = Hawalli Governorate
+| native_name             = محافظة حولي
+| native_name_lang        = ar<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| image_skyline           = Othmanmosqueq8alshami.jpg
+| image_alt               =
+| image_caption           =Dome of Al Othman Mosque in [[Hawalli, Kuwait|Hawalli]]
+| image_flag              =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_map               = Hawalli in Kuwait.svg
+| mapsize                 = frameless
+| map_alt                 =
+| map_caption             = Map of Kuwait with Hawalli highlighted
+| coordinates             = {{coord|29|18|20|N|48|01|51|E|region:KW-HW_type:adm1st|display=inline,title}}
+| coor_pinpoint           = Hawalli District
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Kuwait}}
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               = 
+| seat                    = 
+| parts_type              = [[List of districts in Kuwait|Districts]]
+| parts_style             = para
+| p1                      = 16
+| government_footnotes    =
+| leader_party            =
+| leader_title            = <!-- Governor -->
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          =
+| area_total_km2          = 82
+| area_note               =
+| population_total        = 890,533
+| population_as_of        = June 2014
+| population_footnotes    =
+<ref name="stat.paci.gov.kw">{{cite web|url=http://stat.paci.gov.kw/englishreports/|title=Statistical Reports|publisher=stat.paci.gov.kw|access-date=31 August 2014|archive-url=https://web.archive.org/web/20140313222900/http://stat.paci.gov.kw/englishreports/|archive-date=13 March 2014|url-status=dead}}</ref>
+| population_density_km2  = auto
+| population_note         =
+| timezone1               = [[East Africa Time|EAT]]
+| utc_offset1             = +03
+| iso_code                = KW-HW
+| website                 = <!-- [http://www.example.com example.com] -->
+| footnotes               =
+| type                    = [[Governorates of Kuwait|Governorate]]
+}}

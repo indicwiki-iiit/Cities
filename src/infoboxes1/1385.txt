@@ -1,0 +1,54 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| official_name                   = Aït Melloul
+| native_name                     = <br />ⴰⵢⵜ ⵎⴻⵍⵍⵓⵍ<br />Ayt Mellul<br />أيت ملول
+| settlement_type                 = [[List of cities in Morocco|City]]
+| motto                           = ''العمل اساس كل نجاح''
+<!-- images and maps  ----------->| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      =
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = Ait Melloul in Souss-Massa region locator map.png
+| map_size                        = 
+| map_caption                     = Location of Ait Melloul
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+<!-- Location ------------------>| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Morocco]]
+| subdivision_type1               = [[Regions of Morocco|Region]]
+| subdivision_name1               = [[Souss-Massa]]
+| subdivision_type2               = [[Provinces of Morocco|Prefecture]]
+| subdivision_name2               = [[Inezgane-Aït Melloul]]|<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Al Hussein Lasri
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Km2
+| area_footnotes                  = 
+| area_total_km2                  = 40
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| population_as_of                = 2014 Census
+| population_footnotes            = <ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |accessdate=29 September 2017}}</ref>
+| population_note                 = 
+| population_total                = 171847
+| population_density_km2          = auto
+<!-- General information  --------------->
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+|coordinates            = {{coord|30|20|03|N|9|29|50|W|region:MA|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_min_m                 = 22
+| elevation_max_m                 = 26
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code
+| postal_code                     = 86150
+| area_code                       = +212
+| website                         = {{URL|http://aitmelloul.ma/}}
+| footnotes                       = 
+}}

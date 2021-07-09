@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                   = Modi'in-Maccabim-Re'ut
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|מוֹדִיעִין-מַכַּבִּים-רֵעוּת}}|rtl=yes}}
+ | {{Lang|ar|موديعين مكابيم ريعوت|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 2003)
+| image_skyline          = Modi'in 02003.JPG
+| image_blank_emblem     = Modiin COA.gif
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = top
+| pushpin_map_caption    = Location within Israel
+| coordinates            = {{coord|31|54|27.55|N|35|0|27.41|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 2003 (merger)<br/>1993 (Modi'in)<br/>1985 (Maccabim)<br/>1987 (Re'ut)
+| leader_title           = Mayor
+| leader_name            = [[Haim Bibas]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:50176|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Modi'in-makkabbim-re'ut}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = http://www.modiin.muni.il
+}}

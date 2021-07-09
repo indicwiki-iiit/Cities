@@ -1,0 +1,74 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = San José de Maipo
+| native_name                     = 
+| native_name_lang                = es<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type                 = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline                   = Caballos En La Cordillera (76473399).jpeg
+| imagesize                       = 270px
+| image_alt                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_alt                        = Flag
+| image_shield                    = Escudo de San José de Maipo.svg
+| shield_alt                      = Coat of arms
+| image_map                       = Comuna de San José de Maipo.svg
+| map_alt                         = Location in the Santiago Metropolitan Region
+| map_caption                     = 
+| pushpin_map                     = Chile
+| pushpin_map_narrow              = yes
+| pushpin_label_position          = bottom
+| pushpin_map_alt                 = Location in Chile
+| pushpin_map_caption             = Location in Chile
+| coordinates                     = {{coord|33|41|S|70|20|W|region:CL-RM|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Chile]]
+| subdivision_type1               = [[Regions of Chile|Region]]
+| subdivision_name1               = [[Santiago Metropolitan Region|Santiago Metro.]]
+| subdivision_type2               = [[Provinces of Chile|Province]]
+| subdivision_name2               = [[Cordillera Province, Chile|Cordillera]]
+| established_title               = 
+| established_date                = 
+| founder                         = 
+| named_for                       = 
+| seat_type                       = <--[[Capital (political)|Capital]]-->
+| seat                            = 
+| government_footnotes            = <ref name="Official">{{Cite web |url= http://www.sanjosedemaipo.cl/web/ |title= Municipality of San José de Maipo |accessdate= 27 July 2010 |language= es |url-status= dead |archiveurl= https://web.archive.org/web/20100808180616/http://www.sanjosedemaipo.cl/web/ |archivedate= 8 August 2010 }}</ref>
+| government_type                 = [[Municipality]]
+| leader_party                    = [[National Renewal (Chile)|RN]]
+| leader_title                    = [[Alcalde]]
+| leader_name                     = Luis Pezoa Álvarez
+| unit_pref                       = Metric
+| area_footnotes                  = <ref name="INE">{{cite web|url=http://www.censo2017.cl/descargue-aqui-resultados-de-comunas/|title= 2017 Chile Census |accessdate= 10 September 2020|language=es}}</ref>
+| area_total_km2                  = 4994.8
+| area_rank                       = 1
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = <ref name="INE"/>
+| population_total                = 18,189
+| population_as_of                = 2017 Census
+| population_density_km2          = auto
+| population_rank                 = 3
+| population_blank1_title         = [[Urban area|Urban]]
+| population_blank1               = 9311
+| population_blank2_title         = [[Rural area|Rural]]
+| population_blank2               = 4065
+| demographics_type1              = Sex
+| demographics1_footnotes         = <ref name="INE"/>
+| demographics1_title1            = Men
+| demographics1_info1             = 9,861
+| demographics1_title2            = Women
+| demographics1_info2             = 8,328
+| timezone                        = [[Time in Chile|CLT]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate=2010-07-26 |title=Chile Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20070911130719/http://www.world-time-zones.org/zones/chile-time.htm |archivedate=2007-09-11 }}</ref>
+| utc_offset1                     = -4
+| timezone_DST                    = [[Time in Chile|CLST]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-summer-time.htm |accessdate=2010-07-26 |title=Chile Summer Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm |archivedate=2007-09-11 }}</ref>
+| utc_offset1_DST                 = -3
+| postal_code_type                = 
+| postal_code                     = 
+| area_code_type                  = 
+| area_code                       = 56 + 53
+| website                         = [http://www.sanjosedemaipo.cl/ Municipality of San José de Maipo]
+| footnotes                       = 
+| official_name                   = 
+}}

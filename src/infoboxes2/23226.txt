@@ -1,0 +1,28 @@
+{{Infobox German location
+|type                = Stadt
+|image_photo        = <!-- Representative photo of location -->
+|imagesize          = <!-- Photo size. Default is 250px -->
+|image_caption      = <!-- Photo caption -->
+|image_coa             = Wappen der Stadt Langelsheim.PNG
+|coordinates        = {{coord|51|56|17|N|10|20|06|E|format=dms|display=inline,title}}
+|image_plan = Langelsheim in GS.svg
+|state         = Lower Saxony
+|district          = Goslar
+|elevation               = 204
+|area             = 48.72
+|population          = 12976
+|Stand              = 2006-06-30
+|pop_ref            = <ref>{{cite web|title=Bevölkerungsfortschreibung|url=http://www1.nls.niedersachsen.de/statistik/|author=Niedersächsisches Landesamt für Statistik |language=German}}</ref>
+|postal_code                = 38685
+|PLZ-alt            = <!-- Older postcode(s) - only when available - WILL NOT BE DISPLAYED-->
+|area_code            = 05326
+|licence                = GS
+|Gemeindeschlüssel  = 03 1 53 007
+|NUTS               = <!-- NUTS value: DEXXX  - WILL NOT BE DISPLAYED -->
+|LOCODE             = <!-- UN/LOCODE value: "DE XXX"  - WILL NOT BE DISPLAYED -->
+|divisions         = 5 districts
+|Straße             = Harzstraße 8
+|website            = [http://www.langelsheim.de www.langelsheim.de]
+|mayor      = Henning Schrader
+|party             = SPD
+}}

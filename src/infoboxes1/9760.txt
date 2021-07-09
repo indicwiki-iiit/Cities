@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Chuncheon}}
+| native_name             = {{lower|0.1em|{{lang|ko-Hang|춘천시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1          = Korean 
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|춘천시}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|春川市}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Chuncheon-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Ch'unch'ŏn-si
+| image_skyline           = Chuncheon-01.jpg
+| imagesize               = 
+| image_caption           = View of Soyang Bridge and Seoyang River
+| image_map               = Gangwon-Chuncheon.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Yeongseo]], [[Gwandong]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Gangwon Province (South Korea)|Gangwon]]
+| area_total_km2          = 1116.43
+| population_as_of        = Feb 2012
+| population_total        = 281,725
+| population_density_km2  = 225
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 9 ''myeon'', 15 ''dong''
+| coordinates             = {{coord|37|52|N|127|44|E|region:KR-42|display=it}}
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Humid continental climate#Hot/warm summer subtype|Dwa]]
+| image_blank_emblem      = Chuncheon logo.png
+| blank_emblem_type       = Emblem of Chuncheon
+| area_code          = +82-33-2xx
+}}

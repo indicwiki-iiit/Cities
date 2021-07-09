@@ -1,0 +1,121 @@
+{{Infobox settlement
+<!-- Basic info ---------------->
+|name                = North Las Vegas, Nevada
+|other_name          = 
+|native_name         = <!-- for cities whose native name is not in English -->
+|nickname            = 
+|settlement_type     = [[City]]
+|motto               = Your Community of Choice
+|nicknames           = North Town
+<!-- images and maps ----------->
+|image_skyline       = Northlasv.jpg
+|imagesize           = 
+|image_caption       = North Las Vegas and the surrounding [[Las Vegas Range]]
+|image_flag          = 
+|image_seal          = [[File:City_of_North_Las_Vegas_seal.png|x200px]]
+|seal_size           = 1000x847px
+|image_shield        = 
+|shield_size         = 
+|image_blank_emblem  = 
+|blank_emblem_size   = 
+|image_map           = Clark County Nevada Incorporated Areas North Las Vegas highlighted.svg
+|mapsize             = 250px
+|map_caption         = Location within Clark County
+|image_map1          = 
+|mapsize1            = 
+|map_caption1        = 
+|image_dot_map       = 
+|dot_mapsize         = 
+|dot_map_caption     = 
+|dot_x               = 
+|dot_y               = 
+|pushpin_map         = Nevada#USA
+|pushpin_map_caption = Location within Nevada##Location within the United States
+|pushpin_relief      = 1
+|pushpin_label       = North Las Vegas
+<!-- Location ------------------>
+| subdivision_type = Country
+|subdivision_name    = {{nowrap|{{Flag|United States}}}}
+|subdivision_type1   = [[U.S. state|State]]
+|subdivision_name1   = {{Flag|Nevada}}
+|subdivision_type2   = [[List of counties in Nevada|County]]
+|subdivision_name2   = {{Flagicon image}} [[Clark County, Nevada|Clark]]
+|subdivision_type3   = 
+|subdivision_name3   = 
+|subdivision_type4   = 
+|subdivision_name4   = 
+<!-- Politics ----------------->
+|government_footnotes = 
+|government_type     = [[Council-Manager]]
+|leader_title        = [[Mayor]]
+|leader_name         = [[John Jay Lee|John Lee]] ([[Republican Party (United States)|R]])
+|leader_title1       = Council
+|leader_name1        = Isaac Barron (Ward 1), Pamela Goynes-Brown (Ward 2), Scott Black (Ward 3), Richard Cherchio (Ward 4)
+|leader_title2       = City Manager
+|leader_name2        = Ryann Juden
+|leader_title3       = City Attorney
+|leader_name3        = Micaela Moore
+|leader_title4       = 
+|leader_name4        = 
+|established_title   = Founded
+|established_date    = {{Start date and age|1919}}<ref>{{cite web | url=http://www.nsladigitalcollections.org/northlasvegas | publisher=Nevada State Library, Archives and Public Records | title=North Las Vegas: About | access-date=December 22, 2015}}</ref>
+|established_title2  = Incorporated
+|established_date2   = {{Start date and age|1946|5|1}}
+<!-- Area  --------------------->
+|area_magnitude      = 
+|unit_pref           = Imperial
+|area_footnotes      = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_32.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_total_km2      = 253.67
+|area_land_km2       = 253.56
+|area_water_km2      = 0.11
+|area_total_sq_mi    = 97.94
+|area_land_sq_mi     = 97.90
+|area_water_sq_mi    = 0.04
+|area_water_percent  = 
+|area_urban_km2      = 
+|area_urban_sq_mi    = 
+|area_metro_km2      = 
+|area_metro_sq_mi    = 
+|area_blank1_title   = 
+|area_blank1_km2     = 
+|area_blank1_sq_mi   = 
+<!-- Population  ----------------------->
+|population_as_of     = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_note      = 
+|population_total     = 216961
+|population_density_km2         = 993.74
+|population_density_sq_mi       = 2573.76
+|population_metro               = 
+|population_density_metro_km2   = 
+|population_density_metro_sq_mi = 
+|population_urban               = 
+|population_density_urban_km2   = 
+|population_density_urban_sq_mi = 
+|population_blank1_title        = 
+|population_blank1              = 
+|population_density_blank1_km2  = 
+|population_density_blank1_sq_mi = 
+<!-- General information --------------->
+|timezone          = PST
+|utc_offset = &minus;8
+|timezone_DST      = PDT
+|utc_offset_DST = &minus;7
+|coordinates       = {{Coord|36|13|43|N|115|8|48|W|region:US-NV|display=inline}}
+|elevation_footnotes = <!--for references: use <ref> tags-->
+|elevation_m       = 672
+|elevation_ft      = 2205
+<!-- Area/postal codes & others -------->
+|postal_code_type  = [[ZIP code]]s
+|postal_code       = 89030–89033, 89036, 89081, 89084–89087
+|area_code         = [[Area codes 702 and 725|702 and 725]]
+|blank_name        = [[Federal Information Processing Standard|FIPS code]]
+|blank_info        = 32-51800
+|blank1_name       = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info       = 0847435
+|website           = {{URL|www.CityOfNorthLasVegas.com}}
+|footnotes         = 
+|pop_est_as_of     = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|population_est    = 251974
+}}

@@ -1,0 +1,71 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+|official_name            = Orcutt
+|other_name               = 
+|nickname                 = 
+|settlement_type          =[[Unincorporated community]]<br>[[Census-designated place]]
+<!-- images and maps  ----------->
+|image_skyline            = File:Clark Avenue Orcutt.jpg
+|imagesize                = 300px
+|image_caption            = Clark Avenue in downtown Old Orcutt, looking west, between Highways 1 and 135
+|image_map                = Santa_Barbara_County_California_Incorporated_and_Unincorporated_areas_Orcutt_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Santa Barbara County, California|Santa Barbara County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Barbara County, California|Santa Barbara]]
+<!-- Politics ----------------->
+|leader_title1            = [[California's 19th State Senate district|State Senator]]
+|leader_name1             = {{Representative|casd|19|fmt=sleader}}<ref name=swd/>
+|leader_title2            = [[California's 35th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|35|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=December 30, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title3            = [[California's 24th congressional district|U. S. Rep.]]
+|leader_name3             = {{Representative|cacd|24|fmt=usleader}}<ref>{{Cite GovTrack|CA|24|accessdate=September 29, 2014}}</ref>
+|established_title        = <!-- Founded -->
+|established_date         = 
+<!-- Area------------------>
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 11.129
+| area_land_sq_mi         = 11.124
+| area_water_sq_mi        = 0.005
+| area_total_km2          = 28.825
+| area_land_km2           = 28.811
+| area_water_km2          = 0.014
+| area_water_percent      = 0.05
+|area_metro_km2           = 
+|area_metro_sq_mi         =
+
+|elevation_footnotes      = <ref>{{Cite GNIS|1661153|Orcutt|access-date=February 19, 2015}}</ref>
+|elevation_ft             = 358
+|elevation_m              = 109
+<!-- Population   ----------------------->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 35262
+|population_density_sq_mi = auto
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|34|52|28|N|120|25|41|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 93455, 93457
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 805|805]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|54120}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1661153}}, {{GNIS 4|2408999}}
+}}

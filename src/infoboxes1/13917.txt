@@ -1,0 +1,23 @@
+{{Infobox UK place
+| country = England
+| coordinates = {{coord|53.782162|-0.413629|display=inline,title}}
+| label_position = right
+| official_name = Cottingham
+| population = 17,164
+| population_ref = ([[United Kingdom Census 2011|2011 census]])<ref name="2011 census"/>
+| civil_parish = Cottingham
+| unitary_england = [[East Riding of Yorkshire]]
+| region = Yorkshire and the Humber
+| lieutenancy_england = [[East Riding of Yorkshire]]
+| constituency_westminster = [[Haltemprice and Howden (UK Parliament constituency)|Haltemprice and Howden]]
+|historic_county=[[Yorkshire]]
+| post_town = COTTINGHAM
+| postcode_district = HU16
+| postcode_area = HU
+| dial_code = 01482
+| os_grid_reference = TA046329
+| static_image_name = Church of St. Mary the Virgin, Cottingham - geograph.org.uk - 747884.jpg
+| static_image_caption = Church of St Mary the Virgin
+| london_distance_mi = 155<!-- straight line per MOS – constant and comparable with other place distances -->
+| london_direction = S
+}}

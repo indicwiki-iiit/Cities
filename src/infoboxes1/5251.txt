@@ -1,0 +1,59 @@
+{{Infobox settlement
+|name          =  Samraong
+|other_name             =
+|native_name            = {{nobold|{{lang|km|ក្រុងសំរោង}}}}
+|nickname               = 
+|settlement_type        = [[List of cities in Cambodia|Town]]
+<!-- images and maps  ----------->
+|image_skyline          = Samraong.jpg
+|imagesize              = 250px
+|image_caption          = Samraong
+|image_map              = 
+|mapsize                =
+|map_caption            = Location of Samraong, Cambodia
+|pushpin_map            = Cambodia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location in Cambodia
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Cambodia}}
+|subdivision_type1      = [[Provinces of Cambodia|Province]]
+|subdivision_name1      = [[Oddar Meanchey]]
+|subdivision_type2      = [[Districts of Cambodia|District]]
+|subdivision_name2      = [[Samraong Municipality|Samraong]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = 
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2019
+|population_footnotes           = <ref>{{Cite web|url=http://nis.gov.kh/nis/Census2019/Final%20General%20Population%20Census%202019-English.pdf|title=General Population Census of the Kingdom of Cambodia 2019 – Final Results|publisher=[[Ministry of Planning (Cambodia)|Ministry of Planning]]|work=National Institute of Statistics|date=26 January 2021|access-date=4 February 2021}}</ref>
+|population_note                =
+|population_total               = 70944
+|population_density_km2         =
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = ICT
+|utc_offset             = +7
+|coordinates            = {{coord|14|15|N|103|35|E|region:KH|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 23
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                =
+|blank_name            =
+|blank_info            =
+|footnotes              = 
+}}

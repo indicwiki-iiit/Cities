@@ -1,0 +1,49 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name    = Kozan
+|image_skyline=
+|image_caption=
+|image_blank_emblem=
+|blank_emblem_type=
+|settlement_type  = City 
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{Flag|Turkey}}
+|pushpin_map      = Turkey
+|pushpin_label_position= <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption= Location of Kozan, Adana
+|pushpin_mapsize=
+|coordinates      = {{coord|37|27|N|35|48|E|region:TR|display=inline,title}}
+|subdivision_type1= [[Regions of Turkey|Region]]
+|subdivision_name1= Mediterranean 
+|subdivision_type2= [[Provinces of Turkey|Province]]
+|subdivision_name2= [[Adana Province|Adana]]
+|subdivision_type3= District
+|subdivision_name3= Kozan
+|leader_party     = [[Nationalist Movement Party|MHP]]
+|leader_title     = Mayor
+|leader_name      = Musa Öztürk
+|established_title= Founded
+|established_date = 3000 BC ({{age|-3000|1|1}} years ago)
+|established_title2= Incorporated
+|established_date2= {{Start date and age|1870|p=yes}}
+|area_footnotes   = {{Turkey district areas|SOURCE}}
+|area_blank1_title= District
+|area_blank1_km2  = {{Turkey district areas|Adana|Kozan}}
+|population_footnotes= {{Turkey district populations|SOURCE|Adana}}
+|population_urban = {{Turkey district populations|Adana|Kozan|şehir}}
+|population_as_of = {{Turkey district populations|YEAR}}
+|population_blank1_title= District
+|population_blank1= {{Turkey district populations|Adana|Kozan|toplam}}
+|population_density_blank1_km2= auto
+|elevation_m      = 120
+|timezone         = [[Eastern European Time|EET]]
+|utc_offset       = +2
+|map_caption      = Location of Kozan, Adana within Turkey.
+|timezone_DST     = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST   = +3
+|postal_code_type = [[Postal code]]
+|postal_code      = 01xx
+|area_code        = 0322 
+|blank_info       = 01
+|blank_name       = [[Turkish car number plates|Licence&nbsp;plate]] 
+|website          = http://www.kozan.gov.tr/ 
+}}

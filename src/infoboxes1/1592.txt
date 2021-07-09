@@ -1,0 +1,64 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Nnewi
+| official_name                   = Nnewi City
+| native_name                     = <!-- for cities whose native name is not in English -->
+| other_name                      = 
+| settlement_type                 = City
+<!-- images and maps  ----------->| image_skyline                   = Nnewi Skyview 1.jpg
+| imagesize                       = 300px
+| image_caption                   = A view of Nnewi City from the tower of Our Lady of Assumpta, Nnewi Catholic Cathedral.
+| nickname                        = Japan of Africa
+| motto                           = Leading Innovations
+| image_map                       = 
+| map_caption                     = Location within Nnewi City in the state of [[Anambra]]
+| pushpin_map                     = Nigeria<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_map_caption             = Location in Nigeria
+<!-- Location ------------------>| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Nigeria]]
+| subdivision_type1               = [[States of Nigeria|State]]
+| subdivision_name1               = [[Anambra State]]
+| subdivision_type2               = [[Local Government Areas in Nigeria|LGA]]
+| subdivision_name2               = [[Nnewi North]]
+| subdivision_type3               = [[Village|Quarters]]
+| subdivision_name3               = [[Otolo]], [[Uruagu]], [[Umudim]], [[Nnewichi]]
+<!-- History ------------------>| established_title               = Settled
+| established_date                = 1477
+| established_title2              = Incorporated town
+| established_date2               = 1904
+| established_title3              = Incorporated city
+| established_date3               = 27 August 1991<ref>{{cite web|title=Facts about Anambra State|url=http://anambrastate.gov.ng/abt_facts.php|website=Anambrastate.gov.ng|publisher=Anambra State Government|access-date=16 September 2015}}</ref>
+<!-- Politics ----------------->| government_type                 = Executive&nbsp;Chairman-Council
+| government_footnotes            = 
+| leader_title                    = Governing&nbsp;body
+| leader_name                     = Local Government Council
+| leader_title1                   = Party
+| leader_name1                    = [[People's Democratic Party (Nigeria)|PDP]] <br>[[All Progressives Grand Alliance|APGA]]
+| leader_title2                   = Chiarman
+| leader_name2                    = <!-- Area    --------------------->
+| unit_pref                       = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 520
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = <!-- Population   ----------------------->
+| population_footnotes            = <ref>Summing the 2 LGAs Nnewi North/South as per:<br />{{cite web|url=http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |title=Legal Notice on Publication of the Details of the Breakdown of the National and State Provisional Totals 2006 Census |author=Federal Republic of Nigeria Official Gazette |date=15 May 2007 |access-date=2007-05-19 |url-status=dead |archive-url=https://web.archive.org/web/20110626113456/http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |archive-date=June 26, 2011 }}</ref>
+| population_density_km2          = 4500 per square meter
+| population_note                 = 
+| population_total                = 391,227
+| population_as_of                = 2006 census
+| population_blank1_title         = 
+| population_blank1               = 
+| population_demonym              = Onye Nnewi
+<!-- General information  --------------->| timezone                        = [[West Africa Time|WAT]]
+| coordinates                     = {{coord|6|1|N|6|55|E|region:NG|display=inline,title}}
+| utc_offset                      = + 1
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = <!-- Area/postal codes & others -------->
+| postal_code_type                = [[Post Code]]
+| postal_code                     = 435101<ref>{{cite web|title=Postcode Map |author=Nigerian Postal Service |url=http://www.nipost.gov.ng/PostCode.aspx |access-date=2011-05-15 |url-status=dead |archive-url=https://web.archive.org/web/20091007011423/http://www.nipost.gov.ng/PostCode.aspx |archive-date=October 7, 2009 }}</ref>
+| area_code                       = 
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Tropical savanna climate|Aw]]
+| website = {{URL|https://nnewi.info/}}
+}}

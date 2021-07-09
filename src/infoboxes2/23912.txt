@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Vermilion, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "A Small Town on a Great Lake"
+
+<!-- Images -->
+|image_skyline            = Vermilion Ohio aerial view.jpg
+|image_caption            = Aerial view of Vermilion, Ohio. View is to the north over Lake Erie.
+|imagesize                = 250px
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Vermilion.png
+|mapsize                  = 250px
+|map_caption              = Location of Vermilion, Ohio
+|image_map1               = Map of Lorain County Ohio Highlighting Vermilion City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Vermilion in Lorain County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|Counties]]
+|subdivision_name2        = [[Lorain County, Ohio|Lorain]], [[Erie County, Ohio|Erie]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Jim Forthofer<ref>{{cite web |url=https://www.vermilionoh.us/government/mayor/ |title=Vermilion Ohio Mayor |work=Vermilion Ohio |access-date=2018-01-08 |archive-url=https://web.archive.org/web/20180109063934/https://www.vermilionoh.us/government/mayor/ |archive-date=2018-01-09 |url-status=dead }}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 27.83
+|area_land_km2            = 27.41
+|area_water_km2           = 0.42
+|area_total_sq_mi         = 10.75
+|area_land_sq_mi          = 10.58
+|area_water_sq_mi         = 0.16
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 10394
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 10594
+|population_density_km2   = 379.17
+|population_density_sq_mi = 982.05
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 181
+|elevation_ft             = 594
+|coordinates              = {{coord|41|24|29|N|82|19|02|W|region:US-OH_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44089
+|area_code                = [[Area code 440|440]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-79716<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1049274<ref name="GR3" />
+|website                  = {{URL|www.vermilion.net}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = Livermore
+|other_name               = <!-- Images and maps ------>
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Downtown Livermore California.jpg
+|image_caption            = Downtown Livermore
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_blank_emblem       = City of Livermore logo.svg
+|blank_emblem_size        = 250px
+|nickname                 = 
+|motto                    = 
+|image_map                = Alameda County California Incorporated and Unincorporated areas Livermore Highlighted.svg
+|map_caption              = Location of Livermore in Alameda County, California
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in California
+<!-- Location ------------->
+|coordinates              = {{coord|37|40|55|N|121|46|05|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_name2        = [[Alameda County, California|Alameda]]
+<!-- History -------------->
+|established_title        = Established
+|established_date         = 1869
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = April 1, 1876<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=March 27, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council–manager]]<ref name=manager/>
+|leader_title             = [[Mayor]]
+|leader_name              = Bob Woerner <ref name=govprofile>{{Cite web
+  | publisher = City of Livermore
+  | title = City Council
+  | url = http://www.cityoflivermore.net/citygov/council/default.htm
+  | access-date = 2018-01-22 }}</ref>
+|leader_title1            = [[Vice mayor]]
+|leader_name1             = Trish Munro <ref name=govprofile/>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_km2           = 68.50
+|area_total_sq_mi         = 26.45
+|area_land_km2            = 68.49
+|area_land_sq_mi          = 26.45
+|area_water_km2           = 0.01
+|area_water_sq_mi         = 0.00
+|area_water_percent       = 0.010
+|area_metro_sq_mi         = 2474
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|2410848|City of Livermore}}</ref>
+|elevation_ft             = 495
+<!-- Population ----------->
+|population_total         = 80968
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=qfd>{{Cite web
+ | url = http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-1/
+ | title = E-1 Population Estimates
+ | publisher = [[California Department of Finance]]
+ | access-date = December 22, 2017}}</ref>
+|population_density_sq_mi = 3410.31
+| population_est = 90189
+| pop_est_as_of = 2019
+| population_rank         = [[List of largest California cities by population|90th]] in California
+|population_metro         = 4516276
+|population_density_metro_sq_mi = auto
+<!-- Time zones ----------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94550, 94551
+|area_code                = [[Area code 925|925]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.cityoflivermore.net}}
+|leader_title2            = [[City manager]]
+|leader_name2             = Marc Roberts<ref name=manager>{{Cite web
+  | publisher = City of Livermore
+  | title = City Manager's Office
+  | url = http://www.cityoflivermore.net/citygov/manager/default.htm
+  | access-date = 2018-01-22 }}</ref>
+|leader_title3            = [[California's 15th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|15|fmt=usleader}}<ref name=GovTrack>{{Cite GovTrack|CA|15|access-date=March 14, 2013}}</ref>
+|leader_title4            = [[California's 7th State Senate district|State senator]]
+|leader_name4             = {{Representative|casd|7|fmt=sleader}}<ref name=SSenate>{{Cite web
+ |url=http://senate.ca.gov/senators
+ |title=Senators
+ |access-date=March 18, 2013
+ |publisher=State of California}}</ref>
+<!-- Area ----------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|41992}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277542}}, {{GNIS 4|2410848}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_density_km2 = 1316.74
+}}

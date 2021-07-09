@@ -1,0 +1,68 @@
+{{Infobox settlement
+| official_name                   = Weddington, North Carolina
+| settlement_type                 = [[Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = NCMap-doton-Weddington.PNG
+| mapsize                         = 250x200px
+| map_caption                     = Location of Weddington, North Carolina
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[North Carolina]]
+| subdivision_type2               = [[List of counties in North Carolina|Counties]]
+| subdivision_name2               = [[Union County, North Carolina|Union]], [[Mecklenburg County, North Carolina|Mecklenburg]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Elizabeth Callis
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 46.29
+| area_land_km2                   = 45.40
+| area_water_km2                  = 0.90
+| area_total_sq_mi                = 17.87
+| area_land_sq_mi                 = 17.53
+| area_water_sq_mi                = 0.35
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 9459
+| population_density_km2          = 246.32
+| population_density_sq_mi        = 637.99
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 223
+| elevation_ft                    = 732
+| coordinates                     = {{coord|35|1|19|N|80|43|55|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 28104, 28173
+| area_code                       = [[Area code 704|704]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 37-71680<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0996923<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = {{URL|http://www.townofweddington.com/}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 11182
+| name                            = 
+}}

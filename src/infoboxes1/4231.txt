@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->| name                            = San Mateo, California
+| official_name                   = City of San Mateo
+| native_name                     = <!-- for cities whose native name is not in English -->
+<!-- Images and maps ------>
+| other_name                      = 
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = MCB-san-mateo-aerial.jpg
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = San_Mateo_CA_seal.jpg
+| nickname                        = 
+| motto                           = 
+| image_map                       = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_San_Mateo_Highlighted.svg
+| map_caption                     = Location in [[San Mateo County, California|San Mateo County]] and the state of California
+| pushpin_map                     = San Francisco Bay Area##California##USA
+| pushpin_relief                  = yes
+| pushpin_map_caption             = Location in San Francisco Bay Area##Location in California##Location in the United States
+<!-- Location ------------->
+| coordinates                     = {{coord|37|33|15|N|122|18|47|W|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[San Mateo County, California|San Mateo]]
+<!-- History -------------->
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = September 4, 1894<ref>{{Cite web
+ | url = http://calafco.org/resources/incorporated-cities/california-cities-incorporation-date
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = January 13, 2017}}</ref>
+| named_for                       = [[Matthew the Apostle|St. Matthew]]
+<!-- Government ----------->
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Eric Rodriguez<ref>{{Cite web
+ | url = http://www.cityofsanmateo.org/index.aspx?nid=166
+ | title = Meet the Council
+ | publisher = San Mateo, CA
+ | access-date = June 4, 2020}}</ref>
+| leader_title1                   = [[City manager]]
+| leader_name1                    = Drew Corbett<ref>{{Cite web
+ | url = https://www.cityofsanmateo.org/1743/City-Manager
+ | title = Office of the City Manager
+ | publisher = San Mateo, CA
+ | access-date = April 11, 2018}}</ref>
+<!-- Area ----------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 41.04
+| area_total_sq_mi                = 15.85
+| area_land_km2                   = 31.42
+| area_land_sq_mi                 = 12.13
+| area_water_km2                  = 9.62
+| area_water_sq_mi                = 3.71
+| area_water_percent              = 23.63
+| area_metro_km2                  = <!-- Elevation ------------>
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1659584|San Mateo|access-date=December 3, 2014}}</ref>
+| elevation_m                     = 14
+<!-- Population ----------->
+| elevation_ft                    = 46
+| population_total                = 97207
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0668252.html|title=San Mateo (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 23, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150224004951/http://quickfacts.census.gov/qfd/states/06/0668252.html|archive-date=February 24, 2015|df=mdy-all}}</ref>
+| population_density_sq_mi        = 8607.81
+| population_est                  = 104430
+| pop_est_as_of                   = 2019
+| population_rank                 = [[List of largest California cities by population|68th]] in California<br />[[List of United States cities by population|298th]] in the United States
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- Time zones ----------->
+| postal_code_type                = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = December 3, 2014}}</ref>
+| postal_code                     = 94401–94404, 94497
+| area_code                       = [[Area code 650|650]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = {{URL|www.cityofsanmateo.org}}
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+<!-- Codes ---------------->
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|68252}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1659584}}, {{GNIS 4|2411800}}
+| population_density_km2          = 3323.38
+}}

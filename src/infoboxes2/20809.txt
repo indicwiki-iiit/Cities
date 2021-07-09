@@ -1,0 +1,41 @@
+{{Infobox Australian place
+| type = suburb
+| name = Nerang
+| city = [[Gold Coast, Queensland|Gold Coast]]
+| state = qld
+| image = Nerang Railway Station, Queensland, Apr 2012.JPG
+| caption = [[Nerang railway station, Queensland|Nerang railway station]]
+| coordinates         = {{coord|-27.9902|153.3358|type:city_region:AU-QLD|display=inline,title|name=Nerang (town centre)}}
+| pop                 = 16864
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4211
+| area                = 35.9
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 11.9 <!-- road distances as per template instructions -->
+| dir1                = W
+| location1           = [[Southport, Queensland|Southport]]
+| dist2               = 12.8
+| dir2                = W
+| location2           = [[Surfers Paradise, Queensland|Surfers Paradise]]
+| dist3               = 72.8
+| dir3                = SSE
+| location3           = [[Brisbane]]
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga = Gold Coast City
+| stategov = [[Electoral district of Gaven|Gaven]]
+| fedgov = [[Division of Moncrieff|Moncrieff]]
+| fedgov2 = [[Division of Wright|Wright]]
+| near-n = [[Pacific Pines, Queensland|Pacific Pines]]<br />[[Gaven, Queensland|Gaven]]
+| near-ne = [[Molendinar, Queensland|Molendinar]]
+| near-e = [[Ashmore, Queensland|Ashmore]]
+| near-se = [[Carrara, Queensland|Carrara]]
+| near-s = [[Gilston, Queensland|Gilston]]<br />[[Highland Park, Queensland|Highland Park]]
+| near-sw = [[Advancetown, Queensland|Advancetown]]
+| near-w = [[Mount Nathan, Queensland|Mount Nathan]]
+| near-nw = [[Maudsland, Queensland|Maudsland]]
+}}

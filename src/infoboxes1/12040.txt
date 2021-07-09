@@ -1,0 +1,20 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+| name                    = Nkongsamba
+| type                    = City
+| pushpin_map             = Cameroon<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Location in Cameroon
+| coordinates             = {{coord|04|57|N|09|56|E|region:CM_type:city|display=inline,title}}
+| elevation_m             = 826
+| established_title       = Founded
+| established_date        = 1917
+| subdivision_type        = Country
+| subdivision_name        = [[Image:Flag of Cameroon.svg|25px]] [[Cameroon]]
+| subdivision_type1       = [[Region of Cameroon|Region]]
+| subdivision_name1       = [[Littoral Region (Cameroon)|Littoral]]
+| subdivision_type2       = [[Departments of Cameroon|Department]]
+| subdivision_name2       = [[Moungo (department)|Moungo]] 
+| population_as_of        = 2005
+| population_total        = 104,050 (Census)
+}}

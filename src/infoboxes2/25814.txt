@@ -1,0 +1,32 @@
+{{Infobox settlement
+| name                   = Omer
+| native_name            = {{Lang|he|{{Script/Hebrew|עֹומֶר, עומר}}|rtl=yes}}
+| settlement_type        = [[Local council (Israel)|Local council]] (from 1949)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = ʕomr
+| image_skyline          = Omer, Israel 1.jpg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel north negev#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|15|51|N|34|50|49|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{ISR}}
+| subdivision_type1      = [[Districts of Israel|District]]
+| subdivision_name1      = [[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1949
+| leader_title           = Head of Municipality
+| leader_name            = [[Pini Badash]]
+| unit_pref              = dunam
+| area_total_km2         = {{formatnum:20.1|R}}
+| area_total_dunam       = {{formatnum:20,126|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Omer}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Sheaf
+}}

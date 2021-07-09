@@ -1,0 +1,41 @@
+{{Infobox Greek Dimos
+ |name = Veria
+ |name_local = Βέροια
+|image_map = 2011 Dimos Verias.png
+ |periph = [[Central Macedonia]]
+|periphunit         = [[Imathia]]
+|pop_municipality   = 66547
+|area_municipality  = 796.5
+|pop_municunit   = 48306
+|area_municunit   = 359.1
+ |population_as_of = 2011
+ |elevation = 128
+ |coordinates        = {{coord|40|31|N|22|12|E|format=dms|display=inline,title}}
+ |postal_code = 591 31, 591 32
+ |area_code = 2331
+ |licence = ΗΜ
+ |mayor = Konstantinos Voriazidis
+ |website = [http://www.veria.gr www.veria.gr]
+ |image_skyline      = Panoramic view of Veria - 2014.JPG
+ |caption_skyline    = Panoramic view
+ |city_flag          =
+ |city_seal          = Veria Logo.png
+ |districts          =
+ |party              =
+ |since              =
+ |elevation_min      =
+ |elevation_max      =
+ |footnotes          = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Archaeological Site of [[Vergina|Aigai (modern name Vergina)]]
+| includes      = {{flatlist|
+#Ancient City and Necropolis of Aegae
+#Bronze Age settlement and Cemetery of Tumuli
+}}
+| criteria      = {{UNESCO WHS type|(i)(iii)}}(i)(iii)
+| ID            = 780
+| year          = 1996
+| area          = {{convert|1,420.81|ha|acre|abbr=on}}
+| buffer_zone   = {{convert|4,811.73|ha|acre|abbr=on}}
+}}
+}}

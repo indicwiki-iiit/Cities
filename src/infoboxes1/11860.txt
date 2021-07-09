@@ -1,0 +1,113 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = 's-Hertogenbosch
+| other_name              = Den Bosch
+| settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = {{Photomontage|position=center
+ | photo1a = 's-Hertogenbosch - Panorama - Gezicht op Sint Jan vanaf Sint Jacobskerktoren - RCE.jpg
+ | photo2a = St. Jans cathedral 's-Hertogenbosch.jpg
+ | photo2b = Binnendieze 's-Hertogenbosch.jpg
+ | photo3a = Overzicht - 's-Hertogenbosch - 20413415 - RCE - Cropped.jpg
+ | photo3b = Overzicht zuidwestgevel met traptorens - 's-Hertogenbosch - 20343686 - RCE.jpg
+ | photo3c = Overzicht westgevel met klokketoren - 's-Hertogenbosch - 20534558 - RCE.jpg
+ | photo4a = Tzanddenbosch-cropped.jpg
+ | photo4b = Hieronymus Bosch-cropped.jpg
+ | photo4c = Noordbrabants Museum DSCF2391-Cropped.jpg
+ | photo5a = Overzicht van de zuidwestgevel met kerktoren - 's-Hertogenbosch - 20381297 - RCE.jpg
+ | photo5b = 's-Hertogenbosch Rijksmonument 21719 Stadhuis, Markt 1 - Cropped.jpg
+ | photo6a = 's-Hertogenbosch, straatzicht Statenlaan positie2 foto10 2016-12-04 13.51.jpg
+ | spacing = 2
+ | color = #FFFFFF
+ | border = 0
+ | size = 270
+ | foot_montage = From top down, left to right: view over the city centre, the city seen from the Bossche Brook, [[Binnendieze]] canals, Province Hall of [[North Brabant]], St. Catherine Church, New St. James Church, Dragon Fountain, [[Hieronymus Bosch]], North Brabant Museum, [[St. John's Cathedral ('s-Hertogenbosch)|St. John's Cathedral]], City hall of 's-Hertogenbosch, Paleiskwartier}}
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Flag_of_'s-Hertogenbosch.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = S-Hertogenbosch wapen.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0796 (2019).svg
+| map_alt                 = Highlighted position of 's-Hertogenbosch in a municipal map of North Brabant
+| map_caption             = Location in North Brabant
+| pushpin_map             = Netherlands#Netherlands North Brabant
+|pushpin_map_alt         = 
+|pushpin_map_caption     = 
+|pushpin_label_position  = 
+| coordinates             = {{coord|51|41|N|5|18|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[North Brabant]]
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url = http://www.s-hertogenbosch.nl/samenstelling-college/
+ |title = Samenstelling van het college
+ |trans-title = Members of the board
+ |language = nl
+ |publisher = Gemeente 's-Hertogenbosch
+ |access-date = 12 April 2014
+ |archive-date = 25 December 2018
+ |archive-url = https://web.archive.org/web/20181225180741/https://www.s-hertogenbosch.nl/college.html
+ |url-status = dead
+ }}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[People's Party for Freedom and Democracy|VVD]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Jack Mikkers]]
+<!-- Geographic information -->
+| total_type              = Municipality
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|'s-Hertogenbosch}}
+| area_land_km2           = {{Dutch municipality land area|'s-Hertogenbosch}}
+| area_water_km2          = {{Dutch municipality water area|'s-Hertogenbosch}}
+| elevation_footnotes     = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool 
+ |title=Postcodetool for 5211HH 
+ |language=nl 
+ |work=Actueel Hoogtebestand Nederland 
+ |publisher=Het Waterschapshuis 
+ |access-date=15 April 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool 
+ |archive-date=21 September 2013 
+}}</ref>
+| elevation_m             = 6
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref><ref>{{cite news|title=De grenzeloze regio|url=https://books.google.com/books?id=b2yY6YDcyvsC&pg=PP1|publisher=[[Sdu (publishing company)|Sdu uitgevers]]|quote=Het BBP van BrabantStad ligt op 14.7% van het nationale BBP. In de regio liggen Philips, de Technische Universiteit Eindhoven, de Universiteit Tilburg en de HAS Den Bosch. De regio heeft 1.4 miljoen inwoners. Er is veel R&D, ICT, automotive, logistiek en agribusiness.|date=2007|isbn = 9789012124577}}</ref>{{efn|‘'''Metropolitan region Waalboss'''’<br>
+'''Stedelijke regio streekplan Waalboss'''<br>143,733 – 's-Hertogenbosch<br>84,954 – Oss<br>46,498 – Waalwijk<br>43,165 – Heusden<br>25,638 – Vught<br>11,242 – Maasdonk<br>+ 355,230}}
+| population_total        = {{Dutch municipality population|'s-Hertogenbosch}}
+| population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_density_km2  = {{Dutch municipality population density|'s-Hertogenbosch}} <!-- For automatic calculation: auto-->
+| population_urban        = {{Dutch municipality population urbanmetro|'s-Hertogenbosch Urban}}
+| population_metro        = {{Dutch municipality population urbanmetro|'s-Hertogenbosch Metro}}
+| population_blank1_title = <abbr style="border-bottom: none;" title="Waalboss metropolitan region">Metro region</abbr>
+| population_blank1       = 355230
+| population_blank2_title = [[Brabant metropolitan area|<abbr style="border-bottom: none;" title="Brabant Combined Metropolitan Statistical Area">Brabant CMSA</abbr>]]
+| population_blank2       = 1932055
+| population_demonym      = Bosschenaar
+<!-- Other information -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 5200–5249
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 073
+| website                 = {{URL|1=http://s-hertogenbosch.nl}}
+| footnotes               =
+}}

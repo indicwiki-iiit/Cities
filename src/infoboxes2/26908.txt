@@ -1,0 +1,37 @@
+{{Infobox Australian place
+| type     = town
+| name     = Beaudesert
+| state    = qld
+| image    = BeaudesertMainStreet.JPG
+| caption  = Main street of Beaudesert
+| coordinates         = {{coord|-27.9880|152.9958|type:city_region:AU-QLD|display=inline|name=Beaudesert (centre of town)}}
+| pop                 = 6395
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1870s<ref name="heritage">{{cite book |title=Heritage Trails of the Great South East |last=Queensland Environmental Protection Agency |year=2000 |publisher=State of Queensland |isbn=0-7345-1008-X |page=28 }}</ref>
+| postcode            = 4285
+| area                = 43.6
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| lga      = Scenic Rim Region
+| stategov = [[Electoral district of Scenic Rim|Scenic Rim]]
+| fedgov   = [[Division of Wright|Wright]]
+| elevation= 50
+| maxtemp  = 25.6
+| mintemp  = 12.6
+| rainfall = 905.4
+| dist1    = 57.8
+| dir1     = W
+| location1= [[Surfers Paradise, Queensland|Surfers Paradise]]
+| dist2    = 69.9
+| dir2     = S
+| location2= Brisbane
+| near-n              = [[Veresdale, Queensland|Veresdale]]
+| near-ne             = [[Birnam, Queensland|Birnam]]
+| near-e              = [[Tabragalba, Queensland|Tabragalba]]
+| near-se             = [[Nindooinbah, Queensland|Nindooinbah]]
+| near-s              = [[Cryna, Queensland|Cryna]]<br/>[[Kerry, Queensland|Kerry]]
+| near-sw             = [[Josephville, Queensland|Josephville]]
+| near-w              = [[Bromelton, Queensland|Bromelton]]
+| near-nw             = [[Gleneagle, Queensland|Gleneagle]]
+}}

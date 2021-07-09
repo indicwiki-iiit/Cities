@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Artvin
+|settlement_type = [[Municipality]]
+| image_skyline           = File:Artvin, Turkey. View from the construction site of the new dam.jpg
+| image_caption           = View of Artvin from Deriner Dam
+| image_shield            = 
+| pushpin_map             = Turkey#Caucasus mountains
+| coordinates             = {{coord|41|11|00|N|41|49|05|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Artvin Province|Artvin]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Republican People's Party (Turkey)|CHP]]
+| leader_title            = Mayor
+| leader_name             = Demirhan Elçin
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = 
+| elevation_m             = 345
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Artvin|Artvin}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Artvin}}
+| population_urban        = {{Turkey district populations|Artvin|Artvin|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Artvin|Artvin|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Oceanic climate|Cfb]]
+| postal_code_type        = Post code
+| postal_code             = 0800
+| website                 = {{URL| www.artvin.bel.tr | www.artvin.bel.tr }}
+}}

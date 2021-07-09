@@ -1,0 +1,41 @@
+{{Infobox Australian place
+| type     = town
+| name     = Burpengary
+| city     = 
+| state    = qld
+| image    = Moreton Bay Central Sports Complex March 2018.jpg
+| caption  = Moreton Bay Central Sports Complex, 2018
+| coordinates         = {{coord|-27.1545|152.9730|type:city_region:AU-QLD|display=inline|name=Burpengary (town centre)}}
+| pop                 = 14022
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4505
+| area                = 22.5
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 9.0 <!-- road distances as per template instructions -->
+| dir1                = S
+| location1           = [[Caboolture, Queensland|Caboolture]]
+| dist2               = 17.4
+| dir2                = N
+| location2           = [[Strathpine, Queensland|Strathpine]]
+| dist3               = 19.1
+| dir3                = NW
+| location3           = [[Redcliffe, Queensland|Redcliffe]]
+| dist4               = 38.9
+| dir4                = N
+| location4           = [[Brisbane CBD]]
+| lga                 = [[Moreton Bay Region]]
+| stategov            = [[Electoral district of Kurwongbah|Kurwongbah]]
+| stategov2           = [[Electoral district of Morayfield|Morayfield]]
+| fedgov              = [[Division of Longman|Longman]]
+| near-n              = [[Morayfield, Queensland|Morayfield]]
+| near-ne             = [[Burpengary East, Queensland|Burpengary East]]
+| near-e              = [[Burpengary East, Queensland|Burpengary East]]
+| near-se             = [[Deception Bay, Queensland|Deception Bay]]
+| near-s              = [[Narangba, Queensland|Narangba]]
+| near-sw             = [[Narangba, Queensland|Narangba]]
+| near-w              = [[Morayfield, Queensland|Morayfield]]
+| near-nw             = [[Morayfield, Queensland|Morayfield]]
+}}

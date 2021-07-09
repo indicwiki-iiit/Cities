@@ -1,0 +1,23 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+|name                   = Uspallata
+|settlement_type        = Village
+|image_skyline          = Delegation municipal, Uspallata.jpg
+|imagesize              = 
+|image_caption          = Municipal House, Uspallata
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Argentina}}
+|subdivision_type1      = Province
+|subdivision_name1      = {{flag|Mendoza}}
+|subdivision_type2      = Department
+|subdivision_name2      = [[Las Heras Department|Las Heras]]
+|elevation_m            = 2039
+|population_total       = 3437
+|coordinates            = {{coord|32|34|S|69|19|W|region:AR|display=inline,title}}
+|postal_code_type       =[[Postal codes in Argentina|Postal code]]
+|postal_code            =[[ISO 3166-2:AR|M]]5553
+|area_code_type         =[[Telephone numbers in Argentina|Phone code]]
+|area_code              =+54 261
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Desert climate#Cold desert climates|BWk]]
+}}

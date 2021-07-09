@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                   = Bonnyville
+|official_name          = Town of Bonnyville
+|other_name             = 
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town<!--For Town or Village (Leave blank for the default City)-->
+|motto                  = ''It's Multi-Natural''
+|image_skyline          = Alberta Wheat Pool grain elevators in Bonnyville, Alberta.jpg
+|image_caption          = Grain elevators, 1974
+|image_flag             = Flag of Bonnyville.svg
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = Bonnyville-logo.png
+|image_map              = 0035 Town Bonnyville, Alberta Locator.svg
+|map_caption            = Location in the MD of Bonnyville No. 87
+|pushpin_map            = Canada Alberta<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_map_caption    = Location of Bonnyville in [[Alberta]]
+|pushpin_mapsize        = 
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Canada}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{flag|Alberta}}
+|subdivision_type2      = [[List of regions of Canada#Alberta|Region]]
+|subdivision_name2      = [[Northern Alberta]]
+|subdivision_type3      = [[Land-use framework regions of Alberta|Planning region]]
+|subdivision_name3      = [[Lower Athabasca Region|Lower Athabasca]]
+|subdivision_type4      = [[List of municipal districts in Alberta|Municipal district]]
+|subdivision_name4      = [[Municipal District of Bonnyville No. 87]]
+|government_footnotes   = <ref>{{AMOS|iso}}</ref>
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Gene Sobolewski
+|leader_title1          = Governing&nbsp;body
+|leader_name1           = Bonnyville Town Council
+|leader_title2          = [[Current members of the Canadian House of Commons|MP]]
+|leader_name2           = [[Shannon Stubbs]] ([[Conservative Party of Canada|Conservative]])—[[Lakeland (electoral district)|Lakeland]]
+|leader_title3          = [[Legislative Assembly of Alberta|MLA]]
+|leader_name3           = [[Dave Hanson (politician)|Dave Hanson]] ([[United Conservative Party]]) — [[Bonnyville-Cold Lake-St. Paul]]
+|established_title      = Founded
+|established_date       = 
+|established_title1     = Incorporated<ref name=AMATownProfiles>{{cite web | url=http://www.municipalaffairs.alberta.ca/cfml/MunicipalProfiles/basicReport/TOWN.PDF | publisher=[[Alberta Municipal Affairs]] | title=Location and History Profile: Town of Bonnyville | page=78 | date=October 7, 2016 | access-date=October 11, 2016}}</ref>
+|established_date1      = &nbsp;
+|established_title2     = &nbsp;•&nbsp;[[List of villages in Alberta|Village]]
+|established_date2      = September 19, 1929
+|established_title3     = &nbsp;•&nbsp;[[List of towns in Alberta|Town]]
+|established_date3      = February 3, 1948
+|area_footnotes         = &nbsp;(2016)<ref name=2016censusABmunis/>
+|area_total_km2         = 
+|area_land_km2          = 14.18
+|area_water_km2         = 
+|area_water_percent     = 
+|population_as_of       = 2016
+|population_footnotes   = <ref name=censuscorrection/>
+|population_note        = 
+|population_total       = 5975 <!-- 2016 StatCan population only per [[WP:CANPOP]];  do not replace with latest municipal census population count; this municipal census population count can go in the population_blank1_title and population_blank1 parameters further below and can be noted in the article body (so long as it doesn't replace the 2016 StatCan population in the body). -->
+|population_density_km2 = auto
+|timezone               = [[Mountain Standard Time|MST]]
+|utc_offset             = −7
+|timezone_DST           = MDT
+|utc_offset_DST         = −6
+|coordinates            = {{coord|54|16|05|N|110|43|49|W|region:CA-AB|display=inline}}
+|elevation_footnotes    = <ref>{{cite web | url=http://www.safetycodes.ab.ca/Public/Documents/PSSSOP_Handbook_Version_12_Online_Feb_21_2012b.pdf | title=Alberta Private Sewage Systems 2009 Standard of Practice Handbook: Appendix A.3 Alberta Design Data (A.3.A. Alberta Climate Design Data by Town) | publisher=Safety Codes Council | type=PDF | pages=212–215 (PDF pages 226–229) | date=January 2012 | access-date=October 8, 2013 | archive-date=October 16, 2013 | archive-url=https://web.archive.org/web/20131016085027/http://www.safetycodes.ab.ca/Public/Documents/PSSSOP_Handbook_Version_12_Online_Feb_21_2012b.pdf | url-status=dead }}</ref>
+|elevation_m            = 564
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of T postal codes of Canada|T9N]]
+|area_code              = [[Area code 780|+1-780]], [[Area code 587|+1-587]]
+|blank_name             = Highways
+|blank_info             = [[Alberta Highway 28|Highway 28]]<br />[[Alberta Highway 41|Buffalo Trail]]
+|blank1_name            = Waterways
+|blank1_info            = [[Moose Lake (Alberta)|Moose Lake]]<br />[[Beaver River (Canada)|Beaver River]]
+|website                = {{Official website|www.town.bonnyville.ab.ca}}
+|footnotes              = 
+}}

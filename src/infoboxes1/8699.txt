@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|official_name          = Gulariya
+|other_name             = गुलरिया नगरपालिका
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          =Baglamukhi temple with Gulariya skyline at the background.JPG
+|image_caption          =The photo shows the Baglamukhi Temple which is the most popular temple among people in the Bardiya District region.
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country<!--Country-->
+|subdivision_name       = {{flag|Nepal}}<!--the name of the country-->
+|subdivision_type1      = [[Regions of Nepal|Development Region]]
+|subdivision_name1      = [[Mid-Western Region, Nepal|Mid-Western]]
+|subdivision_type2      = [[Provinces of Nepal|Province]]
+|subdivision_name2      = [[Province No. 5]]
+|subdivision_type3      = [[Districts of Nepal|District]]
+|subdivision_name3      = [[Bardiya district|Bardiya]]
+|subdivision_type4      = [[List of cities in Nepal#Alphabetical list|Municipality]]
+|subdivision_name4      = Gulariya
+
+<!-- Politics -->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[Mayor]]
+|leader_name            = Mukti Nath Yadav ([[Nepali Congress|NC]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Sushila Giri ([[Nepali Congress|NC]])
+|established_title      = Incorporated
+|established_date       = January 24, 1997
+
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 55,747
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+|population_blank2_title        = Religions
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|28|13|59|N|81|19|59|E|type:city_region:NP|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       =  [[Postal code]]
+|postal_code            = 21800
+|area_code              = 084
+|blank_name             =
+|blank_info             =
+|website                = [http://gulariyamun.gov.np gulariyamun.gov.np]
+|footnotes              = 
+}}

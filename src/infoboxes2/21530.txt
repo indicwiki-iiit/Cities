@@ -1,0 +1,26 @@
+{{Infobox Australian place | type = suburb
+| name     = Australind
+| state    = wa
+| image    = [[File:Australind.jpg|250px]]
+| caption  = 
+| lga      = [[Shire of Harvey]]
+| coordinates = {{coord|33.280|S|115.726|E|display=inline,title}}
+| pushpin_map_caption = Location in Western Australia
+| postcode = 6233
+| area     = 7.3
+| pop      = 14,539
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016Y />
+| est      = 1841
+| stategov = [[Electoral district of Murray-Wellington|Murray-Wellington]]
+| fedgov   = [[Division of Forrest|Forrest]]
+| dist1    = 12 | location1 = [[Bunbury, Western Australia|Bunbury]]
+| near-nw  =
+| near-n   = [[Leschenault, Western Australia|Leschenault]]
+| near-ne  = [[Kemerton, Western Australia|Kemerton]]
+| near-w   =
+| near-e   = [[Kingston, Western Australia|Kingston]]
+| near-sw  = [[Pelican Point, Western Australia|Pelican Point]]
+| near-s   = [[Eaton, Western Australia|Eaton]]
+| near-se  = [[Millbridge, Western Australia|Millbridge]]
+}}

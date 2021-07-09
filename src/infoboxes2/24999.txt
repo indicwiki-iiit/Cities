@@ -1,0 +1,27 @@
+{{Infobox Australian place 
+| type = town
+| name     = Forbes
+| state    = nsw
+| image    = ForbesCourtHouse.jpg
+| caption  = Court house built in 1880
+| relief   = 1
+| coordinates = {{coord|33|23|0|S|148|01|0|E|display=inline,title}}
+| pop      =  8432
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS" />
+| postcode = 2871
+| dist1    = 33 
+| dir1     = SSW
+| location1 = [[Parkes, New South Wales|Parkes]]
+| dist2    = 118 
+| dir2     = W
+| location2 = [[Orange, New South Wales|Orange]]
+| lga      = Forbes Shire Council
+| county = [[Ashburnham County|Ashburnham]]
+| stategov = [[Electoral district of Orange|Orange]]
+| fedgov = [[Division of Riverina|Riverina]]
+| maxtemp  = 23.8
+| mintemp  = 10.0
+| rainfall = 526.3
+| est      = 1861
+}}

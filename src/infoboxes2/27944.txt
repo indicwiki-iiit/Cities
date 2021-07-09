@@ -1,0 +1,91 @@
+{{Infobox settlement
+|name                     = Greenwich Township, New Jersey
+|official_name            = Township of Greenwich
+|settlement_type          = [[Township (New Jersey)|Township]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Teaburners Monument.JPG
+|imagesize                = 250x200px
+|image_caption            = Teaburners' Monument
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Map of Cumberland County highlighting Greenwich Township.png
+|mapsize                  = 250x200px
+|map_caption              = Greenwich Township highlighted in Cumberland County. Inset map: Cumberland County highlighted in the State of New Jersey.
+|image_map1               = Census_Bureau_map_of_Greenwich_Township,_Cumberland_County,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of Greenwich Township, Cumberland County, New Jersey
+|pushpin_map              = USA New Jersey Cumberland County#USA New Jersey#USA
+|pushpin_label            = Greenwich Township
+|pushpin_map_caption      = Location in Cumberland County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_Cumberland_County,_New_Jersey.gif}} [[Cumberland County, New Jersey|Cumberland]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Township (New Jersey)|Township]]
+|governing_body           = Township Committee
+|leader_title             = [[Mayor]]
+|leader_name              = William C. Reinhart ([[Democratic Party (United States)|D]], term ends December 31, 2020)<ref name=Committee/><ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020. As of date accessed, Reinhart  is listed with an incorrect term-end year of 2021.</ref>
+|leader_title1            = [[Municipal clerk]]
+|leader_name1             = Lisa Garrison<ref>[http://www.historicgreenwichnj.org/municipal-directory/ Municipal Government and Services], Historic Greenwich NJ. Accessed March 27, 2020.</ref>
+|established_title        = Established
+|established_date         = January 19, 1748
+|established_title1       = [[Municipal corporation|Incorporated]]
+|established_date1        = February 21, 1798
+|named_for                = [[Greenwich]], England
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 48.55
+|area_land_km2            = 46.03
+|area_water_km2           =  2.52
+|area_total_sq_mi         = 18.75
+|area_land_sq_mi          = 17.77
+|area_water_sq_mi         =  0.97
+|area_water_percent       =  5.19
+|area_rank                = 152nd of 565 in state<br>11th of 14 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3401128170 DP-1 - Profile of General Population and Housing Characteristics: 2010 for Greenwich township, Cumberland County, New Jersey] {{Webarchive|url=https://archive.today/20200212104523/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3401128170 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed October 23, 2012.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_cum/greenwich1.pdf Profile of General Demographic Characteristics: 2010 for Greenwich township], [[New Jersey Department of Labor and Workforce Development]]. Accessed October 23, 2012.</ref>
+|population_total         = 804 
+|population_rank          = 544th of 566 in state<br>13th of 14 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed October 23, 2012.</ref> 
+|population_density_km2   = auto 
+|population_density_sq_mi = 45.1
+|population_density_rank  = 557th of 566 in state<br>13th of 14 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 758
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Gnis|882058|Township of Greenwich}}, [[Geographic Names Information System]]. Accessed March 5, 2013.</ref>
+|elevation_m              = 
+|elevation_ft             = 20
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|39.396273|-75.367551|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 08323<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=greenwich&state=NJ Look Up a ZIP Code for Greenwich, NJ], [[United States Postal Service]]. Accessed October 23, 2012.</ref><ref>[http://www.historicgreenwichnj.org/post-office.html Greenwich U. S. Post Office] {{Webarchive|url=https://web.archive.org/web/20130323010215/http://www.historicgreenwichnj.org/post-office.html |date=March 23, 2013 }}, Historic Greenwich. Accessed October 23, 2012.</ref><ref>[http://www.state.nj.us/infobank/njzips.htm Zip Codes], State of [[New Jersey]]. Accessed September 9, 2013.</ref>
+|area_code                = [[Area code 856|856]] [[Telephone exchange|exchanges]]: 451, 453, 455<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCity=Greenwich Area Code Lookup - NPA NXX for Greenwich, NJ], Area-Codes.com. Accessed September 9, 2013.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3401128170<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0882058<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.historicgreenwichnj.org}}
+|footnotes                = 
+}}

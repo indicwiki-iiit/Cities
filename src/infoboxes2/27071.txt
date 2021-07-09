@@ -1,0 +1,60 @@
+{{Infobox Australian place
+| type                     = town
+| name                     = Naracoorte
+| state                    = sa
+| image                    = Naracoorte V class.jpg
+| caption                  = A [[South Australian Railways V class]] locomotive in a park in Naracoorte
+| image_alt                = 
+| relief                   = 
+| coordinates              = {{coord|36.955|S|140.74285|E|format=dms|display=inline,title}}
+| coord_ref = <ref name=LMV>{{cite web|title= Search results for Naracoorte, LOCB’ with the following datasets selected – ‘Suburbs and Localities’, ‘Government towns', 'Counties', 'Local Government Area', 'SA Government Regions' and ‘Gazetteer’ |url= http://location.sa.gov.au/viewer/?map=roads&x=140.74773&y=-36.96055&z=12&uids=19,2,115,11,20,105&pinx=140.742850&piny=-36.955000&pinTitle=Location&pinText=Naracoorte,+Locb |website=Location SA Map Viewer |publisher= South Australian Government |access-date=30 June 2018 }}</ref>
+| pushpin_label_position   = left
+| map_alt                  = 
+| pop                      = 5,960
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC41002 |name=Naracoorte (State Suburb) |accessdate=28 January 2018 |quick=on}}</ref>
+| poprank                  = 
+| density                  = 
+| density_footnotes        = 
+| established              = 1845
+| established_footnotes    = 
+| abolished                = 
+| gazetted                 = 
+| postcode                 = 5271<ref name="postcode">{{cite web |title=Postcode for Naracoorte, South Australia |url=https://postcodes-australia.com/areas/sa/country+south+australia/naracoorte |website=Postcodes Australia |publisher=postcodes-australia.com |access-date=1 July 2018}}</ref>
+| elevation                = 
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone = [[UTC9:30|ACST]]
+| utc = +9:30
+| timezone-dst = [[UTC10:30|ACST]]
+| utc-dst = +10:30
+| dist1                    = 297
+| dir1                     = SE
+| location1                = [[Adelaide city centre|Adelaide]]
+| dist2                    = 97
+| dir2                     = N
+| location2                = [[Mount Gambier, South Australia|Mount Gambier]]
+| lga                      = Naracoorte Lucindale Council
+| region                   = [[Limestone Coast]]<ref name=LMV/>
+| county                   = [[County of Robe|Robe]]<ref name=LMV/>
+| stategov                 = [[electoral district of MacKillop|MacKillop]]
+| fedgov                   = [[Division of Barker|Barker]]
+| url                      = 
+| maxtemp                  = 21.6
+| maxtemp_footnotes        = <ref name =climate/>
+| mintemp                  = 8.0
+| mintemp_footnotes        = <ref name =climate/>
+| rainfall                 = 483.8
+| rainfall_footnotes       = <ref name =climate/>
+| near-n                   = [[Lochaber, South Australia|Lochaber]]<br/>[[Wild Dog Valley, South Australia|Wild Dog Valley]]
+| near-ne                  = [[Hynam, South Australia|Hynam]]
+| near-e                   = [[Hynam, South Australia|Hynam]]
+| near-se                  = [[Mount Light, South Australia|Mount Light]]
+| near-s                   = [[Mount Light, South Australia|Mount Light]]
+| near-sw                  = [[Moyhall, South Australia|Moyhall]]
+| near-w                   = [[Stewart Range, South Australia|Stewart Range]]
+| near-nw                  = [[Lochaber, South Australia|Lochaber]]
+| near                     = Naracoorte
+| footnotes                = Locations<ref name="postcode"/><br/>Adjoining localities<ref name=LMV/>
+}}

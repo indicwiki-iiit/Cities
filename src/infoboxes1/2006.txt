@@ -1,0 +1,23 @@
+{{Infobox settlement
+|name                   =Ubiaja
+|settlement_type        =Town
+|pushpin_map            =Nigeria 
+|pushpin_label_position =bottom
+|pushpin_mapsize        =200
+|pushpin_map_caption    =Location in Nigeria
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nigeria}}
+|subdivision_type1      = [[States of Nigeria|State]]
+|subdivision_name1      = [[Edo State]]
+|subdivision_type2      = [[Local Government Areas of Nigeria|Local Government Area]]
+|subdivision_name2      = [[Esan South-East]]
+|timezone               = [[West Africa Time|WAT]] 
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|06|39|35|N|06|22|56|E|region:NG|display=inline}}
+|elevation_m            = 
+|elevation_ft           =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+}}

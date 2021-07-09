@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                   = Dimona
+| native_name            = {{Lang|he|{{Script/Hebrew|דִּימוֹנָה}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Dimonah
+| image_skyline          = File:Dimona Aerial View.jpg
+| image_caption          = Aerial view of Dimona
+| image_blank_emblem     = Dimona COA.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel north negev#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = right
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|4|N|35|2|E|display=inline,title|format=dms}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1955
+| leader_title           = Mayor
+| leader_name            = Benny Bitton
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:29877|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Dimona}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = http://www.dimona.muni.il
+}}

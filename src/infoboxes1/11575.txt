@@ -1,0 +1,76 @@
+{{Infobox settlement
+|name = Hemet, California
+| official_name            = City of Hemet
+| settlement_type          = [[City (California)|City]]
+| image_skyline            = Hemet City Hall.jpg
+| imagesize                = 250px
+| image_caption            = City Hall
+| image_seal               = city of hemet seal.gif
+| image_map                = File:Riverside County California Incorporated and Unincorporated areas Hemet Highlighted 0633182.svg
+| mapsize                  = 250px
+| map_caption              = Location of Hemet in Riverside County, California
+| pushpin_map              = California#USA
+| pushpin_map_caption      = Location in the United States
+| pushpin_relief 		   = 1
+| pushpin_label            = Hemet
+| coordinates              = {{coord|33|44|51|N|116|58|19|W|region:US_type:city|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[California]]
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[Riverside County, California|Riverside]]
+| established_title        = [[Municipal corporation|Incorporated]]
+| established_date         = January 20, 1910<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+| leader_title1            = [[Mayor]]
+| leader_name1             = Russ Brown<ref>{{Cite web |url=https://www.hemetca.gov/561/Mayor-Russ-Brown-District-2 |title=MAYOR RUSS BROWN (DISTRICT 2)
+|publisher=City of Hemet |access-date=July 2, 2020}}</ref>
+<!-- Area------------------>
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web |title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |publisher=United States Census Bureau |access-date=July 1, 2020}}</ref>
+| area_total_km2           = 75.84
+| area_total_sq_mi         = 29.28
+| area_land_km2            = 75.84
+| area_land_sq_mi          = 29.28
+| area_water_km2           = 0.00
+| area_water_sq_mi         = 0.00
+| area_water_percent       = 0
+| area_note                = <!-- Elevation ------------>
+| elevation_footnotes      = <ref>{{Cite GNIS|1652718|Hemet|access-date=May 22, 2015}}</ref>
+| elevation_m              = 486
+| elevation_ft             = 1594
+<!-- Population ----------->
+| population_footnotes     = <ref name=est2014>{{Cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2014/PEPANNRSIP.US12A| title=American FactFinder – Results| publisher=[[United States Census Bureau]]| access-date=May 22, 2015| archive-url=https://archive.today/20200213005015/http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2014/PEPANNRSIP.US12A| archive-date=February 13, 2020| url-status=dead}}</ref>
+| population_total         = 78657
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 85334
+| pop_est_as_of            = 2019
+| population_rank          = [[List of largest California cities by population|96th]] in California
+| population_density_sq_mi = 2914.21
+| population_metro         = 
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = -8
+| timezone_DST             = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST           = -7
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 92543–92546
+| area_code_type           = [[North American Numbering Plan|Area code]]
+| area_code                = [[Area code 951|951]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|06|33182}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|1652718}}, {{GNIS 4|2410738}}
+| website                  = {{URL|www.cityofhemet.org}}
+| footnotes                = 
+|population_density_km2 = 1125.18
+}}

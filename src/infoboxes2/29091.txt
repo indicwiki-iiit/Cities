@@ -1,0 +1,22 @@
+{{Infobox river
+  | name              = Olenyok<br />Оленёк / Өлөөн
+  | image             = Olenyok.png
+  | image_size        = 
+  | image_caption     = The Olenyok drainage basin
+  | pushpin_map        = Russia Sakha Republic
+  | pushpin_map_size   = 
+  | pushpin_map_caption= Location of the mouth in [[Yakutia]], Russia
+  | source1_location  = [[Vilyuy Plateau]]
+  | source1_coordinates = {{coord|67|35|26|N|105|9|53|E|source:wikidata-and-enwiki-cat-tree_region:RU}} 
+  | source1_elevation = {{convert|460|m|abbr=on}}
+  | mouth_location    = [[Olenyok Gulf]],<br>[[Laptev Sea]]
+  | mouth_coordinates  = {{coord|72|59|1|N|119|47|40|E|source:wikidata-and-enwiki-cat-tree_region:RU|display=it}} 
+  | mouth_elevation   =  {{convert|0|m|abbr=on}}
+  | subdivision_type1 = Country
+  | subdivision_name1 = [[Russia]]
+  | subdivision_type2 = [[Federal subject]]
+  | subdivision_name2 = [[Yakutia]]
+  | length            = {{convert|2292|km|abbr=on}} 
+  | discharge1_avg    = {{convert|1210|m3/s|cuft/s}}
+  | basin_size        = {{convert|219000|km2|abbr=on}}
+}}

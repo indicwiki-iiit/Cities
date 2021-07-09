@@ -1,0 +1,90 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name = Mandi Bahauddin
+|official_name = Mandi bahaudin 
+|other_name = M.B.Din
+|native_name = {{Nastaliq|منڈی بہاءالدین}}
+|nickname =
+|settlement_type =[[List of cities in Punjab (Pakistan)|City]]
+<!-- images and maps ----------->
+|image_skyline={{Photomontage
+|photo1a=Jamia Masjid Ghausia Rizvia.jpg
+|photo1b= Mian Waheed Ud Din Park.jpg
+|photo2b=Hakim Mall Mandi Bahauddin.jpg
+|photo2a=Mandi Bahauddin (35001616).jpeg
+|size    =250
+|border  = 0|position=center}}
+|image_caption=
+|pushpin_map = Punjab Pakistan#Pakistan
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption = Location within Pakistan
+|pushpin_mapsize =
+
+<!-- Location ------------------>
+|subdivision_type = Country
+|subdivision_name = {{PAK}}
+|subdivision_type1 = [[Subdivisions of Pakistan|Province]]
+|subdivision_name1 = {{flagicon|Punjab, Pakistan}} [[Punjab (Pakistan)|Punjab]]
+| subdivision_type2 = [[Divisions of Pakistan|Division]]
+| subdivision_name2 = [[Gujranwala Division|Gujranwala]]
+|subdivision_type3 = [[Districts of Pakistan#Punjab|District]]
+|subdivision_name3 = [[Mandi Bahauddin District|Mandi Bahauddin]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type =NA/PP
+|seat =2/5 N.A (85,86) P.P(65,66,67,68)
+|parts_type =No. of Towns
+|parts_style = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5-->
+| <!-- parts text, or header for parts list -->
+|p1 = [[Phalia]]
+up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type =Municipal Committee
+|leader_title ={{nowrap|[[Union councils of Pakistan|Union Council]]s}}
+|leader_name = 27
+|leader_title1 =<!-- [[Nazim]]&nbsp;(Mayor) -->
+|leader_name1 =
+|established_title = Established
+|established_date = 1506 AD
+|Notified_date =
+<!-- Area --------------------->
+|area_magnitude =
+|area_footnotes =<ref>{{cite web|url=https://www.census.gov.pk/PUNJAB/MANDI%20BAHAUDDIN.htm |title=MANDI BAHAUDDIN  DISTRICT AT A GLANCE |website=census.gov.pk |archive-url=https://web.archive.org/web/20121227234750/https://www.census.gov.pk/PUNJAB/MANDI%20BAHAUDDIN.htm |archive-date=27 December 2012 |url-status=dead}}</ref>
+|area_total_km2 =
+<!-- Elevation -------------------------->
+|elevation_footnotes = <!--for references: use <ref> tags-->
+|elevation_m = 204
+|elevation_ft =
+|elevation_max_m =
+|elevation_max_ft =
+|elevation_min_m =
+|elevation_min_ft =
+<!-- Population ----------------------->
+|population_as_of =[[2017 Census of Pakistan|2017]]
+|population_footnotes =<ref name="auto">{{Cite web|url=https://www.pakistantoday.com.pk/2017/08/28/ten-major-cities-population-up-by-74pc/|title=Ten major cities’ population up by 74pc|access-date=2017-09-06}}</ref>
+|population_note =
+|population_total =198609
+|population_rank=[[List of largest cities in Pakistan|41st, Pakistan]]
+|population_density_km2 =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_blank1_title =
+|population_blank1 =
+|population_demonym       = Mandi Wala
+
+<!-- General information --------------->
+|timezone = [[Pakistan Standard Time|PST]]
+|utc_offset = +5
+|timezone_DST =
+|utc_offset_DST =
+|coor_pinpoint =
+|coordinates      = {{Coord|32|34|47|N|73|28|53|E|type:city_region:PK|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code = 50400
+|postal_code_type = [[Postal codes in Pakistan|Postal code]]
+|area_code_type = [[Dialling codes in Pakistan|Dialling code]]
+|area_code      = 0546
+
+| website        = {{url|https://www.mbdin.com/}}
+}}

@@ -1,0 +1,34 @@
+{{Infobox weapon
+| name = Type 14 Nambu
+| image = Nambu pistol-IMG 6531-white.jpg
+| image_size = 300
+| caption = Nambu Pistol Model 14
+| origin = Japan
+| type = [[Semi-automatic pistol]]
+<!-- Type selection -->| is_ranged = yes
+| is_UK = <!-- Service history -->
+| service = 1904–1945
+| used_by = See [[Nambu pistol#Users|Users]]
+| wars = [[Russo-Japanese War]] <br> [[World War I]] <br>[[Pacific War]] <br>[[Second Sino-Japanese War]] <br>[[Indonesian National Revolution]] <br>[[Chinese Civil War]] <br>[[Hukbalahap Rebellion]] <br>[[Korean War]] <br>[[First Indochina War]] <br>[[Vietnam War]] (Limited Only)
+<!-- Production history -->| designer = [[Kijiro Nambu]]
+| design_date = 1902
+| manufacturer = 
+| production_date = 1906–1945
+| number = 10,300 (Type A, all variants) <br>approx. 400,000 (Type 14)
+| variants = Type A, Type B, Type 14
+<!-- General specifications -->| weight = 900 [[Gram|g]] (1.98 lb) unloaded<!--720 g-->
+| length = 230 mm (9.06 in)
+| part_length = 117 mm (4.61 inches)
+| width = 
+| height = 
+| crew = <!-- Ranged weapon specifications -->
+| cartridge = [[8×22mm Nambu]]
+| caliber = {{convert|0.31|in|mm}}
+| action = recoil-spring
+| rate = 
+| velocity = {{convert|951|ft/s|m/s}}
+| range = {{convert|50|m|yd}}
+| max_range = 
+| feed = 8-round [[box magazine]]
+| sights = 
+}}

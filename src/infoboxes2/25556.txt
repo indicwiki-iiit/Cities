@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Chardon, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Home Of The Geauga County Maple Festival"
+<!-- Images -->
+|image_skyline            = Chardon Courthouse.jpg
+|imagesize                = 
+|image_caption            = The [[Geauga County Courthouse]] on Chardon Square, as viewed from the [[Ferris wheel]] during the Maple Festival
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = OHMap-doton-Chardon.png
+|mapsize                  = 250px
+|map_caption              = Location of Chardon, Ohio
+|image_map1               = Map of Geauga County Ohio Highlighting Chardon City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Chardon in Geauga County
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Geauga County, Ohio|Geauga]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Jeffrey Smock
+|leader_title1            = Vice Mayor
+|leader_name1             = Dave Lelko
+|established_title        = 
+|established_date         = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 11.95
+|area_land_km2            = 11.86
+|area_water_km2           = 0.09
+|area_total_sq_mi         = 4.62
+|area_land_sq_mi          = 4.58
+|area_water_sq_mi         = 0.04
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5159
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5148
+|population_density_km2   = 434.87
+|population_density_sq_mi = 1126.42
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 396
+|elevation_ft             = 1299
+|coordinates_footnotes    = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|coordinates              = {{coord|41|34|45|N|81|12|16|W|region:US-OH|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44024
+|area_code                = [[Area code 440|440]] Exchanges: 279.285,286
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-13554<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1056789<ref name="GR3" />
+|website                  = [http://www.chardon.cc/ Chardon.cc]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

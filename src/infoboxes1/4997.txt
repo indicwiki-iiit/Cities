@@ -1,0 +1,49 @@
+{{Infobox Australian place
+| type                = city 
+| name                = Toowoomba
+| state               = qld
+| image               =  
+{{Photomontage
+| photo1a = Thomas Memorial, Toowoomba Botanic Gardens 08.jpg{{!}}Thomas Memorial
+| photo1b = Toowoomba City Hall front.jpg{{!}}Toowoomba City Hall
+| photo2a = Toowoomba Court House 06.JPG{{!}}Toowoomba Court House
+| photo2b = Toowoomba Queens Park Botanical Gardens 01.jpg{{!}}Queens Park
+| photo3a = Toowoomba Second Range Crossing - New England Hwy Bridge.jpg{{!}}John French VC Bridge
+| photo3b = Clifford House from Clifford Street.jpg{{!}}Clifford House
+| spacing = 2
+| color = white
+| size = 290
+| foot_montage = Alfred Thomas Memorial, [[Toowoomba City Hall]]<br/> [[Toowoomba Court House]], [[Queens Park, Toowoomba|Queens Park]]<br/> [[Toowoomba Bypass]], [[Clifford House, Toowoomba|Clifford House]]
+}}
+| caption = 
+| coordinates         = {{coord|27|34|S|151|57|E|display=inline,title}}
+| pushpin_label_position = left
+| pop                 = 136861
+| pop_year            = 2018
+| pop_footnotes       = <ref name=ABSSUA/>
+| poprank             = 16th
+| density             =
+| est                 = 1849
+| postcode            = 4350
+| elevation           = 691
+| elevation_footnotes = <ref name="bom" >{{BoM Aust stats|site_ref=cw_041103|site_name=Toowoomba|access-date=22 March 2013}}</ref>
+| area                = 498.1
+| area_footnotes      = <ref name="ABSSUAProf">{{cite web|title=2011 Census Community Profiles: Toowoomba|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/3015|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=15 September 2016|url-status=live|archive-url=https://web.archive.org/web/20180306133926/http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/3015|archive-date=6 March 2018|df=dmy-all}}</ref> (2011 urban)
+| lga                 = Toowoomba Region
+| stategov            = [[Electoral district of Toowoomba North|Toowoomba North]]
+| stategov2           = [[Electoral district of Toowoomba South|Toowoomba South]]
+| stategov3           = [[Electoral district of Condamine|Condamine]]
+| fedgov              = [[Division of Groom|Groom]]
+| county              = [[County of Aubigny|Aubigny]]
+| dist1               = 132
+| dir1                = 
+| location1           = Brisbane
+| timezone            = [[UTC10|AEST]]
+| utc                 = +10
+| maxtemp             = 23.1
+| maxtemp_footnotes   = <ref name="bom" />
+| mintemp             = 12.6
+| mintemp_footnotes   = <ref name="bom" />
+| rainfall            = 726.4
+| rainfall_footnotes  = <ref name="bom" />
+}}

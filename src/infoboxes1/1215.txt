@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| name                   = Timbuktu <!-- one of the first five fields must be filled -->
+| official_name          = 
+| native_name            = Tin Buqt <!-- if different from the South English name -->
+| other_name             = Himba
+| settlement_type        = City<!--such as Town, Village, City, Borough etc.-->
+| translit_lang1         = &nbsp;
+| translit_lang1_type    = [[Koyra Chiini language|Koyra Chiini]]:
+| translit_lang1_info    = Tumbutu
+| translit_lang1_info1   =
+<!-- images and maps  ----------->
+| image_skyline          = 2007 Sankore Mosque Timbuktu 01.jpg
+| imagesize              = 250px
+| image_caption          = [[Sankore Madrasah|Sankore University]] in Timbuktu
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+| image_map              = Niger saharan medieval trade routes.PNG
+| map_caption            = Map showing main [[Trans-Saharan trade|trans-Saharan caravan routes]] circa 1400. Also shown are the [[Ghana Empire]] (until the 13th century) and 13th – 15th century [[Mali Empire]], with the western route running  from [[Djenné]] via Timbuktu to [[Sijilmassa]]. Present day [[Niger]] in yellow.
+| pushpin_map            = Mali <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location of Timbuktu within Mali
+<!-- Location ------------------>
+| coordinates            = {{coord|16|46|33|N|3|00|34|W|region:ML|display=inline,title}}
+| coor_type              = <!-- can be used to specify what the coordinates refer to -->
+| subdivision_type       = Country
+| subdivision_name       = [[Mali]]
+| subdivision_type1      = Region
+| subdivision_name1      = [[Tombouctou Region]]
+| subdivision_type2      = Cercle
+| subdivision_name2      = [[Timbuktu Cercle]]
+| established_title      = Settled
+| established_date       = 5th century BC
+| founder                = 
+| named_for              = 
+| government_type        =
+<!-- Politics ----------------->
+| government_footnotes   = 
+| leader_title           = Mayor
+| leader_name            = Hallé Ousmane
+| unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes         =
+<!-- Area    --------------------->
+| area_magnitude         = <!-- use only to set a special wikilink -->
+| area_total_km2         = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox settlement for details on unit conversion-->
+| area_water_km2         = 
+| area_water_percent     =
+<!-- Elevation -------------------------->
+| elevation_footnotes    = <!--for references: use<ref> </ref> tags-->
+| elevation_m            = 261
+| elevation_max_m        = 
+| elevation_min_m        =
+<!-- Population ----------------------->
+| population_footnotes   =<ref name="population">{{citation | url=http://instat.gov.ml/documentation/tombouctou.pdf | publisher=République de Mali: Institut National de la Statistique| title=Resultats Provisoires RGPH 2009 (Région de Tombouctou) }}</ref>
+| population_total       = 54453
+| population_as_of       = 2009
+| population_density_km2 = auto
+| population_note        =
+<!-- General information  --------------->
+| timezone               = 
+| utc_offset             = 
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              =
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Desert climate#Hot desert climates|BWh]]
+| website                = 
+| footnotes              = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |ID = 119
+  |Year = 1988
+  |Danger = 1990–2005; 2012–present
+  |Criteria = Cultural: ii, iv, v
+  }}
+}}

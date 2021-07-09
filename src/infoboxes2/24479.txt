@@ -1,0 +1,129 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Nagaoka}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|長岡市}}}}}}
+| official_name           = 
+| settlement_type         = [[Special cities of Japan|Special city]]
+<!-- images, nickname, motto -->
+| image_skyline           = {{Photomontage
+ | photo1a = Nagaoka_Festival_Fireworks_2015_Phoenix_20150802.jpg
+ | photo2a = Echigo Hillside Park 08.jpg{{!}}越後丘陵公園
+ | photo2b = Teradomari Fish Market Street 2015.jpg
+ | photo3a = Nagaoka City Local Museum.jpg{{!}}
+ | photo3b = Chosei_bridge_2020_2.jpg
+ | photo3c = Nagaoka Koi Show 07.jpg
+ | size = 280
+ | color_border = ffffff
+ | color = cccccc
+ | position =  center
+ }}
+| imagesize               = 
+| image_alt               = 
+| image_caption           = <table style="width:280px;margin:2px auto; border-collapse: collapse">
+<tr><td colspan="6">Nagaoka Matsuri and Fireworks</tr>
+<tr><td colspan="3">Echigo Hillside Park<td colspan="3">Teradomari Fish Market</tr>
+<tr><td colspan="2">Yukyuzan Park<td colspan="2">Chosei Bridge<td colspan="2">[[Kōhaku (fish)|Nishiki Koi]]</tr>
+</table>
+| image_flag              = Flag of Nagaoka, Niigata.svg 
+| flag_alt                = 
+| image_seal              = Emblem of Nagaoka Niigata chapter.svg 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Nagaoka in Niigata Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Nagaoka in Niigata
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|37|26|46.3|N|138|51|4.5|E|region:JP-15|display=it}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name        = Japan
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Kōshin'etsu region|Kōshin'etsu]]) ([[Hokuriku region|Hokuriku]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Niigata Prefecture|Niigata]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title       = Founded
+| established_date        = 1616  
+| established_title2      = City established
+| established_date2       = April 1, 1906 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = [[Tatsunobu Isoda]]
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 891.06
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 266,539
+| population_as_of        = December 2020
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = • Tree
+| blank1_info_sec1        = [[Zelkova serrata]]
+| blank2_name_sec1        = • Flower
+| blank2_info_sec1        = [[Azalea]]
+| blank3_name_sec1        = • Fish
+| blank3_info_sec1        = [[Kōhaku (fish)|Nishiki koi]]
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 0258-35-1122
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-4-10 Otedori, Nagaoka-shi, Niigata-ken 940-8501
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.city.nagaoka.niigata.jp}}
+| footnotes               = 
+}}

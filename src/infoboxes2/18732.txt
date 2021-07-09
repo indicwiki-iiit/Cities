@@ -1,0 +1,70 @@
+{{Infobox settlement
+| official_name                   = Xenia, Ohio
+| settlement_type                 = [[City]]
+| nickname                        = "City of Hospitality", "Bicycle Capital of the Midwest"
+| motto                           = "Vivid History, Vibrant Future"
+
+<!-- Images -->| image_skyline                   = Xenia Ohio.jpg
+| imagesize                       = 250px
+| image_caption                   = Downtown Xenia
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Greene County Ohio Xenia highlighted.png
+| mapsize                         = 250px
+| map_caption                     = Location of Xenia, Ohio
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_type2               = [[List of counties in Ohio|County]]
+| subdivision_name2               = [[Greene County, Ohio|Greene]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Sarah Mays ([[Republican Party (United States)|R]]) <ref name=GazetteMayor>{{cite news|url=http://www.xeniagazette.com/news/20479/mayor-not-seeking-third-term|title=Mayor not seeking third term|date=10 August 2017|work=Xenia Gazette|access-date=1 January 2018}}</ref><ref name=DNCouncil>{{cite news|url=http://www.daytondailynews.com/news/unofficial-results-dean-smith-win-xenia-city-council-race/ylQ0WFZBRrzJ1XMsbY8aCO/|title=Unofficial results: Dean, Smith win Xenia City Council race|work=[[Dayton Daily News]]|date=November 7, 2017|access-date=1 January 2018}}</ref><ref>https://voterrecords.com/voter/32253829/sarah-mays</ref>
+| leader_title1                   = City Manager
+| leader_name1                    = Brent Merriman ([[Republican Party (United States)|R]])<ref>https://voterrecords.com/voter/32258447/brent-merriman</ref>
+| established_title               = Founded
+| established_date                = {{Start date and age|1803}}
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 13.03
+| area_land_sq_mi                 = 13.02
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 26947
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 25719
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Xenian
+| population_density_sq_mi        = 2070.30
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_ft                    = 935
+| coordinates                     = {{coord|39|41|05|N|83|55|47|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 45385
+| area_code                       = [[Area codes 937 and 326|937, 326]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-86772<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1061805<ref name=GNIS1>{{gnis|1061805|Xenia}}</ref>
+| website                         = https://www.ci.xenia.oh.us/
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| area_total_km2                  = 33.74
+| area_land_km2                   = 33.71
+| area_water_km2                  = 0.03
+| population_density_km2          = 799.35
+| name                            = 
+}}

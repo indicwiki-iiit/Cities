@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Kastamonu
+| settlement_type                 = [[Municipality]]
+| image_skyline                   = File:Kaleden_Cumhuriyet_Meydanı_ve_Çevresi.JPG
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey #Black Sea #Europe
+| coordinates                     = {{coord|41|22|35|N|33|46|35|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Kastamonu Province]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = Mayor
+| leader_name                     = Op. Dr. R. Galip Vidinlioğlu (MHP)
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Kastamonu|Kastamonu}}
+| elevation_m                     = 
+| population_footnotes            = {{Turkey district populations|SOURCE|Kastamonu}}
+| population_urban                = {{Turkey district populations|Kastamonu|Kastamonu|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Kastamonu|Kastamonu|toplam}}
+| population_density_blank1_km2   = auto
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Oceanic climate|Cfb]]
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.kastamonu.bel.tr | www.kastamonu.bel.tr }}
+| official_name                   = 
+}}

@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Lake Elmo
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Elmo_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of the city of Lake Elmo<br>within Washington County, Minnesota
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Washington County, Minnesota|Washington]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 62.69
+|area_land_km2            = 57.25
+|area_water_km2           = 5.44
+|area_total_sq_mi         = 24.21
+|area_land_sq_mi          = 22.10
+|area_water_sq_mi         = 2.10
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 9210
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 8069
+|population_density_km2   = 160.88
+|population_density_sq_mi = 416.67
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 278
+|elevation_ft             = 912
+|coordinates              = {{coord|44|59|56|N|92|54|34|W|region:US-MN|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 55042
+|area_code                = [[Area code 651|651]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-34244<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0646344<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.lakeelmo.org/ www.lakeelmo.org]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

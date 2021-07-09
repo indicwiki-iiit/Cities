@@ -1,0 +1,69 @@
+{{Infobox settlement
+| name                            = Prince George
+| official_name                   = City of Prince George
+| native_name                     = <!-- for cities whose native name is not in English -->
+| other_name                      =
+| settlement_type                 = [[List of cities in British Columbia|City]]
+| image_skyline                   = File:2017-05-05-PrinceGeorge.jpg
+| image_caption                   = An aerial view of Prince George
+| image_flag                      = Flag of Prince George, British Columbia.svg
+| image_blank_emblem              = City of Prince George logo.png
+| image_seal                      =
+| image_shield                    =
+| nickname                        =
+| motto                           = "Shaping A Northern Destiny"
+| image_map                       =
+| map_caption                     =
+| pushpin_map                     = British Columbia#Canada#North America
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Prince George
+| coordinates                     = {{coord|53|55|01|N|122|44|58|W|region:CA-BC|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Canada}} 
+| subdivision_type1               = [[Provinces of Canada|Province]]
+| subdivision_type2               = [[Indigenous peoples in Canada|Indigenous territories]]
+| subdivision_type3               = [[List of British Columbia Regional Districts|Regional District]]
+| subdivision_name1               = {{flag|British Columbia}}
+| subdivision_name2               = Unceded [[Lheidli T'enneh Band|Lheidli T'enneh]] territory
+| subdivision_name3               = [[Regional District of Fraser-Fort George|Fraser-Fort George]]
+| established_title               = Established
+| established_date                = 1807
+| established_title2              = Incorporated
+| established_date2               = March 6, 1915
+| government_footnotes            =
+| government_type                 =
+| leader_title                    = Mayor
+| leader_name                     = Lyn Hall
+| leader_title1                   = Governing&nbsp;body
+| leader_name1                    = [[Prince George City Council]]
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = <ref name="statCAN2006">{{cite web| url =https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=5953023&Geo2=CD&Code2=5953&SearchText=Prince%20George&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 |title=Census Profile, 2016 Census Prince George, City [Census subdivision], British Columbia and Fraser-Fort George, Regional district [Census division], British Columbia |publisher = [[Statistics Canada]] |date=October 23, 2019}}</ref>
+| area_total_km2                  = 318.26
+| area_land_km2                   =
+| area_water_km2                  =
+| area_water_percent              =
+| area_metro_km2                  =
+| elevation_footnotes             = <!--for references: use tags-->
+| elevation_m                     = 575
+| population_total                = 74,003
+| population_as_of                = 2016
+| population_footnotes            = <ref name="statCAN2006"/>
+| population_density_km2          = 232.5
+| population_metro                =
+| population_density_metro_km2    =
+| population_note                 =
+| postal_code_type                = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+| postal_code                     = [[List of V postal codes of Canada|V2K - V2N]]
+| area_code                       = [[Area code 250|250]] / [[Area code 778|778]] / [[Area code 236|236]]
+| website                         = {{URL|http://princegeorge.ca/}}
+| leader_title2                   = [[Current members of the Canadian House of Commons|MPs]]
+| leader_name2                    = [[Todd Doherty]] ([[Conservative Party of Canada|CPC]])<br/>[[Bob Zimmer]] (CPC)
+| leader_title3                   = [[Legislative Assembly of British Columbia|MLAs]] 
+| leader_name3                    = [[Shirley Bond]] ([[British Columbia Liberal Party|BC Liberal]])<br/>[[Mike Morris (politician)|Mike Morris]] (BC Liberal)
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = −08:00
+| timezone_DST                    = PDT
+| utc_offset_DST                  = −07:00
+| blank_name                      = [[List of British Columbia provincial highways|Highways]]
+| blank_info                      = {{jct|state=BC|TCH|16}} [[Trans-Canada Highway]]<br /> {{jct|state=BC|BC|97}}
+}}

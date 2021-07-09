@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Ikot Ekpene
+| native_name                     = 
+| other_name                      = 
+| settlement_type                 = Town
+<!-- images and maps  ----------->| image_skyline                   = 
+| imagesize                       = 300px
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| nickname                        = I.K
+| motto                           = The Raffia City
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Nigeria<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = right
+| pushpin_map_caption             = Location in Nigeria
+<!-- Location ------------------>| coordinates                     = {{coord|5|11|N|7|43|E|region:NG|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Nigeria}}
+| subdivision_type1               = [[States of Nigeria|State]]
+| subdivision_name1               = [[Akwa Ibom State|Akwa Ibom]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| government_type                 = <!-- Politics ----------------->
+| government_footnotes            = 
+| leader_title                    = Chairman
+| leader_name                     = Hon. Unyime Okon Etim
+<!-- Area    --------------------->| unit_pref                       = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 116
+| area_land_km2                   = 
+| area_water_km2                  = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = <!-- Population   ----------------------->
+| population_footnotes            = 
+| population_total                = 143,077
+| population_as_of                = 2006 census
+| population_density_km2          = 
+| population_note                 = <!-- General information  --------------->
+| timezone                        = [[West Africa Time|WAT]]
+| utc_offset                      = +1
+| timezone_DST                    = ''not observed''
+| utc_offset_DST                  = +1
+<!-- Area/postal codes & others -------->| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Tropical monsoon climate|Am]]
+| website                         = {{URL|http://www.annangheritage.org}}
+
+https://www.raffiacityhub.com.ng
+| name                            = 
+}}
+

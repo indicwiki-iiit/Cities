@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|image_shield = HUN Füzesgyarmat Címer.svg
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+| image_skyline = Town hall Füzesgyarmat.jpg
+| image_caption = Town hall
+|coordinates            = {{coord|47.106|21.212|region:HU|display=inline}}
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Füzesgyarmat
+|picture=
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Békés County|Békés]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Szeghalom District|Szeghalom]]
+|area_total_km2=127.41
+|population_as_of=2015
+|population_total=5774<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1st January 2015]''. Hungarian Central Statistical Office. 3 September 2015</ref>
+|population_density_km2=45.3
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=5525
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 66
+|website={{URL|http://www.fuzesgyarmat.hu/}}
+}}

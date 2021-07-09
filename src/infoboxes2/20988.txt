@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Yelm, Washington
+|settlement_type          = [[City (Washington)|City]]
+|nickname                 = Pride of the Prairie
+|motto                    = 
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Thurston County Washington Incorporated and Unincorporated areas Yelm Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Yelm, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[Thurston County, Washington|Thurston]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor–council government|Mayor-Council]]
+|leader_title             = Mayor
+|leader_name              = JW Foster<ref name=Mayor />
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 14.81
+|area_land_km2            = 14.79
+|area_water_km2           = 0.02
+|area_total_sq_mi         = 5.72
+|area_land_sq_mi          = 5.71
+|area_water_sq_mi         = 0.01
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 9456
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 6848
+|population_density_km2   = 639.23
+|population_density_sq_mi = 1655.75
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 108
+|elevation_ft             = 354
+|coordinates              = {{coord|46|56|29|N|122|36|23|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 98597
+|area_code                = [[Area code 360|360]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-80220
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1512817<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{url|ci.yelm.wa.us}}
+|footnotes                = 
+}}

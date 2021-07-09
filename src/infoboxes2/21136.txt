@@ -1,0 +1,83 @@
+{{Infobox settlement
+| name                            = El Segundo, California
+| other_name                      = 
+| native_name                     = 
+| official_name                   = City of El Segundo
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = 
+| image_caption                   = El Segundo skyline from [[California State Route 1|Pacific Coast Highway]]
+| image_flag                      = Flag of El Segundo, California.png
+| flag_size                       = 
+| image_seal                      = Seal of El Segundo, California.png
+| nickname                        = 
+| image_map                       = File:Los Angeles County California Incorporated and Unincorporated areas El Segundo Highlighted 0622412.svg
+| map_caption                     = Location of El Segundo in Los Angeles County, California
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|33|55|17|N|118|24|22|W|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+| established_title               = <!-- Founded -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = January 18, 1917<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+| government_type                 = 
+| leader_title                    = [[City council]]<ref name=elected>{{Cite web |url=http://www.elsegundo.org/depts/elected/default.asp |title=Elected Officials |publisher=The City of El Segundo |access-date=June 13, 2018}}</ref>
+| leader_name                     = [[Mayor]] Drew Boyles <br /> [[Mayor Pro Tem]] Chris Pimentel <br /> Carol Pirsztuk <br /> Scot Nicol <br /> Lance Giroux
+| leader_title1                   = [[City clerk]]
+| leader_name1                    = Tracy Sherrill Weaver<ref name=elected/>
+| leader_title2                   = [[City treasurer]]
+| leader_name2                    = Matthew Robinson<ref name=elected/>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 10.88
+| area_total_km2                  = 28.18
+| area_land_sq_mi                 = 5.46
+| area_land_km2                   = 14.15
+| area_water_sq_mi                = 5.42
+| area_water_km2                  = 14.03
+| area_water_percent              = 0.03
+| area_metro_sq_mi                = 
+| area_metro_km2                  = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1660605|El Segundo|access-date=October 11, 2014}}</ref>
+| elevation_ft                    = 115
+| elevation_m                     = 35
+<!-- Population ----------->| population_as_of                = [[2020 United States Census|2020]]
+| population_footnotes            = <ref>{{cite web|url=https://data.census.gov/cedsci/profile?g=1600000US0622412|publisher=[[United States Census Bureau]]|access-date=June 4, 2021}}</ref>
+| population_total                = 16731
+| pop_est_as_of                   = 
+| pop_est_footnotes               = 
+| population_est                  = 
+| population_density_sq_mi        = 3040.45
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 90245<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=El%20Segundo | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | access-date = 2007-01-18}}</ref>
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 310 and 424|310/424]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|22412}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1660605}}, {{GNIS 4|2410417}}
+| website                         = {{URL|www.elsegundo.org}}
+| population_density_km2          = 1173.96
+}}

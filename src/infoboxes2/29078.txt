@@ -1,0 +1,33 @@
+{{Infobox software
+| name = Signal
+| logo = Signal-Logo.svg
+| logo size = 150px
+| logo alt = Logo of Signal (2020–present)
+| screenshot = 
+| screenshot alt = Screenshot of Signal
+| caption = Screenshot of Signal version 5.1 on iOS (January 2021)
+| collapsible = no
+| developer = {{Plainlist|
+* [[Signal Technology Foundation]],
+* [[Signal Messenger LLC]] and contributors 
+  }}
+| released = {{Start date and years ago|df=yes|2014|07|29}}<ref name="Greenberg-2014-07-29" /><ref name="Marlinspike-2014-07-29">{{cite web |url=https://whispersystems.org/blog/signal/ |title=Free, Worldwide, Encrypted Phone Calls for iPhone |publisher=Open Whisper Systems |first=Moxie |last=Marlinspike |date=29 July 2014 |access-date=16 January 2017 |archive-date=31 August 2017 |archive-url=https://web.archive.org/web/20170831113358/https://whispersystems.org/blog/signal/ |url-status=live }}</ref>
+| operating system = {{Plainlist|
+* [[Android 4.4]] or later
+* [[iOS 11|iOS 11.1]] or later
+* [[Windows 7]] or later (64-bit)<ref name="standalone-signal-desktop">{{cite web|last1=Nonnenberg|first1=Scott|title=Standalone Signal Desktop|url=https://signal.org/blog/standalone-signal-desktop/|publisher=Open Whisper Systems|access-date=31 October 2017|date=31 October 2017|archive-date=15 February 2020|archive-url=https://web.archive.org/web/20200215121725/https://signal.org/blog/standalone-signal-desktop/|url-status=live}}</ref>
+* [[macOS 10.10]] or later<ref name="Installing-Signal">{{cite web|url=https://support.signal.org/hc/en-us/articles/360008216551#install_desktop|title=Installing Signal - Signal Support|access-date=2019-03-20|archive-date=2020-02-23|archive-url=https://web.archive.org/web/20200223121428/https://support.signal.org/hc/en-us/articles/360008216551#install_desktop|url-status=live}}</ref>
+* [[Linux distribution]]s supporting [[APT (Debian)|APT]]<ref name="standalone-signal-desktop"/>
+  }}
+| platform = 
+| size = <!-- language varies based on the platform
+| language count = 51
+| language footnote = <ref>{{cite web |title=Signal Messenger localization |url=https://www.transifex.com/signalapp/public/ |website=Transifex |access-date=5 November 2018}}</ref>-->
+| ver layout = stacked
+| programming language = 
+| genre = Encrypted [[voice calling]], [[video calling]] and [[instant messaging]]
+| license = {{Plain list|
+* '''Clients:''' [[GNU General Public License|GPLv3]]<ref name="signal-ios-github" /><ref name="signal-android-github" /><ref name="signal-desktop-github"/>
+* '''Server:''' [[AGPLv3]]<ref name="Signal-Server" />
+  }}
+}}

@@ -1,0 +1,37 @@
+{{Infobox Australian place
+| type     = city
+| name     = Wagga Wagga
+| state    = NSW
+| image    = Aerial view of Central Wagga Wagga.jpg
+| caption  = Aerial view of central Wagga Wagga
+| coordinates = {{Coord|35|7|8|S|147|22|8|E|display=inline,title}}
+| lga      = City of Wagga Wagga
+| county   = [[Wynyard County|Wynyard]] & [[Clarendon County, New South Wales|Clarendon]]
+| parish   = South Wagga Wagga
+| stategov = [[Electoral district of Wagga Wagga|Wagga Wagga]]
+| fedgov   = [[Division of Riverina|Riverina]]
+| elevation= 180 <ref>{{cite web |last1=Chen |first1=Xangyang |title=Wagga Wagga 1:100 000 Map Sheet, New South Wales |url=http://crcleme.org.au/RegLandEvol/WaggaWagga.pdf |website=Cooperative Research Centre for Landscape Environments and Mineral Exploration |access-date=29 September 2020 |year=2003}}</ref>
+| maxtemp  = 22.1
+| mintemp  = 9.0
+| rainfall = 573.4
+| postcode = 2650
+| pop      = 56442
+| pop_year = 2018
+| pop_footnotes = <ref name=ABSSUA/>  
+| poprank       = 26th
+| est           = 1829 (explored)<ref name="WillamE"/><br />1847 (village)<br />1849 (surveyed)<br />1849 (town)<br />1870 (municipality)<br />1946 (city)
+| timezone      = [[Australian Eastern Standard Time|AEST]]
+| utc           = +10:00
+| timezone-dst  = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst       = +11:00
+| dist1         = 452
+| location1     = [[Sydney]]
+| dist2         = 456
+| location2     = [[Melbourne]]
+| dist3         = 244
+| location3     = [[Canberra]]
+| dist4         = 147
+| location4     = [[Albury]]
+| dist5         = 27
+| location5     = [[Collingullie]]
+}}

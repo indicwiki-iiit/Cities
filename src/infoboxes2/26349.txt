@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = City of Calipatria
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Downtown Calipatria, California (2018-04-01) (crop).jpg
+|imagesize                = 
+|image_caption            = Downtown Calipatria at E. Main St. ([[:en:California State Route 115|CA SR 115]]) and N. Sorensen Ave. ([[:en:California State Route 111|CA SR 111]])
+|image_seal               = [[File:Seal of Calipatria, California.png|Calipatria, CA official seal]]
+|image_map                = File:Imperial County California Incorporated and Unincorporated areas Calipatria Highlighted 0609878.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Calipatria in Imperial County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Imperial County, California|Imperial]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = February 28, 1919<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |accessdate=April 8, 2013 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archivedate=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|accessdate=July 1, 2020}}</ref>
+| area_total_sq_mi        = 3.70
+| area_land_sq_mi         = 3.70
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 9.58
+| area_land_km2           = 9.58
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+| area_note               = 
+|elevation_footnotes      = <ref name="Cite GNIS|1652681|Calipatria">{{Cite GNIS|1652681|Calipatria}}</ref>
+|elevation_ft             = -180
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0609878.html|title=Calipatria (city) QuickFacts|publisher=[[United States Census Bureau]]|accessdate=April 16, 2015|archive-url=https://www.webcitation.org/69xrgWHPE?url=http://quickfacts.census.gov/qfd/states/06/0609878.html|archive-date=August 16, 2012|url-status=dead}}</ref>
+|population_total         = 7705
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 7114
+|population_density_sq_mi = 1923.22
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|coordinates              = {{coord|33|07|32|N|115|30|51|W|region:US-CA|display=inline,title}}
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92233
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-09878
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652681}}, {{GNIS 4|2409962}}
+|footnotes                = 
+|website                  = {{URL|www.calipatria.com}}
+|population_density_km2 = 742.65
+}}

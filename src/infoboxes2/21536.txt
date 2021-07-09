@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Groves, Texas
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map               = Jefferson County Groves.svg
+|mapsize                 = 250px
+|map_caption             = Location of Groves, Texas
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagicon|USA}}United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flagicon|Texas}}[[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Jefferson County, Texas|Jefferson]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[City Council]]
+|leader_name              = [[Mayor]] Brad P. Bailey <br/> Chris Borne <br/> Sidney Badon <br/> Kyle Hollier <br/> Karen Theis
+|leader_title1            = [[City Manager]]
+|leader_name1             = D.E. Sosa
+|established_title        = 
+|established_date         = 
+|website                  = {{URL|www.cigrovestx.com}}
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 13.44
+|area_land_km2            = 13.40
+|area_water_km2           = 0.04
+|area_total_sq_mi         = 5.19
+|area_land_sq_mi          = 5.17
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 16144
+|population_density_km2   = 1155.29
+|population_density_sq_mi = 2992.46
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 3
+|elevation_ft             = 10
+|coordinates              = {{coord|29|56|50|N|93|54|57|W|region:US-TX|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 77619
+|area_code                = [[Area code 409|409]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-31328<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1358473<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 15480
+}}

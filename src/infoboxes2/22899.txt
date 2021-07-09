@@ -1,0 +1,84 @@
+{{Infobox settlement
+|name                     = Ishpeming, Michigan
+|official_name            = City of Ishpeming
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Ishpeming_Municipal_Building_2009.jpg
+|imagesize                = 275
+|image_caption            = [[Ishpeming Municipal Building]]
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            = Michigan
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          = Ishpeming
+|pushpin_map_caption    = Location within the state of Michigan
+|pushpin_mapsize        = 
+|image_map = Ishpeming (city), MI location.png
+|mapsize                  = 250
+|map_caption              = Location within [[Marquette County, Michigan|Marquette County]]
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = [[Michigan]]
+|subdivision_type2        = County
+|subdivision_name2        = [[Marquette County, Michigan|Marquette]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor–council government|Mayor–council]] 
+|leader_title             = [[Mayor]]
+|leader_name              = Joseph Juidici
+|leader_title1            = [[Municipal clerk|Clerk]]
+|leader_name1             = Cathy Smith
+|leader_title2            = [[City manager|Manager]]
+|leader_name2             = Craig Cugini
+|established_title        = Founded
+|established_date         = 1873
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 24.23
+|area_land_km2            = 22.66
+|area_water_km2           = 1.58
+|area_total_sq_mi         = 9.36
+|area_land_sq_mi          = 8.75
+|area_water_sq_mi         = 0.61
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6416
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 6470
+|population_density_km2   = 283.17
+|population_density_sq_mi = 733.42
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 429
+|elevation_ft             = 1407
+|coordinates              = {{coord|46|29|33|N|87|40|03|W|region:US-MI|display=inline,title}}
+|postal_code_type         = [[ZIP Code|ZIP code(s)]]
+|postal_code              = 49849<br>49865 ([[Tilden Township, Michigan|National Mine]])
+|area_code                = [[Area code 906|906]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-41220<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0629103<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|https://ishpemingcity.org/|Official website}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

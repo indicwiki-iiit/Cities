@@ -1,0 +1,34 @@
+{{Infobox settlement
+|name                   = Tlacotalpan
+|settlement_type        = [[Settlement classification in Mexico|Town]]
+|image_skyline          = Tlacotalpan zocalo.jpg
+|imagesize              = 292px
+|image_caption          = Main plaza
+|pushpin_map            = Mexico 
+|subdivision_type       = Country
+|subdivision_name       = {{MEX}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Veracruz]]
+|subdivision_type2      = 
+|subdivision_name2      = |established_title      = Town status 
+|established_date       = 1847
+|established_title2     = City status
+|established_date2      =  9 May 1865
+|population_as_of               = 2010
+|population_total               = 8,853
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = -6
+|coordinates            = {{coord|18|37|N|95|40|W|region:MX|display=inline,title}}
+|elevation_m            = 10
+|website                = [http://www.tlacotalpan-turismo.gob.mx/  Municipio de Tlacotalpan]
+|footnotes              = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Historic Monuments Zone of Tlacotalpan
+  |ID = 862
+  |Year = 1998
+  |Criteria = Cultural: ii, iv
+  |Area = 75 ha
+  |Buffer_zone = 320 ha
+  }}
+}}

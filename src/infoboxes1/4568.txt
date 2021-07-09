@@ -1,0 +1,75 @@
+{{Infobox weapon
+| name = Thompson Submachine Gun, Caliber .45
+| image = Campbell Thompson.jpg
+| image_size = 300
+| caption = M1921 Thompson with vertical foregrip and 100 round Type "C" drum magazine
+| origin = United States
+| type = [[Submachine gun]]
+| is_ranged = yes
+| service = {{plainlist|
+*1938–1971 (officially, U.S. military)
+*1921–present (other countries)}}
+| used_by = See ''[[#Users|Users]]''
+| wars = {{plainlist|
+*[[Chaco War]]
+*[[Banana Wars]]<ref>{{cite web |title=The Sandino Rebellion, 1927–1934 |url=http://www.sandinorebellion.com/PCDocs/1928a/PC280104b-Brown.html |publisher=Sandinorebellion.com |access-date=2011-12-25}}</ref>
+*[[Irish Civil War]]<ref name="Hart, p. 187–188">{{harvnb|Hart|2003|pp=187–188}}</ref>
+*[[Castellammarese War]]
+*[[World War II]]<ref name="bishop1998"/>
+*[[Indonesian National Revolution]]
+*[[Chinese Civil War]]<ref name="mcnab2002"/>
+*[[First Indochina War]]<ref name="Indochina"/>
+*[[Greek Civil War]]{{sfn|Sazanidis|1995|pp=293–294}}
+*[[Indo-Pakistani War of 1947]]
+*[[1948 Arab–Israeli War]]<ref name="Arabs"/>
+*[[Malayan Emergency]]<ref name="auto">{{cite web |title=Weapons of the Malay CTs 1948–1960 |url=http://17thdivision.tripod.com/thepeacethatwasnt/id7.html |website=17thdivision.tripod.com}}</ref>
+*[[Korean War]]<ref name="bishop1998"/>
+*[[Algerian War]]
+*[[Vietnam War]]<ref name="bishop1998"/>
+*[[Indonesia–Malaysia confrontation]]
+*[[The Troubles]]{{sfn|Hart|2003|p=191}}
+*[[Turkish invasion of Cyprus]]
+*[[Yugoslav Wars]]<ref name="Yugoslav Army"/>
+*[[Iraq War]]<ref name ='SAS 2012 10'/>
+* and numerous others}}
+| designer = [[John T. Thompson]]
+| design_date = 1917–1920
+| manufacturer = {{plainlist|
+*[[Auto-Ordnance Company]] (originally)
+*The [[Birmingham Small Arms]] Company Limited
+*[[Colt's Manufacturing Company|Colt]]
+*[[Savage Arms]]
+*RPB Industries}}
+| production_date = 1921–1945
+| number = Approximately 1.75 million of all variants,{{sfn|Yenne|2009|p={{page needed|date=July 2018}}}} including:{{plainlist|
+* 562,511 M1928A1
+* 285,480 M1
+* 539,143 M1A1}}
+| variants = See [[Thompson submachine gun#Variants|Variants section]]
+| weight = {{plainlist|
+*{{convert|10.8|lb|kg|1|abbr=on}} empty (Thompson M1928A1)<ref name=TM9_2200_59>{{cite book |last=War Department |title=TM 9-2200 Small Arms, Light Field Mortars and 20-mm Aircraft Guns |url=https://archive.org/details/TM92200SmallArmsLightFieldMortarsAnd20mmAircraftGuns |publisher=War Department |date=1943-10-11 |page=[https://archive.org/details/TM92200SmallArmsLightFieldMortarsAnd20mmAircraftGuns/page/n123 59]}}</ref>
+*{{convert|10|lb|kg|1|abbr=on}} empty (Thompson M1A1)}}<ref name=TM9_2200_57>{{cite book |last=War Department |title=TM 9-2200 Small Arms, Light Field Mortars and 20-mm Aircraft Guns |url=https://archive.org/details/TM92200SmallArmsLightFieldMortarsAnd20mmAircraftGuns |publisher=War Department |date=1943-10-11 |page=[https://archive.org/details/TM92200SmallArmsLightFieldMortarsAnd20mmAircraftGuns/page/n59 57]}}</ref>
+| length = {{plainlist|
+*{{convert|33.7|in|mm|abbr=on}} (M1928A1 with compensator)<ref name = TM9_2200_59/>
+*{{convert|31.9|in|mm|abbr=on}} (M1/M1A1)<ref name = TM9_2200_57/>}}
+| part_length = {{plainlist|
+*{{convert|10.52|in|mm|abbr=on}}<ref name = TM9_2200_59/>
+*{{convert|12|in|mm|abbr=on}} (with Cutts compensator)}}
+| cartridge = {{plainlist|
+*[[.45 ACP]] (11.43×23mm)
+*[[10mm Auto]] (Limited quantity of FBI conversions)<ref>{{cite web|url=https://www.americanrifleman.org/articles/2018/7/18/full-powerfull-auto-the-thompson-goes-metric-and-the-mp5-goes-american/|title=Full Power/Full Auto: The Thompson Goes Metric And the MP5 Goes American|website=www.americanrifleman.org}}</ref>}}
+| range = 164 yds (150 m<ref>{{cite web|url=http://world.guns.ru/smg/usa/thompson-e.html|title=Thompson 1921 Submachine Gun |date=27 October 2010 |publisher=Modern Firearms}}</ref>)
+| velocity = {{convert|285|m/s|0|order=flip|abbr=on}}
+| action = [[Blowback (arms)|Blowback]], [[Blish Lock]]
+| rate = {{plainlist|
+*approx. 700–800rpm (M1928),<ref name = TM9_2200_59/> 
+*approx. 600-700rpm (M1A1),<ref name = TM9_2200_57/> 
+*approx.900 rpm (M1921)}}
+approx. 1500 rpm (Annihilator)
+| feed = {{plainlist|
+* 20-round stick/box magazine {{convert|0.4|lb|kg|1|abbr=on}} unloaded<ref name = TM9_2200_59/>
+* 30-round stick/box magazine {{convert|0.5|lb|kg|1|abbr=on}} unloaded<ref name = TM9_2200_59/>
+* 50-round [[drum magazine]] {{convert|2.6|lb|kg|1|abbr=on}} unloaded<ref name = TM9_2200_59/>
+* 100-round drum magazine}}
+(M1 and M1A1 models do not accept drum magazines)
+}}

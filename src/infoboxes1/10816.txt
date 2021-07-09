@@ -1,0 +1,54 @@
+{{Infobox settlement
+|name                   = Marib
+|other_name             = 
+|native_name            = {{lang|ar|مَأْرِب}}
+|nickname               = 
+|settlement_type        = [[List of cities in Yemen|City]]
+<!-- images and maps  ----------->
+|image_skyline          = Ancient Ma'rib 01.jpg
+|imagesize              = 275px
+|image_caption          = The ruins of Old Marib, which lies to the south of the modern city
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Yemen
+|pushpin_relief         = 1
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Yemen
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = Yemen
+|subdivision_type1      = [[Governorates of Yemen|Governorate]]
+|subdivision_name1      = [[Marib Governorate]]
+|subdivision_type2      = [[Districts of Yemen|District]]
+|subdivision_name2      = [[Marib District|Marib]]
+|<!-- Politics ----------------->
+|government_footnotes = 
+|government_type      = 
+|leader_title         = 
+|leader_name          = 
+|leader_title1        = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1         = 
+<!-- Area    --------------------->
+|unit_pref            = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes       = 
+|area_total_km2       = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2        = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of     = 2005
+|population_total     = 
+|population_blank1    = 16,794
+<!-- General information  --------------->
+|timezone             = Yemen Standard Time
+|utc_offset           = +03:00
+|coordinates          = {{coord|15|27|38|N|45|19|34|E|region:YE}}
+|elevation_footnotes  = <!--for references: use <ref> </ref> tags-->
+|elevation_m          = 
+|elevation_ft         = 
+<!-- Area/postal codes & others -------->
+|postal_code_type     = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code          = 
+|area_code            = 
+|website              = 
+|footnotes            = 
+}}

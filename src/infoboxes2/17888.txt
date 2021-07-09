@@ -1,0 +1,60 @@
+{{Infobox settlement
+| name                            = Laramie, Wyoming
+| settlement_type                 = [[List of municipalities in Wyoming|City]]
+<!-- Images -->| image_skyline                   = Laramie Downtown Historic District.jpg
+| image_caption                   = Downtown Laramie Historic District
+| image_flag                      = 
+| image_seal                      = 
+| nickname                        = 
+| motto                           = Gem City of the Plains
+<!-- Maps -->| image_map                       = Albany County Wyoming incorporated and unincorporated areas Laramie highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Albany County, Wyoming|Albany County]] and the state of [[Wyoming]].
+<!-- Location -->| coordinates                     = {{coord|41|18|40|N|105|35|37|W|region:US-WY|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Wyoming]]
+| subdivision_type2               = [[List of counties in Wyoming|County]]
+| subdivision_name2               = [[Albany County, Wyoming|Albany]]
+| established_title               = 
+| established_date                = <!-- Government -->
+| government_type                 = 
+| government_footnotes            = 
+| leader_title                    = Mayor
+| leader_name                     = Paul Weaver 
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_56.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_total_km2                  = 47.61
+| area_total_sq_mi                = 18.38
+| area_land_km2                   = 47.55
+| area_land_sq_mi                 = 18.36
+| area_water_km2                  = 0.06
+| area_water_sq_mi                = 0.02
+| area_water_percent              = 
+| elevation_m                     = 2184
+| elevation_ft                    = 7165
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 32711
+| pop_est_as_of                   = 2019
+| population_total                = 30816
+| population_density_km2          = 701.16
+| population_urban                = 
+| population_metro                = 38943
+<!-- General information -->| timezone                        = [[Mountain Time Zone|MST]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = [[Mountain Time Zone|MDT]]
+| utc_offset_DST                  = &minus;6
+| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 82070-82073
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = 307 Exchanges:721,742,745,755,766
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 56-45050<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1590526<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = {{URL|https://www.cityoflaramie.org/}}
+| pop_est_footnotes               = <ref name="CityandTownPopulationTotals"/>
+| population_density_sq_mi        = 1781.74
+| imagesize                       = 300px
+}}

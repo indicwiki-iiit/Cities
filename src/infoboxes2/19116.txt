@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Chesapeake Beach, Maryland
+|official_name            = Town of Chesapeake Beach
+|settlement_type          = [[Town]]
+|nickname                 = "Twin Beaches"<!--along with North Beach, the adjacent town to the north-->
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = File:2016-07-20 19 24 28 View east at the east end of Maryland State Route 260 (Chesapeake Beach Road) at Maryland State Route 261 (Bayside Road) in Chesapeake Beach, Calvert County, Maryland.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map = Calvert_County_Maryland_Incorporated_and_Unincorporated_areas_Chesapeake_Beach_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Chesapeake Beach, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Nowrap|{{Flag|United States of America|size=23px}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Maryland|size=23px}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Calvert County, Maryland.png|size=23px}} [[Calvert County, Maryland|Calvert]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Pat "Irish" Mahoney
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1886 (repealed 1888, reincorporated 1894)<ref>{{cite web|title=Chesapeake Beach|url=http://msa.maryland.gov/msa/mdmanual/37mun/chesapeakeb/html/c.html|website=Maryland Manual|accessdate=25 June 2017}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|accessdate=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 7.21
+|area_land_km2            = 6.97
+|area_water_km2           = 0.23
+|area_total_sq_mi         = 2.78
+|area_land_sq_mi          = 2.69
+|area_water_sq_mi         = 0.09
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6030
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 5753
+|population_density_km2   = 864.65
+|population_density_sq_mi = 2239.14
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 15
+|elevation_ft             = 49
+|coordinates              = {{coord|38|41|42|N|76|32|10|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 20732
+|area_code                = [[Area code 301|301]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-15925
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0589951
+|website                  = {{URL|http://www.chesapeake-beach.md.us/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

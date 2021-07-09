@@ -1,0 +1,26 @@
+{{Infobox settlement
+|name                   = Porto Amboim
+|other_name             = Benguela
+|native_name            = Kissonde<!-- if different from the English name -->
+|settlement_type        = [[Municipalities of Angola|Municipality]] and Town
+|pushpin_map            = Angola
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Angola}}<!--the name of the country-->
+|subdivision_type1      = Province
+|subdivision_name1      = [[Cuanza Sul Province|Cuanza Sul]]
+|elevation_m            = 0
+|elevation_ft           = 3
+|population_as_of       = 2014 Census
+|population_footnotes   = <ref name =Censo2014>{{cite web|url=https://www.ine.gov.ao/images/Censo_2014/Publicacao-Cuanza_Sul_FINAL.pdf |title=Resultados Definitivos Recenseamento Geral da População e Habitação – 2014 Província do Cuanza Sul |access-date=3 May 2020 |website=Instituto Nacional de Estatística, República de Angola| df=dmy }}</ref>
+|population_total       = 242444
+|population_density_km2 = 14
+|coordinates            = {{coord|10|43|6|S|13|45|0|E|region:AO-CUS|display=inline,title}}
+|blank1_name_sec2       = Climate
+|blank1_info_sec2       = [[Tropical savanna climate|Aw]]
+|module = {{Infobox lighthouse | embed=yes
+| qid = Q106587655
+| construction = masonry tower
+| shape = quadrangular tower with balcony, external stairs and light<ref name=listoflights113>{{cite ngall|113|2016|}}</ref><ref name=angola>{{Cite rowlett|ago|access-date=11 May 2017}}</ref>
+| country = Angola
+| countrynumber = PT-5272<ref name=angola/>
+}}}}

@@ -1,0 +1,43 @@
+{{Infobox weapon
+|name= Yatagan
+| image= Two Ottoman yatagan (yataghan).jpg
+| image_size = 150
+|caption= Two Ottoman yatagans, 19th century.
+|origin= [[Yatağan (Denizli)|Yatağan]], Turkey
+|type= Hewing knife / sabre
+<!-- Type selection -->
+|is_ranged=nothing
+|is_bladed=yes
+|is_explosive=
+|is_artillery=
+|is_vehicle=
+|is_missile=
+|is_UK=
+<!-- Service history -->
+|service= 16th-19th century
+|used_by=[[Ottoman Empire]]
+|wars= Ottoman wars
+<!-- Production history -->
+|designer=
+|design_date=
+|manufacturer=
+|unit_cost=
+|production_date=
+|number=
+|variants=
+<!-- General specifications -->
+|spec_label=
+|weight= ~0.85 kg
+|length= ~0.75 m
+|part_length= ~0.60 m
+|width=
+|height=
+|diameter=
+|crew=
+<!-- Bladed weapon specifications -->
+|blade_type= Single-edged, curved forward
+|hilt_type= Pronged sideways towards pommel, no guard; typically made from horn, bone or metal (silver)
+|sheath_type=
+|head_type=
+|haft_type=
+}}

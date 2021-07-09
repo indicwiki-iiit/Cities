@@ -1,0 +1,69 @@
+{{Infobox settlement
+| official_name                   = Flatwoods, West Virginia
+| settlement_type                 = [[Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = File:Flatwoods_West_Virginia.jpg
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = File:Braxton County West Virginia Incorporated and Unincorporated areas Flatwoods Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Flatwoods in Braxton County, West Virginia.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|West Virginia}}
+| subdivision_type2               = [[List of counties in West Virginia|County]]
+| subdivision_name2               = [[Braxton County, West Virginia|Braxton]]
+
+<!-- Government -->| government_footnotes            = <ref name="Town of Flatwoods">{{cite web|title=About Us|url=http://www.local.wv.gov/Flatwoods/Pages/about.aspx|website=The Town of Flatwoods|access-date=27 August 2015}}</ref>
+| government_type                 = [[Mayor-Council]]
+| leader_title                    = Mayor
+| leader_name                     = Vacant
+| leader_title1                   = Chief of Police
+| leader_name1                    = Shawn Brown
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = {{start date and age|1901}}
+
+<!-- Area -->| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_54.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 1.70
+| area_land_km2                   = 1.70
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 0.66
+| area_land_sq_mi                 = 0.66
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 265
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 277
+| population_density_km2          = 156.26
+| population_density_sq_mi        = 404.58
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="Town of Flatwoods"/>
+| elevation_m                     = 
+| elevation_ft                    = 1071
+| coordinates                     = {{coord|38|43|17|N|80|39|11|W|region:US-WV|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 26621
+| area_code                       = [[Area code 304|304]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 54-27868<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1539070<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = 
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| unit_pref                       = Imperial
+}}

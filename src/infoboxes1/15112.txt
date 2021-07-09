@@ -1,0 +1,56 @@
+{{Infobox settlement
+| name                    = Kočevje
+| native_name             = 
+| native_name_lang        = sl<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = City
+| image_skyline           = Rinza1-Kocevje.JPG
+| image_alt               =
+| image_caption           = The town center viewed from the northeast
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| pushpin_map             = Slovenia<!-- Slovenia -->
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location of the City of Kočevje in Slovenia
+| coordinates             = {{coord|45|38|34.66|N|14|51|33.78|E|region:SI_type:city(16292)|display=inline,title}}
+| coor_pinpoint           =
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Slovenia}}
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               = <!-- [[Capital (political)|Capital]] -->
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            = [[Mayor]]
+| leader_name             = [http://www.vladimir-prebilic.si/ Vladimir Prebilič]
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          =
+| total_type              =
+| area_total_km2          = 14.14
+| area_note               =
+| elevation_footnotes     =<ref>{{cite web |url=http://www.stat.si/letopis/2002/01_02/01-06-02.asp?jezik=en |title=Nadmorska višina naselij, kjer so sedeži občin |language=sl, en |trans-title=Height above sea level of seats of municipalities |year=2002 |publisher=Statistical Office of the Republic of Slovenia |url-status=dead |archive-url=https://www.webcitation.org/6CRTMfOo4?url=http://www.stat.si/letopis/2002/01_02/01-06-02.asp?jezik=en |archive-date=25 November 2012  }}</ref>
+| elevation_m             = 465
+| population_footnotes    =<ref name="SORS-KOCEVJE">{{cite web |url=http://www.stat.si/eng/KrajevnaImena/default.asp?txtIme=KO%C8EVJE&selNacin=celo&selTip=naselja&ID=1615 |title=Kočevje, Kočevje |publisher=Statistical Office of the Republic of Slovenia |access-date=6 September 2012 |work=Place Names}}</ref>
+| population_total        = 8616
+| population_as_of        = 2012
+| population_density_km2  = 610
+| population_demonym      =
+| population_note         =
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +01
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +02
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| registration_plate      = LJ
+| website                 = <!-- [http://www.example.com/ example.com] -->
+| footnotes               =
+}}

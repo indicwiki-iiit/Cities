@@ -1,0 +1,54 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   =Daura <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|native_name_lang       =  <!-- Use ISO639 code, e.g. "fr" for French.
+                           If there is more than one native name, in different languages,
+                           enter those names using {{lang}}, instead -->
+|nickname               = 
+|settlement_type        = [[Local Government Areas of Nigeria|LGA]] and Town
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|translit_lang2_info1=L
+<!-- images and maps  ----------->
+|pushpin_map            =Nigeria <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location in Nigeria
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Nigeria]]
+|subdivision_type1      = State
+|subdivision_name1      = [[Katsina State|Katsina]]
+|subdivision_type2      = [[Local Government Areas of Nigeria|Local Government Area]]
+|subdivision_name2      = Daura
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Emir
+|leader_name            =[[Faruk Umar Faruk]]
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                =Imperial <!--Enter: Imperial, to display imperial before metric-->
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =474 
+|elevation_ft           =1558
+<!-- Population   ----------------------->
+|population_as_of               =
+|population_footnotes           =
+|population_note                =
+|population_total               =
+<!-- General information  --------------->
+|timezone               =[[West Africa Time]] 
+|utc_offset             =+1 
+|timezone_DST           =[[West Africa Time]]
+|utc_offset_DST         =+1 
+|coor_pinpoint         =<!-- can be used to specify exactly where/what the coordinates refer to -->
+|coordinates            = {{coord|13|2|11|N|8|19|4|E|region:NG_type:city|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+}}

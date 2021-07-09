@@ -1,0 +1,29 @@
+{{Infobox UK place
+|official_name= Turriff
+|gaelic_name= Torraibh / Baile Thurra<ref name=tailleir>{{Cite web |title=Gaelic Placenames collected by Iain Mac an Tailleir (2003) |url=http://www.scottish.parliament.uk/Gaelic/placenamesP-Z.pdf}}</ref>
+|scots_name= Turra
+|static_image_name= Turriff.jpg
+|static_image_caption= High Street, Turriff
+|coordinates= {{coord|57.539031|-2.461141|display=inline,title}}
+|area_footnotes= <!--to cite the values used in the area fields.  Use the <ref> </ref> tags -->
+|area_total_sq_mi= <!-- Enter square mile data in RAW format (no commas or spaces) will automatically convert km² (if blank)-->
+|area_total_km2= <!-- Enter square kilometre data in RAW format (no commas or spaces) will automatically convert sq mi (if blank)-->
+| population = {{Scottish locality populations|name|POP=Turriff}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|population_density= <!--for /sq mi ...use convert template {{Pop density mi2 to km2|(enter value) |precision=1|abbr=yes}} if pop density/km² is known use  {{Pop density km2 to mi2|(enter value) |precision=1|abbr=yes}} -->
+|os_grid_reference= NJ725505
+|edinburgh_distance= {{convert|160|mi|km|0}} [[Points of the compass|SSW]]
+|london_distance= {{convert|569|mi|km|0}} [[Points of the compass|SSE]]
+|civil_parish= Turriff
+|unitary_scotland= [[Aberdeenshire]]
+|lieutenancy_scotland= [[Aberdeenshire (historic)|Aberdeenshire]]
+|country= Scotland
+|historic_county = [[Aberdeenshire (historic)|Aberdeenshire]]
+|post_town= TURRIFF
+|postcode_area= AB
+|postcode_district= AB53
+|dial_code= 01888
+|constituency_westminster= [[Banff and Buchan (UK Parliament constituency)|Banff and Buchan]]
+|constituency_scottish_parliament= [[Aberdeenshire East (Scottish Parliament constituency)|Aberdeenshire East]]
+|website= <!-- local website for place -->
+}}

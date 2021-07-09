@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- General information -->
+|official_name          =Komárom
+|other_name             =''Brigetio'' (in ancient Latin) <br>''Comaromium'' (in medieval Latin) <br>{{lang|de|Komorn}} {{in lang|de}} <br>{{lang|sk|Komárno}} {{in lang|sk}}
+|settlement_type        =[[List of cities and towns of Hungary|Town]]
+|image_shield           =HUN Komárom Címer.svg
+|image_flag             =Flag of Komárom (variant).svg
+|image_skyline          ={{nowrap|[[File:Komárom - Fort Igmánd.jpg|252px]]<br/>[[File:Hungary, Komárom, a Városháza a Szabadság téren 001.JPG|125px]][[File:Hungary, Komárom, a Petőfi Sándor általános iskola a Szabadság téren.JPG|125px]]}}
+<!-- Pushpin map -->
+|pushpin_map            =Hungary
+|pushpin_map_caption    =Location of Komárom in Hungary
+<!-- Political information -->
+|subdivision_type       =Country
+|subdivision_name       =[[Hungary]]
+|subdivision_type1      =[[List of regions of Hungary|Region]]
+|subdivision_name1      =[[{{Hungarian county region|Komárom-Esztergom}}]]
+|subdivision_type2      =[[Counties of Hungary|County]]
+|subdivision_name2      ={{Hungarian county link|Komárom-Esztergom}}
+|subdivision_type3      =[[Subregions of Hungary|Subregion]]
+|subdivision_name3      =[[Komárom District|Komárom]]
+|subdivision_type6      =Rank
+|subdivision_name6      ={{Hungarian settlement rank name|város}}
+<!-- Geographical information -->
+|area_total_km2         =70.19
+|area_magnitude         =1 E6
+|area_footnotes         =<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=05449 Komárom] at the [[Hungarian Central Statistical Office]] (Hungarian).</ref>
+|coordinates            ={{coord|47|44|25|N|18|7|28|E|region:HU|display=inline,title}}
+<!-- Demographical information -->
+|postal_code            =2900
+|postal_code_type       =[[Postal code]]
+|area_code              =+36 34
+|area_code_type         =[[Telephone numbers in Hungary|Area code]]
+|timezone               =[[Central European Time|CET]]
+|utc_offset             =+1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         =+2
+|total_type             =Total
+|population_total       =18805<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=05449 Komárom, KSH]</ref>
+|population_density_km2 =auto
+|population_density_urban_km2 =auto
+|population_density_metro_km2 =auto
+|population_as_of       =2017
+|population_footnotes   =<ref name="ksh_cite_population">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=05449 Komárom] at the [[Hungarian Central Statistical Office]] (Hungarian). 2017</ref>
+
+|blank_name             =[[Hungarian Central Statistical Office|KSH code]]
+|blank_info             =05449<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=05449 Komárom] at the [[Hungarian Central Statistical Office]] (Hungarian).</ref>
+|website                ={{wikidata|property|P856}}
+}}

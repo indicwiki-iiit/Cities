@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name = Nador / Ennaḍor 
+|other_name = الناظور / الناضور
+|native_name = Ennaḍor / ⴻⵏⵏⴰⴹⵓⵔ
+|nickname               = 
+|settlement_type        = [[City]] 
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = Nador seafront.JPG
+| photo2a = Nador-Morocco-10.jpg
+| photo2b = Nador City Center.jpg
+| photo3a = Av Youssef ibn Tachafin a Nador (cropped).jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}} 
+|imagesize              = 250px
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Morocco
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[File:Flag of Morocco.svg|25px]] [[Morocco]]
+|subdivision_type1      = [[Regions of Morocco|Region]] 
+|subdivision_name1      = [[Oriental (Morocco)|Oriental]]
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_name2      = [[Nador Province|Nador]]
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = Soulimane Houlich
+|established_title      =  <!-- Settled -->
+|established_date       = 1722
+<!-- Area    --------------------->
+|area_magnitude           = 
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2014
+|population_footnotes           = <ref name="hcp.ma">{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_note                =
+|population_total               = 161726
+|population_density_km2 = auto
+|population_density_sq_mi       = auto
+|population_rank        =  [[List of cities in Morocco|19th in Morocco]]
+|population_metro               = 
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        = Ethnicities
+|population_blank1              = Berbers: 98%; Spaniards: 1%; Other foreigners: 1%
+|population_density_blank1_km2  =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone                       = [[Central European Time|CET]]
+|utc_offset                     = +1
+|coordinates            = {{coord|35|10|0|N|02|56|0|W|type:city(120000)_region:MA|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 42
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 62000
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

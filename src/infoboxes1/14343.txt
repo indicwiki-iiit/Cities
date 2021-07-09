@@ -1,0 +1,74 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+ | official_name = Cambridge
+ | other_name =
+ City of Cambridge
+| settlement_type = [[City status in the United Kingdom|City]] and [[non-metropolitan district]]
+ | image_skyline = KingsCollegeChapelWest.jpg
+ | imagesize = 
+ | image_caption = King's College Chapel, seen from [[the Backs]]
+ |image_shield = Coat of Arms of the City of Cambridge.svg
+ |shield_link = Coat of arms
+ | nickname =
+ | motto =
+<!-- images and maps ----------->
+ | image_map = Cambridge UK locator map.svg
+ | mapsize = 
+ | map_caption = Cambridge shown within [[Cambridgeshire]]
+|pushpin_map            = England#UK#Europe
+|pushpin_label_position = 
+|pushpin_map_caption    = Location within England##Location within the United Kingdom##Location within Europe
+|pushpin_mapsize        = 
+|pushpin_relief         = 1
+ <!-- Location ------------------>
+ | coordinates       = {{coord|52|12|19|N|0|07|09|E|region:GB|display=inline}}
+ | subdivision_type = [[List of sovereign states|Sovereign state]]
+ | subdivision_name = {{Flagcountry|United Kingdom}}
+| subdivision_type1    = [[Countries of the United Kingdom|Country]]
+| subdivision_type2    = [[Regions of England|Region]]
+ | subdivision_type3 = [[Ceremonial counties of England|Ceremonial county]]
+ | subdivision_type4 = Admin HQ
+ | subdivision_name1    = {{flagu|England}}
+| subdivision_name2 = [[East of England]]
+ | subdivision_name3 = {{flag|Cambridgeshire}}
+ | subdivision_name4 = [[Cambridge Guildhall]]
+<!-- Politics ----------------->
+ | established_title = Founded
+ | established_date = 1st century
+ | established_title2 = City status
+ | established_date2 = 1951
+<!-- Area --------------------->
+ | government_footnotes =
+ | government_type = [[Non-metropolitan district]], [[City status in the United Kingdom|city]]
+ | leader_title = Governing&nbsp;body
+ | leader_name = [[Cambridge City Council]]
+ | leader_title1 = Mayor
+ | leader_name1 = [[Russ McPherson]] ([[Labour Party (UK)|L]])
+ | area_total_sq_mi = 15.71<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+ | area_land_sq_mi = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population ----------------------->
+ | elevation_m = 6
+<!-- Area/postal codes & others -------->
+ | population_total = {{English district population|GSS = E07000008}} ([[List of English districts by population|ranked {{English district rank|GSS = E07000008}}]])
+ | population_as_of = {{English statistics year}}
+<!-- General information --------------->
+-| population_demonym=Cantabrigian
+ | population_blank1_title =
+ | population_blank1 = 
+| population_blank2_title = Ethnicity (2011)<ref name=Census2011>{{NOMIS2011|id=2092957699|title=Cambridge Local Authority|accessdate=8 February 2018}}</ref>
+ | population_blank2 = 66% White British<br/>1.4% White Irish<br/>15% White Other<br/>1.7% Black British<br/>3.2% Mixed Race<br/>11% British Asian & Chinese<br/>1.6% other
+| postal_code_type = Postcode
+ | postal_code = [[CB postcode area|CB1&nbsp;– CB5]]
+ | area_code = 01223
+ | website = [https://www.cambridge.gov.uk/ www.cambridge.gov.uk]
+| leader_title3 = [[List of MPs elected in the 2019 United Kingdom general election|MPs]]:
+ | leader_name3 = [[Daniel Zeichner]] ([[Labour Party (UK)|L]])<br/>[[Anthony Browne (politician)|Anthony Browne]] ([[Conservative Party (UK)|C]])
+ | timezone = [[Greenwich Mean Time]]
+ | utc_offset = +0
+ | timezone_DST = [[British Summer Time|BST]]
+ | utc_offset_DST = +1
+ | blank1_name = [[ONS coding system|ONS code]]
+ | blank1_info = 12UB (ONS)<br/>E07000008 (GSS)
+ | blank2_name = [[British national grid reference system|OS grid reference]]
+ | blank2_info = {{gbmappingsmall|TL450588}}
+ }}

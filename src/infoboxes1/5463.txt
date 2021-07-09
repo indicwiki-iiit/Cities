@@ -1,0 +1,34 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Nehe}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|讷河市}}}}}}
+|settlement_type = [[County-level city]]
+|image_skyline = 
+<!--|image_map = Location of Nehe within Heilongjiang (China).png
+|map_caption = Location of Nehe (red) in Qiqihar City (yellow), Heilongjiang, and the PRC-->
+|subdivision_type = Country
+|subdivision_name = [[People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Heilongjiang]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Qiqihar]]
+|seat = 
+|seat_type = City seat
+|area_total_km2 = 6664
+|population = 
+|population_as_of = 
+|population_density_km2 = auto
+|population_total = 640000
+|pushpin_map = China Heilongjiang
+|pushpin_label_position = right
+|coordinates = {{coord|48|29|N|124|53|E|region:CN-23|display=inline,title}}
+|elevation_m = 203
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|postal_code = 161300
+|postal_code_type = [[Postal code of China|Postal code]]
+|area_code =
+|blank_name = [[Köppen climate classification|Climate]]
+|blank_info = [[Humid continental climate#Mild/cool summer subtype|Dwb]] 
+|website =[http://www.nehe.gov.cn/]
+}}

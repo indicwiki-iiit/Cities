@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                            = 
+| official_name                   = Fairview Park, Ohio
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = "A Great Place To Grow"
+
+<!-- Images -->
+| image_skyline                   = Fairview Community Park main building.jpg
+| imagesize                       = 250px
+| image_caption                   = Bain Cabin in Bain Park
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Cuyahoga County Ohio incorporated and unincorporated areas Fairview Park highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the U.S. state of [[Ohio]].
+| image_map1                      = Ohio in United States (US48).svg
+| map_caption1                    = Location of Ohio in the United States
+
+<!-- Location -->
+| coordinates                     = {{coord|41|26|30|N|081|51|27|W|region:US_type:city|display=inline,title}}
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_type2               = [[List of counties in Ohio|County]]
+| subdivision_name2               = [[Cuyahoga County, Ohio|Cuyahoga]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = [[Mayor-council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Patrick J. Cooney
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 4.69
+| area_land_sq_mi                 = 4.69
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 12.15
+| area_land_km2                   = 12.15
+| area_water_km2                  = 0.00
+
+<!-- Elevation -->| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_ft                    = 748
+| elevation_m                     = 228
+
+<!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 16161
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 16826
+| population_density_km2          = 1330.62
+| population_density_sq_mi        = 3446.58
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 44126
+| area_code                       = [[Area code 440|440]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank_info                      = {{FIPS|39|26446}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS4|1072213}}
+| website                         = {{URL|www.fairviewpark.org}}
+| footnotes                       = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

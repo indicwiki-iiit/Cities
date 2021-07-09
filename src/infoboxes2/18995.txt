@@ -1,0 +1,62 @@
+{{Infobox planet
+| name = Moon
+| apsis = gee
+| symbol = [[File:Moon symbol decrescent.svg|19px|Moon symbol]]
+| image = FullMoon2010.jpg
+| image_alt = Full Moon in the darkness of the night sky. It is patterned with a mix of light-tone regions and darker, irregular blotches, and scattered with varying sizes of impact craters, circles surrounded by out-thrown rays of bright ejecta.
+| caption = The Moon with its [[full moon|fully illuminated]] [[near side]] ([[Lunar north pole|north]] is at top)
+| background = #ddd
+| mpc_name = Earth I
+| alt_names = {{hlist |[[wikt:Luna|Luna]] |{{nowrap|[[wikt:Selene|Selene]] <small>(poetic)</small>}}|{{nowrap|[[wikt:Cynthia|Cynthia]] <small>(poetic)</small>}}}} 
+| adjectives = {{hlist |[[wikt:lunar|Lunar]] |{{nowrap|[[wikt:selenian|Selenian]] <small>(poetic)</small>}}|{{nowrap|[[wikt:cynthian|Cynthian]] <small>(poetic)</small>}}|{{nowrap|[[wikt:moonly|Moonly]] <small>(poetic)</small>}}}}
+| periapsis = {{gaps |362 |600}}&nbsp;km<br />({{gaps |356 |400}}–{{gaps |370 |400}}&nbsp;km)
+| apoapsis = {{gaps |405 |400}}&nbsp;km<br />({{gaps |404 |000}}–{{gaps |406 |700}}&nbsp;km)
+| semimajor = {{val |384399 |u=km}}{{nbsp |2}}({{val |1.28 |u=[[light-second|ls]]}}, {{val |0.00257 |u=[[Astronomical unit|AU]]}})<ref name="W06"/>
+| eccentricity = {{val |0.0549}}<ref name="W06"/>
+| period = {{longitem |class=nowrap |{{val |27.321661 |ul=d}}<br />{{smaller |(27&thinsp;d 7&thinsp;h 43&thinsp;min 11.5&thinsp;s<ref name="W06"/>)}}}}
+| synodic_period = {{longitem |class=nowrap |{{val |29.530589 |u=d}}<br />{{smaller |(29&thinsp;d 12&thinsp;h 44&thinsp;min 2.9&thinsp;s)}}}}
+| avg_speed = {{val |1.022 |ul=km/s}}
+| inclination = {{nowrap |5.145° to the [[ecliptic]]<ref name="Lang2011"/>{{efn|name=inclination|Between 18.29° and 28.58° to Earth's [[equator]].<ref name="W06"/><!--Wieczorek et al. 2006; 18.29° when the longitude of the Moon's ascending node is 180°, 28.58° when it is 0°-->}} }}
+| asc_node = {{longitem |Regressing by one [[orbit|revolution]] in 18.61&nbsp;years}}
+| arg_peri = {{longitem |Progressing by one<br/> revolution in 8.85&nbsp;years}}
+| satellite_of = [[Earth]]{{efn|name=near-Earth asteroids}}<ref name="Morais2002"/>
+| flattening = {{val |0.0012}}<ref name="NSSDC"/>
+| equatorial_radius = {{nowrap |{{val |1738.1 |u=km}}{{nbsp |2}}{{smaller |<br />(0.2725 of Earth's)}}<ref name="NSSDC"/>}}
+| polar_radius = {{nowrap |{{val |1736.0 |u=km}}{{nbsp |2}}{{smaller |<br />(0.2731 of Earth's)}}<ref name="NSSDC"/>}}
+| mean_radius = {{nowrap |{{val |1737.4 |u=km}}{{nbsp |2}}{{smaller |<br />(0.2727 of Earth's)}}<ref name="W06"/><ref name="NSSDC"/><ref>{{cite journal |last1=Smith |first1=David E. |last2=Zuber |first2=Maria T. |last3=Neumann |first3=Gregory A. |last4=Lemoine |first4=Frank G. |title=Topography of the Moon from the Clementine lidar |journal=[[Journal of Geophysical Research]] |date=1 January 1997 |volume=102 |issue=E1 |page=1601 |doi=10.1029/96JE02940 |bibcode=1997JGR...102.1591S |hdl=2060/19980018849 |s2cid=17475023 |hdl-access=free |url=https://semanticscholar.org/paper/9cdbb161f908e6cc4e5c55c4daee9f766743c400 |access-date=2 December 2019 |archive-date=19 August 2020 |archive-url=https://web.archive.org/web/20200819021909/https://www.semanticscholar.org/paper/Topography-of-the-Moon-from-the-Clementine-lidar-Smith-Zuber/9cdbb161f908e6cc4e5c55c4daee9f766743c400 |url-status=live }}</ref>}}
+| circumference = {{nowrap |{{val |10921 |u=km}}{{nbsp |2}}{{smaller |([[equator]]ial)}}}}
+| surface_area = {{nowrap |{{val |3.793 |e=7 |u=km2}}{{nbsp |2}}{{smaller |<br />(0.074 of Earth's)}}}}
+| volume = {{nowrap |{{val |2.1958 |e=10 |u=km3}}{{nbsp |2}}{{smaller |<br />(0.020 of Earth's)<ref name="NSSDC"/>}}}}
+| mass = {{nowrap |{{val |7.342 |e=22 |u=kg}}{{nbsp |2}}{{smaller |<br />({{val |0.012300}} of Earth's)<ref name="W06"/><ref name="NSSDC"/>}}}}<ref>{{cite book |title=Top 10 of Everything |first=Paul |last=Terry |publisher=Octopus Publishing Group Ltd |year=2013 |isbn=978-0-600-62887-3 |page=226}}</ref>
+| density = {{val |3.344 |ul=g/cm3}}<ref name="W06"/><ref name="NSSDC"/><br /><small>{{val |0.606}} × Earth</small>
+| surface_grav = {{nowrap |{{val |1.62 |ul=m/s2}}{{nbsp |2}}{{smaller |({{val |0.1654 |u=[[G-force|g]]}})<ref name="NSSDC"/>}}}}
+| moment_of_inertia_factor = {{val |0.3929 |0.0009}}<ref name="Williams1996" />
+| escape_velocity= {{convert|2.38|km/s|km/h mph|comma=gaps|abbr=on|disp=x|<br/><small>(|)</small>}}
+| rotation = {{longitem |class=nowrap |{{val |29.530589 |u=d}}<br />{{smaller |(29&thinsp;d 12&thinsp;h 44&thinsp;min 2.9&thinsp;s; [[synodic day|synodic; solar day]]) ([[tidal locking|spin-orbit locked]])}}}}
+| sidereal_day = {{nowrap |{{val |27.321661 |u=d}}{{nbsp |2}}{{smaller |(spin-orbit locked)}}}}
+<!-- Wieczorek et al. 2006 -->
+| rot_velocity = {{nowrap |4.627 m/s}}
+| axial_tilt = {{ublist |class=nowrap |1.5424° to [[ecliptic]]<ref name="SolarViews" /><!--1.533° according to Conn 2007-->|6.687° to [[Orbital plane (astronomy)|orbit plane]]<ref name="Lang2011"/><!--6.4° according to Grego; <ref name="Grego2005">Grego, Peter, [https://books.google.com/books?id=z6Pgt9xEW9gC&pg=PA48 ''The Moon and How to Observe It''], Springer, 2005</ref> 6.6783° according to Conn. <ref name="Conn2007">Conn, David (2007); ''Lednorf's Dilemma'', AuthorHouse, Bloomington (IN)</ref>-->|24° to Earth's equator&thinsp;<ref>{{cite journal |last=Makemson |first=Maud W. |year=1971 |title=Determination of selenographic positions |journal=The Moon |volume=2 |issue=3 |pages=293–308 |doi=10.1007/BF00561882 |bibcode=1971Moon....2..293M |s2cid=119603394 }}</ref>}}
+| epoch = [[J2000]]
+| right_asc_north_pole =
+  {{plainlist |
+* {{RA|17|47|26}}
+* 266.86°<ref name="report">{{cite journal |doi=10.1007/s10569-010-9320-4 |title=Report of the IAU Working Group on Cartographic Coordinates and Rotational Elements: 2009 |url=http://astropedia.astrogeology.usgs.gov/alfresco/d/d/workspace/SpacesStore/28fd9e81-1964-44d6-a58b-fbbf61e64e15/WGCCRE2009reprint.pdf |journal=Celestial Mechanics and Dynamical Astronomy |volume=109 |issue=2 |pages=101–135 |year=2010 |last1=Archinal |first1=Brent A. |last2=A'Hearn |first2=Michael F. |last3=Bowell |first3=Edward G. |last4=Conrad |first4=Albert R. |last5=Consolmagno |first5=Guy J. |last6=Courtin |first6=Régis |last7=Fukushima |first7=Toshio |last8=Hestroffer |first8=Daniel |last9=Hilton |first9=James L. |last10=Krasinsky |first10=George A. |last11=Neumann |first11=Gregory A. |last12=Oberst |first12=Jürgen |last13=Seidelmann |first13=P. Kenneth |last14=Stooke |first14=Philip J. |last15=Tholen |first15=David J. |last16=Thomas |first16=Paul C. |last17=Williams |first17=Iwan P. |bibcode=2011CeMDA.109..101A |s2cid=189842666 |access-date=24 September 2018 |archive-url=https://web.archive.org/web/20160304065344/http://astropedia.astrogeology.usgs.gov/alfresco/d/d/workspace/SpacesStore/28fd9e81-1964-44d6-a58b-fbbf61e64e15/WGCCRE2009reprint.pdf |archive-date=4 March 2016 |url-status=dead }} also available {{cite web |title=via usgs.gov |url=http://astropedia.astrogeology.usgs.gov/download/Docs/WGCCRE/WGCCRE2009reprint.pdf |access-date=26 September 2018 |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427144731/https://astropedia.astrogeology.usgs.gov/download/Docs/WGCCRE/WGCCRE2009reprint.pdf |url-status=live }}</ref>
+  }}
+| declination = 65.64°<ref name="report" />
+| albedo = 0.136<ref name="Saari"/>
+| temp_name1 = Equator
+| min_temp_1 = 100&nbsp;[[Kelvin|K]]<ref name=Bugby_et_al_2010/>
+| mean_temp_1 = 250&nbsp;K
+| max_temp_1 = 390&nbsp;K<ref name=Bugby_et_al_2010>{{cite conference | title=Two‐Phase Thermal Switching System for a Small, Extended Duration Lunar Surface Science Platform | first1=D. C. | last1=Bugby | first2=J. T. | last2=Farmer | first3=B. F. | last3=O’Connor | first4=M. J. | last4=Wirzburger | first5=E. D. Abel | last5=C. J. Stouffer | series=AIP Conference Proceedings | volume=1208 | pages=76–83 | date=January 2010 | doi=10.1063/1.3326291 | bibcode=2010AIPC.1208...76B  }}</ref>
+| temp_name2 = 85°N&nbsp;
+| min_temp_2 =
+| mean_temp_2 = 150&nbsp;K
+| max_temp_2 = 230&nbsp;K<ref name="Vasavada1999"/>
+| magnitude = {{ublist |class=nowrap |−2.5 to −12.9{{efn |name=maxval}} |−12.74{{nbsp |2}}{{smaller |(mean [[full moon]])}}<ref name="NSSDC"/>}}
+| angular_size = {{nowrap |29.3 to 34.1 [[minute and second of arc|arcminutes]]<ref name="NSSDC"/>{{efn |name=angular size}}}}
+| atmosphere = trace
+| atmosphere_ref = <ref name="L06"/>
+| surface_pressure = {{ublist |class=nowrap |10{{sup |−7}} [[Pascal (unit)|Pa]] (1 [[bar (unit)|picobar]]){{nbsp |2}}{{smaller |(day)}} |10{{sup |−10}} Pa (1 femtobar) {{nbsp |2}}{{smaller | <br />(night)}}{{efn |name=pressure explanation}}}}
+| atmosphere_composition = {{hlist |[[Helium|He]] |[[Argon|Ar]] |[[Neon|Ne]] |[[Sodium|Na]] |[[Potassium|K]] |[[Hydrogen|H]] |[[Radon|Rn]]}}
+}}

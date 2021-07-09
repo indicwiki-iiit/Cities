@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|official_name          = Nilkantha
+|other_name             =
+|native_name            = नीलकण्ठ नगरपालिका
+|nickname               =
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = Dhading besi.jpg
+|image_caption          = Dhadingbesi Highway
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Zones of Nepal|Zone]]
+|subdivision_name1      = [[Bagmati Zone]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Dhading District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type        =  [[Mayor–council government|Mayor–council]]
+|leader_title           = [[Mayor]]
+|leader_name            = Mr.Bhim Prasad Dhungana ([[Nepali Congress|NC]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Mr.Manraj Bhandari ([[Nepal Communist Party|NCP]])
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               = 1991
+|population_footnotes           =
+|population_note                =
+|population_total               = 1975
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+|population_blank2_title        = Religions
+|population_blank2              =[[Hindu]]
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|27.91|84.94|type:city_region:NP_source:unmaps-enwiki|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]]
+|postal_code            = 45100
+|area_code              = 010
+|blank_name             =
+|blank_info             =
+|website                = [http://www.nilkanthamun.gov.np www.nilkanthamun.gov.np]
+|footnotes              = 
+}}

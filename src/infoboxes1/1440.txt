@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          =Rundu
+|native_name            =  <!-- for cities whose native name is not in English -->
+|other_name             = 
+|settlement_type        = Town
+|image_skyline          = Ozzys_Beerhouse_and_Eugen_Kakukuru_Street_in_Rundu,_Namibia,_March_2006.jpg
+|imagesize              = 300px
+|image_caption          = Eugene Kakururu Street
+|image_flag             = 
+|flag_size              =
+|image_seal             = Wappen Rundu - Namibia.jpg
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               =  Ru-town
+|motto                  = Unity & Development
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Namibia <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Namibia
+<!-- Location ------------------>
+|coordinates            = {{coord|17|55|S|19|46|E|region:NA|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Namibia}}
+|subdivision_type1      = [[Regions of Namibia|Region]]
+|subdivision_type2      = [[Constituencies of Namibia|Constituency]]
+|subdivision_type3      = 
+|subdivision_name1      = [[Kavango-East Region]]
+|subdivision_name2      = Rundu Urban constituency
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|established_title      =  <!-- Settled -->
+|established_date       = 1936
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =Swapo Party 
+|leader_party           = [[SWAPO]]
+|leader_title           = Mayor
+|leader_name            = Verna Mpingana Sinimbo 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = Bonfatius Kudumo
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   ----------------------->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1095
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 63431
+|population_as_of               = 2011
+|population_footnotes           = <ref name=nsa>{{cite web | title=Table 4.2.2 Urban population by Census years (2001 and 2011) | url=http://cms.my.na/assets/documents/p19dmn58guram30ttun89rdrp1.pdf | work=Namibia 2011 - Population and Housing Census Main Report | publisher=Namibia Statistics Agency | access-date=24 August 2016 | page=39}}</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                = 
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 066
+|website                = http://www.runducity.iway.na/
+|footnotes              = 
+|timezone               = [[South African Standard Time|SAST]]
+|utc_offset             = +2
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+|blank1_name            =
+|blank1_info            =
+}}

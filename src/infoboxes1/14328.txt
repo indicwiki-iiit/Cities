@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Fort-Liberté
+|other_name=<small>Bayaha {{•}} Fort-Dauphin {{•}} Fort Saint Joseph {{•}} Fort Castries {{•}} Fort-Royal</small>
+|native_name            = <small>''Fòlibète''</small>
+|nickname               = 
+|settlement_type        = [[List of communes of Haiti|Commune]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Fort Saint Joseph - Fort Liberte (Looking South).jpg
+|imagesize              = 
+|image_caption          = A view from the north of Fort-Liberte
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = I
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Haiti <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_relief         = 
+|pushpin_label_position =left
+|pushpin_map_caption    =Location in Haiti
+|pushpin_mapsize        =300
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Haiti]]
+|subdivision_type1      = [[Departments of Haiti|Department]]
+|subdivision_name1      = [[Nord-Est (department)|Nord-Est]]
+|subdivision_type2      = [[Arrondissements of Haiti|Arrondissement]]
+|subdivision_name2      = [[Fort-Liberté Arrondissement|Fort-Liberté]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =
+|area_footnotes           = <ref name="ht2015est"/>
+|area_total_km2           = 240.28<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           = 3.39
+|area_rural_km2           = 236.89
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+| population_total = 34434
+| population_as_of = 2015
+| population_footnotes = <ref name="ht2015est"/>
+| population_density_km2 = auto
+| population_urban = 26929 
+| population_rural = 7505
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|19|40|4|N|71|50|23|W|region:HT|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 0
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+| blank_name_sec1 = [[List of cities in Haiti|Towns]]
+| blank_info_sec1 = 3
+| blank1_name_sec1 = [[Communal section|Communal Sections]]
+| blank1_info_sec1 = 4
+}}

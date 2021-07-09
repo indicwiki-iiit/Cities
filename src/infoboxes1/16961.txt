@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage -->
+<!-- Basic information -->
+| name                            = Morgan Hill, California
+| official_name                   = City of Morgan Hill
+| settlement_type                 = [[List of cities and towns in California|City]]
+| image_skyline                   = Morgan Hill Montage.jpg
+| imagesize                       = 300px
+| image_caption                   = Clockwise: the [[Diablo Range]] hills, historic Morgan Hill Elementary Building, Votaw Building, [[El Toro (California)|El Toro Mountain]], Downtown shops, [[Anderson Lake (California)|Anderson Lake]]
+| image_flag                      = Flag of Morgan Hill, California.svg
+| flag_size                       = 200px
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| nickname                        = 
+| motto                           = <!-- images and maps -->
+| image_map                       = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Morgan_Hill_Highlighted.svg
+| mapsize                         = 
+| map_caption                     = Location in [[Santa Clara County, California|Santa Clara County]] and the state of California
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location -->
+| coordinates                     = {{coord|37|07|50|N|121|39|16|W|region:US-CA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[Santa Clara County, California|Santa Clara]]
+<!-- Politics -->
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = November 10, 1906<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Rich Constantine<ref name=mayor>{{cite web|title=New council members take oath of office|url=https://www.morganhilltimes.com/2018/12/18/new-council-members-take-oath-of-office/|last=McCool|first=Jaqueline|website=Morgan Hill Times|publisher=New SV Media, Inc.|date=December 18, 2018|access-date=January 8, 2019}}</ref>
+| leader_title1                   = [[City manager]]
+| leader_name1                    = Christina Turner<ref>http://www.morgan-hill.ca.gov/index.aspx?NID=62 City manager biography</ref>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 33.51
+| area_total_sq_mi                = 12.94
+| area_land_km2                   = 33.51
+| area_land_sq_mi                 = 12.94
+| area_water_sq_mi                = 0.00
+| area_urban_sq_mi                = 
+| area_metro_sq_mi                = <!-- Population -->
+| area_note                       = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1659174|Morgan Hill}}</ref>
+| elevation_m                     = 107
+| elevation_ft                    = 350
+<!-- Area/postal codes & others -->
+| population_total                = 37882
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| population_density_sq_mi        = 3551.98
+| population_est                  = 45952
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information -->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95037-95038
+| area_code                       = [[Area codes 408 and 669|408/669]]
+| website                         = {{URL|Morgan-Hill.ca.gov}}
+| footnotes                       = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standards|FIPS]] code
+| blank_info                      = {{FIPS|06|49278}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS 4|1659174}}
+| population_density_km2          = 1371.44
+| area_water_km2                  = 0.00
+}}

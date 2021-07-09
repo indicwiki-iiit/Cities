@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+|name                    = Eindhoven
+|settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->
+|image_skyline           = {{Photomontage|position=center
+| photo1a    = Hoogbouw Eindhoven overzicht.jpg
+| photo2a    = Lichttoren Eindhoven 1 - Cropped.jpg
+| photo2b    = Overzicht - Eindhoven - 20396787 - RCE - Cropped.jpg
+| photo3a    = Steentjeskerk Eindhoven.jpg
+|photo3b     = Eindhoven Centrum 042.JPG
+|photo3c     = Vestedatoren, Vestdijk, Eindhoven 4x3.jpg
+   |photo4a = Zicht op de rechter zijgevel van de nieuwbouw, restaurant op de voorgrond links - Eindhoven - 20536864 - RCE.jpg
+   |photo4b =
+   |photo5a = 1302 Eindhoven - HTC 044.jpg
+   |spacing = 2
+   |color = #FFFFFF
+   |border = 0
+   |size = 275
+   |foot_montage = {{nowrap|From top down, left to right: Skyline of Eindhoven,}}<br>{{nowrap|[[:nl:Lichttoren (Eindhoven)|Light Tower]] at the city centre, [[Evoluon]] conference centre,}}<br>{{nowrap|[[:nl:Steentjeskerk|St. Anthony Church]], [[:nl:Sint-Catharinakerk (Eindhoven)|St. Catherine Church]], [[Vesteda Toren|Vesteda Tower]],}}<br>{{nowrap|[[Van Abbemuseum|Van Abbe Museum]], [[Philips Stadion|Philips Stadium]] of [[PSV Eindhoven]],<br>[[High Tech Campus Eindhoven]]}}
+}}
+|image_alt               = 
+|image_caption           = 
+|image_flag              = Flag of Eindhoven.svg
+|flag_size               = 100x67px
+|flag_alt                = 
+|image_shield            = Eindhoven wapen.svg
+|shield_size             = 100x80px
+|shield_alt              = 
+<!-- Maps, coordinates -->
+|image_map               = Map - NL - Municipality code 0772 (2009).svg
+|map_alt                 = Highlighted position of Eindhoven in a municipal map of North Brabant
+|image_map1               = {{Infobox mapframe|id=Q9832}}
+| map_caption1             = Interactive map outlining Eindhoven |pushpin_map             = Netherlands North Brabant#Netherlands
+|map_caption             = Location in North Brabant
+|coordinates             = {{coord|51|26|N|5|29|E|region:NL|display=inline,title}}
+|coordinates_footnotes   = 
+|subdivision_type        = Country
+|subdivision_name        = [[Netherlands]]
+|subdivision_type1       = [[Provinces of the Netherlands|Province]]
+|subdivision_name1       = [[North Brabant]]
+|government_footnotes    =<ref name="mayor_now">{{cite web
+ |url          = https://www.eindhoven.nl/gemeente/college-van-BW/John-Jorritsma-3.htm
+ |title        = John Jorritsma
+ |language     = nl
+ |publisher    = Gemeente Eindhoven
+ |access-date   = 11 January 2017
+|archive-url  = https://web.archive.org/web/20170113061520/https://www.eindhoven.nl/gemeente/college-van-BW/John-Jorritsma-3.htm
+ |archive-date = 13 January 2017
+|url-status     = dead}}</ref>
+|governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+|leader_party            = [[People's Party for Freedom and Democracy|VVD]]
+|leader_title            = [[Burgemeester|Mayor]]
+|leader_name             = [[John Jorritsma]]
+<!-- Geographic information -->
+|total_type              = Municipality
+|unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+|area_footnotes          =<ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square km -->
+|area_total_km2          = {{Dutch municipality total area|Eindhoven}}
+|area_land_km2           = {{Dutch municipality land area|Eindhoven}}
+|area_water_km2          = {{Dutch municipality water area|Eindhoven}}
+|elevation_footnotes     =<ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 5611EM
+ |language = nl
+ |author = <!--Staff writer(s); no by-line.--> 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |access-date = 15 April 2014}}</ref>
+|elevation_m             = 17
+|elevation_max_footnotes = <!-- for references: use <ref> tags -->
+|elevation_max_m         =
+|elevation_min_footnotes = <!-- for references: use <ref> tags -->
+|elevation_min_m         =
+<!-- Population, demographics -->
+|population_footnotes    =<ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref><ref>{{cite web |url = http://statline.cbs.nl/Statweb/publication/?VW=T&DM=SLNL&PA=37230NED&D1=17-18&D2=130,145,155,161,191,201,226,230,245-246,291,297,334,426,431,468,515-516,553,558,576&D3=l&HD=151024-1019&LA=EN&HDR=T&STB=G1,G2 |title = Bevolkingsontwikkeling; regio per maand |trans-title=Population growth; regions per month |language = nl |author = <!--Staff writer(s); no by-line.--> |date = 31 August 2015 |work = CBS Statline; Metro region |publisher = [[Statistics Netherlands|CBS]] |access-date = 13 October 2015}}</ref><ref>{{cite web |url = http://statline.cbs.nl/Statweb/publication/?VW=T&DM=SLNL&PA=37230NED&D1=17-18&D2=148,153,155,177-178,210,230,237,242,245,250,254,270,275,297,301,303,334,364,426,432,442,448,482,486,496,504-505,516,538,544,553,557-558,575-577&D3=l&HD=151024-1011&LA=EN&HDR=T&STB=G1,G2 |title = Bevolkingsontwikkeling; regio per maand |trans-title=Population growth; regions per month |language = nl |author = <!--Staff writer(s); no by-line.--> |date = 31 August 2015 |work = CBS Statline; CMSA |publisher = [[Statistics Netherlands|CBS]] |access-date = 13 October 2015}}</ref>
+|population_total        = {{Dutch municipality population|Eindhoven}}
+|population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}; Metro region and CMSA, August 2015
+|population_density_km2  = {{Dutch municipality population density|Eindhoven}} <!-- For automatic calculation: auto-->
+|population_urban        = {{Dutch municipality population urbanmetro|Eindhoven Urban}}
+|population_metro        = {{Dutch municipality population urbanmetro|Eindhoven Metro}}
+|population_blank2_title = [[Brabant metropolitan area|<abbr style="border-bottom: none;" title="Combined Metropolitan Statistical Area of North Brabant">CMSA</abbr>]]
+|population_blank2       = 1944588
+|population_demonym      = Eindhovenaar
+<!-- Other information -->
+|timezone                = [[Central European Time|CET]]
+|utc_offset              = +1
+|timezone_DST            = [[Central European Summer Time|CEST]]
+|utc_offset_DST          = +2
+|postal_code_type        = [[Postal codes in the Netherlands|Postcodes]]
+|postal_code             = 5600–5658
+|area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+|area_code               = 040
+|website                 = {{URL|1=http://www.eindhoven.nl}}
+|footnotes               =
+}}

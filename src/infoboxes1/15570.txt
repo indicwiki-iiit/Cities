@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Sandavágur
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = village
+|motto                  = kom! 
+<!-- images and maps  ----------->
+|image_skyline          = Sandavágur, Faroe Islands.JPG
+|imagesize              = 250px
+|image_caption          = Sandavágur
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Faroe Islands <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 250
+|pushpin_map_caption    =Location in the Faroe Islands
+<!-- Location ------------------>
+|subdivision_type       = State
+|subdivision_name       = {{Flag|Kingdom of Denmark}}
+|subdivision_type1      = Constituent country
+|subdivision_name1      = {{flag|Faroe Islands}}
+|subdivision_type2      = Island
+|subdivision_name2      = [[Vágar]]
+|subdivision_type3      = Municipality
+|subdivision_name3      = [[Vágar Municipality]] 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population ----->
+|population_as_of               = January 1, 2020
+|population_footnotes           =
+|population_note                =
+|population_total               = 957
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]] 
+|utc_offset             = 
+|timezone_DST           = [[European Summer Time|EST]]
+|utc_offset_DST         = +1
+|coordinates            = {{coord|62|03|24|N|7|9|15|W|region:FO|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = FO 360
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Oceanic climate#Subpolar variety (Cfc)|Cfc]]
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

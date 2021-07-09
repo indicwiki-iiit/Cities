@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Duvall, Washington
+|settlement_type          = [[City]]
+|motto                    = Small Town. Real Life.
+<!-- Images -->
+|image_skyline            = Duvall Washington Welcome Sign.jpg
+|imagesize                = 250px
+|image_caption            = Duvall [[Town sign|town welcome sign]], pictured in 2004
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = King_County_Washington_Incorporated_and_Unincorporated_areas_Duvall_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Duvall, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[King County, Washington|King]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 6.40
+|area_land_km2            = 6.35
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 2.47
+|area_land_sq_mi          = 2.45
+|area_water_sq_mi         = 0.02
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8107
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 6695
+|population_density_km2   = 1277.25
+|population_density_sq_mi = 3307.63
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 27
+|elevation_ft             = 89
+|coordinates              = {{coord|47|44|3|N|121|58|32|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 98019
+|area_code                = [[Area code 425|425 844]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-19035
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1512165<ref>{{cite gnis|id=1512165|name=Duvall}}</ref>
+|blank2_name              = [[USDA Hardiness Zone]]
+|blank2_info              = 8
+|website                  = {{URL|http://www.duvallwa.gov/|duvallwa.gov}}
+|footnotes                = FIPS code and GNIS feature ID come from the U.S. Census Bureau and the U.S. Geological Survey.
+}}

@@ -1,0 +1,31 @@
+{{Infobox Australian place | type = lga 
+| name     = City of Nedlands
+| state    = wa
+| image    = Nedlands LGA WA.png
+| image_upright = 0.9
+| caption  = 
+| pop      = 21,121
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA56580 |name=Nedlands (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 22554
+| pop2_year          = 2018 est.
+| pop2_footnotes     = <ref name=ABS3218.0>{{cite web|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|title=3218.0 – Regional Population Growth, Australia, 2017-18|publisher=Australian Bureau of Statistics|date=27 March 2019|access-date=31 December 2019}} Estimated resident population (ERP) at 30 June 2018.</ref>
+| area     = 20
+| est      = 1893
+| seat     = [[Nedlands, Western Australia|Nedlands]]
+| mayor    = Cilla de Lacy 
+| region   = [[Perth|West Metropolitan Perth]]
+| logo     = City of Nedlands Logo.svg
+| logo_upright   = 1.2
+| url      = http://www.nedlands.wa.gov.au
+| stategov = [[Electoral district of Nedlands|Nedlands]], [[Electoral district of Cottesloe|Cottesloe]]
+| fedgov   = [[Division of Curtin|Curtin]]
+| near-nw  = [[Town of Cambridge|Cambridge]]
+| near-n   = [[Town of Cambridge|Cambridge]]
+| near-ne  = [[Town of Cambridge|Cambridge]]
+| near-e   = [[City of Subiaco|Subiaco]]
+| near-w   = ''[[Indian Ocean]]''
+| near-sw  = [[Town of Cottesloe|Cottesloe]]
+| near-s   = [[Town of Claremont|Claremont]]
+| near-se  = [[City of Perth|Perth]]
+}}

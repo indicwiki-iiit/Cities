@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Gongju}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|공주시}}}}
+| translit_lang1          = Korean 
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|공|주|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|公|州|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Gongju-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Kongju-si
+| image_skyline           = Korea-Gongju-Gongsanseong-01.jpg
+| imagesize               = 
+| image_caption           = Gongsanseong
+| image_map               = South Chungcheong-Gongju.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| coordinates             = {{coord|36|27|N|127|7|E|region:KR-44|display=it}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = South Korea
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Hoseo]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Chungcheong dialect|Chungcheong]]
+| area_total_km2          = 940.71
+| population_as_of        = May, 2013<ref>[http://www.gongju.go.kr/prog/census/stat/site.do?siteCode=stat&mno=sub01_03_01_01 Gonju Statistics Service Website]</ref>
+| population_total        = 116870
+| population_density_km2  = 124.2
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 10 ''myeon'', 6 ''dong''
+| image_flag              = Gongju logo.png
+| blank_emblem_type       = Emblem of Gongju
+}}

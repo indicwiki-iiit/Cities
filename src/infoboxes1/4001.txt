@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name                            = Anaheim, California
+| official_name                   = City of Anaheim
+<!-- Images and maps ------>| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = {{Photomontage|position=center
+| photo1a = Sleeping_beauty_castle_dlr_2019.jpg
+| photo2a = Angelstadiummarch2019.jpg
+| photo2b = New Anaheim Amtrak Station Inside.JPG
+| photo3a = Anaheim_convention_center_2021.jpg
+| photo3b = Honda-ext4.jpg
+| photo4a =
+| photo4b =
+| spacing = 2
+| color_border = white
+| color = white
+| size = 280
+| foot_montage = Clockwise from top: [[Sleeping Beauty Castle]] at [[Disneyland|Disneyland Park]], [[Anaheim Regional Transportation Intermodal Center]], [[Honda Center]], [[Anaheim Convention Center]], [[Angel Stadium|Angel Stadium of Anaheim]]
+}}
+| image_flag                      = Flag of Anaheim, California (2018–present).svg
+| image_seal                      = Seal of Anaheim, California.svg
+| nickname                        = 
+| image_map                       = File:Orange County California Incorporated and Unincorporated areas Anaheim Highlighted 0602000.svg
+| map_caption                     = Location within Orange County
+| pushpin_map                     = Los Angeles##USA California#USA#North America
+| pushpin_map_caption             = Location within the Los Angeles Metropolitan Area##Location within California##Location within the United States
+| pushpin_label                   = Anaheim
+<!-- Location ------------->| coordinates                     = {{coord|33|50|10|N|117|53|23|W|region:US-CA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = California
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Orange County, California|Orange]]
+<!-- History -------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = March 18, 1876<ref name=LAFC>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+ |df=mdy
+}}</ref>
+| named_for                       = "Ana", after the [[Santa Ana River]], and "[[heim (disambiguation)|Heim]]", the German word for "home".
+<!-- Government ----------->| government_type                 = 
+| leader_title                    = [[Mayor of Anaheim, California|Mayor]]
+| leader_name                     = [[Harry Sidhu]]<ref>{{Cite web|url=http://www.anaheim.net/5174/Mayor-Harry-Sidhu|access-date=December 5, 2018|title=Mayor Harry Sidhu |publisher=City of Anaheim}}</ref> ([[California Republican Party|R]])
+| leader_title1                   = [[United States House of Representatives|United States representatives]]<ref name=cd_splits/>
+| leader_name1                    = {{Representative|cacd|39|fmt=usleader}},<ref name=gt39/><br />{{Representative|cacd|45|fmt=usleader}},<ref name=gt45/> and<br />{{Representative|cacd|46|fmt=usleader}}<ref name=gt46/>
+| total_type                      = Total
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 131.77
+| area_total_sq_mi                = 50.88
+| area_land_km2                   = 130.20
+| area_land_sq_mi                 = 50.27
+| area_water_km2                  = 1.57
+| area_water_sq_mi                = 0.60
+| area_water_percent              = 1.92
+<!-- Elevation ------------>| elevation_footnotes             = <ref>{{Cite GNIS|1652663|Anaheim|access-date=October 16, 2014}}</ref>
+| elevation_m                     = 48
+<!-- Population ----------->| elevation_ft                    = 157
+| population_total                = 336265
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quik>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0602000.html|title=Anaheim (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 4, 2015|archive-url=https://web.archive.org/web/20150201121920/http://quickfacts.census.gov/qfd/states/06/0602000.html|archive-date=February 1, 2015|url-status=dead}}</ref>
+| population_density_km2          = 2690.92
+<!-- Time zones ----------->| population_density_sq_mi        = 6969.39
+| population_est                  = 350365
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_rank                 = [[Orange County, California|1st]] in Orange County<br />[[List of largest California cities by population|10th]] in California<br />[[List of United States cities by population|55th]] in the United States
+| postal_code_type                = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 18, 2014}}</ref>
+| postal_code                     = 92801–92809, 92812, 92814–92817, 92825, 92850, 92899
+| area_code                       = [[Area codes 657 and 714|657/714]]
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| website                         = {{URL|www.anaheim.net}}
+<!-- Area ----------------->| leader_title2                   = [[California State Senate|State senators]]<ref name=sd_splits/>
+| leader_name2                    = {{Representative|casd|29|fmt=sleader}},<br />{{Representative|casd|34|fmt=sleader}}, and<br />{{Representative|casd|37|fmt=sleader}}
+| leader_title3                   = [[California State Assembly|Assemblymembers]]<ref name=ad_splits/>
+| leader_name3                    = {{Representative|caad|65|fmt=sleader}},<br />{{Representative|caad|68|fmt=sleader}}, and<br />{{Representative|caad|69|fmt=sleader}}
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+<!-- Codes ---------------->| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|02000}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652663}}, {{GNIS 4|2409704}}
+}}

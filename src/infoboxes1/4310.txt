@@ -1,0 +1,123 @@
+{{Infobox settlement
+|official_name          = Toluca de Lerdo
+|name                   = Toluca, Mexico
+|other_name             =
+|native_name            =
+|nickname               = 
+|settlement_type        = City and [[municipality]]
+|total_type             = Municipality
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Collage Toluca.jpg
+|imagesize              = 
+|image_caption          = Toluca collage
+|image_flag             = Flag of Toluca, Mexico.svg
+|flag_size              =
+|image_seal             = Coat of arms of Toluca, Mexico.svg
+|seal_size              = 
+|image_shield           = 
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = Mexico Estado de Mexico Toluca location map.svg
+|mapsize                = 
+|map_caption            = Location of Toluca in the State of Mexico
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          = 
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map =
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        = 300
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{Flagu|Mexico|size=23px}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = {{Flagicon image|Flag of the State of Mexico.svg|size=23px}} [[State of Mexico|Mexico]]
+|subdivision_type2      = [[Regions of Mexico|Region]]
+|subdivision_name2      = Toluca
+|subdivision_type3      = Metro area
+|subdivision_name3      = [[Greater Toluca]]
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- History ------------------>
+|established_title      = Municipal Status
+|established_date       = December 13, 1812<ref name=csac>{{cite web |url= http://www.inafed.gob.mx/work/enciclopedia/EMM15mexico/municipios/15106a.html |title= Enciclopedia de los Municipios y Delegaciones de México |publisher= Instituto Nacional para el Federalismo y el Desarrollo Municipal |access-date= August 23, 2015 |url-status= live |archive-url= https://web.archive.org/web/20150924042319/http://www.inafed.gob.mx/work/enciclopedia/EMM15mexico/municipios/15106a.html |archive-date= September 24, 2015 }}</ref>
+|established_title2     =
+|established_date2      = 
+|established_title3     =  
+|established_date3      = 
+<!-- Parts -------------------->
+| seat_type                   = Municipal Seat
+| seat                        = Toluca de Lerdo
+| seat1_type                  =
+| seat1                       =
+| parts_type                  =
+| parts                       =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = [[Ayuntamiento]]
+|leader_title           = Municipal&nbsp;President
+|leader_name            = [[Juan Rodolfo Sánchez Gómez]]<br />[[File:Morena logo (Mexico).svg|20px|link=Movimiento Regeneración Nacional]][[File:PT logo (Mexico).svg|20px|link=Partido del Trabajo (México)]]
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =  
+|area_total_km2           = 452.37
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 7.30
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2020 Census
+|population_footnotes           = &nbsp;
+|population_note                = 
+|population_total               = 910,608
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_blank1_title        =
+|population_blank1              = <!-- population of seat -->
+|population_blank2_title        = 
+|population_blank2              =  
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = -6
+|timezone_DST           = Central
+|utc_offset_DST         = -5
+|coordinates            = {{coord|19|17|33|N|99|39|25|W|region:MX|display=inline}}
+|elevation_point        =  of seat
+|elevation_m            = 2660
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 50000
+|area_code              = 722 / 729
+|blank_name             = 
+|blank_info             = 
+|blank1_name            = [[Demonym]]
+|blank1_info            = Toluqueño (a) or tolucense (more formal)
+|website                ={{Official website|http://www.toluca.gob.mx/}} {{in lang|es}}
+|footnotes              = 
+}}

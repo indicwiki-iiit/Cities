@@ -1,0 +1,69 @@
+{{Infobox settlement
+| name                    = Forest Hills
+| settlement_type         = [[Neighborhoods of Queens|Neighborhood of Queens]]
+| image_skyline           = Forest Hills (March 2018).jpg
+| imagesize               = 250px
+| image_alt               =
+| image_caption           = [[Forest Hills (LIRR station)|Station Square]]
+| image                   =
+| image_map 	= {{maplink|frame=y|plain=yes|frame-align=center|zoom=12|type=shape|from=Neighbourhoods/New York City/Forest Hills.map}}<!--{{maplink|frame=yes|plain=yes|frame-align=center|frame-lat=40.705|frame-long=-73.975|zoom=9|type=point|coord={{coord|40.715|-73.845}}}}-->
+| mapsize 	= <!-- If used, px must be specified; default is 250px. -->
+| map_caption   =  Location within New York City
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New York}}
+| subdivision_type2       = [[List of cities in New York|City]]
+| subdivision_name2       = {{flag|New York City}}
+| subdivision_type3       = [[List of counties in New York|County]]/[[Borough (New York City)|Borough]]
+| subdivision_name3       = {{Flagicon image|Flag_of_Queens.svg}} [[Queens]]
+| subdivision_type4       = [[Community boards of Queens|Community District]]
+| subdivision_name4       = [[Queens Community Board 6|Queens 6]]<ref name="NYCPlanning">{{cite web|title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/queens/6|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=April 7, 2018}}</ref>
+| coordinates             = {{Coord|40.715|-73.845|display=title,inline}}
+<!-- Area    --------------------->
+|area_magnitude           =
+|unit_pref                =
+|area_footnotes           =
+|area_total_sq_mi         = 2.6
+|area_land_sq_mi          = 2.4
+|area_water_sq_mi         = 0.2
+|area_water_percent       =
+<!-- established --------------->
+| established_title       = <!-- Settlement -->
+| established_date        =
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| founder                 =
+| named_for               =
+<!-- population ---------------->
+| population_total        = 83,728
+| population_as_of        = [[2010 United States Census|2010]]
+| population_est          =
+| pop_est_as_of           =
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =<ref name=PLP5/>
+| population_density_sq_mi= 34,886
+| population_footnotes    =<ref name=PLP5/>
+<!-- demographics (section 1) -->
+| demographics_type1      = Ethnicity
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = White
+| demographics1_info1     = 58.3%
+| demographics1_title2    = Asian
+| demographics1_info2     = 24.2%
+| demographics1_title3    = Hispanic
+| demographics1_info3     = 12.4%
+| demographics1_title4    = Black
+| demographics1_info4     = 2.5%
+<!-- timezone -->
+|timezone                = [[Eastern Time Zone (North America)|EST]]
+|utc_offset              = −5
+|timezone_DST            = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST          = −4
+<!-- postal codes, area code --->
+| postal_code_type        = [[ZIP Code]]
+| postal_code             = 11375
+| area_code_type          = [[Telephone numbering plan|Area code]]s
+| area_code               = [[Area codes 718, 347, and 929|718, 347, 929]], and [[Area code 917|917]]
+}}

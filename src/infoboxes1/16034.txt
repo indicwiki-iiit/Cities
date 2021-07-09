@@ -1,0 +1,78 @@
+{{Infobox settlement
+| name                            = Southfield, Michigan
+| official_name                   = City of Southfield
+| settlement_type                 = [[City]]
+| image_skyline          = {{multiple image
+| border                 = infobox
+| total_width            = 300
+| image_style            = border:1;
+| perrow                 = 1/3/1
+| image1 = Southfield Town Center 2021.jpg 
+| image2 = AmericanCenter2.jpg
+| image3 = Entry tower to Southfield Public Library.jpg
+| image4 = One Towne Square Southfield.jpg
+| image5 = A.Alfred Taubman Student Services Center.JPG
+}}
+| image_caption                   = Left to right from top: [[Southfield Town Center]], [[American Center]], [[Southfield Public Library]], One Towne Square, and [[Lawrence Technological University]].
+|image_flag               = Flag of Southfield, Michigan.svg
+|image_seal               = Seal of Southfield, Michigan.svg
+|motto                    = ''The Center of it All''
+|pushpin_map            = Michigan
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          = Southfield
+|pushpin_map_caption    = Location within the state of Michigan
+|pushpin_mapsize        = 
+|image_map                = Location of Southfield, Michigan in Oakland County.svg
+|mapsize                  =
+|map_caption              = Location within [[Oakland County, Michigan|Oakland County]]
+|subdivision_type         = Country
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name         = {{Flag|United States}}
+|subdivision_name1        = {{Flag|Michigan}}
+|subdivision_name2        = {{Flagicon image|Flag of Oakland County, Michigan.svg}} [[Oakland County, Michigan|Oakland]]
+|established_title        = Organized
+|established_date         = 1830 (as [[Southfield Township, Michigan|Southfield Township]])
+|established_title2       = Incorporated
+|established_date2        = 1958 
+|government_type          = [[Mayor–council government|Mayor–council]]
+|leader_title             = [[Mayor]]
+|leader_name              = Kenson J. Siver
+|leader_title1            = [[City manager|Manager]]
+|leader_name1             = Frederick E. Zorn
+|area_magnitude           = 
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 68.01
+|area_land_km2            = 68.00
+|area_water_km2           = 0.01
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 72689
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 71758
+|population_density_km2   = 1068.96
+|population_density_sq_mi = 2768.58
+|population_metro         = 4296250 ([[Metro Detroit]])
+|timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset               = -5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = -4
+|coordinates              = {{coord|42|28|47|N|83|14|42|W|region:US-MI|display=inline,title}}
+|area_total_sq_mi         = 26.26
+|area_land_sq_mi          = 26.25
+|area_water_sq_mi         = 0.01
+|elevation_m              = 208
+|elevation_ft             = 682
+|postal_code_type         = [[ZIP Code|ZIP code(s)]]
+|postal_code              = 48033, 48034, 48037, 48075, 48076, 48086
+|area_code                = [[Area codes 248 and 947|248 and 947]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-74900<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0638439<ref>{{Cite GNIS|0638439|Southfield}}</ref>
+|footnotes                = 
+|website                  = {{URL|http://www.cityofsouthfield.com|Official website}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|unit_pref = Imperial
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Annandale, Virginia
+|settlement_type          = [[Census-designated place]]
+
+<!-- Images -->
+|image_skyline            =Annandale - Virginia - 2015.jpg
+|imagesize                =
+|image_caption            =Suburban Annandale, 2015
+|image_flag               = Annandale_Flag.jpg
+|image_seal               =
+|named_for                = [[Annandale|Annandale, United Kingdom]]
+
+<!-- Maps -->
+|pushpin_map              = USA Virginia Northern#USA Virginia#USA
+|image_map                = Fairfax County Virginia Incorporated and Unincorporated Areas Annadale highlighted.svg
+|mapsize                  = 200px
+|map_caption              = Location of Annandale in [[Fairfax County, Virginia|Fairfax County]], [[Virginia]]
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|{{flagu|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Virginia|size=23px}}
+|subdivision_type2        = [[List of counties in Virginia|County]]
+|subdivision_name2        = {{flagicon image|Flag of Fairfax County, Virginia.svg|size=23px}} [[Fairfax County, Virginia|Fairfax]]
+
+<!-- established --------------->
+| established_title1      = Settled
+| established_date1       = 1685<ref>{{cite web|url=http://www.ghostsofdc.org/2013/10/18/named-annandale/ |author=Tom |title=Why Is It Named Annandale? |work=Ghosts of D.C. |publisher=Ghosts of Cities, LLC |date=October 18, 2013 |access-date=October 29, 2013 |quote=1685 |url-status=dead |archive-url=https://web.archive.org/web/20131029232610/http://www.ghostsofdc.org/2013/10/18/named-annandale/ |archive-date=October 29, 2013 }}</ref>
+| established_title2      = <!-- Incorporated (city) -->
+
+<!-- Government -->
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 7.86
+|area_land_sq_mi          = 7.86
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[2019 United States Census|2019]]
+|population_footnotes     =
+|population_total         = 43,295 
+|population_density_km2   = 
+|population_density_sq_mi = 5219.0
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      =
+|elevation_m              = 110
+|elevation_ft             = 361
+|coordinates              = {{coord|38|50|3|N|77|12|41|W|region:US-VA_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 22003
+|area_codes                = [[Area code 703|703]], [[Area code 571|571]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 51-01912<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website |df=mdy }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1492474<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = http://www.annandale.va.us/
+|footnotes                =
+}}

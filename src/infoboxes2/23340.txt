@@ -1,0 +1,28 @@
+{{Infobox company
+| name                = Woodward, Inc.
+| logo                = Woodward_Logo.svg
+| logo_size           = 
+| former_name         = The Woodward Governor Company
+| type                = [[Public company|Public]]
+| traded_as           = {{NASDAQ|WWD}} (WGOV prior to 2011)<br>[[S&P 400|S&P 400 Component]]
+| ISIN                = US9807451037
+| industry            = [[Aerospace engineering|Aerospace]], Industrial<ref>{{cite web |url=http://www.woodward.com/home.aspx |title=Explore Our Markets |author=<!--staff writer(s); no by-line.--> |date= |accessdate=2015-01-07 }}</ref>
+| founded             = [[Rockford, Illinois]], United States ({{start date|1870}})<ref name=About>{{cite web |url=http://www.woodward.com/WorkArea/DownloadAsset.aspx?id=2147490913 |title=About Woodward |author=<!--staff writer(s); no by-line.--> |date=September 2014 |accessdate=2015-01-07 |website=Woodward }}</ref>
+| founder             = Amos Woodward<ref name=About />
+| hq_location_city    = [[Fort Collins, Colorado]]
+| hq_location_country = United States
+| num_locations       = 42 plants and offices in 12 countries<ref name=About />
+| num_locations_year  = 2019
+| area_served         = Worldwide
+| key_people          = {{ubl|{{nowrap|Thomas A. Gendron}}|{{nowrap|<small>([[Chairman#Public corporations|Chairman]], [[President (corporate title)|President]], & [[CEO]])</small>}}
+|{{nowrap|Robert F. Weber Jr.}}|{{nowrap|<small>([[Chairman#Vice chairman and deputy chairman|Vice Chairman]] & [[CFO]])</small>}}}}
+{{nowrap|Tom Cromwel}}{{!}}{{nowrap|<small>([[Chairman#Vice chairman and deputy chairman|Vice Chairman]] & [[Chief operating officer|COO]])</small>}}
+| products            = [[Control system]]s and components
+| revenue             = {{ubl|{{nowrap|{{increase}} [[US$]] 2.10 billion}}|<small>(FY SEP 2017)</small><ref name="10-K SEP 2017">{{cite web|url=https://www.sec.gov/Archives/edgar/data/108312/000010831217000026/wwd-20170930x10k.htm|title=US SEC: Form 10-K Woodward, Inc.|publisher=[[U.S. Securities and Exchange Commission]]|accessdate=January 25, 2018}}</ref>}}
+| operating_income    = {{ubl|{{nowrap|{{increase}} [[US$]] 280.18 million}}|<small>(FY SEP 2017)</small><ref name="10-K SEP 2017"/>}}<!--Calculated manually by adding "Earnings before income taxes" & "Interest expense". Same was done for previous FY to draw a comparison.-->
+| net_income          = {{ubl|{{nowrap|{{increase}} [[US$]] 200.51 million}}|<small>(FY SEP 2017)</small><ref name="10-K SEP 2017"/>}}
+| assets              = {{ubl|{{nowrap|{{increase}} [[US$]] 2.76 billion}}|<small>(FY SEP 2017)</small><ref name="10-K SEP 2017"/>}}
+| equity              = {{ubl|{{nowrap|{{increase}} [[US$]] 1.37 billion}}|<small>(FY SEP 2017)</small><ref name="10-K SEP 2017"/>}}
+| num_employees       = {{nowrap|~9,000 <small>(FY MAY 2019)</small>}}
+| website             = {{URL|www.woodward.com}}
+}}

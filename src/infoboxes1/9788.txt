@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Iksan}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|익산시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1          = Korean 
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|익|산|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|益|山|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Iksan-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Iksan-si
+| image_skyline           = Iksan - Young Deung Dong.jpg
+| imagesize               = 
+| image_caption           = Main road in Yeongdeung-dong Iksan
+| image_map               = North Jeolla-Iksan.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[South Korea]]
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Honam]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Jeolla dialect|Jeolla]]
+| area_total_km2          = 507.07
+<!--
+| population_as_of        = June 30, 2011
+| population_total        = 308,794 
+-->
+| population_as_of        = 2016
+| population_total        = 307,000 
+| population_footnotes    = <ref>{{cite web |url=http://www.iksan.go.kr/02en/about/facts/ |title=Archived copy |access-date=2010-01-28 |url-status=dead |archive-url=https://web.archive.org/web/20081003101846/http://www.iksan.go.kr/02en/about/facts/ |archive-date=2008-10-03 }}</ref>
+| population_density_km2  = auto
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 14 ''myeon'', 12 ''dong''
+| coordinates             = {{Coord|35|56|38|N|126|57|16|E|source:ruwiki_region:KR-45_type:city(334324)|format=dms|display=title}}
+| area_code               = +82-63-8xx
+| image_flag              = Iksan City logo.png
+| blank_emblem_type       = Emblem of Iksan
+}}

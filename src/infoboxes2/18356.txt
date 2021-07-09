@@ -1,0 +1,68 @@
+{{Infobox settlement
+|name = Ukiah, California
+|settlement_type = [[City (California)|City]]
+|image_skyline = Post Office - Ukiah California.jpg
+|imagesize = 
+|image_caption = Historic former post office in Ukiah<ref>{{Cite news |last=Anderson |first=Glenda |date=April 8, 2016 |title=Historic Ukiah post office up for sale again |work=Santa Rosa Press Democrat |url=https://www.pressdemocrat.com/news/5478564-181/historic-ukiah-post-office-up |access-date=May 5, 2019}}</ref>
+|image_seal = City-of-Ukiah-Logo.png
+|image_map = Mendocino_County_California_Incorporated_and_Unincorporated_areas_Ukiah_Highlighted.svg
+|mapsize = 250x200px
+|map_caption = Location in [[Mendocino County, California|Mendocino County]] and [[California|the State of California]]
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = <!-- Location ------------------>
+|coordinates = {{coord|39|09|01|N|123|12|28|W|region:US-CA|display=inline,title}}
+|pushpin_map = California#USA
+|pushpin_label = Ukiah
+|subdivision_type = Country
+|subdivision_name = [[United States]]
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Mendocino County, California|Mendocino]]
+<!-- Government ----------------->
+|established_title = [[Municipal corporation|Incorporated]]
+|established_date = March 8, 1876<ref>{{Cite web |title=California Cities by Incorporation Date |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc |url-status=dead |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date=November 3, 2014 |access-date=August 25, 2014 |publisher=California Association of [[Local Agency Formation Commission]]s |format=Word}}</ref>
+|government_type = [[Council–manager government|Council/Manager]]<ref name=mgr/>
+|leader_title = [[Mayor]]
+|leader_name = Douglas Crane<ref name="cc">{{Cite web |title=Ukiah City Council |url=http://www.cityofukiah.com/city-council/ |access-date=January 21, 2015 |publisher=City of Ukiah, CA}}</ref>
+|leader_title1 = [[City manager]]
+|leader_name1 = Sage Sangiacomo<ref name="mgr">{{Cite web |title=City Manager's Office |url=http://www.cityofukiah.com/city-managers-office/ |access-date=January 21, 2015 |publisher=City of Ukiah, CA}}</ref>
+<!-- Area ------------------>
+| unit_pref = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{Cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |access-date=July 1, 2020 |publisher=United States Census Bureau}}</ref>
+| area_total_sq_mi = 4.83
+| area_total_km2 = 12.51
+| area_land_sq_mi = 4.78
+| area_land_km2 = 12.39
+| area_water_sq_mi = 0.04
+| area_water_km2 = 0.12
+| area_water_percent = 1.11
+<!-- Elevation ------------------>
+|elevation_footnotes = <ref name="gnis">{{Cite GNIS|277623|Ukiah|access-date=February 25, 2015}}</ref>
+|elevation_ft = 633
+|elevation_m = 193
+<!-- Population ------------------>
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name="quif">{{Cite web |title=Ukiah (city) QuickFacts |url=http://quickfacts.census.gov/qfd/states/06/0681134.html |url-status=dead |archive-url=https://web.archive.org/web/20150226064116/http://quickfacts.census.gov/qfd/states/06/0681134.html |archive-date=February 26, 2015 |access-date=February 25, 2015 |publisher=[[United States Census Bureau]] |df=mdy-all}}</ref>
+|population_total = 16075
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse" />
+|population_est = 15995
+|population_density_sq_mi = 3343.44
+| population_demonym              = Ukiahan
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = &minus;8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = &minus;7
+|postal_code_type = [[ZIP Code]]s
+|postal_code = 95482 and 95418
+|area_code_type = [[North American Numbering Plan|Area code]]
+|area_code = [[Area code 707|707]]
+|blank_name = [[Federal Information Processing Standard|FIPS]] code
+|blank_info = {{FIPS|06|81134}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|277623}}, {{GNIS 4|2412125}}
+|website = {{URL|www.cityofukiah.com}}
+|population_density_km2 = 1290.85
+}}

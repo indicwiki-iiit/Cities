@@ -1,0 +1,86 @@
+{{Infobox settlement
+| name                     = Malone, New York
+| settlement_type          = [[Administrative divisions of New York#Town|Town]]
+| nickname                 = 
+| motto                    = 
+<!-- Images -->
+| image_skyline            = Malone NY.JPG
+| imagesize                = 
+| image_caption            = 
+| image_flag               = 
+| image_seal               = 
+<!-- Maps -->
+| image_map                = 
+| mapsize                  = 
+| map_caption              = 
+| image_map1               = 
+| mapsize1                 = 
+| map_caption1             = 
+| pushpin_map              = New York
+| pushpin_label            = Malone
+| pushpin_label_position   = bottom
+| pushpin_map_caption      = Location within the state of New York
+| pushpin_mapsize          = 
+| coordinates              = {{coord|44|50|56|N|074|17|29|W|region:US-NY|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[New York (state)|New York]]
+| subdivision_type2        = [[List of counties in New York|Counties]]
+| subdivision_name2        = [[Franklin County, New York|Franklin]]
+<!-- Government -->
+| government_footnotes     = 
+| government_type          = [[Town Council]]
+| leader_title             = [[Town Supervisor]]
+| leader_name              = Andrea Stewart ([[United States Republican Party|R]])
+| leader_title1            = [[Town Council]]
+| leader_name1             = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Louise Taylor ([[United States Republican Party|R]])
+ |2           = • Paul Walbridge ([[United States Democratic Party|D]])
+ |3           = • John Sullivan ([[United States Democratic Party|D]])
+ |4           = • Mary E. Scharf ([[United States Democratic Party|D]])
+}}
+| established_title        = 
+| established_date         = 
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_magnitude           = 
+| area_total_km2           = 266.26
+| area_land_km2            = 262.94
+| area_water_km2           = 3.32
+<!-- Elevation -->
+| elevation_footnotes      = 
+| elevation_ft             = 790
+| elevation_m              = 
+<!-- Population -->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = 
+| population_total         = 14545
+| population_density_km2   = 53.59
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = −5
+| timezone_DST             = EDT
+| utc_offset_DST           = −4
+| postal_code_type         = [[ZIP Code]]
+| postal_code              = 12953
+| area_code                = [[Area code 518|518]]
+| blank_name               = [[Federal Information Processing Standards|FIPS code]]
+| blank_info               = 36-033-44721
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 979185
+| website                  = {{URL|http://www.malonetown.com}}
+| footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 14092
+|area_total_sq_mi = 102.80
+|area_land_sq_mi = 101.52
+|area_water_sq_mi = 1.28
+|population_density_sq_mi = 138.81
+}}

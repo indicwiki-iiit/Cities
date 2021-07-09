@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Garoua
+|settlement_type        =City
+|image_skyline          = Marche_Garoua_Nord_Cameroon.jpg
+|imagesize              = 
+|image_caption          =The Market at Garoua
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Cameroon
+|pushpin_label_position = above
+|pushpin_map_caption    = Location in Cameroon
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Cameroon.svg|25px]] [[Cameroon]]
+|subdivision_type1      = [[Regions of Cameroon|Region]]
+|subdivision_name1      = [[North Region (Cameroon)|North]]
+|subdivision_type2      = [[Departments of Cameroon|Department]]
+|subdivision_name2      = [[Bénoué]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|population_as_of               =2009
+|population_total               =600000
+|population_density_km2         =
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|9|18|N|13|24|E|region:CM|display=inline}}
+|elevation_footnotes    =  
+|elevation_m            = 249
+|elevation_ft           =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+}}

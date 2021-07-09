@@ -1,0 +1,114 @@
+{{Infobox planet
+| name = Venus
+| symbol = [[File:Venus symbol.svg|25px|alt=The Venusian symbol, a circle with a small equal-armed cross beneath it|Astronomical symbol of Venus]]
+| image = Venus from Mariner 10.jpg
+| caption = Venus in visible and ultraviolet light (from [[Mariner 10]]). The surface is completely obscured by clouds.
+| background = #f8f9fa
+| orbit_ref =<ref name="fact" /><ref name="horizons" />
+| epoch = [[J2000]]
+| aphelion =
+  {{plainlist |
+* {{val|0.728213|ul=AU}}
+* {{nowrap|{{val|fmt=commas|108939000|u=km}}}}
+  }}
+| perihelion =
+  {{plainlist |
+* {{val|0.718440|u=AU}}
+* {{nowrap|{{val|fmt=commas|107477000|u=km}}}}
+  }}
+| semimajor =
+  {{plainlist |
+* {{val|0.723332|u=AU}}
+* {{nowrap|{{val|fmt=commas|108208000|u=km}}}}
+  }}
+| eccentricity = 0.006772<ref name="VSOP87" />
+| period =
+  {{plainlist |
+* {{val|224.701|u=day}}<ref name="fact" />
+* {{val|0.615198|u=[[julian year (astronomy)|yr]]}}
+* 1.92 Venus [[solar day]]
+  }}
+| synodic_period = 583.92 days<ref name="fact" />
+| avg_speed = 35.02{{nbs}}km/s
+| inclination =
+  {{plainlist |
+* {{val|3.39458|u=°}} to [[ecliptic]]
+* 3.86° to [[Sun]]'s [[equator]]
+* 2.15° to [[invariable plane]]<ref name=Souami_Souchay_2012 />
+  }}
+| asc_node = 76.680°<ref name="VSOP87" />
+| arg_peri = 54.884°
+| mean_anomaly = 50.115°
+| satellites = None
+| allsatellites=yes
+| mean_radius =
+  {{plainlist |
+* {{nowrap|{{val|fmt=commas|6051.8|1.0|u=km}}}}<ref name="Seidelmann2007" />
+* {{val|0.9499|u=Earths}}
+  }}
+| flattening = 0<ref name="Seidelmann2007" />
+| surface_area =
+  {{plainlist |
+* {{val|4.6023|e=8|u=km2}}
+* 0.902 Earths
+  }}
+| volume =
+  {{plainlist |
+* {{val|9.2843|e=11|u=km3}}
+* 0.857 Earths
+  }}
+| mass =
+  {{plainlist |
+* {{val|4.8675|e=24|u=kg}}<ref name="Konopliv1999" />
+* 0.815 Earths
+  }}
+| density = {{val|5.243|u=g/cm3}}
+| surface_grav =
+  {{plainlist |
+* {{val|8.87|u=m/s2}}
+* {{nowrap|0.904 ''[[g-force|g]]''}}
+  }}
+| escape_velocity = {{convert|10.36|km/s|abbr=on}}<ref>{{cite web |url=http://ssd.jpl.nasa.gov/?planet_phys_par |title=Planets and Pluto: Physical Characteristics |publisher=[[NASA]] |date=5 November 2008 |access-date=26 August 2015}}</ref>
+| rotation = {{val|-116.75|u=day}} ([[synodic day|synodic; solar day]]; [[Retrograde motion|retrograde]])<ref name="planetary-facts"/>
+| sidereal_day = {{val|-243.0226|u=day}} <small>(retrograde)</small><ref>{{cite journal |last1=Margot |first1=Jean-Luc |last2=Campbell |first2=Donald B. |last3=Giorgini |first3=Jon D. |last4=Jao |first4=Joseph S. |last5=Snedeker |first5=Lawrence G. |last6=Ghigo |first6=Frank D. |last7=Bonsall |first7=Amber |display-authors=3 |title=Spin state and moment of inertia of Venus |journal=Nature Astronomy |date=29 April 2021 |doi=10.1038/s41550-021-01339-7|arxiv=2103.01504 |bibcode=2021NatAs.tmp...74M }}</ref>
+| rot_velocity = {{convert|6.52|km/h|m/s|abbr=on}}<!--Since rot. vel. = circumference/sidereal day, and circumference is 2πr, rot. vel. = 2π6051km/243.025*24h = 6.52 km/h-->
+| axial_tilt = 2.64° <small>(for [[Retrograde motion|retrograde]] rotation)</small>{{break}}177.36° (to orbit)<ref name=fact/><ref group=note>Defining the rotation as retrograde, as done by NASA space missions and the USGS, puts [[Ishtar Terra]] in the northern hemisphere and makes the axial tilt 2.64°. Following the [[right-hand rule]] for prograde rotation puts Ishtar Terra in the southern hemisphere and makes the axial tilt 177.36°.</ref>
+| right_asc_north_pole =
+  {{plainlist |
+* {{RA|18|11|2}}
+* 272.76°<ref name="iauwg_ccrsps2000" />
+  }}
+| declination = 67.16°
+| albedo =
+  {{plainlist |
+* 0.689 ([[Geometric albedo|geometric]])<ref name="Mallama_et_al"/>
+* 0.76 ([[Bond albedo|Bond]])<ref name="Haus_et_al"/>
+  }}
+| magnitude = −4.92 to −2.98<ref name=" Mallama_and_Hilton" />
+| angular_size = {{nowrap|9.7″–66.0″}}<ref name="fact" />
+| temp_name1 = [[Kelvin]]
+| mean_temp_1 = 737 K<ref name="fact" />
+| temp_name2 = [[Celsius]]
+| mean_temp_2 = 464 °C
+| temp_name3 = [[Fahrenheit]]
+| mean_temp_3 = 867 °F
+| pronounced = {{IPAc-en|audio=en-us-Venus.ogg|ˈ|v|iː|n|ə|s}}
+| adjectives = {{nowrap|[[Venusian (disambiguation)|Venusian]] {{IPAc-en|v|ᵻ|ˈ|nj|uː|z|i|ə|n|,_|-|ʒ|ə|n}},<ref>{{Lexico|Venusian}}{{break}}{{MW|Venusian}}</ref>}} rarely [[Cytherean]] {{IPAc-en|s|ɪ|θ|ə|'|r|iː|ə|n}}<ref>{{OED|Cytherean}}</ref> or Venerean / Venerian {{IPAc-en|v|ᵻ|ˈ|n|ɪər|i|ə|n}}<ref>{{OED|Venerean, Venerian}}</ref> 
+| atmosphere = yes
+| atmosphere_ref = <ref name="fact" />
+| surface_pressure = 93&nbsp;[[bar (unit)|bar]] (9.3&nbsp;[[Pascal (unit)|MPa]]){{break}}92 [[atmosphere (unit)|atm]]
+| atmosphere_composition = 
+  {{plainlist | 
+* 96.5% [[carbon dioxide]]
+* 3.5% [[nitrogen]]
+* 0.015% [[sulfur dioxide]]
+* 0.0070% [[argon]]
+* 0.0020% [[water vapour]]
+* 0.0017% [[carbon monoxide]]
+* 0.0012% [[helium]]
+* 0.0007% [[neon]]
+* Trace [[carbonyl sulfide]]
+* Trace [[hydrogen chloride]]
+* Trace [[hydrogen fluoride]]
+  }}
+}}

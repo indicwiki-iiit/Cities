@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Gongqingcheng}}
+| official_name           = <!-- Official name in English if different from 'name' -->
+| native_name             = {{lower|0.1em|{{nobold|{{lang|zh|共青城市}}}}}}
+| settlement_type         = [[County-level city|County-level]] & [[Sub-prefecture-level city|Sub-prefectural city]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| coordinates             = {{coord|29.248|N|115.809|E|format=dms|type:city(100000)_region:CN-36_source:Gaode|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = [[People's Republic of China]]
+| subdivision_type1       = [[Province (China)|Province]]
+| subdivision_name1       = [[Jiangxi]]
+| subdivision_type2       = [[Prefecture-level city]]
+| subdivision_name2       = [[Jiujiang]]
+| established_title       = 
+| established_date        = 1955
+| founder                 = 
+| seat_type               = 
+| seat                    = [[Chashan Subdistrict]]
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_total_km2          = 310
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 37
+| population_footnotes    = 
+| population_total        = 220000
+| population_as_of        = 2019
+| population_density_km2  = auto
+| population_note         = 
+| timezone1               = [[China Standard Time]]
+| utc_offset1             = +8
+| postal_code_type        = [[China Standard Time|China Standard]]
+| postal_code             = 332020
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = [http://www.gongqing.gov.cn]
+| footnotes               =
+
+|blank_name            = '''[[Subdistrict (China)|Subdistricts]]'''
+|blank_info            = 1
+|blank2_name            = '''[[Town (China)|Towns]]'''
+|blank2_info            = 2
+}}

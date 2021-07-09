@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->| official_name                   = Ridgecrest, California
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Ridgecrest-CA.jpg
+| image_caption                   = College Heights Blvd., Ridgecrest
+| image_seal                      = Seal of Ridgecrest, California.png
+| image_map                       = Kern_County_California_Incorporated_and_Unincorporated_areas_Ridgecrest_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Kern County, California|Kern County]] and the state of California
+| pushpin_map                     = USA California Southern#USA California#USA
+| pushpin_label                   = Ridgecrest
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{USA}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Kern County, California|Kern]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Eric A. Bruen<ref name=CC>{{Cite web
+ |url= https://www.ridgecrest-ca.gov/212/City-Council
+ |title=Ridgecrest City Council
+ |publisher=City of Ridgecrest
+ |access-date=January 21, 2021}}</ref>
+| leader_title1                   = [[California's 16th State Senate district|State senator]]
+| leader_name1                    = {{Representative|casd|16|fmt=sleader}}<ref>{{Cite web
+ |url=http://senate.ca.gov/senators 
+ |title=Senators 
+ |access-date=April 12, 2013
+ |publisher=State of California}}</ref>
+| leader_title2                   = [[California's 34th State Assembly district|Assemblymember]]
+| leader_name2                    = {{Representative|caad|34|fmt=sleader}}<ref>{{Cite web
+ |url=http://assembly.ca.gov/assemblymembers
+ |title=Members Assembly
+ |access-date=April 12, 2013
+ |publisher=State of California}}</ref>
+| leader_title3                   = [[California's 23rd congressional district|U. S. rep.]]
+| leader_name3                    = {{Representative|cacd|23|fmt=usleader}}<ref>{{Cite GovTrack|CA|23|access-date=April 12, 2013}}</ref>
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = November 29, 1963<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = April 12, 2013
+ | archive-url = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = February 21, 2013
+ | url-status = dead
+ }}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 21.53
+| area_land_sq_mi                 = 20.88
+| area_water_sq_mi                = 0.65
+| area_total_km2                  = 55.76
+| area_land_km2                   = 54.08
+| area_water_km2                  = 1.69
+| area_water_percent              = 3.04
+| elevation_footnotes             = <ref name=gnis>{{Cite GNIS|1652783|Ridgecrest}}</ref>
+| elevation_ft                    = 2290
+| elevation_m                     = 698
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 27616
+| population_metro                = 
+| population_density_sq_mi        = 1387.60
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −08:00
+| coordinates                     = {{coord|35|37|21|N|117|40|15|W|region:US-CA|display=inline,title}}
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −07:00
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 93555&ndash;93556
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 442 and 760|442 and 760]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|60704}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652783}}, {{GNIS 4|2410944}}
+| website                         = {{URL|https://www.ridgecrest-ca.gov/}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 28973
+| population_density_km2          = 535.75
+| name                            = 
+}}

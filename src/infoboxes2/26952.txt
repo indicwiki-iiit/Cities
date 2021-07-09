@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = Mulvane, Kansas
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Sedgwick_County_Kansas_Incorporated_and_Unincorporated_areas_Mulvane_Highlighted.svg
+|map_caption              = Location within [[Sedgwick County, Kansas|Sedgwick County]] and [[Kansas]]
+|image_map1               = Map of Sedgwick Co, Ks, USA.png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Sedgwick County, Kansas|Sedgwick County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|37|28|47|N|97|14|32|W|region:US-KS_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|Counties]]
+|subdivision_name2        = [[Sedgwick County, Kansas|Sedgwick]], [[Sumner County, Kansas|Sumner]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        = 
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1870s
+|established_title1       = [[Platted]]
+|established_date1        = 1879
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1883
+|named_for                = Joab Mulvane
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = Shelly Steadman<ref>{{cite web|url=https://www.mulvanekansas.com/department/index.php?structureid=6|title= Mayor's Office / Mulvane, Kansas|website= mulvanekansas.com|access-date= December 27, 2019}}</ref>
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 4.47
+|area_land_sq_mi          = 4.46
+|area_water_sq_mi         = 0.01
+|area_total_km2           = 11.58
+|area_land_km2            = 11.56
+|area_water_km2           = 0.02
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_ft             = 1234
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 6111
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 6489
+|population_density_sq_mi = 1453.63
+|population_density_km2   = 561.27
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 67110
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 316|316]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-49100 <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0470229 <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|https://www.mulvanekansas.com/|mulvanekansas.com}}
+}}

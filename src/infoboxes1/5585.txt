@@ -1,0 +1,12 @@
+{{Infobox company|
+| type                = Private
+| logo                = Arxan logo.png
+| industry            = IT, Cybersecurity, Application Security
+| founded             = 2001
+| key_people          = {{unbulleted list|Joe Sander ([[chief executive officer|CEO]])|James Love (CRO)|Charlie Velasquez (CFO)}}
+| location_city       = [[San Francisco, CA]]
+| location_country    = USA
+| locations           = USA (6), United Kingdom (1), France (1), Germany (1), Sweden (1), Japan (1), Korea (1)
+| products            = Arxan Code Protection, Cryptographic Key & Data Protection, Threat Analytics, and App Management
+| website             = [http://www.arxan.com www.arxan.com]
+}}

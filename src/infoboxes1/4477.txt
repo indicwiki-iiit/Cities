@@ -1,0 +1,71 @@
+{{Infobox settlement
+|name                   = Rouyn-Noranda
+|settlement_type        = [[City (Quebec)|City]]
+|image_skyline          = Fountain on Osisko Lake.jpg
+|imagesize              = 
+|image_caption          = Fountain on Osisko Lake.  
+|image_blank_emblem     = Rouyn-Noranda.svg
+|blank_emblem_size      = 150px
+|motto                  = "Fierté, Solidarité, Savoir"<br />''("Pride, Solidarity, Knowledge")''
+|image_map              = Quebec MRC Rouyn-Noranda location map.svg
+|map_caption            = Location in province of Quebec.
+|mapsize                = 
+|image_map1              = Rouyn-Noranda Quebec location diagram.png
+|map_caption1            = Location with surrounding municipalities.
+|pushpin_map             = Canada Western Quebec
+|pushpin_label_position = 
+|pushpin_label        = 
+|pushpin_map_caption  = Location in western Quebec.
+|coordinates            = {{coord|48|14|N|79|01|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Abitibi-Témiscamingue]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = None
+|established_title      = Founded
+|established_date       = {{#property:P571|id= Q141804}}
+|established_title1     = Constituted
+|established_date1      = January 1, 2002
+|established_title2     = 
+|established_date2      = 
+|seat_type              = 
+|seat                   = 
+|parts_type             = 
+|parts                  = 
+|government_footnotes   = <ref name=mamrot>{{cite web |url=https://www.mamh.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/86042/ |title=Rouyn-Noranda |work=Répertoire des municipalités |publisher=Ministère des Affaires municipales et de l'Habitation |language=French |accessdate=2021-04-06}}</ref>
+|leader_title           = Mayor
+|leader_name            = Diane Dallaire
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Abitibi—Témiscamingue]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Abitibi-Est]] / [[Rouyn-Noranda–Témiscamingue|Rouyn-<br />Noranda–Témiscamingue]]
+|area_footnotes         = <ref name=mamrot/><ref name="cp2011a">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2486042&Geo2=PR&Code2=24&Data=Count&SearchText=Rouyn-Noranda&SearchType=Begins&SearchPR=01&B1=All&Custom= 2011 Statistics Canada Census Profile: Rouyn-Noranda, Quebec]</ref>
+|area_total_km2         = 6441.40
+|area_land_km2          = 6010.50
+|area_metro_footnotes   = <ref name="cp2011-CA">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=485&Geo2=PR&Code2=24&Data=Count&SearchText=Rouyn-Noranda&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=485&TABID=1 2011 Statistics Canada Census Profile: Rouyn-Noranda (Census agglomeration), Quebec]. The census agglomeration consists of Rouyn-Noranda and [[Preissac, Quebec|Preissac]]. In the 2006 census, the census agglomeration had not included Preissac.</ref>
+|area_metro_km2         = 6438.47
+|population_footnotes   = <ref name=mamrot/><ref name="census2016">{{cite web |title=Census Profile, 2016 Census: Rouyn-Noranda, Ville [Census subdivision], Quebec and Rouyn-Noranda [Census agglomeration] |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2486042&Geo2=CMACA&Code2=485&SearchText=rouyn&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 |publisher=Statistics Canada |access-date=December 3, 2019}}</ref>
+|population_total       = 43182
+|population_as_of       = 2020
+|population_density_km2 = 7.18
+|population_blank1_title= Change<br><small>2016-2020</small>
+|population_blank1      = {{increase}} 2.0%
+|population_blank2_title= Dwellings
+|population_blank2      = 18851
+|population_note        = 
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of J postal codes of Canada|J9X, J9Y]]
+|area_code              = [[Area codes 819 and 873|819/873]]
+|blank_name             = Highways
+|blank_info             = {{jct|state=QC|QC|101}} <br /> {{jct|state=QC|TCH|117}} <br /> {{jct|state=QC|QC|391}} <br /> {{jct|state=QC|QC|393}}
+|website                = {{URL|www.ville.rouyn-noranda.qc.ca|www.ville.<br />rouyn-noranda.qc.ca}}
+}}

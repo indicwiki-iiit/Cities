@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type  = [[List of cities and towns of Hungary|Town]]
+|image_skyline    ={{nowrap|[[File:Középkori csendélet.JPG|250px]]<br/>[[File:U.n.püspöki palota (10326. számú műemlék) 4.jpg|133px]][[File:Sümeg, Episcopal Stable 01.jpg|117px]]}}
+|image_caption    = 
+|image_shield     = Coa_Hungary_Town_Sümeg_big.svg
+|image_flag       = Flag of Sümeg.svg
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Sümeg
+|pushpin_mapsize        =
+|official_name=Sümeg
+|map=<!--<div style="position: relative">[[File:VeszprémMegye.png|275px]]<div style="position: absolute; left: 46px; top: 95px">[[File:Red_Dot.gif]]</div></div>-->
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Veszprém County|Veszprém]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Sümeg District|Sümeg]]
+|area_total_km2=64.13
+|population_total=6758
+|population_as_of=2004
+|population_density_km2=105.37
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=8330
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 87
+|website={{URL|http://www.sumeg.hu/}}
+|coordinates            = {{coord|46.97870|17.28206|region:HU|display=inline,title}}
+}}

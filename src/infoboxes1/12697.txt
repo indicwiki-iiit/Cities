@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Skokie, Illinois
+| official_name                   = Village of Skokie
+| native_name                     = 
+| native_name_lang                = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type                 = Village
+| image_skyline                   = Skokie, Illinois (9179544141).jpg
+| image_alt                       = Downtown Skokie seen on a partly cloudy day with some construction
+| image_caption                   = Downtown Skokie in 2013
+| image_flag                      = 
+| flag_alt                        = 
+| image_seal                      = 
+| seal_alt                        = 
+| image_shield                    = 
+| shield_alt                      = 
+| motto                           = 
+| image_map                       = File:Cook County Illinois Incorporated and Unincorporated areas Skokie Highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location of Skokie in Cook County, Illinois.
+| image_map1                      = Illinois in United States (US48).svg
+| map_caption1                    = Location of Illinois in the United States
+| coordinates                     = {{coord|42|02|01|N|87|43|58|W|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = Country
+| subdivision_name                = {{US}}
+| subdivision_type1               = State
+| subdivision_name1               = [[Illinois]]
+| subdivision_type2               = [[County (United States)|County]]
+| subdivision_name2               = [[Cook County, Illinois|Cook]]
+| subdivision_type3               = [[Civil township|Township]]
+| subdivision_name3               = [[Niles Township, Cook County, Illinois|Niles]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1888
+| founder                         = 
+| seat_type                       = 
+| seat                            = 
+| government_footnotes            = 
+| government_type                 = [[Council–manager government|Council–manager]]
+| leader_party                    = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = George Van Dusen ([[Democratic Party (U.S.)|D]])<ref>{{cite web |title=Meet the Leaders: Skokie Mayor George Van Dusen |url=https://patch.com/illinois/skokie/meet-the-leaders-skokie-mayor-george-van-dusen |website=Skokie, IL Patch |access-date=3 April 2020 |language=en |date=12 September 2013}}</ref>
+| leader_title1                   = 
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes            = <!-- <ref> </re> -->
+| area_rural_footnotes            = <!-- <ref> </re> -->
+| area_metro_footnotes            = <!-- <ref> </re> -->
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_note                       = 
+| area_water_percent              = 0
+| area_rank                       = 
+| area_blank1_title               = 
+| area_blank2_title               = <!-- square miles -->
+| area_total_sq_mi                = 10.06
+| area_land_sq_mi                 = 10.06
+| area_water_sq_mi                = 0.00
+| elevation_footnotes             = 
+| elevation_ft                    = 
+| population_footnotes            = 
+| population_total                = 64784
+| population_as_of                = [[2010 United States Census|2010]]
+| population_density_sq_mi        = 6230.13
+| population_demonym              = 
+| population_note                 = Up 2.27% from 2000
+| timezone1                       = 
+| utc_offset1                     = 
+| timezone1_DST                   = 
+| utc_offset1_DST                 = 
+| postal_code_type                = [[ZIP code|<span style="white-space:nowrap;">ZIP code(s)</span>]]
+| postal_code                     = 60076, 60077, 60203
+| area_code_type                  = [[North American Numbering Plan|<span style="white-space:nowrap;">Area code(s)</span>]]
+| area_code                       = [[Area codes 847 and 224|847 & 224]]
+| iso_code                        = 
+| geocode                         = 70122
+| website                         = {{URL|skokie.org}}
+| footnotes                       = <!-- demographics (section 1) -->
+| demographics_type1              = Standard of living ([[American Community Survey|2011]])
+| demographics1_footnotes         = 
+| demographics1_title1            = [[Per capita income]]
+| demographics1_info1             = $32,169
+| demographics1_title2            = [[Real estate appraisal|Median home value]]
+| demographics1_info2             = $297,900
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 62700
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 17-70122
+| area_total_km2                  = 26.07
+| area_land_km2                   = 26.07
+| area_water_km2                  = 0.00
+|population_density_km2 = 2405.45
+}}

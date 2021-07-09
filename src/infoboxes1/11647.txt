@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Cienfuegos
+|other_name             = 
+|native_name            = 
+|nickname               = ''La Perla del Sur'' (Pearl of the South)
+|settlement_type        = [[Municipalities of Cuba|Municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Street in Cienfuegos (4482).jpg
+|image_caption          = Typical street in Cienfuegos
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = Escudo-Cienfuegos.jpg
+|shield_size            = 120x90px
+|image_map              = Cienfuegos (Cuban municipal map).png
+|map_caption            = Cienfuegos municipality (red) within <br /> Cienfuegos Province (yellow) and Cuba
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Cuba]]
+|subdivision_type1      = [[Provinces of Cuba|Province]]
+|subdivision_name1      = [[Cienfuegos Province|Cienfuegos]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|established_title      = Founded
+|established_date       = 1819<ref name=guije />
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area    --------------------->
+|unit_pref              = 
+|area_footnotes         = <ref name=statoids />
+|area_total_km2         = 333
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+<!-- Population   ----------------------->
+|population_as_of       = 2012
+|population_footnotes   = <ref name=atenas />
+|population_note        = 
+|population_total       = 164924
+|population_density_km2 = auto
+|population_demonym     = Cienfuegueros
+<!-- General information  --------------->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = -5
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|22|08|44|N|80|26|11|W|region:CU|display=inline,title}}
+|elevation_footnotes    = <!--for references: use  tags-->
+|elevation_m            = 25
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 55100-55500
+|area_code              = +53 43
+|registration_plate     = CF
+|website                = 
+| footnotes                       = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = Urban [[Historic Centre of Cienfuegos]]
+   | designation1_date = 2005 <small>(29th [[World Heritage Committee|session]])</small><ref>{{Cite book|chapter=Decision: 29 COM 8B.53 |title= Decisions of the 29th Session of the World Heritage Committee |location=Durban |publisher=UNESCO |year=2005 |pages=143 |url=https://whc.unesco.org/archive/2005/whc05-29com-22e.pdf }}</ref>
+   | designation1_type = Cultural
+   | designation1_criteria = ii, v
+   | designation1_number = [https://whc.unesco.org/en/list/1202 1202]
+   | designation1_free1name = State Party
+   | designation1_free1value = Cuba
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in North America|Latin America and the Caribbean]]
+  }}
+}}

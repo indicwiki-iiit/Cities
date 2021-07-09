@@ -1,0 +1,96 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| name                            = Vacaville, California
+| official_name                   = City of Vacaville
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| settlement_type                 = [[City (California)|City]]
+<!-- images and maps  ----------->| image_skyline                   = Vacaville Hills.jpg
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| nickname                        = 
+| motto                           = 
+| image_map                       = Solano_County_California_Incorporated_and_Unincorporated_areas_Vacaville_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Solano County, California|Solano County]] and the state of California
+| pushpin_map                     = California#USA
+| pushpin_label                   = Vacaville
+| pushpin_map_caption             = Location in California##Location in the United States
+<!-- Location ------------------>| coordinates                     = {{coord|38|21|14|N|121|58|22|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Solano County, California|Solano]]
+<!-- Politics ----------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = August 9, 1892<ref>{{Cite web
+ |url          = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title        = California Cities by Incorporation Date
+ |format       = Word
+ |publisher    = California Association of [[Local Agency Formation Commission]]s
+ |access-date   = August 25, 2014
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref>
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Ron Rowlett<ref>{{Cite web
+ | url = http://www.cityofvacaville.com/index.aspx?page=655
+ | title = City Council
+ | publisher = City of Vacaville, CA
+ | access-date = December 16, 2014}}</ref>
+| leader_title1                   = [[California's 3rd State Senate district|State Senator]]
+| leader_name1                    = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 23, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+| leader_title2                   = [[California's 11th State Assembly district|Assemblymember]]
+| leader_name2                    = {{Representative|caad|11|fmt=sleader}}<ref name=swd/>
+| leader_title3                   = [[California's 3rd congressional district|U. S. Rep.]]
+| leader_name3                    = {{Representative|cacd|3|fmt=usleader}}<ref>{{Cite GovTrack|CA|3}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 29.42
+| area_total_km2                  = 76.19
+| area_land_sq_mi                 = 29.19
+| area_land_km2                   = 75.59
+| area_water_sq_mi                = 0.23
+| area_water_km2                  = 0.60
+| area_water_percent              = 0.74
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|277624|Vacaville|access-date=November 18, 2014}}</ref>
+| elevation_ft                    = 174
+| elevation_m                     = 53
+| elevation_max_footnotes         = <ref name=about>{{Cite web|url=http://www.cityofvacaville.com/index.aspx?page=267|title=About Vacaville|publisher=City of Vacaville, CA|access-date=January 26, 2015}}</ref>
+| elevation_max_ft                = 300
+| elevation_min_footnotes         = <ref name=about/>
+| elevation_min_ft                = 90
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0681554.html|title=Vacaville (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 18, 2015|archive-url=https://web.archive.org/web/20150418200815/http://quickfacts.census.gov/qfd/states/06/0681554.html|archive-date=April 18, 2015|url-status=dead|df=mdy-all}}</ref>
+| population_total                = 92428
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 100670
+| population_rank                 = [[List of largest California cities by population|75th]] in California<br />[[List of United States cities by population|314th]] in the United States
+| population_density_sq_mi        = 3449.14
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = −7
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95687, 95688, 95696
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 707|707]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|81554}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|277624}}, {{GNIS 4|2412139}}
+| website                         = {{Official website|www.cityofvacaville.com}}
+| population_density_km2          = 1331.73
+}}

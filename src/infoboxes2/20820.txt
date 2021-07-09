@@ -1,0 +1,88 @@
+{{Infobox settlement
+|official_name            = Blooming Grove, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Round Hill Elementary School.jpg
+|imagesize                = 
+|image_caption            = Round Hill from [[New York State Route 208]] in 2006
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption     = Location within the state of New York
+|image_map                = Orange County New York incorporated and unincorporated areas Blooming Grove highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Orange County, New York|Orange County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Orange County, New York|Orange]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor]]
+|leader_name              = Robert C. Jeroloman
+| leader_title1           = [[Town Council]]
+| leader_name1            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Jason Kramer Ward 1 Concilperson
+ |2           = • Thomas DeVinko Ward 2 Councilperson
+ |3           = • Charles Quick Ward 3 Councilperson
+ |4           = • Sonia Ayala Ward 4 Councilperson
+ |5           = • George R. Doering, Jr. Ward 5 Councilperson Deputy Supervisor
+ |6           = • Steven J. Amante Ward 6 Councilperson
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 91.56
+|area_land_km2            = 89.97
+|area_water_km2           = 1.60
+|area_total_sq_mi         = 35.35
+|area_land_sq_mi          = 34.74
+|area_water_sq_mi         = 0.62
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 18028
+|population_density_km2   = 196.47
+|population_density_sq_mi = 508.87
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 114
+|elevation_ft             = 374
+|coordinates              = {{coord|41|26|N|74|10|W|region:US-NY|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 10914
+|area_code                = [[Area code 845|845]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-07003
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0978739
+|website                  = {{URL|http://www.townofbloominggroveny.com/|Town website}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 17676
+}}

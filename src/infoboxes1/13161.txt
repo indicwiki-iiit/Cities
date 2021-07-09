@@ -1,0 +1,17 @@
+{{Infobox person
+| name          = João Teixeira de Faria
+| image         = Image:João de Deus - John of God - Joao Teixeira de Faria 2006.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{birth date and age|df=yes|1942|06|24}}
+| birth_place   = Cachoeira de Goiás
+| death_date    = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place   = 
+| nationality   = Brazilian
+| other_names   = João de Deus (John of God)
+| occupation    = 
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}

@@ -1,0 +1,86 @@
+{{Infobox settlement
+| name                     = Reno, Nevada
+| settlement_type          = [[City]]
+| image_skyline            = Reno skyline.JPG
+| image_caption            = 
+| image_flag               = Flag of Reno, Nevada.svg
+| image_blank_emblem       = City of Reno logo.jpg
+| nickname                 = "The Biggest Little City in the World"
+<!-- Maps -->
+| image_map                = Washoe County Nevada Incorporated and Unincorporated areas Reno Highlighted.svg
+| mapsize                  = 150px
+| map_caption              = Location within Washoe County
+| pushpin_map              = Nevada#USA
+| pushpin_map_caption      = Location within the state of Nevada##Location within the United States
+| pushpin_relief           = 1
+<!-- Location -->
+| coordinates              = {{Coord|39|31|38|N|119|49|19|W|region:US-NV|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_type2        = [[List of counties in Nevada|County]]
+| subdivision_name1        = [[Nevada]]
+| subdivision_name2        = [[Washoe County, Nevada|Washoe]]
+| established_title        = Founded
+| established_date         = {{Start date and age|1868|5|9}}
+| established_title2       = Incorporated
+| established_date2        = {{Start date and age|1903|3|16}}
+| named_for                = [[Jesse L. Reno]]
+| government_footnotes     = 
+| government_type          = [[Council–manager government|Council–manager]]
+| leader_title             = Mayor
+| leader_name              = [[Hillary Schieve]] ([[Independent politician|I]])
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_32.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+| area_total_km2           = 288.98
+| area_land_km2            = 281.65
+| area_water_km2           = 7.34
+| elevation_footnotes      = 
+| elevation_m              = 1373
+| elevation_ft             = 4505
+<!-- Population -->
+| population_total         = 225221
+| population_as_of         = [[2010 United States Census|2010]]
+| population_rank          = [[List of United States cities by population|85th, U.S.]]
+| population_footnotes     = 
+| population_density_km2   = 907.52
+| population_density_sq_mi = 2350.48
+| population_est           = 255601
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019"/>
+| population_metro         = 425417
+| population_demonym       = Renoites
+<!-- General information -->
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 89500-89599
+| area_code                = [[Area code 775|775]]
+| website                  = {{URL|reno.gov}}
+| footnotes                = <!-- Registry designation -->
+{{designation list|embed=yes|designation1=Nevada Historical Marker|designation1_number=30}}
+| pushpin_label            = Reno
+| timezone                 = PST
+| utc_offset               = −08:00
+| timezone_DST             = PDT
+| utc_offset_DST           = −07:00
+<!-- Area/postal codes & others -->
+| blank_name               = [[Federal Information Processing Standards|FIPS code]]
+| blank_info               = 32-60600
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:0861100 0861100]
+| blank2_name              = [[Interstate Highway System|Interstates]]
+| blank2_info              = [[File:I-80 (NV).svg|25px|link=Interstate 80 in Nevada]] [[File:Business Loop 80.svg|25px|link=Nevada State Route 647]] [[File:I-580 (NV).svg|30px|link=Interstate 580 (Nevada)]]
+| blank3_name              = [[United States Numbered Highway System|U.S. Routes]]
+| blank3_info              = [[File:US 395.svg|31px|link=U.S. Route 395 in Nevada]]
+| blank4_name              = Major State Routes
+| blank4_info              = [[File:Nevada 341.svg|31px|link=Nevada State Route 341]] [[File:Nevada 430.svg|31px|link=Nevada State Route 430]] [[File:Nevada 431.svg|31px|link=Nevada State Route 431]] [[File:Nevada 647.svg|31px|link=Nevada State Route 647]] [[File:Nevada 659.svg|31px|link=Nevada State Route 659]]
+| blank5_name              = Waterways
+| blank5_info              = [[Truckee River]]
+| blank6_name              = Airports
+| blank6_info              = [[Reno Stead Airport]] [[Reno–Tahoe International Airport]]
+| blank7_name              = Public transit
+| blank7_info              = [[Regional Transportation Commission of Washoe County|Regional Transportation Commission]]
+|area_total_sq_mi = 111.58
+|area_land_sq_mi = 108.74
+|area_water_sq_mi = 2.83
+}}

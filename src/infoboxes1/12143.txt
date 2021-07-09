@@ -1,0 +1,132 @@
+{{Infobox officeholder
+| name             = Nicolae Ceaușescu
+| honorific_prefix = [[Comrade#In other languages|Tovarășul]] [[President of Romania|Președinte]]
+| image            = Nicolae Ceaușescu.jpg
+| caption          = Official photo of Ceaușescu from 1965
+| office           = [[Romanian Communist Party#General Secretaries (1921–1989)|General Secretary of the Romanian Communist Party]]
+| term_start       = 22 March 1965
+| term_end         = 22 December 1989
+| predecessor      = [[Gheorghe Gheorghiu-Dej]] 
+| successor        = ''Position abolished''
+
+| order1           = 1st 
+| office1          = President of Romania
+| term_start1      = 28 March 1974
+| term_end1        = 22 December 1989
+| predecessor1     = ''Position established''
+| successor1       = [[List of members of the National Salvation Front Council|National Salvation Front Council]] (interim)
+| primeminister1   = {{plainlist}}
+* [[Manea Mănescu]]
+* [[Ilie Verdeț]]
+* [[Constantin Dăscălescu]]
+{{endplainlist}}
+
+| office2          = [[State Council of Romania#Presidents of the State Council|President of the State Council]]
+| term_start2      = 9 December 1967
+| term_end2        = 22 December 1989
+| primeminister2   = {{plainlist}}
+* [[Ion Gheorghe Maurer]]
+* [[Manea Mănescu]]
+* [[Ilie Verdeț]]
+* [[Constantin Dăscălescu]]
+{{endplainlist}}
+| predecessor2     = [[Chivu Stoica]]
+| successor2       = ''Office abolished''
+
+{{collapsed infobox section begin|Additional positions}} 
+| office3          = Member of the [[State Council of Romania|Presidium of the Great National Assembly]]
+| term_start3      = 31 May 1950
+| term_end3        = 3 October 1955
+| president3       = [[Constantin Ion Parhon]] <br /> [[Petru Groza]]
+
+| office4          = [[Deputy Minister]] at the [[Ministry of National Defence (Romania)|Ministry of National Defence]]
+| term_start4      = 1950
+| term_end4        = 1954
+| primeminister4   = [[Petru Groza]] <br /> [[Gheorghe Gheorghiu-Dej]]
+| minister4        = [[Emil Bodnăraș]]
+
+| office5          = [[Deputy Minister]] at the [[Government of Romania|Ministry of Agriculture]]
+| term_start5      = 1949
+| term_end5        = 1950
+| primeminister5   = [[Petru Groza]]
+| minister5        = [[Vasile Vaida]]
+
+| office6          = [[Undersecretary|State Under Secretary]] at the [[Government of Romania|Ministry of Agriculture]]
+| term_start6      = 13 May 1948
+| term_end6        = 1949
+| primeminister6   = [[Petru Groza]]
+| minister6        = [[Vasile Vaida]]
+
+| office7          = Member of the [[Central committee|Central Committee]] of the [[Romanian Communist Party|Communist Party]]
+| term_start7      = 21 October 1945
+| term_end7        = 22 December 1989
+
+| office8          = First Secretary of the [[Union of Communist Youth]]
+| term_start8      = 23 August 1944
+| term_end8        = June 1945
+| successor8       = [[Constantin Drăgoescu]]
+
+| office9          = First Secretary of the [[Olt County|Olt Regional Committee]] of the [[Romanian Communist Party|Communist Party]]
+| 1blankname9      = {{nowrap|First Secretary}}
+| 1namedata9       = [[Gheorghe Gheorghiu-Dej]]
+| term_start9      = December 1946
+| term_end9        = May 1948
+
+| office10         = Member of the [[Great National Assembly]]
+| term_start10     = 28 March 1948
+| term_end10       = 30 November 1952
+| constituency10   = [[Olt County]]
+
+| term_start11     = 30 November 1952
+| term_end11       = 2 March 1969
+| constituency11   = [[Argeș Region|Pitești Region]]
+
+| term_start12     = 2 March 1969
+| term_end12       = 22 December 1989
+| constituency12   = [[Bucharest]]
+
+| office13         = Member of the [[Chamber of Deputies (Romania)|Assembly of Deputies]]
+| term_start13     = 19 November 1946
+| term_end13       = 25 February 1948
+| constituency13   = [[Olt County]]
+{{collapsed infobox section end}}
+
+| party            = [[Romanian Communist Party]] (1932–1989)
+| birth_date       = {{birth date|df=yes|1918|02|05}} (Old Style: 23 January)
+| birth_place      = [[Scornicești]], [[Olt County]], [[Kingdom of Romania]]
+| death_date       = {{nowrap| {{death date and age|df=yes|1989|12|25|1918|02|05}}}}
+| death_place      = [[Târgoviște]], [[Socialist Republic of Romania]]
+| resting_place    = [[Ghencea Cemetery]], [[Bucharest]], [[Romania]]
+| death_cause      = [[Execution by firing squad]]
+| nationality      = [[Romania]]n
+| known_for        = {{ubl|class=nowrap|
+| [[Nicolae Ceaușescu's cult of personality|Cult of personality]]
+| [[Systematization (Romania)|Systematization]]{{Ref label |term|a|}}
+| [[1980s austerity policy in Romania|Austerity policy]]{{Ref label |term|b|}}
+| [[Ceaușescu's speech of 21 August 1968|21 August 1968 speech]]
+| [[Decree 770]] 
+}} 
+| signature        = Nicolae Ceauşescu Signature.svg
+| spouse           = {{Marriage|[[Elena Ceaușescu|Elena Petrescu]]|1947|1989|end=died}}
+| children         = {{plainlist}}
+* [[Valentin Ceaușescu|Valentin]]
+* [[Zoia Ceaușescu|Zoia]]
+* [[Nicu Ceaușescu|Nicu]]
+{{endplainlist}}
+| allegiance       = {{flagcountry|Socialist Republic of Romania|1965}}
+| branch           = [[Romanian Armed Forces|Romanian Army]]
+| serviceyears     = 1950–1954
+| battles          = [[Romanian Revolution]]{{executed}}
+| rank             = [[File:RO-Army-OF7.png|15px]] [[Lieutenant general]]
+| module = '''Criminal conviction'''
+{{Infobox criminal
+| child = yes
+| conviction = [[Genocide]]
+| trial = Trial and execution of Nicolae and Elena Ceaușescu
+| conviction_penalty = [[Capital punishment]]
+| victims = Romanian [[dissident]]s
+}}
+| footnotes      =
+a. {{note|term}} {{small|primarily the [[Romanian rural systematization program]]}}<br />
+b. {{note|term}} {{small|Resulting in the successful repayment of Romania's entire [[Foreign debt of the Socialist Republic of Romania|external debt]]}}
+}}

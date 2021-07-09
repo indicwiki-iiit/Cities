@@ -1,0 +1,22 @@
+{%- macro governance()-%}
+==పరిపాలన==
+{% if govType != "None" -%}
+{{city_name}} నగరానికి {{govType}} పరిపాలన విధానం వర్తిస్తుంది.{{" "}}
+{%-endif-%}
+
+{%- if leaderTitle != "None" -%}
+{{leaderTitle}} ఈ నగరానికి పరిపాలన అధికారి.{{" "}}  
+{%-endif-%}
+
+{%- if leaderName != "None" -%} 
+ప్రస్తుత {{leaderTitle}} {{leaderName}}.{{" "}}
+{%-endif-%}
+
+{%- if govBody != "None" -%}
+ఈ నగరం {{govBody}} పరిధిలోకి వస్తుంది.
+{%- endif -%}
+
+{% endmacro %}
+
+{{- governance() -}}
+

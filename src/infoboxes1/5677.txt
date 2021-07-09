@@ -1,0 +1,75 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Songyuan}}
+| official_name                   = 
+| other_name                      = 
+| native_name                     = {{lower|0.1em|松原市}}
+| native_name_lang                = zh
+| settlement_type                 = [[Prefecture-level city]]
+<!-- images and maps  ----------->| image_caption                   = Songyuan
+| image_seal                      = 
+| image_shield                    = <!-- Basic info  ---------------->
+| nickname                        = 
+| motto                           = 
+| image_map                       = Location of Songyuan Prefecture within Jilin (China).png
+| map_caption                     = Location of Songyuan City (yellow) in Jilin (light grey)
+| pushpin_map                     = Jilin
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location of the city centre in Jilin
+<!-- Location ------------------>| coordinates                     = {{coord|45.1419|N|124.8253|E|type:adm2nd_region:CN-22_source:Gaode|format=dms|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = [[China|People's Republic of China]]
+| subdivision_type1               = [[Province (China)|Province]]
+| subdivision_name1               = [[Jilin]]
+| subdivision_type2               = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+| subdivision_name2               = 5
+| seat_type                       = City seat
+| seat                            = [[Ningjiang District]]
+| government_type                 = [[Prefecture-level city]]
+<!-- Politics ----------------->| government_footnotes            = 
+| leader_title                    = [[Communist Party of China|CPC]] Songyuan Secretary
+| leader_name                     = Wang Changsong ({{lang|zh-Hans-CN|王常松}})
+| established_title               = <!-- Settled -->
+| leader_title1                   = Mayor
+| established_date                = 
+| leader_name1                    = Li Xiangguo ({{lang|zh-hans|李相国}})
+| established_title2              = Incorporated (city)
+| established_date2               = 1992.6.6
+| founder                         = 
+| named_for                       = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+<!-- Area    --------------------->| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_footnotes                  = 
+| area_total_km2                  = 22034<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 133
+| elevation_max_m                 = 
+| elevation_min_m                 = 
+| population_footnotes            = <ref name="Census2010">{{cite web
+  |language=zh-hans
+  |url=http://www.jl.gov.cn/xxgkml2011/zfgkml/auto363/auto367/201105/t20110516_75833.html
+  |script-title=zh:吉林省2010年第六次全国人口普查主要数据公报
+  |publisher=Jilin Bureau of Statistics ({{lang|zh-hans|吉林省统计局}})
+  |access-date=19 August 2012
+}}</ref>
+<!-- Population   ----------------------->| population_total                = 2881082
+| population_as_of                = 2010
+| population_density_km2          = auto <!--For automatic calculation, any density field may contain: auto -->
+| population_note                 = 
+| area_urban_km2                  = 81.80
+| area_urban_footnotes            = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_urban                = 495900
+| population_urban_footnotes      = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information  --------------->| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+<!-- Area/postal codes & others -------->| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 138000
+| area_code                       = 0438
+| blank_name                      = [[Vehicle registration plates of China|Licence plates]]
+| blank_info                      = {{lang|zh-cn|吉J}}
+| iso_code                        = [[ISO 3166-2:CN|CN-JL-07]]
+| website                         = {{URL|jlsy.gov.cn}}
+| footnotes                       = 
+}}

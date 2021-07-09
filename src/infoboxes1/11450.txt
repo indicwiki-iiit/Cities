@@ -1,0 +1,50 @@
+{{Infobox settlement
+|name               = Toruń
+|motto              = "''Durabo" ({{lang-la|"I will endure"}})''
+|image_skyline      = Toruń2017.jpg
+|imagesize          = 250px
+|image_caption      = {{hlist|From top, left to right: [[Leaning Tower of Toruń]]|[[Gothic architecture|Gothic]] [[defensive walls]]|Old Town seen from the [[Vistula]]|Św. Ducha Street|Town Hall|Philadelphia Boulevard riverbanks|[[Tenement]] detail|Marketplace|Różana Street}}
+|image_flag         = Flag of Toruń (colors).svg
+|image_shield       = POL Toruń COA.svg
+|nickname           = City of Angels, [[Toruń gingerbread|Gingerbread city]], [[Nicolaus Copernicus|Copernicus Town]]
+|pushpin_map        = Kuyavian-Pomeranian Voivodeship#Poland#Europe
+|pushpin_relief=1
+|pushpin_label_position = top
+|subdivision_type   = [[List of sovereign states|Country]]
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = {{flag|Kuyavian-Pomeranian Voivodeship|name=Kuyavian-Pomeranian}}
+|leader_title       = Mayor
+|leader_name        = Michał Zaleski
+|established_title  = Established
+|established_date   = 8th century
+|established_title3 = City rights
+|established_date3  = 1233
+|area_total_km2     = 115.75
+|population_as_of   = 31 December 2019
+|population_total   = 201,447 {{decrease}} ([[List_of_cities_and_towns_in_Poland|15th]])<ref name="population">{{cite web|url=https://bdl.stat.gov.pl/BDL/dane/teryt/jednostka|title=Local Data Bank|access-date=22 June 2020|publisher=Statistics Poland}} Data for territorial unit 0463000.</ref>
+|population_density_km2 = 1740
+|population_metro   = 297646
+|timezone           = [[Central European Time|CET]]
+|utc_offset         = +1
+|timezone_DST       = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|coordinates        = {{coord|53|01|20|N|18|36|40|E|region:PL|display=inline,title}}
+|elevation_m        = 65
+|postal_code_type   = Postal code
+|postal_code        = 87-100 to 87-120
+|area_code          = +48 56
+|website            = http://www.torun.pl/
+|blank_name         = [[Polish car number plates|Car plates]]
+|blank_info         = CT
+|footnotes          = {{designation list | embed = yes
+   | designation1 = WHS
+   | designation1_offname = [[Medieval Town of Toruń]]
+   | designation1_date = 1997
+   | designation1_number = [https://whc.unesco.org/en/list/835]
+   | designation1_criteria = ii, iv
+   | designation1_type = Cultural
+   | designation1_free1name = UNESCO region
+   | designation1_free1value = [[List of World Heritage Sites in Europe|Europe]]
+   }}
+}}

@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Saga Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|佐賀県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|佐賀県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Saga-ken}}
+| image_flag              = Flag of Saga Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Symbol mark of Saga prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 41 Saga prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kyushu]]
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Kyushu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Saga, Saga|Saga]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 6 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 20
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Yoshinori Yamaguchi]]
+| area_total_km2          = 2,440.68
+| area_water_percent      = 1.7
+| area_rank               = [[List of Japanese prefectures by area|42nd]]
+| population_footnotes    = 
+| population_total        = 809248
+| population_as_of        = August 1, 2020
+| population_rank         = [[List of Japanese prefectures by population|42nd]]
+| population_density_km2  = auto
+| iso_code                = JP-41
+| website                 = {{URL|www.pref.saga.lg.jp/web/_7787/saga-english.html}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = Black-billed&nbsp;[[European magpie|magpie]] (''Pica pica'')
+| fish     = 
+| flower   = [[Camphor]]&nbsp;blossom (''Cinnamomum camphora'')
+| tree     = Camphor&nbsp;tree (''Cinnamomum camphora'')
+}}}}

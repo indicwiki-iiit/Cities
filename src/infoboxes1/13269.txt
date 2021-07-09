@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                  = Klina
+| native_name           = {{unbulleted list |item_style=font-size:81%; | ''Klina'' or {{native name|sq|Klinë}}<br>Клина / {{native name|sr|Klina}} }}
+| native_name_lang      = 
+| other_name            = 
+| settlement_type       = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|municipality]]
+| official_name         =
+<!-- images and maps  ----------->
+|image_skyline          = Klina1.jpg
+|imagesize              =
+|image_caption          = 
+| image_blank_emblem    = Stema e Komunës Klinë.svg
+| blank_emblem_type     = Emblem
+|image_map              = File:Klinë-Klina.png
+|mapsize                = 
+|map_caption            = Location of the municipality of Klina within Kosovo
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_mapsize        = 
+|pushpin_map_caption    = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Kosovo]]{{efn|name=status}}
+|subdivision_type1      = [[Districts of Kosovo|District]]
+|subdivision_name1      = [[District of Peja]]
+|subdivision_type2      = 
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            = 
+|established_title      =
+|established_date       = 
+<!-- Area    --------------------->
+| area_magnitude          = 
+| unit_pref               = 
+| area_blank1_title       = Urban
+| area_blank1_km2         = 
+| area_blank2_title       = Municipal
+| area_blank2_km2         = 309
+| area_footnotes          = 
+| population_as_of        = 2011
+| population_footnotes    =
+| population_note         =
+| population_blank1_title = Urban
+| population_blank1       = 5542
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipal
+| population_blank2       = 38496
+| population_density_blank2_km2 = auto
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|42|37|N|20|34|E|region:RS-KM|display=inline}}
+|elevation_footnotes    =  <!--for references: use  tags-->
+|elevation_m            = 382
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 32000
+|area_code              = +381
+|blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+|blank_info             = 03
+|blank1_name            =
+|blank1_info            =
+|website                = {{url|http://kk.rks-gov.net/kline|Official site}}
+|footnotes              =
+}}

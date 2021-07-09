@@ -1,0 +1,17 @@
+{{Infobox website
+|name             = {{Wiki favicon}} Russian Wikipedia
+|logo             = [[File:Wikipedia-logo-v2-ru.svg]]
+|screenshot       = [[File:Russian Wikipedia main page 25.04.2013 Mozilla 1265px.png|280px]]
+|collapsible      = yes
+|caption          = Main Page of the Russian Wikipedia in April 2013
+|url              = {{URL|ru.wikipedia.org}}
+|commercial       = Charitable
+|location         = [[Miami, Florida]]
+|launch_date      = {{start date and age|df=yes|2001|5|20}}
+|type             = [[Internet encyclopedia project]]
+|language         = Russian
+|registration     = Optional
+|content_license  = [[Creative Commons]] [[ShareAlike]] License 3.0
+|owner            = [[Wikimedia Foundation]]
+|author           = 
+}}

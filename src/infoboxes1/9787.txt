@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Icheon}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|이천시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1          = Korean
+| image_skyline           = Korea-Icheon-01.jpg
+| imagesize               = 
+| image_caption           =
+| image_blank_emblem      = 
+| blank_emblem_type       = Emblem of Icheon
+| image_map               = Gyeonggi-Icheon.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_type2       = [[Provinces of South Korea|Province]]
+| subdivision_name1       = [[Seoul National Capital Area|Sudogwon]]
+| subdivision_name2       = [[Gyeonggi Province|Gyeonggi]]
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 2 ''eup'', 8 ''myeon'', 4 ''dong''
+| leader_title            = 
+| leader_name             = 
+| area_total_km2          = 461.3
+| population_total        = 215206 <ref>[http://www.icheon.go.kr/site/ic/sub.do?key=372 이천시청 기본현황 - Icheon City]</ref>
+| population_as_of        = 2016
+| population_density_km2  = 453
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| website                 = [http://www.icheon.go.kr/site/eng/main.do icheon.go.kr]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|이|천|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|利|川|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Icheon-si
+| translit_lang1_type4    = {{nowrap|McCune–Reischauer}}
+| translit_lang1_info4    = Ich'ŏn-si
+}}

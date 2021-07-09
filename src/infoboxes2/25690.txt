@@ -1,0 +1,67 @@
+{{Infobox settlement
+| name                            = Hastings-on-Hudson, New York
+| official_name                   = 
+| settlement_type                 = [[Administrative divisions of New York#Village|Village]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Hastings Munic Bldg jeh.jpg
+| imagesize                       = 
+| image_caption                   = Municipal building
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Westchester County New York incorporated and unincorporated areas Hastings-on-Hudson highlighted.svg
+| map_caption                     = Location of Hastings-on-Hudson, New York
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| subdivision_type3               = [[Municipalities in Westchester County|Town]]
+| subdivision_name3               = [[Greenburgh, New York|Greenburgh]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 2.94
+| area_land_sq_mi                 = 1.98
+| area_water_sq_mi                = 0.96
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 7849
+| population_density_sq_mi        = 3968.17
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_ft                    = 
+| coordinates                     = {{coord|40|59|28|N|73|52|27|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 10706
+| area_code                       = 914
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-32710
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 
+| website                         = http://hastingsgov.org/
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 7853
+| population_density_km2          = 1532.11
+| unit_pref                       = Imperial
+|area_total_km2 = 7.62
+|area_land_km2 = 5.13
+|area_water_km2 = 2.49
+}}

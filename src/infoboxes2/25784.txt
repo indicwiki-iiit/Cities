@@ -1,0 +1,54 @@
+{{Infobox settlement
+|official_name            = Spring Valley Lake
+|settlement_type          = [[census-designated place]]
+<!-- Images -->
+|image_skyline            = Spring Valley Lake, Victor Valley, California.jpg
+|imagesize                = 
+|image_caption            = Homes surrounding the Spring Valley Lake
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|established_title        = 
+|established_date         = 
+<!-- Population------------------>
+| population_total        = 8220
+| population_as_of        = 2010
+| population_density_km2  = auto
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://www.webcitation.org/64vfLAeJ2?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-01-24 }}</ref>
+| area_total_sq_mi        = 3.533
+| area_land_sq_mi         = 2.969
+| area_water_sq_mi        = 0.564
+| area_total_km2          = 9.149
+| area_land_km2           = 7.689
+| area_water_km2          = 1.460
+| area_water_percent      = 15.95
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref name=gnis>{{gnis|2583150}}</ref>
+|elevation_m              = 
+|elevation_ft             = 2779
+| pushpin_map             = California
+| pushpin_map_caption     = Position in California.
+|coordinates              = {{coord|34|29|50|N|117|16|08|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = 2583150
+|website                  = 
+|footnotes                = {{gnis|2583150}}
+}}

@@ -1,0 +1,61 @@
+{{Infobox settlement
+|name                 = Mont-Tremblant
+|official_name        = Mont-Tremblant
+|settlement_type      = [[List of cities in Quebec|City]]
+|image_skyline        = Mont-Tremblant-09-06-07.jpg
+|image_caption        = 
+|flag_size            = 120x100px
+|shield_size          = 120x100px
+|nickname             = Tremblant
+|image_map            = Mont-Tremblant Quebec location diagram.png
+|map_caption          = Location within Les Laurentides RCM
+|pushpin_map          = Canada Central Quebec
+|pushpin_label_position = 
+|pushpin_label        = 
+|pushpin_map_caption  = Location in central Quebec
+|coordinates          = {{coord|46|07|N|74|36|W|region:CA-QC|display=inline,title}}
+|coordinates_footnotes= <ref name=toponymie>{{toponymie|360952}}</ref>
+|subdivision_type     = Country
+|subdivision_name     = {{CAN}}
+|subdivision_type1    = [[Provinces and territories of Canada|Province]]
+|subdivision_name1    = {{QC}}
+|subdivision_type2    = [[Region (Quebec)|Region]]
+|subdivision_name2    = [[Laurentides]]
+|subdivision_type3    = [[Regional county municipality|RCM]]
+|subdivision_name3    = [[Les Laurentides Regional County Municipality|Les Laurentides]]
+|established_title    = Settled
+|established_date     = 
+|established_title1   = Constituted
+|established_date1    = November 22, 2000
+|established_title2   = 
+|established_date2    = 
+|government_footnotes = <ref name=mamrot>{{cite web|url=https://www.mamrot.gouv.qc.ca/recherche-avancee/fiche/municipalite/78102/|title=Mont-Tremblant&nbsp;-&nbsp;Répertoire des municipalités&nbsp;-&nbsp;Ministère des Affaires municipales et de l'Occupation du territoire|work=gouv.qc.ca}}</ref>
+|government_type      = 
+|leader_title         = Mayor
+|leader_name          = Luc Brisebois<ref name=mamrot/>
+|leader_title1        = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1         = [[Laurentides—Labelle]]
+|leader_title2        = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2         = [[Labelle (provincial electoral district)|Labelle]]
+|area_footnotes       = <ref name=mamrot/><ref name="cp2011">{{SCref|unit=csd|code=2478102}}</ref>
+|area_total_km2       = 248.10
+|area_land_km2        = 234.40
+|population_footnotes = <ref>https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2478102&Geo2=PR&Code2=24&Data=Count&SearchText=Mont-Tremblant&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=2478102&TABID=1</ref>
+|population_total     = 9646
+|population_as_of     = 2016
+|population_density_km2 = 40.5
+|population_blank1_title= Pop&nbsp;<small>2011-2016</small>
+|population_blank1    = {{increase}} 1.6%
+|population_blank2_title= Dwellings
+|population_blank2    = 8082
+|timezone             = [[Eastern Time Zone|EST]]
+|utc_offset           = −5
+|timezone_DST         = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST       = −4
+|postal_code_type     = [[Canadian postal code|Postal code(s)]]
+|postal_code          = [[List of J postal codes of Canada|J8E]]
+|area_code            = [[Area code 819|819]]
+|blank_name           = Highways
+|blank_info           = {{jct|state=QC|TCH|117}} <br>{{jct|state=QC|QC|323}}<br>{{jct|state=QC|QC|327}}
+|website              = {{URL|www.villedemont-tremblant.qc.ca|www.villede<br>mont-tremblant.qc.ca}}
+}}

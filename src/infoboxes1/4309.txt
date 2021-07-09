@@ -1,0 +1,124 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Puerto Vallarta
+|other_name             =
+|native_name              =  <!-- for cities whose native name is not in English -->
+|nickname               = P.V., Vallarta
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Collage Puerto Vallarta.jpg
+|imagesize              = 275px
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = Escudo de Puerto Vallarta.svg
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = Puerto Vallarta - Jalisco.svg
+|mapsize                = 275px
+|map_caption            = Location of the municipality within the state of Jalisco
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Mexico#Mexico Jalisco <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = right
+|pushpin_map_caption    =
+|pushpin_mapsize        =300
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{MEX}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Jalisco]]
+|subdivision_type2      = [[Municipalities of Guerrero|Municipality]]
+|subdivision_name2      = Puerto Vallarta
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =  Arturo Dávalos Peña
+|leader_party           = [[Citizens' Movement (Mexico)|MC]]
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = December 12, 1851 
+|established_title2     = Founded as
+|established_date2      = ''Las Peñas''
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+|named_for              = [[Ignacio Vallarta]]
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2          = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2         =
+|area_total_sq_mi       =
+|area_land_sq_mi        =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+|area_blank1_title      = Municipality
+|area_blank1_km2        =
+|area_blank1_sq_mi      = 502.19 
+<!-- Population   ----------------------->
+|population_as_of               = 2014 (locality) and 2015
+|population_footnotes           = <br/>{{Small|Metropolitan Area population includes municipalities in both Jalisco and [[Nayarit]], Municipality includes other localities.}}
+|population_note                = 
+|population_total               = 221200
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               = 379886
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = Municipality
+|population_blank1              = 275640
+|population_blank2_title        = [[Demonym]]
+|population_blank2              = Vallartense
+|population_density_blank1_km2   =   auto
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = −6
+|timezone_DST           = Central
+|utc_offset_DST         = −5
+|coordinates            = {{coord|20|40|N|105|16|W|region:MX|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =23
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 48300
+|area_code              = +52 322
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = {{url|puertovallarta.gob.mx}}
+|footnotes              = 
+}}

@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Ibaraki Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|茨城県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|茨城県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Ibaraki-ken}}
+| image_flag              = Flag of Ibaraki Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Emblem of Ibaraki Prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 08 Ibaraki prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Japan}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kantō region|Kantō]]
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Mito, Ibaraki|Mito]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 7 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 44
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Kazuhiko Ōigawa]]
+| area_total_km2          = 6,097.19
+| area_water_percent      = 4.8
+| area_rank               = [[List of Japanese prefectures by area|24th]]
+| population_footnotes    = 
+| population_total        = 2,871,199
+| population_as_of        = June 1, 2019
+| population_rank         = [[List of Japanese prefectures by population|11th]]
+| population_density_km2  = auto
+| iso_code                = JP-08
+| website                 = {{URL|http://www.pref.ibaraki.jp/}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = Eurasian [[Skylark]] (''Alauda arvensis'')
+| fish     = 
+| flower   = [[Rose]] (''Rosa'')
+| tree     = [[Ume]] tree (''Prunus mume'')
+}}}}

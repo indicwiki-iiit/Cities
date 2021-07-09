@@ -1,0 +1,49 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = 
+| settlement_type                 = [[List of cities in Montenegro|Town]] and [[Municipalities of Montenegro|municipality]]
+| image_skyline                   = Plužine Piva Lake.JPG
+| image_size                      = 250px
+| image_shield                    = Pluzine coa.png
+| pushpin_map            = Montenegro
+| pushpin_label_position = bottom<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location within Montenegro
+| pushpin_mapsize        =
+<!-- Location ------------------>
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{MNE}}
+| subdivision_type1      = [[Municipalities of Montenegro|Municipality]]
+| subdivision_name1      = [[File:Pluzine coa.png|15px]] [[Plužine Municipality|Plužine]]
+|timezone               = [[Central European Time|CET]]
+| utc_offset                      = +1
+| map_caption                     = Location of Plužine Montenegro.
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| population_as_of                = 2011 census
+| name                            = Plužine
+| native_name                     = Плужине
+| leader_title                    = Mayor
+| leader_name                     = Mijuško Bajagić, [[Socialist People's Party of Montenegro|SNP]]
+| area_total_km2                  = 854
+| population_footnotes            = 
+| population_blank1               = 3,235
+| population_blank1_title         = Municipality
+| population_density_km2          = 5
+| population_urban                = 1,341
+| population_rural                = 1,905
+| parts                           = 43
+| parts_type                      = Settlements
+| established_date                = 14th century
+| established_title               = Founded
+| coordinates                     = {{coord|43.15|18.83|region:ME|display=inline,title}}
+| area_code_type                  = [[Telephone numbers in Montenegro|Area code]]
+| area_code                       = +382&nbsp;40
+| blank1_info_sec1                = PŽ
+| blank1_name_sec1                = [[Vehicle registration plates of Montenegro|Car&nbsp;plates]]
+| postal_code_type                = [[List of postal codes in Montenegro|Postal code]]
+| postal_code                     = 81435
+| blank_info_sec1                 = ME-15
+| blank_name_sec1                 = [[ISO 3166-2:ME|ISO 3166-2&nbsp;code]]
+| blank_name_sec2                 = [[Köppen climate classification|Climate]]
+| blank_info_sec2                 = [[Oceanic climate|Cfb]]
+| website                         = {{URL|http://www.pluzine.me}}
+}}

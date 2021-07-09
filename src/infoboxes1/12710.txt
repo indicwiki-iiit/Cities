@@ -1,0 +1,89 @@
+{{Infobox settlement
+|name                     = North Bergen, New Jersey
+|official_name            = Township of North Bergen
+|settlement_type          = [[Township (New Jersey)|Township]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = NorthBergenaerial.jpg
+|imagesize                = 250x200px
+|image_caption            = Eastward from Hackensack River in the Meadowlands to Hudson River
+|image_flag               =
+|image_seal               = North Bergen NJ seal.gif
+
+<!-- Maps -->
+|image_map                = North Bergen nj.png
+|mapsize                  = 250x200px
+|map_caption              = Map highlighting North Bergen within Hudson County. Inset: Location of Hudson County in New Jersey.
+|image_map1               = Census Bureau map of North Bergen, New Jersey.gif
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of North Bergen, New Jersey
+|pushpin_map              = USA New Jersey Hudson County#USA New Jersey#USA
+|pushpin_label            = North Bergen
+|pushpin_map_caption      = Location in Hudson County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image|Flag of Hudson County, New Jersey.gif}} [[Hudson County, New Jersey|Hudson]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Walsh Act]]
+|governing_body           = Board of Commissioners
+|leader_title             = [[Mayor]]
+|leader_name              = [[Nicholas Sacco]] (term ends May 15, 2023)<ref name=Officials/><ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020.</ref>
+|leader_title1            = [[Municipal clerk]]
+|leader_name1             = Erin Barillas<ref>[http://www.northbergen.org/Departments/clerks-office Clerk's Office], North Bergen. Accessed April 1, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = April 10, 1843<ref name=Story/>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 14.43
+|area_land_km2            = 13.30
+|area_water_km2           =  1.13
+|area_total_sq_mi         =  5.57
+|area_land_sq_mi          =  5.14
+|area_water_sq_mi         =  0.44
+|area_water_percent       =  7.83
+|area_rank                = 266th of 565 in state<br>5th of 12 in county<ref name=CensusArea/>
+
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 U.S. Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3401752470 DP-1 – Profile of General Population and Housing Characteristics: 2010 for North Bergen township, Hudson County, New Jersey] {{Webarchive|url=https://archive.today/20200212102121/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3401752470 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed December 22, 2011.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_hud/northbergen1.pdf Table DP-1. Profile of General Demographic Characteristics: 2010 for North Bergen township] {{Webarchive|url=https://web.archive.org/web/20120506173751/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_hud/northbergen1.pdf |date=2012-05-06 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed December 22, 2011.</ref><ref>[http://php.app.com/census/results2.php?State=NJ&County=Hudson&Town=%25&Submit=Search 2010 U.S. Census Populations], ''[[Asbury Park Press]]''. Accessed June 30, 2011.</ref>
+|population_total         = 60773 
+|population_rank          = 23rd of 566 in state<br>4th of 12 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 U.S. Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed November 12, 2012.</ref> 
+|population_density_km2   =  4570.7
+|population_density_sq_mi = 11838.0
+|population_density_rank  = 21st of 566 in state<br>8th of 12 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 60666
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Cite GNIS|id=882223|name=Township of North Bergen|access-date=March 8, 2013}}</ref>
+|elevation_m              = 
+|elevation_ft             = 112
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.794163|-74.024947|region:US-NJ_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 07047<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=north%20bergen&state=NJ Look Up a ZIP Code for North Bergen, NJ], [[United States Postal Service]]. Accessed December 22, 2011.</ref>
+|area_code                = [[Area codes 201 and 551|201]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCity=North%20Bergen&frmCounty=Hudson Area Code Lookup - NPA NXX for North Bergen, NJ], Area-Codes.com. Accessed October 20, 2014.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3401752470<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0882223<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.northbergen.org}}
+|footnotes                =
+}}

@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Jamalpur
+| native_name             = জামালপুর
+| native_name_lang        = bn<!-- ISO 639-1 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| official_name           = Jamalpur District
+| type                    = [[Districts of Bangladesh|District]]
+| image_skyline           = 
+| imagesize               = 
+| image_alt               = 
+| image_caption           = 
+| image_flag               = 
+| image_seal              = 
+| image_shield            = 
+| nickname                = 
+| nicknames               = 
+| motto                   = 
+| mottoes                 = 
+| image_map               = BD Jamalpur District locator map.svg
+| map_caption             = Location of Jamalpur District in Bangladesh
+| image_map1              = {{Maplink|frame=yes|plain=y|type=shape-inverse|id=|frame-width=200|frame-height=220|stroke-width=1|zoom=8|frame-align=center|frame-lat=|frame-long=|title=Jamalpur District}}
+| map_caption1            = Expandable map of Jamalpur District 
+| pushpin_map             = 
+| pushpin_label_position  = 
+| pushpin_map_caption     = Location of Jamalpur in Bangladesh
+| coordinates             = {{coord|24.92|89.96|region:BD|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Bangladesh}}
+| subdivision_type1       = [[Divisions of Bangladesh|Division]]
+| subdivision_name1       = [[Mymensingh Division]]
+| established_title       = 
+| established_date        = 1978
+| seat_type               = 
+| seat                    = 
+| leader_party            = 
+| leader_title            = [[Deputy Commissioner (Bangladesh)|Deputy Commissioner]]
+| leader_name             = Mohammad Enamul Haque
+| leader_title1           = 
+| leader_name1            = 
+| area_footnotes          = 
+| area_total_km2          = 2031.98
+| area_metro_km2          = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = 
+| population_total        = 2292674
+| population_as_of        = 2011 census
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      = Jamalpuri
+| population_demonyms     = 
+| population_note         = 
+| demographics_type1      = 
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = 
+| demographics1_info1     = 
+| timezone1               = [[Bangladesh Standard Time|BST]]
+| utc_offset1             = +06:00
+| postal_code_type        = [[List of postal codes in Bangladesh|Postal code]]
+| postal_code             = 2000
+| website                 = 
+| footnotes               = 
+| blank_name_sec1         = [[Human Development Index|HDI]] (2018)
+| blank_info_sec1         = 0.574<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2020-03-18}}</ref><br/>{{color|#fc0|medium}} · [[List of regions of Bangladesh by Human Development Index|18th of 21]]
+| blank_name_sec2         = 
+| blank_info_sec2         = 
+}}

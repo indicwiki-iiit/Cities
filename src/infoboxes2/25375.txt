@@ -1,0 +1,26 @@
+{{Infobox UK place
+ | official_name                    = Lanark
+ | gaelic_name                      = Lannraig
+ | scots_name                       = Lanrik
+ | country                          = Scotland
+ | static_image_name                = Lanark01.jpg
+ | static_image_caption             = Lanark High Street, August 2006
+ |static_image_2_name               = Coat of Arms of Lanark.png
+|static_image_2_width = 130px
+ |static_image_2_caption            = Coat of Arms of the [[Royal Burgh]] of Lanark
+| population = {{Scottish locality populations|name|POP=Lanark}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ | os_grid_reference                = NS8843
+ | coordinates                      = {{coord|55.674903|-3.777019|display=inline,title}}
+ |historic_county=
+|post_town                        = LANARK
+ | postcode_area                    = ML
+ | postcode_district                = ML11
+ | dial_code                        = 01555
+ | constituency_westminster         = [[Lanark and Hamilton East (UK Parliament constituency)|Lanark and Hamilton East]]
+ | london_distance                  = {{convert|325|mi}}
+ | edinburgh_distance               = {{convert|29+1/2|mi}}
+ | unitary_scotland                 = [[South Lanarkshire]]
+ | lieutenancy_scotland             = [[Lanarkshire]]
+ | constituency_scottish_parliament = [[Clydesdale]]
+ }}

@@ -1,0 +1,36 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Samokov
+| subdivision_type                = Country
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Samokov|
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Samokov
+| pushpin_mapsize                 = 
+| image_skyline                   = Samokov-History-museum-monument-Zahari-Zograf.jpg
+| image_caption                   = Samokov Historical Museum with the statue of Zahari Zograf
+| leader_title                    = Mayor
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| area_total_km2                  = 128,982
+| population_density_km2          = auto
+| website                         = [http://www.samokov.bg/ http://www.samokov.bg/]
+| native_name                     = Самоков
+| image_shield                    = Emblem of Samokov.png
+| subdivision_name1               = [[Sofia Province|Sofia]]
+| population_total                = 27193
+| population_urban                = 37770
+| population_footnotes            = <ref>{{cite web|url=http://grao.bg/tna/tab02.txt |title=Untitled |publisher=Grao.bg |access-date=15 March 2015}}</ref>
+| population_as_of                = 2015
+| elevation_m                     = 950
+| postal_code                     = 2000
+| area_code                       = 0722
+| coordinates                     = {{coord|42|20|N|23|33|E|region:BG|display=inline,title}}
+| leader_name                     = Vladimir Georgiev
+| name                            = 
+| settlement_type                 = Town
+}}

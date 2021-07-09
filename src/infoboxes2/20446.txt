@@ -1,0 +1,116 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fieldsdescriptions -->| name                            = McKeesport, Pennsylvania
+| native_name                     = 
+| native_name_lang                = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->EN
+| settlement_type                 = [[City]]
+| image_skyline                   = McKeesportNationalBank.jpg
+| image_alt                       = 
+| image_caption                   = [[McKeesport National Bank|McKeesport City Hall]], built circa 1890
+| image_flag                      = 
+| flag_alt                        = 
+| image_seal                      = Seal of the City of McKeesport.jpg
+| seal_alt                        = 
+| image_shield                    = 
+| shield_alt                      = 
+| nickname                        = Tube City
+| motto                           = 
+| image_map                       = Allegheny County Pennsylvania incorporated and unincorporated areas McKeesport highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Allegheny County, Pennsylvania|Allegheny County]] and the U.S. state of [[Pennsylvania]].
+| coordinates                     = {{coord|40|20|38|N|79|50|56|W|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Nowrap|{{Flagu|United States|name=United States|size=23px}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Pennsylvania|County]]
+| subdivision_type3               = 
+| subdivision_name1               = {{Flag|Pennsylvania|size=23px}}
+| subdivision_name2               = {{Flagicon image|Flag of Allegheny County, Pennsylvania.svg|size=23px}} [[Allegheny County, Pennsylvania|Allegheny]]
+| subdivision_name3               = 
+| established_title               = Settled
+| established_date                = 1795
+| established_title1              = Incorporated (borough)
+| established_date1               = September 3, 1842
+| founder                         = John McKee
+| seat_type                       = 
+| seat                            = 
+| government_footnotes            = 
+| leader_party                    = Democrat
+| leader_title                    = Mayor
+| leader_name                     = Michael Cherepko
+| unit_pref                       = Imperial
+<!-- or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_total_sq_mi                = 5.41
+| area_total_acre                 = 
+| area_land_sq_mi                 = 5.04
+| area_land_acre                  = 
+| area_water_sq_mi                = 0.37
+| area_water_acre                 = 
+| area_water_percent              = 
+| area_urban_sq_mi                = 
+| area_urban_acre                 = 
+| area_rural_sq_mi                = 
+| area_rural_acre                 = 
+| area_metro_sq_mi                = 
+| area_metro_acre                 = 
+| area_rank                       = 
+| area_blank1_title               = 
+| area_blank1_sq_mi               = 
+| area_blank1_acre                = 
+| area_blank2_title               = <!-- square miles -->
+| area_blank2_sq_mi               = <!-- acres -->
+| area_blank2_acre                = 
+| area_note                       = 
+| dimensions_footnotes            = 
+| length_mi                       = 
+| width_mi                        = 
+| elevation_footnotes             = 
+| elevation_ft                    = 760
+| population_total                = 19731
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_sq_mi        = 3768.64
+| population_demonym              = 
+| population_note                 = 
+| timezone1                       = EST
+| utc_offset1                     = -5
+| timezone1_DST                   = EDT
+| utc_offset1_DST                 = -4
+| postal_code_type                = Zip Code
+| postal_code                     = 15132
+| area_code                       = [[Area code 412|412]]
+| area_code_type                  = Area Code
+| iso_code                        = 
+| website                         = [http://www.mckeesport-pa.gov/ www.mckeesport-pa.gov]
+| footnotes                       = 
+| area_urban_footnotes            = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes            = <!-- <ref name="auto"/> -->
+| area_metro_footnotes            = <!-- <ref name="auto"/> -->
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 19009
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 42-46256
+| area_total_km2                  = 14.02
+| area_land_km2                   = 13.06
+| area_water_km2                  = 0.95
+| population_density_km2          = 1455.00
+| official_name                   = 
+| leader_title2                   = [[Pennsylvania House of Representatives|State House]]
+| leader_name2                    = [[Austin Davis (politician)|Austin Davis]] ([[Democratic Party (United States)|D]])
+| leader_name4                    = [[Michael F. Doyle|Mike Doyle]] ([[Democratic Party (United States)|D]])
+| leader_title4                   = [[United States House of Representatives|U.S. House]]
+| leader_title3                   = [[Pennsylvania State Senate|State Senate]]
+| leader_name3                    = [[Jim Brewster]] ([[Democratic Party (United States)|D]])
+| Nickname                        = Tube City
+| blank3_name                     = Waterways
+| blank3_info                     = {{plainlist|
+*[[Monongahela River]]
+*[[Youghiogheny River]]}}
+| blank5_name                     = Transit
+| blank5_info                     = [[Port Authority of Allegheny County|Port Authority Transit]]
+}}

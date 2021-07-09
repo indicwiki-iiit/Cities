@@ -1,0 +1,31 @@
+{{Infobox settlement
+| name                    = Pomorie
+| native_name             = Поморие
+| native_name_lang        = bul
+| settlement_type         = Town
+| image_skyline           = Town of Pomorie aerial Boby Dimitrov.jpg
+| image_caption           = Aerial view of Pomorie
+| image_flag              = Bulgaria-Pomorie flag.gif
+| image_shield            = Coat of Pomorie BG.svg
+| pushpin_map             = Bulgaria
+| pushpin_map_caption     = Location of Pomorie
+| coordinates             = {{coord|42|34|6|N|27|37|0|E|region:BG|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Bulgaria]]
+| subdivision_type1       = [[Provinces of Bulgaria|Province]]
+| subdivision_name1       = [[Burgas Province|Burgas]]
+| leader_party            = [[GERB]]
+| leader_title            = Mayor
+| leader_name             = Ivan Aleksiev
+| elevation_m             = 0
+| population_as_of        = 2016
+| population_footnotes    = <ref name="statistika"/>
+| population_total        = 27,399
+| population_density_km2  = auto
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code             = 8200
+}}

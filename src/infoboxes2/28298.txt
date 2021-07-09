@@ -1,0 +1,109 @@
+{{Infobox officeholder
+ |honorific_prefix = {{Pre-nominal styles|RHon|size=100%}}
+ |name             = The Baroness Thatcher
+ |honorific_suffix = {{Post-nominals|country=GBR|size=100%|LG|OM|DStJ|PC|FRS|HonFRSC}}
+ |image            = Margaret Thatcher stock portrait (cropped).jpg
+ |alt              = half-length portrait photograph of Thatcher in the mid-1990s
+ |caption          = Studio portrait, {{circa|1995&ndash;96}}
+ |office           = [[Prime Minister of the United Kingdom]]
+ |term_start       = 4 May 1979
+ |term_end         = 28 November 1990
+ |monarch          = [[Elizabeth II]]
+<!-- Whitelaw did not acquire the title of Deputy PM. (Hennessy 2001, p. 405.) -->
+ |deputy           = [[Geoffrey Howe]] {{nowrap|(1989–90)}}
+ |predecessor      = [[James Callaghan]]
+ |successor        = [[John Major]]
+ |office1          = [[Leader of the Opposition (United Kingdom)|Leader of the Opposition]]
+ |term_start1      = 11 February 1975
+ |term_end1        = 4 May 1979
+ |monarch1         = Elizabeth II
+ |primeminister1   = {{Unbulleted list
+  |[[Harold Wilson]]
+  |James Callaghan}}
+ |deputy1          = [[William Whitelaw, 1st Viscount Whitelaw|William Whitelaw]]
+ |predecessor1     = [[Edward Heath]]
+ |successor1       = James Callaghan
+ |office2          = [[Leader of the Conservative Party (UK)|Leader of the Conservative Party]]
+ |term_start2      = 11 February 1975
+ |term_end2        = 28 November 1990
+ |deputy2          = [[William Whitelaw, 1st Viscount Whitelaw|The Viscount Whitelaw]]
+ |predecessor2     = Edward Heath
+ |successor2       = John Major
+ {{Collapsed infobox section begin |Cabinet posts
+  |titlestyle=border:1px dashed lightgrey;}}{{Infobox officeholder |embed=yes
+ |office3          = [[Secretary of State for Education&nbsp;and&nbsp;Science]]
+ |term_start3      = 20 June 1970
+ |term_end3        = 4 March 1974
+ |primeminister3   = Edward Heath
+ |predecessor3     = [[Edward Short, Baron Glenamara|Edward Short]]
+ |successor3       = [[Reg Prentice]]
+ |office4          = [[Parliamentary Secretary to the Minister&nbsp;for&nbsp;Pensions]]
+ |term_start4      = 9 October 1961
+ |term_end4        = 16 October 1964
+ |alongside4       = {{Nowrap|[[Richard Sharples]] and [[Lynch Maydon]]}}
+ |primeminister4   = {{Unbulleted list
+  |[[Harold Macmillan]]
+  |[[Alec Douglas-Home]]}}
+ |predecessor4     = [[Patricia Hornsby-Smith, Baroness Hornsby-Smith|Patricia Hornsby-Smith]]
+ |successor4       = [[Norman Pentland]]{{Collapsed infobox section end}} }}
+ {{Collapsed infobox section begin |cont=yes |[[Shadow Cabinet]] posts
+  |titlestyle=border:1px dashed lightgrey;}}{{Infobox officeholder |embed=yes
+ |office5          = [[Shadow Secretary of State for the&nbsp;Environment]]
+ |term_start5      = 5 March 1974
+ |term_end5        = 11 February 1975
+ |leader5          = Edward Heath
+ |1blankname5      = [[wikt:shadow minister|Shadowing]]
+ |1namedata5       = [[Anthony Crosland]]
+ |predecessor5     = Anthony Crosland
+ |successor5       = [[Timothy Raison]]
+ |office6          = [[Shadow Secretary of State for Education&nbsp;and&nbsp;Science]]
+ |term_start6      = 10 January 1967
+ |term_end6        = 20 June 1970
+ |leader6          = Edward Heath
+ |1blankname6      = Shadowing
+ |1namedata6       = {{Unbulleted list
+  |Anthony Crosland
+  |[[Patrick Gordon Walker]]
+  |Edward Short}}
+ |predecessor6     = [[Richard Crossman]]
+ |successor6       = Edward Short{{Collapsed infobox section end}} }}
+ {{Collapsed infobox section begin |cont=yes |last=yes |Further offices held
+  |titlestyle=border:1px dashed lightgrey;}}{{Infobox officeholder |embed=yes
+ |order7           = 21st
+ |office7          = Chancellor of the College of William&nbsp;&amp;&nbsp;Mary
+ |term_start7      = 1 July 1993
+ |term_end7        = 1 July 2000
+ |predecessor7     = [[Warren E. Burger]]
+ |successor7       = [[Henry Kissinger]]
+ |office8          = [[List of members of the House of Lords|Member of the House of Lords]]
+ |status8          = [[Lords Temporal|Lord Temporal]]
+ |term_label8      = [[Life peer]]age
+ |term_start8      = 30 June 1992
+ |term_end8        = 8 April 2013
+ |parliament9      = United Kingdom
+ |constituency_MP9 = Finchley
+ |term_start9      = 8 October 1959
+ |term_end9        = 16 March 1992
+ |predecessor9     = [[John Crowder]]
+ |successor9       = [[Hartley Booth]]{{Collapsed infobox section end}} }}
+ |birth_name       = Margaret Hilda Roberts
+ |birth_date       = {{Birth date|df=y|1925|10|13}}
+ |birth_place      = [[Grantham, Lincolnshire]], England
+ |death_date       = {{Death date and age|df=y|2013|4|8|1925|10|13}}
+ |death_place      = [[City of Westminster|Westminster, London]], England
+ |resting_place    = [[Royal Hospital Chelsea]]
+ |resting_place_coordinates = {{Coord |51.489057| -0.156195|region:GB_type:landmark |display=inline}}
+ |party            = [[Conservative Party (UK)|Conservative]]
+ |spouse           = {{Marriage|[[Denis Thatcher]]|13 December 1951|26 June 2003|end=d}}
+ |children         = {{Hlist|[[Mark Thatcher|Mark]]|[[Carol Thatcher|Carol]]}}
+ |education        = [[Kesteven and Grantham Girls'&nbsp;School]]
+ |alma_mater       = {{Unbulleted list
+  |[[Somerville College, Oxford]]
+  |[[Inns of Court School of Law]]}}
+ |awards           = [[Honours of Margaret Thatcher|''See list'']]
+ |father           = [[Alfred Roberts]]
+ |occupation       = {{Hlist|[[Barrister]]|[[chemist]]|politician}}
+ |signature        = Signature of Margaret Thatcher.svg
+ |signature_alt    = cursive signature in ink
+ |website          = {{Official website|margaretthatcher.org|name=Foundation}}
+ }}

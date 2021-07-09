@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Tŏkch'ŏn}}
+| native_name             = {{lower|0.1em|{{nobold|덕천}}}}
+| native_name_lang        = ko
+| official_name           = 
+| settlement_type         = [[List of cities in North Korea|Municipal City]]
+|translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info    = {{linktext|덕|천|시}}
+| translit_lang1          = Korean
+| translit_lang1_type1    = [[Hancha]]
+| translit_lang1_info1    = {{linktext|德|川|市}}
+| translit_lang1_type2    = {{nowrap|[[McCune–Reischauer]]}}
+| translit_lang1_info2    = Tŏkch'ŏn-si
+| translit_lang1_type3    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3    = Deokcheon-si
+| image_skyline           = 
+| imagesize               = 
+| image_caption           = 
+| image_map               = DPRK2006 Pyongnam-Dokchon.PNG
+| mapsize                 = 270px
+| map_caption             = Map of South Pyongan showing the location of Tokchon
+| image_map1              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map             = North Korea
+| pushpin_map_caption     = Location within North Korea
+| coordinates             = {{coord|39.761|126.312|type:city|format=dms|display=title,inline}}
+| subdivision_type        = Country
+| subdivision_name        = [[North Korea]]
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[South Pyongan Province|South P'yŏngan]]
+| area_total_km2          = 
+| population_as_of        = 2008
+| population_total        = 237,133
+| population_density_km2  = 
+| population_blank1_title = Dialect
+| population_blank1       = [[Pyongan dialect|P'yŏngan]]
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 22 ''tong'', 10 ''ri''
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+}}

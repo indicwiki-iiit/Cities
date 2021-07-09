@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+| name                            = San Gabriel
+| type                            = [[List of cities and towns in California|City]]
+| official_name                   = City of San Gabriel
+| nickname                        = "Birthplace of the Los Angeles Region" <ref>{{cite web|url=https://www.sangabrielcity.com/78/History-of-San-Gabriel|title= History of San Gabriel|access-date=May 6, 2021}}</ref>
+| motto                           = "City With A [[Mission San Gabriel Arcángel|Mission]]"
+| image_skyline                   = {{Photomontage
+| photo1a                 = San Gabriel Civic Auditorium (cropped2).jpg
+| photo2a                 = Mission San Gabriel 4-15-05 6611 (cropped).JPG
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 285
+| foot_montage            = Top: [[San Gabriel Mission Playhouse]] <br /> Bottom: [[Mission San Gabriel Arcángel]]
+}}
+| image_flag                      = Flag of San Gabriel, California.gif
+| image_seal                      = Seal of San Gabriel, California.png
+| seal_size                       = 105
+| image_blank_emblem              = Logo of San Gabriel, California.jpg
+| image_map                       = LA County Incorporated Areas San Gabriel highlighted.svg
+| map_caption                     = Location of San Gabriel in [[Los Angeles County, California|Los Angeles County]], [[California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+|pushpin_map             = Los Angeles#California#USA
+|pushpin_map_alt         = 
+|pushpin_map_caption     = Location of San Gabriel in Los Angeles County, California##Location of San Gabriel in California##Location of San Gabriel in the USA
+|pushpin_label           = San Gabriel
+|pushpin_label_position  = bottom
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        =  {{flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+| leader_title1                   = [[City council]]<ref>{{cite web|url=http://www.sangabrielcity.com/index.aspx?nid=87|title=City Council|publisher= City of San Gabriel |access-date=May 1, 2019}}</ref>
+| leader_name1                    = Tony Ding ([[California Democratic Party|D]])<br/> Chin Ho Liao ([[California Democratic Party|D]]) <br/> John R. Harrington ([[Libertarian Party (United States)|L]])<br/> Denise Menchaca ([[California Democratic Party|D]]) <br/> Jason Pu ([[California Democratic Party|D]])
+| leader_title2                   = [[City manager]]
+| leader_name2                    = Mark Lazzaretto<ref>{{cite web|url=http://www.sangabrielcity.com/index.aspx?nid=138|title=Office of the City Manager|publisher=City of San Gabriel |access-date=June 21, 2019}}</ref>
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = April 24, 1913<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+| named_for                       = [[Gabriel (archangel)|Archangel Gabriel]]
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 4.15
+| area_land_sq_mi                 = 4.14
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 10.74
+| area_land_km2                   = 10.73
+| area_water_km2                  = 0.00
+| area_water_percent              = 0.02
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1656614|San Gabriel|access-date=February 19, 2015}}</ref>
+| elevation_ft                    = 420
+| elevation_m                     = 128
+<!-- Population ----------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0667042.html|title=San Gabriel (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 16, 2015|archive-url=https://web.archive.org/web/20120914155407/http://quickfacts.census.gov/qfd/states/06/0667042.html|archive-date=September 14, 2012|url-status=dead}}</ref>
+| population_total                = 39718
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 39899
+| population_density_sq_mi        = 9625.81
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| coordinates                     = {{coord|34|6|10.14|N|118|5|58.89|W|region:US-CA|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 91775, 91776, 91778<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=San%20Gabriel | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | access-date = January 18, 2007}}</ref>
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 626|626]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=San%20Gabriel | title = Number Administration System - NPA and City/Town Search Results | access-date = January 18, 2007 | archive-url = https://web.archive.org/web/20070929102641/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=San%20Gabriel | archive-date = September 29, 2007 | url-status = dead | df = mdy-all }}</ref>
+| website                         = {{URL|www.sangabrielcity.com}}
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|67042}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1656614}}, {{GNIS 4|2411787}}
+| population_density_km2          = 3716.92
+}}

@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Zsámbék
+| settlement_type        = Town
+| image_skyline          = File:Premontrei prépostsági templom romja (7623. számú műemlék).jpg
+| image_caption          = Zsámbék Premontre monastery church
+| image_shield           = 
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| map                    = [[Image:PestMegye.png|center|thumb|275px|Location of Pest County in Hungary]]
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = {{HUN}}
+| subdivision_type1      = [[Counties of Hungary|County]]
+| subdivision_name1      = [[Pest County|Pest]]
+| subdivision_type2      = [[Districts of Hungary|District]]
+| subdivision_name2      = [[Budakeszi District|Budakeszi]]
+| area_total_km2         = 
+| population_total       = 5479<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=25034 Zsámbék, KSH]</ref>
+| population_as_of       = 2017
+| population_density_km2 = auto
+| population_demonym     = zsámbéki
+| postal_code_type       = [[Postal code]]
+| postal_code            = 2072
+| area_code              = 23
+| pushpin_map            = Hungary 
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location of Zsámbék
+| pushpin_mapsize        = 
+| coordinates            = {{coord|47.548333|18.718611|region:HU|display=inline,title}}
+| blank_name             = Motorways
+| blank_info             = [[M1 motorway (Hungary)|M1]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|28.9|km|abbr=on}} East
+}}

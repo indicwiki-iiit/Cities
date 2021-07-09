@@ -1,0 +1,28 @@
+{{Infobox UK place
+ | official_name=         Lerwick  
+ | static_image_name=     Leirvick.shetland.4.jpg
+ | static_image_caption=  View of Lerwick across Bressay Sound
+ | static_image_width=    270px
+ | label_position=        left
+ | country=               Scotland
+| population = {{Scottish locality populations|name|POP=Lerwick}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ | area_total_km2       = 3.15<!--area ancient parish, because the population figure of 6958 does not include Cunningsburg, Quarff, Burra-->
+ | area_footnotes       = <ref name="Gazetteers">[http://digital.nls.uk/gazetteers-of-scotland-1803-1901/pageturner.cfm?id=97406026&mode=transcription 1901 - Ordnance gazetteer of Scotland (1065) Page 1057]</ref>
+ | population_density=   
+ | os_grid_reference=     HU474414
+ | edinburgh_distance=    {{convert|300|mi}}
+ | london_distance=       {{convert|600|mi}}
+ | coordinates = {{coord|60.155|-1.145|display=inline,title}}
+ |historic_county=
+|post_town=             SHETLAND
+ | postcode_area=         ZE 
+ | postcode_district=     ZE1
+ | dial_code=             01595
+ | constituency_westminster=   [[Orkney and Shetland (UK Parliament constituency)|Orkney and Shetland]]
+ | civil_parish=          Lerwick
+ | unitary_scotland=      [[Shetland]]
+ | lieutenancy_scotland=  [[Shetland]]
+ | constituency_scottish_parliament=    [[Shetland (Scottish Parliament constituency)|Shetland]]
+ | website =          
+}}

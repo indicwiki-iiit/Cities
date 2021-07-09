@@ -1,0 +1,24 @@
+{{Infobox Australian place
+| type          = suburb
+| name          = Cooranbong
+| city          = City of Lake Macquarie
+| state         = nsw
+| image         = 
+| caption       = 
+| lga           = City of Lake Macquarie
+| postcode      = 2265
+| pop           = 5449
+| pop_year      = {{CensusAU|2016}}
+| pop_footnotes = <ref name=abspop>{{Census 2016 AUS|id=SSC11052|name=Cooranbong (State Suburb)|accessdate=23 November 2018|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| area          = 4.5
+| est           = 1826
+| parish        = Coorumbung
+| stategov      = [[Electoral district of Lake Macquarie|Lake Macquarie]]
+| fedgov        = [[Division of Hunter|Hunter]]
+| dist1         = 6
+| dir1          = NW
+| location1     = [[Morisset, New South Wales|Morisset]]
+| dist2         = 91
+| location2     = [[Sydney]]
+| dir2          = N
+}}

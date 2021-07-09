@@ -1,0 +1,57 @@
+{{Infobox river
+| name               = Bujorul
+| name_native        = 
+| name_native_lang   = 
+| name_other         = 
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = 
+| image_size         = 
+| image_caption      = 
+| map                = 
+| map_size           = 
+| map_caption        = 
+| pushpin_map        = 
+| pushpin_map_size   = 
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[Romania]]
+| subdivision_type2  = 
+| subdivision_name2  = 
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = Counties
+| subdivision_name4  = [[Galați County]]
+| subdivision_type5  = Villages
+| subdivision_name5  = [[Jorăști|Zărnești]], [[Jorăști]], [[Târgu Bujor]]
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|30|km|abbr=on}}
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = 
+| discharge1_avg     = 
+| discharge1_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = 
+| source1_location   = 
+| source1_coordinates= 
+| source1_elevation  = 
+| mouth              = [[Chineja]]
+| mouth_location     = [[Târgu Bujor]]
+| mouth_coordinates  = {{coord|45.8594|27.9184|display=it}}
+| mouth_elevation    = 
+| progression        = {{RChineja}}
+| river_system       = 
+| basin_size         = {{convert|93|km2|abbr=on}}
+| tributaries_left   = 
+| tributaries_right  = 
+| custom_label       = River code
+| custom_data        = XIII.1.27.3
+| extra              = 
+}}

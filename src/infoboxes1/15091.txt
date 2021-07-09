@@ -1,0 +1,43 @@
+{{Infobox settlement
+|settlement_type        = Town
+|name                   = Castlebar
+|native_name             = {{Pad top italic|Caisleán an Bharraigh}}
+|image_skyline =
+{{Photomontage
+| photo1a = The_Mall_Castlebar.jpg
+| photo2a = Market_Street_Castlebar.jpg
+| photo2b = Mayo_Peace_Park_Castlebar_Ireland.jpg
+| photo4a = Lough_Lannagh_Bridge_Castlebar.jpg
+| position = center
+}}
+|image_caption          = A montage of Castlebar. From top: The Mall, Market Street, Lough Lannagh Bridge viewing towards [[Croagh Patrick]].
+|image_shield           = Castlebar Coat of Arms.png
+|shield_size            = 155px
+|motto = Ar Aghaidh<br/>(Meaning: ''Forward'')
+|pushpin_map            = Ireland
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Ireland
+|coordinates            = {{coord|53.8608|-9.29880|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|M146905}}
+|population_as_of       = 2016
+|population             = 12,068
+|population_footnotes   = <ref name="census2016">{{cite web|url = http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=9396D478-6852-45A1-BBAB-C11696D4BBAA | publisher = Central Statistics Office | work = Census 2016 | title = Sapmap Area - Settlements - Castlebar | date = April 2016 | access-date = 8 September 2019 }}</ref>
+|subdivision_type       = Country
+|subdivision_name       = Ireland
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Connacht]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[File:County Mayo coat of arms.png|20px]][[County Mayo]]
+|unit_pref              = Metric
+|elevation_m            = 49
+|website                = {{URL|www.castlebar.ie}}
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)94
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =F23
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}

@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| official_name = Tabriz
+| native_name = تبریز
+| native_name_lang = fa
+| settlement_type = City
+| image_skyline = {{Photomontage
+ |photo1a = Panorama_of_Tabriz.jpg
+ |photo2a = Tabriz Municipality.jpg
+ |photo2b = Arg1.jpg
+ |photo3a = El Gölü (Şah Gölü) - panoramio.jpg
+ |photo3b = Maqbaratoshoara 4.JPG
+ |photo4a = Mozaffariyeh, Grand Bazzar of Tabriz, IRAN.jpg
+ |photo4b = Blue mosque tabriz 3.JPG
+ | spacing = 2
+ |size = 280
+ }}
+| image_caption = Clockwise from top: Skyline of the city, Arg-e Tabriz, [[Maqbaratoshoara|Mausoleum of Poets]], [[Blue Mosque, Tabriz|Blue Mosque]], [[Bazaar of Tabriz]], [[El-Gölü]] and [[Tabriz Municipality Palace]].
+| image_flag =
+| flag_size =
+| image_seal = Tabriz government logo.svg
+| seal_size = 120px
+| image_shield =
+| shield_size =
+| nickname = [[City of Firsts]]
+| motto =
+| image_map =
+| mapsize =
+| map_caption =
+| pushpin_map = Iran <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_mapsize = 
+| pushpin_map_caption =
+| pushpin_relief = 1
+<!-- Location ------------------>
+| coordinates = {{coord|38|04|N|46|18|E|region:IR|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name = [[Iran]]
+| subdivision_type1 = [[Regions of Iran|Region]]
+| subdivision_type2 = [[Provinces of Iran|Province]]
+| subdivision_type3 = [[Counties of Iran|County]]
+| subdivision_type4 = [[Bakhsh|District]]
+| subdivision_name1 = [[Region 3, Iran|3]]
+| subdivision_name2 = [[East Azerbaijan Province]]
+| subdivision_name3 = [[Tabriz County]]
+| subdivision_name4 = [[Central District (Tabriz County)|Central]]
+<!-- Politics ----------------->
+| established_title =
+| established_date =
+| government_footnotes =
+| leader_title = [[Mayor of Tabriz|Mayor]]
+| leader_name = [[Iraj Shahin-Baher]]
+| leader_title1 = [[City Council of Tabriz|Chairman of City Council]]
+| leader_name1 = [[Shakur Akbarnejad]]
+| leader_title2 = [[Tabriz, Osku and Azarshahr (electoral district)|Parliament]]
+| leader_name2 = [[Ahmad Alirezabeighi|Alirezabeighi]], [[Zahra Saei|Saei]], [[Mohammad Hosein Farhanghi|Farhanghi]], [[Shahabaddin Bimegdar|Bimegdar]], [[Masoud Pezeshkian|Pezeshkian]] & [[Mohammad Esmaeil Saeidi|Saeidi]]
+<!-- Area --->
+| unit_pref = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes =
+| area_magnitude =
+| area_total_km2 = 325
+| area_land_km2 =
+| area_water_km2 =
+| area_water_percent =
+| area_urban_km2 = 512
+| area_metro_km2 = 1500
+| elevation_footnotes = <!--for references: use<ref></ref> tags-->
+| elevation_m = 1351.4
+| elevation_ft = 
+| population_urban = 1,558,693<ref>{{Cite web | url=https://www.amar.org.ir/english | title=Statistical Center of Iran > Home}}</ref>
+| population_metro = 1,773,023<ref>{{cite web |website=citypopulation.de |archive-url=https://web.archive.org/web/20180913144137/http://citypopulation.de/world/Agglomerations.html |url=http://citypopulation.de/world/Agglomerations.html |archive-date=2018-09-13 |title=Major Agglomerations of the World - Population Statistics and Maps |date=2018-09-13}}</ref>
+| population_as_of = 2016 Census
+| population_est =
+| population_est_as_of =
+| population_footnotes =
+| population_density_km2 = auto
+| population_density_sq_mi = auto
+| population_density_urban_km2 =
+| population_blank1_title = Rank
+| population_blank1 = [[List of Iran cities by population|6th in Iran]]
+| population_demonym = Tabrizian, Tabrizli, Tabrizi
+<!-- Area/postal codes & others -------->
+| postal_code_type = [[Postal code]]
+| postal_code = 51368
+| area_code = 041
+| website = [https://tabriz.ir/ Tabriz municipality]
+| timezone = [[Iran Standard Time|IRST]]
+| utc_offset = +3:30
+| timezone_DST = [[Iran Standard Time|IRDT]]
+| utc_offset_DST = +4:30
+}}

@@ -1,0 +1,30 @@
+{{Infobox settlement
+| name                   = Atarib
+| native_name            = أتارب
+| native_name_lang       = ar
+| type                   = Town
+| pushpin_map            = Syria
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location of Atarib in Syria
+| coordinates            = {{coord|format=dms|display=inline}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Syria}}
+| subdivision_type1       = [[Governorates of Syria|Governorate]]
+| subdivision_name1       = [[Aleppo Governorate|Aleppo]]
+| subdivision_type2       = [[Districts of Syria|District]]
+| subdivision_name2       = [[Atarib District|Atarib]]
+| subdivision_type3       = [[Nahiyah|Subdistrict]]
+| subdivision_name3       = [[Nahiya Atarib|Atarib]]
+| elevation_m             = 310
+| population              = 10,657
+| population_density_km2  = auto
+| population_as_of        = 2004
+| population_footnotes    = {{#tag:ref|{{cite web |title=2004 Census Data for ''Nahiya Atarib'' |url=http://www.cbssyr.sy/new%20web%20site/General_census/census_2004/NH/TAB02-2-2004.htm |publisher=Syrian [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] |language=ar |access-date=2016-09-08 |archive-date=2014-03-04 |archive-url=https://web.archive.org/web/20140304202440/http://cbssyr.sy/new%20web%20site/General_census/census_2004/NH/TAB02-2-2004.htm |url-status=dead }} Also available in English: {{cite web |author=UN OCHA |author-link=United Nations Office for the Coordination of Humanitarian Affairs |title=2004 Census Data |url=https://data.humdata.org/dataset/syrian-arab-republic-other-0-0-0-0-0-0-0 |publisher=Humanitarian Data Exchange }}|name=census2004}}
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| geocode                 = C1022
+| website                 = 
+}}

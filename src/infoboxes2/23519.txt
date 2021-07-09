@@ -1,0 +1,65 @@
+{{Infobox settlement
+| official_name        = Maysville, Kentucky
+| settlement_type      = [[list of Kentucky cities|City]]
+| nickname             = 
+| motto                = <!-- Images -->
+| image_skyline        = Skyline of Maysville, Kentucky (2007).jpg
+| imagesize            = 250px
+| image_caption        = Maysville, [[Kentucky]], skyline showing the [[Mason County, Kentucky|Mason County]] Courthouse, and the [[Simon Kenton Memorial Bridge]] which spans the [[Ohio River]].
+| image_flag           = 
+| image_seal           = <!-- Maps -->
+| image_map            = File:Mason County Kentucky Incorporated and Unincorporated areas Maysville Highlighted 2151024.svg
+| mapsize              = 250px
+| map_caption          = Location of Maysville in Mason County, Kentucky.
+| image_map1           = 
+| mapsize1             = 
+| map_caption1         = <!-- Location -->
+| subdivision_type     = Country
+| subdivision_name     = United States
+| subdivision_type1    = [[U.S. state|State]]
+| subdivision_name1    = [[Kentucky]]
+| subdivision_type2    = [[List of counties in Kentucky|County]]
+| subdivision_name2    = [[Mason County, Kentucky|Mason]]
+| government_footnotes = 
+| government_type      = 
+| leader_title         = Mayor
+| leader_name          = Charles T Cotterill
+| established_title    = 
+| established_date     = 
+<!-- Area -->
+| unit_pref            = Imperial
+| area_footnotes       = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+| area_total_sq_mi     = 21.35
+| area_land_sq_mi      = 18.97
+| area_water_sq_mi     = 2.38
+<!-- Population -->
+| population_as_of     = [[2010 United States Census|2010]]
+| population_footnotes = 
+| population_total     = 9011
+| population_density_sq_mi = 460.00
+<!-- General information -->
+| timezone             = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset           = -5
+| timezone_DST         = EDT
+| utc_offset_DST       = -4
+| elevation_footnotes  = 
+| elevation_ft         = 541
+| coordinates          = {{coord|38|38|38|N|83|46|33|W|region:US-KY|display=inline,title}}
+| postal_code_type     = [[ZIP code]]
+| postal_code          = 41056
+| area_code            = [[Area code 606|606]] Exchanges: 563, 564, 759
+| blank_name           = [[Federal Information Processing Standard|FIPS code]]
+| blank_info           = 21-51024
+| blank1_name          = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info          = 0517025
+| website              = {{URL|http://www.cityofmaysville.com}}
+| footnotes            = 
+| pop_est_as_of        = 2019
+| pop_est_footnotes    = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est       = 8728
+| name                 = 
+|area_total_km2 = 55.30
+|area_land_km2 = 49.14
+|area_water_km2 = 6.16
+|population_density_km2 = 177.61
+}}

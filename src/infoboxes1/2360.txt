@@ -1,0 +1,72 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kenema, Sierra Leone
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Kenema.jpg
+|imagesize              = 
+|image_caption          = Kenema clocktower
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Sierra Leone <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Sierra Leone
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Sierra Leone.svg|25px]] [[Sierra Leone]]
+|subdivision_type1      = [[Provinces of Sierra Leone|Province]]
+|subdivision_name1      = [[Eastern Province, Sierra Leone|Eastern Province]]
+|subdivision_type2      = [[Districts of Sierra Leone|District]]
+|subdivision_name2      = [[Kenema District]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = [[City Council]]
+|leader_title           = [[Mayor]]
+|leader_name            = [[Thomas Karimu Baio]][https://electiondata.io/elected-officials/mayor]([[Sierra Leone People's Party|SLPP]])
+|leader_title1          = Deputy Mayor
+|leader_name1           = Esther Kaisamba (SLPP)<ref>{{Cite web | url=http://awoko.org/2013/07/03/sierra-leone-badrudeen-mission-builds-mosque-for-prison-barrack/ |title = Sierra Leone: Badrudeen Mission builds Mosque for Prison Barrack|date = 2013-07-03}}</ref>
+|leader_title3          = Governing Body
+|leader_name3           = Kenema City Council
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         = 
+|area_total_km2         = 
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+<!-- Population   ----------------------->
+|population_as_of       = 2015 census
+|population_footnotes   = <ref>{{Cite web | url=http://www.citypopulation.de/php/sierraleone-admin.php?adm1id=12 |title = Kenema (District, Sierra Leone) - Population Statistics, Charts, Map and Location}}</ref>
+|population_note        = 
+|population_total       = 200,354
+<!-- General information  --------------->
+|timezone = GMT
+|utc_offset = ±0 
+|timezone_DST           = 
+|coordinates            = {{coord|7|52|33|N|11|11|27|W|region:SL|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> tags-->
+|elevation_m            = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 
+|area_code              = 
+|website                = 
+|footnotes              = 
+}}

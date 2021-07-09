@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                            = Crofton, Maryland
+| official_name                   = 
+| settlement_type                 = [[Census-designated place]]
+| image_skyline                   = Crofton Parkway spring.JPG
+| imagesize                       = 300px
+| image_caption                   = Crofton Parkway
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_map                       = Anne_Arundel_County_Maryland_Incorporated_and_Unincorporated_areas_Crofton_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Crofton, Maryland
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| coordinates                     = {{coord|39|0|15|N|76|41|18|W|region:US-MD_type:city|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flagu|United States|size=23px}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Maryland|County]]
+| subdivision_name1               = {{flag|Maryland|size=23px}}
+| subdivision_name2               = {{flagicon image|Flag of Anne Arundel County, Maryland.png|size=23px}} [[Anne Arundel County, Maryland|Anne Arundel]]
+| established_title               = Founded
+| established_date                = 1964
+
+<!-- Area -->| government_footnotes            = 
+| government_type                 = [[Town Hall]]
+| leader_title                    = Mayor
+| leader_name1                    = Alexander Wolsky
+| unit_pref                       = Imperial
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = 17.1
+| area_total_sq_mi                = 
+| area_land_km2                   = 17.1
+| area_land_sq_mi                 = 
+| area_water_km2                  = 5.5
+| area_water_sq_mi                = <!-- Population -->
+| elevation_footnotes             = 
+| elevation_m                     = 30
+| elevation_ft                    = 98
+| population_total                = 27348
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="Census 2010-DP-1">{{cite web
+ |title=DP-1 – Profile of General Population and Housing Characteristics: 2010 
+ |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table
+ |archive-url=https://archive.today/20190521214830/https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_DP_DPDP1&prodType=table
+ |url-status=dead
+ |archive-date=May 21, 2019
+ |publisher=[[United States Census Bureau]] 
+ |work=[[2010 United States Census]] Summary File 1 
+ |access-date=September 6, 2011 
+ }}</ref>
+| population_density_km2          = 1596.6
+| population_density_sq_mi        = <!-- General information -->
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 21114
+| area_code                       = [[Area codes 410, 443, and 667|410, 443, and 667]]
+| unemployment_rate               = 
+| website                         = {{website|www.cityofcrofton.org/}}
+| footnotes                       = 
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 24-20875
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0590046
+}}

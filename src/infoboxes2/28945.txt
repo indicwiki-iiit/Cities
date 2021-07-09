@@ -1,0 +1,20 @@
+{{Infobox airport
+| name         = Cangamba Airport
+| IATA         = CNZ
+| ICAO         = 
+| type         = Public
+| city-served  = Cangamba
+| location     = Angola
+| elevation-f  = 3894
+| elevation-m  = 
+| coordinates  = {{coord|13|42|33.8|S|19|51|37.3|E|region:AO_type:airport|name=Cangamba Airport (Cangamba)|display=inline,title}}
+| pushpin_map  = Angola
+| pushpin_label= CNZ
+| pushpin_map_caption = Location of Cangamba Airport in Angola
+| r1-number = 16/34
+| r1-length-f = 
+| r1-length-m = 2,158
+| r1-surface  = Dirt
+| metric-rwy   = y
+| footnotes  = Source: Great Circle Mapper<ref name="GCM">{{GCM|CNZ}}</ref> Landings.com<ref name="Landings">{{cite web|url=http://aerobaticsweb.org/cgi-bin/search_apt?CNZ|title=CNZ @ aerobaticsweb.org|publisher= Landings.com|accessdate=2013-07-31}}</ref> Google Maps<ref>[https://www.google.com/maps/@-13.7087765,19.8598779,3694m/data=!3m1!1e3 Google Maps - Cangamba]</ref>
+}}

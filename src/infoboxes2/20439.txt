@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+|official_name            = City of Red Bluff
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto = "A Great Place To Live"
+<!-- images and maps  ----------->
+|image_skyline            = Odd Fellows Building in Red Bluff.jpg
+|image_caption            = Odd Fellows Building in downtown Red Bluff (2020)
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_map                = Tehama County California Incorporated and Unincorporated areas Red Bluff Highlighted.svg
+|mapsize                  = 
+|map_caption              = Location in [[California]] ''(left)'' and [[Tehama County, California|Tehama County]] ''(right)'' 
+| pushpin_map             = USA#California
+| pushpin_map_caption = Location in the United States
+| pushpin_relief          = 1
+<!-- Location ------------------>
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Tehama County, California|Tehama]]
+<!-- Politics ----------------->
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = March 31, 1876<ref>{{Cite web |url = http://www.calafco.org/docs/Cities_by_incorp_date.doc |title = California Cities by Incorporation Date |format = Word |publisher = California Association of [[Local Agency Formation Commission]]s |access-date = August 25, 2014 |url-status = dead |archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date = November 3, 2014 }}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 7.67
+| area_land_sq_mi         = 7.56
+| area_water_sq_mi        = 0.11
+| area_total_km2          = 19.88
+| area_land_km2           = 19.58
+| area_water_km2          = 0.30
+| area_water_percent      = 1.48
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277581|Red Bluff|access-date=November 20, 2014}}</ref>
+|elevation_ft             = 305
+|elevation_m              = 93
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web |url = http://quickfacts.census.gov/qfd/states/06/0659892.html |title = Red Bluff (city) QuickFacts |publisher = [[United States Census Bureau]] |access-date = February 9, 2015 |url-status = dead |archive-url = https://web.archive.org/web/20120125005113/http://quickfacts.census.gov/qfd/states/06/0659892.html |archive-date = January 25, 2012 |df = mdy-all }}</ref>
+|population_total         = 14076
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 14539
+|population_density_sq_mi = 1922.89
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban_footnotes       = {{Citation needed|date=February 2015}}
+|population_urban                 = 18434
+|population_density_urban_km2     = auto
+|population_density_urban_sq_mi   = auto
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|coordinates              = {{coord|40|10|36|N|122|14|17|W|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 96080
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 530|530]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|59892}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277581}}, {{GNIS 4|2411527}}
+|website                  = {{Official website}}
+|population_density_km2   = 742.43
+}}

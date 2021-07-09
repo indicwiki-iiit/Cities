@@ -1,0 +1,125 @@
+{{Infobox settlement
+
+<!-- Basic info  ---------------->
+|official_name          = Chiredzi
+|other_name             =north
+|native_name            =
+|nickname               = Chilaz
+|settlement_type        = Town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =
+|imagesize              = 300px
+|image_caption          = Main Street, Chiredzi
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = Chiredzi logo.jpg
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Zimbabwe
+|pushpin_label_position =
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Zimbabwe}}
+|subdivision_type1      = [[Provinces of Zimbabwe|Province]]
+|subdivision_name1      = [[Masvingo (Zimbabwe)|Masvingo]]
+|subdivision_type2      = [[Districts of Zimbabwe|District]]
+|subdivision_name2      = [[Chiredzi (District)|Chiredzi]]
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Established
+|established_date       = late 1950s. 1st July 1967 Rural Council established.
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+
+<!-- Population   ----------------------->
+|population_as_of               = 2012 Census
+|population_footnotes           =<ref name=census2012>{{cite web |url=http://www.zimstat.co.zw/population-census-vital |title=2012 Census Provincial Report: Masvingo |author=Zimbabwe National Statistics Agency |accessdate=24 May 2018 |archive-url=https://web.archive.org/web/20180519165224/http://www.zimstat.co.zw/population-census-vital |archive-date=19 May 2018 |url-status=dead }}</ref>
+|population_note                = estimated
+|population_total               = 30197
+|population_est                 = 30430
+|pop_est_as_of                  = 2010
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone = [[Central Africa Time|CAT]]
+|utc_offset = +2
+|timezone_DST = 
+|utc_offset_DST = 
+|coordinates            = {{coord|21|02|20|S|31|40|40|E|region:ZW|display=inline,title}}
+|elevation_footnotes    =
+|elevation_m            = 438
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =
+|postal_code            =
+|area_code              = 031
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+|blank1_name            =
+|blank1_info            =
+|website                = {{URL | http://www.chiredzi.co.zw/}}
+|footnotes              =
+}}

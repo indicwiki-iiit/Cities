@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Quilpué
+| native_name             = 
+| native_name_lang        = es
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = Montaje de Quilpué.jpg
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| image_shield            = Escudo de Quilpué.svg
+| shield_alt              = Coat of arms
+| nickname                = "City of the Sun" (''Ciudad del Sol'')
+| image_map               = Comuna de Quilpué.svg
+| map_alt                 = Map of the Quilpué commune in the Valparaíso Region
+| map_caption             = 
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = Location in Chile
+| pushpin_map_caption     = Location in Chile
+| coordinates             = {{coord|33|03|S|71|27|W|region:CL-VL|display=inline,title}}
+| coor_pinpoint           = city
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Chile]]
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = [[Valparaíso Region|Valparaíso]]
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[Marga Marga Province|Marga Marga]]
+| established_title       = Founded
+| established_date        = 1898
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = <ref name="Official">{{Cite web |url=http://www.quilpue.cl/ |title=Municipality of Quilpué|access-date=28 July 2010|language=es}}</ref>
+| government_type         = [[Municipality]]
+| leader_title            = [[Alcalde]]
+| leader_name             = Valeria Melipillán
+| leader_party            = [[Social Convergence]]
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 536.9
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 141
+| population_footnotes    = 
+| population_total        = 151708
+| population_as_of        = 2017 Census
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+| timezone = [[Time in Chile|CLT]]<ref>{{cite web|url=http://www.world-time-zones.org/zones/chile-time.htm |access-date=2010-07-28 |title=Chile Time |publisher=WorldTimeZones.org |url-status=dead |archive-url=https://web.archive.org/web/20070911130719/http://www.world-time-zones.org/zones/chile-time.htm |archive-date=September 11, 2007 }}</ref>
+| utc_offset = -4
+| timezone_DST = [[Time in Chile|CLST]]<ref>{{cite web|url=http://www.world-time-zones.org/zones/chile-summer-time.htm |access-date=2010-07-28 |title=Chile Summer Time |publisher=WorldTimeZones.org |url-status=dead |archive-url=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm |archive-date=September 11, 2007 }}</ref>
+| utc_offset_DST = -3
+| postal_code_type        = Postal code
+| postal_code             = 24300000
+| area_code_type          = 
+| area_code               = +56 32
+| iso_code                =
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Mediterranean climate#Warm-summer mediterranean climate|Csb]] 
+| website                 = [http://www.quilpue.cl/ Official website] {{in lang|es}}
+| footnotes               = 
+}}

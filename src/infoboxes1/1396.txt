@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Oued Zem
+|native_name            =  ⵡⴻⵙ ⵣⴻⵎ <br />وادي زم
+|other_name             = City of Martyrs
+|settlement_type        =City, Town
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|nickname               =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = شارع الدار البيضاء.jpg
+| photo2a = بحيرة وادي زم.jpg
+| photo2b = Ait ammar maroc.jpg
+| photo4a = Lac de Oued zem.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position =bottom
+|pushpin_mapsize=300
+|pushpin_map_caption    =
+|coordinates            = {{coord|32|52|N|6|34|W|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = [[Morocco]]
+|subdivision_type1      = [[Regions of Morocco|Region]] 
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_type3      = 
+|subdivision_name1      =[[Béni Mellal-Khénifra]]
+|subdivision_name2      =[[Khouribga Province|Khouribga]]
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|population_total               =100503
+|population_as_of               = 2020
+|population_footnotes           =<ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_density_km2         =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =25350
+|area_code              =
+|footnotes              = 
+|timezone               = [[Western European Time|WET]] 
+|utc_offset             =  +0
+|timezone_DST           = [[Western European Summer Time|WEST]]
+|utc_offset_DST         = +212
+|blank_name             =
+|blank_info             =
+}}

@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name = Oakland, California
+| official_name                   = City of Oakland
+<!-- Images and maps ------>
+| settlement_type = [[City (California)|City]]
+| image_skyline                   = OAKLAND, CA, USA - Skyline and Bridge.JPG
+| imagesize                       = 300px
+| image_caption                   = Oakland skyline, with the eastern span of the [[San Francisco–Oakland Bay Bridge]] in background
+| image_flag                      = Flag of Oakland, California.svg
+| image_seal                      = Seal of Oakland, California.png
+| image_shield                    = Logo of Oakland, California.png
+| image_blank_emblem              = Logo of Oakland, California.svg
+| blank_emblem_link               = Wordmark
+| blank_emblem_type               = Wordmark
+| nickname                        = "Oaktown",<ref>{{cite news|url=http://articles.latimes.com/1992-11-22/entertainment/ca-1810_1_east-bay-area|title=The New Motown : Call it 'Oaktown.' It's funky, it's thriving. It's definitely not L.A. or New York. And it just may be the Hip-Hop Capital of America|first=TOM|last=SCANLON|date=November 22, 1992|newspaper=Los Angeles Times}}</ref> "The Town"
+| motto                           = "Love life"<ref>{{cite web|url=http://www.sfchronicle.com/bayarea/article/Debate-over-Oakland-motto-exposes-racial-divide-7252045.php|title=Debate over Oakland motto exposes racial divide, identity crisis|date=April 16, 2016|work=sfchronicle.com}}</ref>
+| image_map                       = Alameda County California Incorporated and Unincorporated areas Oakland Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location in [[Alameda County, California|Alameda County]] and the U.S. state of California
+| pushpin_map                     = California#USA
+| pushpin_map_caption             = Location within California##Location within the United States
+| pushpin_label                   = Oakland
+<!-- Location ------------->
+| coordinates = {{coord|37|48|16|N|122|16|15|W|region:US-CA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_type3               = [[List of regions of California|Region]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[Alameda County, California|Alameda]]
+| subdivision_name3               = [[San Francisco Bay Area]]
+<!-- History -------------->
+| established_title = [[Municipal corporation|Incorporated]]
+| established_date                = May 4, 1852<!-- Either May 4, 1852 (incorporation passed), or March 25, 1854 (incorporation approved) --><ref>{{cite web
+|url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+|title=California Cities by Incorporation Date 
+|format=Word 
+|publisher=California Association of [[Local Agency Formation Commission]]s 
+|access-date=March 27, 2013 
+|url-status=dead 
+|archive-url=https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+|archive-date=February 21, 2013 
+}}</ref><ref name="baker_incorporation_date"/>
+| named_for = The large oak forest that originally covered the area<ref name="ancestry1932"/>
+<!-- Government ----------->
+| government_type = [[Mayor-council government|Strong mayor]]<ref>{{cite web
+| url = http://www2.oaklandnet.com/Government/o/ElectedOfficials/index.htm
+| title = Elected Officials
+| publisher = City of Oakland, California
+| access-date = January 31, 2015}}</ref>
+| leader_title                    = [[List of mayors of Oakland, California|Mayor]]
+| leader_name                     = [[Libby Schaaf]] ([[Democratic Party (United States)|D]])<ref>{{cite web
+| url = http://www2.oaklandnet.com/Government/o/Mayor/index.htm
+| title = Mayor
+| publisher = City of Oakland, California
+| access-date = January 8, 2015}}</ref>
+| leader_title1                   = [[California's 9th State Senate district|State senator]]
+| leader_name1                    = {{Representative|casd|9|fmt=sleader}}<ref name=SSenate>{{cite web
+|url=http://senate.ca.gov/senators
+|title=Senators
+|access-date=March 18, 2013
+|publisher=State of California}}</ref>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 201.74
+| area_total_sq_mi                = 77.89
+| area_land_km2                   = 144.80
+| area_land_sq_mi                 = 55.91
+| area_water_km2                  = 56.94
+| area_water_sq_mi                = 21.98
+| area_water_percent              = 28.48
+<!-- Elevation ------------>
+| elevation_footnotes = <ref>{{Cite GNIS|277566|Oakland}}</ref>
+| elevation_ft                    = 43
+<!-- Population ----------->
+| population_total = 440,981
+| population_as_of                = [[2021 United States Census|2021]]
+| population_footnotes            = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0653000.html|title=Oakland (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 7, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120807074645/http://quickfacts.census.gov/qfd/states/06/0653000.html|archive-date=August 7, 2012|df=mdy-all}}</ref>
+| population_density_sq_mi        = 7745.42
+| population_est                  = 433031
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_rank                 = [[Alameda County, California|1st]] in Alameda County<br/>[[List of largest California cities by population|8th]] in California<br/>[[List of United States cities by population|45th]] in the United States
+| population_demonym              = Oaklander
+<!-- Time zones ----------->
+| postal_code_type = [[ZIP Code]]s
+| postal_code                     = 94601–94615, 94617-94624, 94649, 94659–94662, 94666<ref>{{cite web |title=Zip Code Lookup |url=https://tools.usps.com/zip-code-lookup.htm?bycitystate |website=USPS |access-date=11 April 2020}}</ref>
+| area_code                       = [[Area codes 510 and 341|510/341]]
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| website                         = {{URL|https://www.oaklandca.gov}}<br/><ref>{{cite web |url=https://medium.com/oaklanddesigndigest/in-photos-goodbye-oaklandnet-com-be034d9b1411 |title=In Photos: Goodbye, Oaklandnet.com |work=City of Oakland |date=April 20, 2018 |access-date=2018-10-01}}</ref><ref>{{cite web |url=https://medium.com/oaklanddesigndigest/hello-oaklandca-gov-b93eec74fff2 |title=Hello, Oaklandca.gov! |work=City of Oakland |date=April 23, 2018 |access-date=2018-10-01}}</ref><ref>"[http://oaklandnet.com oaklandnet.com]" was the past official website before April 2018, on which date the domain was [[HTTP 301|permanently moved]] to "[https://oaklandca.gov oaklandca.gov]".</ref>
+| leader_title2                   = [[California State Assembly|Assemblymembers]]
+| leader_name2                    = {{Representative|caad|15|fmt=sleader}} and<br/>{{Representative|caad|18|fmt=sleader}}<ref name=SAssembly>{{cite web
+|url=http://assembly.ca.gov/assemblymembers
+|title=Members Assembly
+|access-date=March 18, 2013
+|publisher=State of California}}</ref>
+| leader_title4                   = [[California's 13th congressional district|U. S. rep.]]
+| leader_name4                    = {{Representative|cacd|13|fmt=usleader}}<ref name="California">{{Cite GovTrack|CA|13|access-date=March 9, 2013}}</ref>
+<!-- Area------------------>
+| timezone = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = – 08:00
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = – 07:00
+<!-- Codes ---------------->
+| blank_name = [[Federal Information Processing Standards|FIPS]] code
+| blank_info                      = {{FIPS|06|53000}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS4|277566}}, {{GNIS4|2411292}}
+| population_density_km2          = 2990.53
+}}

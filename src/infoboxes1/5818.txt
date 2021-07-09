@@ -1,0 +1,31 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Longchang}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|隆昌市}}}}}}
+|pushpin_map = Sichuan
+|pushpin_map_caption = Location in Sichuan
+|pushpin_mapsize = 220
+|settlement_type = [[County-level city]]
+|image_skyline = LongChang.JPG
+|imagesize = 220px
+|image_caption = home of memorial arch
+|image_map = 
+|map_caption =
+| subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Provinces of China|Province]]
+|subdivision_name1 = [[Sichuan]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Neijiang]]
+|area_total_km2 = 792
+|population = 
+|population_as_of = 
+|population_density_km2 = auto
+|population_total = 760000
+|coordinates = {{coord|29|20|22|N|105|17|15|E|region:CN-51_type:adm3rd|display=it}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website = {{URL|www.longchang.gov.cn/}}
+}}

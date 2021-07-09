@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Wailuku, Hawaii
+|other_name               =
+|native_name              =  <!-- for cities whose native name is not in English -->
+|nickname                 =
+|settlement_type          = [[Census-designated place]]
+|motto                    =
+<!-- images and maps  ----------->
+|image_skyline            = WailukuTownShot.JPG
+|imagesize                = 300px
+|image_caption            = Wailuku, looking from the [[List of bridges on the National Register of Historic Places in Hawaii|Wai'ale Drive Bridge]] towards [[Iao Valley|ʻĪao Valley]].
+|image_flag               =
+|flag_size                =
+|image_seal               =
+|seal_size                =
+|image_shield             = 
+|shield_size              =
+|image_blank_emblem       =
+|blank_emblem_type        =
+|blank_emblem_size        =
+|image_map                = Maui County Hawaii Incorporated and Unincorporated areas Wailuku Highlighted.svg
+|mapsize                  =
+|map_caption              = Location in [[Maui County, Hawaii|Maui County]] and the state of [[Hawaii]]
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+|image_dot_map            =
+|dot_mapsize              =
+|dot_map_caption          =
+|dot_x                    = 
+|dot_y                    =
+|pushpin_map              = Hawaii
+|pushpin_label = Wailuku
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location in Hawaii
+|pushpin_mapsize          =
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Hawaii]]
+|subdivision_type2        = [[List of counties in Hawaii|County]]
+|subdivision_name2        = [[Maui County, Hawaii|Maui]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        =
+<!-- Politics ----------------->
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|leader_title2            =
+|leader_name2             =
+|leader_title3            =
+|leader_name3             =
+|leader_title4            =
+|leader_name4             =
+|established_title        =
+|established_date         =
+|established_title2       =  <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       =  <!-- Incorporated (city) -->
+|established_date3        =
+<!-- Area    --------------------->
+|area_magnitude           =
+|unit_pref                = 
+|area_footnotes           =
+|area_total_km2           = 14.8
+|area_land_km2            = 13.8
+|area_water_km2           = 1.1
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     =
+|population_note          =
+|population_total         = 15313
+|population_density_km2   = auto
+|population_density_sq_mi = 
+|population_metro                =
+|population_density_metro_km2    =
+|population_density_metro_sq_mi  =
+|population_urban                =
+|population_density_urban_km2    =
+|population_density_urban_sq_mi  =
+|population_blank1_title         =
+|population_blank1               =
+|population_density_blank1_km2   = 
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone                 = [[Hawaii-Aleutian Standard Time Zone|Hawaii-Aleutian]]
+|utc_offset               = -10
+|timezone_DST             =
+|utc_offset_DST           =
+|coordinates              = {{coord|20|53|31|N|156|30|8|W|region:US-HI|display=inline,title}}
+|elevation_footnotes      =
+|elevation_m              = 76
+|elevation_ft             = 249
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 96793
+|area_code                = [[Area code 808|808]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 15-77450
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0364757
+|website                  =
+|footnotes                =
+}}

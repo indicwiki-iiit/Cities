@@ -1,0 +1,89 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = Haverstraw, New York
+|nickname               = 
+|settlement_type        = [[Administrative divisions of New York#Town|Town]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Haverstraw NY Skyline.JPG
+|imagesize              = 
+|image_caption          = Skyline
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map              = Rockland County New York incorporated and unincorporated areas Haverstraw highlighted.svg
+|mapsize                = 260px
+|map_caption            = Location in [[Rockland County, New York|Rockland County]] and the state of [[New York (state)|New York]].
+|pushpin_map            = New York <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = top <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Haverstraw in New York
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|coordinates            = {{coord|41|11|47|N|73|58|01|W|region:US-NY|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = United States
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = [[New York (state)|New York]]
+|subdivision_type2      = [[County (United States)|County]]
+|subdivision_name2      = [[Rockland County, New York|Rockland]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Supervisor
+|leader_name            = Howard T. Phillips Jr.
+|leader_title1          = Town Council
+|leader_name1           = Isidro Cancel, Vincent J. Gamboli, John J. Gould, and Hector L. Soto
+|established_title      = Settled
+|established_date       = 1616
+|established_title1     = Established
+|established_date1      = 1788
+
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+<!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_total_km2           = 71.00
+<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = 57.38
+<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           = 13.63
+|area_total_sq_mi         = 27.41
+|area_land_sq_mi          = 22.15
+|area_water_sq_mi         = 5.26
+|area_water_percent       = 
+<!-- Elevation -------------------------->
+|elevation_footnotes      =  <!--for references: use<ref> tags-->
+|elevation_m              = 
+|elevation_ft             = 
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR8">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2011-05-14|title=U.S. Census website}}</ref>
+|population_note          = 
+|population_total         = 36634
+|population_est           = 37414
+|pop_est_as_of            = 2016
+|population_density_km2   = 652.05
+|population_density_sq_mi = 1688.81
+<!-- General information  --------------->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code              = 
+|area_code                = 
+|website                  = [http://www.townofhaverstraw.org/ www.townofhaverstraw.org]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 36-087-32765
+}}

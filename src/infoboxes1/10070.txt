@@ -1,0 +1,38 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Zonguldak
+|settlement_type = [[Municipality]]
+| image_skyline           = Zonguldak 51.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey #Europe #Asia #Earth
+|pushpin_relief           = 1
+| coordinates             = {{coord|41|27|23|N|31|47|55|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Zonguldak Province|Zonguldak]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Ömer Selim Alan
+
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Zonguldak|Zonguldak}}
+| elevation_m             = 60
+| population_footnotes    = {{Turkey district populations|SOURCE|Zonguldak}}
+| population_urban        = {{Turkey district populations|Zonguldak|Zonguldak|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Zonguldak|Zonguldak|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Oceanic climate|Cfb]]
+| postal_code_type        = Postal code
+| postal_code             = 67 000
+| area_code               = (+90) 372
+| registration_plate      = 67
+| website                 = {{URL|www.zonguldak.bel.tr}}
+}}

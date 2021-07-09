@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = {{raise|0.2em|Dangyang}}
+| official_name = <!-- Official name in English if different from 'name' -->
+| native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|当阳市}}}}}}
+| other_name = Tangyang
+| settlement_type = [[County-level city]]
+| image_skyline = 当阳玉泉寺.jpg
+| image_alt =
+| image_caption = Dangyang Yuquan Temple
+| flag_alt =
+| image_seal =
+| seal_alt =
+| image_shield =
+| shield_alt =
+| nickname =
+| motto =
+| image_map = Administrative Division Yichang.png
+| map_alt =
+| map_caption = Dangyang is the easternmost division on this map of Yichang
+| pushpin_map = China Hubei
+| pushpin_label_position =
+| pushpin_map_alt =
+| pushpin_map_caption = Location in Hubei
+| coordinates = {{coord|30.821|N|111.789|E|type:adm3rd_region:CN-42_source:Gaode|format=dms|display=it}}
+| coordinates_footnotes =
+| subdivision_type = Country
+| subdivision_name = People's Republic of China
+| subdivision_type1 = [[Provinces of the People's Republic of China|Province]]
+| subdivision_name1 = [[Hubei]]
+| subdivision_type2 = [[Prefecture-level city]]
+| subdivision_name2 = [[Yichang]]
+| subdivision_type3 =
+| subdivision_name3 =
+| established_title =
+| established_date =
+| founder =
+| seat_type =
+| seat =
+| government_footnotes =
+| leader_party =
+| leader_title =
+| leader_name =
+| unit_pref = Metric<!-- or US or UK -->
+| area_footnotes = <ref name="xzqhdy"/>
+| area_total_km2 = 2038
+| area_land_km2 =
+| area_water_km2 =
+| area_water_percent =
+| area_note =
+| elevation_footnotes =
+| elevation_m =
+| population_footnotes = <ref name="xzqhdy"/>
+| population_total = 468293
+| population_as_of = 2010
+| population_density_km2 = auto
+| area_urban_km2          = 220.30 
+| area_urban_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_urban        = 189000
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+
+| population_demonym =
+| population_note =
+| timezone1 =
+| utc_offset1 =
+| postal_code_type =
+| postal_code =
+| area_code_type =
+| area_code =
+| iso_code =
+| website = {{URL|hbdy.gov.cn/}}
+| footnotes =
+}}

@@ -1,0 +1,67 @@
+{{Infobox settlement
+| official_name = Reston, Virginia
+| settlement_type = [[Planned community]],<br>[[Census-designated place]]
+| image_skyline = 2020 september reston town center skyline e.jpg
+| image_caption = [[Reston Town Center]]
+
+<!-- Maps -->
+|pushpin_map              = USA Virginia Northern#USA Virginia#USA
+| pushpin_label_position =
+| pushpin_map_caption =
+| image_map = Fairfax County Virginia Incorporated and Unincorporated Areas Reston highlighted.svg
+| mapsize = 200px
+| map_caption = Location of Reston in [[Fairfax County, Virginia]]
+
+<!-- Location -->
+| subdivision_type = Country
+| subdivision_name = [[United States]]
+| subdivision_type1 = [[U.S. state|State]]
+| subdivision_name1 = [[Virginia]]
+| subdivision_type2 = [[List of counties in Virginia|County]]
+| subdivision_name2 = [[Fairfax County, Virginia|Fairfax]]
+
+<!-- Government -->
+| established_title = Founded
+| founder = [[Robert E. Simon]]
+| established_date = April 10, 1964
+
+<!-- Area -->
+| unit_pref = Imperial
+| area_footnotes =
+| area_magnitude =
+| area_total_km2 = 40.6
+| area_land_km2 = 39.7
+| area_water_km2 = 0.9
+| area_total_sq_mi = 
+| area_land_sq_mi = 
+| area_water_sq_mi =
+
+<!-- Population -->
+| population_as_of = [[2010 United States Census|2010]]
+| population_footnotes = <ref name="Reston ACS 2019 Estimate">{{cite web|url=https://data.census.gov/cedsci/profile?q=Reston%20CDP,%20Virginia&g=1600000US5166672|website=United States Census Bureau|title=Reston CDP, Virginia|access-date=10 December 2020}}</ref>
+| population_total = 58404
+| population_density_km2 = auto
+| population_density_sq_mi =
+| population_est = 61147
+| pop_est_as_of = 2019
+| population_demonym = Restonian
+<!-- General information -->
+
+| timezone = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = −5
+| timezone_DST = EDT
+| utc_offset_DST = −4
+| elevation_footnotes =
+| elevation_m = 110
+| elevation_ft = 360
+| coordinates      = {{coord|38|57|16|N|77|20|47|W|region:US-VA_type:city|display=inline,title}}
+| postal_code_type = [[ZIP Code]]s
+| postal_code = 20190, 20191, 20194
+| area_code = [[Area code 703|703]], [[Area code 571|571]]
+| blank_name = [[Federal Information Processing Standard|FIPS code]]
+| blank_info = 51-66672<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info = 1499951<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website = {{URL|www.reston.org}}
+| footnotes =
+}}

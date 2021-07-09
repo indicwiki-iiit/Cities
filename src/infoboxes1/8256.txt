@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Tochigi Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|栃木県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|栃木県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Tochigi-ken}}
+| image_flag              = Flag of Tochigi Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Emblem of Tochigi Prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 09 Tochigi prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kantō region|Kantō]]
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Utsunomiya]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 5 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 26
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Tomikazu Fukuda]]
+| area_total_km2          = 6408.09
+| area_water_percent      = 0.2
+| area_rank               = [[List of Japanese prefectures by area|20th]]
+| population_footnotes    = 
+| population_total        = 1943886
+| population_as_of        = June 1, 2019
+| population_rank         = [[List of Japanese prefectures by population|19th]]
+| population_density_km2  = auto
+| iso_code                = JP-09
+| website                 = {{URL|http://www.pref.tochigi.lg.jp/}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = [[Blue-and-white flycatcher]]<br/>(''Cyanoptila&nbsp;cyanomelana'')
+| fish     = 
+| flower   = Yashio tsutsuji<br/>(''[[Rhododendron albrechtii]]'')
+| tree     = [[Aesculus turbinata|Japanese horse chestnut]]<br/>(''Aesculus turbinata'') 
+}}}}

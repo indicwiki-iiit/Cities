@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = West Bountiful, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = West Bountiful Utah City Hall.jpeg
+|imagesize                = 
+|image_caption            = West Bountiful City Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Davis County Utah incorporated and unincorporated areas West Bountiful highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Davis County, Utah|Davis County]] and the state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Davis County, Utah|Davis]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = 
+
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1848
+|founder                  = James Fackrell, Sr.
+|named_for                = [[Bountiful (Book of Mormon)]]
+|established_title1       = [[Incorporated town|Incorporated]]
+|established_date1        = January 28, 1949
+|established_title2       = Became a city
+|established_date2        = November 12, 1962
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.59
+|area_land_km2            = 8.56
+|area_water_km2           = 0.03
+|area_total_sq_mi         = 3.32
+|area_land_sq_mi          = 3.31
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5265
+|population_est           = 5800
+|pop_est_as_of            = 2019
+|population_density_km2   = 677.57
+|population_density_sq_mi = 1754.92
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = 
+|elevation_m              = 1301
+|elevation_ft             = 4268
+|coordinates              = {{coord|40|53|58|N|111|54|13|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84087
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-82840<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1447113<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|wbcity.org}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

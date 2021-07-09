@@ -1,0 +1,90 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                            = {{raise|0.25em|Shubra El Kheima}}
+| native_name                     = {{lang|ar|شبرا الخيمة}}
+| other_name                      = 
+| settlement_type                 = [[List of cities and towns in Egypt|City]]
+| image_skyline                   = {{Photomontage
+| photo1a = ShubraPalaceNymphaeum.jpg
+| photo2a = ShubraPalaceFacade.jpg
+| photo2b = Pigeon tower in Shubra Khit.jpg
+| photo3a = القناطر الخيرية - القليوبية.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+ }}
+| imagesize                       = 
+| image_caption                   = '''Clockwise from top:''' <br> Shubrah Palace, Shubrah Palace Facade, Pigeon towers, [[Al-Qanatir]]
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| nickname                        = 
+| motto                           = <!-- images and maps  ----------->
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Egypt
+| pushpin_label_position          = left
+| pushpin_relief                  = yes
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = Location of Cairo within Egypt
+| coordinates                     = {{coord|30|7|43|N|31|14|32|E|region:EG|display=inline}}
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Egypt}}
+| subdivision_type1               = [[Governorates of Egypt|Governorate]]
+| subdivision_type2               = 
+| subdivision_type3               = 
+| subdivision_name1               = [[Qalyubia Governorate|Qalyubia]]
+| subdivision_name2               = 
+| subdivision_name3               = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| unit_pref                       = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = 270.68 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = 270.68 <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 16
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| population_total                = 1099354
+| population_as_of                = 2012
+| population_footnotes            = 
+| population_density_km2          = auto
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = Ethnicities
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| website                         = 
+| footnotes                       = <!-- Politics ----------------->
+| timezone                        = [[Egypt Standard Time|EST]]
+| utc_offset                      = +2
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| blank_name                      = 
+| blank_info                      = 
+| blank1_name                     = 
+| blank1_info                     = 
+| official_name                   = 
+}}

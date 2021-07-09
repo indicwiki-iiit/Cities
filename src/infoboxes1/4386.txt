@@ -1,0 +1,19 @@
+{{Infobox person
+| name = John Milton
+| image = File:John-milton.jpg
+| caption = Portrait of Milton, circa 1629
+| birth_date = {{birth date|df=y|1608|12|9}}
+| birth_place = Bread Street, [[Cheapside]], London, England
+| death_date = {{death date and age|df=y|1674|11|8|1608|12|9}}
+| death_place = [[Bunhill Row|Bunhill]], London, England
+| resting_place = [[St Giles-without-Cripplegate]]
+| occupation = {{hlist|Poet|Intellectual|Civil Servant}}
+| spouse = {{marriage|Mary Powell|June 1642|5 May 1652|reason=her death}}<br>{{marriage|Katherine Woodcock|12 November 1656|3 February 1658|reason=her death}}<br>{{marriage|Elizabeth Mynshull|24 February 1663}}
+| children = 5
+| alma_mater = [[Christ's College, Cambridge]]
+| signature = John Milton signature.svg
+| module = {{infobox writer |embed=yes
+| language = English, [[Latin language|Latin]], Greek, Hebrew, French, Spanish, Italian, [[Old English language|Old English]], Dutch, [[Aramaic language|Aramaic]],  [[Syriac language|Syriac]] 
+| notableworks = ''[[Paradise Lost]]''<br>''[[Areopagitica]]''<br>''[[Lycidas]]''
+}}
+}}

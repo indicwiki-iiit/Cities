@@ -1,0 +1,29 @@
+{{Infobox UK place
+|gaelic_name                       = An Gearasdan
+|official_name                     = Fort William
+|scots_name                        = The Fort<ref>{{cite web | url=https://d3lmsxlb5aor5x.cloudfront.net/library/document/Map_of_Scotland_in_Scots-Guide_and_gazetteer.pdf | title=Map of Scotland in Scots - Guide and gazetteer}}</ref>
+|static_image_name                 = Fort William High Street - geograph.org.uk - 987377.jpg
+|static_image_caption              = Fort William High Street
+|static_image_width                = 250px
+| population = {{Scottish locality populations|name|POP=Fort William}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|community_scotland                = Fort William
+|unitary_scotland                  = [[Highland (council area)|Highland]]
+|lieutenancy_scotland              = [[Inverness-shire]]
+|constituency_westminster          = [[Ross, Skye and Lochaber (UK Parliament constituency)|Ross, Skye and Lochaber]]
+|constituency_scottish_parliament  = [[Skye, Lochaber and Badenoch (Scottish Parliament constituency)|Skye, Lochaber and Badenoch]]
+|country                           = Scotland
+|sovereign_state                   = 
+|coordinates                       = {{coord|56.8198|-5.1052|region:GB_type:city|display=inline,title}}
+|os_grid_reference                 = NN 10584 74114
+|map_type                          = Lochaber
+|historic_county = [[Inverness-shire]]
+|post_town                         = FORT WILLIAM
+|postcode_area                     = PH
+|postcode_district                 = PH33
+|dial_code                         = 01397
+|edinburgh_distance_mi             = 134
+|london_distance_mi                = 512
+|website                           = 
+|hide_services                     = yes 
+}}

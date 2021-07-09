@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name                    = {{PH wikidata|name}}
+| official_name           = Province of {{PH wikidata|name}} <!-- only 1 official language as per seal -->
+| settlement_type         = {{PH wikidata|settlement_type}}
+| image_skyline           = {{PH wikidata|image_skyline}}
+| image_caption           = {{PH wikidata|image_caption}}
+| image_flag              = {{pH wikidata|image_flag}}
+| flag_size               = 120x80px
+| image_seal              = Siquijor Provincial Seal.png
+| seal_size               = 120x80px
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = Location in the Philippines
+| coordinates             = {{PH wikidata|coordinates|dim=8km}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{PH wikidata|country}}
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{nowrap|{{PH wikidata|region}}}}
+| established_title       = Established
+| established_date        = {{PH wikidata|founded}}
+| seat_type               = Provincial Capital
+| seat                    = {{PH wikidata|seat}}
+| government_type         = {{PH wikidata|government_type}}
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = {{PH wikidata|leader_title}}
+| leader_name             = Zaldy "Jecoy" S. Villa
+| leader_title1           = {{PH wikidata|vicemayor_title}}
+| leader_name1            = Mei Ling M. Quezon
+| leader_title2           = {{PH wikidata|council_title}}
+| leader_name2            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;">1st ProvDist</div>
+ | 2 = Cyrus S. Olpoc
+ | 3 = Leonardo T. Lingcay
+ | 4 = Dar Lynn A. Honrubia
+ | 5 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;">2nd ProvDist</div>
+ | 6 = Dindo A. Tumala
+ | 7 = Noel O. Monte
+ | 8 = Orville A. Fua
+ | com = https://halalanresults.abs-cbn.com/local/siquijor
+ }}
+| leader_title4           = [[House of Representatives of the Philippines#Current composition|Representative]] <!--congressman or congresswoman -->
+| leader_name4            = Jake Vincent S. Villa
+| area_footnotes          = {{PSGC detail|area}}
+| area_total_km2          = {{PH wikidata|area}}
+| area_rank               = 79th of 81
+| elevation_max_m         = 
+628
+| elevation_max_point     = [[Mount Malabahoc]]
+| population_footnotes    = {{PH census|current}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_rank         = 79th out of 81
+| population_density_km2  = auto
+| population_density_rank = 29th out of 81
+| population_blank1_title = {{PH wikidata|electorate_title}}
+| population_blank1       = {{PH wikidata|electorate}}
+| population_blank2_title = Language
+| population_blank2       = [[Cebuano language|Cebuano]], [[Tagalog language|Tagalog]]
+| population_demonym      = {{PH wikidata|demonym}}
+| demographics_type1      = Divisions
+| demographics1_title2    = [[Cities of the Philippines|Component&nbsp;cities]]
+| demographics1_info2     = 0
+| demographics1_title3    = [[Municipalities of the Philippines|Municipalities]]
+| demographics1_info3     = {{Collapsible list
+| titlestyle              = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+| title                   = 6
+ | {{PH wikidata|municipalities}}
+}}
+| demographics1_title5    = [[House of Representatives of the Philippines|Districts]]
+| demographics1_info5     = [[Legislative district of Siquijor|Lone District of Siquijor]]
+| timezone                = {{PH wikidata|timezone}}
+| utc_offset              = {{PH wikidata|utc_offset}}
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = {{PH wikidata|postal_code}}
+| postal2_code_type       = {{PSGCstyle}}
+| postal2_code            = {{PSGC detail}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| blank_name_sec1         = {{PH wikidata|income_class_title}}
+| blank_info_sec1         = {{PH wikidata|income_class_ordinal}}
+| blank1_name_sec1        = {{PH wikidata|climate_title}}
+| blank1_info_sec1        = {{PH wikidata|climate_type}}
+| blank_name_sec2         = Patron Saint
+| blank_info_sec2         = {{PH wikidata|patron_saint}}
+| website                 = {{PH wikidata|website}}
+| footnotes               =
+}}

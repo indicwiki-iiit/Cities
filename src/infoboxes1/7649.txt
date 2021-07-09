@@ -1,0 +1,119 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Hirosaki}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|弘前市}}}}}}
+| official_name           = 
+| native_name_lang        = ja
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = [[File:Hirosaki-castle Aomori JAPAN.jpg|280px]]<br>[[File:Mt. Iwakisan from Hirosaki Castel 2008.jpg|140px]][[File:Ōgi_Neputa.jpg|140px]]<br>[[File:Hirosaki_Saisyoin1.jpg|140px]][[File:DaiGojyukuBankHeadOffice1.JPG|140px]]
+<tr><td colspan="2">[[Hirosaki Castle]] and [[Sakura]]</tr>
+<tr><td>[[Mount Iwaki]]<td>Hirosaki Neputa Festival</tr>
+<tr><td>Saisho-in temple<td width="50%">former 55 Bank HQ</tr>
+| imagesize               = 300px
+| image_alt               =
+| image_caption           = 
+| image_flag              = Flag of Hirosaki, Aomori.svg
+| flag_alt                =
+| image_seal              = Symbol of Hirosaki Aomori.svg
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| image_blank_emblem      =
+| nickname                =
+| motto                   =
+<!-- maps and coordinates -->
+| image_map               = Hirosaki in Aomori Prefecture Ja.svg
+| map_alt                 =
+| map_caption             = Location of Hirosaki in Aomori Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         =
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|40|36|11.2|N|140|27|49.8|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Japan}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Tōhoku region|Tōhoku]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Aomori Prefecture|Aomori]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title     = First official recorded 
+| established_date      = 655 AD
+| established_title2    = City Settled
+| established_date2     = April 1, 1889
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = [[:ja:櫻田宏|Hiroshi Sakurada]](from April 2018)
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 524.20
+| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| area_note               =
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             =
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 168739
+| population_as_of        = April 1, 2020
+| population_density_km2  = auto
+| population_est          =
+| pop_est_as_of           =
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           =
+| utc_offset1_DST         =
+<!-- postal codes, area code -->
+| postal_code_type        =
+| postal_code             =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Apple tree]]
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Cherry blossom]] 
+| blank3_name_sec1        = 
+| blank3_info_sec1        = 
+| blank4_name_sec1        =
+| blank4_info_sec1        =
+| blank5_name_sec1        =
+| blank5_info_sec1        =
+| blank6_name_sec1        =
+| blank6_info_sec1        =
+| blank7_name_sec1        =
+| blank7_info_sec1        =
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 0172-35-1111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-1 Kamishirogane-machi, Hirosaki-shi, Aomori-ken 036-8551
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.city.hirosaki.aomori.jp/}}
+| footnotes               =
+}}

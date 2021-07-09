@@ -1,0 +1,26 @@
+{{Infobox settlement
+|name                    = Te Anau
+|native_name             = 
+|native_name_lang        = <!-- ISO 639-1 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+|settlement_type         = 
+|image_skyline           = File:Te Anau and Murchison Mountains.jpg
+|image_caption           = 
+|image_map               = {{Infobox mapframe|zoom=12}}
+|nickname                = 
+|coordinates             = {{coord|45|25|S|167|43|E|region:NZ-STL_type:city|display=inline,title}}
+|area_total_km2          = 5.57
+|population_as_of        = {{NZ population data 2018|||y}}
+|population_footnotes    = {{NZ population data 2018||||y}}
+|population_total        = {{NZ population data 2018|Te Anau|y}}
+|population_density_km2  = auto
+|subdivision_type        = Country
+|subdivision_name        = New Zealand
+|subdivision_type1       = [[Regions of New Zealand|Region]]
+|subdivision_name1       = [[Southland, New Zealand|Southland]]
+|subdivision_type2       = [[Territorial authorities of New Zealand|Territorial authority]]
+|subdivision_name2       = [[Southland District]]
+|postal_code_type        = [[Postcodes in New Zealand|Postcode(s)]]
+|postal_code             = 9600
+|area_code               = 03
+|website                 = <!-- {{URL|example.com}} -->
+}}

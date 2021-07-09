@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+| name                            = {{raise|0.2em|Korla}}
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = {{lower|0.1em|{{lang|zh-Hans|库尔勒市}} · {{ug-textonly|كورلا شەھىرى}}}}
+| other_name                      = Kurla, Ku'erle
+| nickname                        = 
+| settlement_type                 = [[County-level city]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Korla_oldandnew.jpg
+| imagesize                       = 250px
+| image_caption                   = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = Location of Korla within Xinjiang (China).png
+| mapsize                         = 
+| map_caption                     = Location of Korla City (pink) in Bayin'gholin Prefecture (yellow) and Xinjiang
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Xinjiang
+| pushpin_label_position          = bottom
+| pushpin_map_caption             = Location of the city centre in Xinjiang
+| pushpin_mapsize                 = 250
+| pushpin_relief                  = yes
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = People's Republic of China
+| subdivision_type1               = [[Autonomous regions of the People's Republic of China|Autonomous region]]
+| subdivision_name1               = [[Xinjiang]]
+| subdivision_type2               = [[Autonomous prefecture]]
+| subdivision_name2               = [[Bayingolin]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = <!--add   (no-break space) to leader names to disable automatic links-->
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes                  = 
+| area_total_km2                  = 7219.48
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 246
+| area_urban_footnotes            = <ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+<!-- Elevation -------------------------->| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = <!-- Population   ----------------------->
+| population_as_of                = 2010
+| population_footnotes            = <ref name=":0">{{Cite web|date=2015-01-30 |script-title=zh:库尔勒市历史沿革|url=http://www.xzqh.org/html/show/xj/21632.html|url-status=live|archive-url=https://web.archive.org/web/20200716154653/http://www.xzqh.org/html/show/xj/21632.html|archive-date=2020-07-16|access-date=2020-07-16|website=xzqh.org|language=zh}}</ref>
+| population_note                 = 
+| population_total                = 549324
+| population_urban                = 770,000
+| population_urban_footnotes      = &nbsp;(2018)<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+| population_est                  = 
+| pop_est_as_of                   = 
+| population_density_km2          = <!--For automatic calculation, any density field may contain: auto -->
+<!-- General information  --------------->| timezone1                       = [[China Standard Time|China Standard]]
+| utc_offset1                     = +8
+| coor_pinpoint                   = Korla municipal government
+| coordinates                     = {{coord|41.7259|N|86.1746|E|type:adm3rd_region:CN-65_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 841000<ref>[http://www.cpi.com.cn/cpi-eng/code/xinjiang.asp Area Code and Postal Code in Xinjiang Uygur Autonomous Region] {{Webarchive|url=https://archive.is/20120728124105/http://www.cpi.com.cn/cpi-eng/code/xinjiang.asp |date=2012-07-28 }} {{in lang|en}}</ref>
+| area_code                       = 0996
+| website                         = http://www.xjkel.gov.cn/
+| footnotes                       = 
+}}

@@ -1,0 +1,76 @@
+{{Infobox settlement
+|name                     = Suitland, Maryland
+|official_name            =
+|settlement_type          = [[Census designated place]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Census Bureau headquarters, Suitland, Maryland, 2007.jpg
+|imagesize                =
+|image_caption            = The headquarters of the [[United States Census Bureau]], in March 2007.
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = USA Maryland#USA
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the [[U.S. state]] of [[Maryland]]
+|pushpin_mapsize          =
+|image_map                =
+|map_caption              = Location within Prince George's County
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{nowrap|{{flagicon image|Flag of Prince George's County, Maryland (1963–present).svg}} [[Prince George's County, Maryland|Prince George's]]}}
+
+|government_footnotes     =
+|government_type          =
+|leader_title             = <!-- Mayor -->
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           =
+|area_magnitude           =
+|area_total_sq_mi         = 4.2
+|area_land_sq_mi          = 4.2
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     =
+|population_total         = 25825
+|population_density_sq_mi      = auto
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = −5
+|timezone_DST             = EDT
+| utc_offset_DST = −4
+|elevation_footnotes      =
+|elevation_ft             = 290
+|coordinates              = {{coord|38|50|55|N|76|55|28|W|type:city_region:US-MD|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 20746, 20747
+|area_code                = [[Area codes 240 and 301|301]], [[Area codes 240 and 301|240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               =
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              =
+|website                  =
+|footnotes                =
+}}

@@ -1,0 +1,88 @@
+{{Infobox military installation
+| name = Marine Corps Air Station Kaneohe Bay
+| ensign = 
+| ensign_size =
+| native_name = Marion E. Carl Field
+| partof = [[Marine Corps Base Hawaii]]
+| location = 
+| nearest_town = [[Kaneohe, Hawaii|Kaneohe]], [[Hawaii]]
+| country = the [[United States]]
+| image = File:US Navy 100924-M-9232S-003 An aerial view of Marine Corps Base Hawaii at Kaneohe Bay.jpg
+| alt = 
+| caption = An aerial view of MCAS Kaneohe Bay during 2010.
+| image2 = [[File:MCAF_Kaneohe_Bay_logo.jpg|175px]]
+| alt2 = 
+| caption2 = 
+| type = Marine Corps Air Station
+| coordinates = {{coord|21|26|45|N|157|46|11|W|display=inline,title}}
+| gridref = 
+| image_map = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map = USA Hawaii
+| pushpin_mapsize = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Location in Hawaii
+| pushpin_relief = 
+| pushpin_image = 
+| pushpin_label = MCAS Kaneohe Bay
+| pushpin_label_position = bottom
+| pushpin_mark = 
+| pushpin_marksize = 
+| ownership = [[United States Department of Defense|Department of Defense]]
+| operator = [[United States Marine Corps|US Marine Corps]]
+| controlledby = [[1st Marine Aircraft Wing]]
+| open_to_public = <!-- for out of use sites/sites with museums etc -->
+| site_other_label = <!-- for renaming "Other facilities" in infobox -->
+| site_other = <!-- for other sorts of facilities – radar types etc -->
+| site_area = <!-- area of site m2, km2 square mile etc -->
+| code = <!--facility/installation code, applies to US -->
+| built = {{Start date|1939}}
+| used = 1939 – 1949 ([[United States Navy|US Navy]])<br>1952 – present (US Marine Corps)
+| builder = 
+| materials = 
+| height = <!-- height of tallest part, not above sea level -->
+| length = <!-- for border fences or other DMZs -->
+| fate = <!--changed from demolished parameter-->
+| condition = Operational
+| battles = 
+| events = 
+| current_commander = [[Lieutenant colonel (United States)|Lieutenant Colonel]] Tyler J. Holland
+| past_commanders = <!-- past notable commander(s) -->
+| garrison = [[Marine Aircraft Group 24]]
+| occupants = <!-- squadrons only -->
+| designations = 
+| website = [https://www.mcbhawaii.marines.mil/Units/Subordinate-Commands/Marine-Corps-Air-Station/ www.mcbhawaii.marines.mil]
+<!-- begin airfield information  -->
+| IATA = NGF
+| ICAO = PHNG
+| FAA = NGF
+| TC = 
+| LID = 
+| GPS = 
+| WMO = 911760
+| elevation = {{Convert|7|m|0}}
+| r1-number = 4/22
+| r1-length = {{Convert|2369|m|0}}
+| r1-surface = [[Asphalt]]
+| h1-number = 
+| h1-length = <!-- {{Convert| |m|0}} -->
+| h1-surface = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->
+| footnotes = '''Source:''' [[Airnav.com]]<ref>{{Cite web|url=https://www.airnav.com/airport/PHNG|title=PHNG Kaneohe Bay Marine Corps Air Station (Marion E Carl Field)|date=21 May 2020|website=Airnav.com|access-date=12 June 2020}}</ref>
+{{Infobox designation list
+  | embed = yes
+  | designation1 = NRHP
+  | designation2 = NHLD
+  | designation2_offname = Kaneohe Naval Air Station
+  | designation2_date = 28 May 1987
+  | designation2_number = 87001299<ref>{{Cite web|title=Hawaii NHL Kaneohe Naval Air Station|url=https://catalog.archives.gov/id/63815552|website=National Archives Catalog}}</ref>
+  | designation2_free1name  = Period
+  | designation2_free1value = 1900–
+  | designation2_free2name  = Area of significance
+  | designation2_free2value = Military
+}}
+}}

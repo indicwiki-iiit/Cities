@@ -1,0 +1,74 @@
+{{Infobox settlement
+| official_name                   = South Ogden
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = South Ogden city hall.jpeg
+| imagesize                       = 
+| image_caption                   = City hall
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Weber County Utah incorporated and unincorporated areas South Ogden highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Weber County, Utah|Weber County]] and the [[Utah|State of Utah]]
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Utah]]
+| subdivision_type2               = [[County (United States))|County]]
+| subdivision_name2               = [[Weber County, Utah|Weber]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = City Manager
+| leader_title                    = Mayor
+| leader_name                     = Russell L. Porter
+| leader_title1                   = City Manager
+| leader_name1                    = Matthew Dixon
+| established_title               = Settled
+| established_date                = 1848
+| established_title1              = Incorporated
+| established_date1               = July 6, 1936
+| named_for                       = [[Peter Skene Ogden]]
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 10.10
+| area_land_km2                   = 10.10
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 3.90
+| area_land_sq_mi                 = 3.90
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 16532
+| population_density_km2          = 1703.28
+| population_density_sq_mi        = 4411.13
+
+<!-- General information -->| timezone                        = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset                      = -7
+| timezone_DST                    = MDT
+| utc_offset_DST                  = -6
+| elevation_footnotes             = 
+| elevation_m                     = 1356
+| elevation_ft                    = 4449
+| coordinates                     = {{coord|41|10|29|N|111|57|27|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 84403
+| area_code                       = [[Area codes 385 and 801|385, 801]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 49-70960<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1445910<ref name="GR3">{{gnis|1445910|South Ogden}}</ref>
+| website                         = {{Official Website|https://www.southogdencity.com/}}
+| footnotes                       = 
+| name                            = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 17199
+}}

@@ -1,0 +1,54 @@
+{{Infobox settlement
+|name            = Stevenson Ranch, California
+|settlement_type          = [[Unincorporated community]]<br />[[Census-designated place]]
+<!-- Images -->
+|image_skyline            = Stevenson Ranch Fountain 2.JPG
+|imagesize                = 
+|image_caption            = Stevenson Ranch Fountain in 2012
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+|established_title        = 
+|established_date         = 
+<!-- Population------------------>
+| population_total        = 17557
+| population_as_of        = 2010
+| population_density_km2  = auto
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive |url=https://www.webcitation.org/64vfLAeJ2?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-01-24 }}</ref>
+| area_total_sq_mi        = 6.362
+| area_land_sq_mi         = 6.361
+| area_water_sq_mi        = 0.001
+| area_total_km2          = 16.478
+| area_land_km2           = 16.475
+| area_water_km2          = 0.002
+| area_water_percent      = 0.01
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref name=gnis>{{gnis| 2583151|Stevenson Ranch Census Designated Place}}</ref>
+|elevation_m              = 
+|elevation_ft             = 1529
+| pushpin_map             = Santa Clarita#Los Angeles#California
+| pushpin_label           = Stevenson Ranch
+| pushpin_map_caption     = Position in Santa Clarita Valley.
+|coordinates              = {{coord|34.39|N|118.59|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 91381
+|area_code                = 661
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = 2583151<ref name=gnis/>
+|website                  = {{url|http://www.stevensonranch91381.com|Official website}}
+|footnotes                = 
+}}

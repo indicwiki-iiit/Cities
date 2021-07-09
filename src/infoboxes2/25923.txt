@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Floresville, Texas
+|settlement_type          = [[City]]
+|image_skyline            = Floresville, TX, water tower IMG_2657.JPG
+|imagesize                = 250px
+|image_caption            = <span style="font-size:100%;">Floresville water tower</span>
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_map                = TXMap-doton-Floresville.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Floresville, Texas
+|image_map1               = Wilson County Floresville.svg
+|mapsize1                 = 250px
+|map_caption1             = 
+
+<!-- Location -->
+|coordinates              = {{coord|29|8|23|N|98|9|42|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagicon|USA}}United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name1        = {{Flagicon|Texas}}[[Texas]]
+|subdivision_name2        = [[Wilson County, Texas|Wilson]]
+
+<!-- Government -->
+|established_title        = 
+|established_date         = 
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[City Council]]
+|leader_name              = [[Mayor]] Sherry Castillo <br/> Daniel Tejeda <br/> Juan Ortiz <br/> Johnny Ray Nieto <br/> Chris Talamantez <br/> Jim Miller <ref>{{cite web|url=http://www.cityoffloresville.org/city-government/city-council.php|title=City of Floresville, Texas / City Government / City Council / meeting schedule, location|access-date=9 September 2016}}</ref>  
+|leader_title1            = [[City Manager]]
+|leader_name1             =  Henrietta Turner<ref>{{cite web|url=http://www.cityoffloresville.org/city-departments/administrative.php|title=City of Floresville, Texas / City Departments / Administrative / manager, secretary, finance|access-date=9 September 2016}}</ref> 
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 19.99
+|area_total_sq_mi         = 7.72
+|area_land_km2            = 19.92
+|area_land_sq_mi          = 7.69
+|area_water_km2           = 0.07
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 119
+|elevation_ft             = 390
+|population_total         = 6448
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_km2   = 403.89
+
+<!-- General information -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 78114
+|area_code                = [[Area code 830|830]]
+|website                  = [http://www.cityoffloresville.org/ cityoffloresville.org]
+
+<!-- Area -->
+|footnotes                = 
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-26160<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1357499<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8045
+|population_density_sq_mi = 1046.03
+}}

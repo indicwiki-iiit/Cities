@@ -1,0 +1,23 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Bulnes (Cabrales)
+|settlement_type        = [[Parish (administrative division)|Parish]]
+|pushpin_map            = Spain
+|coordinates            = {{coord|43|14|N|4|49|W|display=title|region:ES_type:city_source:GNS-enwiki}}
+|image_skyline = Bulnes Asturies.jpg
+|image_caption = Buildings in Bulnes
+|imagesize = 200
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Spain]]
+|subdivision_type1      = [[Autonomous communities of Spain|Autonomous community]]
+|subdivision_name1      = [[Asturias]]
+|subdivision_type2      = [[Provinces of Spain|Province]]
+|subdivision_name2      = [[Asturias]]
+|subdivision_type3      = [[Municipalities of Spain|Municipality]]
+|subdivision_name3      = [[Cabrales]]
+<!-- Population   ----------------------->
+|population_total       = 34
+}}

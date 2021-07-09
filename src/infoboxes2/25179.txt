@@ -1,0 +1,37 @@
+{{Infobox Australian place
+| type     = town
+| name     = Narrabri 
+| state    = nsw 
+| image    = 2005 12 21 1369 Narrabri Post Office.jpg
+| caption  = Post Office
+| lga      = Narrabri Shire
+| county   = [[Nandewar County|Nandewar]]
+| postcode = 2390
+| est      = 1860<ref>Narrabri Shire, Courier Print, Narrabri</ref>
+| pop      = 5903
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=UCL114024 |name=Narrabri (Urban Centre) |accessdate=3 December 2017 |quick=on}}</ref>
+| elevation= 212
+| elevation_footnotes = <ref name=NarrabriWPO/>
+| coordinates = {{coord|30|19|0|S|149|46|0|E|display=inline,title}}
+| maxtemp  = 26.5
+| mintemp  = 11.7
+| rainfall = 661.9
+| stategov = [[Electoral district of Barwon|Barwon]]
+| fedgov   = [[Division of Parkes|Parkes]]
+| dist1    = 521
+| dir1     = NW
+| location1= Sydney
+| dist2    = 575
+| dir2     = SW
+| location2= Brisbane
+| dist3    = 280
+| dir3     = NE
+| location3= Dubbo
+| dist4    = 172
+| dir4     = NW
+| location4= [[Tamworth, New South Wales|Tamworth]]
+| dist5    = 101
+| dir5     = S
+| location5= [[Moree, New South Wales|Moree]]
+}}

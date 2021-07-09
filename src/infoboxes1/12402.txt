@@ -1,0 +1,60 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                            = Chervonohrad <!-- at least one of the first two fields must be filled in -->
+| native_name                     = {{lang|uk|Червоноград}}
+| other_name                      = 
+| settlement_type                 = [[City of regional significance (Ukraine)|City of regional significance]]
+| imagesize                       = 
+| image_skyline                   = {{Photomontage|position=center
+ | photo1a                       = Костел Св.Духа3.jpg
+ | photo2a                       = CzerwonogrodPalacPotockich.JPG
+ | photo2b                       = Храм Св.Йосафата.jpg
+ | photo3a                       = Панорама монастиря Юра. Червоноград.jpg
+   | size                       = 270
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+| image_flag                      = Flag of Chervonohrad.svg
+| image_shield                    = Coat of Arms of Chervonohrad.svg
+| nickname                        = 
+| motto                           = 
+| image_map                       = 
+| map_caption                     = Location of Chervonohrad within Ukraine.
+| pushpin_map                     = Ukraine Lviv Oblast#Ukraine
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Chervonohrad in Ukraine
+| coordinates                     = {{coord|50|23|12|N|24|13|44|E|region:UA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{UKR}}
+| subdivision_type1               = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1               = {{flag|Lviv Oblast}}
+| subdivision_type2               = [[City of regional significance (Ukraine)|Municipality]]
+| subdivision_name2               = Chervonohrad
+| established_title               = Founded
+| established_date                = 1692
+| leader_title                    = Mayor
+| leader_name                     = Bogdan Sherbij
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| area_total_km2                  = 37.6
+| area_land_km2                   = 
+| area_water_km2                  = 
+| elevation_m                     = 150
+| population_footnotes            = 
+| population_total                = 65,871
+| population_as_of                = 2020
+| population_density_km2          = auto
+| population_metro                = 
+| population_note                 = 
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| postal_code_type                = [[Postal code]]
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = [[Town twinning|Sister cities]]
+| blank_info                      = [[Békéscsaba]]
+| website                         = 
+| footnotes                       = 
+| official_name                   = 
+}}

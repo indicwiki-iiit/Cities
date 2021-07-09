@@ -1,0 +1,78 @@
+{{Infobox settlement
+| name                            = Coronado, California
+| official_name                   = City of Coronado
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Hotel del Coronado.JPG
+| imagesize                       = 
+| image_caption                   = The Hotel del Coronado in December 2008
+| image_flag                      = Flag of Coronado, California.svg
+| image_seal                      = Seal of Coronado, California.png
+| nickname                        = "The Crown City"
+| image_map                       = File:San Diego County California Incorporated and Unincorporated areas Coronado Highlighted 0616378.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Coronado in San Diego County, California
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|32|40|41|N|117|10|21|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{nowrap|{{flag|United States of America}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_name2               = {{flagicon image|Flag of San Diego County, California.png}} [[San Diego County, California|San Diego]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = December 11, 1890<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>| government_type                 = [[Mayor–council government|Mayor-council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Richard Bailey ([[Republican Party (United States)|R]])<ref>{{cite web |title=Coronado's Bachelor Mayor Up for Bid: Junior League Auctioning Dates |url=https://timesofsandiego.com/life/2017/11/27/coronados-bachelor-mayor-up-for-bid-junior-league-auctioning-dates-in-10th-jingle-bell-bash/ |website=Times of San Diego |access-date=2 May 2020 |date=28 November 2017}}</ref>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 84.60
+| area_total_sq_mi                = 32.67
+| area_land_km2                   = 20.65
+| area_land_sq_mi                 = 7.97
+| area_water_km2                  = 63.95
+| area_water_sq_mi                = 24.69
+| area_water_percent              = 75.72
+| area_note                       = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1660513|Coronado}}</ref>
+<!-- Population ----------->| elevation_m                     = 5
+| elevation_ft                    = 16
+| population_total                = 24697
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="USCensus2010CA">{{USCensus2010CA}}</ref><ref name=errata>{{cite web|url=https://www.census.gov/rdo/pdf/CA_errata.pdf |title=Census Bureau's acknowledgment or miscoding some of Coronado's & San Diego's census blocks |access-date=September 2, 2011}}</ref>
+| population_density_sq_mi        = 2976.42
+| population_est                  = 23731
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92118, 92178
+| area_code                       = [[Area code 619|619]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = {{URL|www.coronado.ca.us}}
+| footnotes                       = 
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|16378}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1660513}}, {{GNIS 4|2410233}}
+| population_density_km2          = 1149.26
+}}

@@ -1,0 +1,26 @@
+{{Infobox UK place
+|country = Scotland
+ |official_name= Kirkintilloch
+ |scots_name= Kirkintulloch<ref>{{cite web | url=https://d3lmsxlb5aor5x.cloudfront.net/library/document/Map_of_Scotland_in_Scots-Guide_and_gazetteer.pdf | title=Map of Scotland in Scots - Guide and gazetteer}}</ref>
+ |gaelic_name= Cair Cheann Tulaich<ref>{{cite web |url=http://www.gaelicplacenames.org/databaseresult.php?redirect=true&keyword=kirkintilloch&lang=en |title=Ainmean-Àite na h-Alba - Gaelic Place-Names of Scotland - Database |publisher=Gaelicplacenames.org |access-date=2015-10-05 |archive-url=https://web.archive.org/web/20150924020612/http://www.gaelicplacenames.org/databaseresult.php?redirect=true&keyword=kirkintilloch&lang=en |archive-date=24 September 2015 |url-status=dead }}</ref>
+ |os_grid_reference= NS655735
+ |coordinates = {{coord|55.938|-4.155|display=inline,title}}
+ |map_type= Scotland
+| population = {{Scottish locality populations|name|POP=Kirkintilloch}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+| pushpin_map             = Scotland East Dunbartonshire#Scotland Glasgow
+ |unitary_scotland= 
+ |lieutenancy_scotland= [[Dunbartonshire]]
+ |historic_county = Dunbartonshire
+|post_town= Glasgow <ref>{{cite web|author=Evox Facilities |url=http://www.evoxfacilities.co.uk/evoxptn.html |title=List of UK post towns |publisher=Evox Facilities |access-date=2012-02-22 |url-status=dead |archive-url=https://web.archive.org/web/20120219123813/http://www.evoxfacilities.co.uk/evoxptn.html |archive-date=2012-02-19 }}</ref>
+ |postcode_district = G66
+ |postcode_area= G
+ |dial_code= 0141
+ |constituency_westminster= [[Cumbernauld, Kilsyth and Kirkintilloch East (UK Parliament constituency)|Cumbernauld, Kilsyth and Kirkintilloch East]]
+ |constituency_westminster1= [[East Dunbartonshire (UK Parliament constituency)|East Dunbartonshire]]
+ |constituency_scottish_parliament= [[Strathkelvin and Bearsden (Scottish Parliament constituency)|Strathkelvin and Bearsden]]
+|static_image_name= Kirkintilloch01.jpg
+|static_image_caption= St Mary's Church in Kirkintilloch's Cowgate
+|london_distance=
+|edinburgh_distance=
+}}

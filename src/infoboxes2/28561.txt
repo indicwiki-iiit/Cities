@@ -1,0 +1,24 @@
+{{Infobox Australian place | type = town
+| name = Halls Creek
+| state = wa
+| image = File:OldHallsCreek Ruins.jpg
+| caption = Ruins of Old Halls Creek
+| lga = Shire of Halls Creek
+| coordinates = {{coord|18.23|S|127.67|E|display=inline,title}}
+|pushpin_label_position = top
+| postcode = 6770
+| pop = 1,546
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name = census>{{Census 2016 AUS|id=UCL521026|name=Halls Creek (L) (Urban Centre/Locality)|quick=on|access-date=5 January 2018}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| est = 1887/1949
+| stategov = [[Electoral district of Kimberley|Kimberley]]
+| fedgov = [[Division of Durack|Durack]]
+| dist1 = 366
+| location1= [[Kununurra, Western Australia|Kununurra]]
+| dist2 = 546
+| location2= [[Derby, Western Australia|Derby]]
+| maxtemp = 33.6
+| mintemp = 20.0
+| rainfall = 571.5
+| elevation= 422
+}}

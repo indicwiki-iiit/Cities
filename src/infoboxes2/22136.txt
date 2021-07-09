@@ -1,0 +1,35 @@
+{{Infobox protected area
+| name = Cahokia Mounds State Historic Site
+| photo = Monks Mound in July.JPG
+| photo_caption = [[Monks Mound]], the largest earthen structure at Cahokia <small>(for scale, an adult is standing on top)</small>
+| map = USA
+| relief = 1
+| map_caption = 
+| location = [[St. Clair County, Illinois|St. Clair County]], [[Illinois]], U.S.
+| nearest_city = [[Collinsville, Illinois]]
+| coordinates = {{coords|38|39|14|N|90|3|52|W|region:US|display=inline, title}}
+| area_acre = 2200
+| established = 
+| visitation_num = 
+| visitation_year = 
+| governing_body = [[Illinois Historic Preservation Agency]]
+| embedded1 = {{designation list | embed=yes
+  | designation1 = WHS
+  | designation1_offname = Cahokia Mounds State Historic Site
+  | designation1_date = 1982 <small>(6th [[World Heritage Committee|session]])</small>
+  | designation1_type = Cultural
+  | designation1_criteria = iii, iv
+  | designation1_number = [https://whc.unesco.org/en/list/198 198]
+  | designation1_free1name = State Party
+  | designation1_free1value = [[United States]]
+  | designation1_free2name = Region
+  | designation1_free2value = [[List of World Heritage Sites in North America|Europe and North America]]
+  | designation2 = NRHP
+  | designation2_offname = Cahokia Mounds
+  | designation2_date = October 15, 1966<ref name="nhlsum"/>
+  | designation2_number = 66000899
+  | designation3 = NHL
+  | designation3_offname = Cahokia Mounds
+  | designation3_date = July 19, 1964<ref name="nhlsum"/>
+  }}
+}}

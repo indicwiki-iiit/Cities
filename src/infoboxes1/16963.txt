@@ -1,0 +1,85 @@
+{{Infobox settlement
+| name                            = 
+| official_name                   = Pinehurst, North Carolina
+| settlement_type                 = [[Village (United States)|Village]]
+| nickname                        = The Home of American Golf
+
+<!-- Images -->
+| image_skyline                   = Mystic Cottage (Pinehurst, North Carolina) 001.jpg
+| imagesize                       = 
+| image_caption                   = [[Mystic Cottage]] (1900), historic building in the district
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Moore County North Carolina incorporated and unincorporated areas Pinehurst highlighted.svg
+| map_caption                     = Location in [[Moore County, NC|Moore County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[North Carolina]]
+| subdivision_type2               = [[List of counties in North Carolina|County]]
+| subdivision_name2               = [[Moore County, North Carolina|Moore]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = James Attar
+| leader_title1                   = Manager
+| leader_name1                    = Joseph Perry
+| established_title               = Founded
+| established_date                = 1895
+| established_title1              = Municipality
+| established_date1               = 1980
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 44.90
+| area_land_km2                   = 43.23
+| area_water_km2                  = 1.68
+| area_total_sq_mi                = 17.34
+| area_land_sq_mi                 = 16.69
+| area_water_sq_mi                = 0.65
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 13124
+| population_footnotes            = <ref name="Census2010">{{cite web|title=2010 City Population and Housing Occupancy Status |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table |publisher=U.S. Census Bureau |access-date=May 4, 2013 }}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref>
+| population_density_sq_mi        = 995.75
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 171
+| elevation_ft                    = 561
+| coordinates                     = {{coord|35|11|43.4|N|79|28|7.4|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 28370, 28374 <ref name="GR7">{{cite web|url=http://tools.usps.com/go/ZipLookupAction!input.action|title=USPS - Look Up a ZIP Code|access-date=2012-02-15|author=United States Postal Service|year=2012}}</ref>
+| area_code                       = [[Area code 910|910]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 37-51940 <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1021933<ref>{{cite gnis|1021933|Pinehurst}}</ref>
+| website                         = {{URL|http://www.vopnc.org/}}
+| footnotes                       = {{Infobox NRHP
+| embed                = yes
+| name                 = Pinehurst Historic District
+| nrhp_type            = nhld
+| nocat                = yes
+| image                =
+| caption              =
+| built                = {{Start date|1895}}
+| architect            = [[Frederick Law Olmsted]]
+| architecture         = [[Colonial Revival]], [[Queen Anne style architecture in the United States|Queen Anne]]
+| added                = August 14, 1973
+| area                 = {{convert|250|acre}}
+| refnum               = 73001361<ref name="nris">{{NRISref|version=2010a}}</ref>
+| designated_nrhp_type = June 19, 1996
+}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 16620
+| population_density_km2          = 384.47
+}}

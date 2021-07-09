@@ -1,0 +1,24 @@
+{{Infobox airport
+| name = Tsuiki Air Field
+| nativename =
+| nativename-a = 築城飛行場
+| nativename-r = Tsuiki Hikōjō
+| image = Tsuiki Air Base Aerial Photograph.jpg
+| IATA =
+| ICAO = RJFZ
+| type = Military
+| operator = [[Japan Air Self-Defense Force]]
+| city-served =
+| location = [[Tsuiki, Fukuoka|Tsuiki]], Japan
+| elevation-f = 55
+| coordinates = {{coord|33|41|06|N|131|02|25|E|region:JP|display=inline,title}}
+| pushpin_map = Japan
+| pushpin_label = RJFZ
+| pushpin_map_caption = Location in Japan
+| website =
+| metric-rwy = yes
+| r1-number = 07/25
+| r1-length-m = 2,400
+| r1-surface = [[Concrete]]
+| footnotes = Source: Japanese [[Aeronautical Information Publication|AIP]] at [[Aeronautical Information Service|AIS Japan]]<ref name="AIP">[https://aisjapan.mlit.go.jp/ AIS Japan] {{webarchive|url=https://web.archive.org/web/20110722105350/https://aisjapan.mlit.go.jp/ |date=2011-07-22 }}</ref>
+}}

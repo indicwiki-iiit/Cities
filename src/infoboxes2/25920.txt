@@ -1,0 +1,25 @@
+{{Infobox UK place
+|country = Scotland
+|official_name= Banchory
+|scots_name=Banchry
+|gaelic_name= Beannchar
+| population = {{Scottish locality populations|name|POP=Banchory}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|edinburgh_distance_mi = 81
+|london_distance_mi = 395
+|os_grid_reference= NO698958
+|map_type=Scotland
+|coordinates = {{coord|57.055|-2.49|display=inline,title}}
+|unitary_scotland= [[Aberdeenshire]]
+|lieutenancy_scotland= [[Kincardineshire]]
+|constituency_westminster= [[West Aberdeenshire and Kincardine (UK Parliament constituency)|West Aberdeenshire and Kincardine]]
+|constituency_scottish_parliament= [[Aberdeenshire West (Scottish Parliament constituency)|Aberdeenshire West]]
+|historic_county = [[Kincardineshire]]
+|post_town= BANCHORY
+|postcode_district = AB31
+|postcode_area= AB
+|dial_code= 01330
+|static_image_name= Banchory highstreet.jpg
+|static_image_width= 200
+|static_image_caption= Banchory High Street
+}}

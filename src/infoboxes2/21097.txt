@@ -1,0 +1,12 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|official_name          = Morombe
+|image_map              = Toliara_Morombe.png 
+|mapsize                = 183px
+|map_caption            = Map of former Toliara Province showing the location of Morombe (red).
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = [[Madagascar]]
+|subdivision_type1      = Region
+|subdivision_name1      = [[Atsimo-Andrefana]]
+|coordinates            = {{coord|21|44|56|S|43|21|47|E|region:MG_type:city|display=inline,title}}
+}}

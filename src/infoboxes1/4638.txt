@@ -1,0 +1,86 @@
+{{Infobox settlement
+| name                   = Whitecourt
+| official_name          = Town of Whitecourt
+| other_name             =
+| native_name            = <!-- for cities whose native name is not in English -->
+| nickname               = Snowmobile Capital of Alberta<ref name=snowmobile>{{cite news | url=http://www.edmontonsun.com/2013/03/31/snowmobiler-dead-another-missing-after-icy-plunge-into-athabasca-river-in-whitecourt-saturday | title=Snowmobiler dead, another missing after icy plunge into Athabasca River in Whitecourt | author=Pamela Roth | newspaper=[[Edmonton Sun]] | publisher=[[Canoe Sun Media]] | date=March 31, 2013 | access-date=February 14, 2015}}</ref>
+| settlement_type        = Town<!--For Town or Village (Leave blank for the default City)-->
+| motto                  = ''Let's Go...''<ref name=motto>{{cite web |url= http://www.whitecourt.ca/Portals/0/May%2026%20Council%20Update.pdf |author=Town of Whitecourt |title=May 26, 2009 Whitecourt Town Council Update |date=2009-05-26 |access-date=2010-06-24}}</ref>
+| image_skyline          = {{#property:P18}}
+| image_caption          = Whitecourt's entrance sign on Highway 43
+| image_flag             =
+| image_seal             =
+| image_shield           =
+| image_map              = 0350 Town Whitecourt, Alberta Locator.svg
+| map_caption            = Location in Woodlands County
+| pushpin_map            = Canada Alberta<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| coordinates            = {{coord|region:CA-AB|format=dms|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = [[Canada]]
+| subdivision_type1      = [[Provinces and territories of Canada|Province]]
+| subdivision_name1      = [[Alberta]]
+| subdivision_type2      = [[List of regions of Canada#Alberta|Region]]
+| subdivision_name2      = 
+|subdivision_type3      = [[Land-use framework regions of Alberta|Planning region]]
+|subdivision_name3      = [[Upper Athabasca Region|Upper Athabasca]]
+| subdivision_type4      = [[List of municipal districts in Alberta|Municipal district]]
+| subdivision_name4      = [[Woodlands County]]
+| government_footnotes   = <ref name=council>{{AMOS}}</ref>
+| government_type        =
+| leader_title           = Mayor
+| leader_name            = Maryann Chichak
+| leader_title1          = Governing body
+| leader_name1           = {{Collapsible list|title=Whitecourt Town Council
+|1=Paul Chauvet |2=Matt Connell |3=Ray Hilts|4=Bill McAree |5=Tom Pickard |6=Derek Schlosser}}
+| leader_title2          = CAO
+| leader_name2           = Peter Smyl
+| leader_title3          = [[Current members of the Canadian House of Commons|MP]]
+| leader_name3           = [[Arnold Viersen]]
+| leader_title4          = [[Legislative Assembly of Alberta|MLA]]
+| leader_name4           = [[Martin Long (politician)|Martin Long]]
+| established_title      = Founded<ref name=WctHist/>
+| established_date       = 1910
+| established_title1     = Incorporated<ref name=AMATownProfiles>{{cite web | url=http://www.municipalaffairs.alberta.ca/cfml/MunicipalProfiles/basicReport/TOWN.PDF | publisher=[[Alberta Municipal Affairs]] | title=Location and History Profile: Town of Whitecourt | page=744 | date=June 17, 2016 | access-date=June 19, 2016}}</ref>
+| established_date1      = &nbsp;
+| established_title2     = &nbsp;•&nbsp;[[List of villages in Alberta|Village]]
+| established_date2      = January 1, 1959
+| established_title3     = &nbsp;•&nbsp;[[List of towns in Alberta#New towns|New town]]
+| established_date3      = August 15, 1961
+| established_title4     = &nbsp;•&nbsp;[[List of towns in Alberta|Town]]
+| established_date4      = December 20, 1971
+| area_magnitude         =
+|area_footnotes           = &nbsp;(2016)<ref name=2016censusABmunis/>
+|area_total_km2           = 
+|area_land_km2            = 26.44
+|area_water_km2           = 
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_metro_km2           =
+|population_as_of               = {{#invoke:Wikidata|claim|P1082|qualifier=P585}}
+|population_footnotes           = <ref name=2016censusABmunis/>
+|population_note                = 
+|population_total               = {{#property:P1082}} <!-- 2016 StatCan population only per [[WP:CANPOP]];  do not replace with latest municipal census population count; this municipal census population count can go in the population_blank1_title and population_blank1 parameters further below and can be noted in the article body (so long as it doesn't replace the 2016 StatCan population in the body). -->
+|population_density_km2         = 386
+|population_metro               = 
+|population_density_metro_km2   = 
+|population_urban               = 
+|population_density_urban_km2   = 
+| population_blank1_title = [[Municipal census in Canada|Municipal census]] ([[Alberta municipal censuses, 2013|2013]])
+| population_blank1      = 10574<ref name=2013census/>
+| timezone               = [[Mountain Standard Time|MST]]
+| utc_offset             = −7
+| timezone_DST           = MDT
+| utc_offset_DST         = −6
+| elevation_footnotes    = <ref>{{cite web | url=http://www.safetycodes.ab.ca/Public/Documents/PSSSOP_Handbook_Version_12_Online_Feb_21_2012b.pdf | title=Alberta Private Sewage Systems 2009 Standard of Practice Handbook: Appendix A.3 Alberta Design Data (A.3.A. Alberta Climate Design Data by Town) | publisher=Safety Codes Council | type=PDF | pages=212–215 (PDF pages 226–229) | date=January 2012 | access-date=October 9, 2013}}</ref>
+| elevation_m            = 690
+|postal_code_type        = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code             = [[List of T postal codes of Canada|T7S]]
+| area_code              = [[Area code 780|+1-780]]
+| blank_name             = [[List of Alberta provincial highways|Highways]]
+| blank_info             = [[Alberta Highway 43|Highway 43]]<br />[[Alberta Highway 32|Highway 32]]
+| blank1_name            = Waterways
+| blank1_info            = [[Athabasca River]]<br />[[McLeod River]]<br />Sakwatamau River<br />Beaver Creek
+| website                = {{official URL}}
+| footnotes              =
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name                     = Sullivan City, Texas
+|official_name            = City of Sullivan City
+|settlement_type          = [[List of cities in Texas|City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = TXMap-doton-SullivanCity.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Sullivan City, Texas
+|image_map1               = Hidalgo County SullivanCity.svg
+|mapsize1                 = 250px
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Nowrap|{{Flag|United States of America|size=23px}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Texas|size=23px}}
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Hidalgo County, Texas.png|size=23px}} [[Hidalgo County, Texas|Hidalgo]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 9.30
+|area_land_km2            = 9.30
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 3.59
+|area_land_sq_mi          = 3.59
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|accessdate=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|population_total         = 4002
+|population_density_km2   = 448.55
+|population_density_sq_mi = 1161.88
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 61
+|elevation_ft             = 200
+|coordinates              = {{coord|26|16|30|N|98|34|6|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 78595
+|area_code                = [[Area code 956|956]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-70868<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1348049<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{url|http://www.sullivancity.org/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4170
+}}

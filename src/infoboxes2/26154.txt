@@ -1,0 +1,115 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name            = Dade City, Florida
+|official_name            = City of Dade City
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = "Tree City, U.S.A."
+|settlement_type          = City
+|motto                    = "Proud Heritage, Promising Future"
+<!-- images and maps  ----------->
+|image_skyline            = Pasco Cty Courthouse Dade City.jpg
+|imagesize                = 
+|image_caption            = The Pasco County Courthouse in June 2009
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Pasco_County_Florida_Incorporated_and_Unincorporated_areas_Dade_City_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Pasco County, Florida|Pasco County]] and the state of [[Florida]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Florida}}
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = {{flagicon image|Flag of Pasco County, Florida.png}} [[Pasco County|Pasco]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Camille Hernandez
+|leader_title1            = Commissioners
+|leader_name1             = Scott Black, Knute Nathe, Eunice M. Penix, James D. Shive, Normita Woodard
+|established_title        = 
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = <!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 15.88
+|area_land_km2            = 15.35
+|area_water_km2           = 0.53
+|area_total_sq_mi         = 6.13
+|area_land_sq_mi          = 5.93
+|area_water_sq_mi         = 0.21
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 6437
+|population_density_km2   = 478.04
+|population_density_sq_mi = 1238.06
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = Eastern (EST)
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|28|21|51|N|82|11|19|W|region:US-FL|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 36
+|elevation_ft             = 118
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 33523, 33525, 33526
+|area_code                = [[Area code 352|352]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-16125<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0281254<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25|url-status=live|archive-url=https://web.archive.org/web/20120212191832/http://geonames.usgs.gov/|archive-date=2012-02-12}}</ref>
+|website                  = [http://www.dadecityfl.com www.dadecityfl.com]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7338
+}}

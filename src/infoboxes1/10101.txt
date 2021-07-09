@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Kadirli
+| image_skyline           = 
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|37|22|11|N|36|06|00|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Osmaniye Province|Osmaniye]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Nationalist Movement Party|MHP]]
+| leader_title            = Mayor
+| leader_name             = Ömer Tarhan
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Ahmet Arik
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Osmaniye|Kadirli}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Osmaniye}}
+| population_urban        = {{Turkey district populations|Osmaniye|Kadirli|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Osmaniye|Kadirli|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 80750
+| website                 = {{URL| www.kadirli.bel.tr | www.kadirli.bel.tr }}
+}}

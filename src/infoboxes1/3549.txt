@@ -1,0 +1,56 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+
+|name          = Acarigua
+|settlement_type        = City
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|motto                  =
+
+|image_skyline          = Acarigua, Portuguesa, Venezuela - panoramio.jpg
+|imagesize              = 270px
+|image_caption          = Statue of Portuguesa in December 5 Square (Plaza del 5 de Diciembre)
+|image_flag             = Banderapaez.png
+|flag_size              =
+|image_shield           = Escudo-del-municipio-paez.jpg
+|pushpin_map            = Venezuela#South America
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Venezuela
+
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Venezuela}}
+|subdivision_type1      = [[States of Venezuela|State]]
+|subdivision_name1      = [[Portuguesa State]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Páez, Portuguesa|Páez Municipality]]
+|established_title      = Founded
+|established_date       = September 29, 1620
+|area_total_km2           =175
+|population_as_of               =2012
+|population_footnotes           =
+|population_note                =
+|population_total               =203358
+|population_density_km2         =auto
+|population_density_sq_mi       =
+|population_metro               =208,495
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_demonym             = Acarigüeño (a)
+|timezone = [[Venezuelan Standard Time Zone|VST]]
+|utc_offset = -4:30
+|coordinates            = {{coord|9|33|35|N|69|12|7|W|region:VE|display=inline}}
+|elevation_footnotes    =
+|elevation_m            = 195
+|postal_code_type       =  Postal code
+|postal_code            = 3301
+|area_code              = 0255
+|blank1_name            = [[Köppen climate classification|Climate]]
+|blank1_info            = [[Tropical savanna climate|Aw]]
+|website                = [http://www.alcaldiapaez.gob.ve/ Municipal website]
+|footnotes              =
+}}

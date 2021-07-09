@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = town
+| name     = Queenstown
+| state    = tas
+| image    = [[File:Orr Street, Queenstown.jpg|250px]]
+| caption  = [[Orr Street, Queenstown|Orr Street]], from centre, looking west
+| pop      = 1884
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name=Census2011Y>{{Census 2016 AUS|id=UCL615019|name=Queenstown (Urban Centre/Locality) |accessdate=10 December 2017|quick=on}}</ref>
+| elevation= 129
+| est      =
+| postcode = 7467
+| coordinates = {{coord|42|04|50|S|145|33|20|E|display=inline,title}}
+| maxtemp  = 16.4
+| maxtemp_footnotes  =<ref name="BoM"/>
+| mintemp  = 5.6
+| mintemp_footnotes  =<ref name="BoM"/>
+| rainfall = 2408.2
+| rainfall_footnotes  =<ref name="BoM"/>
+| lga          = [[West Coast Council]]
+| stategov     = [[Division of Braddon (state)|Braddon]]
+| fedgov       = [[Division of Braddon|Braddon]]
+| location1= [[Strahan, Tasmania|Strahan]]
+| dist1=41
+| location2= [[Rosebery, Tasmania|Rosebery]]
+| dist2=55
+| location3= [[Burnie, Tasmania|Burnie]]
+| dist3=154
+| location4= [[Hobart]]
+| dist4=248
+}}

@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                   = Migdal HaEmek
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|מִגְדַּל הָעֶמֶק}}|rtl=yes}}
+ | {{Lang|ar|مجدال هعيمق|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Migdal ha ʕemq
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Migdal HaEmeq (official)
+| image_skyline          = File:PikiWiki Israel 11196 Cities in Israel.JPG
+| image_blank_emblem     = Coat of arms of Migdal Haemek.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel jezreel#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|40|17|N|35|14|26|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1953
+| leader_title           = Mayor
+| leader_name            = Eliyahu Barda
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:7637|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Migdal Haemeq}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Tower of the Valley
+}}

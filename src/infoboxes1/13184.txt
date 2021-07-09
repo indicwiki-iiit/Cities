@@ -1,0 +1,42 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| official_name           = Puerto Francisco de Orellana
+| other_name              = (El Coca)
+| settlement_type         = 
+|image_skyline            = Puerto Francisco de Orellana 02.jpg
+| image_flag              = Bandera de Puerto Francisco de Orellana.png
+|image_seal               = 
+| image_caption           = Aerial view of the city
+| pushpin_map             = Ecuador
+| pushpin_label_position  = left
+| coordinates             = {{coord|00|27|45|S|76|59|03|W|region:EC_type:city|display=inline,title}}
+| coordinates_footnotes   = <ref name="GEOnet">{{GEOnet2|32FA883993873774E0440003BA962ED3|Puerto Francisco de Orellana, Orellana, Ecuador}}. Retrieved 7 November 2009.</ref>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Ecuador]]
+| subdivision_type1       = [[Provinces of Ecuador|Province]]
+| subdivision_name1       = [[Orellana Province|Orellana]]
+| subdivision_type2       = [[Cantons of Ecuador|Canton]]
+| subdivision_name2       = Puerto Francisco de Orellana
+| population_footnotes    = 
+| population_total        = 45163
+| population_as_of        = 2010 census
+| population_density_km2  = auto
+| population_metro        = 72795
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = Orellanese
+| elevation_m             = 300
+| area_total_km2          = 146.26
+| timezone                = [[Ecuador Time|ECT]] |
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = (+593) 6
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Tropical rainforest climate|Af]]
+| website                 = [http://www.orellana.gob.ec/ www.orellana.gob.ec] {{in lang|es}}
+| footnotes               = 
+}}

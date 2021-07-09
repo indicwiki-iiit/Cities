@@ -1,0 +1,101 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info ---------------->
+|official_name = Sonoma, California
+|settlement_type = [[City (California)|City]]
+|other_name = 
+|native_name = <!-- for cities whose native name is not in English -->
+|nickname = 
+|motto = <!-- images and maps ----------->
+| image_skyline                   = {{Photomontage
+| photo1a                 = Sonoma City Hall 2016 (cropped).jpg
+| photo2a                 = Blue Wing Inn (front) - Sonoma State Historic Park.jpg
+| photo2b                 = Viansa Vineyards & Winery, Sonoma Valley, California, USA (4864599939) (cropped).jpg
+| photo4a                 = Sonoma, CA USA - Mission San Francisco Solano - panoramio (12) (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 275
+| foot_montage            = Clockwise: [[Sonoma Plaza]]; [[Wine Country (California)|Wine Country]]; [[Mission San Francisco Solano (California)|Mission San Francisco Solano]]; [[Blue Wing Inn]]
+}}
+|image_flag = 
+|flag_size = 
+|image_seal = 
+|seal_size = 
+|image_map = Sonoma_County_California_Incorporated_and_Unincorporated_areas_Sonoma_Highlighted.svg
+|mapsize = 250x200px
+|map_caption = Location in [[Sonoma County, California|Sonoma County]] and [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Sonoma County, California|Sonoma]]
+<!-- Politics ----------------->
+|government_type = [[Council–manager government|Council–manager]]<ref name=form>{{Cite web|url=http://www.sonomacity.org/default.aspx?PageId=49|title=City Council Overview|publisher=City of Sonoma|access-date=January 24, 2015|archive-url=https://web.archive.org/web/20121208210738/http://www.sonomacity.org/default.aspx?PageId=49|archive-date=December 8, 2012|url-status=dead}}</ref>
+|leader_title = [[Mayor]]
+|leader_name = Madolyn Agrimonti<ref>{{cite web | title = City Council | publisher = City of Sonoma | url = https://www.sonomacity.org/departments/city-council/ | access-date = July 14, 2020}}</ref>
+|leader_title1 = [[City Manager]]
+|leader_name1 = David Kiff<ref name=manager>{{Cite web|url=https://www.sonomacity.org/departments/city-manager/|title=City Manager - City of Sonoma|access-date=February 19, 2019|archive-url=https://web.archive.org/web/20190220002957/https://www.sonomacity.org/departments/city-manager/|archive-date=February 20, 2019|url-status=live}}</ref>
+|established_title3 = [[Municipal corporation|Incorporated]]
+|established_date3 = September 3, 1883<ref name="CAC">{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+| unit_pref = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi = 2.74
+| area_land_sq_mi = 2.74
+| area_water_sq_mi = 0.00
+| area_total_km2 = 7.11
+| area_land_km2 = 7.11
+| area_water_km2 = 0.00
+| area_water_percent = 0
+| area_note = 
+|area_metro_km2 = 
+|area_metro_sq_mi = <!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0672646.html|title=Sonoma (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 12, 2015|archive-url=https://web.archive.org/web/20150403233543/http://quickfacts.census.gov/qfd/states/06/0672646.html|archive-date=April 3, 2015|url-status=dead}}</ref>
+|population_total = 10648
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11024
+|population_density_sq_mi = 4017.49
+|population_metro = 483878
+|population_metro_footnotes = <ref>{{Cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/P1/310M100US42220|title=American FactFinder - Results|publisher=[[United States Census Bureau]]|access-date=May 1, 2015|archive-url=https://archive.today/20200213005639/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/P1/310M100US42220|archive-date=February 13, 2020|url-status=dead}}</ref>
+|population_density_metro_sq_mi = auto
+<!-- General information --------------->
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = -8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = -7
+|coordinates = {{coord|38|17|20|N|122|27|32|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|elevation_footnotes = <ref>{{Cite gnis|277617|Sonoma}}</ref>
+|elevation_m = 26
+|elevation_ft = 85
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[ZIP code]]
+|postal_code = 95476
+|area_code_type = [[North American Numbering Plan|Area code]]
+|area_code = [[Area code 707|707]]
+|blank_name = [[Federal Information Processing Standard|FIPS]] code
+|blank_info = {{FIPS|06|72646}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|277617}}, {{GNIS 4|2411929}}
+|website = {{URL|www.sonomacity.org}}
+|population_density_km2 = 1551.39
+}}

@@ -1,0 +1,30 @@
+{{Infobox Australian place | type = suburb
+| name     = Dromana
+| city     = Melbourne
+| state    = vic
+| image    = File:Dromana Nepean Highway 2010.JPG
+| caption  = 
+| lga      = Shire of Mornington Peninsula
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|38.338|S|144.965|E|display=inline,title}}
+| postcode = 3936
+| pop      = 5803 
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name=census>{{Census 2016 AUS|id=SSC20782|name=Dromana (State Suburb)|accessdate=13 April 2018|quick=on}}</ref>
+| area     = 6.2
+| est      = 
+| stategov = [[Electoral district of Nepean|Nepean]]
+| fedgov   = [[Division of Flinders|Flinders]]
+| dist1    = 75
+| location1= [[Melbourne]]
+| dist2    = 7
+| location2= [[Rosebud, Victoria|Rosebud]]
+| near-nw  = ''[[Port Phillip]]''
+| near-n   = [[Safety Beach, Victoria|Safety Beach]]
+| near-ne  = [[Safety Beach, Victoria|Safety Beach]]
+| near-w   = ''[[Port Phillip]]''
+| near-e   = [[Merricks North, Victoria|Merricks North]]
+| near-sw  = [[McCrae, Victoria|McCrae]]
+| near-s   = [[Arthurs Seat, Victoria|Arthurs Seat]]
+| near-se  = [[Red Hill, Victoria|Red Hill]]
+}}

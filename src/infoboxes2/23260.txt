@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                     = West Plains, Missouri
+|settlement_type          = [[City]]
+|motto                    = Make It Happen Here
+
+<!-- Images -->
+|image_skyline            = West_Plains_City_Hall.jpg
+|image_caption            = West Plains City Hall (2017)
+|image_flag               = Flag of West Plains, Missouri.svg
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Howell_County_Missouri_Incorporated_and_Unincorporated_areas_West_Plains_Highlighted.svg
+|map_caption              = Location within [[Howell County, Missouri|Howell County]] and [[Missouri]]
+|image_map1               = 
+|map_caption1             =
+
+<!-- Location ------------------>
+|coordinates              = {{coord|36|44|14|N|91|51|54|W|type:city_region:US-MO|display=it}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Missouri]]
+|subdivision_type2        = [[List of counties in Missouri|County]]
+|subdivision_name2        = [[Howell County, Missouri|Howell]]
+|subdivision_type3        = [[List of townships in Missouri|Township]]
+|subdivision_name3        =
+
+<!-- Politics ----------------->
+|government_type          = [[Mayor–council government|Mayor–council]]
+|leader_title             = Mayor
+|leader_name              = Jack Pahlmann (R)<ref name="Pahlmann Mayor">{{cite web|url=http://articles.ky3.com/2012-08-28/jack-pahlmann_33458587 |title=Jack Pahlmann is new mayor of West Plains |access-date=2013-06-05}}</ref>
+|leader_title1            = City council
+|leader_name1             = {{collapsible list|bullets=yes
+ | title = Members
+ | 1 = Mayor Pro-Tem Brenda Smith
+ | 2 = Councilman Mike Topliff
+ | 3 = Councilman Cary Stewart
+ | 4 = Councilman Josh Cotter, PhD
+ }}
+|established_title        = First settled
+|established_date         = 1838<ref name="Eaton Name Origins">{{cite book|last1=Eaton|first1=David W.|title=How Missouri Counties, Towns and Streams Were Named|date=1916|publisher=State Historical Society of Missouri|page=[https://archive.org/details/bub_gb_RfAuAAAAYAAJ/page/n72 175]|url=https://archive.org/details/bub_gb_RfAuAAAAYAAJ|access-date=13 July 2015}}</ref>
+|established_title1       = Incorporated (city)
+|established_date1        = 1883<ref name="SOS Roster">{{cite web|url=http://www.sos.mo.gov/MOroster/municipalities.pdf |title=Missouri Places Roster, 2009–2010 |access-date=2013-06-05}}</ref>
+|founder                  = Josiah Howell
+|named_for                = Location on a prairie west of the nearest town<ref name="Eaton Name Origins" />
+
+<!-- Area    --------------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_29.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_total_km2           = 34.42
+|area_land_km2            = 34.36
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 13.29
+|area_land_sq_mi          = 13.27
+|area_water_sq_mi         = 0.02
+|area_water_percent       = 0.15
+|area_blank1_title        = [[Micropolitan Statistical Area|μSA]]
+|area_blank1_sq_mi        = 928.33
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 12304
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 11986
+|population_density_sq_mi = 927.34
+|population_density_km2   = 358.05
+
+<!-- General information  --------------->
+|timezone                 = Central Standard Time
+|utc_offset               = &minus;6
+|timezone_DST             = Central Daylight Time
+|utc_offset_DST           = &minus;5
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 306
+|elevation_ft             = 1004
+
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 65775
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = 417 Exchanges: 255,256,257,853
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 29-78928 <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0740027 <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.westplains.net|westplains.net}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Bhojpur
+|other_name             = 
+|native_name            = भोजपुर
+|nickname               =
+|settlement_type        = [[Neighborhood]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 300  
+|image_caption          = 
+|image_flag             =
+|image_seal             =
+|mapsize                = 
+|map_caption            =
+|pushpin_map            = Nepal Province1#Nepal
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        = 300
+<!-- Location ------------------>
+|pushpin_map_caption    = Location
+|pushpin_relief         = 1
+|coordinates            = {{coord|27|10|N|87|3|E|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Province No. 1]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Bhojpur District, Nepal|Bhojpur]]
+|subdivision_type3      = [[Municipalities of Nepal|Municipality]] 
+|subdivision_name3      = [[Bhojpur Municipality]]
+|subdivision_type4      = [[Wards and electoral divisions of Nepal|Wards]]
+|subdivision_name4      = 6, 7, 8 & 9
+|<!-- Politics -->
+|government_footnotes   =
+|government_type        = [[Ward (electoral subdivision)|Ward council]]
+|leader_title           = Chairperson
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|leader_title2          = [[Term of office]]
+|leader_name2           = (2017 - 2022)
+|established_title      = Established
+|established_date       = 10 March 2017
+<!-- Area    -->
+|unit_pref              =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2         = 13.45
+<!-- Population   -->
+|area_rank                      = 
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 7,446
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = Postal Code
+|postal_code            = 
+|area_code              = 
+|blank_name             = 
+|blank_info             = 
+|website                = {{url|https://www.bhojpurmun.gov.np/}}
+|footnotes              = 
+}}

@@ -1,0 +1,29 @@
+{{Infobox Australian place| type = town
+| name     = Deniliquin
+| state    = nsw
+| image    = Deniliquin Boer War Memorial Lamp 001.JPG
+| caption  = Deniliquin town centre
+| lga      = Edward River Council
+| county   = [[Townsend County, New South Wales|Townsend]]
+| postcode = 2710
+| pop      = 7862
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC11237 |name=Deniliquin (State Suburb) |accessdate=3 January 2018 |quick=on}}</ref>
+| elevation= 93.0
+| coordinates = {{coord|35|32|0|S|144|58|0|E|display=inline,title}}
+| maxtemp  = 23.6
+| mintemp  = 9.5
+| rainfall = 405.7
+| stategov = [[Electoral district of Murray|Murray]]
+| fedgov   = [[Division of Farrer|Farrer]]
+| dist1    = 724
+| location1=[[Sydney]]
+| dist2    = 284
+| location2=[[Melbourne]]
+| dist3    = 138
+| location3=[[Shepparton, Victoria|Shepparton]] ([[Victoria (Australia)|Victoria]])
+| dist4    = 184
+| location4=[[Bendigo, Victoria|Bendigo]] ([[Victoria (Australia)|Victoria]])
+| dist5    = 234
+| location5=[[Griffith, New South Wales|Griffith]]
+}}

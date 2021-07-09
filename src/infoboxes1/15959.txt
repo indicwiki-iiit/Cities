@@ -1,0 +1,23 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Kadiivka
+| native_name                     = Кадіївка
+| native_name_lang                = uk
+| other_name                      = Стаханов
+| settlement_type                 = [[City of regional significance (Ukraine)|City of regional significance]]
+| image_flag                      = Flag of Stahanov.png
+| image_shield                    = Stahanov coa.png
+| coordinates                     = {{coord|48|34|05|N|38|39|31|E|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| pushpin_map                     = Ukraine Lugansk Oblast#Ukraine
+| pushpin_label_position          = 
+| subdivision_type                = Country
+| subdivision_name                = [[Ukraine]]
+| subdivision_type1               = Province
+| subdivision_name1               = [[Luhansk Oblast]]
+| population_footnotes            = 
+| population_total                = 74053
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Humid continental climate#Mild/cool summer subtype|Dfb]]
+| official_name                   = Kadiivka
+}}

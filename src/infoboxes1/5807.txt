@@ -1,0 +1,15 @@
+{{Infobox UNESCO World Heritage Site
+| child =
+| WHS = <!-- leave empty, unless for stand-alone infoboxes that need a title different from the article title -->
+| image = Dujiang Weir.jpg
+| image_upright = 1.2
+| caption = Dujiangyan irrigation system
+| location = [[Dujiangyan City]], [[Chengdu]], [[Sichuan]], China
+| part_of = [[Mount Qingcheng]] and the Dujiangyan Irrigation System
+| criteria = {{UNESCO WHS type|(ii)(iv)(vi)}}(ii)(iv)(vi)
+| ID = 1001
+| coordinates = {{coord|31|0|6|N|103|36|19|E|format=dms|display=inline, title}}
+| year = 2000
+| locmapin = Sichuan#China
+| map_caption =
+}}

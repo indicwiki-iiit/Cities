@@ -1,0 +1,50 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Jeonju}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|전주시}}}}
+| settlement_type         = [[Cities of South Korea|Specific city]]
+| translit_lang1          = Korean
+| translit_lang1_type1    = Hangul
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|전|주|시}}}}
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|全|州|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info3    = Jeonju-si
+| translit_lang1_info4    = Chŏnju-si
+| image_caption           = 
+| image_blank_emblem      = Jeonju logo.png
+| blank_emblem_type       = Emblem of Jeonju
+| image_map               = North Jeolla-Jeonju.svg
+| map_caption             = Location in South Korea
+| coordinates             = {{coord|35|49|N|127|09|E|region:KR-45|display=it}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = South Korea
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Honam]]
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 2 ''Gu'', 40 ''dong''
+<!-- Politics ----------------->
+| government_type         = City Government
+| leader_party            = {{Small|[[Democratic Party of Korea|Democratic]]}}
+| leader_title            = Mayor
+| leader_name             = Kim Seung-soo 
+| leader_title1 = Council
+| leader_name1 = Jeonju City Council
+| area_total_km2          = 206.22
+<!--
+| population_total        = 654,040  
+| population_as_of        = 2012
+-->
+| population_total        = 652,392 
+| population_as_of        = 2017
+| population_density_km2  = 3163.6
+| population_blank1_title = Dialect
+| population_blank1       = [[Jeolla dialect|Jeolla]]
+| timezone1               = 
+| utc_offset1             = +9
+| postal_code_type        = [[ZIP code]]s
+| postal_code             = 560011-561870
+| area_code_type          = [[Area Code]]
+| area_code               = +82-63-2xx
+| website                 = {{url|http://www.jeonju.go.kr/open_content/en/main_page.jsp|Official website}}
+}}

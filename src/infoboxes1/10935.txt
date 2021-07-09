@@ -1,0 +1,82 @@
+{{Infobox country
+| conventional_long_name = Barbados
+| common_name            = Barbados
+| image_flag             = Flag of Barbados.svg
+| image_coat             = Coat of arms of Barbados (3).svg
+| image_map              = BRB orthographic.svg
+| national_motto         = "Pride and Industry"
+| national_anthem        = "[[In Plenty and In Time of Need]]"<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:In Plenty and In Time of Need instrumental.ogg]]}}</div>
+| official_languages     = [[English in Barbados|English]]
+| regional_languages     = [[Bajan Creole]]
+| ethnic_groups          = {{vunblist
+| 91% [[Afro-Barbadian|Black]]
+| 4% [[White Barbadian|White]]
+| 3.5% [[Multiracial]]
+| 1% [[Indians in Barbados|Indian]]
+| 0.5% Other/Unspecified
+}}
+| ethnic_groups_year     = 2010<ref name="cia"/>
+| religion               = {{vunblist
+|75.6% [[Christianity]]
+|20.6% [[Irreligion|No religion]]
+|2.5% [[Religion in Barbados|Other]]s
+|1.3% Unspecified<ref name="cia"/>
+}}
+| capital                = [[Bridgetown]]
+| coordinates            = {{Coord|13|06|N|59|37|W|type:city|display=inline}}
+| largest_city           = capital
+| demonym                = {{vunblist|[[Barbadians|Barbadian]]|Bajan (colloquial)}}
+| government_type        = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1          = [[Monarchy of Barbados|Monarch]]
+| leader_name1           = [[Elizabeth II]]
+| leader_title2          = {{nowrap|[[Governor-General of Barbados|Governor-General]]}}
+| leader_name2           = [[Sandra Mason]]
+| leader_title3          = [[Prime Minister of Barbados|Prime Minister]]
+| leader_name3           = [[Mia Mottley]]
+| legislature            = [[Parliament of Barbados|Parliament]]
+| upper_house            = [[Senate of Barbados|Senate]]
+| lower_house            = [[House of Assembly of Barbados|House of Assembly]]
+| area_km2               = 439
+| area_sq_mi             = 166<!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank              = 183rd <!-- Should match [[List of countries and dependencies by area]] -->
+| percent_water          = Negligible
+| population_estimate    = 287,025<ref>United Nations. "World Population Prospects 2019".</ref>
+| population_census      = 277,821<ref name=geo>{{cite web |url=http://www.geohive.com/cntry/barbados.aspx |title=Barbados – General Information |publisher=GeoHive |access-date=16 December 2013 |archive-url=https://web.archive.org/web/20170201015844/http://www.geohive.com/cntry/barbados.aspx |archive-date=1 February 2017 |url-status=live}}</ref>
+| population_estimate_rank = 182nd
+| population_estimate_year = 2019
+| population_census_rank =
+| population_census_year = 2010
+| population_density_km2 = 660
+| population_density_sq_mi = 1,704<!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 15th
+| GDP_PPP                = $5.398 billion
+| GDP_PPP_year           = 2019
+| GDP_PPP_per_capita     = $18,798<ref name="imf.org">{{Cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=65&pr.y=5&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=316&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+| GDP_nominal            = $5.207 billion
+| GDP_nominal_year       = 2019
+| GDP_nominal_per_capita = $18,133<ref name="imf.org"/>
+| sovereignty_type       = [[Independence]]
+| established_event1     = From the United Kingdom
+| established_date1      = 30 November 1966
+| Gini_year              =
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini                   = <!--number only-->
+| Gini_ref               =
+| Gini_rank              =
+| HDI_year               = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI                    = 0.814 <!--number only-->
+| HDI_ref                = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank               = 58th
+| currency               = [[Barbadian dollar]] ($)
+| currency_code          = BBD
+| country_code           =
+| time_zone              = [[Atlantic Time Zone|AST]]
+| utc_offset             = −4
+| time_zone_DST          =
+| utc_offset_DST         =
+| drives_on              = Left<ref name=fco>{{cite web|date=29 August 2006 |archive-url= https://web.archive.org/web/20071015163750/http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket%2FXcelerate%2FShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |url= http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&c=Page&cid=1007029390590&a=KCountryAdvice&aid=1013618386991 |archive-date=15 October 2007 |title= Barbados |url-status=dead }} (fco.gov.uk), updated 5 June 2006.</ref>
+| calling_code           = [[North American Numbering Plan|+1]] [[Area code 246|-246]]
+| cctld                  = [[.bb]]
+| today                  =
+}}

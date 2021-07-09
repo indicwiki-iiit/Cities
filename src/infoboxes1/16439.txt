@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Village of Orland Park, Illinois
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Village
+| image_skyline           = OrlandSquareMallOutside_January2020.png
+| image_alt               = 
+| image_caption           = The [[Orland Square]] Mall in January 2020
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = "Where you want to be"
+| image_map = File:Cook County Illinois Incorporated and Unincorporated areas Orland Park Highlighted.svg
+| mapsize = 260px
+| map_caption = Location of Orland Park in Cook and Will Counties, Illinois.
+| image_map1 = Illinois in United States (US48).svg
+| map_caption1 = Location of Illinois in the United States
+| coordinates             = {{coord|41|36|26|N|87|51|42|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = {{US}}
+| subdivision_type1       = State
+| subdivision_name1       = Illinois
+| subdivision_type2       = [[County (United States)|Counties]]
+| subdivision_name2       = [[Cook County, Illinois|Cook]], [[Will County, Illinois|Will]]
+| subdivision_type3       = [[Civil township|Townships]]
+| subdivision_name3       = Cook: [[Orland Township, Cook County, Illinois|Orland]], [[Palos Township, Cook County, Illinois|Palos]], [[Bremen Township, Cook County, Illinois|Bremen]] <br> Will: [[Frankfort Township, Will County, Illinois|Frankfort]]
+| established_title       = [[Municipal corporation|Incorporated]]
+| established_date        = May 31, 1892
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = [[Council–manager government|Council–manager]]
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = Keith Pekau<ref name="tribune">{{cite web|last1=Nolan|first1=Mike|title=Incoming Orland Park mayor to hold post-election fundraiser|url=http://www.chicagotribune.com/suburbs/daily-southtown/news/ct-sta-orland-mayor-fundraiser-st-0510-20170509-story.html|website=Chicago Tribune|access-date=5 June 2017}}</ref>
+| leader_title1           = 
+| leader_name1            = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref> </re> -->
+| area_rural_footnotes    = <!-- <ref> </re> -->
+| area_metro_footnotes    = <!-- <ref> </re> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 1.31
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = <!-- square miles -->
+| area_total_sq_mi        = 22.31
+| area_land_sq_mi         = 22.02
+| area_water_sq_mi        = 0.28
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = <!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = <ref name="GR4">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic|title=Geographic Names Information System|access-date=2008-01-31|publisher=[[United States Geological Survey]]}}</ref>
+| elevation_ft            = 686
+| population_footnotes    = 
+| population_total        = 56767
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_sq_mi = 2627.12
+| population_demonym      = 
+| population_note         = 
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[ZIP code|<span style="white-space:nowrap;">ZIP code(s)</span>]]
+| postal_code             = 60462, 60467
+| area_code_type          = [[North American Numbering Plan|<span style="white-space:nowrap;">Area code(s)</span>]]
+| area_code               = [[Area code 708|708]]
+| iso_code                = 
+| geocode                 = 56640
+| website                 = {{URL|www.orland-park.il.us}}
+| footnotes               = <!-- demographics (section 1) -->
+| demographics_type1      = Standard of living ([[American Community Survey|2009-11]])
+| demographics1_footnotes = 
+| demographics1_title1    = [[Per capita income]]
+| demographics1_info1     = $35,320
+| demographics1_title2    = [[Real estate appraisal|Median home value]]
+| demographics1_info2     = $292,200
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 57857
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 17-56640
+|area_total_km2 = 57.77
+|area_land_km2 = 57.04
+|area_water_km2 = 0.73
+|population_density_km2 = 1014.32
+}}

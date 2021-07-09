@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_shield = Coa_Hungary_Town_Nagykálló.svg
+|image_flag = Flag of Nagykálló.svg
+|image_skyline = Nagykálló légifotó.jpg
+|image_caption = Aerial view of Nagykálló
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|coordinates            = {{coord|47|53|N|21|51|E|region:HU_type:city|display=title, inline}}
+
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Nagykálló
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Szabolcs-Szatmár-Bereg County|Szabolcs-Szatmár-Bereg]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Nagykálló District|Nagykálló]]
+|area_total_km2=68.55
+|population_as_of=2005
+|population_total=10483
+|population_footnotes=
+|population_density_km2=auto
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=4320
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 42
+|website={{URL|http://nagykallo.hu/}}
+}}

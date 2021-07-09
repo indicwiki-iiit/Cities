@@ -1,0 +1,24 @@
+{{Infobox dog breed
+| name                          = Pungsan
+| image                         = Poongsandogs.JPG
+| image_caption                 = Pungsan dogs
+| altname                       = Phungsan<br />Poongsan<br />Pungsangae
+| nickname                      =
+| country                       = [[Korea]]
+| collapse_standards_and_traits = yes
+<!-----Traits----->
+| weight                        = {{convert|20|-|30|kg|lb|0|abbr=on}}
+| maleweight                    =
+| femaleweight                  =
+| height                        =
+| maleheight                    = {{convert|60|-|65|cm|in|0|abbr=on}}
+| femaleheight                  = {{convert|50|-|60|cm|in|0|abbr=on}}
+| coat                          =
+| color                         =
+| litter_size                   =
+| life_span                     = <!-----Classification and standards----->
+| fcistd                        =
+| extinct                       =
+| notrecognized                 = yes
+| note                          = 
+}}

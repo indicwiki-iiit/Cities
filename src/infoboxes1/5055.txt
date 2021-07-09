@@ -1,0 +1,31 @@
+{{Infobox Australian place | type = lga 
+| name     = City of Subiaco
+| state    = wa
+| image    = Subiaco LGA WA.png
+| image_upright = 0.9
+| caption  = 
+| pop      = 19,359
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA57980 |name=Subiaco (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 17,106
+| pop2_year          = 2018 est.
+| pop2_footnotes     = <ref name=ABS3218.0>{{cite web|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|title=3218.0 – Regional Population Growth, Australia, 2017-18|publisher=Australian Bureau of Statistics|date=27 March 2019|access-date=31 December 2019}} Estimated resident population (ERP) at 30 June 2018.</ref>
+| area     = 7.0
+| density = 2340
+| est      = 1896
+| seat     = [[Subiaco, Western Australia|Subiaco]]
+| mayor    = Penny Taylor
+| region   = [[Perth|West Metropolitan Perth]]
+| logo     = Coat of arms of City of Subiaco.svg
+| url      = http://www.subiaco.wa.gov.au
+| stategov = [[Electoral district of Nedlands|Nedlands]]
+| fedgov   = [[Division of Curtin|Curtin]]
+| near-nw  = [[Town of Cambridge|Cambridge]]
+| near-n   = [[Town of Cambridge|Cambridge]]
+| near-ne  = [[City of Vincent|Vincent]]
+| near-w   = [[City of Nedlands|Nedlands]]
+| near-e   = [[City of Perth|Perth]]
+| near-sw  = [[City of Nedlands|Nedlands]]
+| near-s   = ''[[Kings Park, Western Australia|Kings Park]]''
+| near-se  = ''[[Kings Park, Western Australia|Kings Park]]''
+}}

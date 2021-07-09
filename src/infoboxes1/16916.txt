@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Elmhurst, Illinois
+| official_name           = City of Elmhurst
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[City]]
+| image_skyline           = Elmhurst_City_Center.jpg
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = {{unbulleted list
+  | "Close to Everything, Unlike Anything"
+  | "Ideal for your business, your family, your life"
+ }}
+| image_map               = File:DuPage County Illinois Incorporated and Unincorporated areas Elmhurst Highlighted.svg
+| mapsize                 = 260px
+| map_caption             = Location of Elmhurst in DuPage County, Illinois.
+| coordinates             = {{coord|41|53|32|N|87|56|38|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|Illinois}}
+| subdivision_type2       = [[County (United States)|Counties]]
+| subdivision_name2       = [[DuPage County, Illinois|DuPage]], [[Cook County, Illinois|Cook]]
+| subdivision_type3       = [[Civil township|Townships]]
+| subdivision_name3       = [[Addison Township, DuPage County, Illinois|Addison]], [[York Township, DuPage County, Illinois|York]], and [[Proviso Township, Cook County, Illinois|Proviso]]
+| established_title       = [[Municipal corporation|Incorporated]]
+| established_date        = 1910
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = [[Council–manager government|Council–manager]]
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = Steven M. Morley <ref>{{cite web | title = Council Members | publisher = City of Elmhurst | url = http://www.elmhurst.org/251/Council-Members | access-date = January 2, 2017}}</ref>
+| leader_title1           = 
+| leader_name1            = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes    = <!-- <ref name="auto"/> -->
+| area_metro_footnotes    = <!-- <ref name="auto"/> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 0.58
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = <!-- square miles -->
+| area_total_sq_mi        = 10.28
+| area_land_sq_mi         = 10.22
+| area_water_sq_mi        = 0.06
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = <!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_ft            = 
+| population_footnotes    = <ref name="census.gov">{{cite web|url=https://www.census.gov/quickfacts/fact/table/elmhurstcityillinois#viewtop}}</ref>
+| population_total        =47,260<ref name="year2021" />
+| population_as_of        = 2021
+| population_density_sq_mi = 4575.32
+| population_demonym      = 
+| population_note         = 
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[ZIP Code]]
+| postal_code             = 60126, 60127
+| area_code_type          = [[North American Numbering Plan|Area codes]]
+| area_code               = [[Area codes 630 and 331#United States|630 and 331]]
+| blank1_name             = [[Geographic Names Information System|GNIS]] ID
+| blank1_info             = {{GNIS4|2394673}}
+| website                 = {{URL|www.elmhurst.org}}
+| footnotes               = <!-- demographics (section 1) -->
+| demographics_type1      = Standard of living ([[American Community Survey|2009-11]])
+| demographics1_footnotes = 
+| demographics1_title1    = [[Per capita income]]<ref name="city-data.com">http://www.city-data.com/city/Elmhurst-Illinois.html</ref>
+| demographics1_info1     = $50,760
+ 
+| demographics1_title2    = [[Real estate appraisal|Median home value]]<ref name="city-data.com">http://www.city-data.com/city/Elmhurst-Illinois.html</ref>
+| demographics1_info2     = $403,704
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 46746
+|blank_name = [[Federal Information Processing Standards|FIPS]] code
+|blank_info = {{FIPS|17|23620}}
+|area_total_km2 = 26.62
+|area_land_km2 = 26.46
+|area_water_km2 = 0.15
+|population_density_km2 = 1766.49
+}}

@@ -1,0 +1,24 @@
+{{Infobox UK place
+|country                  = England
+|population               = 229,941 
+|population_ref           = (2011 Urban Area)<ref name=BUA>{{NOMIS2011|id=E34005056|title=Milton Keynes built-up area|access-date=3 August 2020}}</ref>
+|area_total_km2           = 89 <!-- This is the size of the original designated area. No reliable source could be found that gives the extent of the modern settlement. The ONS figure of 62,52 is for the built-upon area only and excludes parks, rivers and lakes. (see "map" option in Nomis). -->
+|area_footnotes           = <ref name=longaz />
+|coordinates              = {{coord|52.04|-0.76|display=inline,title}}
+|official_name            = Milton Keynes
+|unitary_england          = [[Borough of Milton Keynes|Milton Keynes]]
+|lieutenancy_england      = [[Buckinghamshire]]
+|region                   = South East England
+|constituency_westminster = [[Milton Keynes North (UK Parliament constituency)|Milton Keynes North]]
+|constituency_westminster1= [[Milton Keynes South (UK Parliament constituency)|Milton Keynes South]]
+|post_town                = MILTON KEYNES
+|postcode_area            = MK
+|postcode_district        = MK1–15, MK17, MK19
+|dial_code                = 01908
+|os_grid_reference        = SP841386
+|london_distance          = {{convert|50|mi|abbr=on}}{{efn|From [[Milton Keynes Bowl]] to [[Marble Arch]] via [[Watling Street]] is {{convert|45|mi}}.<ref name=milestone>According to a nearby historic [[milestone]].</ref> By rail from {{rws|Milton Keynes Central}} to {{rws|Euston}} is {{convert|49|mi|65|ch|mi km|2|lk=on}}.<ref name=chains>{{cite web| url=http://www.railwaycodes.org.uk/elrs/_mileages/l/lec1.shtm | title=Engineer's Line References |publisher= RailwayCodes.org |date= 28 July 2018 | access-date=15 February 2019}}</ref> From [[Central Milton Keynes]] to [[Charing Cross]] via the [[M1 motorway]] is {{convert|55|mi}}.<ref name=viaM1>{{cite web| url=https://www.google.com/maps/dir/Central+Milton+Keynes/Charing+Cross,+London/@51.7831303,-0.6011838,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4877aaa273a751bd:0x48c187787e8bd0b3!2m2!1d-0.7679071!2d52.0375851!1m5!1m1!1s0x487604ce4a482bad:0x1d97d582ce284abc!2m2!1d-0.12755!2d51.5073!3e0 | title = Central Milton Keynes to Charing Cross | publisher=[[Google Maps]] | access-date=15 February 2019}}</ref>}}
+|london_direction = SSE
+|static_image_name        = MK Montage.jpg
+|static_image_caption     = Top to bottom, left to right: The [[Xscape (building)|Xscape]] and [[Milton Keynes Theatre|Theatre]] seen from [[Campbell Park]]; [[Wolverton railway works|former railway works]] and new housing in [[Wolverton]]; [[Milton Keynes Central railway station]]; the [[Central Milton Keynes]] skyline; the central ecumenical [[Church of Christ the Cornerstone]]; and [[Bletchley]]'s high street "Queensway". <!-- Montage created by submitter using their own pictures and released to Commons as a single composite unit under GFDL. They have chosen not to release the component elements individually. -->
+|website                  = {{URL|http://www.milton-keynes.gov.uk}}
+}}

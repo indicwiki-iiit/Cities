@@ -1,0 +1,69 @@
+{{Infobox bridge
+|bridge_name      = Millau Viaduct
+|native_name      =
+|native_name_lang =
+|image            = ViaducdeMillau.jpg
+|image_size 	  = 350px
+|alt              = 
+|caption          = A view of the Millau Viaduct in 2005.
+|official_name    = '''{{lang|fr|le Viaduc de Millau}}'''
+|other_name       =
+|carries          = 4 lanes of the [[A75 autoroute]]
+|crosses          = [[Gorge]] [[valley]] of the river [[Tarn (river)|Tarn]]
+|locale           = [[Millau]]-[[Creissels]], [[Aveyron]], [[France]]
+|owner            =
+|maint            = [[Eiffage|Compagnie Eiffage du Viaduc de Millau]]<ref name=structurae>{{Structurae|accessdate=12 September 2018}}</ref>
+|id               =
+|designer         = [[Michel Virlogeux|Dr Michel Virlogeux]], structural engineer<ref name=structurae/>
+|engineering      =
+|design           = Multiple-span [[Cable-stayed bridge|cable-stayed]] [[viaduct]] [[Autoroutes of France|motorway]] [[bridge]]<ref name=structurae/>
+|material         = [[Concrete]], [[steel]]
+|length           = {{convert|2460|m|abbr=on}}<ref name=structurae/>
+|width            = {{convert|32.05|m|abbr=on}}<ref name=structurae/>
+|height           = {{convert|336.4|m|abbr=on}} (max pylon above ground)<ref name=structurae/><ref name=BBC-Dec2004/>
+|mainspan         = {{convert|342|m|abbr=on}}<ref name=structurae/>
+|spans            = {{convert|204|m|abbr=on}},<br />6×{{convert|342|m|abbr=on}},<br />{{convert|204|m|abbr=on}}<ref name=structurae/>
+|pierswater       =
+|load             =
+|clearance        =
+|below            = {{convert|270|m|abbr=on}}<ref name=structurae/><ref name=BBC-May2004>{{cite web|url=http://news.BBC.co.uk/1/hi/world/europe/3759307.stm|title=France 'completes' tallest bridge|website=news.BBC.co.uk|publisher=[[BBC News]]|date=29 May 2004|access-date=2 May 2017}}</ref>
+|life             = 120&nbsp;years
+|builder          = [[Eiffage|Compagnie Eiffage du Viaduc de Millau]]<ref name=structurae/><ref name=BBC-Dec2004/><ref name=BBC-May2004/><ref name=BBC-Nov2003>{{cite news |author=Chris Bockman |url=http://news.bbc.co.uk/1/hi/world/europe/3237329.stm |title=France builds world's tallest bridge |location=Millau |work=[[BBC News Online]] |date=4 November 2003 |access-date=2 May 2017 }}</ref>
+|fabricator       =
+|begin            = {{Start date and age|2001|10|16|df=y}}<ref name=structurae/>
+|complete         =
+|cost             = [[Euro|€]]&nbsp;394,000,000<ref name=BBC-Dec2004>{{cite news |url=http://news.bbc.co.uk/2/hi/europe/4091813.stm |title=France shows off tallest bridge |work=[[BBC News Online]] |date=14 December 2004 |access-date=2 May 2017 }}</ref>
+|inaugurated      = {{Start date and age|2004|12|14|df=y}}<ref name=structurae/>
+|open             = 16 December 2004, at 09:00&nbsp;hrs<ref name=structurae/>
+|toll             = from [[Euro|€]]&nbsp;8.30
+|traffic          =
+|preceded         =
+|followed         =
+|heritage         =
+|replaces         =
+|map_cue          =
+|map_image        =
+|map_alt          =
+|map_text         =
+|map_width        =
+|coordinates      = {{Coord|44|04|46|N|03|01|20|E|region:FR_type:landmark|display=title,inline}}
+|references       =
+|map_caption      = {{Location map|France
+ |border   = infobox
+ |float    = center
+ |relief   = yes
+ |lat_deg  = 44
+ |lat_min  = 04
+ |lat_sec  = 46
+ |lat_dir  = N
+ |lon_deg  = 03
+ |lon_min  = 01
+ |lon_sec  = 20
+ |lon_dir  = E
+ |label    = Millau Viaduct
+ |mark     = Steel pog.svg
+ |marksize = 10
+ |caption  = Location of the Millau Viaduct in southern France
+ |alt      = The Millau Viaduct spans the gorge valley of the river Tarn in southern France
+ }}
+}}

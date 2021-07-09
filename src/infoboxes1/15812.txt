@@ -1,0 +1,92 @@
+{{Infobox settlement
+| name                            = Redwood City, California
+| official_name                   = City of Redwood City
+| native_name                     = 
+| settlement_type                 = [[City (California)|City in California]]
+| image_skyline                   = Redwoodcitypanorama.jpg
+| image_caption                   = The skyline of downtown Redwood City
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_blank_emblem              = Redwood City logo.png
+| blank_emblem_size               = 
+| nickname                        = 
+|motto                  = Climate Best By Government Test<ref>{{Cite news|last=Gonzales|first=Roberta|date=2015-04-24|title=Why Is 'Climate Best By Government Test' The Slogan For Redwood City?|url=https://sanfrancisco.cbslocal.com/2015/04/24/why-is-climate-best-by-government-test-the-slogan-for-redwood-city/|access-date=2020-08-15|work=KPIX 5|language=en-US}}</ref><ref>{{Cite web |url=http://www.redwoodcity.org/manager/news/2011/pr_mgr-EconDev2011.html |title="Business Climate Best by Government Test" City Puts a Spotlight on Economic Development |publisher=Redwood City |date=October 31, 2011 |access-date=February 12, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150213065441/http://www.redwoodcity.org/manager/news/2011/pr_mgr-EconDev2011.html |archive-date=February 13, 2015 |df=mdy-all }}</ref>
+<!-- images and maps  ----------->
+| image_map                       = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_Redwood_City_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location ------------------>
+| coordinates                     = {{coord|37|28|58|N|122|14|10|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = May 11, 1867<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref><ref name=GNIS/>
+| established_title2              = Re-incorporated
+| established_date2               = May 3, 1897<ref name=GNIS/>
+<!-- Area------------------>
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Diane Howard<ref>{{Cite web|url=https://www.redwoodcity.org/city-hall/city-council/members|title=Members: City of Redwood City|publisher=City of Redwood City|access-date=June 29, 2020}}</ref>
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 89.98
+| area_total_sq_mi                = 34.74
+| area_land_km2                   = 50.08
+| area_land_sq_mi                 = 19.34
+| area_water_km2                  = 39.90
+| area_water_sq_mi                = 15.41
+| area_water_percent              = 43.91
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref name=GNIS>{{Cite GNIS|277584|Redwood City|access-date=February 4, 2015}}</ref>
+| elevation_m                     = 6
+<!-- Population   ----------------------->
+| elevation_ft                    = 20
+| population_total                = 76815
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_km2          = 1715.71
+| population_density_sq_mi        = 4443.55
+| population_est                  = 85925
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_rank                 = [[List of largest California cities by population|94th]] in California
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 94059, 94061–94065
+| area_code                       = [[Area code 650|650]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = {{URL|http://www.redwoodcity.org/}}
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|60102}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|277584}}, {{GNIS 4|2410919}}
+}}

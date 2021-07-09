@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Sallisaw, Oklahoma
+|official_name            = 
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Built on Pride, Dedicated to Excellence"
+
+<!-- Images -->
+|image_skyline            = Stanley_Tubbs_Memorial_Library,_Sallisaw_Oklahoma.jpg
+|image_caption            = Stanley Tubbs Memorial Library (Former Missouri Pacific Railroad Depot)
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map              = Oklahoma
+|pushpin_label_position   = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of Oklahoma
+|pushpin_mapsize          = 
+|image_map                = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|County]]
+|subdivision_name2        = [[Sequoyah County, Oklahoma|Sequoyah]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Ernie Martins
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_sq_mi         = 14.20
+|area_land_sq_mi          = 14.04
+|area_water_sq_mi         = 0.15
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 8880
+|population_density_sq_mi = 605.03
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone (Americas)|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CST
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_ft             = 531
+|coordinates              = {{coord|35|27|29|N|94|47|40|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 74955
+|area_code                = [[area codes 539 and 918|539/918]] (918 Exchanges: 235,774,775,776)
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-65000
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 
+|website                  = [http://www.sallisawok.org/ sallisawok.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8497
+|unit_pref = Imperial
+|area_total_km2 = 36.77
+|area_land_km2 = 36.37
+|area_water_km2 = 0.40
+|population_density_km2 = 233.61
+}}

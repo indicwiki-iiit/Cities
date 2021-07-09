@@ -1,0 +1,33 @@
+{{Infobox settlement
+| settlement_type        = town
+| official_name = Carhué
+|pushpin_map            =Argentina
+|pushpin_label_position = bottom
+|pushpin_map_caption    =Location in [[Argentina]]
+|pushpin_mapsize       =200
+|pushpin_map1            = Buenos Aires Province
+|pushpin_label_position1 =bottom
+|pushpin_map_caption1    =Location in [[Buenos Aires Province]]
+|pushpin_mapsize1        =200
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{flag|Argentina}}
+|subdivision_type1 = Province
+|subdivision_name1 = [[Province of Buenos Aires|Buenos Aires]] [[Image:Bandera Buenos Aires.svg|20px]]
+|subdivision_type2 = Partido
+|subdivision_name2 = [[Adolfo Alsina Partido|Adolfo Alsina]]
+|established_title = Founded
+|established_date = 1877
+|area_total_km2 = 
+|population_as_of = 2001
+|population_total = 16245
+|population_density_km2 = 2.77
+|utc_offset = -3
+|coordinates            = {{coord|37|10|46.52|S|62|45|36.29|W|region:AR|display=inline,title}}
+|elevation_m = 107
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Humid subtropical climate|Cfa]]
+|postal_code_type       = [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 6430
+|area_code              = +[[Telephone numbers in Argentina|54]] 9236
+
+}}

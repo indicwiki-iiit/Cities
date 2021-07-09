@@ -1,0 +1,74 @@
+{{Infobox settlement
+| official_name            = Town of Palm Beach
+|name = Palm Beach, Florida
+| settlement_type          = [[Administrative divisions of Florida#Municipalities|Town]]
+<!-- Images -->
+| image_skyline            = PALM BEACH FLORIDA AERIAL 2011.jpg
+| imagesize                = 250px
+| image_caption            = Palm Beach proper in 2011
+| image_flag               = Flag of the town of Palm Beach, Florida.svg
+| image_seal               = Seal of the town of Palm Beach, Florida.svg
+| nickname                 = "The Island"
+<!-- Maps -->
+|pushpin_map              = Florida#USA
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          =
+<!-- Location -->
+| coordinates              = {{coord|26.715|-80.039444|region:US-FL_type:city_source:GNIS|format=dms|display=title,inline}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{Flagu|United States|size=23px}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{Flag|Florida|size=23px}}
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = {{flagicon image|Flag of Palm Beach County, Florida.png|size=23px}} [[Palm Beach County, Florida|Palm Beach]]
+|established_title         = [[European colonization of the Americas|Settled (Lake Worth Settlement)]]
+|established_date          = c. 1872<ref name=PBTL/><ref name=PBH>{{cite web|url= http://www.townofpalmbeach.com/Index.aspx?NID=344 |title=Story of the Town's Founding|publisher=Town of Palm Beach|access-date=October 5, 2018}}</ref>
+|established_title1        = [[Settler|Settled (Palm Beach Settlement)]]
+|established_date1         = January 9, 1878<ref name=PBName>{{cite news|url= https://www.palmbeachdailynews.com/news/20190109/from-archives-shipwreck-its-coconuts-led-to-palm-beachs-name|title=From The Archives: Shipwreck, its coconuts led to Palm Beach's name|newspaper=Palm Beach Daily News |access-date=March 25, 2019}}</ref><ref name=VF500>{{cite web|url=http://vivafl500.org/cities/palm-beach/|title=Viva Florida 500: History happened here - Palm Beach History|publisher=vivafl500.org|access-date=March 25, 2019}}</ref>
+|established_title2        = [[Municipal corporation|Incorporated (Town of Palm Beach)]]
+|established_date2         = April 17, 1911<ref name=PBH/>
+| government_footnotes     = 
+|government_type           = [[council-manager government|Council-Manager]]
+|leader_title              = [[Mayor]]
+|leader_name               = Danielle Moore
+|leader_title1             = [[President (government title)#Sub-national|Council President]]
+|leader_name1              = Margaret A. Zeidman<ref name="mayor and council">{{cite web|url=https://www.townofpalmbeach.com/385/MayorTown-Council|title=Mayor & Town Council|publisher=Town of Palm Beach|access-date=May 15, 2020}}</ref>
+|leader_title2             = [[City Manager|Town manager]]
+|leader_name2              = Kirk Blouin
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files |url= https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2           = 20.20
+| area_total_sq_mi         = 7.80
+| area_land_km2            = 9.84
+| area_land_sq_mi          = 3.80
+| area_water_km2           = 10.36
+| area_water_sq_mi         = 4.00
+| elevation_footnotes      = 
+| elevation_m              = 2
+| elevation_ft             = 7
+<!-- Population -->
+| population_footnotes     = 
+| population_total         = 8348
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| pop_est                  = 8802
+| population_density_km2   = 895.51
+| population_density_sq_mi = 2319.39
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP Code]]
+| postal_code              = 33480
+| area_code                = [[Area code 561|561]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 12-54025<ref name="gnis">{{cite gnis|id=288390|name=Palm Beach|access-date=August 2, 2019 |entrydate=October 19, 1979}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0288390<ref name="gnis"/>
+| website                  = {{URL|http://townofpalmbeach.com}}
+| footnotes                = 
+|population_est = 8816
+}}

@@ -1,0 +1,20 @@
+{{Infobox UK place
+  |official_name            = Farnworth
+  |static_image_name        = Farnworth Town Hall.jpg
+  |static_image_caption     = [[Farnworth Town Hall]]
+  |coordinates              = {{coord|53.5452|-2.3999|display=inline,title}}
+  |population               = 26,939
+  |population_ref           = ([[United Kingdom Census 2011|2011 Census]])<ref name=NOMIS2011Farnworthsubdiv/>
+  |os_grid_reference        = SD7305
+  |london_distance          = 
+  |metropolitan_borough     = [[Metropolitan Borough of Bolton|Bolton]]
+  |metropolitan_county      = [[Greater Manchester]]
+  |region                   = North West England
+  |country                  = England
+  |historic_county = Lancashire
+|post_town                = BOLTON
+  |postcode_area            = BL
+  |postcode_district        = BL4
+  |dial_code                = 01204
+  |constituency_westminster = [[Bolton South East (UK Parliament constituency)|Bolton South East]]
+}}

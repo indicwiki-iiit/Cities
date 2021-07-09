@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Lenoir, North Carolina
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Where the High Country Begins"
+|named_for                = [[William Lenoir (general)|William Lenoir]]
+
+<!-- Images -->
+|image_skyline            = Lenoir Main Street-27527.jpg
+|imagesize                = 
+|image_caption            = Main Street in downtown Lenoir
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = NCMap-doton-Lenoir.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Lenoir, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_mapsize          =
+
+<!-- Location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Caldwell County, North Carolina|Caldwell]]
+|government_footnotes     = 
+|government_type          = [[Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Joseph L. Gibbons (Independent)<ref>https://www.cityoflenoir.com/269/Joe-L-Gibbons-Mayor</ref>
+|leader_title1            = [[Mayor Pro Tem|Mayor ''Pro Tem'']]
+|leader_name1             = Crissy Thomas <ref>https://www.cityoflenoir.com/263/Crissy-Thomas-Mayor-Pro-Tem</ref>
+|leader_title2            = Governing body
+|leader_name2             = Lenoir City Council
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 53.92
+|area_land_km2            = 53.90
+|area_water_km2           = 0.02
+|area_total_sq_mi         = 20.82
+|area_land_sq_mi          = 20.81
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 18228
+|population_density_km2   = 332.33
+|population_density_sq_mi = 860.71
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 1171
+|coordinates              = {{coord|35|54|50|N|81|32|20|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 28633, 28645
+|area_code                = [[Area code 828|828]]; Exchanges: 757,758,759
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-37760<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1021132<ref name=GNIS1>{{gnis|1021132|Lenoir}}</ref>
+|website                  = {{URL|www.cityoflenoir.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 17913
+}}

@@ -1,0 +1,20 @@
+{{Infobox UK place
+|country =                  England
+|coordinates = {{coord|53.6139|-0.2183|display=inline,title}}
+|official_name =            Immingham
+|static_image_name =        Queens Road - A1173 - geograph.org.uk - 218590.jpg
+|static_image_caption =     Queens Road, Immingham
+|population =               9,642
+|population_ref =           (2011 Census)<ref name="2011 parish"/>
+|unitary_england =          [[North East Lincolnshire]]
+|lieutenancy_england =      [[Lincolnshire]]
+|region =                   Yorkshire and the Humber
+|constituency_westminster = [[Cleethorpes (UK Parliament constituency)|Cleethorpes]]
+|post_town =                IMMINGHAM
+|postcode_district =        DN40
+|postcode_area =            DN
+|dial_code =                01469
+|os_grid_reference =        TA178145
+|london_distance_mi=        150<!-- straight line per MOS – constant and comparable with other place distances -->
+|london_direction=          S
+}}

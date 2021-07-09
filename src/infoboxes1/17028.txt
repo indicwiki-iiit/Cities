@@ -1,0 +1,73 @@
+{{Infobox settlement
+|name                     = Manitowoc
+|settlement_type          = City
+|nickname                 = Wisconsin's Maritime Capital,<ref>Muench, David [http://www.uwex.edu/ces/cced/economies/communityindicators/communityslogans.pdf "Wisconsin Community Slogans: Their Use and Local Impacts"] {{webarchive|url=https://web.archive.org/web/20130309175857/http://www.uwex.edu/ces/cced/economies/communityindicators/communityslogans.pdf |date=March 9, 2013 }}, December 1993. Retrieved April 9, 2008.</ref> Clipper City,<ref name="3centuries">{{Cite book|url=https://archive.org/details/wisconsininthre03campgoog|page=[https://archive.org/details/wisconsininthre03campgoog/page/n33 37]|title=Wisconsin in Three Centuries, 1634-1905|last=Campbell|first=Henry Colin|date=1906|publisher=Century history Company|language=en}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=ICkp_5rGbOAC&q=%22clipper+city%22&pg=PA200|title=Around the Shores of Lake Michigan: A Guide to Historic Sites|last=Bogue|first=Margaret Beattie|date=1985|publisher=University of Wisconsin Pres|isbn=9780299100001|language=en}}</ref> The Port City, Manty.
+|motto = 
+|image_skyline            = SkylineManitowocWI.jpg
+|imagesize                = 300px
+|image_caption            = [[Manitowoc River]], near where it enters [[Lake Michigan]], reflecting the skyline of downtown Manitowoc, with the [[U.S. Route 10|U.S. 10]] highway bridge at left.
+|image_flag               = 
+|image_seal               = Manty.jpg
+|pushpin_map              = Wisconsin
+|pushpin_label_position   = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of Wisconsin
+|pushpin_mapsize          = 
+|image_map                = File:Manitowoc County Wisconsin Incorporated and Unincorporated areas Manitowoc Highlighted.svg
+|map_caption              = Location of Manitowoc in Manitowoc County, Wisconsin.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = Country
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name2        = [[Manitowoc County, Wisconsin|Manitowoc]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Justin Nickels
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude = 
+|area_total_sq_mi         = 18.14
+|area_land_sq_mi          = 17.78
+|area_water_sq_mi         = 0.36
+|area_total_km2           = 46.98
+|area_land_km2            = 46.05
+|area_water_km2           = 0.93
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 32579
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 33736
+|population_density_km2   = 707.41
+|population_density_sq_mi = 1832.24
+|timezone                 = [[Central Time Zone (Americas)|Central (CST)]]
+| utc_offset              = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST          = &minus;5
+|elevation_footnotes      = 
+|elevation_ft             = 
+|coordinates              = {{coord|44|5|47|N|87|40|30|W|region:US-WI_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code|ZIP Codes]]
+|postal_code              = 54220-54221
+|area_code                = [[Area code 920|920]] 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 55-48500
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 
+| blank3_name_sec1        = [[Interstate Highway System|Interstates]]
+| blank3_info_sec1        = [[File:I-43_(WI).svg|25px|link=Interstate 43 in Wisconsin]]
+| blank1_name_sec2        = [[U.S. Routes]]
+| blank1_info_sec2        = [[File:US 10.svg|26px|link=U.S. Route 10 in Wisconsin]] [[File:US 151.svg|26px|link=U.S. Route 151 in Wisconsin]]
+| blank2_name_sec3        = [[Wisconsin State Trunk Highway System|State Highways]]
+| blank2_info_sec3        = [[File:WIS 42.svg|26px|link=Wisconsin Highway 42]]
+|website                  = {{URL|www.manitowoc.org}}
+|footnotes                = 
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

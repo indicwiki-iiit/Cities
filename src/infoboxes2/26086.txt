@@ -1,0 +1,47 @@
+{{Infobox person
+| name          = Paul Robeson
+| image         = Paul Robeson 1942 crop.jpg
+| caption       = Paul Robeson in 1942
+| birth_name    = Paul Leroy Robeson
+| birth_date    = {{birth date|1898|4|9}}
+| birth_place   = [[Princeton, New Jersey]], U.S.
+| death_date    = {{death date and age|1976|1|23|1898|4|9}}
+| death_place   = [[Philadelphia]], Pennsylvania, U.S.
+| education = {{plainlist|
+*[[Rutgers University–New Brunswick|Rutgers University, New Brunswick]] {{small|(Bachelor of Arts)}}
+*[[New York University]]
+*[[Columbia University]] {{small|([[Bachelor of Laws|LLB]])}}
+*[[SOAS, University of London|University of London]]}}
+| occupation    = Singer, actor, social activist, lawyer, athlete
+| spouse        = {{marriage|[[Eslanda Robeson|Eslanda Goode]]|1921|1965|reason=died}}
+| children      = [[Paul Robeson Jr.]]
+| relatives     = [[Bustill family]]
+| module        = {{Infobox NFL biography
+  | embed       = yes
+  | name        = Paul Robeson
+  | image       = PRobeson.jpg
+  | image_size  = 200px
+  | caption     = Robeson in football uniform at Rutgers, c. 1919
+  | number      = 21, 17
+  | position    = [[End (American football)|End]] / [[Tackle (American football)|tackle]]
+  | height_ft   = 6
+  | height_in   = 3
+  | weight_lbs  = 219
+  | high_school = [[Somerville High School (New Jersey)|Somerville (NJ)]]
+  | college     = [[Rutgers Scarlet Knights football|Rutgers]]
+  | teams       =
+*[[Akron Pros]] ({{NFL Year|1921}})
+*[[Milwaukee Badgers]] ({{NFL Year|1922}})
+  |highlights   =
+*2× Consensus [[College Football All-America Team|All-American]] ([[1917 College Football All-America Team|1917]], [[1918 College Football All-America Team|1918]])
+  | statlabel1  = Games played
+  | statvalue1  = 15
+  | statlabel2  = Games started
+  | statvalue2  = 15
+  | statlabel3  = [[Touchdowns]]
+  | statvalue3  = 2<ref>{{cite news |title=Thorpe–M'Millan Fight Great Duel: Robeson Scores Both Touchdowns for Locals Against Indians |date=November 20, 1922 |url=https://news.google.com/newspapers?id=gP5PAAAAIBAJ&pg=6937%2C3801262 |work=[[Milwaukee Journal Sentinel|The Milwaukee Sentinel]] |page=7}}; cf. [https://news.google.com/newspapers?id=QuwpAAAAIBAJ&sjid=WyEEAAAAIBAJ&pg=6246%2C4290809 Badgers Trim Thorpe's Team]</ref>
+  | nfl         = Paul-Robeson
+  | pfr         = R/RobePa20
+  | CollegeHOF  = 1339
+  }}
+}}

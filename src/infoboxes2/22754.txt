@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Boumalne Dades
+|other_name             =Boumalne du Dades
+|native_name            = ⴱⵓⵎⴰⵍ ⵏ ⴷⴰⴷⵙⵙ<br/>''Būmālen Dādis''<br/>{{lang|ar|بومالن دادس}} <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        =Town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = Morocco, Drâa-Tafilalet Region, Tinghir Province, Boumalne-Dadès (2).jpg
+| photo2a = Morocco, Drâa-Tafilalet Region, Tinghir Province, Boumalne-Dadès (3.jpg
+| photo2b = Boumalne du Dades 19890323 b 02.jpg
+| photo4a = Atlas, Boumalne du Dades.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|imagesize              = 
+|image_caption          = View of Boumalne Dades
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Morocco
+|pushpin_label_position =bottom
+|pushpin_mapsize=300
+|pushpin_map_caption    =
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       ={{MAR}}
+|subdivision_type1      = [[Regions of Morocco|Region]] 
+|subdivision_name1      =[[Drâa-Tafilalet]]
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_name2      =[[Tinghir Province|Tinghir]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2014
+|population_footnotes           =
+|population_note                =
+|population_total               = 12328
+|population_density_km2         =
+<!-- General information  --------------->
+|timezone               = [[Western European Time|WET]] 
+|utc_offset             =  +0
+|timezone_DST           = [[Western European Summer Time|WEST]]
+|utc_offset_DST         = +1
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 1562
+|elevation_ft           = <!-- accord. to Google Earth-->
+|coordinates = {{coord|31|22|26|N|5|59|44|W}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}

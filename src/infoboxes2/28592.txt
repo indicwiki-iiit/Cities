@@ -1,0 +1,25 @@
+{{Infobox Australian place | type = town
+| name     = Laverton
+| state    = wa
+| image    = 
+| caption  = 
+| lga      = [[Shire of Laverton]]
+| coordinates = {{coord|28|37|40|S|122|24|11|E|display=inline,title}}
+| postcode = 6440
+| est      = 1898<ref name=laverton/>
+| pop      = 340
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name=census2016>{{Census 2016 AUS|id=UCL522036|name=Laverton (L) (Urban Centre/Locality)|quick=on|accessdate=20 March 2018}}</ref>
+| elevation= 461
+| maxtemp  = 27.3
+| mintemp  = 13.2
+| rainfall = 232.5
+| stategov = [[Electoral district of Kalgoorlie|Kalgoorlie]]
+| fedgov   = [[Division of O'Connor|O'Connor]]
+| dist1    = 957  | dir1 = NNE
+| location1= [[Perth]]
+| dist2    = 124  | dir2 = ENE
+| location2= [[Leonora, Western Australia|Leonora]]
+| dist3    = 
+| location3= 
+}}

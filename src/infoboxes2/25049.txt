@@ -1,0 +1,24 @@
+{{Infobox UK place 
+  | country=England
+ | region=South East England
+ | static_image_name=Polegate mill.jpg
+ | static_image_caption= The windmill
+ | area_footnotes=<ref name=ESiF>{{cite web |url=http://www.eastsussexinfigures.org.uk/webview/ |title=East Sussex in Figures |access-date=29 April 2012 |publisher=East Sussex County Council |archive-date=13 December 2012 |archive-url=https://www.webcitation.org/6Ct6zzJpq?url=http://www.eastsussexinfigures.org.uk/webview/welcome.html |url-status=live }}</ref>
+ | area_total_km2 =7.3
+| population = 8586
+| population_ref = (2011)<ref name=ESiF />
+  | population_density= {{convert|2853|/sqmi|/km2|abbr=on}}
+ | os_grid_reference=TQ587058
+ | coordinates = {{coord|50.8216|0.2442|display=inline,title}}
+ | historic_county = [[Sussex]]
+|post_town=POLEGATE
+ | postcode_area=BN
+ | postcode_district=BN26
+ | dial_code=01323
+ | constituency_westminster=[[Lewes (UK Parliament constituency)|Lewes]]
+ | london_distance={{convert|49|mi}} NNW
+ | civil_parish = Polegate  
+ | shire_district=[[Wealden District|Wealden]]
+ | shire_county=[[East Sussex]]
+ | website=http://www.polegate-tc.co.uk/
+ }}

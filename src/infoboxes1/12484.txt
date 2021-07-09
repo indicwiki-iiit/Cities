@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name = Alameda, California
+|official_name            = City of Alameda
+|settlement_type          = [[List of cities and towns in California|City]]
+<!-- Images and maps ------>
+|image_skyline            = Alameda City Hall (Alameda, CA) 2.JPG
+|image_caption            = City Hall
+|image_flag               = Flag of Alameda, California.svg
+|flag_border              = no
+|image_seal               = Seal of Alameda, California.svg
+|nickname                 = The Island City<ref>{{cite web|url=http://www.cityofalamedaca.gov/City-Hall/Administration|title=The Island City|access-date=July 13, 2017|archive-url=https://web.archive.org/web/20110726174125/http://www.cityofalamedaca.gov/City-Hall/Administration|archive-date=July 26, 2011|url-status=dead|df=mdy-all}}</ref>
+|image_map                = Alameda_County_California_Incorporated_and_Unincorporated_areas_Alameda_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in the state of California and [[Alameda County, California|Alameda County]]
+|pushpin_map = San Francisco Bay Area#USA California Northern#California#USA#North America
+|pushpin_relief = 
+|pushpin_label = Alameda 
+|pushpin_map_caption = Location in the San Francisco Bay Area
+<!-- Location ------------->
+|coordinates              = {{coord|37|45|22|N|122|16|28|W|region:US-CA_type:city(74000)|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_name2        = [[Alameda County, California|Alameda]]
+<!-- History -------------->
+|established_title        = Founded<br/>[[Municipal corporation|Incorporated]]
+|established_date         = June 6, 1853<br />March 7, 1872<ref>{{cite book
+ |url=https://books.google.com/books?id=cBgVAAAAYAAJ
+ |title = Past and present of Alameda County, California, Volume 1
+ |last = Baker
+ |first = Joseph Eugene
+ |date = 1914
+ |publisher = S.J. Clarke
+ |page = 327
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Marilyn Ezzy Ashcraft<ref>{{Cite web
+ |url = https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Mayor-Ezzy-Ashcraft
+ |title = Mayor Marilyn Ezzy Ashcraft
+ |publisher = City of Alameda
+ |access-date = February 12, 2019}}</ref>
+|leader_title1            = [[California's 9th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|9|fmt=sleader}}<ref>{{cite web
+ |url=http://senate.ca.gov/senators 
+ |title=Senators 
+ |access-date=March 18, 2013
+ |publisher=State of California}}</ref>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 23.10
+|area_land_sq_mi          = 10.45
+|area_water_sq_mi         = 12.65
+|area_water_percent       = 53.79
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|277468|Alameda}}</ref>
+|elevation_ft             = 33
+<!-- Population ----------->
+|population_total         = 73812
+|population_as_of         = [[2010 United States Census|2010]]
+|population_density_sq_mi = 7426.00
+|population_demonyms       = Alamedan, Islander{{citation needed|date=August 2016}}
+<!-- Time zones ----------->
+|postal_code_type         = [[ZIP Code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 24, 2014}}</ref>
+|postal_code              = 94501–94502
+|area_code                = [[Area codes 510 and 341|510, 341]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|alamedaca.gov}}
+|leader_title2            = [[California's 18th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|18|fmt=sleader}}<ref>{{cite web
+ |url=http://assembly.ca.gov/assemblymembers
+ |title=Members Assembly
+ |access-date=March 18, 2013
+ |publisher=State of California}}</ref>
+|leader_title3            = [[California's 13th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|13|fmt=usleader}}<ref>{{Cite GovTrack|CA|13|access-date=March 12, 2013}}</ref>
+<!-- Area ----------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|06|00562}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277468}}, {{GNIS 4|2409669}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 77624
+|area_total_km2 = 59.83
+|area_land_km2 = 27.07
+|area_water_km2 = 32.76
+|population_density_km2 = 2867.30
+}}

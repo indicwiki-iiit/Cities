@@ -1,0 +1,80 @@
+{{Infobox settlement
+| name                            = El Centro, California
+| official_name                   = City of El Centro
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = {{Photomontage
+| photo1a = U.S. Post Office Building, El Centro, California.jpg
+| photo2a = Imperial County Superior Courthouse El Centro Night.jpg
+| spacing = 2
+| position = center
+| color_border = white
+| color = white
+| size = 280
+| foot_montage = Top: U.S. Post Office;<br/> Bottom: Imperial County Superior Courthouse}}
+| image_seal                      = Seal of El Centro, California.png
+| image_map                       = File:Imperial County California Incorporated and Unincorporated areas El Centro Highlighted 0621782.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of El Centro in Imperial County, California
+| pushpin_map                     = USA California Southern#USA California#USA
+| pushpin_label                   = El Centro
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|32|48|N|115|34|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[Imperial County, California|Imperial]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = April 16, 1908<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=April 8, 2013
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Cheryl Viegas-Walker<ref>{{cite web|title=El Centro City Council|url=http://www.cityofelcentro.org/index.asp?m=1&page=39|website=City of El Centro|access-date= June 4, 2019}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 30.72
+| area_total_sq_mi                = 11.86
+| area_land_km2                   = 30.67
+| area_land_sq_mi                 = 11.84
+| area_water_km2                  = 0.05
+| area_water_sq_mi                = 0.02
+| area_water_percent              = 0.16
+| area_note                       = 
+| elevation_footnotes             = <ref name=gnis>{{Cite GNIS|1656501|El Centro}}</ref>
+| elevation_m                     = -12
+| elevation_ft                    = -42
+| population_total                = 42598
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_km2          = 1437.12
+| population_density_sq_mi        = 3722.26
+| population_urban                = 56,006
+| population_metro                = 163,972
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92243-92244
+| area_code                       = [[Area codes 442 and 760|442/760]]
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| website                         = {{URL|www.cityofelcentro.org}}
+| footnotes                       = 
+| timezone                        = [[Pacific Time Zone|Pacific (PST)]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 06-21782
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1656501}}, {{GNIS 4|2410409}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 44079
+}}

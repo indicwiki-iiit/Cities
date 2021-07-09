@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Glendive
+|settlement_type          = [[City]]
+|nickname                 = Gate City
+|motto                    = Good People Surrounded by Badlands
+<!-- Images -->
+|image_skyline            = Glendive city hall.jpg
+|imagesize                = 250px
+|image_caption            = Glendive City Hall
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Dawson_County_Montana_Incorporated_and_Unincorporated_areas_Glendive_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Glendive, Montana
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Montana]]
+|subdivision_type2        = [[List of counties in Montana|County]]
+|subdivision_name2        = [[Dawson County, Montana|Dawson]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 1880
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_30.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 9.06
+|area_land_km2            = 9.00
+|area_water_km2           = 0.06
+|area_total_sq_mi         = 3.50
+|area_land_sq_mi          = 3.47
+|area_water_sq_mi         = 0.02
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 4910
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 4935
+|population_density_km2   = 545.72
+|population_density_sq_mi = 1413.36
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST           = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 629
+|elevation_ft             = 2064
+|coordinates              = {{coord|47|6|31|N|104|42|38|W|region:US-MT_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 59330
+|area_code                = [[Area code 406|406]] Exchanges: 359,367
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|30|31450}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS4|0771800}}
+|website                  = {{URL|http://www.cityofglendive.us/}}
+|footnotes                = 
+}}

@@ -1,0 +1,42 @@
+{{Infobox settlement
+| name                   = Shefa-Amr
+| native_name            = {{Hlist
+ | {{Script/Hebrew|שְׁפַרְעָם}}
+ | {{Lang|ar|شفاعمرو}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Šparˁam
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Shfar'am{{citation needed|date=June 2019}} (official)
+| image_skyline          = PikiWiki Israel 11070 Photo fortress.JPG
+| image_caption          = View of Shefa-Amr
+| image_blank_emblem     = Coat of arms of Shefa-'Amr.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = right
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|48|20|N|35|10|10|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 166/245 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = Bronze age
+| leader_title           = Mayor
+| leader_name            = Orsan Yasen
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:19766|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Shefar'am}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

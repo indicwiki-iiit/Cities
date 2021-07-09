@@ -1,0 +1,70 @@
+{{Infobox settlement
+| name                     = Malibu, California
+| official_name            = City of Malibu
+| settlement_type          = [[City (California)|City]]
+| image_skyline            = MalibuAir.jpg
+| image_caption            = Aerial view of Downtown Malibu and surrounding neighborhoods
+| image_flag               = 
+| image_seal               = Seal of Malibu, California.jpg
+| seal_size                = 94px
+| image_shield             = 
+| nickname                 = The 'Bu<ref name="Poole" /><ref name="Taylor" /><ref name="Partridge" />
+| motto                    = 
+| image_map                = LA County Incorporated Areas Malibu highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Malibu in [[Los Angeles County, California]]
+| pushpin_map = Los Angeles##USA California#USA#North America
+| pushpin_map_caption = Location in the [[Los Angeles Metropolitan Area]]##Location in [[California]]##Location in the [[United States]]##Location in [[North America]]
+|pushpin_relief           = yes
+|pushpin_label = Malibu
+| coordinates              = {{coord|34|02|06|N|118|41|42|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+| established_title3       = [[Municipal corporation|Incorporated (city)]]
+| established_date3        = {{start date|1991|3|28}}<ref name="incorporated" />
+| named_for                = [[Chumashan languages|Chumash]]: ''Humaliwo'', "The Surf Sounds Loudly"<ref name="named for" />
+| government_type          = 
+| leader_title             = [[Mayor]]
+| leader_name              = Paul Grisanti<ref>"Staff Directory: Malibu, CA" https://www.malibucity.org/directory.aspx</ref>
+<!-- Area------------------>
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2           = 51.54
+| area_total_sq_mi         = 19.90
+| area_land_km2            = 51.45
+| area_land_sq_mi          = 19.86
+| area_water_km2           = 0.09
+| area_water_sq_mi         = 0.03
+| area_water_percent       = 0.22
+| area_note                = 
+| elevation_footnotes      = <ref>{{Cite GNIS|1668257|Malibu|access-date=December 20, 2014}}</ref>
+| elevation_m              = 32
+| elevation_ft             = 105
+<!-- Population ----------->
+| population_total         = 12645
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref name=quif />
+| population_density_sq_mi = 595.05
+| population_est           = 11820
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro         = 
+| population_density_metro_sq_mi = <!-- Time zones ----------->
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 90263–90265<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Malibu | title = USPS – ZIP Code Lookup – Find a ZIP+ 4 Code By City Results | access-date =January 18, 2007}}</ref>
+| area_code                = [[Area codes 310 and 424|310/424]]
+| website                  = {{URL|www.malibucity.org/}}
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = −8
+| timezone_DST             = PDT
+| utc_offset_DST           = −7
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = {{FIPS|06|45246}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|1668257}}, {{GNIS 4|2410913}}
+|population_density_km2 = 229.75
+}}

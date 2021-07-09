@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Morrisville, North Carolina
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "Live Connected. Live Well."
+
+<!-- Images -->
+|image_skyline            = Morrisville, North Carolina (2014).jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Wake County North Carolina incorporated and unincorporated areas Morrisville highlighted.svg
+|map_caption              = Location in [[Wake County, North Carolina|Wake County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|Counties]]
+|subdivision_name2        = [[Wake County, North Carolina|Wake]], [[Durham County, North Carolina|Durham]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = T.J. Cawley
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 22.89
+|area_land_km2            = 22.75
+|area_water_km2           = 0.14
+|area_total_sq_mi         = 8.84
+|area_land_sq_mi          = 8.78
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 18576
+|population_density_km2   = 1268.06
+|population_density_sq_mi = 3284.30
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 91
+|elevation_ft             = 299
+|coordinates              = {{coord|35|49|39|N|78|49|44|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 27519, 27560
+|area_code                = [[Area code 919|919]] & [[Area code 984|984]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-44520<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1021537<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.townofmorrisville.org/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 28846
+}}

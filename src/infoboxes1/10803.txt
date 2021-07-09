@@ -1,0 +1,31 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Socotra<br/>Suqutra
+| native_name             = سقطرى
+| native_name_lang        = ar
+| settlement_type         = Governorate
+| image_map               = Socotra in Yemen.svg
+| map_alt                 = 
+| map_caption             = 
+| coordinates             = 
+| subdivision_type        =[[List of sovereign states|Country]]
+| subdivision_name        =  {{YEM}} 
+| seat_type               = 
+| seat                    = [[Hadibu]] (Tamrida)
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Governor
+| leader_name             = Saleh Ali
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          =   
+| area_land_km2           = 
+| area_water_km2          = 
+| population_footnotes    = 
+| population_total        = 44,120
+| population_as_of        = 2004
+| population_density_km2  = auto
+| population_note         = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

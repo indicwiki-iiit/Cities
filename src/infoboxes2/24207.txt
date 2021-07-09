@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- Basic info -->
+| official_name            = Emmett, Idaho
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[City]]
+| image_skyline            = Emm.jpg
+| imagesize                = 230px
+| image_caption            = View of Emmett
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = <!-- images and maps -->
+| image_map                = File:Gem County Idaho Incorporated and Unincorporated areas Emmett Highlighted 1625570.svg
+| map_caption              = Location of Emmett in Gem County, Idaho.
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the United States
+| coordinates              = {{coord|43|52|22|N|116|29|42|W|region:US_type:city|display=inline,title}}
+<!-- Location -->
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|County]]
+| subdivision_name2        = [[Gem County, Idaho|Gem]]
+| established_title        = 
+| established_date         = 
+| government_type          = 
+<!-- Politics -->
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_km2           = 6.79
+<!--7.30-->
+| area_total_sq_mi         = 2.62
+| area_land_km2            = 6.74
+<!--7.25-->
+| area_land_sq_mi          = 2.60
+| area_water_km2           = 0.05
+<!--0.05-->
+| area_water_sq_mi         = 0.02
+| area_water_percent       = 
+| elevation_footnotes      = 
+| elevation_m              = <!--720-->
+| elevation_ft             = 2362
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 6557
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 7054
+| pop_est_as_of            = 2019
+| population_density_km2   = 1046.56
+<!--904.2-->
+| population_density_sq_mi = 2710.99
+| population_note          = 
+<!-- Area/postal codes & others -->
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset               = -7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+| utc_offset_DST           = -6
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 83617
+| area_code                = [[Area code 208|208]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-25570
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0397688
+| website                  = {{URL|http://www.cityofemmett.org/}}
+}}

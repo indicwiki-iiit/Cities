@@ -1,0 +1,25 @@
+{{Infobox mountain
+| name            =  Mount Kilimanjaro
+
+| photo           = Mount Kilimanjaro.jpg
+| photo_caption   = The Kibo summit of Mount Kilimanjaro.
+| map             = Tanzania#Africa <!-- |relief=1 -->
+| map_caption     = Kilimanjaro's location in Tanzania
+| location        = [[Kilimanjaro Region]], north east [[Tanzania]]
+| label_position  = right
+| elevation_m     = 5,895<ref name="Burns2006" />
+| elevation_ref   = <ref name="TNP"/><ref name="UNESCO">{{cite web | url=https://whc.unesco.org/en/list/403 | title=Kilimanjaro National Park | publisher=UNESCO World Heritage Centre | work=World Heritage List | access-date=16 July 2015 | archive-url=https://www.webcitation.org/67xPp2Hjy?url=http://whc.unesco.org/en/list/403 | archive-date=26 May 2012 | url-status=live | df=dmy-all }}</ref>
+| prominence_m    = 5,885
+| prominence_ref  = <ref>{{cite web | url=http://www.peakbagger.com/peak.aspx?pid=11202 | title=Kilimanjaro | publisher=Peakbagger.com | access-date=16 August 2012 | archive-url=https://web.archive.org/web/20120912171331/http://www.peakbagger.com/peak.aspx?pid=11202 | archive-date=12 September 2012 | url-status=live | df=dmy-all }}</ref><br/><small>Ranked 4th</small><ref>{{cite web | title=World Peaks with 4000 meters of Prominence | url=http://www.peakbagger.com/list.aspx?lid=401 | website=Peakbagger.com | access-date=8 November 2015 | archive-url=https://web.archive.org/web/20150930175751/http://www.peakbagger.com/list.aspx?lid=401 | archive-date=30 September 2015 | url-status=dead | df=dmy-all }}</ref>
+| listing         = {{unbulleted list | [[Seven Summits]] | [[Highest mountain peaks of Africa|Highest mountains of Africa]] | [[Volcanic Seven Summits]] | [[List of countries by highest point|Country highest point]] | [[Ultra prominent peak|Ultra]] | [[Seven Third Summits]] (Mawenzi) }}
+| range           = The [[Eastern Rift mountains]]
+| coordinates     = {{coord|03|04|33|S|37|21|12|E|type:mountain_region:TZ-09_scale:100000|format=dms|display=inline,title}}
+| topo            = Kilimanjaro map and guide by Wielochowski<ref name=map>{{cite map | publisher=EWP | title=Kilimanjaro Map and tourist Guide | url=http://maps.ewpnet.com/kilimap.asp | edition=4th | year=2009 | cartography=EWP | scale=1:75,000 with 1:20,000 and 1:30,000 insets | series=EWP Map Guides | isbn=0-906227-66-6 | url-status=dead | archive-url=https://web.archive.org/web/20150717212549/http://maps.ewpnet.com/kilimap.asp | archive-date=17 July 2015 }}</ref>
+| coordinates_ref =
+| type            = [[Stratovolcano]]
+| age             = 3 million years
+| last_eruption   = Between 150,000 and 200,000 years ago
+| first_ascent    = (European) 6 October 1889 by [[Hans Meyer (geologist)|Hans Meyer]] and [[Ludwig Purtscheller]]
+| easiest_route   = [[Hiking]]
+| range_coordinates =
+}}

@@ -1,0 +1,33 @@
+{{Infobox settlement
+| official_name                   = Sandanski
+| image_skyline                   = Bulgaria-Sandanski-03.jpg
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Sandanski|
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Sandanski
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| area_total_km2                  = 26.867
+| population_density_km2          = auto
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| subdivision_name1               = [[Blagoevgrad Province|Blagoevgrad]]
+| population_total                = 28510
+| population_urban                = 40470
+| population_footnotes            = <ref name="Census 2011">[http://censusresults.nsi.bg/Reports/2/2/R1.aspx?OBL=BLG Census 2011]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| population_as_of                = Census February 2011
+| elevation_m                     = 296
+| postal_code                     = 2800
+| area_code                       = 0746
+| coordinates                     = {{coord|41|34|N|23|17|E|region:BG|display=inline,title}}
+| leader_name                     = Atanas Stoyanov
+| website                         = [http://sandanskibg.com/ Official website]
+| name                            = 
+| settlement_type                 = Town
+}}

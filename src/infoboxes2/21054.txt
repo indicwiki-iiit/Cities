@@ -1,0 +1,61 @@
+{{Infobox settlement
+|official_name            = Valle Vista
+|settlement_type          = [[census-designated place]]
+|image_skyline            =
+|imagesize                =
+|image_caption            =
+|image_seal               =
+|image_map                = Riverside_County_California_Incorporated_and_Unincorporated_areas_Valle_Vista_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Riverside County, California|Riverside County]] and the state of [[California]]
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Riverside County, California|Riverside]]
+|government_type          =
+|leader_title             =
+|leader_name              =
+|established_date         =
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 7.076
+| area_land_sq_mi         = 6.868
+| area_water_sq_mi        = 0.208
+| area_total_km2          = 18.328
+| area_land_km2           = 17.789
+| area_water_km2          = 0.540
+| area_water_percent      = 2.94
+
+|elevation_footnotes      = <ref>{{Cite GNIS|1652805|Valle Vista|access-date=November 11, 2014}}</ref>
+|elevation_ft             = 1775
+|elevation_m              = 541
+|population_as_of         = 2010
+|population_footnotes     =
+|population_total         = 11036
+|population_metro         =
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|coordinates              = {{coord|33|45|10|N|116|53|53|W|region:US_type:city|display=inline,title}}
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92544
+|area_code                = [[Area code 951|909, 951]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|81708}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1652805}}
+|footnotes                =
+|website                  =
+}}

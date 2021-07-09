@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Bayda 
+|other_name             = El Beida
+|native_name            = {{lang|ar|البيضاء}}
+|settlement_type        = City
+|image_skyline          = Neighborhood of Al Akhdar (Bayda, Libya,2011-08-23).jpg
+|imagesize              = 
+|image_caption          = Al Akhdar, Bayda
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Libya <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Libya<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{LBY}}
+|subdivision_type1      = Region
+|subdivision_name1      = [[Cyrenaica]]
+|subdivision_type2      = [[Districts of Libya|District]]
+|subdivision_name2      = [[Jabal al Akhdar]]
+|established_title      =  Settled<!-- Settled -->
+|established_date       = {{•}}''Balagrae'' (''circa'' early 1st millennium BCE)<br />{{•}}''az-Zawiyya al-Bayda'' (in 1840)<br />{{•}}''Beda Littoria'' (in 1933)<br />{{•}}''Al-Bayda (Elbeida)'' (in 1950s)<br /><ref>[http://lexicorient.com/e.o/bayda_l.htm ''Al-Bayda (Elbeida)''] {{Webarchive|url=https://web.archive.org/web/20160304052736/http://lexicorient.com/e.o/bayda_l.htm |date=2016-03-04 }} lexicorient, 2011 Oct 17</ref>
+<!-- Population   ----------------------->
+|population_as_of               = 2010
+|population_footnotes           =
+|population_note                =
+|population_total               = 380,000
+|population_density_km2         =
+<!-- General information  --------------->
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|32|45|59|N|21|44|30|E|region:LY|display=inline,title}}
+|elevation_footnotes    =  <ref name=fallingrain>[http://www.fallingrain.com/world/LY/04/Al_Bayda.html Fallingrain.com]</ref>
+|elevation_m            =623
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|website                =
+|footnotes              =
+}}

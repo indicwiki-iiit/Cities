@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = {{raise|0.2em| Takayama}}
+| native_name                     = {{lower|0.1em|{{nobold|{{lang|ja|高山市}}}}}}
+| native_name_lang                = ja
+| settlement_type                 = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->| image_skyline                   = Takayama's Early Winter Welcome (NE).jpg
+| imagesize                       = 
+| image_alt                       = 
+| image_caption                   = City view from Tenbo Park
+| image_flag                      = Flag of Takayama, Gifu.svg
+| flag_alt                        = 
+| image_seal                      = Takayama Gifu chapter.JPG
+| seal_alt                        = 
+| image_shield                    = 
+| shield_alt                      = 
+| image_blank_emblem              = 
+| nickname                        = 
+| motto                           = <!-- maps and coordinates -->
+| image_map               = {{maplink|frame=yes|plain=yes|frame-width=265|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| image_map1                       = Takayama in Gifu Prefecture Ja.svg
+| map_alt                         = 
+| map_caption                     = Location of Takayama in Gifu Prefecture
+| pushpin_map                     = Japan
+| pushpin_label_position          = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt                 = 
+| pushpin_map_caption             = &nbsp;
+| coordinates                     = {{coord|36|8|45.7|N|137|15|7.8|E|region:JP|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <!-- for references: use <ref> tags -->
+<!-- location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Japan]]
+| subdivision_type1               = [[List of regions of Japan|Region]]
+| subdivision_name1               = [[Chūbu region|Chūbu]]
+| subdivision_type2               = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2               = [[Gifu Prefecture|Gifu]]
+| subdivision_type3               = 
+| subdivision_name3               =
+ <!-- established -->
+| established_title     = First official recorded 
+| established_date      = 377 AD
+| established_title2    = City settled
+| established_date2     = November 1, 1936
+| founder                         = 
+| named_for                       = <!-- seat, smaller parts -->
+| seat_type                       = <!-- defaults to: Seat -->
+| seat                            = <!-- government type, leaders -->
+| government_footnotes            = <!-- for references: use <ref> tags -->
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = Michihiro Kunishima<ref name=shichou>{{cite web|script-title=ja:ようこそ市長室へ|url=http://www.city.takayama.lg.jp/mayors_office/index.html|work=Takayama official website|access-date=August 11, 2011|language=ja}}</ref>
+| leader_title1                   = 
+| leader_name1                    = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_footnotes                  = <!-- for references: use <ref> tags -->
+| area_total_km2                  = 2,177.61
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_note                       = <!-- elevation -->
+| elevation_footnotes             = <!-- for references: use <ref> tags -->
+| elevation_m                     = <!-- population -->
+| population_footnotes            = <!-- for references: use <ref> tags -->
+| population_total                = 88473
+| population_as_of                = January 1, 2019
+| population_density_km2          = auto
+| population_est                  = 
+| pop_est_as_of                   = 
+| population_demonym              = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note                 = <!-- time zone(s) -->
+| timezone1                       = [[Japan Standard Time]]
+| utc_offset1                     = +9
+| timezone1_DST                   = 
+| utc_offset1_DST                 = <!-- postal codes, area code -->
+| postal_code_type                = 
+| postal_code                     = 
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| area_code                       = <!-- blank fields (section 1) -->
+| blank_name_sec1                 = City symbols
+| blank_info_sec1                 = &nbsp;
+| blank1_name_sec1                = - Tree
+| blank1_info_sec1                = [[Japanese Yew]]<ref name="hanaki">{{cite web|script-title=ja:高山市の市章・木・花|url=http://www.city.takayama.lg.jp/kikaku/aramashi/documents/00_02shisyou.pdf|work=Takayama official homepage|access-date=August 11, 2011|language=ja}}</ref>
+| blank2_name_sec1                = - Flower
+| blank2_info_sec1                = [[Rhododendron|''Rhododendron reticulate'']]<ref name="hanaki" />
+| blank3_name_sec1                = - Bird
+| blank3_info_sec1                = 
+| blank4_name_sec1                = - Fish
+| blank4_info_sec1                = 
+| blank5_name_sec1                = 
+| blank5_info_sec1                = 
+| blank6_name_sec1                = 
+| blank6_info_sec1                = 
+| blank7_name_sec1                = 
+| blank7_info_sec1                = <!-- blank fields (section 2) -->
+| blank_name_sec2                 = Phone&nbsp;number
+| blank_info_sec2                 = 0577-32-3333
+| blank1_name_sec2                = Address
+| blank1_info_sec2                = 2-18 Hanaoka-chō, Takayama-shi, Gifu-ken 506-8555
+<!-- website, footnotes -->| website                         = {{official|1=http://www.city.takayama.lg.jp/}}
+| footnotes                       = 
+}}

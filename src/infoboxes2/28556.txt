@@ -1,0 +1,65 @@
+{{Infobox Australian place
+| type     = town
+| name     = Penola
+| state    = sa
+| image    = Penola SA town centre.jpg
+| caption  = Penola town centre
+
+| coordinates = {{coord|37.378605|S|140.83623|E|format=dms|display=inline,title}}
+| coord_ref   = <ref name="LMV">{{cite web|title=Search result for 'Meningie, Locb' with the following datasets selected - 'Suburbs and Localities', 'Government Towns', 'Counties', 'Hundreds', 'Local Government Areas', 'SA Government Regions', 'Gazetteer', 'Railways' and 'State Maintained Roads' |url=http://location.sa.gov.au/viewer/?map=roads&x=140.85085&y=-37.40012&z=12&uids=19,2,8,11,18,20,105,134,205&pinx=140.837610&piny=-37.377140&pinTitle=Location&pinText=Penola,+Locb|website=Location SA Map viewer|publisher=Government of South Australia|access-date=11 April 2019}}</ref>
+
+|pushpin_label_position =left
+| use_lga_map = yes
+
+| pop      = 1,312 (town centre)
+| pop_year = {{censusAU|2016}}
+| pop_footnotes =<ref name= Census2016-UCL>{{Census 2016 AUS|id= UCL415032 |name= Penola (UCL)|accessdate=11 April 2019|quick=on}}</ref> 
+| pop2      = 1,592 (locality)
+| pop2_year = {{censusAU|2016}}
+| pop2_footnotes   = <ref name= Census2016-SSC>{{Census 2016 AUS|id= SSC41124  |name= Penola (SSC)|accessdate=11 April 2019|quick=on}}</ref>
+
+| established              = 1867 (town)<br/>13 December 2001 (locality)
+| established_footnotes    = <ref name="LMV"/><ref name="SAGG-2001">{{cite web|last1=Lawson|first1=R.|title=GEOGRAPHICAL NAMES ACT 1991 Notice to Assign Boundaries and Names to Places (in the Wattle Range Council)|url=http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2001/December/2001_164.pdf|website=The South Australian Government Gazette|publisher=South Australian Government|access-date=27 February 2018|page=5365|date=13 December 2001}}</ref>
+| postcode = 5277
+
+| elevation= 65
+| elevation_footnotes      =
+
+| timezone = [[UTC9:30|ACST]]
+| utc = +9:30
+| timezone-dst = [[UTC10:30|ACST]]
+| utc-dst = +10:30
+
+| dist1    = 388
+| dir1     = SE
+| location1= [[Adelaide, South Australia|Adelaide]]
+| dist2                    = 
+| dir2                     = 
+| location2                = 
+| dist3                    = 
+| dir3                     = 
+| location3                =
+
+| region= [[Limestone Coast]]<ref>{{cite web|title=Limestone Coast SA Government region|url=http://www.sa.gov.au/__data/assets/pdf_file/0003/8589/Limestone_Coast_SA_Government_region.pdf|publisher=The Government of South Australia|access-date=10 October 2014}}</ref>
+| county   = [[County of Grey|Grey]]<ref name="LMV"/>
+| lga      = Wattle Range Council
+| stategov = [[Electoral district of Mackillop|Mackillop]]<ref name=ECSA>{{cite web|title=District of Mackillop profile |url=https://ecsa.sa.gov.au/electoral-districts/electoral-district-profiles?view=article&id=841:Mackillop |publisher=Electoral Commission SA|access-date=9 April 2019}}</ref>
+| fedgov   = [[Division of Barker|Barker]]<ref name=AEC>{{cite web|title=Federal electoral division of Barker |url=http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-barker.pdf |publisher=Australian Electoral Commission|access-date=28 December 2017}}</ref>
+
+| maxtemp                  = 20.0
+| maxtemp_footnotes        = 
+| mintemp                  = 8.3
+| mintemp_footnotes        = 
+| rainfall                 = 708.5
+| rainfall_footnotes       =
+
+| near-n              = [[Coonawarra, South Australia|Coonawarra]]
+| near-ne             = [[Dorodong, Victoria|Dorodong]]
+| near-e              = [[Dorodong, Victoria|Dorodong]]<br/>[[Lake Mundi, Victoria|Lake Mundi]]
+| near-se             = [[Lake Mundi, Victoria|Lake Mundi]]
+| near-s              = [[Nangwarry, South Australia|Nangwarry]]
+| near-sw             = [[Krongart, South Australia|Krongart]]
+| near-w              = [[Monbulla, South Australia|Monbulla]]
+| near-nw             = [[Maaoupe, South Australia|Maaoupe]]
+|footnotes=Adjoining localities<ref name="LMV"/><ref name=WW>{{Cite web |title=West Wimmera Shire town and rural districts names and boundaries |url=http://www.dtpli.vic.gov.au/__data/assets/pdf_file/0010/218368/West_Wimmera_V45b.pdf |archive-url=https://web.archive.org/web/20151018013049/http://www.dtpli.vic.gov.au/__data/assets/pdf_file/0010/218368/West_Wimmera_V45b.pdf |url-status=dead |archive-date=18 October 2015 |access-date=5 September 2016 |work=Locality names and boundary maps |publisher=Department of Environment, Land, Water and Planning, State Government of Victoria, Australia }}</ref><ref name=glenelg>{{Cite web | title = Glenelg Shire town and rural districts names and boundaries | url = http://www.dtpli.vic.gov.au/__data/assets/pdf_file/0008/218177/Glenelg_V47.pdf | access-date = 3 September 2016 | work = Locality names and boundary maps | publisher = Department of Environment, Land, Water and Planning, State Government of Victoria, Australia | url-status = dead | archive-url = https://web.archive.org/web/20161222073851/http://www.dtpli.vic.gov.au/__data/assets/pdf_file/0008/218177/Glenelg_V47.pdf | archive-date = 22 December 2016 | df = dmy-all }}</ref>
+}}

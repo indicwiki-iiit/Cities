@@ -1,0 +1,17 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Mina Clavero
+| native_name             = 
+| native_name_lang        = es<!-- ISO 639-2 code e.g. "es" for Spanish. -->
+| settlement_type         = [[Administrative divisions of Argentina|Department]]
+|coordinates             = {{coord|31|43|26|S|65|00|18|W|display=inline}}
+| unit_pref               = Metric<!-- or US or UK -->
+| postal_code_type        = Postal code
+| postal_code             = 5889
+| area_code_type          = Dialing code
+| area_code               = 03544
+| timezone1               = [[Time in Argentina|ART]]
+| utc_offset1             = -3
+| website                 = www.minaclavero.gov.ar
+| footnotes               = 
+}}

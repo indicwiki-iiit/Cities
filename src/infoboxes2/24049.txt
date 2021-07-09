@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = town
+| name     = Moree
+| state    = nsw
+| image    = Moree (1).JPG
+| caption  = Main Street, Moree
+| lga      = Moree Plains Shire
+| county   = [[Courallie County|Courallie]]
+| postcode = 2400
+| est      = 1862
+| pop      = 7,383
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=UCL114020  |name=Moree (Urban Centre) |accessdate=3 December 2017 |quick=on}}</ref>
+| elevation= 212
+| coordinates = {{coord|29|27|57|S|149|50|02|E|display=it}}
+| maxtemp  = 26.8
+| mintemp  = 12.5
+| rainfall = 583.0
+| stategov = [[Electoral district of Northern Tablelands|Northern Tablelands]]
+| fedgov   = [[Division of Parkes|Parkes]]
+| dist1    = 628
+| location1= Sydney
+| dist2    = 480
+| location2= Brisbane
+| dist3    = 380
+| location3= Dubbo
+| dist4    = 272
+| location4= [[Tamworth, New South Wales|Tamworth]]
+| dist5    = 129
+| location5= Goondiwindi
+}}

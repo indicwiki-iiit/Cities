@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Kaynaşlı
+| image_skyline           = Kaynaşlı - panoramio - Hüseyin Öcal.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|46|N|31|19|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Düzce Province|Düzce]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = [[Mayor]]
+| leader_name             = Erol Bayraktar
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Düzce|Kaynaşlı}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Düzce}}
+| population_urban        = {{Turkey district populations|Düzce|Kaynaşlı|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Düzce|Kaynaşlı|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Oceanic climate|Cfb]]
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

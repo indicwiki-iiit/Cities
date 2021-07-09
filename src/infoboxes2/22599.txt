@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{HUN}}
+|coordinates            = {{coord|47|41|N|21|40|E|region:HU|display=inline}}
+
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|elevation_m = 151
+|official_name=Hajdúhadház
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Hajdú-Bihar County|Hajdú-Bihar]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Hajdúhadház District|Hajdúhadház]]
+|image_shield=HUN_Hajdúhadház_COA.jpg
+|area_total_km2=87.81
+|population_as_of=2015
+|population_total=12,724<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1 January 2015]''. Hungarian Central Statistical Office. 3 September 2015</ref>
+|population_footnotes=
+|population_density_km2=144.9
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=4242
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 52
+|website={{URL|http://www.hajduhadhaz.hu/}}
+}}

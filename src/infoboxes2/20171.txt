@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = Ferndale, California
+|settlement_type          = [[City (California)|City]]
+<!-- Images and maps ------>
+|image_skyline            = Main Street Ferndale 2015.jpg
+|image_caption            = [[Ferndale Main Street Historic District|Main Street]] in Ferndale
+|image_seal               = 
+|image_map                = File:Humboldt County California Incorporated and Unincorporated areas Ferndale Highlighted 0623910.svg
+|map_caption              = Location of Ferndale in Humboldt County, California
+|mapsize                  = 250x200px
+<!-- Location ------------->
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief           = 1
+|coordinates              = {{coord|40|34.6|N|124|15.8|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Humboldt County, California|Humboldt]]
+<!-- History -------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = August 28, 1893<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=April 7, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government]]<ref>{{Cite web
+  | url = http://ci.ferndale.ca.us/
+  | title = City of Ferndale, California
+  | access-date = April 7, 2013 }}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = Don Hindley<ref>{{Cite web
+  | url =http://ci.ferndale.ca.us/city-council.html
+  | title =City Council for the City of Ferndale, California
+  | access-date =May 18, 2015
+  | archive-url =https://web.archive.org/web/20150914205933/http://ci.ferndale.ca.us/city-council.html
+  | archive-date =September 14, 2015
+  | url-status =dead
+  }}</ref>
+|leader_title1            = [[City manager]]
+|leader_name1             = Jay Parrish<ref>{{Cite web
+  | url = http://ci.ferndale.ca.us/city-manager.html
+  | title = City Manager for the City of Ferndale, California
+  | access-date = April 7, 2013
+  | archive-url = https://web.archive.org/web/20131013191652/http://ci.ferndale.ca.us/city-manager.html
+  | archive-date = October 13, 2013
+  | url-status = dead
+  }}</ref>
+<!-- Area ----------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 1.03
+|area_total_km2           = 2.66
+|area_land_sq_mi          = 1.03
+|area_land_km2            = 2.66
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|277513|Ferndale}}</ref>
+|elevation_ft             = 56
+|elevation_m              = 17
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1371
+|population_density_sq_mi = 1316.46
+|population_metro         = <!-- Time zone ------------>
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 95536
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|23910}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277513}}, {{GNIS 4|2410497}}
+|website                  = {{URL|ci.ferndale.ca.us}}
+|footnotes                = {{Designation list|embed=yes|designation1=California|designation1_number=883}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 1352
+|population_density_km2 = 508.46
+}}

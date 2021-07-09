@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| official_name                   = Kuna
+| native_name                     = <!-- for cities whose native name is not in English -->
+| other_name                      = 
+| settlement_type                 = [[City]]
+<!-- images and maps  ----------->| image_skyline                   = MainStreetKunaIdaho.jpg
+| imagesize                       = 240px
+| image_caption                   = Main Street in Kuna in 2008
+| image_flag                      = 
+| image_seal                      = Kuna Idaho City Seal.gif
+| seal_size                       = 100px
+| image_shield                    = 
+| nickname                        = 
+| motto                           = "Gateway  to the Birds of Prey"
+| image_map                       = File:Ada County Idaho Incorporated and Unincorporated areas Kuna Highlighted 1644290.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Kuna in Ada County, Idaho
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| coordinates                     = {{coord|43|29|35|N|116|25|8|W|region:US-ID_type:city|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Idaho]]
+| subdivision_type2               = [[List of counties in Idaho|County]]
+| subdivision_name2               = [[Ada County, Idaho|Ada]]
+| established_title               = 
+| established_date                = 
+| government_type                 = 
+| government_footnotes            = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Joe Stear
+| leader_title1                   = for places with, say, both a mayor and a city manager
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_sq_mi                = 19.88
+| area_land_sq_mi                 = 19.78
+| area_water_sq_mi                = 0.10
+| area_water_percent              = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_ft                    = 2694
+<!-- Population   ----------------------->| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 15210
+| population_as_of                = [[2010 United States Census|2010]]
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 22257
+| pop_est_as_of                   = 2019
+| population_density_sq_mi        = 1125.23
+| population_note                 = <!-- General information  --------------->
+| timezone                        = [[Mountain Time Zone|Mountain]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = Mountain
+| utc_offset_DST                  = &minus;6
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]
+| postal_code                     = 83634
+| area_code                       = [[Area codes 208 and 986|208, 986]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 16-44290
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0396755
+| website                         = {{URL|http://kunacity.id.gov/}}
+| area_total_km2                  = 51.49
+| area_land_km2                   = 51.23
+| area_water_km2                  = 0.26
+| population_density_km2          = 434.46
+}}

@@ -1,0 +1,57 @@
+{{Infobox settlement
+|official_name            = Ladera Ranch
+|settlement_type          = [[census-designated place]]
+|imagesize                = 
+|image_caption            = 
+|image_seal               = 
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = California
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Orange County, California|Orange]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_date         = 
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://www.webcitation.org/699nOulzi?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=July 14, 2012 }}</ref>
+| area_total_sq_mi        = 4.905
+| area_land_sq_mi         = 4.905
+| area_water_sq_mi        = 0
+| area_total_km2          = 12.703
+| area_land_km2           = 12.703
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               = 
+| pushpin_map             = California
+| pushpin_map_caption     = Location in California
+|coordinates              = {{coord|33|32|48|N|117|38|25|W|region:US_type:city|display=inline,title}}
+|elevation_m              = 
+|elevation_ft             = 404
+|population_as_of         = 2010
+|population_total         = 22980
+|population_footnotes     = 
+|population_density_km2   = auto
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 92694
+|area_code                = [[Area code 949|949]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|39114}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1852155}}, {{GNIS 4|2583048}}
+|footnotes                = <ref name="gnis|2583048">{{gnis|2583048}}</ref>
+}}

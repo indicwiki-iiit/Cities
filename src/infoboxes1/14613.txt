@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Dormont, Pennsylvania
+|official_name            = 
+|settlement_type          = Borough
+|image_skyline            = Dormont Public_Library_jeh.jpg
+|imagesize                = 
+|image_caption            = Dormont Public Library
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|motto                    = 
+
+<!-- Images -->
+|image_map                = Allegheny County Pennsylvania incorporated and unincorporated areas Dormont highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Allegheny County, Pennsylvania|Allegheny County]] and the U.S. state of [[Pennsylvania]].
+
+<!-- Location -->
+|coordinates              = {{coord|40|23|37|N|80|2|15|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Pennsylvania|County]]
+|subdivision_name1        = [[Pennsylvania]]
+|subdivision_name2        = [[Allegheny County, Pennsylvania|Allegheny]]
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = Council-Manager
+| leader_title1 = Mayor
+|leader_name1             = Jason Walsh
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_sq_mi         = 0.76
+|area_land_sq_mi          = 0.76
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_ft             = 
+|population_total         = 8593
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_sq_mi = 10897.37
+
+<!-- General information -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 15216
+|area_code                = 412
+|website                  = {{URL|www.boro.dormont.pa.us}}
+|footnotes                =        
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 42-19576
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 
+| leader_title2 = Borough Manager
+| leader_name2 = Benjamin Estell
+| leader_title = Borough Council
+| leader_name = {{Collapsible list
+  |framestyle=border:none; padding:0; <!--as above-->
+  |title=List Council Members
+  |1=President Jeff Fabus |2=Vice President Jen Mazzocco |3=President Pro Tempore Drew Lehman |4=Kate Abel |5=Joanna Bouldin |6=John Moore |7=Daniele Ventresca
+ }}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8282
+|unit_pref = Imperial
+|area_total_km2 = 1.97
+|area_land_km2 = 1.97
+|area_water_km2 = 0.00
+|population_density_km2 = 4205.36
+}}

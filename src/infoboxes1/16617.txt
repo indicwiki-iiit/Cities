@@ -1,0 +1,82 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Karlovac
+| official_name                   = ''Grad Karlovac''<br /> City of Karlovac
+| settlement_type                 = [[List of cities and towns in Croatia|City]]
+<!-- images and maps  ----------->| image_skyline                   = {{Photomontage|photo1a = Lucija Bušić - Karlovac.jpg
+|photo2a = Dubovac Castle in Karlovac4, Croatia.JPG
+|photo2b = Karlovac3.JPG
+|photo3a = Zorin dom Karlovac.jpg
+|photo3b = Karlovac Train Station with HŽ 7122.jpg
+|size = 250
+|spacing = 1
+|position = center
+|color = white
+|color_border = white
+|border = 0
+|foot_montage = Top: Karlovac panoramic view; Center left: Dubovac castle; Center right: Franciscan monastery and Church of Holy Trinity; Bottom left: Zorin dom theatre; Bottom right: Karlovac train station}}
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = Zastava_Grada_Karlovca.svg
+| flag_size                       = 
+| image_seal                      = Grb_slob._i_kralj._Grada_Karlovca.svg
+| seal_size                       = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Croatia
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Karlovac within Croatia
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Croatia}}
+| subdivision_type1               = [[Counties of Croatia|County]]
+| subdivision_name1               = [[File:Flag of Karlovac county.svg|border|23px]] [[Karlovac County|Karlovac]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Damir Mandić ([[Croatian Democratic Union|HDZ]])
+| leader_title1                   = City Council
+| leader_name1                    = {{Collapsible list
+ |title   = 25 members
+ |frame_style= border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Croatian Democratic Union|HDZ]], [[Croatian Social Liberal Party|HSLS]] (13)
+ |2     =• [[Human Shield (political party)|ŽZ]] (5)
+ |3     =• NL Davor Petračić (3)
+ |4     =• [[Social Democratic Party of Croatia|SDP]], [[Croatian Labourists – Labour Party|HL]] (3)
+ |5     =• AUZ-[[Croatian Party of Pensioners|HSU]] (1)
+}}
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| area_magnitude                  = 
+| area_footnotes                  = 
+| area_total_km2                  = 401
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_metro_km2                  = <!-- Population   ----------------------->
+| population_as_of                = 2011
+| population_footnotes            = <ref name="census2011"/>
+| population_total                = 55705
+| population_density_km2          = auto
+| population_urban                = 46833
+<!-- General information  --------------->| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|45|29|N|15|33|E|region:HR|display=inline}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 112
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code
+| postal_code                     = HR-47 000
+| area_code                       = +385 47
+| registration_plate              = [[Vehicle registration plates of Croatia|KA]]
+| website                         = [http://www.karlovac.hr karlovac.hr]
+| footnotes                       = 
+}}

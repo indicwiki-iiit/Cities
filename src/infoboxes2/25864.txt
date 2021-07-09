@@ -1,0 +1,26 @@
+{{Infobox body of water
+ |name = Lake of the Woods
+ |image = Lake of the Woods by Sentinel-2.jpg
+ |caption = Lake of the Woods from space, September 2018
+ |image_bathymetry =
+ |caption_bathymetry =
+ |location = [[North America]]
+ |coords = {{coord|49|14|59|N|94|45|03|W|type:waterbody_scale:1000000|display=inline,title}}
+ |lake_type = [[Glacial lake|Glacial]]
+ |inflow = [[Rainy River (Minnesota–Ontario)|Rainy River]]<br />[[Shoal Lake (Ontario)|Shoal Lake]]<br />[[Kakagi Lake]]
+ |outflow = [[Winnipeg River]]
+ |catchment =
+ |basin_countries = [[Canada]] and [[United States]]
+ |length = {{convert|68|mi|abbr=on}}
+ |width = {{convert|59|mi|abbr=on}}
+ |area = {{convert|4350|km2|sqmi|1|abbr=on}}<ref name=CanEncy />
+ |depth =
+ |volume =
+ |shore = excluding islands:<br />{{convert|25000|mi|abbr=on}}<br />including islands:<br />{{convert|65000|mi|abbr=on}}
+ |elevation = {{convert|323|m|ft|abbr=on}},<ref name=CanEncy /> {{cvt|1063|ft}}<ref name=GNIS>{{GNIS|654378|Lake of the Woods}}</ref>
+ |max-depth =  {{convert|210|ft|abbr=on}}
+ |islands = 14,632<ref name=CanEncy>{{cite web|url=https://www.thecanadianencyclopedia.ca/en/article/lake-of-the-woods|website=The Candian Encyclopedia|title=Lake of the Woods|access-date=May 18, 2021}}</ref>
+ |cities = [[Angle Inlet]], Minnesota <br /> [[Warroad]], Minnesota <br /> [[Lake of the Woods, Ontario|Lake of the Woods]], Ontario 
+ |pushpin_map = Minnesota
+ |pushpin_map_alt = Lake of the Woods is located in Ontario and Manitoba, Canada and Minnesota, United States
+}}

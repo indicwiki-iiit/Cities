@@ -1,0 +1,41 @@
+{{Infobox settlement
+<!-- General information -->
+|name                   =Sarkad
+|image_shield           =HUN Sarkad Címer.svg
+|image_flag             =Flag of Sarkad.svg
+|image_skyline          =Sarkad 2010, Református templom.jpg
+<!-- Pushpin map -->
+|pushpin_map            =Hungary
+|pushpin_map_caption    =Location of Sarkad in Hungary
+<!-- Political information -->
+|subdivision_type       =Country
+|subdivision_name       ={{HUN}}
+|subdivision_type1      =[[List of regions of Hungary|Region]]
+|subdivision_name1      =[[{{Hungarian county region|Békés}}]]
+|subdivision_type2      =[[Counties of Hungary|County]]
+|subdivision_name2      ={{Hungarian county link|Békés}}
+<!-- Geographical information -->
+|area_total_km2         =125.57
+|area_magnitude         =1 E6
+|area_footnotes         =<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=28565 Sarkad] at the [[Hungarian Central Statistical Office]] (Hungarian).</ref>
+|coordinates            ={{coord|46|45|N|21|23|E|region:HU|display=inline}}
+<!-- Demographical information -->
+|postal_code            =5720
+|postal_code_type       =[[Postal code]]
+|area_code              =+36 66
+|area_code_type         =[[Telephone numbers in Hungary|Area code]]
+|timezone               =[[Central European Time|CET]]
+|utc_offset             =+1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         =+2
+|total_type             =Total
+|population_total       =10463
+|population_density_km2 =auto
+|population_density_urban_km2 =auto
+|population_density_metro_km2 =auto
+|population_as_of       =2009
+|population_footnotes   =<ref name="ksh_cite_population">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=28565 Sarkad] at the [[Hungarian Central Statistical Office]] (Hungarian). 2009</ref>
+
+|blank_info             =
+|website                ={{wikidata|property|P856}}
+}}

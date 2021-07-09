@@ -1,0 +1,72 @@
+{{Infobox settlement
+|official_name = Laurinburg, North Carolina
+|settlement_type = [[City]]
+|nickname = LBG, The Burg
+|motto = 
+
+<!-- Images -->
+|image_skyline = Laurinburg, North Carolina.jpg
+|imagesize = 
+|image_caption = Main Street in Laurinburg
+|image_flag = 
+|image_seal = 
+
+<!-- Maps -->
+|image_map                = Scotland County North Carolina incorporated and unincorporated areas Laurinburg highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Scotland County, North Carolina|Scotland County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[North Carolina]]
+|subdivision_type2 = [[List of counties in North Carolina|County]]
+|subdivision_name2 = [[Scotland County, North Carolina|Scotland]]
+|government_footnotes = 
+|government_type = 
+|leader_title = Mayor
+|leader_name = James "Jim" Willis<ref name="Mayor">{{cite web | title = Mayor | publisher = City of Laurinburg, NC | url = https://www.laurinburgexchange.com/news/30723/willis-elected-mayor | access-date = November 6, 2019}}</ref>
+|established_title = Incorporated
+|established_date = 1877<ref name="History"/>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude = 
+|area_total_km2 = 32.85
+|area_land_km2 = 32.44
+|area_water_km2 = 0.41
+|area_total_sq_mi = 12.69
+|area_land_sq_mi = 12.53
+|area_water_sq_mi = 0.16
+
+<!-- Population -->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_total = 15962
+|population_density_km2 = 462.43
+|population_density_sq_mi = 1197.67
+
+<!-- General information -->
+|timezone = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes = 
+|elevation_m = 
+|elevation_ft = 223
+|coordinates      = {{coord|34|45|53|N|79|28|13|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type = [[ZIP code]]s
+|postal_code = 28352-28353
+|area_code = [[Area code 910|910]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 37-37220<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info = 988216<ref name=GNIS1>{{gnis|988216|Laurinburg}}</ref>
+|footnotes = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 15002
+|website = {{Official website|http://www.laurinburg.org/}}
+}}

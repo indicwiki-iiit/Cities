@@ -1,0 +1,135 @@
+{{Infobox settlement
+<!-- Basic info-->
+|official_name            = Chimbote
+|other_name               =
+|native_name              =  <!-- for cities whose native name is not in English -->
+|nickname                 = "The capital of fishing and steel"
+|settlement_type          = <!--For Town or Village (Leave blank for the default City)-->
+|motto                    =
+<!-- images and maps-->
+| image_skyline          = {{Photomontage	
+| photo1a = Plaza_mayor_de_nuevo_chimbote_y_catedral.JPG
+| photo2a = Isla Blanca (Chimbote).jpg
+| photo2b = Contaminacion en Chimbote - panoramio.jpg
+| photo3a = Chimbote port.jpg
+| photo3b = Bonito Ovalo - panoramio.jpg
+| photo4a = Panoramica chimbote desde Cerro de la Paz.jpg
+| spacing = 1
+| position = center	 	
+| color_border = white	 	
+| color =  white	 	
+| size = 260	 	
+| foot_montage = 
+}} 
+|imagesize                = 300px
+|image_caption            = 
+|image_flag               = Bandera de Chimbote.svg
+|flag_size                =
+|image_seal               = Coat of arms of Chimbote.svg
+|seal_size                =
+|image_shield             =
+|shield_size              =
+|city_logo                =
+|citylogo_size            =
+|image_map                =
+|mapsize                  =
+|map_caption              =
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+|image_dot_map            =
+|dot_mapsize              =
+|dot_map_caption          =
+|dot_x                    =
+|dot_y                    =
+|pushpin_map              = Peru
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      =
+|pushpin_mapsize          =
+<!-- Location-->
+|subdivision_type         = Country
+|subdivision_name         = {{PER}}
+|subdivision_type1        = Region
+|subdivision_name1        = [[Ancash]]
+|subdivision_type2        = Province
+|subdivision_name2        = [[Santa Province|Santa]]
+|subdivision_type3        =
+|subdivision_name3        =
+|subdivision_type4        =
+|subdivision_name4        =
+<!-- Politics -->
+|government_footnotes     =
+|government_type          =
+|leader_title             = [[Mayor]]
+|leader_name              = Roberto Briceño Franco<br><small>(2019-2022) </small>
+|leader_title1            =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             =
+|leader_title2            =
+|leader_name2             =
+|leader_title3            =
+|leader_name3             =
+|leader_title4            =
+|leader_name4             =
+|established_title        = Founded
+|established_date         = 6 December 1906
+|established_title2       =  <!-- Incorporated (town) -->
+|established_date2        =
+|established_title3       =  <!-- Incorporated (city) -->
+|established_date3        =
+<!-- Area and population -->
+|area_magnitude           =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+|pop_est_as_of            = 2015
+|pop_est_footnotes      =<ref>{{cite report |url=http://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib1020/cuadros/c0206.xls |title=Perú: Población estimada al 30 de junio y tasa de crecimiento de las ciudades capitales, por departamento, 2011 y 2015 |work=Perú: Estimaciones y proyecciones de población total por sexo de las principales ciudades, 2012-2015 |publisher=Instituto Nacional de Estadística e Informática |date=March 2012 |access-date=2015-06-03}}</ref>
+|population_est         =371012
+|population_as_of                = 
+|population_footnotes            =
+|population_note                 =
+|population_total                = 
+|population_density_km2          = 3019
+|population_density_sq_mi        =
+|population_metro                =
+|population_density_metro_km2    =
+|population_density_metro_sq_mi  =
+|population_urban                =
+|population_density_urban_km2    =
+|population_density_urban_sq_mi  =
+|population_blank1_title         =
+|population_blank1               =
+|population_density_blank1_km2   =
+|population_density_blank1_sq_mi =
+<!-- General information -->
+|timezone               = [[Coordinated Universal Time|UTC]]-5
+|utc_offset             =
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates              = {{coord|9|8|28.36|S|78|35|36.86|W|region:PE|display=inline}}
+|elevation_footnotes    =  <!--for references: use<ref> </ref> tags-->
+|elevation_m            = 4
+|elevation_ft           =
+<!-- Area/postal codes & related -->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 43
+|blank_name             = 
+|blank_info             = 
+|blank1_name            =
+|blank1_info            =
+|website                = [http://www.munisanta.gob.pe/ www.munisanta.gob.pe]
+|footnotes              =
+}}

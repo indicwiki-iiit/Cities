@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Harrodsburg, Kentucky
+|settlement_type          = [[list of Kentucky cities|City]]
+|nickname                 = 
+|motto                    = 
+|named_for                = [[James Harrod]]
+
+<!-- Images -->
+|image_skyline            = Downtown Harrodsburg Kentucky 2.jpg
+|image_caption            = Downtown Harrodsburg, 2007
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Mercer County Kentucky Incorporated and Unincorporated areas Harrodsburg Highlighted 2134966.svg
+|mapsize                  = 250px
+|map_caption              = Location of Harrodsburg in Mercer County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map = Kentucky#USA
+| pushpin_map_caption = Location
+| pushpin_label = Harrodsburg
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Mercer County, Kentucky|Mercer]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Art Freeman
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = June 16, 1774
+|established_title2        = Incorporated
+|established_date2         = March 1, 1836
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 17.98
+|area_land_km2            = 17.93
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 6.94
+|area_land_sq_mi          = 6.92
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 8340
+|population_density_km2   = 476.01
+|population_density_sq_mi = 1232.91
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 850
+|coordinates              = {{coord|37|45|50|N|84|50|46|W|region:US-KY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 40330
+|area_code                = [[Area code 859|859]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 21-34966
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0493831
+|website                  = [http://www.harrodsburgcity.org/ harrodsburgcity.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8533
+}}

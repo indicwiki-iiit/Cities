@@ -1,0 +1,39 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name           = Alaçam
+| settlement_type         = Town
+| image_skyline           = Alacam.jpg
+| imagesize               = 250px
+| image_map               =
+| map_caption             = Location of Alaçam within Turkey.
+| pushpin_map             = Turkey
+| pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption     = Location of Alaçam
+| coordinates             = {{coord|41|36|36|N|35|35|42|E|region:TR|display=inline,title}}
+| subdivision_type        = [[Countries of the world|Country]]
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Regions of Turkey|Region]]
+| subdivision_name1       = Black Sea
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = Samsun
+| leader_title            = [[Mayor]]
+| leader_name             = İlyas Acar ([[Nationalist Movement Party|MHP]])
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Samsun|Alaçam}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Samsun}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Samsun|Alaçam|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Samsun|Alaçam|toplam}}
+| population_density_blank1_km2 = auto
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| postal_code_type        = [[Postal code]]
+| postal_code             = 55800
+| area_code               = (0090)+ 362
+| registration_plate      = [[Turkish car number plates|55]]
+| blank1_name_sec1        = [[Köppen climate classification|Climate]]
+| blank1_info_sec1        = [[Humid subtropical climate|Cfa]]
+}}

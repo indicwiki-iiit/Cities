@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          =  Madaba
+|other_name             =
+|native_name            =  {{lang|ar|مأدبا}} <!-- for cities whose native name is not in English -->
+|native_name2           = 
+|nickname               = 
+|settlement_type        = City
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = MADABA 2.png
+|imagesize              = 250px
+|image_caption          = Madaba's skyline and King Hussein Mosque, Apostles Church, Shrine of the Beheading of Saint John the Baptist, St. George Church, Madaba Archaeological Park, Souvenir shops,Madaba Mosaic Map.
+|image_flag             = 
+|flag_size              =
+|image_seal             = Madaba logo.jpg
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Jordan<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =250
+|pushpin_map_caption    =Location in Jordan
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{JOR}}
+|subdivision_type1      = [[Governorates of Jordan|Governorate]]
+|subdivision_name1      = [[Madaba Governorate]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = Municipality
+|leader_title           = Mayor
+|leader_name            = Mustafa Al-Ma'ay'ya
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  Municipality established<!-- Settled -->
+|established_date       = 1921
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           = <ref>[http://www.madabacity.gov.jo/madaba2.htm]  {{webarchive |url=https://web.archive.org/web/20090605195219/http://www.madabacity.gov.jo/madaba2.htm |date=June 5, 2009 }}</ref>
+|area_total_km2           = 39.440 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_metro_km2         = 100
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = December 2011
+|population_footnotes           =
+|population_note                =
+|population_total               =84,600 {{increase}} 
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =[[UTC]]+2
+|utc_offset             = +2
+|timezone_DST           =[[UTC]]+3
+|utc_offset_DST         = +3
+|coordinates            = {{coord|31|43|N|35|48|E|region:JO|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 763
+|elevation_ft           = 2326
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = +(962) 5
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = [https://web.archive.org/web/20100206191729/http://www.madabacity.gov.jo/ www.madabacity.gov.jo/] 
+|footnotes              = 
+}}

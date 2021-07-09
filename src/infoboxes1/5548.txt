@@ -1,0 +1,121 @@
+{{Infobox settlement
+<!-- Basic info ---------------->
+|name ={{raise|0.2em|Yichang}}
+|official_name =
+|other_name = Ichang
+|native_name = {{lower|0.1em|宜昌市}}
+|native_name_lang = zh
+|nickname =
+|settlement_type =[[Prefecture-level city]]
+|total_type = <!-- to set a non-standard label for total area and population rows -->
+|motto =
+<!-- images and maps ----------->
+|image_skyline = Yichang skyline 5.jpg
+|imagesize = 300px
+|image_caption = Yichang skyline
+|image_seal =
+|seal_size =
+|image_shield =
+|shield_size =
+|image_blank_emblem =
+|blank_emblem_type =
+|blank_emblem_size =
+|image_map = Location of Yichang-Hubei.gif
+|mapsize = 300px
+|map_caption = Location of Yichang City jurisdiction in Hubei
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = China Hubei#China
+|pushpin_label_position =
+|pushpin_map_caption = Location of the city in Hubei##Location of the city in China
+|pushpin_mapsize = 250
+<!-- Location ------------------>
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Hubei]]
+|subdivision_type2 =
+|subdivision_name2 =
+|seat_type = Municipal seat
+|seat = [[Xiling District]]
+|parts_type =
+|parts_style = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5-->
+|parts = <!-- parts text, or header for parts list -->
+|p1 =
+|p2 = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type =
+|leader_title =
+|leader_name =
+|leader_title1 = CPC [[CPC party chief|Party Secretary]] <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1 = [[Huang Chuping]]
+|leader_title2 = Mayor
+|leader_name2 = Ma Xuming
+|leader_title3 =
+|leader_name3 =
+|leader_title4 =
+|leader_name4 =
+|established_title = <!-- Settled -->
+|established_date =
+|established_title1 = <!-- Incorporated (town) -->
+|established_date1 =
+|established_title2 = <!-- Incorporated (city) -->
+|established_date2 =
+|established_title3 =
+|established_date3 =
+|founder =
+|named_for =
+<!-- Area --------------------->
+|area_magnitude = <!-- use only to set a special wikilink -->
+|unit_pref = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes = <ref name="xzqhyc"/>
+|area_total_km2 =21338<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2 = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2 =
+|area_water_percent =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 4234.3 
+| area_urban_km2          = 91.40 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes = <!--for references: use <ref> tags-->
+|elevation_m =  58
+|elevation_ft =191
+|elevation_max_m = 2427
+|elevation_max_ft =
+|elevation_min_m = 35
+|elevation_min_ft =
+<!-- Population ----------------------->
+|population_as_of =2010
+|population_footnotes = <ref>{{Cite web|url=http://www.citypopulation.de/php/china-hubei-admin.php|title=China: Húbĕi (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map}}</ref><ref name="xzqhyc"/>
+|population_note =
+|population_total =4059686
+|population_density_km2 =auto <!--For automatic calculation, any density field may contain: auto -->
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 5410000
+| population_urban        = 1698400
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information --------------->
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|coor_pinpoint = Yichang municipal government
+|coordinates       = {{coord|30.692|N|111.287|E|format=dms|type:adm2nd_region:CN-42_source:Gaode|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[Postal code of China|Postal code]]s
+|postal_code =443000
+|area_code =0717
+|iso_code = [[ISO 3166-2:CN|CN-HB-05]]
+|website ={{URL|en.yichang.gov.cn/}}
+|blank_name                    = [[License Plate (China)|Licence plate prefixes]]
+|blank_info                    = {{lang|zh-cn|鄂E}}
+|blank1_name =
+|blank1_info =
+|footnotes =
+}}

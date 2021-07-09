@@ -1,0 +1,101 @@
+{{Infobox settlement
+|name = Hagerstown, Maryland
+|settlement_type = [[City]]
+|official_name            = City of Hagerstown
+|nicknames                 = ''Hub City'', ''Maryland's Gateway to the West'',<ref name="Hag2" /> ''H-Town'', (formerly) ''Home of the Flying Boxcar''
+|motto                    = ''A Great Place to Live, Work, and Visit''
+|image_skyline            = Hagerstown Downtown Potomac St.JPG{{!}}border
+|imagesize                = 295px
+|image_caption            = Downtown Hagerstown's southbound Potomac Street in November 2007.
+|image_flag               = 
+|image_seal               = Hagerstown md seal.png
+|image_map                = Washington_County_Maryland_Incorporated_and_Unincorporated_areas_Hagerstown_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in Maryland and in Washington County
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map             = Maryland#USA
+| pushpin_label_position  = 
+| pushpin_label           = Hagerstown
+| pushpin_map_caption     = Location within the U.S. state of Maryland
+| subdivision_type = Country
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Washington County, Maryland.svg|size=23px}} [[Washington County, Maryland|Washington]]
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Emily Keller
+|leader_title1 = [[City Council]]
+|leader_name1 = {{Collapsible list
+  |title = Council members
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = Kristin Aleshire
+  |2  = Robert Bruchey II
+  |3  = Tiara Burnett
+  |4  = Tekesha Martinez
+  |5  = Shelley McIntire
+  }}
+|leader_title2            = [[Maryland Senate|State Senator]]
+|leader_name2             = [[Paul D. Corderman]] ([[United States Republican party|R]])
+|leader_title3            = [[Maryland House of Delegates|State Delegate]]
+|leader_name3             = [[Brenda J. Thiam]] ([[United States Republican Party|R]])
+|leader_title4            = [[Maryland's 6th congressional district|U.S. Congress]]
+|leader_name4             = [[David Trone]] ([[United States Democratic Party|D]])
+|established_title        = Founded
+|established_title2       = [[Municipal Corporation|Incorporated]]
+|established_date         = 1762
+|established_date2        = 1813
+|unit_pref                = Imperial
+|area_magnitude           = 
+|area_total_sq_mi         = 12.18
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 31.54
+|area_land_sq_mi          = 12.17
+|area_land_km2            = 31.51
+|area_water_sq_mi         = 0.01
+|area_water_km2           = 0.03
+|area_urban_sq_mi         = 76.7
+|area_urban_km2           = 196.4
+|area_metro_sq_mi         = 1019
+|area_metro_km2           = 2637
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 40100
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 39662
+|population_density_km2   = 1272.67
+|population_density_sq_mi = 3296.07
+|population_note          = 
+|population_urban         = 120326
+|population_density_urban_km2 = 612.7
+|population_density_urban_sq_mi = 1568.8
+|population_metro         = 269140
+|population_density_metro_km2 = auto
+|population_density_metro_sq_mi = 
+|population_blank1_title = [[Demonym]]
+|population_blank1 = Hagerstonian
+|population_density_blank1_km2 = 
+|population_density_blank1_sq_mi = 
+|timezone                 = Eastern (EST)
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|coordinates              = {{coord|39|38|34|N|77|43|12|W|region:US-MD_type:city|display=inline,title}}
+|elevation_m              = 164 <!--usgs.gov-->
+|elevation_ft             = 538 <!--usgs.gov-->
+|website                  = [http://www.Hagerstownmd.org www.hagerstownmd.org]
+|postal_code_type         = [[ZIP code]](s)
+|postal_code              = 21740-21749
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-36075
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0598385
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

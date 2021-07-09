@@ -1,0 +1,110 @@
+{{Infobox country
+| conventional_long_name = Republic of Chile
+| native_name = {{{nobold|{{native name|es|República de Chile}}}}}
+| common_name = Chile
+| name = {{collapsible list
+| titlestyle = background:transparent;text-align:center;line-height:normal;font-size:84%;
+}}
+| image_flag = Flag of Chile.svg
+| alt_flag = 
+| image_coat = Coat of arms of Chile (c).svg
+| national_motto = {{vunblist |{{lang|es|Por la razón o la fuerza}} |{{raise|0.45em |{{small|(English: "By reason or by force")}}}}}}
+| national_anthem = "[[National Anthem of Chile|Himno Nacional de Chile]]"<br /><div style="padding-top:0.5em;">[[File:United States Navy Band - National Anthem of Chile.ogg|center]]</div>
+| image_map = File:CHL orthographic (+all claims).svg
+| map_width = 260px
+| alt_map = 
+| map_caption = Chilean territory in dark green; [[Chilean Antarctic Territory|claimed but uncontrolled territory]] in light green
+| capital = [[Santiago]]<sup>a</sup>
+| coordinates = {{Coord|33|26|S|70|40|W|type:city}}
+| largest_city = capital
+| official_languages = 
+| languages_type = [[National language]]
+| languages = [[Chilean Spanish|Spanish]]
+| demonym = {{Unbulleted list
+|[[Chileans|Chilean]]}}
+| ethnic_groups = {{unbulleted list
+|89% [[White Latin Americans|White]] or [[Mestizo]] 
+|10.8% [[Indigenous peoples in Chile|Indigenous]]
+|—9.1% [[Mapuche]]
+|—0.7% [[Aymara people|Aymara]]
+|—1.0% Other indigenous groups
+|0.2% Unspecified
+}}
+| ethnic_groups_year = 2012
+| ethnic_groups_ref = <ref name=CIA>{{cite web |author=Central Intelligence Agency |title=Chile |work=The World Factbook |publisher=Central Intelligence Agency |location=Langley, Virginia |year=2016 |url=https://www.cia.gov/the-world-factbook/countries/chile/ |access-date=29 January 2017}}</ref>
+| religion               = {{unbulleted list
+|63% [[Christianity]]
+|—45% [[Catholic Church in Chile|Roman Catholic]]
+|—15% [[Protestantism|Protestant]]
+|—3% Other [[List of Christian denominations|Christian]]
+|36% [[Irreligion in Latin America|No religion]]
+|1% [[Religion in Chile|Other]]s}}
+| religion_ref           = <ref name="CADEM 2020">{{cite web |title=Estudio Monitoreo Post Plebiscito 2020 - 25 Octubre 2020 |url=https://www.cadem.cl/wp-content/uploads/2020/10/Post-Plebiscito-VF.pdf |access-date=3 November 2020}}</ref>
+| religion_year          = 2020
+| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[Republic|constitutional republic]]
+| leader_title1 = [[President of Chile|President]]
+| leader_name1 = {{nowrap|[[Sebastián Piñera]]}}
+| leader_title2 = [[President of the Senate of Chile|President of the Senate]]
+| leader_name2 = {{nowrap|[[Yasna Provoste]]}}
+| leader_title3 = [[President of the Chamber of Deputies of Chile|President of the Chamber of Deputies]]
+| leader_name3 = {{nowrap|[[Diego Paulsen]]}}
+| legislature = [[National Congress of Chile|National Congress]]
+| upper_house = [[Senate of Chile|Senate]]
+| lower_house = [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| sovereignty_type = [[Chilean War of Independence|Independence]]
+| sovereignty_note = from [[Spain]]
+| established_event1 = [[Government Junta of Chile (1810)|Government Junta]]
+| established_date1 = 18 September 1810
+| established_event2 = [[Chilean Declaration of Independence|Declared]]
+| established_date2 = 12 February 1818
+| established_event3 = Recognized
+| established_date3 = 25 April 1844
+| established_event4 = {{nowrap|[[Constitution of Chile|Current constitution]]}}
+| established_date4 = 11 September 1980
+| area_rank = 37th
+| area_km2 = 756,096.3<ref name="ce2006">{{Cite web |url=http://www.ine.cl/canales/publicaciones/compendio_estadistico/pdf/2006/compendio2006.pdf |title=Compendio estadístico 2006 |access-date=29 November 2007 |author=Instituto Nacional de Estadísticas |date=October 2006|author-link=National Statistics Institute (Chile) }}</ref>
+| area_sq_mi = 291,930.4
+| area_footnote = 
+| percent_water = 2.1 (as of 2015)<ref>{{cite web|title=Surface water and surface water change|access-date=11 October 2020|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}}</ref>
+| population_census = 17,574,003<ref name="population">{{cite web|url=http://www.censo2017.cl/wp-content/uploads/2017/12/Presentacion_Resultados_Definitivos_Censo2017.pdf|title=RESULTADOS CENSO 2017|work=RESULTADOS DEFINITIVOS CENSO 2017|publisher=[[National Statistics Institute (Chile)|National Statistics Institute]]|date=1 January 2018|access-date=18 January 2017}}</ref>
+| population_census_rank = 64th
+| population_census_year = 2017
+| population_density_km2 = 24
+| population_density_sq_mi = 61
+| population_density_rank = 198th
+| GDP_PPP = {{decrease}} $456.394 billion<ref name="imf">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=228,&s=NGDP_R,NGDP_RPCH,NGDP,NGDPD,PPPGDP,NGDPRPC,NGDPRPPPPC,NGDPPC,NGDPDPC,PPPPC,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|work=World Economic Outlook Database, October 2020|publisher=International Monetary Fund|title=Chile|access-date=25 December 2020}}</ref>
+| GDP_PPP_rank = 43rd
+| GDP_PPP_year = 2020
+| GDP_PPP_per_capita = {{decrease}} $23,455<ref name="imf" />
+| GDP_PPP_per_capita_rank = 57th
+| GDP_nominal = {{decrease}} $245.414 billion<ref name="imf" />
+| GDP_nominal_rank = 45th
+| GDP_nominal_year = 2020
+| GDP_nominal_per_capita = {{decrease}} $12,612<ref name="imf" />
+| GDP_nominal_per_capita_rank = 55th
+| Gini_year = 2017
+| Gini_change = steady
+| Gini = 44.4 <!--number only-->
+| Gini_ref = <ref name="WBgini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=CL |title= GINI index (World Bank estimate) |publisher= World Bank |access-date= 4 April 2020}}</ref>
+| Gini_rank = 
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI = 0.851 <!--number only-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=15 December 2020|access-date=15 December 2020}}</ref>
+| HDI_rank = 43rd
+| currency = [[Chilean peso]]
+| currency_code = CLP
+| time_zone = {{nowrap|[[Time in Chile|CLT and EAST]]<sup>c</sup>}}
+| utc_offset = −4 and −6
+| time_zone_DST = 
+| utc_offset_DST = -3 and −5
+| DST_note = April to September
+| antipodes = 
+| date_format = dd/mm/yyy
+| drives_on = Right
+| calling_code = [[Telephone numbers in Chile|+56]]
+| iso3166code = 
+| cctld = [[.cl]]
+| footnote_a = [[Politics of Chile#Legislative branch|Legislature]] is based in [[Valparaíso]].
+| footnote_b = Includes Easter Island and [[Isla Salas y Gómez]]; does not include {{convert|1250000|km2}} of territory claimed in Antarctica.
+}}

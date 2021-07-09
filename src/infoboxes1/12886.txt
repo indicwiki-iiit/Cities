@@ -1,0 +1,24 @@
+{{Infobox UK place
+| country                  = England
+| type                     = Town
+| map_type                 = CHESHIRE
+| static_image_name        = Macclesfield Town Hall 2014.jpg
+| static_image_caption     = [[Macclesfield Town Hall]]
+| official_name            = Macclesfield
+| coordinates              = {{Coord|53.2581|-2.1274|display=inline,title}}
+| london_distance          = {{Convert|148|mi|km|abbr=on}}<ref>{{Cite web |title=Coordinate Distance Calculator |url=http://boulter.com/gps/distance/?from=53.2581+-2.1274&to=51.507+-0.127&units=m |access-date=8 March 2016 |website=boulter.com}}</ref>
+| london_direction         = SE
+| label_position           = left
+| population               = 51,482
+| unitary_england          = [[Cheshire East]]
+| lieutenancy_england      = [[Cheshire]]
+| civil_parish             = Macclesfield
+| region                   = North West England
+| constituency_westminster = [[Macclesfield (UK Parliament constituency)|Macclesfield]]
+| post_town                = MACCLESFIELD
+| postcode_area            = SK
+| postcode_district        = SK10 SK11
+| dial_code                = 01625
+| os_grid_reference        = SJ9173
+| website                  = {{URL|www.macclesfield-tc.gov.uk}}
+}}

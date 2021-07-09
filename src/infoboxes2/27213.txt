@@ -1,0 +1,51 @@
+{{Infobox person
+| name         = Sylvester
+| image        = Promotional Image of Sylvester.jpg
+| alt          = Promotional image of Sylvester in 1979
+| caption      = Promotional image of Sylvester in 1979
+| birth_name   = Sylvester James Jr.
+| birth_date   = {{Birth date|mf=yes|1947|9|6}}
+| birth_place  = {{nowrap|[[Watts, Los Angeles|Watts, Los Angeles, California]], U.S.}}
+| death_date   = {{death date and age|1988|12|16|1947|9|6}}
+| death_place  = {{nowrap|San Francisco, California, U.S.}}
+| death_cause  = AIDS-related complications
+| occupation   = {{flat list|
+*Singer-songwriter 
+*[[Musical composition|composer]] 
+*record producer
+}}
+| resting_place= [[Inglewood Park Cemetery]], [[Inglewood, California]], U.S.
+| spouse       = 
+| children     = 
+| website      = 
+| module = {{Infobox musical artist|embed=yes
+ | background = solo_singer
+ | instrument   = {{flat list|
+*Vocals
+*keyboards 
+*piano
+}}<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+ | genre        = {{flat list|
+*[[Dance music|Dance]]
+*[[Hi-NRG]]
+*[[rhythm and blues|R&B]] 
+*[[disco]] 
+*[[soul music|soul]] 
+*[[funk]]
+}}
+ | label        = {{flat list|
+*[[Blue Thumb Records|Blue Thumb]] 
+*[[Fantasy Records|Fantasy]] 
+*[[Megatone Records|Megatone]]
+}}
+ | years_active = 1962–1988 
+ | associated_acts =  {{flat list|
+*[[The Cockettes]]
+*[[the Weather Girls]]
+*[[Jeanie Tracy]]
+*[[Patrick Cowley]]
+}}
+}}
+| awards = 
+| signature  =
+}}

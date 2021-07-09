@@ -1,0 +1,95 @@
+{{Infobox country
+| coordinates = {{Coord|6|55|N|158|11|E|type:city}}
+| languages_type = Official language
+| languages2_type = Recognized regional<br/>languages
+| leader_name2 = [[Yosiwo George]]
+| conventional_long_name = Federated States of Micronesia
+| image_flag = Flag of Federated States of Micronesia.svg
+| image_coat = Seal of the Federated States of Micronesia.svg
+| common_name = the Federated States of Micronesia
+| symbol_type = Seal
+| national_motto = "Peace, Unity, Liberty"
+| national_anthem = "[[Patriots of Micronesia]]"<br /><div style="padding-top:0.5em;" class="center">[[File:Full performance of the Micronesian national anthem by the U.S. Navy Band.wav]]</div>
+| image_map = Micronesia on the globe (small islands magnified) (Polynesia centered).svg
+| capital = [[Palikir]]
+| largest_settlement = [[Weno]]<ref>{{cite book|title=Summary Analysis of Key Indicators: from the FSM 2010 Census of Population and Housing |url=http://prism.spc.int/images/census_reports/FSM_2010_Census_Indicators_Final.pdf |publisher=Division of Statistics, Office of SBOC |location=Palikir |page=8 |access-date=16 March 2018 |via=Prism (SPC)}}</ref>
+| largest_settlement_type = town
+| languages = [[English language|English]]
+| languages2 = {{hlist |[[Chuukese language|Chuukese]] |[[Kosraean language|Kosraean]] |[[Pohnpeian language|Pohnpeian]] |[[Yapese language|Yapese]]}}
+| ethnic_groups = {{unbulleted list
+  | 48.8% [[Chuukese people|Chuukese]]
+  | 24.2% Pohnpeian
+  |  6.2% Kosraean
+  |  5.2% [[Yapese people|Yapese]]
+  |  4.5% Outer Yapese
+  |  1.8% [[Asian people|Asian]]
+  |  1.5% [[Polynesians|Polynesian]]
+  |  6.4% Other
+  |  1.4% Unknown
+ }}
+| ethnic_groups_year = 2000
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |95.3% [[Christianity]]
+  |—52.6% [[Catholic Church|Catholicism]]
+  |—41.7% [[Protestantism]]
+  |—1.0% Other [[List of Christian denominations|Christian]]
+  |4.1% [[Folk religion]]s
+  |0.6% [[Irreligion|None]] / Others
+  }}
+| religion_year                = 2016
+| religion_ref                = <ref>{{Cite web|url=http://www.globalreligiousfutures.org/countries/federated-states-of-micronesia/religious_demography#/?affiliations_religion_id=0&affiliations_year=2010|title=Religions in Federated States Of Micronesia &#124; PEW-GRF|website=www.globalreligiousfutures.org}}</ref>
+| demonym = Micronesian
+| government_type = [[Federation|Federal]] [[assembly-independent]] [[republic]] under [[non-partisan democracy]]
+| leader_title1 = [[President of the Federated States of Micronesia|President]]
+| leader_name1 = [[David W. Panuelo|David Panuelo]]
+| leader_title2 = [[Vice President of the Federated States of Micronesia|Vice President]]
+| legislature = [[Congress of the Federated States of Micronesia|Congress]]
+| sovereignty_type = Independence
+| sovereignty_note = from the [[United States]]
+| established_event1 = Republic proclaimed
+| established_date1 = May 10, 1979
+| established_event2 = [[Compact of Free Association|Compact of Free&nbsp;Association]]
+| established_date2 = November 3, 1986
+|p1 = Trust Territory of the Pacific Islands
+|flag_p1 = Flag of the Trust Territory of the Pacific Islands.svg
+| area_km2 = 702
+| area_rank = 177th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 271 <!--Do not remove per [[WP:Manual of Style/Dates and numbers]]-->
+| percent_water = negligible
+| population_estimate =  104,468 <ref>{{Cite web|url=https://www.fsmstatistics.fm/book1/|title=NA – FSM Statistics}}</ref>
+| population_estimate_year = 2019
+| population_estimate_rank = 198th
+| population_density_km2 = 158.1
+| population_density_rank = 75th
+| population_density_sq_mi = 409.6 <!--Do not remove per [[WP:Manual of Style/Dates and numbers]]-->
+| GDP_PPP = $367 million
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $3,584<ref name="imf.org">{{Cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=38&pr.y=0&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=868&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = $383 million
+| GDP_nominal_year = 2019
+| GDP_nominal_per_capita = $3,735<ref name="imf.org"/>
+| Gini = 40.1 <!--number only-->
+| Gini_year = 2013
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref name=gini-index>{{cite web|title=GINI index|url=http://data.worldbank.org/indicator/SI.POV.GINI?order=wbapi_data_value_2002+wbapi_data_value+wbapi_data_value-last&sort=asc&page=2|publisher=World Bank|access-date=26 July 2013}}</ref>
+| Gini_rank = 
+| HDI = 0.620 <!--number only-->
+| HDI_year = 2019 <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 136th
+| currency = [[United States dollar]]
+| currency_code = USD
+| time_zone = 
+| utc_offset = +10 and +11
+| utc_offset_DST = 
+| time_zone_DST = ''not observed''
+| date_format = MM/DD/YYYY
+| drives_on = right
+| calling_code = [[Telephone numbers in the Federated States of Micronesia|+691]]
+| iso3166code = FM
+| cctld = [[.fm]]
+| footnote_a = Regional languages used at state and municipal levels.
+}}

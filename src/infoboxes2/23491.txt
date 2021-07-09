@@ -1,0 +1,19 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = F. Scott Fitzgerald
+| image = F Scott Fitzgerald 1921.jpg
+| imagesize = 
+| caption = Fitzgerald in 1921
+| birth_name = Francis Scott Key Fitzgerald
+| birth_date = {{Birth date|mf=yes|1896|9|24}}
+| birth_place = [[Saint Paul, Minnesota]], U.S.
+| death_date = {{Death date and age|mf=yes|1940|12|21|1896|9|24}}
+| death_place = Hollywood, California
+| resting_place = [[Saint Mary's Cemetery (Maryland)|Saint Mary's Cemetery]]<br/>[[Rockville, Maryland]], U.S.
+| years_active = 1920–1940
+| genre = 
+| movement = 
+| spouse = {{marriage|[[Zelda Fitzgerald|Zelda Sayre]]|1920<!--As marriage ended with his death, year is omitted per Template:Marriage instructions--->}}
+| children = [[Frances Scott Fitzgerald]]
+| signature = F Scott Fitzgerald Signature.svg
+| pseudonym = Paul Elgin
+}}

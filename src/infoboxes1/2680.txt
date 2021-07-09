@@ -1,0 +1,28 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kakonko District
+|other_name          = 
+|settlement_type        = [[Districts of Tanzania|District]]
+<!-- images and maps  ----------->
+|image_map              = Kigoma-Kakonko.svg
+|mapsize                = 250px
+|map_caption            = Kakonko District's location within Kigoma Region.
+|pushpin_map            = 
+|pushpin_label_position =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates            = {{coord|03|16|48|S|30|57|58|E|type:adm2nd|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[Tanzania]]
+|subdivision_type1      = [[Regions of Tanzania|Region]]
+|subdivision_name1      = [[Kigoma Region|Kigoma]]
+<!-- Population   ----------------------->
+|population_as_of       = 2012
+|population_total       = 167,555
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 
+| website                =
+}}

@@ -1,0 +1,96 @@
+{{Infobox settlement
+|official_name           = 
+|name                    = San Miguel de Allende
+|other_name              = 
+|native_name             = <!-- for cities whose native name is not in English -->
+|nickname                = El Corazón de México<ref>Covert (2017), p. xviii.</ref>
+|settlement_type         = City
+|total_type              = Municipality
+|motto                   = Hic Natus Ubique Notus
+<!-- images and maps  ----------->
+|image_skyline           = San Miguel de Allende collage.jpg
+|imagesize               = 
+|image_caption           = From top to bottom:<br/>'''Left''': - Inmaculada Concepcion Temple<br/>- San Miguel de Allende Cathedral<br/>'''Right''': - Panorama view of Cathedral and downtown San Miguel de Allende<br/>- Angela Peralta Teather<br/>- Allende Garden Park<br/>- San Miguel de Allende Historic Museum
+|image_flag              = 
+|flag_size               = 
+|image_seal              = 
+|seal_size               = 
+|image_shield            = Escudo de San Miguel de Allende.svg
+|shield_size             = 
+|pushpin_map             = Mexico Guanajuato#Mexico
+|pushpin_label_position  = above
+|pushpin_mapsize         = 
+|pushpin_map_caption     = Location in Mexico
+<!-- Location ------------------>
+|subdivision_type        = Country
+|subdivision_name        = Mexico
+|subdivision_type1       = [[States of Mexico|State]]
+|subdivision_name1       = [[Guanajuato]]
+|subdivision_type2       = 
+|subdivision_name2       = 
+<!-- Politics ----------------->
+|government_footnotes    = 
+|government_type         = 
+|leader_title            = Municipal&nbsp;President
+|leader_name             = [[Luis Alberto Villarreal]]
+|leader_title1           = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1            = 
+|established_title       = Founded
+|established_date        = Pre-1541
+|established_title2      = Municipal Status
+|established_date2       = 1811
+|established_title3      = 
+|established_date3       = 
+<!-- Area    --------------------->
+|unit_pref               = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes          = 
+|area_total_km2          = 
+|area_land_km2           = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2          = 
+|area_total_sq_mi        = 
+|area_land_sq_mi         = 
+|area_water_sq_mi        = 
+|area_water_percent      = 
+|area_urban_sq_mi        = 
+|area_metro_sq_mi        = 
+|area_blank1_sq_mi       = 
+<!-- Population   ----------------------->
+|population_as_of        = 2005
+|population_footnotes    = &nbsp;Municipality
+|population_note         = 
+|population_total        = 139297
+|population_density_km2  = 
+|population_density_sq_mi = 
+|population_blank1_title = Seat
+|population_blank1       = <!-- population of seat -->
+|population_blank2_title = 
+|population_blank2       = 62034
+<!-- General information  --------------->
+|timezone                = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset              = −06:00
+|timezone_DST            = Central
+|utc_offset_DST          = −05:00
+|coordinates             = {{coord|20|54|51|N|100|44|37|W|region:MX|display=inline,title}}
+|elevation_point         = of seat
+|elevation_m             = 1900
+|elevation_ft            = 
+<!-- Area/postal codes & others -------->
+|postal_code_type        = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code             = 37700
+|area_code               = 415
+|blank1_name             = [[Demonym]]
+|blank1_info             = sanmiguelense<ref>Covert (2017), p. xx.</ref>
+|footnotes               = {{designation list | embed=yes
+  | designation1 = WHS
+  | designation1_offname = Protective town of San Miguel de Allende and [[Sanctuary of Atotonilco|Sanctuary of Jesús Nazareno de Atotonilco]]
+  | designation1_date = 2008 (32nd [[World Heritage Committee|session]])
+  | designation1_type = Cultural
+  | designation1_criteria = ii, iv
+  | designation1_number = [https://whc.unesco.org/en/list/1274 1274]
+  | designation1_free1name = State Party
+  | designation1_free1value = {{MEX}}
+  | designation1_free2name = Region
+  | designation1_free2value = [[List of World Heritage Sites in the Americas|Latin America and the Caribbean]]
+}}
+|website                 = {{in lang|es}} [http://www.sanmiguelallende.gob.mx/principal.html]
+}}

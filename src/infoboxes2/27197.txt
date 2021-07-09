@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = town
+| name     = Maffra
+| state    = Vic
+| image    = Maffra1.jpg
+| caption  = Maffra streetscape, 2013
+| use_lga_map = yes
+| coordinates = {{coord|37|57|S|146|59|E|display=inline,title}}
+| pushpin_label_position = right
+| lga      = Shire of Wellington
+| postcode = 3860
+| est      =
+| pop      = 4316
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="abs">{{Census 2016 AUS|id=UCL215050 |name=Maffra (Urban Centre)|quick=on|accessdate=14 October 2018}}</ref>
+| elevation= 27
+| maxtemp  = 20.0
+| mintemp  = 8.1
+| rainfall = 581.9
+| stategov = [[Electoral district of Gippsland East|Gippsland East]]
+| fedgov   = [[Division of Gippsland|Gippsland]]
+| dist1    = 221
+| dir1     = E
+| location1= Melbourne
+| dist2    = 24
+| dir2     = NW
+| location2= [[Sale, Victoria|Sale]]
+| dist3    = 62
+| dir3     = W
+| location3= [[Bairnsdale, Victoria|Bairnsdale]]
+}}

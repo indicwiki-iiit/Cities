@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                            = Farragut, Tennessee
+| official_name                   = Town of Farragut
+| settlement_type                 = [[Town]]
+| image_skyline                   = Farragut-Town-Hall-tn1.jpg
+| imagesize                       = 250px
+| image_caption                   = Farragut Town Hall and Folklife Museum
+| image_map                       = File:Loudon County Tennessee Incorporated and Unincorporated areas Farragut Highlighted 4725760.svg
+| mapsize                         = 300px
+| map_caption                     = Location of Farragut in Knox County, Tennessee.
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Tennessee]]
+| subdivision_type2               = [[List of counties in Tennessee|Counties]]
+| subdivision_name2               = [[Knox County, Tennessee|Knox]],<ref name=popest>{{cite web | url = https://www.census.gov/popest/cities/files/SUB-EST2006_47.csv | title = Subcounty population estimates: Tennessee 2000–2006 | format = [[comma-separated values|CSV]] | publisher = [[United States Census Bureau]], Population Division | date = 2007-06-28 | access-date = 2008-05-28 | archive-url = https://web.archive.org/web/20080321201231/http://www.census.gov/popest/cities/files/SUB-EST2006_47.csv | archive-date = 2008-03-21 | url-status = dead }}</ref> [[Loudon County, Tennessee|Loudon]]<ref name="urbangrowth"/>
+| government_footnotes            = <ref name="mtas">{{cite web |title=Farragut |url=http://www.mtas.tennessee.edu/city/farragut |website=Municipal Technical Advisory Service |access-date=August 1, 2020}}</ref>
+| government_type                 = [[Mayor-council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Ron Williams
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Louise Povlin
+| leader_title2                   = [[Town Council]]
+| leader_name2                    = {{Collapsible list
+|title = List of Aldermen
+|frame_style = border:none; padding: 0;
+|list_style = text-align:left;display:none;
+|1 = Louise Povlin
+|2 = Drew Burnette
+|3 = Scott Meyer
+|4 = Ron Pinchok
+}}
+| established_title               = Settled
+| established_date                = 1787
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = 1980<ref name="mtas"/>
+| named_for                       = [[David Farragut]]
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 41.80
+| area_land_km2                   = 41.38
+| area_water_km2                  = 0.42
+| area_total_sq_mi                = 16.14
+| area_land_sq_mi                 = 15.98
+| area_water_sq_mi                = 0.16
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref>Tennessee Department of Economic and Community Development, [https://www.tn.gov/ecd/pdf/StateProfile/2011certpop.pdf Certified Population of Tennessee Incorporated Municipalities and Counties] {{Webarchive|url=https://web.archive.org/web/20140630192652/https://www.tn.gov/ecd/pdf/StateProfile/2011certpop.pdf |date=2014-06-30 }}, State of Tennessee website, 1 July 2011.</ref>
+| population_total                = 20676
+| population_density_km2          = 574.59
+| population_density_sq_mi        = 1488.17
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="GR3"/>
+| elevation_m                     = 269
+| elevation_ft                    = 883
+| coordinates                     = {{coord|35|52|39|N|84|10|25|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 37922 and 37934
+| area_code                       = [[Area code 865|865]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 47-25760<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1284150<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = {{url|www.townoffarragut.org}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 23778
+}}

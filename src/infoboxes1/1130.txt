@@ -1,0 +1,63 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name          = Zuwara
+| native_name            = {{lang|ar|زوارة}}
+|native_name_lang = At Willul
+| other_name             = At Willul / ⴰⵜ ⵡⵉⵍⵍⵓⵍ 
+| settlement_type        = City<!--For Town or Village (Leave blank for the default City)-->
+| image_skyline          = Multiple photos of the Coastal city of Zuwarah.jpg
+| image_caption          = 
+| image_flag             = 
+| image_seal             = Zuwarah Municipality Logo.png
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+<!-- images and maps  ----------->
+| image_map              = 
+| map_caption            = '''Top Right:''': An aerial view of the city of Zuwarah; '''Top Left''': Domestic airport of Zuwarah; '''Bottom left:''' Downtown roundabout of the city; '''Bottom right:''' The beautiful beaches of Zuwarah 
+| pushpin_map            = Libya <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Libya<!-- Location ------------------>
+| coordinates            = {{coord|32|56|N|12|05|E|region:LY|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{LBY}}
+| subdivision_type1      = Region
+| subdivision_type2      = 
+| subdivision_name1      = [[Tripolitania]]
+| subdivision_name2      = 
+<!-- Politics ----------------->
+| established_title      = <!-- Settled -->
+| established_date       = 
+<!-- Area    --------------------->
+| government_footnotes   = 
+| government_type        = 
+| leader_title           = 
+| leader_name            = 
+| unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = 
+| area_magnitude         = 
+| area_total_km2         = 
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| area_water_percent     = 
+<!-- Population   ----------------------->
+| elevation_footnotes    = <ref>[http://www.wolframalpha.com/input/?i=Zuwarah Wolfram Alpha]</ref>
+| elevation_m            = 0
+<!-- Area/postal codes & others -------->
+| population_total       = 55,893
+| population_as_of       = 
+| population_footnotes   = <ref>[Amraja M. el Khajkhaj, "Noumou al Mudon as Sagheera fi Libia", Dar as Saqia, Benghazi-2008, pp. 118-123]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| population_density_km2 = auto
+<!-- General information  --------------->
+| population_note        = 
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 
+| website                = 
+| footnotes              = 
+|| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = 
+| utc_offset_DST         = 
+}}

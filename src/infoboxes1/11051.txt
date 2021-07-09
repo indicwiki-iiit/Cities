@@ -1,0 +1,41 @@
+{{Infobox German location
+|name=Dresden
+|type=City, [[Administrative centre]] of [[Saxony]]
+|image_photo=Dresden montage.JPG
+|image_caption=Clockwise: Dresden at night, [[Dresden Frauenkirche]], [[Schloss Pillnitz]], [[Dresden Castle]] and [[Zwinger (Dresden)|Zwinger]]
+|image_flag=Flag of Dresden.svg
+|image_coa=Dresden Stadtwappen.svg
+|coordinates={{coord|51|03|00|N|13|44|24|E|type:city_region=DE-SN|display=inline,title}}
+|state=Saxony
+|district=urban
+|elevation=113
+|area=328.8
+|area_metro=<!-- Metropolitan area, in km². XXX.XX (no commas or other text) -->
+<!--|population=536107 filled via Gemeindeschlüssel -->
+|Stand=30 November 2014
+|pop_metro=1343305<ref name="eurostat_metro"/>
+|pop_urban=790400<ref name="citypopulation_urban"/>
+<!--|pop_ref=-->
+|Gemeindeschlüssel=14612000
+|licence=DD
+|NUTS=<!-- NUTS value: DEXXX – WILL NOT BE DISPLAYED -->
+|divisions=<!-- Subdivisions within location (e.g. "XX districts" or boroughs) -->
+|website={{URL|www.dresden.de}}
+|mayor=[[Dirk Hilbert]] ([[Free Democratic Party (Germany)|FDP]])
+|Bürgermeistertitel=Oberbürgermeisterin
+|ruling_party1=<!-- Leading political party currently in power – give abbreviations -->
+|ruling_party2=<!-- second ruling political party – give abbreviations -->
+|ruling_party3=<!-- third ruling political party – give abbreviations -->
+| footnotes = {{designation list | embed=yes
+   | designation1 = FORMERWHS
+   | designation1_date = 2004 <small>(28th [[World Heritage Committee|session]])</small>
+   | designation1_offname = [[Dresden Elbe Valley]]
+   | designation1_type = Cultural
+   | designation1_criteria = ii, iii, iv, v
+   | designation1_number = [https://whc.unesco.org/en/list/1156 1156]
+   | designation1_free1name = Region
+   | designation1_free1value = [[List of World Heritage Sites in Europe|Europe]]
+   | designation1_free2name = Delisted
+   | designation1_free2value = 2009 <small>(33rd [[World Heritage Committee|session]])</small>
+   }}
+}}

@@ -1,0 +1,24 @@
+{{Infobox UK place
+| country = England
+| type = Town
+| coordinates = {{coord|53.4541|-2.7461|format=dms|display=inline,title}}
+| london_distance = {{convert|174|mi|km|abbr=on}}<ref>{{cite web|url=http://boulter.com/gps/distance/?from=53.4541+-2.7461&to=51.507+-0.127&units=m|title=Coordinate Distance Calculator|work=boulter.com|access-date=8 March 2016}}</ref>
+| london_direction = SE
+| metropolitan_county = [[Merseyside]]
+| population = 102,629
+| population_ref = <br />([[United Kingdom Census 2001|2001 Census]])
+| official_name = St Helens
+| metropolitan_borough = [[Metropolitan Borough of St Helens|St Helens]]
+| region = North West England
+| constituency_westminster = [[St Helens North (UK Parliament constituency)|St Helens North]]
+| constituency_westminster1 = [[St Helens South and Whiston (UK Parliament constituency)|St Helens South and Whiston]]
+| post_town = ST. HELENS
+| postcode_area = WA
+| postcode_district = WA9, WA10, WA11<!-- Article is about St Helens, the town not the metropolitan borough, so postcodes are WA9 (Bold, Clock Face, Parr, Sutton, Thatto Heath), WA10 (Eccleston, Town Centre, Windle) and WA11 (Carr Mill, Moss Bank) -->
+| dial_code = 01744
+| os_grid_reference = SJ505955
+| static_image_name = St Helens Photo Montage.jpg
+| static_image_width = 180
+| static_image_caption = A montage of the town hall, St Mary's Lowe House Catholic Church, the Anderton Shearer Monument, the Ravenhead Colliery Mine Works, and the British Plate Glass Casting Hall, Ravenhead
+| historic_county = Lancashire
+}}

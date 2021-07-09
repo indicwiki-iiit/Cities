@@ -1,0 +1,92 @@
+{{Infobox settlement
+|name                     = Monroe Township, New Jersey
+|official_name            = Township of Monroe
+|settlement_type          = [[Township (New Jersey)|Township]]
+|nickname                 = ''Tree City'', ''The Education City''
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Monroe Township High School Front View.jpg
+|imagesize                = 300x250px
+|image_caption            = [[Monroe Township High School]]
+|image_flag               =
+|image_seal               = File:MonroeTownshipSeal.svg
+
+<!-- Maps -->
+|image_map                = Monroe-twp-nj.png
+|mapsize                  = 250px
+|map_caption              = Monroe Township highlighted in Middlesex County. Inset: Location of Middlesex County highlighted in the State of New Jersey.
+|image_map1               = Census_Bureau_map_of_Monroe_Township,_Middlesex_County,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of Monroe Township, Middlesex County, New Jersey.
+{{maplink|frame=yes|zoom=8|id=Q224781|type=shape|text=Interactive map of Monroe Township, Middlesex County, New Jersey}}
+|pushpin_map              = USA New Jersey Middlesex County#USA New Jersey#USA
+|pushpin_label            = Monroe Township
+|pushpin_map_caption      = Location in Middlesex County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = [[Middlesex County, New Jersey|Middlesex]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Faulkner Act (mayor–council)]]
+|governing_body           = Township Council
+|leader_title             = [[Mayor]]
+|leader_name              = Miriam Cohen until special election in November 2021 (Gerald W. Tamburro died December 31, 2020 at 84)<ref>{{Cite web|url=https://www.tapinto.net/towns/milltown-slash-spotswood/sections/middlesex-county-news/articles/monroe-township-announces-passing-of-mayor-gerald-tamburro|title=Monroe Township Announces Passing Of Mayor Gerald Tamburro|website=TAPinto|access-date=December 31, 2020}}</ref>
+|leader_title1            = [[City manager|Administrator]]
+|leader_name1             = Alan Weinberg<ref>[https://www.monroetwp.com/index.php/departments/monroe-directory Township Contact Information Directory], Monroe Township. Accessed May 11, 2020.</ref>
+|leader_title2            = [[Municipal clerk]]
+|leader_name2             = Patricia Reid<ref>[https://www.monroetwp.com/index.php/departments/clerk-s-office Clerk's Office of Monroe], Monroe Township. Accessed May 11, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = April 9, 1838
+|named_for                = [[James Monroe]]
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 109.26
+|area_land_km2            = 108.63
+|area_water_km2           =   0.63
+|area_total_sq_mi         =  42.19
+|area_land_sq_mi          =  41.94
+|area_water_sq_mi         =   0.24
+|area_water_percent       =   0.58
+|area_rank                = 47th of 565 in state<br>1st of 25 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3402347280 DP-1 - Profile of General Population and Housing Characteristics: 2010 for Monroe township, Middlesex County, New Jersey] {{Webarchive|url=https://archive.today/20200212112523/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3402347280 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed September 9, 2012.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_mid/monroe1.pdf Profile of General Demographic Characteristics: 2010 for Monroe township] {{Webarchive|url=https://web.archive.org/web/20120430010100/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_mid/monroe1.pdf |date=April 30, 2012 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed September 9, 2012.</ref>
+|population_total         = 39132
+|population_rank          = 57th of 566 in state<br>11th of 25 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed August 6, 2013.</ref>
+|population_density_km2   = auto
+|population_density_sq_mi = 932.3
+|population_density_rank  = 395th of 566 in state<br>24th of 25 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 45030
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Gnis|882159|Township of Monroe}}, [[Geographic Names Information System]]. Accessed March 8, 2013.</ref>
+|elevation_m              =
+|elevation_ft             = 92
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.319474|-74.428802|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 08831<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=monroe%20township&state=NJ Look Up a ZIP Code for Monroe Township, NJ], [[United States Postal Service]]. Accessed December 3, 2011.</ref>
+|area_code                = [[Area codes 732 and 848|732]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCity=Monroe&frmCounty=Middlesex Area Code Lookup - NPA NXX for Monroe, NJ], Area-Codes.com. Accessed September 7, 2014.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3402347280<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0882159<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.monroetwp.com}}
+|footnotes                =
+}}

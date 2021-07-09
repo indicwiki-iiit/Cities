@@ -1,0 +1,25 @@
+{{Infobox company
+| name = Alcoa Corporation
+| logo = Alcoa logo (2016).svg
+| logo_size = 150px
+| type = [[Public company|Public]]
+| traded_as = {{unbulleted list|{{NYSE|AA}}|[[Russell 1000 Index|Russell 1000 Component]]}}
+| ISIN = US0138721065
+| foundation = [[Pittsburgh, Pennsylvania]], US (1888)
+| founder = [[Charles Martin Hall]]
+| location = Pittsburgh, Pennsylvania
+| key_people = {{unbulleted list|Michael Morris<br />{{small|([[Chairman#Public corporations|Chairman]])}}|Roy Harvey<br />{{small|([[CEO]])}}}}
+| area_served = Worldwide
+| industry = [[Non-ferrous metal|Metals]]
+| products = {{flatlist|
+* [[Bauxite]]
+* [[Aluminium oxide|Alumina]]
+* [[Aluminium]]}}
+| revenue = {{increase}} {{US$|11.652 billion|link=yes}} {{small|(2017)}}<ref name="10-K">{{cite web|url=https://www.sec.gov/Archives/edgar/data/1675149/000119312518056314/d502924d10k.htm |title=Alcoa Corporation 2017 Annual Report (Form 10-K) |date=January 2018 |publisher=[[U.S. Securities and Exchange Commission]] |website=sec.gov}}</ref>
+| operating_income = {{increase}} {{US$|1.205 billion}} {{small|(2017)}}<ref name="10-K" />
+| net_income = {{increase}} {{US$|217 million}} {{small|(2017)}}<ref name="10-K" />
+| assets = {{increase}} {{US$|17.447 billion}} {{small|(2017)}}<ref name="10-K" />
+| equity = {{decrease}} {{US$|4.523 billion}} {{small|(2017)}}<ref name="10-K" />
+| num_employees = ~14,600 {{small|(December 2017)}}<ref name="10-K" />
+| website = {{URL|https://alcoa.com}}
+}}

@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+| other_name      = {{lang|de|Dabotz}} {{in lang|de}}
+|subdivision_type = [[Countries of the world|Country]]
+|image_skyline = Dabas - Temple.jpg
+|image_caption = Reformed church in Dabas
+|image_shield = HUN Dabas Címer.svg
+|image_flag = Flag of Dabas.svg
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of in Hungary
+|pushpin_mapsize        =
+|official_name=Dabas
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Pest County|Pest]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Dabas District|Dabas]]
+|area_total_km2=165.99
+|population_total=16093
+|population_as_of=2004
+|population_density_km2=96.95
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=2370
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 29
+|website= {{URL|https://www.dabas.hu/}}
+|coordinates = {{coord|47.18900|19.31257|region:HU|display=inline}}
+}}

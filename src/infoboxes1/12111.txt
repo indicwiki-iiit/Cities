@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Waterloo Township, Michigan
+|settlement_type          = [[Civil township]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Waterloo Township Michigan Farm Museum.JPG
+|imagesize                = 275
+|image_caption            = Waterloo Farm Museum on Waterloo Munith Rd.
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            =Michigan#USA
+|pushpin_label_position =left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          =Waterloo Township
+|pushpin_map_caption    =Location within the state of Michigan
+|pushpin_mapsize        =
+|image_map                = Waterloo Township, MI location.png
+|mapsize                  = 250
+|map_caption              = Location within [[Jackson County, Michigan|Jackson County]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Michigan]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name2        = [[Jackson County, Michigan|Jackson]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Supervisor
+|leader_name              = Douglas Lance
+|leader_title1            = [[Municipal clerk|Clerk]]
+|leader_name1             = Janice Kitley
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           = 
+|area_total_sq_mi         = 49.54
+|area_land_sq_mi          = 47.62
+|area_water_sq_mi         = 1.92
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2856
+|population_density_km2   = 
+|population_density_sq_mi = 60.0
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 281
+|elevation_ft             = 922
+|coordinates              = {{coord|42|20|39|N|84|12|04|W|region:US-MI|display=inline,title}}
+|postal_code_type         = [[ZIP Code|ZIP code(s)]]
+|postal_code              = 49240 ([[Grass Lake, Michigan|Grass Lake]])<br>49259 ([[Munith, Michigan|Munith]])<br>49285 ([[Stockbridge, Michigan|Stockbridge]])
+|area_code                = [[Area code 517|517]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-84300<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1627219<ref>{{gnis|1627219}}</ref>
+|website                  = {{URL|http://www.waterlootwpmi.com/|Official website}}
+|footnotes                = 
+}}

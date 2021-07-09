@@ -1,0 +1,85 @@
+{{Infobox settlement
+|official_name            = Gardiner
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Gardiner, New York.jpg
+|imagesize                = 
+|image_caption            = Downtown Gardiner
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps --><!-- 
+||pushpin_map            =New York
+|pushpin_label_position = 
+|pushpin_map_caption    =Location within the state of New York
+|pushpin_mapsize        = -->
+|image_map                = Ulster County New York incorporated and unincorporated areas Gardiner (town) highlighted.svg
+|mapsize                  = 
+|map_caption              = Location in [[Ulster County, New York|Ulster County]] and the state of [[New York (state)|New York]].
+|image_map1               = Map of USA NY.svg
+|mapsize1                 = 
+|map_caption1             = Location of New York within the United States
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[New York (state)#Regions|Region]]
+|subdivision_name2        = [[Hudson Valley]]
+|subdivision_type3        = [[List of counties in New York|County]]
+|subdivision_name3        = [[Ulster County, New York|Ulster]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 113.82
+|area_land_km2            = 112.50
+|area_water_km2           = 1.32
+|area_total_sq_mi         = 43.95
+|area_land_sq_mi          = 43.44
+|area_water_sq_mi         = 0.51
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5713
+|population_density_km2   = 50.35
+|population_density_sq_mi = 130.40
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = {{coord|41|40|48|N|74|9|4|W|region:US-NY|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code             = 12525 12561
+|area_code                = [[Area code 845|845]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-111-28255
+|blank1_name              = 
+|blank1_info              = 
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 5664
+|unit_pref = Imperial
+}}

@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                   = A Coruña
+| native_name            = 
+| official_name          = 
+| nickname               = ''A Cidade de Cristal'' (The Glass City)
+| other_name             = La Coruña
+| settlement_type        = [[Municipalities of Spain|Municipality]]
+| total_type             = 
+| motto                  = ''A Coruña, a cidade onde ninguén é forasteiro'' <br />(A Coruña, the city where nobody is an outsider)
+| image_skyline          = Enseada do Orzán.jpg
+| image_caption          = Partial view of the city
+| image_flag             = Bandera de la ciudad de La Coruña.svg
+| flag_size              = 120
+| image_shield           = Escudo de A Coruña.svg
+| shield_size            = 
+| image_map              = 
+| map_caption            = Interactive map outlining A Coruña
+| pushpin_map            = Spain Galicia#Spain#Europe
+| pushpin_map_caption    = Location within Spain##Location within Europe
+| pushpin_mapsize        = 
+| pushpin_relief         = yes
+<!-- Location ------------------>
+| subdivision_type       =Country
+| subdivision_name       = {{ESP}}
+| subdivision_type1      = [[Autonomous communities of Spain|Autonomous <br />community]]
+| subdivision_name1      = [[Galicia (Spain)|Galicia]]
+| subdivision_type2      = [[Provinces of Spain|Province]]
+| subdivision_name2      = [[A Coruña (province)|A Coruña]]
+| subdivision_type3      = [[Comarcas of Spain|County]]
+| subdivision_name3      = [[A Coruña (comarca)|A Coruña]]
+| parts_type             = [[Parroquia (Spain)|Parishes]]
+| parts_style            = para
+| p1                     = '''A Coruña'''
+| p2                     = Elviña
+| p3                     = Oza
+| p4                     = San Cristovo das Viñas
+| p5                     = Visma
+<!-- Politics ----------------->
+| government_footnotes   = 
+| government_type        = [[Ayuntamiento (Spain)|Ayuntamiento]]
+| governing_body         = Concello da Coruña
+| leader_party           = [[Socialists' Party of Galicia|PSdeG-PSOE]]
+| leader_title           = [[Alcalde|Mayor]]
+| leader_name            = [[:es:Inés Rey|Inés Rey]]
+| leader_title1          = 
+| leader_name1           = <!-- Area --------------------->
+| area_magnitude         = 
+| unit_pref              = <!-- Enter: Imperial, to display imperial before metric -->
+| area_footnotes         = 
+| area_total_km2         = 37.83
+| area_land_km2          = 
+| area_water_km2         = 
+| area_water_percent     = <!-- Elevation -------------------------->
+| elevation_footnotes    = 
+| elevation_m            = <!-- Population ----------------------->
+| population_note        = 
+| population_as_of       = {{Spain metadata Wikidata|population_as_of}}
+| population_footnotes   = {{Spain metadata Wikidata|population_footnotes}}
+| population_total       = {{Spain metadata Wikidata|population_total}}
+| population_metro       = 419,800
+| population_est         = 
+| pop_est_as_of          = 2009
+| population_density_km2 = 6613
+| population_demonyms    = Corunnan<br />''coruñés'',&nbsp;''-esa'' &nbsp;([[Spanish language|es]] / [[Galician language|gl]])
+<!-- General information --------------->
+| timezone1              = CET (GMT +1)
+| utc_offset1            = 
+| timezone1_DST          = CEST (GMT +2)
+| utc_offset1_DST        = 
+| coordinates            = {{coord|43.365|-8.410|type:city(244388)_region:ES-C|display=inline,title}}
+| postal_code_type       = Postcode
+| postal_code            = 15001-15011
+| area_code              = +34 981 and +34 881
+| website                = {{URL|http://www.coruna.gal}}
+| footnotes              = 
+}}

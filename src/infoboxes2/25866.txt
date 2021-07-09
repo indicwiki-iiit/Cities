@@ -1,0 +1,86 @@
+{{Infobox settlement
+| <!-- Basic info  ---------------->
+| name                     = Lamar, Colorado
+| settlement_type          = [[List of cities and towns in Colorado#Home rule municipality|Home Rule Municipality]]<ref name=COMun>{{cite web |url=https://dola.colorado.gov/lgis/municipalities.jsf|title=Active Colorado Municipalities|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+| official_name            = City of Lamar<ref name=COMun/>
+| nickname                 = 
+| motto                    = 
+| <!-- images and maps  ----------->
+| image_skyline            = Lamar main.jpg
+| image_caption            = Main Street facing north in downtown Lamar, 2007.
+| image_flag               = 
+| flag_size                = 
+| image_seal               = 
+| seal_size                = 
+| image_shield             = 
+| shield_size              = 
+| image_blank_emblem       = 
+| blank_emblem_type        = 
+| blank_emblem_size        = 
+|image_map                = Prowers County Colorado Incorporated and Unincorporated areas Lamar Highlighted 0843110.svg
+|mapsize                  = 
+|map_caption              = Location of the City of Lamar in {{nobreak|[[Prowers County, Colorado]].}}
+|pushpin_map              = USA
+|pushpin_label            = Lamar
+|pushpin_label_position   = right
+|pushpin_map_caption      = Location of the City of Lamar in the {{nobreak|[[United States]].}}
+<!-- Location ------------------>
+|coordinates              = {{coord|38|05|14|N|102|37|15|W|region:US-CO_type:city(8869)|display=inline,title}}<ref name=gnis/>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Colorado}}
+|subdivision_type2        = [[List of counties in Colorado|County]]
+|subdivision_name2        = [[Prowers County, Colorado|Prowers County]]<ref name=COcounty>{{cite web |url=https://dola.colorado.gov/lgis/counties.jsf|title=Colorado Counties|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+|subdivision_type3        = [[List of cities and towns in Colorado|City]]
+|subdivision_name3        = Lamar<ref name=COMun/>
+<!-- Politics ----------------->
+| government_footnotes     = 
+| government_type          = [[Colorado municipalities#Home Rule Municipality|Home Rule Municipality]]<ref name=COMun/>
+| leader_title             = Mayor
+| leader_name              = Kirk Crespin<ref>{{cite web | url = http://www.ci.lamar.co.us/index.asp?Type=B_DIR&SEC={46B4E4F9-FFFA-4461-B5E0-83A40F1C346C} | title = 2009 - 2011 City Elected Officials | publisher = City of Lamar | access-date = 2011-11-25}}</ref>
+| established_title        = <!-- Settled -->
+| established_date         = 
+| established_title2       = [[Municipal corporation|Incorporated]]
+| established_date2        = December 5, 1886<ref name=MuniIncCO>{{cite web | url = http://www.colorado.gov/dpa/doit/archives/muninc.html | title = Colorado Municipal Incorporations | publisher = [[Colorado|State of Colorado]], Department of Personnel & Administration, Colorado State Archives | date = 2004-12-01 | access-date = 2007-09-02}}</ref>
+| established_title3       = <!-- Incorporated (city) -->
+| established_date3        = 
+<!-- Area    --------------------->
+| area_magnitude           = 
+| unit_pref                = US
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_08.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi         = 5.29
+| area_land_sq_mi          = 5.27
+| area_water_sq_mi         = 0.02
+| area_total_km2           = 13.70
+| area_land_km2            = 13.65
+| area_water_km2           = 0.05
+| area_water_percent       = 
+| <!-- Elevation -------------------------->
+| elevation_footnotes      = <ref name=gnis>{{Cite GNIS|203835|Lamar}}</ref>
+| elevation_ft             = 3619
+| elevation_m              = 
+| <!-- Population   ----------------------->
+|population_footnotes     = 
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 7804
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 7655
+|population_density_sq_mi = 1452.29
+|population_density_km2   = 560.68
+| <!-- General information  --------------->
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+|utc_offset_DST = &minus;6
+| postal_code_type         = [[ZIP code]]<ref name=ZIPcode>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp |title=ZIP Code Lookup |format=[[JavaScript]]/[[HTML]] |publisher=[[United States Postal Service]] |access-date=November 13, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010 }}</ref>
+| postal_code              = 81052
+| area_code                = [[Area code 719|719]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|08|43110}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 203835<ref name=gnis/>
+| website                  = {{URL|www.ci.lamar.co.us|City Website}}
+| footnotes                = 
+}}

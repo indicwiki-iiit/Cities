@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                            = Thessaloniki
+| native_name                     = {{lang|el|Θεσσαλονίκη}}
+| other_name                      = Saloniki
+<!-- NOTE: Do not add or change images without consensus. -->
+<!-- RECT X beginning (left), Y beginning (top), X end (right), Y end (bottom). -->| image_skyline                   = <center><imagemap>
+File:Thessalonica Montage L.png|275px|alt=Thessaloniki montage. Clicking on an image in the picture causes the browser to load the appropriate article.
+rect 0 0 1200 450 [[Aristotelous Square|Aristotle Square]]
+rect 0 460 622 1365 [[White Tower of Thessaloniki]]
+rect 632 460 1200 898 [[Hagios Demetrios|Church of Saint Demetrius]]
+rect 632 908 1200 1365 [[Thessaloniki Concert Hall]]
+</imagemap></center>
+| image_caption                   = '''Clockwise from top:''' [[Aristotelous Square|Aristotle Square]], [[Hagios Demetrios|Church of Saint Demetrius]], [[Thessaloniki Concert Hall]], Thessaloniki's waterfront, [[White Tower of Thessaloniki]]
+| settlement_type                 = [[List of cities in Greece|City]]
+| nickname                        = The [[Nymph]] of the [[Thermaic Gulf]]<ref>{{Cite book |url=https://books.google.com/books?id=Jo9iAAAAMAAJ&q=%2522nymph+of+the+thermaic+gulf%2522 |title=Mother Thessaloniki |last1=Pentzikēs |first1=Nikos Gavriēl |last2=Marshall |first2=Leo |date=1998 |publisher=Kedros |isbn=9789600414257 |language=en}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=KOQkAAAAYAAJ&q=%2522nymph+of+the+thermaic+gulf%2522 |title=Ourselves and others: the development of a Greek Macedonian cultural identity since 1912 |last1=Mackridge |first1=Peter |last2=Yannakakis |first2=Eleni |date=1997-03-01 |publisher=Berg |isbn=9781859731338 |language=en}}</ref>
+| image_flag                      = Flag of Thessaloniki.svg
+| flag_link                       = List of Greek flags
+| image_seal                      = Thessaloniki seal.svg
+| image_blank_emblem              = City of Thessaloniki logo.svg
+| blank_emblem_type               = Logo
+| blank_emblem_size               = 200
+| blank_emblem_alt                = Logo of the City of Thessaloniki
+| pushpin_map                     = Greece #Europe
+| coordinates                     = {{coord|40|38|25|N|22|56|08|E|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Greece|size=23px}}
+| subdivision_type1               = [[Geographic regions of Greece|Geographic region]]
+| subdivision_name1               = {{Flagicon image|Flag of Greek Macedonia.svg|size=23px}} [[Macedonia (Greece)|Macedonia]]
+| subdivision_type2               = [[Administrative regions of Greece|Administrative region]]
+| subdivision_name2               = [[Central Macedonia]]
+| subdivision_type3               = [[Regional units of Greece|Regional unit]]
+| subdivision_name3               = [[Thessaloniki (regional unit)|Thessaloniki]]
+| government_type                 = [[Mayor–council government]]
+| leader_party                    = {{nowrap|Independent}}
+| leader_title                    = [[List of mayors of Thessaloniki|Mayor]]
+| leader_name                     = [[Konstantinos Zervas]]
+| parts_type                      = [[Municipalities of Greece|Municipalities]]
+| parts_style                     = para
+| p1                              = 7
+| established_title               = Founded
+| established_date                = 315 BC ({{age|-315|1|1}} years ago)
+| established_title2              = Incorporated
+| established_date2               = Oct. 1912 ({{age|1912|10|26}} years ago)
+| population_as_of                = 2011
+| population_footnotes            = <ref name=census11>{{cite web | url = http://www.statistics.gr/documents/20181/1210503/resident_population_census2011rev.xls | script-title=el:Απογραφή Πληθυσμού – Κατοικιών 2011. ΜΟΝΙΜΟΣ Πληθυσμός | publisher = Hellenic Statistical Authority | language = el }}</ref>
+| area_total_km2                  = 19.307
+| population_total                = 325,182
+| total_type                      = [[Thessaloniki (municipality)|Municipality]]
+| population_rank                 = [[List of cities in Greece|2nd]] urban, 2nd metro in Greece
+| population_urban                = 824,676<ref name="urban metro">Thessaloniki is an urban area defined in 1985 through Law 1561/1985. Since the [[Kallikratis Plan|Kallikratis reform]] it has been made up of the municipalities of Thessaloniki (325,182), Kalamaria (91,518), Neapoli{{endash}}Sykies (84,741), Pavlos Melas (99,245), Kordelio{{endash}}Evosmos (101,753), Ampelokipoi{{endash}}Menemeni (52,127), and the municipal units of Pylaia and Panorama (34,625 and 17,444; part of the municipality of Pylaia{{endash}}Chortiatis). The Thessaloniki metropolitan area was defined by the same law and is made up of the Urban area plus the municipalities of Delta (45,839), Oraiokastro (38,317), Thermaikos (50,264), Thermi (53,201), and the municipal unit of Chortiatis (18,041; part of the municipality of Pylaia{{endash}}Chortiatis), for a total of 1,030,338. See {{Cite web |url=http://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wHO1H1f3wMBQHdtvSoClrL8xsqFXEcDVXt5MXD0LzQTLWPU9yLzB8V68knBzLCmTXKaO6fpVZ6Lx9hLslJUqeiQYnJ0rXgB9l_ZIK4zLb8ji7AGLfboDNaz61qOy2y3UGw. |script-title=el:Εφημερίς της Κυβερνήσεως της Ελληνικής Δημοκρατίας |date=6 September 1985 |publisher=National Printing House |location=Athens |page=2332 |language=el |trans-title=[[Government Gazette (Greece)|Government Gazette]] of the Hellenic Republic |access-date=10 February 2019}}</ref>
+| area_urban_km2                  = 111.703
+| population_density_urban_km2    = auto
+| population_metro                = 1,030,338<ref name="urban metro" />
+| area_metro_km2                  = 1,285.61
+| population_density_metro_km2    = auto
+| population_demonym              = [[wikt:Thessalonian|Thessalonian]], [[wikt:Thessalonian|Thessalonican]]
+| timezone1                       = [[East European Time|EET]]
+| utc_offset1                     = +2
+| timezone1_DST                   = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST                 = +3
+| elevation_min_m                 = 0
+| elevation_max_m                 = 250
+| postal_code_type                = [[List of postal codes in Greece|Postal codes]]
+| postal_code                     = 53xxx, 54xxx, 55xxx, 56xxx
+| area_code_type                  = [[Telephone numbers in Greece|Telephone]]
+| area_code                       = 2310
+| registration_plate              = [[Vehicle registration plates of Greece|NAx-xxxx to NXx-xxxx]]
+| blank_name_sec1                 = [[Patron saint]]
+| blank_info_sec1                 = [[Saint Demetrius]] {{nowrap|(26 October)}}
+| blank_name_sec2                 = [[Gross regional domestic product]] {{nobold|([[Purchasing power parity|PPP]] 2015)}}
+| blank_info_sec2                 = €18.77&nbsp;billion {{nowrap|(${{toUSD|18.77|EUR|year=2015}} billion)}}<ref name="Eurostat GDP">{{cite web |url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=nama_10r_3gdp&lang=en |title=Gross domestic product (GDP) at current market prices at NUTS level 3 |publisher=[[Eurostat]] |access-date=27 January 2019 }}</ref>
+| blank1_name_sec2                = &nbsp;•&nbsp;Per capita
+| blank1_info_sec2                = €16,900<ref name="Eurostat GDP" />
+| website                         = [https://www.thessaloniki.gr/ www.thessaloniki.gr]
+| official_name                   = 
+}}

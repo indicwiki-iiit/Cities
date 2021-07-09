@@ -1,0 +1,30 @@
+{{Infobox Australian place | type = suburb
+|name     = Bentley
+|city     = Perth
+|state    = wa
+|image    = File:OIC bentley brownlie towers 2013 2.jpg
+|caption  = Brownlie Towers, Bentley
+|lga      = City of Canning
+|lga2     = Town of Victoria Park
+|alternative_location_map= Australia Western Australia metropolitan Perth
+|coordinates = {{coord|32.001|S|115.924|E|display=inline,title}}
+|pushpin_map_caption = Location in metropolitan Perth
+|area     = 5.5
+|postcode =6102
+|pop      = 8,782 
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census>{{Census 2016 AUS|id=SSC50111|name=Bentley (State Suburb)|accessdate=19 April 2018|quick=on}}</ref>
+|dist1    = 8
+|location1=[[Perth]]
+|est      = 1940s
+|fedgov   = [[Division of Swan|Swan]]
+|stategov = [[Electoral district of Victoria Park|Victoria Park]]
+|near-nw  = [[East Victoria Park, Western Australia|East Victoria Park]]
+|near-n   = [[St James, Western Australia|St James]]
+|near-ne  = [[Welshpool, Western Australia|Welshpool]]
+|near-w   = [[Karawara, Western Australia|Karawara]]
+|near-e   = [[Cannington, Western Australia|Cannington]]
+|near-sw  = [[Waterford, Western Australia|Waterford]]
+|near-s   = [[Wilson, Western Australia|Wilson]]
+|near-se  = [[Cannington, Western Australia|Cannington]]
+}}

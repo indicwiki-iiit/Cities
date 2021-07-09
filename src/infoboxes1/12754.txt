@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Suharëke 
+| native_name            = {{unbulleted list |item_style=font-size:81%; | Suharekë / {{native name|sq|Suhareka}}<br />''Suhareka'' or ''Suharekë'',<br/>''Сува Река'' or {{native name|sr|Suva Reka}} }}
+| native_name_lang       = sq
+| other_name             = 
+| official_name          = Komuna e Suharekës          
+<!-- images and maps  ----------->
+|settlement_type        = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|municipality]]
+|image_skyline          = PrizrenCollection2 2010 100 3145.JPG
+|image_caption          = Suva Reka
+|image_flag             =
+|flag_size              =
+|image_seal             = File:Stema e Komunës Suharekë.svg
+|seal_size              = 100px
+|image_shield           =
+|shield_size            =
+|image_map              = File:Suharekë - Suvareka.png
+|mapsize                =
+|map_caption            = Location of the municipality of Suva Reka within Kosovo
+|pushpin_map            =
+|pushpin_label_position =
+|pushpin_mapsize        =
+|pushpin_map_caption    =
+<!-- Location ------------------>
+|coordinates            = {{coord|42|22|48|N|20|49|19|E|type:city(50000)_region:RS-KM|display=inline,title}}
+| subdivision_type        = Location
+| subdivision_name        = {{flag|Kosovo}}{{efn|name=status}}
+| subdivision_type1       = [[Districts of Kosovo|District]]
+|subdivision_type2      = [[Municipalities of Kosovo|Municipality]]
+|subdivision_name1      = [[District of Prizren|Prizren]]
+|subdivision_name2      =
+<!-- Politics ----------------->
+| established_title       =
+| established_date        =
+<!-- Area    --------------------->
+| government_footnotes    =
+| government_type         =
+| leader_title            = Mayor
+| leader_name             = Bali Muharremaj ([[Alliance for the Future of Kosovo|AAK]])
+| unit_pref               = Metric
+| area_footnotes          =
+<!-- Population   ----------------------->
+| area_blank1_title       = Urban
+| area_blank1_km2         =
+| area_blank2_title       = Municipal
+| area_blank2_km2         = 361
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 389
+| elevation_ft           =
+<!-- Area/postal codes & others -------->
+| population_as_of        = 2011
+| population_footnotes    =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+| population_blank1_title = Urban
+| population_blank1       = 10422
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipal
+| population_blank2       = 59722
+| population_density_blank2_km2 = auto
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       = Postal code
+|postal_code            = 23000
+|area_code              = +383 29
+|website                = {{url|http://kk.rks-gov.net/suhareke}}
+|footnotes              =
+| unemployment_rate =
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+|blank_info             = 04
+|blank1_name            = [[Köppen climate classification|Climate]]
+|blank1_info            = [[Oceanic climate|Cfb]]
+| photomontage =
+}}

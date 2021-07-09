@@ -1,0 +1,69 @@
+{{Infobox settlement
+| official_name          = Elmira
+| settlement_type        = [[Administrative divisions of New York#City|City]]
+| image_skyline          = City_Hall_Elmira_NY.jpg
+| image_flag             = Elmiraflag.png
+| image_seal             = Elmiracityseal.png
+| image_map              = Elmiranymap.jpg
+| map_caption            = Location in [[Chemung County]] in the state of [[New York (state)|New York]]
+| coordinates            = {{coord|42|05|38|N|76|48|35|W|region:US-NY_type:city|display=inline,title}}
+| coordinates_footnotes  = 
+| subdivision_type       = Country
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_type2      = [[List of counties in New York|County]]
+| subdivision_name       = {{flag|United States}}
+| subdivision_name1      = {{flag|New York}}
+| subdivision_name2      = [[Chemung County|Chemung]]
+| leader_title           = [[Mayor]]
+| leader_name            = Daniel J. Mandell, Jr. ([[United States Republican party|R]])<ref>{{Cite web|url=https://www.chemungcountyny.gov/departments/a_-_f_departments/board_of_elections/city_of_elmira.php|title=Elected Officials|website=www.chemungcountyny.gov|access-date=April 6, 2021}}</ref>
+| leader_title1          = [[City Manager]]
+| leader_name1           = P. Michael Collins
+| leader_title2          = [[City Council]]
+| leader_name2           = {{Collapsible list
+ |title       = Members
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • W1: Nick Grasso ([[United States Democratic Party|D]])
+ |2           = • W2: Brent A. Stermer ([[United States Democratic Party|D]])
+ |3           = • W3: Joseph H. Duffy ([[United States Republican Party|R]])
+ |4           = • W4: Mark A. Franchi ([[United States Republican Party|R]])
+ |5           = • W5: Tory M. Kitching ([[United States Republican Party|R]])
+ |6           = • W6: Nanette M. Moss ([[United States Republican Party|R]])
+}}
+| established_title      = Incorporated
+| established_date       = 1864
+| area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude         = 1 E8
+| area_total_sq_mi       = 7.58
+| area_total_km2         = 19.63
+| area_land_sq_mi        = 7.25
+| area_land_km2          = 18.78
+| area_water_sq_mi       = 0.33
+| area_water_km2         = 0.85
+| area_water_percent     = 
+| elevation_footnotes    = <ref>{{GNIS|Elmira, New York}}</ref>
+| elevation_ft           = 860
+| elevation_m            = 
+| population_as_of       = [[2010 United States Census|2010]]
+| population_footnotes   = 
+| population_total       = 29200
+| population_metro       = 90,070 (Chemung County)
+| population_density_sq_mi = 3730.56
+| population_density_km2 = 1440.36
+| timezone               = [[Eastern Standard Time Zone|EST]]
+|utc_offset = &minus;5
+| timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+| postal_code_type        = ZIP code
+| postal_code             = 14901, 14904, 14905 
+| area_code              = [[Area code 607|607]]
+| blank_name             = [[Federal Information Processing Standards|FIPS code]]
+| blank_info             = 36-015-24229
+| website                = [http://www.cityofelmira.net/ CityOfElmira.net]
+| footnotes              = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 27054
+|unit_pref = Imperial
+}}

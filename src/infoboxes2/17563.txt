@@ -1,0 +1,31 @@
+{{Infobox Australian place |type=town
+|name        = Nowra
+|state       = nsw
+|image       = File:City Administration Centre in Nowra (3).jpg
+|caption     = Nowra City Administration centre
+|pop         = 20,039
+| pop_year   = 2016
+| pop_footnotes = <ref name="2016census">{{cite web|url=https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/114011278?opendocument|title=2016 Census QuickStat: Nowra (Statistical Area Level 2)|work=Australian Bureau of Statistics|date=23 October 2017|access-date=24 January 2021}}</ref>   
+|poprank     = 
+|density     = 212.6
+|coordinates = {{coord|34|53|S|150|36|E|display=inline,title}}
+|est         = 1852
+|area        = 202.4
+|timezone    = [[Australian Eastern Standard Time|AEST]]
+|utc         = +10
+|timezone-dst= [[Australian Eastern Daylight Time|AEDT]]
+|utc-dst     = +11
+|lga         = City of Shoalhaven
+|fedgov      = [[Division of Gilmore|Gilmore]]
+|stategov    = [[Electoral district of South Coast|South Coast]]
+|dist1       = 160
+|location1   = Sydney
+| near-n              = [[Bomaderry]]
+| near-ne             = [[Bolong, New South Wales|Bolong]]
+| near-e              = [[Terara]]
+| near-se             = [[Worrigee]]
+| near-s              = [[South Nowra]]
+| near-sw             = [[Mundamia]]
+| near-w              = [[West Nowra]]
+| near-nw             = [[North Nowra]]
+}}

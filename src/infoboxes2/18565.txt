@@ -1,0 +1,58 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = San Martín de los Andes
+| native_name            = 
+| native_name_lang       = es<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type        = [[List of cities in Argentina|City]]
+| image_skyline          = San Martín de los Andes Village.jpg
+| image_alt              = 
+| image_caption          = Aerial view of the city
+| image_shield           = 
+| shield_alt             = 
+| nickname               = 
+| motto                  = 
+| image_map              = 
+| map_alt                = 
+| map_caption            = 
+| pushpin_map            = Argentina Neuquén Province#Argentina
+| pushpin_map_alt        = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|40|10|S|071|21|W|region:AR_type:city|display=inline,title}}
+| coor_pinpoint          = 
+| coordinates_footnotes  = 
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Argentina}}
+| subdivision_type1      = [[Provinces of Argentina|Province]]
+| subdivision_name1      = {{flag|Neuquén}}
+| subdivision_type2      = [[Departments of Argentina|Department]]
+| subdivision_name2      = [[Lácar Department|Lácar]]
+| established_title      = 
+| established_date       = 
+| founder                = 
+| government_footnotes   = 
+| leader_party           = [[Movimiento Popular Neuquino Party|MPN]]
+| leader_title           = [[Mayor]]
+| leader_name            = Carlos Saloniti<ref>{{cite web|title=Listado de autoridades municipales - San Martin de los Andes|url=http://www.sanmartindelosandes.gov.ar/municipio/institucional/autoridades.html|website=Municipio de San Martín de los Andes|language=es}}</ref>
+| unit_pref              = Metric<!-- or US or UK -->
+| area_footnotes         = 
+| area_total_km2         = 140
+| area_note              = 
+| elevation_footnotes    = 
+| elevation_m            = 640
+| population_footnotes   = 
+| population_total       = 23519
+| population_as_of       = 
+| population_density_km2 = auto
+| population_demonym     = 
+| population_note        = 
+| timezone1              = [[Time in Argentina|ART]]
+| utc_offset1            = -3
+| postal_code_type       = [[Argentine postal code|CPA base]]
+| postal_code            = [[ISO 3166-2:AR|Q]]8370
+| area_code_type         = [[Telephone numbering in Argentina|Dialing code]]
+| area_code              = +54 2972
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Mediterranean climate#Warm-summer mediterranean climate|Csb]]
+| website                = <!-- [http://www.example.com example.com] -->
+| footnotes              = 
+}}

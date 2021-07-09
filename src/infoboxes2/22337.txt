@@ -1,0 +1,61 @@
+{{Infobox settlement
+|official_name          = Espita
+|settlement_type        = Town
+|nickname               = 
+|motto                  = "The Athens of Yucatan"
+<!-- Images -->
+|image_skyline          = Espita 17.07.19.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|image_seal             = Escudo_de_Espita.png
+<!-- Maps -->
+|image_map              = 
+|map_alt                = 
+|map_caption            = 
+|pushpin_map            = Mexico Yucatán#Mexico
+|pushpin_map_alt        = 
+|pushpin_map_caption    = 
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = [[Mexico]]
+|subdivision_type1      = [[Political divisions of Mexico|State]]
+|subdivision_name1      = [[Yucatán (state)|Yucatan]]
+|subdivision_type2      = [[Municipalities of Yucatán|Municipality]]
+|subdivision_name2      = [[Espita Municipality, Yucatan|Espita Municipality]]
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Municipal president
+|leader_name            = Carlos Erosa Correa
+|leader_title1          = 
+|leader_name1           = 
+|established_title      = 
+|established_date       = 
+<!-- Area -->
+|unit_pref              = Metric
+|area_footnotes         = 
+|area_total_km2         = 6.47
+<!-- Population -->
+|population_as_of       = [[INEGI]], 2010
+|population_footnotes   = <ref name="INEGI">{{Cite web|url=http://www.inegi.org.mx/est/contenidos/espanol/sistemas/conteo2005/localidad/iter/default.asp?s=est&c=10395 |title=Principales resultados por localidad (ITER) |year=2005 |author=Instituto Nacional de Estadística y Geografía |url-status=dead |archive-url=https://web.archive.org/web/20110722200612/http://www.inegi.org.mx/est/contenidos/espanol/sistemas/conteo2005/localidad/iter/default.asp?s=est&c=10395 |archive-date=July 22, 2011 |df=mdy }}</ref>
+|population_total       = 11551
+|population_density_km2 = 1662.75
+|population_demonym     = espitan
+<!-- General information -->
+|timezone               = [[North American Central Time Zone|Central Standard Time]]
+|utc_offset             = -6
+|timezone_DST           = [[North American Central Time Zone|Central Daylight Time]]
+|utc_offset_DST         = -5
+|elevation_footnotes    = 
+|elevation_m            = 27
+|coordinates            = {{coord|21|00|46|N|88|18|17|W|region:MX_type:city|display=inline,title}}
+|coor_pinpoint          = 
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[ZIP code]]
+|postal_code            = 97730
+|area_code              = 986
+|blank_name_sec1        = [[INEGI]] Code
+|blank_info_sec1        = 310320001
+|website                = {{URL|www.espita.gob.mx}}
+|footnotes              = 
+}}

@@ -1,0 +1,115 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Opatija
+| official_name                   = ''Grad Opatija''<br /> Town of Opatija
+| other_name                      = 
+| native_name                     = 
+| nickname                        = 
+| settlement_type                 = [[List of cities and towns in Croatia|Town]]
+| image_skyline                   = {{Photomontage|position=center
+|photo1a =Opatija (14201328279).jpg
+|photo2a =Hotel Opatija.JPG
+|photo2b =Opatija, view to the Remisens Premium Hotel Ambasador.jpg
+|photo3a =Sunset in Opatija.jpg
+|photo3b =J32 291 Opatija.jpg
+|photo4a =Church of the Annunciation of the Blessed Virgin Mary, Opatija.jpg
+|photo4b =Opatija 05 (js).jpg
+|photo5a =Opatija (19125140551).jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+}}
+| image_flag                      = Zastava Opatije.svg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| city_logo                       = 
+| citylogo_size                   = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Croatia
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Opatija within Croatia
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Croatia}}
+| subdivision_type1               = [[Counties of Croatia|County]]
+| subdivision_name1               = [[File:Flag of Primorje-Gorski Kotar County.png|border|23px]] [[Primorje-Gorski Kotar County|Primorje-Gorski Kotar]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Fernando Kirigin [[Social Democratic Party of Croatia|SDP]]
+| leader_title1                   = City Council
+| leader_name1                    = {{Collapsible list
+| title                 = 15 members<ref>{{cite web|url=https://www.opatija.hr/files/file/izbori/lokalni-izbor-2021/konacni-rezultati_vijece.pdf|title=Konačni rezultati izbora 2021|language=hr|access-date=2 June 2021}}</ref>
+| frame_style         = border: none; padding: 0;
+| list_style          = text-align:left;display:none;
+| {{Color box|{{Social Democratic Party of Croatia/meta/color}}|border=darkgray}} [[Social Democratic Party of Croatia|SDP]](5)
+|  
+| {{Color box|{{Independent/meta/color}}|border=darkgray}} [[Independent (politician)|Independent list of Ivo Dujmić]] (5)
+|  
+| {{Color box|{{Youth Action (Croatia)/meta/color}}|border=darkgray}} [[Youth Action (Croatia)|AM]]-[[Union of Kvarner|UK]] (3)
+|  
+| {{Color box|{{Croatian Democratic Union/meta/color}}|border=darkgray}} [[Croatian Democratic Union|HDZ]] (1)
+|  
+| {{Color box|{{Independent/meta/color}}|border=darkgray}} [[Independent (politician)|Independent list of Ante Štampalija]] (1)
+}}
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 66
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = <!-- Population   ----------------------->
+| population_as_of                = 2011<ref>{{cite web|url=http://www.dzs.hr/Eng/censuses/census2011/results/censustabshtm.htm|title=Popis stanovništva 2011.}}</ref>
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 11,659
+| population_density_km2          = 
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 6,657
+| population_density_urban_km2    = <!-- General information  --------------->
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|45|20|N|14|18|E|region:HR|display=inline}}
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 0
+| elevation_ft                    = 0
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code
+| postal_code                     = 51 410
+| area_code                       = 051
+| blank_name                      = 
+| blank_info                      = 
+| website                         = [http://www.opatija.hr opatija.hr]
+| footnotes                       = 
+}}

@@ -1,0 +1,89 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Kankakee, Illinois
+| official_name                   = City of Kankakee
+| native_name                     = ''Theakake''<!-- if different from the English name -->
+| native_name_lang                = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name                      = 
+| settlement_type                 = [[City]]<!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->| image_skyline                   = Kankakee County Courthouse.jpg
+| imagesize                       = 
+| image_alt                       = 
+| image_caption                   = [[Kankakee County Courthouse]]
+| image_map                       = File:Kankakee_County_Illinois_Incorporated_and_Unincorporated_areas_Kankakee_Highlighted.svg
+| map_caption                     = Location of Kankakee in Illinois
+| nickname                        = City of Restaurants
+| motto                           = 
+| anthem                          = <!-- maps and coordinates ------>
+| pushpin_map                     = 
+| pushpin_label_position          = 
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|41|7|12|N|87|51|40|W|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <!-- for references: use <ref> tags -->
+<!-- location ------------------>| subdivision_type                = Country
+| subdivision_name                = [[United States]]<!-- the name of the country -->
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{nowrap|{{flag|Illinois}}}}
+| subdivision_type2               = [[List of counties in Illinois|County]]
+| subdivision_name2               = [[Kankakee County, Illinois|Kankakee]]<!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->| established_title               = Established<!-- Settled -->
+| established_date                = 1853
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = Incorporated (city)
+| established_date2               = 1865
+| extinct_title                   = 
+| extinct_date                    = 
+| founder                         = 
+| named_for                       = <!-- government type, leaders -->
+| government_footnotes            = <!-- for references: use <ref> tags -->
+| government_type                 = [[mayor-council government|Mayor-Council]]
+| governing_body                  = 
+| leader_party                    = [[United States Republican Party|R]]
+| leader_title                    = Mayor
+| leader_name                     = Chris Curtis
+| leader_title1                   = City Council
+| leader_name1                    = 14 aldermen
+<!-- display settings  --------->| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+<!-- for references: use <ref> tags -->| area_total_km2                  = 40.16
+<!-- ALL fields with measurements have automatic unit conversion -->| area_total_sq_mi                = 15.51
+<!-- see table @ Template:Infobox settlement for details -->| area_land_sq_mi                 = 15.03
+| area_water_sq_mi                = 0.48
+| area_water_percent              = 
+| area_rank                       = <!-- elevation ----------------->
+| elevation_footnotes             = <ref name="gnis">{{cite gnis|0411300|Kankakee}}</ref>
+| elevation_ft                    = 656
+<!-- population ---------------->| population_footnotes            = <ref>{{cite web|title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2012 |url=https://www.census.gov |publisher=United States Census Bureau |access-date=8 August 2013 }}</ref>
+| population_total                = 27537
+| population_as_of                = [[2010 United States Census|2010]]
+| population_rank                 = 
+| population_density_km2          = 668.52
+<!-- for automatic calculation of any density field, use: auto -->| population_density_sq_mi        = 1731.47
+| population_est                  = 26024
+| pop_est_as_of                   = 2019
+| population_density              = 
+| population_density_rank         = 
+| population_demonym              = Kankakeean<!-- demonym, e.g. Liverpudlian for someone from Liverpool -->
+| population_note                 = <!-- time zone(s) -------------->
+| timezone1                       = [[North American Central Time Zone|CST]]
+| utc_offset1                     = &minus;6
+| timezone1_DST                   = [[North American Central Time Zone|CDT]]
+| utc_offset1_DST                 = &minus;5
+<!-- postal codes, area code --->| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 60901
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| area_codes                      = [[Area code 815|815]], [[Area code 779|779]]
+| geocode                         = 
+| iso_code                        = 
+| registration_plate              = <!-- blank fields (section 1) -->
+| blank_name_sec1                 = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec1                 = 17-38934<ref name="gnis"/>
+| blank1_name_sec1                = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1                = 411300<ref name="gnis"/>
+<!-- website, footnotes -------->| website                         = {{URL|www.citykankakee-il.gov}}
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| area_land_km2                   = 38.93
+| area_water_km2                  = 1.24
+}}

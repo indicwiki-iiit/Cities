@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                   = Rahat
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|רהט}}|rtl=yes}}
+ | {{Lang|ar|رهط|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1994)
+| image_skyline          = מבט על העיר רהט.jpg
+| imagesize              = 285
+| image_caption          = Rahat City
+| image_blank_emblem     = Coat of arms of Rahat.svg
+| blank_emblem_type      = Municipal seal
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest negev#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = bottom
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|23|33|N|34|45|16|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1972
+| leader_title           = Mayor
+| leader_name            = [[Faiz Abu Sahiben]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:19586|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Rahat}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Calm, comfort
+}}

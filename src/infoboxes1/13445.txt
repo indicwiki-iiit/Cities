@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info ---------------->| name                            = Beverly Hills, California
+| settlement_type                 = [[City (California)|City]]
+| official_name                   = City of Beverly Hills
+| native_name                     = <!-- for cities whose native name is not in English -->
+<!-- images and maps ----------->| image_skyline                   = Rodeo Drive & Via Rodeo, Beverly Hills, LA, CA, jjron 21.03.2012.jpg
+| image_caption                   = Beverly Hills at the corner of [[Rodeo Drive]]<br /> and Via Rodeo in 2012. [[Breguet (brand)|Breguet]], [[Versace]] and [[Stefano Ricci]] can be seen.
+| image_flag                      = Flag of Beverly Hills, California.png
+| image_seal                      = Seal of Beverly Hills, California.png
+| image_shield                    = Coat of arms of Beverly Hills, California.png
+| nicknames                       = "Garden Spot of the World," "B.H.," "Bev Hills," "90210," "The Hills"
+| motto                           = 
+| image_map                       = File:Los Angeles County California Incorporated and Unincorporated areas Beverly Hills Highlighted 0606308.svg
+| map_caption                     = Location within Los Angeles County, California.
+| image_map1                      = 
+| map_caption1                    = 
+| pushpin_map                     = Los Angeles#California#USA
+| pushpin_map_caption             = Location within the Los Angeles metropolitan area##Location within California##Location within the United States
+| pushpin_relief                  = 1
+| pushpin_label                   = Beverly Hills
+<!-- Location ------------------>| coordinates                     = {{coord|34|4|23|N|118|23|58|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = January 28, 1914<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+| named_for                       = [[Beverly Farms]]
+<!-- Government ----------->| government_type                 = [[Council-manager]]
+| leader_title                    = [[Mayor of Beverly Hills|Mayor]]
+| leader_name                     = [[Robert Wunderlich]]<ref name="members">{{cite web|url=http://www.beverlyhills.org/citygovernment/mayorandcouncilmembers/ |title=The City of Beverly Hills Mayor and Council Members |website=Beverlyhills.org |access-date=March 31, 2017}}</ref>
+| leader_title1                   = [[Vice mayor]]
+| leader_name1                    = [[Lili Bosse]]<ref name="members"/>
+| leader_title2                   = [[City council]]
+| leader_name2                    = [[John A. Mirisch]]<ref name="members"/> <br/> Lester Friedman <br />Julian A. Gold, MD
+| leader_title3                   = [[City Manager]]
+| leader_name3                    = George Chavez<ref name="city manager">{{cite web|title=Biography of Interim City Manager Mahdi Aluzri|url=http://www.beverlyhills.org/citygovernment/citymanager/biographyofinterimcitymanager/|work=City of Beverly Hills|access-date=February 2, 2015}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 5.71
+| area_land_sq_mi                 = 5.71
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 14.79
+| area_land_km2                   = 14.78
+| area_water_km2                  = 0.00
+| area_water_percent              = 0.04
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1652672|Beverly Hills|access-date=October 20, 2014}}</ref>
+| elevation_ft                    = 259
+| elevation_m                     = 79
+<!-- Population   ----------------------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|title=Beverly Hills (city) QuickFacts|url=http://quickfacts.census.gov/qfd/states/06/0606308.html|publisher=[[United States Census Bureau]]|access-date=February 9, 2015|archive-url=https://www.webcitation.org/69xrZAXfW?url=http://quickfacts.census.gov/qfd/states/06/0606308.html|archive-date=August 16, 2012|url-status=dead}}</ref>
+| population_total                = 34109
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 33792
+| population_density_sq_mi        = 5920.11
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| demonym                         = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 90209–90213<ref name="usps"/>
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 310 and 424|310/424]], [[Area code 323|323]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|06308}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652672}}, {{GNIS 4|2409840}}
+| website                         = {{URL|www.beverlyhills.org}}
+| population_density_km2          = 2285.77
+}}

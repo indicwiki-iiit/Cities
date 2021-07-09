@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                            = Fort Mill, South Carolina
+| official_name                   = Town of Fort Mill
+| settlement_type                 = [[Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Fort Mill Historic District.jpg
+| imagesize                       = 
+| image_caption                   = Fort Mill Historic District
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = SCMap-doton-FortMill.PNG
+| mapsize                         = 250px
+| map_caption                     = Location of Fort Mill in the state of South Carolina.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[South Carolina]]
+| subdivision_type2               = [[List of counties in South Carolina|Counties]]
+| subdivision_name2               = [[York County, South Carolina|York]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = [[Mayor-council]]
+| leader_title                    = Mayor
+| leader_name                     = Guynn Savage, since 1/2016
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = Established
+| established_date                = 1873<ref name=FMWebsite>{{cite web|url=http://www.fortmillsc.org/OurTown.aspx|title=Town of Fort Mill official website, accessed September 27, 2007|website=fortmillsc.org|access-date=3 April 2018|archive-url=https://web.archive.org/web/20070827150016/http://www.fortmillsc.org/OurTown.aspx|archive-date=27 August 2007|url-status=dead}}</ref>
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 19.90
+| area_land_sq_mi                 = 19.64
+| area_water_sq_mi                = 0.26
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 10811
+| population_urban                = 36119
+| population_density_sq_mi        = 1134.62
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 193
+| elevation_ft                    = 633
+| coordinates                     = {{coord|35|0|N|80|57|W|region:US-SC_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 29715, 29716, 29708
+| area_code                       = [[Area codes 803 and 839|803, 839]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 45-26890<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1247805<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = {{URL|1=https://fortmillsc.gov/}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 22284
+| area_total_km2                  = 51.55
+| area_land_km2                   = 50.87
+| area_water_km2                  = 0.68
+| population_density_km2          = 438.08
+}}

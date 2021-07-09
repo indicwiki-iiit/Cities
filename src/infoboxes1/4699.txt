@@ -1,0 +1,71 @@
+{{Infobox settlement
+| official_name                   = Stephenville, Texas
+| settlement_type                 = City
+| nickname                        = The "Ville"
+| motto                           = <!-- Images -->
+| image_skyline                   = Stephenville Texas City Hall 2017.jpg
+| imagesize                       = 
+| image_caption                   = Stephenville City Hall
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = TXMap-doton-Stephenville.PNG
+| mapsize                         = 250px
+| map_caption                     = Location of Stephenville, Texas
+| image_map1                      = Erath County Stephenville.svg
+| mapsize1                        = 250px
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_name1               = [[Texas]]
+| subdivision_type2               = [[List of counties in Texas|County]]
+| subdivision_name2               = [[Erath County, Texas|Erath]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = [[Council-manager government|Council-Manager]]
+| leader_title                    = [[City Council]]
+| leader_name                     = Mayor Doug Svien  <br/> Mark McClinton  <br/> Carla Trussell  <br/> Brady Pendleton  <br/> Rhett Harrison  <br/> Alan Nix  <br/> Sherry Zachery  <br/> Brandon Huckabee
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Allen L. Barnes
+| established_title               = 
+| established_date                = 
+| website                         = [http://www.stephenvilletx.gov/ Stephenville, Texas]
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 30.85
+| area_land_km2                   = 30.79
+| area_water_km2                  = 0.06
+| area_total_sq_mi                = 11.91
+| area_land_sq_mi                 = 11.89
+| area_water_sq_mi                = 0.02
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2021]]
+| population_footnotes            = 
+| population_total                = 21959
+| pop_est_as_of                   = 2021
+| population_est                  = 21959
+| population_density_km2          = 690.14
+| population_density_sq_mi        = 1847
+
+<!-- General information -->| timezone                        = [[North American Central Time Zone|Central (CST)]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| elevation_footnotes             = 
+| elevation_m                     = 388
+| elevation_ft                    = 1273
+| coordinates                     = {{coord|32|13|13|N|98|12|49|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 76401-76402
+| area_code                       = [[Area code 254|254]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 48-70208<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=31 January 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1347894<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=31 January 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| footnotes                       = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

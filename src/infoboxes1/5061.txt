@@ -1,0 +1,53 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and -->| name                            = Mazar-i-Sharif<br/>{{Nobold|{{lang|fa|مزار شریف}}}}
+| official_name                   = 
+| settlement_type                 = City
+| image_skyline                   = {{Photomontage
+ | photo1a      = Mi-17 helicopter flies over the northern Afghan city-croped.jpg{{!}}Afghan Air Force helicopter flies over Mazar-i-Sharif
+ | photo1b      = Nowruz in northern Afghanistan in March 2011.jpg{{!}}View towards the Blue Mosque during [[Nowruz]]
+ | photo2a      = Mazar-e sharif - Steve Evans.jpg{{!}}The Blue Mosque
+ | photo2b      = Downtown Mazar-e Sharif.png{{!}}Downtown
+ | size         = 300
+ | border       = 0
+ | color        = Gray
+ | foot_montage = From top left to right: [[Afghan Air Force]] helicopters over Mazar-i-Sharif; Nowruz; Downtown; [[Hazrat Ali Mazar]].
+ }}
+| pushpin_map                     = Afghanistan#Bactria#West Asia
+| pushpin_label                   = Mazar-i-Sharif
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 
+| pushpin_relief                  = yes
+| pushpin_map_caption             = Location in Afghanistan
+| coordinates                     = {{coord|36|42|N|67|07|E|region:AF|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{AFG}}
+| subdivision_type1               = [[Provinces of Afghanistan|Province]]
+| subdivision_type2               = [[Districts of Afghanistan|District]]
+| subdivision_name1               = [[Balkh Province]]
+| subdivision_name2               = Mazar-i-Sharif District
+| established_title               = 
+| established_date                = 
+| leader_title                    = Mayor
+| leader_name                     = Abdullhaq Khurami
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->| area_total_km2                  = 
+| area_land_km2                   = 83
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->| area_water_km2                  = 
+| elevation_footnotes             = <!--for references: use  tags-->
+| elevation_m                     = 357
+<!-- Population   ----------------------->| population_total                = 
+| population_as_of                = 
+| population_footnotes            = 
+| population_density_km2          = auto
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Semi-arid climate#Cold semi-arid climates|BSk]]
+| website                         = 
+| timezone                        = Afghanistan Standard Time
+| utc_offset                      = +4:30
+| timezone_DST                    = 
+| utc_offset_DST                  = <!-- Area/postal codes & others -------->
+| population_est                  = 500,207<ref name=nsia>{{cite web |url=https://www.nsia.gov.af:8080/wp-content/uploads/2021/06/Estimated-Population-of-Afghanistan1-1400.pdf |title=Estimated Population of Afghanistan 2021-22 |author=<!--Not stated--> |date=April 2021 |website= |publisher=National Statistic and Information Authority (NSIA)|archive-date=June 29, 2021|archive-url=https://web.archive.org/web/20210624204559/https://www.nsia.gov.af:8080/wp-content/uploads/2021/06/Estimated-Population-of-Afghanistan1-1400.pdf|url-status=live |access-date=June 21, 2021 |quote=}}</ref>
+| pop_est_as_of                   = 2021
+}}

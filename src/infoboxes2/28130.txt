@@ -1,0 +1,26 @@
+{{Infobox Golf Facility
+|golf_facility_name = Rio Pinar Country Club
+|image              = 
+|imagesize          =
+|caption            =
+|location           = [[Rio Pinar, Florida]], U.S.
+|coordinates        = {{nowrap|{{coord|28.525|-81.265|region:US_type:landmark|display=inline,title}}}}
+|establishment      = 1957, {{Time ago|1957}}
+|type               = Semi/private
+|owner              = <!-- name of organization/company -->
+|operator           = <!-- name of organization/company -->
+|holes              = 18
+|tournaments        = [[Arnold Palmer Invitational|Florida Citrus Open]]<br>[[Freedom/Orlando Classic|Lady Citrus Open]]
+|greens             = 
+|fairways           = 
+|website            = 
+|course1            = 
+|designer1          = Mark Mahannah (1957)<br>Lloyd Clifton (1995)
+|par1               = 72
+|length1            = {{convert|7001|yd}}
+|rating1            = 73.9
+|slope1             = 130 <ref name=usgasahrp>{{cite web|url=https://ncrdb.usga.org/NCRDB/courseTeeInfo.aspx?CourseID=26979|publisher=USGA|title=Course Rating and Slope Database™: Rio Pinar CC |accessdate=February 26, 2017}}</ref>
+|pushpin_map        = USA#USA Florida
+|pushpin_relief     = 1
+|map_caption        = Location in the [[United States]]##Location in [[Florida]]
+}}

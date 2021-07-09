@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Yehud-Monosson
+| native_name            = {{Lang|he|{{Script/Hebrew|יְהוּד-מוֹנוֹסוֹן}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Yhud Monoson
+| image_skyline          = Jahud023.jpg
+| image_blank_emblem     = Coat of arms of Yehud-Monosson (blue).svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|1|42.17|N|34|52|46.62|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = [[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 2003 (by merger)
+| leader_title           = Mayor
+| leader_name            = Yaela Machlis
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:4750|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Yehud}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = {{url|www.yehud-monosson.muni.il}}
+}}

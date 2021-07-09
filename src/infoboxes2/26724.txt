@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Lacy Lakeview, Texas
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = City on the Move
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = McLennan County LacyLakeview.svg
+|mapsize                  = 250px
+|map_caption              = Location of Lacy Lakeview, Texas
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[McLennan County, Texas|McLennan]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 10.82
+|area_land_km2            = 10.76
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 4.18
+|area_land_sq_mi          = 4.16
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6489
+|population_density_km2   = 624.45
+|population_density_sq_mi = 1617.18
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = 
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 48-40168
+|blank1_name              = 
+|blank1_info              = 
+|website                  = {{URL|http://www.lacylakeview.org/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6721
+}}

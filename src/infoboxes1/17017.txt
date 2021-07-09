@@ -1,0 +1,38 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                            = Dunakeszi
+| official_name                   = 
+| settlement_type                 = [[List of cities and towns of Hungary|Town]]
+| image_skyline                   = Dunakeszi légifotó.jpg
+| image_caption                   = Dunakeszi from above
+| image_shield                    = HUN Dunakeszi Címer.svg
+| pushpin_map                     = Hungary#Europe
+| pushpin_relief                  = 1
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Dunakeszi within Hungary
+| pushpin_mapsize                 = 
+| pushpin_map1                    = Hungary Pest
+| pushpin_map_caption1            = Location of Dunakeszi within Pest County
+| pushpin_mapsize1                = 
+| coordinates                     = {{coord|47.63030|19.14123|region:HU|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{HUN}}
+| subdivision_type1               = [[Counties of Hungary|County]]
+| subdivision_name1               = [[Pest County|Pest]]
+| subdivision_type2               = [[Districts of Hungary|District]]
+| subdivision_name2               = [[Dunakeszi District|Dunakeszi]]
+| area_total_km2                  = 31.06
+| area_footnotes                  = <ref name="KSH">{{cite web |url=https://www.ksh.hu/docs/hun/hnk/hnk_2015.pdf |title=Official statistics |publisher=[[Hungarian Central Statistical Office]] |language=hu |access-date=2015-09-22}}</ref>
+| population_footnotes            = <ref name="KSH" />
+| population_total                = 43490
+| population_as_of                = 2018 January 1
+| population_density_km2          = 1400.19
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| postal_code_type                = [[Postal codes in Hungary|Postal code]]
+| postal_code                     = 2120
+| area_code_type                  = [[Telephone numbers in Hungary|Area code]]
+| area_code                       = (+36) 27
+| website                         = {{URL|http://www.dunakeszi.hu/}}
+}}

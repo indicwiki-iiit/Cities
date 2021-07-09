@@ -1,0 +1,27 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|image_shield = HUN Répceszemere címer.svg
+|image_flag = Flag of Répceszemere.svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Répceszemere|
+map=[[Image:GyMSMegye.png|center|thumb|275px|Location of Győr-Moson-Sopron county in Hungary]]|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Győr-Moson-Sopron]]|
+area_total_km2=9.42|
+population_total=336|
+population_as_of=2004|
+population_density_km2=35.66|
+postal_code_type=[[Postal code]]|
+postal_code=9375|
+area_code=99|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Répceszemere
+|pushpin_mapsize        =
+|coordinates            = {{coord|47.42796|16.97273|region:HU|display=inline,title}}
+}}

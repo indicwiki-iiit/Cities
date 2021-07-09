@@ -1,0 +1,28 @@
+{{Infobox Australian place | type = lga 
+| name     = City of Bayswater
+| state    = WA
+| image    = Bayswater LGA WA.png
+| image_upright = 0.81
+| caption  = 
+| pop      = 66,050
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA50420 |name=Bayswater (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| area     = 34.6
+| est      = 1897
+| seat     = [[Morley, Western Australia|Morley]]
+| mayor    = Dan Bull
+| region   = [[Eastern Metropolitan Regional Council|Eastern Metropolitan Perth]]
+| logo     = Logo of the City of Bayswater.svg
+| logo_upright = 0.6
+| url      = http://www.bayswater.wa.gov.au
+| stategov = [[Electoral district of Maylands|Maylands]], [[Electoral district of Bassendean|Bassendean]], [[Electoral district of Morley|Morley]]
+| fedgov   = [[Division of Perth]]
+| near-nw  = [[City of Stirling|Stirling]]
+| near-n   = [[City of Swan|Swan]]
+| near-ne  = [[City of Swan|Swan]]
+| near-w   = [[City of Stirling|Stirling]]
+| near-e   = [[Town of Bassendean|Bassendean]]
+| near-sw  = [[City of Vincent|Vincent]]
+| near-s   = [[Town of Victoria Park|Victoria Park]]
+| near-se  = [[City of Belmont|Belmont]]
+}}

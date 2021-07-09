@@ -1,0 +1,58 @@
+{{Infobox settlement
+|official_name            = Groveland
+|settlement_type          = [[census-designated place]]
+<!-- Images -->
+|image_skyline            = Groveland_Historic_District-2.jpg
+|imagesize                = 
+|image_caption            = Groveland California in 2012
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Tuolumne County, California|Tuolumne]]
+|established_title        = 
+|established_date         = 
+<!-- Population------------------>
+| population_total        = 601
+| population_as_of        = 2010
+| population_density_km2  = auto
+
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census]  {{webarchive|url=https://www.webcitation.org/64vfLAeJ2?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-01-24 }}</ref>
+| area_total_sq_mi        = 9.567
+| area_land_sq_mi         = 9.561
+| area_water_sq_mi        = 0.006
+| area_total_km2          = 24.779
+| area_land_km2           = 24.764
+| area_water_km2          = 0.015
+| area_water_percent      = 0.06
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref name=gnis>{{gnis|2628856}}</ref>
+|elevation_m              = 
+|elevation_ft             = 3136
+| pushpin_map             = California
+| pushpin_map_caption     = Position in California.
+|coordinates              = {{coord|37|49|54|N|120|14|23|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 95321
+|area_code                = 209
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = 2628856
+|website                  = 
+|footnotes                = {{gnis|2628856}}
+{{Designation list | embed=yes | designation1 = California | designation1_number = 446}}
+|image_map = File:Tuolumne County California Incorporated and Unincorporated areas Groveland Highlighted 0631372.svg
+|map_caption = Location of Groveland in Tuolumne County, California.
+}}

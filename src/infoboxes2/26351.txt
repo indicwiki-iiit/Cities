@@ -1,0 +1,39 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = Venustiano Carranza
+|settlement_type        = [[Boroughs of the Mexican Federal District|Delegación]]
+<!-- images and maps  ----------->
+|image_map              = Venustiano Carranza, México DF.svg
+|mapsize                = 256px
+|map_caption            = Venustiano Carranza within the Federal District
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Mexico]]
+|subdivision_type1      = [[Political divisions of Mexico|Federal entity]]
+|subdivision_name1      = [[Mexican Federal District|CDMX]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat                   = Colonia Jardín Balbuena
+<!-- Politics ----------------->
+|leader_party           = [[Party of the Democratic Revolution|PRD]]
+|leader_title           = Jefe delegacional
+|leader_name            = Israel Moreno Rivera
+|established_title      = Established
+|established_date       = 1970
+|named_for              = [[Venustiano Carranza]]
+<!-- Area    --------------------->
+|area_magnitude           = 1 E+7
+|area_total_km2           = 33.42
+<!-- Population   ----------------------->
+|population_total               = 430978
+|population_density_km2         = auto
+<!-- General information  --------------->
+|timezone               = [[North American Central Time Zone|Central Standard Time]]
+|utc_offset             = -6 
+|timezone_DST           = [[North American Central Time Zone|Central Daylight Time]]
+|utc_offset_DST         = -5
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal codes
+|postal_code            = 15000 &ndash; 15990
+|website                = http://www.vcarranza.df.gob.mx/
+}}

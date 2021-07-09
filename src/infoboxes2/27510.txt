@@ -1,0 +1,62 @@
+{{Infobox settlement
+| name                            = Mid-Atlantic
+| image_skyline                   = {{Photomontage
+| photo1a                 = Lower Manhattan skyline - June 2017.jpg
+| photo2a                 = 2015 Independence Hall - Philadelphia 01.JPG
+| photo2b                 = Assateague Wetlands.jpg
+| photo3a                 = Philadelphia skyline from South Street Bridge January 2020 (rotate 2 degrees perspective correction crop 4-1).jpg
+| photo4a                 = Catskills beyond Hudson.jpg
+| photo4b                 = Downtown Pittsburgh seen from Mt. Washington.jpg
+| photo5a                 = Jersey City 2020.jpg
+| photo6a                 = Washington dc skyline.jpg
+| size                    = 270
+| spacing                 = 1
+| color                   = Transparent
+| border                  = 0
+| foot_montage            = Left-right from top: [[Manhattan]] skyline, [[Independence Hall]] has in [[Philadelphia]], [[Assateague]] wetlands, Panorama of [[Philadelphia]], [[Pittsburgh]] skyline, Panorama of [[Washington, D.C.]]
+ }}
+| image                           = 
+| image_caption                   = 
+| image_map                       = The Mid-Atlantic States.png
+| map_alt                         = 
+| map_caption                     = States in dark red are traditionally included in the Mid-Atlantic and [[Northeastern United States|Northeast]] regions, while states in pink are traditionally included in the Mid-Atlantic and [[Southeastern United States|Southeast]] regions.
+| coordinates                     = {{Coord|41|-77|region:US_dim:1000km|display=title,inline}}
+| subdivision_type                = Composition
+| subdivision_name                = {{Unbulleted list|list_style=line-height: inherit;
+|
+* {{flag|New York}}
+* {{flag|New Jersey}}
+* {{flag|Pennsylvania}}
+* {{flag|Delaware}}
+* {{flag|Maryland}}
+* {{flag|Washington, D.C.}}
+* {{flag|Virginia}}
+* {{flag|West Virginia}}
+
+}}
+| subdivision_type1               = Metropolitan areas
+| subdivision_type2               = Largest city
+| subdivision_type3               = 
+| subdivision_name1               = {{Unbulleted list|list_style=line-height: inherit;
+ | [[Baltimore-Washington metropolitan area|Baltimore–Washington]] | [[Buffalo–Niagara Falls metropolitan area|Buffalo–Niagara Falls]] | [[Capital District, New York|Albany–Schenectady–Troy]] | [[Delaware Valley|Philadelphia–Wilmington]] | [[New York metropolitan area|New York–Newark]] | [[Lehigh Valley|Allentown–Bethlehem–Easton]] | [[Pittsburgh-New Castle-Weirton, PA-OH-WV Combined Statistical Area|Pittsburgh]] | [[Greater Richmond Region|Richmond]] | [[Rochester, New York metropolitan area|Rochester]] | [[Syracuse metropolitan area|Syracuse]] | [[Wyoming Valley|Scranton–Wilkes-Barre]] | [[Harrisburg-York-Lebanon, PA Combined Statistical Area|Harrisburg–York–Lebanon]] | [[Hampton Roads|Virginia Beach–Norfolk–Newport News]]
+ }}
+| subdivision_name2               = [[New York City]]
+| subdivision_name3               = 
+| unit_pref                       = US<!-- or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->| area_footnotes                  = 
+| area_total_sq_mi                = 191,308.5
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_rank                       = <!-- square miles -->
+| population_total                = 57,303,316
+| population_as_of                = 2008 est.
+| population_footnotes            = <ref>{{Cite web |title=State & County QuickFacts |url=http://factfinder.census.gov/servlet/GCTTable?_bm=y&-geo_id=01000US&-_box_head_nbr=GCT-T1-R&-ds_name=PEP_2008_EST&-format=US-40S |url-status=dead |archive-url=https://archive.today/20200212042808/http://factfinder.census.gov/servlet/GCTTable?_bm=y&-geo_id=01000US&-_box_head_nbr=GCT-T1-R&-ds_name=PEP_2008_EST&-format=US-40S |archive-date=2020-02-12 |access-date=2009-04-09 |publisher=US Census Bureau}}</ref>
+| population_density_sq_mi        = auto
+| demographics_type1              = [[Gross domestic product|GDP]]
+| demographics1_footnotes         = <ref>{{Cite web |title=News Release: GDP by State |url=https://www.bea.gov/newsreleases/regional/gdp_state/2008/pdf/gsp0608.pdf |url-status=dead |archive-url=https://web.archive.org/web/20090507212000/http://www.bea.gov/newsreleases/regional/gdp_state/2008/pdf/gsp0608.pdf |archive-date=2009-05-07 |access-date=2009-04-16 |publisher=Bureau of Economic Analysis}}</ref>
+| demographics1_title1            = Total
+| demographics1_info1             = $2.962 trillion (2007)
+| official_name                   = 
+}}

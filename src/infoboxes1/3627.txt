@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Putaendo
+| native_name             =
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = Chile, Putaendo, Calle Comercio (45350347261).jpg
+| image_alt               =
+| image_caption           =
+| image_flag              =
+| flag_alt                = Flag
+| image_shield            = Escudo de Putaendo.svg
+| shield_alt              = Coat of arms
+| image_map               = Comuna de Putaendo.svg
+| map_alt                 = Map of the Putaendo commune in the Valparaíso Region
+| map_caption             = 
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = Location in Chile
+| pushpin_map_caption     = Location in Chile
+| coordinates             = {{coord|32|37|40|S|70|43|00|W|region:CL-VL|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Chile}}
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = {{flag|Valparaíso}}
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[San Felipe de Aconcagua Province|San Felipe de Aconcagua]]
+| established_title       = ''San Antonio de Padua de la Unión de Putaendo''
+| established_date        = 20 March 1831
+| founder                 =
+| named_for               = 
+| seat_type               = <!--[[Capital (political)|Capital]]-->
+| seat                    =
+| government_footnotes    = <ref name="Official">{{Cite web |url= http://www.putaendo.cl/ |title= Municipality of Putaendo|accessdate=29 July 2010|language=es}}</ref>
+| government_type         = [[Municipality]]
+| leader_party            =
+| leader_title            = [[Alcalde]]
+| leader_name             = Guillermo Reyes
+| unit_pref               = Metric
+| area_footnotes          = <ref name="INE">{{cite web |url= http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title= National Statistics Institute |accessdate=30 July 2010|language=es}}</ref>
+| area_total_km2          = 1474.4
+| area_rank               = 
+| elevation_footnotes     =
+| elevation_m             = 813
+| population_footnotes    = <ref name="INE"/>
+| population_total        = 15361
+| population_as_of        = 2012 Census
+| population_density_km2  = auto
+| population_demonym      = ''Putaendino''
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 7214
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 7435
+| demographics_type1      = Sex
+| demographics1_footnotes = <ref name="INE"/>
+| demographics1_title1    = Men
+| demographics1_info1     = 7,344
+| demographics1_title2    = Women
+| demographics1_info2     = 7,305
+| timezone = [[Time in Chile|CLT]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate=2010-07-29 |title=Chile Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20100713071639/http://www.world-time-zones.org/zones/chile-time.htm |archivedate=2010-07-13 }}</ref>
+| utc_offset = -4
+| timezone_DST = [[Time in Chile|CLST]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-summer-time.htm |accessdate=2010-07-29 |title=Chile Summer Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm |archivedate=2007-09-11 }}</ref>
+| utc_offset_DST = -3
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               = ''country'' 56 + ''city'' 34
+| website                 = [http://www.putaendo.cl/ Municipality of Putaendo]
+| footnotes               =
+}}

@@ -1,0 +1,65 @@
+{{Infobox settlement
+|official_name            = Lexington Park, Maryland
+|settlement_type          = [[Census-designated place|CDP]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = St._Mary's_County_Maryland_Incorporated_and_Unincorporated_areas_Lexington_Park_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Lexington Park, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Maryland|size=23px}} 
+|subdivision_type2        = [[County (United States)|County]]
+|subdivision_name2        = {{Flagicon image|Flag of St. Mary's County, Maryland.png|size=23px}} [[St. Mary's County, Maryland|St. Mary's]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_land_sq_mi          = 5.62
+|population_as_of         = [[United States Census, 2010]]
+|population_footnotes     = 
+|population_total         = 11626
+|population_density_km2   = 553.6
+|population_density_sq_mi = 2068.3
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 35
+|elevation_ft             = 115
+|coordinates              = {{coord|38|15|32|N|76|27|2|W|region:US-MD_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 20653
+|area_code                = 301/240
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-46725
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0594792
+|website                  = 
+|footnotes                = 
+}}

@@ -1,0 +1,25 @@
+{{Infobox Australian place 
+| type     = town
+| name     = Kalbarri
+| state    = wa
+| image    = Kalbarri.jpg
+| caption  = Kalbarri Town
+| lga      = [[Shire of Northampton]]
+| coordinates = {{coord|27.71|S|114.16|E|display=inline,title}}
+| postcode = 6536
+| est      = 1951
+| pop      = 1,349| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=UCL515017|name=Kalbarri (Urban Centre/Locality)|quick=on|accessdate=30 October 2019}}</ref>
+| elevation= 6
+| maxtemp  = 27.7
+| mintemp  = 14.6
+| rainfall = 343.6
+| stategov = [[Electoral district of North West Central|North West Central]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 592
+| dir1     = north
+| location1= [[Perth, Western Australia|Perth]]
+| dist2    = 167
+| dir2     = north
+| location2= [[Geraldton, Western Australia|Geraldton]]
+}}

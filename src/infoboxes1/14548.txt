@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                            = Farmingdale, New York
+| official_name                   = Incorporated Village of Farmingdale
+| settlement_type                 = [[Village (New York)|Village]]
+| nickname                        = 
+| motto                           = 
+| image_skyline                   = Aero-view of Farmingdale, Nassau County, Long Island, N.Y. 1925. LOC 75694770.jpg
+| caption                         = [[Panoramic map]] from 1925 with list of landmarks and images of several inset
+<!-- Maps -->| pushpin_map                     = New York
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location within the state of New York
+| image_map                       = Nassau County New York incorporated and unincorporated areas Farmingdale highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Nassau County, New York|Nassau County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Nassau County, New York|Nassau]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title1              = Postal Address
+| established_date1               = 1845
+| established_title2              = Village
+| established_date2               = 1904
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 2.90
+| area_land_km2                   = 2.90
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 1.12
+| area_land_sq_mi                 = 1.12
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 8189
+| population_density_km2          = 3101.37
+| population_density_sq_mi        = 8030.33
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 21
+| elevation_ft                    = 69
+| coordinates                     = {{coord|40|44|0|N|73|26|42|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 11735
+| area_code                       = [[Area code 516|516]], [[Area code 631|631]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-25384
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0949918
+| blank2_name                     = [[Specific Area Message Encoding|NWS SAME code]]
+| blank2_info                     = 036059
+| website                         = {{URL|www.farmingdalevillage.com}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 9002
+}}

@@ -1,0 +1,29 @@
+{{Infobox Australian place 
+| type     = town
+| name     = Three Springs
+| state    = wa
+| image    = Station and silo, Three Springs, 2013.JPG
+| caption  = Three Springs railway station and grain silo, 2013.
+| lga      = [[Shire of Three Springs|Three Springs]]
+| coordinates = {{coord|29|32|00|S|115|45|42|E|display=inline,title}}
+| postcode = 6519
+| est      = 1906
+| pop      = 381| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=SSC51438 |name=Three Springs (State Suburb)|quick=on|accessdate=4 June 2019}}</ref>
+| elevation= 257
+| maxtemp  = 27
+| mintemp  = 12.6
+| rainfall = 376
+| rainfall_footnotes=<ref name=bom>{{cite web |title=Summary statistics Carnamah |url=http://www.bom.gov.au/climate/averages/tables/cw_008025.shtml |website=Climate statistics for Australian locations |publisher=Bureau of Meteorology |accessdate=29 February 2020}}</ref>
+| stategov = [[Electoral district of Moore|Moore]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 313
+| dir1     = N
+| location1= [[Perth]]
+| dist2    = 172
+| dir2     = SE
+| location2= [[Geraldton, Western Australia|Geraldton]]
+| dist3    = 20
+| dir3     = N
+| location3= [[Carnamah, Western Australia|Carnamah]]
+}}

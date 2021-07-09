@@ -1,0 +1,125 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Lüliang}}
+|official_name          = 
+|other_name             =
+|native_name            = {{lower|0.1em|吕梁市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 吕梁人民医院北侧-2006 - panoramio.jpg
+|imagesize              = 
+|image_caption          = 
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Lüliang Prefecture within Shanxi (China).png
+|mapsize                =  
+|map_caption            = Location of Lüliang City jurisdiction in Shanxi
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+
+|pushpin_map            =  Shanxi
+|pushpin_map_caption    =  Location of the city centre in Shanxi
+|pushpin_label_position =  right
+|pushpin_mapsize       =  240
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Shanxi]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+|subdivision_name2      = 1 District <br /> 2 county-level cities <br /> 10 counties
+|seat_type              = Municipal seat
+|seat                   = Lishi District
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type = [[Prefecture-level city]]
+|leader_title = [[Communist Party of China|CPC]] Lvliang Secretary
+|leader_name = Gao Weidong ({{lang|zh-hans|高卫东}})
+|leader_title1 = Mayor
+|leader_name1 = Ding Xuefeng ({{lang|zh-Hans-CN|丁雪峰}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =21,143 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1339.0 
+| area_urban_km2          = 50.20 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 952
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2010
+|population_footnotes           =<ref name="Census2010">{{cite web|language=zh-cn|url=http://news.liulin.cc/lvliang/8400.html |script-title=zh:2010年吕梁市第六次全国人口普查主要数据公报 |publisher=[[National Bureau of Statistics of China]] |access-date=30 August 2012}}</ref>
+|population_note                =
+|population_total               =3,727,057
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 368000
+| population_urban        = 276400
+| population_urban_footnotes = <ref name="CUCSY_2017"/>|population_density_metro_km2   =auto
+|population_density_urban_km2   =auto
+
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Lüliang municipal government
+|coordinates            = {{coord|37.5190|N|111.1445|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+
+<!-- Location ------------------>
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =033000
+|area_code              =0358
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank1_info             ={{lang|zh-cn|晋J}}
+|blank2_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank2_info            =141100
+|iso_code = [[ISO 3166-2:CN|CN-SX-11]]
+|website = {{URL|www.lvliang.gov.cn}}
+|footnotes              = 
+}}

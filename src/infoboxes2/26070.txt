@@ -1,0 +1,59 @@
+{{Infobox river
+| name                = Mills River
+| name_native         = 
+| name_native_lang    = 
+| name_other          = Tributary to French Broad River
+| name_etymology      = 
+<!---------------------- IMAGE & MAP -->
+| image               = 
+| image_caption       = 
+| map                 = 
+| map_size            = 300
+| map_caption         = 
+| pushpin_map         = USA North Carolina#USA
+| pushpin_map_size    = 300
+| pushpin_map_caption = Location of Mills River mouth
+<!---------------------- LOCATION -->
+| subdivision_type1   = Country
+| subdivision_name1   = [[United States]]
+| subdivision_type2   = State
+| subdivision_name2   = [[North Carolina]]<br />[[Virginia]]
+| subdivision_type3   = County
+| subdivision_name3   = [[Henderson County, North Carolina|Henderson]]
+| subdivision_type4   = 
+| subdivision_name4   = 
+| subdivision_type5   = 
+| subdivision_name5   = 
+<!---------------------- PHYSICALCHARACTERISTICS -->
+| length              = {{convert|6.10|mi|km|abbr=on}}<ref name="geoviewer">{{cite web |title=ArcGIS Web Application |url=https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=ada349b90c26496ea52aab66a092593b |website=epa.maps.arcgis.com |publisher=US EPA |accessdate=17 October 2019}}</ref>
+| width_min           = 
+| width_avg           = 
+| width_max           = 
+| depth_min           = 
+| depth_avg           = 
+| depth_max           = 
+| discharge1_location = [[French Broad River]]
+| discharge1_min      = 
+| discharge1_avg      = {{convert|189.76|cuft/s|m3/s|abbr=on}} at mouth with Mills River<ref name="watershed">{{cite web |title=Mills River Watershed Report |url=https://watersgeo.epa.gov/watershedreport/?comid=22163768 |website=Waters Geoviewer |publisher=US EPA |accessdate=17 October 2019}}</ref>
+| discharge1_max      = 
+<!---------------------- BASIN FEATURES -->
+| source1             = confluence of North Fork and South Fork of Mills River
+| source1_location    = about 3 miles west of [[Mills River, North Carolina]]
+| source1_coordinates = {{coord|35|23|33|N|082|36|37|W|display=inline}}<ref name="GNIS">{{cite web |title=GNIS Detail - Mills River |url=https://geonames.usgs.gov/apex/f?p=138:3:0::NO:3:P3_FID,P3_TITLE:1013598,Mills%20River |website=geonames.usgs.gov |publisher=US Geological Survey |accessdate=17 October 2019}}</ref>
+| source1_elevation   = {{convert|2110|ft|abbr=on}}<ref name="MRTopozone">{{cite web |title=Mills River Topo Map, Henderson County NC (Skyland Area) |url=https://www.topozone.com/north-carolina/henderson-nc/city/mills-river/ |website=TopoZone |publisher=Locality, LLC |accessdate=17 October 2019 |language=en}}</ref>
+| mouth               = [[French Broad River]]
+| mouth_location      = about 1.5 miles east of [[Mills River, North Carolina]]
+| mouth_coordinates   = {{coord|35|23|19|N|082|31|55|W|display=inline,title}}<ref name="GNIS"/>
+| mouth_elevation     = {{convert|2044|ft|abbr=on}}<ref name="MRTopozone"/>
+| progression         = generally east
+| river_system        = French Broad River
+| basin_size          = {{convert|73.41|sqmi}}<ref name="watershed"/>
+| basin_population    = 
+| tributaries_left    = Foster Creek
+| tributaries_right   = Brandy Branch
+| waterbodies         = 
+| bridges             = Boylston Highway (NC 280), Hooper Lane
+| custom_label        = 
+| custom_data         = 
+| extra               = 
+}}

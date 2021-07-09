@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                   = El'ad
+| native_name            = {{Lang|he|{{Script/Hebrew|אלעד}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] (from 2008)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = ʔelˁad
+| image_skyline          = Elad03.JPG
+| image_blank_emblem     = Coat of arms of Elad.svg
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|3|8|N|34|57|4|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 1998
+| leader_title           = Mayor
+| leader_name            = Israel (Srulik) Porush ([[United Torah Judaism|UTJ]])
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:2756|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|El'ad}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = http://www.elad.muni.il
+}}

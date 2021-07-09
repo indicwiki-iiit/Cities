@@ -1,0 +1,71 @@
+{{Infobox settlement
+|name            = Alondra Park, California
+|settlement_type          = [[Census designated place]]
+|nickname                 =
+
+<!-- Images -->
+|image_skyline            = Alondra Skate Park 2012-7-16.jpg
+|imagesize                = 
+|image_caption            = Alondra Skate Park opening in 2012.
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas Alondra Park highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Alondra Park in [[Los Angeles County, California|Los Angeles County]], [[California]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Los Angeles#California#USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+|area_total_sq_mi         = 1.14
+|area_land_sq_mi          = 1.11
+|area_water_sq_mi         = 0.04
+|area_total_km2           = 2.96
+|area_land_km2            = 2.87
+|area_water_km2           = 0.09
+|area_water_percent       = 3.17
+|area_note                =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 8592
+
+<!-- General information -->
+|elevation_footnotes      = <ref>{{Cite GNIS|1866995|Alondra Park|access-date=October 11, 2014}}</ref>
+|elevation_ft             = 52
+|elevation_m              = 16
+|coordinates              = {{coord|33|53|27|N|118|20|3|W|region:US-CA|display=inline,title}}
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 90249
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 310|310]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|01150}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1866995}}, {{GNIS 4|2407724}}
+|website                  = 
+|footnotes                = 
+}}

@@ -1,0 +1,120 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Okeechobee, Florida 
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Okeechobee City Hall.JPG
+|imagesize                = 250x200px
+|image_caption            = Okeechobee City Hall
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Okeechobee city seal.png
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Okeechobee_County_Florida_Incorporated_and_Unincorporated_areas_Okeechobee_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Okeechobee County, Florida|Okeechobee County]] and the state of [[Florida]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Florida]]
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = [[Okeechobee County, Florida|Okeechobee]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Mayor-council government|Council-Mayor]]
+|leader_title             = [[Mayor]]
+|leader_name              = Dowling Watford (Elected 2017)<ref>https://lakeokeechobeenews.com/government/dowling-watford-new-mayor-city-okeechobee</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = Established
+|established_date         = 1917<ref>http://www.lamartin.com/history/history_of_okeechobee_county/chapter5.htm</ref>
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = <!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 10.76
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = 10.50
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 0.25
+|area_total_sq_mi         = 4.15
+|area_land_sq_mi          = 4.06
+|area_water_sq_mi         = 0.10
+|area_water_percent       = 0.96
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 5621
+|population_density_km2   = 553.71
+|population_density_sq_mi = 1433.93
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = Eastern (EST)
+|utc_offset               = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST           = &minus;4
+||coordinates             = {{coord|27|14|38|N|80|49|17|W|region:US-FL|display=it}}<ref name=gnis/>
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 8
+|elevation_ft             = 26
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 34972-34974
+|area_code                = [[Area code 863|863]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-51200<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0288073<ref name=gnis>{{GNIS|288073}}</ref>
+|website                  = http://www.cityofokeechobee.com
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5816
+}}

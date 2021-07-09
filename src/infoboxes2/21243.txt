@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                            = Los Osos
+| official_name                   = 
+| settlement_type                 = [Census-designated place]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Los Osos Irish Hills.jpg
+| imagesize                       = 
+| image_caption                   = View of Los Osos from [[Morro Bay]] harbor
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = USA California
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of California
+| pushpin_mapsize                 = 
+| image_map                       = 
+| map_caption                     = Location within San Luis Obispo county
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = {{flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Luis Obispo County, California|San Luis Obispo]]
+| government_footnotes            = 
+| government_type                 = [[County (United States)|County]] Government
+| leader_title                    = [[San Luis Obispo County]] County Board of Supervisors
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area------------------>
+| area_magnitude                  = 
+| unit_pref                       = US
+| area_footnotes                  = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-07-02 }}</ref>
+| area_total_sq_mi                = 12.783
+| area_land_sq_mi                 = 12.763
+| area_water_sq_mi                = 0.020
+| area_total_km2                  = 33.110
+| area_land_km2                   = 33.057
+| area_water_km2                  = 0.053
+| area_water_percent              = 0.16
+| area_note                       = <!-- Population -->
+| population_as_of                = [[United States Census, 2010|2010]]
+| population_footnotes            = <ref>{{Cite web |url=https://data.census.gov/cedsci/table?q=Los%20Osos,%20CA&tid=DECENNIALSF12010.P1&hidePreview=false|title=U.S. Census Bureau, Decennial Census 2010 |publisher=U.S. Census Bureau |access-date=February 17, 2021}}</ref>
+| population_total                = 14,276
+| population_density_km2          = auto
+
+<!-- General information -->| timezone                        = [[Pacific Time Zone|Pacific (PST)]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+| elevation_footnotes             = <ref name=gnis>{{gnis|2407812}}</ref>
+| elevation_ft                    = 200
+| coordinates                     = {{coord|35|19|21|N|120|49|53|W|type:city_region:US-CA|display=it}}
+<!-- Area/postal codes & others -->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 93402 and 93412
+| area_code                       = [[Area code 805|805]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 2407812
+| website                         = https://www.losososcsd.org/
+| footnotes                       = 
+}}

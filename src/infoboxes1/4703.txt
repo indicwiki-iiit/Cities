@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = Sooke
+|official_name          = District of Sooke<ref name=BCmunis>{{cite web | url=http://www.cscd.gov.bc.ca/lgd/infra/library/Name%20Incorp%202011.xls | title=British Columbia Regional Districts, Municipalities, Corporate Name, Date of Incorporation and Postal Address | publisher=British Columbia Ministry of Communities, Sport and Cultural Development | type=[[Microsoft Excel|XLS]] | access-date=November 2, 2014}}</ref>
+|other_name             = 
+|native_name            = 
+|nickname               = 
+|settlement_type        = [[List of district municipalities in British Columbia|District municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Sooke Basin View - panoramio.jpg
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_map              = {{Location map |CAN BC Capital
+|label = Sooke
+|mark = Western Canada Map Assets Town.svg
+|marksize = 6
+|position = top
+|lat_deg = 48.382193
+|lon_deg = -123.728946
+}}
+|map_caption            = Location of Sooke within the [[Capital Regional District]]
+|pushpin_map            = Canada British Columbia
+|pushpin_map_caption    = Location of Sooke within British Columbia
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{BC}}
+|subdivision_type2      = [[Regions of Canada#British Columbia|Region]]
+|subdivision_name2      = [[Vancouver Island]]
+|subdivision_type3      = [[Regional districts of British Columbia|Regional district]]
+|subdivision_name3      = [[Capital Regional District, British Columbia|Capital Regional District]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Maja Tait
+|leader_title1          = Councillors
+|leader_name1           = Jeff Bateman, Al Beddows, Ebony Logins, Megan McMath; Tony St-Pierre; Dana Lajeunesse; 
+|leader_title2          = By Election September 28, 2019
+|leader_name2           = Dana Lajeunesse won the By-Election replacing Councillor Brenda Parkinson (deceased June 2019)
+|established_title      = Incorporated
+|established_date       = December 7, 1999
+|established_title2     = 
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area    --------------------->
+|unit_pref              = 
+|area_footnotes         = <ref name="Census2016">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=5917052&Geo2=CD&Code2=5917&Data=Count&SearchText=sooke&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=Sooke, District municipality [Census subdivision], British Columbia and Capital, Regional district [Census division], British Columbia |publisher=[[Statistics Canada]] |date=January 23, 2017 |access-date=February 8, 2017}}</ref>
+|area_total_km2         = 56.62
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+|area_water_percent     = 
+<!-- Population   ----------------------->
+|population_as_of       = [[Canada 2016 Census|2016]]
+|population_footnotes   = <ref name="Census2016"/>
+|population_note        = 
+|population_total       = <!--CENSUS 2016 DATA ONLY, DO NOT USE ESTIMATES -->13,001
+|population_density_km2 = 229.6
+<!-- General information  --------------->
+|timezone               = [[Pacific Standard Time|PST]]
+|utc_offset             = −8
+|timezone_DST           = PDT
+|utc_offset_DST         = −7
+|coordinates            = {{coord|48|22|34|N|123|44|16|W|region:CA-BC|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> tags-->
+|elevation_m            = 50
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of V postal codes of Canada|V9Z]]
+|area_code              = 
+|blank_name             = [[List of British Columbia provincial highways|Highways]]
+|blank_info             = [[British Columbia Highway 14|14]]
+|blank1_name            = Waterways
+|blank1_info            = [[Strait of Juan de Fuca]]
+|website                = {{Official URL}}
+|footnotes              = 
+}}

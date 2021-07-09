@@ -1,0 +1,29 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Dolni Chiflik
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Dolni Chiflik|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Dolni Chiflik
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+native_name=Долни чифлик|
+|
+subdivision_name1=[[Varna Province|Varna]]|
+population_total=6,706|population_footnotes=<ref name="statistika"/>|
+population_as_of=December 2009|
+elevation_m=45|
+postal_code=9120|
+area_code=05142|
+blank_info=B|blank_name= [[Bulgarian car number plates|License plate]]|
+|coordinates            = {{coord|42|59|N|27|43|E|region:BG|display=inline,title}}
+|leader_name=Krasimira Anastasova|
+}}

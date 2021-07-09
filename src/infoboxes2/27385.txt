@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name = South Williamsport, Pennsylvania
+|settlement_type = [[Borough (Pennsylvania)|Borough]]
+|nickname = 
+|motto = 
+
+<!-- Images -->
+|image_skyline = South Williamsport Borough Hall.jpg
+|imagesize = 250px
+|image_caption = Borough hall
+|image_flag = 
+|image_seal = 
+
+<!-- Maps -->
+|image_map = File:Lycoming County Pennsylvania Incorporated and Unincorporated areas South Williamsport Highlighted.svg
+|mapsize = 250px
+|map_caption = Location of South Williamsport in Lycoming County, Pennsylvania.
+|image_map1 = Map of Pennsylvania highlighting Lycoming County.svg
+|mapsize1 = 250px
+|map_caption1 = Map of Pennsylvania highlighting Lycoming County
+
+<!-- Location -->
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Pennsylvania]]
+|subdivision_type2 = [[List of counties in Pennsylvania|County]]
+|subdivision_name2 = [[Lycoming County, Pennsylvania|Lycoming]]
+
+<!-- Government -->
+|government_footnotes = 
+|government_type = 
+|leader_title = Mayor
+|leader_name = David J. Lechniak
+|leader_title1 = 
+|leader_name1 = 
+|established_title = Settled
+|established_date = 1790
+|established_title1 = Incorporated
+|established_date1 = 1886
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude = 
+|area_total_km2 = 5.60
+|area_land_km2 = 4.92
+|area_water_km2 = 0.68
+|area_total_sq_mi = 2.16
+|area_land_sq_mi = 1.90
+|area_water_sq_mi = 0.26
+
+<!-- Population -->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_total = 6379
+|population_density_km2 = 1233.76
+|population_density_sq_mi = 3195.37
+
+<!-- General information -->
+|timezone = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = -5
+|timezone_DST = EDT
+|utc_offset_DST = -4
+|elevation_footnotes = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m = 159
+|elevation_ft = 522
+|coordinates = {{coord|41|13|45|N|77|0|2|W|region:US_type:city|display=inline,title}}
+|postal_code_type = [[ZIP code]]
+|postal_code = 17702
+|area_code = [[Area code 570|570]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 42-72648<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info = 1213653<ref name="GR3" />
+|website = {{URL|southwilliamsport.net}}
+|footnotes = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6068
+}}

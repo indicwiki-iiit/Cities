@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Tell Abyad
+| native_name                     = تَلّ أَبْيَض<!-- for cities whose native name is not in English -->
+| other_name                      = 
+| settlement_type                 = Town
+<!-- images and maps  ----------->
+| image_skyline                   = Tall Al Abyad - panoramio.jpg
+| image_caption                   = Tell Abyad, 2009
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| nickname                        = 
+| motto                           = 
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 250
+| pushpin_map_caption             = Location in Syria
+<!-- Location ------------------>| coordinates                     = {{coord|36|41|51|N|38|57|24|E|region:SY-RA|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Syria}}
+| subdivision_type1               = [[Governorates of Syria|Governorate]]
+| subdivision_name1               = [[Raqqa Governorate|Raqqa]]
+| subdivision_type2               = [[Districts of Syria|District]]
+| subdivision_name2               = [[Tell Abyad District|Tell Abyad]]
+| subdivision_type3               = [[Nahiyah|Subdistrict]]
+| subdivision_name3               = [[Tell Abyad Subdistrict|Tell Abyad]]
+| subdivision_type4               = 
+| subdivision_name4               = 
+| subdivision_type6               = 
+| subdivision_name6               = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| government_type                 = <!-- Politics ----------------->
+| government_footnotes            = 
+| leader_title                    = 
+| leader_name                     = 
+| total_type                      = Town
+<!-- Area    --------------------->| unit_pref                       = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi                = 
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi                 = 
+| area_water_km2                  = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = 350
+| elevation_ft                    = 1150
+| population_footnotes            = <ref name=census2004>{{cite web |title=General Census of Population and Housing 2004: ''Tell Abyad nahiyah''|url=http://www.cbssyr.sy/new%20web%20site/General_census/census_2004/NH/TAB11-5-2004.htm |publisher=Syrian [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] |language=ar |access-date=15 October 2015}} Also available in English:
+{{cite web |title=Syria: 2004 census data |url=https://www.humanitarianresponse.info/en/operations/syria/dataset/syrian-arab-republic-other |publisher=[[United Nations Office for the Coordination of Humanitarian Affairs|UN OCHA]] |access-date=15 October 2015}}</ref>
+<!-- Population   ----------------------->| population_total                = 14825
+| population_as_of                = 2004 census
+| population_density_km2          = 
+| population_blank1_title         = [[Nahiyah]]
+| population_blank1               = 44671
+| population_note                 = 
+| demographics_type1              = <!--Religions-->
+| demographics1_title1            = 
+| demographics1_info1             = 
+| demographics1_title2            = 
+| demographics1_info2             = 
+| demographics_type2              = <!--Ethnicity-->
+| demographics2_title1            = 
+| demographics2_info1             = 
+| demographics2_title2            = 
+| demographics2_info2             = <!-- General information  --------------->
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+<!-- Area/postal codes & others -------->| postal_code_type                = P-Code
+| postal_code                     = C5792
+| area_code                       = 
+| geocode                         = SY110200
+| website                         = 
+| parts_type                      = [[Turkish occupation of northern Syria|Control]]
+| parts_style                     = para
+| p1                              = {{TUR}}<br>{{flagicon|Syrian opposition}} [[Syrian Interim Government]]
+| name                            = 
+}}

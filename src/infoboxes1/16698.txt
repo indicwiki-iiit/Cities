@@ -1,0 +1,88 @@
+{{Infobox settlement
+|name                     = Florissant, Missouri
+|official_name            = City of Florissant
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Florissant City Hall (8681562255).jpg
+|imagesize                = 
+|image_caption            = Florissant City Hall sign, April 2013
+|image_flag               = Flag of Florissant, Missouri.png
+|image_seal               = Seal of Florissant, Missouri.png
+
+<!-- Maps -->
+|image_map = St._Louis_County_Missouri_Incorporated_and_Unincorporated_areas_Florissant_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Florissant, Missouri
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Missouri]]
+|subdivision_type2        = [[List of counties in Missouri|County]]
+|subdivision_name2        = [[St. Louis County, Missouri|St. Louis]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Tim Lowery
+|leader_title1            = [[City Council]]
+|leader_name1             = {{Collapsible list
+|1=Andrew Harris (Ward 1)
+|2=Paul Manganelli (Ward 2)
+|3=Joe Eagan (Ward 3)
+|4=Jeff Caputa (Ward 4)
+|5=Keith Schildroth (Ward 5)
+|6=Gerard Henke (Ward 6)
+|7=Jackie Pagano (Ward 7)
+|8=Robert Parson, Jr. (Ward 8)
+|9=Tommy Siam (Ward 9)<ref>{{cite web|url=https://www.florissantmo.com/department/official.php?structureid=13|title=Florissant, Missouri City Council|access-date=2020-02-22}}</ref>
+}}
+|established_title        = Founded
+|established_date         = 1785
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_29.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 33.31
+|area_land_km2            = 32.51
+|area_water_km2           = 0.80
+|area_total_sq_mi         = 12.86
+|area_land_sq_mi          = 12.55
+|area_water_sq_mi         = 0.31
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 50952
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 52158
+|population_density_km2   = 1567.42
+|population_density_sq_mi = 4059.60
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 175
+|elevation_ft             = 574
+|coordinates              = {{coord|38|47|52|N|90|19|32|W|region:US-MO|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 63031, 63032, 63033, 63034
+|area_code                = [[Area code 314|314]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 29-24778<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0756063<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = http://www.florissantmo.com/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

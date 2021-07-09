@@ -1,0 +1,46 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = New Iberia, Louisiana
+| official_name                   = City of New Iberia
+| settlement_type                 = [[City]]
+<!-- images, nickname, motto --->| image_skyline                   = New Iberia, Louisiana Feb 2019 BPOE.jpg
+| image_caption                   = Downtown
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| map_caption                     = Location in [[Louisiana]]
+| pushpin_label                   = New Iberia
+| pushpin_map                     = Louisiana#USA
+| coordinates                     = {{coord|30|0|13|N|91|49|6|W|region:US-LA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = States
+| subdivision_name1               = [[Louisiana]]
+| subdivision_type2               = Parish
+| subdivision_name2               = [[Iberia Parish, Louisiana|Iberia]]
+| established_title               = Settled
+| established_date                = 1779
+| established_title2              = Incorporated (city)
+| established_date2               = 1839
+| leader_party                    = 
+| leader_title                    = 
+| leader_name                     = <!-- add &nbsp; (no-break space) to disable automatic links -->
+| area_total_km2                  = 29.14
+<!-- ALL fields with measurements have automatic unit conversion -->| area_total_sq_mi                = 11.25
+<!-- see table @ Template:Infobox settlement for details -->| area_land_km2                   = 28.85
+| area_land_sq_mi                 = 11.14
+| area_water_km2                  = 0.29
+| area_water_sq_mi                = 0.11
+| population_footnotes            = 
+| population_total                = 30617
+| population_as_of                = [[2010 United States Census|2010]]
+| population_density_km2          = 986.25
+<!-- for automatic calculation of any density field, use: auto -->| population_density_sq_mi        = 2554.45
+| website                         = {{URL|www.cityofnewiberia.com/site.php}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 28454
+| unit_pref                       = Imperial
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 22-54035
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_22.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+}}

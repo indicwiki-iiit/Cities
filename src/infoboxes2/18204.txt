@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name = Wooster, Ohio
+|official_name            = City of Wooster
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = File:Downtown Wooster, Ohio, overlooking the square and gazebo.jpg
+|imagesize                = 250px
+|image_caption            = Downtown overlooking the square and gazebo, July 2012
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Wayne County Ohio Wooster highlighted.png
+|mapsize                  = 250px
+|map_caption              = Location of Wooster in Wayne County and state of Ohio
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Wayne County, Ohio|Wayne]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor–council government|Mayor-Council]]
+|leader_title             = [[Mayor]]
+|leader_name              =  Robert Breneman ([[Republican Party (United States)|R]])
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = 1808
+|established_title2       = 
+|established_date2        = 
+|established_title3       = 
+|established_date3        = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 44.25
+|area_land_km2            = 44.13
+|area_water_km2           = 0.12
+|area_total_sq_mi         = 17.09
+|area_land_sq_mi          = 17.04
+|area_water_sq_mi         = 0.05
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 26394
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 26119
+|population_density_km2   = 598.08
+|population_density_sq_mi = 1549.03
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 304
+|elevation_ft             = 997
+|coordinates              = {{coord|40|48|33|N|81|56|14|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44691
+|area_code                = [[Area code 330|330]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-86548<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1049345<ref name="GR3" />
+|website                  = https://www.woosteroh.com/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name            = Middle River, Maryland
+|settlement_type          = [[Census-designated place]]
+|image_skyline            = Middlerivermd.jpg
+|imagesize                = 250px
+|image_caption            = Middle River, Maryland
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_map = Baltimore_County_Maryland_Incorporated_and_Unincorporated_areas_Middle_River_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Middle River, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|coordinates              = {{coord|39|20|2|N|76|26|26|W|region:US-MD_type:city|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = {{flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{flagicon image|Flag of Baltimore County, Maryland.svg}} [[Baltimore County, Maryland|Baltimore]]
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 21.9
+|area_total_sq_mi         = 8.5
+|area_land_km2            = 20.0
+|area_land_sq_mi          = 7.7
+|area_water_km2           = 1.9
+|area_water_sq_mi         = 0.7
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 8
+|elevation_ft             = 26
+|population_total         = 25191
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_km2   = auto
+|population_density_sq_mi =
+
+<!-- General information -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 21220
+|area_code                = [[Area code 410|410]] and 443
+|website                  = 
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-52300
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0590793
+}}

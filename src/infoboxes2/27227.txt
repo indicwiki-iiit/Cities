@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Fruit Heights, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Fruit Heights Utah City Hall.jpeg
+|imagesize                = 
+|image_caption            = Fruit Heights City Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Davis County Utah incorporated and unincorporated areas Fruit Heights highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Davis County, Utah|Davis County]] and the state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[County (United States)|County]]
+|subdivision_name2        = [[Davis County, Utah|Davis]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor or Chief Executive Officer
+|leader_name              = John M. Pohlman
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Incorporated town|Incorporated]]
+|established_date         = 1939
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 5.95
+|area_land_km2            = 5.93
+|area_water_km2           = 0.02
+|area_total_sq_mi         = 2.30
+|area_land_sq_mi          = 2.29
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 4987
+|population_est           = 6221
+|pop_est_as_of            = 2019
+|population_density_km2   = 1049.94
+<!--for 2018 pop est.-->
+|population_density_sq_mi = 2718.97
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = 
+|elevation_m              = 1432
+|elevation_ft             = 4698
+|coordinates              = {{coord|41|1|41|N|111|54|38|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84037
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-27490<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1441248<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.fruitheightscity.com}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

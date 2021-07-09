@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Walnut Grove
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = CornerWalnutGroveMN.jpg
+|imagesize                = 
+|image_caption            = U.S. Post Office, First State Bank Building, and water tower in Walnut Grove
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Walnut_Grove_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Walnut Grove, Minnesota
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Redwood County, Minnesota|Redwood]]
+
+<!-- Government -->
+|established_title        = Founded
+|established_date         = 1874
+|established_title2       = Incorporated
+|established_date2        = 1879
+|established_title3       = 
+|established_date3        = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 2.82
+|area_land_km2            = 2.82
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 1.09
+|area_land_sq_mi          = 1.09
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 806
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov" />
+|population_total         = 871
+|population_density_km2   = 285.36
+|population_density_sq_mi = 738.77
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 371
+|elevation_ft             = 1217
+|coordinates              = {{coord|44|13|25|N|95|28|8|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 56180
+|area_code                = [[Area code 507|507]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-67846<ref name="GR2">{{Cite web |url=https://www.census.gov |title=U.S. Census website |publisher=[[United States Census Bureau]] |access-date=January 31, 2008}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0653743<ref name="GR3">{{Cite web |url=http://geonames.usgs.gov |title=US Board on Geographic Names |date=October 25, 2007 |publisher=[[United States Geological Survey]] |access-date=January 31, 2008}}</ref>
+|website                  = {{URL|http://www.walnutgrovemn.org/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

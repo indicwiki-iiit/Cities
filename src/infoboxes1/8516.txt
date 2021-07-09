@@ -1,0 +1,103 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Luang Prabang}}
+| native_name                     = {{lower|0.2em|{{nobold|ຫຼວງພະບາງ, ຫລວງພຣະບາງ}}}}
+| native_name_lang                = Lao
+| other_name                      = {{lower|0.2em|Louangphabang}}
+| settlement_type                 = [[Districts of Laos|District]] & [[List of cities in Laos|municipality]]
+| official_name                   = Luang Prabang District
+| image_skyline                   = File:Phou si Luang Prabang Laos プーシーの丘 ラオス・ルアンプラバーン DSCF6777.jpg
+| imagesize                       = 
+| image_caption                   = Southeast Luang Prabang
+<!-- images and maps  ------------------>| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = Laos<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_map_caption             = Location in Laos
+| pushpin_mapsize                 = 250
+
+<!-- Location ---------------------->| coordinates                     = {{coord|19|53|N|102|08|E|region:LA|display=inline}}
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = Laos
+| subdivision_type1               = [[Provinces of Laos|Province]]
+| subdivision_type2               = [[Districts of Laos|District]]
+| subdivision_type3               = 
+| subdivision_type4               = 
+| subdivision_name1               = [[Luang Prabang Province|Luang Prabang]]
+| subdivision_name2               = Luang Prabang District
+| subdivision_name3               = 
+| subdivision_name4               = <!-- Politics ------------------------>
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area ------------------------------>
+| government_footnotes            = 
+| government_type                 = Local Committee for World Heritage Louangphabang<ref name=Sengnaly>{{cite web|last1=Sengnaly|first1=Phanthong|title=Conference of Local Committee For World Heritage|url=http://www.luangprabang-heritage.org/index.php/en/more-eng/news-eng/97-conference_en.html|website=www.luangprabang-heritage.org|access-date=16 June 2016}}</ref>
+| leader_title                    = President of the Local Committee for World Heritage Louangphabang</ref name=Sengnaly>
+| leader_name                     = 
+| leader_title1                   = Mayor of Luang Prabang District</ref name=Sengnaly> <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| unit_pref                       = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population   --------------------------->
+| elevation_footnotes             = <ref name= NOAA/>
+| elevation_m                     = 305
+| elevation_ft                    = <!-- Area/postal codes & others ------------------>
+| population_total                = 55,027
+| population_as_of                = 
+| population_footnotes            = 
+| population_density_km2          = 
+| population_density_sq_mi        = 
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  ---------------------->
+| population_blank2_title         = 
+| population_blank2               = 
+| population_note                 = 
+| postal_code_type                = Post Code <!-- Zip Code, Postcode, Post code, Postal code... -->
+| postal_code                     = 06000<ref>{{cite web|title=Laos Postal Explorer|url=http://pe.usps.com/text/imm/il_020.htm|website=pe.usps.com|access-date=19 October 2016}}</ref>
+| area_code                       = 
+| website                         = http://tourismluangprabang.org/
+| footnotes                       = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |ID = 479
+  |Year = 1995
+  |Criteria = Cultural: ii, iv, v
+  |Area = 820 ha
+  |Buffer_zone = 12,560 ha 
+  }}
+| image_dot_map                   = 
+| leader_title2                   = 
+| leader_name2                    = 
+| leader_title3                   = 
+| leader_name3                    = 
+| leader_title4                   = 
+| leader_name4                    = 
+| timezone                        = [[Time in Laos|ICT]]
+| utc_offset                      = +7
+}}

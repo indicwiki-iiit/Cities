@@ -1,0 +1,73 @@
+{{Infobox settlement
+| name                            = Herndon, Virginia
+| official_name                   = Town of Herndon
+| settlement_type                 = [[Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Herndon, VA.jpg
+| imagesize                       = 
+| image_caption                   = Central Herndon
+| image_flag                      = 
+| image_seal                      = Herndon seal.png
+
+<!-- Maps -->| pushpin_map                     = USA Virginia Northern#USA Virginia#USA
+| pushpin_label                   = 
+| pushpin_label_position          = 
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = 
+| image_map                       = Fairfax County Virginia Incorporated and Unincorporated Areas Herndon highlighted.svg
+| map_caption                     = Location within Fairfax county
+| image_map1                      = 
+| mapsize1                        = 200px
+| map_caption1                    = Location of Herndon in [[Fairfax County, Virginia|Fairfax County]], [[Virginia]]
+| subdivision_type                = Country
+| subdivision_name                = {{Flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|Virginia}}
+| subdivision_type2               = [[List of counties in Virginia|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Fairfax County, Virginia.svg}} [[Fairfax County, Virginia|Fairfax]]
+| government_footnotes            = 
+| government_type                 = Town
+| leader_title                    = Mayor
+| leader_name                     = Sheila A. Olem
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = 1858
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_51.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 4.29
+| area_land_sq_mi                 = 4.29
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 23292
+| population_est                  = 24532
+| pop_est_as_of                   = 2020
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_density_sq_mi        = 5738.51
+
+<!-- General information -->| timezone                        = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_ft                    = 361
+| coordinates                     = {{coord|38|58|17|N|77|23|19|W|region:US-VA_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 20170
+| area_code                       = [[Area code 703|703]], [[Area code 571|571]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 51-36648<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1495675<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = http://www.herndon-va.gov
+| footnotes                       = 
+| area_total_km2                  = 11.12
+| area_land_km2                   = 11.10
+| area_water_km2                  = 0.02
+| population_density_km2          = 2215.78
+}}

@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Salé
+| native_name            = {{unbulleted list
+    |{{native name|ar|سلا}}
+    |{{native name|ber|ⵙⵍⴰ}}
+}}
+|nickname               = 
+|settlement_type        = [[List of cities in Morocco|City]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =Monuments_de_Salé.png
+|imagesize              = 275px
+|image_caption          =
+|image_flag             = Drapeau_Salé.png
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+|pushpin_label_position = left
+|pushpin_relief           = yes
+|pushpin_mapsize        = 
+|pushpin_map_caption    = Location within Morocco
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_name1      = [[Rabat-Salé-Kénitra]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_type        = <!--Don't put anything here it's a city article-->
+|leader_title           = Mayor
+|leader_name            = [[Jamae Mouatassime]]<ref>[http://www.villedesale.ma/fr/index.php?option=com_content&view=article&id=98:curriculum-vitae&catid=43:president&Itemid=85 Le Président de la commune urbaine de Salé] {{webarchive|url=https://web.archive.org/web/20140826120051/http://www.villedesale.ma/fr/index.php?option=com_content&view=article&id=98:curriculum-vitae&catid=43:president&Itemid=85 |date=26 August 2014 }}{{in lang|fr}}</ref>
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2014
+|population_footnotes           =<ref name=citydefn>{{cite web |url=http://rgph2014.hcp.ma/file/165548/ |title=Note de présentation des premiers résultats du Recensement Général de la Population et de l'Habitat 2014 |language=fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning]] |page=8 |date=20 March 2015 |access-date=9 October 2017}}</ref>
+|population_note                ={{refn|The [[Haut Commissariat au Plan|High Commission for Planning]] defines the city of Salé as comprising the five ''[[Administrative divisions of Morocco|arrondissements]]'' of Bab Lamrissa, Bettana, Hssaine, Layayda and Tabriquet.<ref name=citydefn/>|group=lower-alpha}}
+|population_total               =890403
+|population_rank        = [[List of cities in Morocco|5th in Morocco]]<ref name=citydefn/>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+| population_demonym              = Slawi
+<!-- General information  --------------->
+|timezone                       = [[Central European Time|CET]]
+|utc_offset                     = +1
+|coordinates            = {{coord|34|02|N|6|48|W|region:MA|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 0 to 115
+|elevation_ft           = 0 to 377
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = {{Notelist}}
+}}

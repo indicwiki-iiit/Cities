@@ -1,0 +1,65 @@
+{{Infobox settlement <!-- modelled after [[Seoul]] and Daegu -->
+| name                            = {{raise|0.1em|Daegu}}
+| official_name                   = Daegu Metropolitan City<br/>{{lower|0.1em|{{nobold|{{lang|ko-Hang|대구광역시}}}}}}
+| native_name                     = {{lower|0.1em|{{lang|ko-Hang|대구시}}}}
+| settlement_type                 = [[Special cities of South Korea|Metropolitan City]]
+| translit_lang1                  = &nbsp;
+| image_skyline                   = 대구광역시 메인이미지.jpg
+| imagesize                       = 250px
+| image_caption                   = '''Top''': downtown Samdeok-dong, '''Second''': a portrait in Kim Gwangseok Street in Bancheon, Daegu Woobang Tower, ARC cultural center in Gangjeongbon riverside area, '''Bottom''': Daegu Jeli Church and surrounding area, Gatbawi Statue in Gwanamsa Temple
+| image_flag                      = Flag of Daegu.svg
+| image_seal                      = Symbol of Daegu.svg
+| seal_type               = Logo
+| image_blank_emblem              = Brand Slogan of Daegu (2004–2019).svg
+| blank_emblem_type               = Wordmark
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| map_alt                         = 
+| map_caption                     = 
+| pushpin_map                     = #South Korea#Asia#Earth
+| pushpin_label_position          = right
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = 
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|35|52|N|128|36|E|region:KR-27_type:city(2,500,000)|display=it}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = Country
+| subdivision_name                = {{flag|South Korea}}
+| subdivision_type1               = [[Regions of Korea|Region]]
+| subdivision_name1               = [[Yeongnam]]
+| parts_type                      = Districts
+| parts                           = 7
+| government_type                 = [[Mayor–council government|Mayor–Council]]
+| leader_title                    = [[Mayor of Daegu|Mayor]]
+| leader_name                     = [[Kwon Young-jin (politician)|Kwon Young-jin]] {{small|([[People Power Party (South Korea)|People Power]])}}
+| leader_title1                   = Body
+| leader_name1                    = [[Daegu Metropolitan Council]]
+| area_total_km2                  = 883.52
+| population_total                = 2,468,222
+| population_as_of                = 2019
+| population_footnotes            = <!-- population_rank      = 4th -->
+| population_density_km2          = 2793
+| population_blank1_title         = Dialect
+| population_blank1               = [[Gyeongsang dialect|Gyeongsang]]
+| iso_code                        = KR-27
+| blank_name_sec2                 = GDP
+| blank_info_sec2                 = [[American Dollar|US$]] 42.9&nbsp;billion<ref name="brookingsgdp">{{cite web |url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global city GDP 2014 |publisher=Brookings Institution|access-date=18 November 2014|url-status=dead|archive-url=https://www.webcitation.org/6H7Jql2A9?url=http://www.brookings.edu/research/interactives/global-metro-monitor-3|archive-date=4 June 2013}}</ref>
+| blank1_name_sec2                = GDP per capita
+| blank1_info_sec2                = US$22,481<ref name="brookingsgdp" />
+| website                         = {{url|1=http://www.daegu.go.kr/english/index.do/|2=Official website (English)}}
+| translit_lang1_type1            = [[Hangul]]
+| translit_lang1_info1            = {{lang|ko-Hang|{{linktext|대구}}{{linktext|광|역|시}}}}
+| translit_lang1_type2            = [[Hanja]]
+| translit_lang1_info2            = {{lang|ko-Hant|{{linktext|大|邱|廣|域|市}}}}
+| translit_lang1_type3            = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3            = {{nowrap|Daegu-gwangyeoksi}}
+| translit_lang1_type4            = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info4            = {{nowrap|Taegu-kwangyŏksi}}
+| area_code                       = +82-53
+| blank_name                      = Flower
+| blank_info                      = [[Magnolia]]
+| blank1_name                     = Tree
+| blank1_info                     = [[Fir]]
+| blank2_name                     = Bird
+| blank2_info                     = [[Eagle]]
+}}

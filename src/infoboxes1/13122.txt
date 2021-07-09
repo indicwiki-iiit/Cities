@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = City of Rohnert Park
+| settlement_type                 = [[City (California)|City in California]]
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+| image_skyline                   = RohnertParkTFCSign_12399.png
+| image_caption                   = Rohnert Park sign between Commerce Boulevard and U.S. 101
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_blank_emblem              = RohnertParkLogoEd2662.jpg
+| blank_emblem_type               = [[Logo]]
+| blank_emblem_size               = 155x119px
+| nickname                        = 
+| motto                           = "The Friendly City"
+| image_map                       = Sonoma_County_California_Incorporated_and_Unincorporated_areas_Rohnert_Park_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Sonoma County, California|Sonoma County]] and the U.S. state of [[California]]
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location ------------------>
+| coordinates                     = {{coord|38|20|50|N|122|41|43|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{USA}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Sonoma County, California|Sonoma]]
+<!-- Politics ----------------->
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = August 28, 1962<ref name="CAC">{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+| government_type                 = [[Council–manager government|Council–manager]]<ref name=govt>{{Cite web|url=http://www.ci.rohnert-park.ca.us/index.aspx?page=3|title=Government|publisher=City of Rohnert Park, California|access-date=January 30, 2015}}</ref>
+| leader_title                    = [[Mayor]]
+| leader_name                     = Gerard Giudice
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Jackie Elward
+| leader_title2                   = [[City Manager]]
+| leader_name2                    = Darrin Jenkins<ref name=Manager>{{Cite web|url=http://www.ci.rohnert-park.ca.us/city_hall/administration/city_manager|title=City Manager - City of Rohnert Park|access-date=November 26, 2016}}</ref>
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 7.29
+| area_total_km2                  = 18.88
+| area_land_sq_mi                 = 7.29
+| area_land_km2                   = 18.87
+| area_water_sq_mi                = 0.01
+| area_water_km2                  = 0.01
+| area_water_percent              = 0.07
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1656263|Rohnert Park|access-date=November 3, 2014}}</ref>
+| elevation_ft                    = 105
+| elevation_m                     = 32
+<!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 40971
+| population_density_sq_mi        = 5941.67
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+<!-- Area/postal codes & others -------->
+| postal_code_type                = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 24, 2014}}</ref>
+| postal_code                     = 94926–94928
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 707|707]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|62546}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1656263}}, {{GNIS 4|2410985}}
+| website                         = {{URL|www.ci.rohnert-park.ca.us}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 43291
+| population_density_km2          = 2294.14
+}}

@@ -1,0 +1,83 @@
+{{Infobox settlement
+| name                            = Missoula
+| settlement_type                 = [[City]]
+| image_skyline                   = Missoula Collage Wikipedia 8.jpg
+| imagesize                       = 300px
+| image_alt                       = Downtown Missoula
+| image_flag                      = 
+| image_seal                      = Missoula City logo.png
+| nickname                        = The Garden City, River City, Zootown (informal)<ref name="About Missoula">{{cite web |url=http://destinationmissoula.org/about-missoula |title=About Missoula |publisher=Destination Missoula |archive-url=https://web.archive.org/web/20150611185610/http://destinationmissoula.org/about-missoula |archive-date=June 11, 2015 |url-status=dead |access-date=August 26, 2015 }}</ref>
+| motto                           = "The Discovery Continues"<ref name="About Missoula"/>
+| image_map                       = Missoula County Montana Incorporated and Unincorporated areas Missoula Highlighted.svg
+| map_caption                     = Location within Missoula County
+| pushpin_map                     = Montana#USA
+| pushpin_map_caption             = Location within Montana##Location within the United States
+| pushpin_relief                  = 
+| pushpin_label                   = Missoula
+| coordinates                     = {{coord|46|51|45|N|114|0|42|W|region:US-MT_type:city|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Montana|County]]
+| subdivision_name1               = [[Montana]]
+| subdivision_name2               = [[Missoula County, Montana|Missoula]]
+| established_title               = Founded
+| established_date                = 1866
+| established_title1              = Incorporated (town)
+| established_date1               = March 8, 1883
+| established_title2              = Incorporated (city)
+| established_date2               = March 12, 1885
+| founder                         = {{plainlist|
+* [[Christopher P. Higgins]]
+* [[Francis Lyman Worden]]
+ }}
+<!-- Area -->
+| government_type                 = [[Mayor–Council]]
+| governing_body                  = [[Missoula City Council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[John Engen]] ([[Democratic Party (United States)|D]])
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_30.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 89.76
+| area_total_sq_mi                = 34.66
+| area_land_km2                   = 89.27
+| area_land_sq_mi                 = 34.47
+| area_water_km2                  = 0.49
+| area_water_sq_mi                = 0.19
+| area_urban_km2                  = {{convert| 117663864|m2|km2|disp=output number only|1}}
+| area_urban_sq_mi                = {{convert| 117663864|m2|mi2|disp=output number only|2}}
+| area_metro_km2                  = {{convert|6780456366|m2|km2|disp=output number only|0}}
+<!-- Population -->
+| area_metro_sq_mi                = {{convert|6780456366|m2|mi2|disp=output number only|0}}
+| elevation_m                     = 978
+| elevation_ft                    = 3209
+| population_total                = 66788
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_density_km2          = 845.95
+<!--   ≈ 69821 ÷ (74853977m² in km²)   -->| population_density_sq_mi        = 2191.03
+<!--   ≈ 69821 ÷ (74853977m² in mi²)   -->| population_est                  = 75516
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 118,791 (US: [[List of Metropolitan Statistical Areas|327th]])
+| population_rank                 = US: 480th
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 59801–59804, 59806–59808<ref name="ZIPcode">{{cite web|archive-url=https://web.archive.org/web/20150809025341/http://tools.usps.com/go/ZipLookupResultsAction%21input.action?city=Missoula&state=MT |archive-date=August 9, 2015 |url=https://tools.usps.com/go/ZipLookupResultsAction!input.action?city=Missoula&state=MT |title=Look Up a ZIP Code |publisher=USPS |url-status=dead}}</ref>
+| postal2_code_type               = [[University of Montana]] ZIP code
+| postal2_code                    = 59812<ref name="ZIPcode"/>
+| area_code                       = [[Area code 406|406]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = [http://ci.missoula.mt.us ci.missoula.mt.us]
+| footnotes                       = 
+| timezone                        = [[Mountain Time Zone|Mountain]]
+| utc_offset                      = −7
+| timezone_DST                    = Mountain
+| utc_offset_DST                  = −6
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 30-50200
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0787504
+| blank2_name                     = [[List of Montana numbered highways|Highways]]
+| blank2_info                     = [[File:I-90.svg|20px|link=Interstate 90]] [[File:US 12.svg|20px|link=U.S. Route 12]] [[File:US 93.svg|20px|link=U.S. Route 93]] [[File:MT-200.svg|20px|link=Montana Highway 200]]
+}}

@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                    = Gages Lake, Illinois
+| native_name             = 
+| other_name              = 
+| settlement_type         = [[List of census-designated places in Illinois|Census-designated place]]
+<!-- images, nickname, motto -->
+| image_skyline           = 
+| image_caption           = 
+| image_flag              = 
+| image_shield            = 
+| motto                   = 
+| nickname                = 
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = State
+| subdivision_name1       = Illinois
+| subdivision_type2       = County
+| subdivision_name2       = [[Lake County, Illinois|Lake]]
+| subdivision_type3       = Township
+| subdivision_name3       = [[Warren Township, Lake County, Illinois|Warren]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Illinois#USA
+| pushpin_label           = Gages Lake
+| pushpin_relief          = 
+| pushpin_map_caption     = Location in Illinois##Location in the United States
+| coordinates             = {{coord|42|21|07|N|87|58|59|W|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- established -->
+| established_title       = 
+| established_date        = 
+<!-- area -->
+| area_footnotes          = 
+| dunam_link              = 
+| area_total_km2          = 8.20
+| area_land_km2           = 7.71
+| area_water_km2          = 0.49
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_ft            = 774
+<!-- population -->
+| population_as_of        = 2010
+| population_footnotes    = 
+| population_total        = 10198
+| population_density_km2  = 1322.6
+| population_density_sq_mi=
+| population_demonym      = 
+<!-- time zone(s) -->
+| timezone1               = [[North American Central Time Zone|CST]]
+| utc_offset1             = -6
+| timezone1_DST           = [[North American Central Time Zone|CDT]]
+| utc_offset1_DST         = -5
+| timezone2               =  
+| utc_offset2             = 
+| timezone2_DST           = 
+| utc_offset2_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          =  
+| area_code               = 
+| geocode                 = 
+| iso_code                = 
+<!-- website, footnotes -->
+| website                 = 
+| footnotes               = <ref name="gnis">{{cite gnis|id=2393015|name=Gages Lake Census Designated Place, Illinois}}</ref>
+}}

@@ -1,0 +1,88 @@
+{{Infobox settlement
+|name = Corte Madera, California
+|official_name            = Town of Corte Madera
+|settlement_type          = [[Town (California)|Town]]
+|image_skyline            = Town Center at Corte Madera 2.jpg
+|imagesize                = 250px
+|image_caption            = Corte Madera Town Center
+|image_map                = File:Marin County California Incorporated and Unincorporated areas Corte Madera Highlighted 0616462.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Corte Madera in Marin County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = San Francisco Bay Area#USA California#USA
+| pushpin_map_caption = Location in the Bay Area##Location in California##Location in the United States
+| pushpin_label = Corte Madera
+|coordinates              = {{coord|37|55|32|N|122|31|39|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=gnis />
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_name2        = [[Marin County, California|Marin]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = June 10, 1916<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Eli Beckman<ref>{{Cite web
+ | url = http://www.ci.corte-madera.ca.us/140/Town-Council
+ | title = Town Council
+ | publisher = Town of Corte Madera
+ | access-date = April 27, 2017}}</ref>
+|leader_title1            = [[California's 2nd State Senate district|State Senator]]
+|leader_name1             = {{Representative|casd|2|fmt=sleader}}<ref name=swd/>
+|total_type                  = Total
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 11.40
+| area_total_sq_mi        = 4.40
+| area_land_km2           = 8.18
+| area_land_sq_mi         = 3.16
+| area_water_km2          = 3.22
+| area_water_sq_mi        = 1.24
+| area_water_percent      = 28.19
+| area_note               = <!-- Population ----------->
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|277492|Corte Madera}}</ref>
+|elevation_m              = 12
+|elevation_ft             = 39
+|population_total         = 9253
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0616462.html|title=Corte Madera (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 9, 2015|archive-url=https://web.archive.org/web/20150413195203/http://quickfacts.census.gov/qfd/states/06/0616462.html|archive-date=April 13, 2015|url-status=dead}}</ref>
+|population_density_km2   = 1191.34
+|population_est           = 9751
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 94925, 94976
+|area_code                = [[Area codes 415 and 628|415/628]]
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|website                  = {{URL|www.ci.corte-madera.ca.us}}
+|footnotes                = 
+|leader_title2            = [[California's 10th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|10|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=December 29, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title3            = [[California's 2nd congressional district|U. S. Rep.]]
+|leader_name3             = {{Representative|cacd|2|fmt=usleader}}<ref>{{Cite GovTrack|CA|2|accessdate=March 8, 2013}}</ref>
+|leader_title4            = [[Marin County Board of Supervisors|Supervisor]]
+|leader_name4             = [[Dennis Rodoni (politician)|Dennis Rodoni]] (District 4)
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = −08:00
+|timezone_DST             = PDT
+|utc_offset_DST           = −07:00
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|16462}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277492}}, {{GNIS 4|2413247}}
+|population_density_sq_mi = 3085.76
+}}

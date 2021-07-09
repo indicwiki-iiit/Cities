@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = City of Manteca
+|native_name              = <!-- for cities whose native name is not in English -->
+|other_name               = 
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = MantecaCA.jpg
+|image_caption            = From the corner of Yosemite and Main in Manteca
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = The Family City 
+|motto                    = 
+<!-- images and maps  ----------->
+|image_map                = San_Joaquin_County_California_Incorporated_and_Unincorporated_areas_Manteca_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Joaquin County, California|San Joaquin County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_mapsize          =
+|pushpin_label            = Manteca
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief           = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|37|48|10|N|121|13|15|W|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[San Joaquin County, California|San Joaquin]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 28, 1918<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Benjamin Cantu<ref>{{Cite web
+ | url = http://www.ci.manteca.ca.us/mayor-council/
+ | title = Mayor and Council
+ | publisher = City of Manteca
+ | access-date = December 17, 2018}}</ref>
+|leader_title1            = [[California's 5th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|5|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 21, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 55.46
+| area_total_sq_mi        = 21.41
+| area_land_km2           = 55.40
+| area_land_sq_mi         = 21.39
+| area_water_km2          = 0.06
+| area_water_sq_mi        = 0.02
+| area_water_percent      = 0.13
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1659046|Manteca|access-date=February 2, 2015}}</ref>
+|elevation_m              = 11
+<!-- Population ----------->
+|elevation_ft             = 36
+|population_total         = 67096
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0645484.html|title=Manteca (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 11, 2015|archive-url=https://web.archive.org/web/20150215185658/http://quickfacts.census.gov/qfd/states/06/0645484.html|archive-date=February 15, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_density_sq_mi = 3881.81
+|population_est           = 83028
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = <!-- Time zones ----------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95336, 95337
+|area_code                = [[Area code 209|209]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.ci.manteca.ca.us}}
+|leader_title2            = [[California's 12th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|12|fmt=sleader}}<ref name=swd/>
+|leader_title3            = [[California's 10th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|10|fmt=usleader}}<ref>{{Cite GovTrack|CA|10}}</ref>
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|45484}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1659046}}, {{GNIS 4|2411024}}
+|population_density_km2 = 1498.80
+}}

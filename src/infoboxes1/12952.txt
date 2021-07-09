@@ -1,0 +1,105 @@
+{{Infobox settlement
+<!-- *** Heading *** -->| name                            = Wheaton
+| native_name                     = 
+| other_name                      = 
+| settlement_type                 = [[City]]
+<!-- *** Names **** -->
+| etymology                       = 
+| official_name                   = 
+| motto                           = 
+| nickname                        = <!-- *** Image *** -->
+| image_skyline                   = Old DuPage County Courthouse.jpg
+| image_caption                   = The historic [[DuPage County Courthouse]] in downtown Wheaton
+| image_size                      = <!-- *** Symbols *** -->
+| flag                            = 
+| symbol                          = <!-- *** Country *** -->
+| subdivision_type                = Country
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Illinois}}
+| subdivision_type2               = [[List of counties in Illinois|Counties]]
+| subdivision_name2               = [[DuPage County, Illinois|DuPage]]
+| subdivision_type3               = [[Civil township|Townships]]
+| subdivision_name3               = [[Milton Township, DuPage County, Illinois|Milton]], [[Winfield Township, DuPage County, Illinois|Winfield]]
+| municipality                    = <!-- *** Family *** -->
+| part                            = 
+| landmark                        = <!-- *** Locations *** -->
+| location                        = 
+| elevation_ft                    = 748
+| prominence_imperial             = 
+| image_map                       = File:DuPage County Illinois Incorporated and Unincorporated areas Wheaton Highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location of Wheaton in DuPage County, Illinois.
+| coordinates                     = {{coord|41|51|22|N|88|06|30|W|region:US-IL_source:GNIS|display=inline,title}}
+| highest                         = 
+| highest_location                = 
+| highest_region                  = 
+| highest_state                   = 
+| highest_elevation_imperial      = 
+| lowest                          = 
+| lowest_location                 = 
+| lowest_region                   = 
+| lowest_state                    = 
+| lowest_elevation_imperial       = <!-- *** Dimensions *** -->
+| length_orientation              = 
+| unit_pref                       = Imperial
+| area_total_sq_mi                = 11.49
+| area_land_sq_mi                 = 11.32
+| area_water_sq_mi                = 0.17
+| area_urban_imperial             = 
+| area_metro_imperial             = 
+<!-- *** Population *** -->
+| population_total                = 52894
+| population_as_of                = [[2010 United States Census|2010]]
+| population_urban                = 
+| population_metro                = 
+| population_density_sq_mi        = 4658.63
+| population_density_urban_imperial = 
+| population_density_metro_imperial = <!-- *** History & management *** -->
+| established_date                = {{start date|1831}}
+| established_title               = Settled
+| established_date2               = February 24, 1859 (village)<br/> April 24, 1890 (city)
+| established_title2              = Incorporated
+| government_type                 = [[Council–manager government|Council–manager]]
+| government_location             = 
+| government_region               = 
+| government_state                = 
+| government_elevation_imperial   = 
+| government_lat_d                = 
+| government_lat_m                = 
+| government_lat_s                = 
+| government_lat_NS               = 
+| government_long_d               = 
+| government_long_m               = 
+| government_long_s               = 
+| government_long_EW              = 
+| leader_name                     = Phillip Suess
+| leader_title                    = [[Mayor]]
+| leader_name1                    = Michael Dzugan
+| leader_title1                   = [[City Manager]]
+| leader_name2                    = {{Collapsible list |title=Members |Michael Barbier|Erica Bray-Parker|Suzanne Fitch|Lynn A. Robbins|John K. Rutledge|Christopher J. Zaruba|}}
+| leader_title2                   = [[City Council]]
+<!-- *** Codes ***  -->
+| timezone                        = [[Central Time Zone|CST]]
+| utc_offset                      = &minus;6
+| timezone_DST                    = [[Central Time Zone|CDT]]
+| utc_offset_DST                  = &minus;5
+| postal_code                     = 60187, 60189
+| postal_code_type                = ZIP codes
+| area_code                       = [[Area codes 630 and 331|630 and 331]]
+| area_code_type                  = Area codes
+| statistics                      = 
+| website                         = {{official URL}}
+<!-- *** Footnotes *** -->
+| footnotes                       = <ref name="gnis">{{Cite GNIS|2397294|City of Wheaton|entry-date=27 February 2008 |access-date=19 December 2020}}</ref>
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 52745
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 17-81048
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_total_km2                  = 29.76
+| area_land_km2                   = 29.32
+| area_water_km2                  = 0.43
+| population_density_km2          = 1798.75
+}}

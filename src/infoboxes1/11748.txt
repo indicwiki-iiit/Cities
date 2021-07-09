@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = <!-- at least one of the first two fields must be filled in -->
+|official_name          = Willemstad
+|other_name             =
+|native_name            =  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = <!-- e.g. Town, Village, City, etc.-->
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = File:The colorful buildings of the Handelskade in Willemstad, Curaçao.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = Curacao-CIA WFB Map.png
+|mapsize1               = 
+|map_caption1           = Willemstad on Curaçao
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Caribbean
+|pushpin_label_position = 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[Sovereign state|State]]
+|subdivision_name       = [[Kingdom of the Netherlands]]
+|subdivision_type1      = [[Countries of the Kingdom of the Netherlands|Country]]
+|subdivision_name1      = [[Curaçao]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =Quarters
+|parts_style            =para <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =Punda 
+|p2                     =[[Otrobanda]]
+|p3                     =[[Scharloo]]
+|p4                     =[[Pietermaai Smal]]<!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a dictator and a city manager -->
+|leader_name1           =
+|established_title      =  Established
+|established_date       = 1634
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2011
+|population_footnotes           = <ref>{{cite web|url=https://www.citypopulation.de/en/curacao/cities/ |title=Curaçao|website=City Population|access-date=20 April 2021}}</ref>
+|population_note                =
+|population_total               = 136,660
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|12|7|N|68|56|W|region:CW|display=inline,title}}
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Historic Area of Willemstad, Inner City and Harbour, Curaçao
+  |ID = 819
+  |Year = 1997
+  |Criteria = Cultural: ii, iv, v
+  |Area = 86 ha
+  |Buffer_zone = 87 ha 
+  }}
+}}

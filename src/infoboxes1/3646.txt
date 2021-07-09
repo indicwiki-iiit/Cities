@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Ñuñoa
+| native_name             = 
+| native_name_lang        = es
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = Muniñuñoa.JPG
+| image_alt               = City Hall
+| image_caption           = Ñuñoa City Hall
+| image_flag              = Bandera de Ñuñoa.svg
+| flag_alt                = Flag
+| image_shield            = Escudo de Ñuñoa.svg
+| shield_alt              = Coat of Arms
+| image_map               = Comuna de Ñuñoa.svg
+| map_alt                 = Map of Ñuñoa within [[Greater Santiago]]
+| map_caption             = Map of Ñuñoa within [[Greater Santiago]]
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = Location in Chile
+| pushpin_map_caption     = Location in Chile
+| coordinates             = {{coord|33|27.5|S|70|36|W|region:CL-RM|display=inline,title}}
+| coor_pinpoint           = city
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Chile]]
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = [[Santiago Metropolitan Region|Metro Santiago]]
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[Santiago Province, Chile|Santiago]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes = <ref name="Munitel">{{cite web |url = http://www.munitel.cl |title=Asociación Chilena de Municipalidades | accessdate=27 January 2011|language=es}}</ref>
+<ref name="Official">{{cite web |url = http://www.nunoa.cl |title=Municipality of Ñuñoa | accessdate=27 January 2011|language=es}}</ref>
+| government_type         = [[Municipal]]
+| leader_title            = [[Mayor]]
+| leader_party = [[National Renewal (Chile)|RN]]
+| leader_name = Andrés Zarhi Troy
+| unit_pref               = Metric
+| area_footnotes          = <ref name="INE">{{cite web |url= http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title= National Statistics Institute |accessdate=13 December 2010|language=es}}</ref>
+| area_total_km2          = 16.9
+| elevation_footnotes     = 
+| elevation_m             =
+| population_footnotes    = <ref name="INE"/>
+| population_total        = 163511
+| population_as_of        = 2002 Census
+| population_density_km2  = auto
+| population_demonym      = 
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 163511
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 0
+| demographics_type1      = Residents by gender
+| demographics1_footnotes = <ref name="INE"/> 
+| demographics1_title1    = Male
+| demographics1_info1     = 73,215
+| demographics1_title2    = Female
+| demographics1_info2     = 90,296
+| timezone                = [[Time in Chile|CLT]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate=26 September 2010 |title=Chile Time |publisher=WorldTimeZones.org}}</ref>
+| utc_offset              = -4
+| timezone_DST            = [[Time in Chile|CLST]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-summer-time.htm |accessdate=26 September 2010 |title=Chile Summer Time | publisher=WorldTimeZones.org}}</ref>
+| utc_offset_DST          = -3
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 56 +
+| website                 = [http://www.nunoa.cl/ Municipality of Ñuñoa]
+| footnotes               = 
+}}

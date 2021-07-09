@@ -1,0 +1,101 @@
+{{Infobox settlement
+<!-- Basic info ----------------->
+|name                   = {{raise|0.2em|Yushu Prefecture}}
+|official_name          = {{longitem|style=font-size:110%;|{{nobold|{{lang|zh-cn|玉树藏族自治州}} · {{bo-textonly|ཡུལ་ཤུལ་བོད་རིགས་རང་སྐྱོང་ཁུལ།}}}}}}<!-- longitem automatically creates a new line -->{{lower|0.1em|Yushu Tibetan Autonomous Prefecture}}
+|other_name             = 
+|native_name            = {{lower|0.1em|{{lang|zh-Hans|玉树州}} · {{bo-textonly|ཡུལ་ཤུལ་ཁུལ།}}}}
+|nickname               = 
+|settlement_type        = [[Autonomous prefecture]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps ------------>
+|image_skyline          = YushuGon.jpg
+|imagesize              = 
+|image_caption          = Dondrub Ling monastery in the town of Gyêgu, Yulshul County
+|image_map              = Qinghai subdivisions - Yushu.svg
+|mapsize                = 
+|map_caption            = Location of Yushu Tibetan Autonomous Prefecture in Qinghai
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[China]]
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_name1      = [[Qinghai]]
+|seat_type              = Prefectural seat
+|seat                   = [[Gyêgu]], [[Yushu City, Qinghai|Yushu City]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5 -->
+|parts                  = <!-- parts text or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed --> 
+<!-- Politics ----------------->
+|government_footnotes   =
+| government_type         = [[Autonomous prefecture]]
+|governing_body = 
+| leader_title           = [[Chinese Communist Party Committee Secretary|CCP Secretary]]
+|leader_name            = Wu Dejun
+| leader_title1 = [[Yushu Tibetan Autonomous Prefectural People's Congress|Congress]] Chairman
+| leader_name1 = Zhou Hongyuan
+|leader_title2          = [[Governor]]
+|leader_name2           = Cering Tai
+| leader_title3 = [[Chinese People's Political Consultative Conference|CPPCC]] Chairman
+| leader_name3 = Gaisang
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title1     = <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+<!-- Area ------------------------>
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!-- Enter: Imperial, to display imperial before metric -->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion -->
+|area_land_km2            = <!-- See table @ Template:Infobox Settlement for details on unit conversion -->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    = <!-- for references: use <ref> </ref> tags -->
+|elevation_m            = 3689
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population ------------------------->
+|population_as_of               =
+|population_footnotes           =
+|population_note                =
+|population_total               =
+|population_density_km2         = auto<!-- For automatic calculation, any density field may contain: auto -->
+<!-- General information ---------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Yushu Prefecture government ([[Yushu City, Qinghai|Yushu City]])
+|coordinates            = {{coord|33.01|N|97.01|E|type:adm2nd_region:CN-63_source:Gaode|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- [[Postal code of China|Postal code]] -->
+|postal_code            =
+|area_code              =
+|iso_code = [[ISO 3166-2:CN|CN-QH-27]]
+|blank_name             = <!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            = <!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            = [[Licence plates of the People's Republic of China|Licence Plate]] Prefix
+|blank2_info            = {{lang|zh-cn|青G}}
+|blank3_name            = <!-- Major [[List of ethnic groups in China|Nationalities]] -->
+|blank3_info            =
+|website                = 
+|footnotes              = 
+}}

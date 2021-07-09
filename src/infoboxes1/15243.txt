@@ -1,0 +1,46 @@
+{{Infobox settlement
+|name=Rechytsa
+|native_name         = {{lang-be|Рэчыца}}
+|nickname            = 
+|image_skyline       = Rzeczyca (BY) plac.JPG
+|image_size          = 
+|image_caption       = Rechytsa town centre, Kastrychnitskaya (October) Square
+|image_flag          = Flag of Rečyca, Belarus.svg
+|image_shield        = Coat of Arms of Rečyca, Belarus.svg
+<!--|holiday             = The first Saturday and Sunday of September--><!--not a supported parameter-->
+|image_map           = 
+|map_caption         = 
+|pushpin_map         = Belarus
+|subdivision_type    = Country
+|subdivision_name    = {{flag|Belarus}}
+|subdivision_type1   = Region
+|subdivision_name1   = [[Gomel Region]]
+|subdivision_type2   = District
+|subdivision_name2   = [[Rechytsa District]]
+|leader_title        = 
+|leader_name         = 
+|established_title   = Founded
+|established_date    = 1213
+|area_magnitude      = 
+|area_total_km2      = 29.4
+|area_land_km2       = 
+|area_water_km2      = 
+|population_as_of    = 2010
+|population_note     = 
+|population_total    = 66400
+|population_metro    = 
+|population_density_km2 = auto
+|timezone            = [[Eastern European Time|EET]]
+|utc_offset          = +2
+|timezone_DST        = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST      = +3
+|coordinates         = {{coord|52|21|50|N|30|23|41|E|region:BY|display=inline,title}}
+|elevation_m         = 128
+|postal_code_type    = Postal code
+|postal_code         = 247500
+|area_code           = +375 2340
+|blank_name          = License plate
+|blank_info          = 3
+|website             = {{URL|http://rechitsa.gov.by/}} {{in lang|ru}}
+|footnotes           = 
+}}

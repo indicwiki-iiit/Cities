@@ -1,0 +1,54 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                    = Tapa
+| settlement_type         = [[List of cities and towns in Estonia|Town]]
+| image_skyline           = Tapapikktn.JPG
+| imagesize               = 
+| image_caption           = Central Tapa
+| image_flag              = File:Flag of et-Tapa.svg
+| flag_size               = 125px
+| image_seal              = 
+| seal_size               = 
+| image_shield            = File:Tapa coatofarms.png
+| shield_size             = 75px
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| pushpin_map             = Estonia
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Location in Estonia
+| coordinates             = {{coord|59|16|N|25|57|E|region:EE|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Estonia}}
+| subdivision_type1       = [[Counties of Estonia|County]]
+| subdivision_name1       = [[File:Lääne-Virumaa lipp.svg|24px]] [[Lääne-Viru County]]
+| subdivision_type2       = [[Municipalities of Estonia|Municipality]]
+| subdivision_name2       = [[File:Tapa valla lipp.jpg|24px]] [[Tapa Parish]]
+| established_title       = <!-- Town rights -->
+| established_date        = 
+| government_type         = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| area_footnotes          = 
+| area_total_km2          = 17.32
+| population_footnotes    = <ref>[http://pub.stat.ee/px-web.2001/Dialog/varval.asp?ma=PO0240&lang=1 Population by sex, age and place of residence after the 2017 administrative reform, 1 January]. Statistics Estonia.</ref>
+| population_rank         = [[List of cities and towns in Estonia|20th]]
+| population_total        = 5428
+| population_as_of        = 2018
+| population_density_km2  = auto
+|demographics_type1      = [[Ethnicity]]
+| demographics1_footnotes =
+| demographics1_title1    = [[Estonians]]
+| demographics1_info1     = 59.2%
+| demographics1_title2    = [[Russians]]
+| demographics1_info2     = 31%
+| demographics1_title3    = other
+| demographics1_info3     = 8.8%
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| postal_code             = 
+}}

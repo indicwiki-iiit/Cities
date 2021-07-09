@@ -1,0 +1,32 @@
+{{Infobox settlement
+| name                    = Botevgrad
+| native_name             = Ботевград
+| native_name_lang        = bul
+| settlement_type         = Town
+| image_skyline           = Botevgrad.ot.Chekanicia.800px.jpg
+| image_shield            = BUL Botevgrad COA.svg
+| pushpin_map             = Bulgaria
+| pushpin_map_caption     = Location of Botevgrad
+| coordinates             = {{coord|42|54|30|N|23|47|31|E|region:BG|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Bulgaria]]
+| subdivision_type1       = [[Provinces of Bulgaria|Province]] <small>(Oblast)</small>
+| subdivision_name1       = [[Sofia Province|Sofia]]
+| leader_party            = GDBOP
+| leader_title            = Mayor
+| leader_name             = Ivan Gavalyugov
+| area_total_km2          = 53.298
+| elevation_m             = 395
+| population_as_of        = 2012
+| population_total        = 20,052
+| population_urban        = 33,925
+| population_density_km2  = auto
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code             = 2140
+| website                 = {{URL|www.botevgrad.org}}
+| footnotes               = 
+}}

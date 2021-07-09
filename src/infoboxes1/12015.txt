@@ -1,0 +1,57 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Anuradhapura District
+| native_name             = 
+| type                    = [[Districts of Sri Lanka|Administrative District]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_map               = Anuradhapura district.svg 
+| map_alt                 = 
+| map_caption             = Map of Sri Lanka with Anuradhapura District highlighted
+| coordinates             = {{coord|8|20|N|80|30|E|type:adm2nd_region:LK-71|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = Sri Lanka
+| subdivision_type1       = [[Provinces of Sri Lanka|Province]]
+| subdivision_name1       = [[North Central Province, Sri Lanka|North Central Province]] 
+| parts_type              = Divisions
+| parts_style             = list
+| p1                      = [[Divisional Secretariats of Sri Lanka|Divisional secretariats]]: 22
+<!--
+| p2                      = Grama Niladhari: 
+-->
+| established_title       = Created
+| established_date        = 
+| seat_type               = [[Largest City]]
+| seat                    = [[Anuradhapura]]
+| government_footnotes    = 
+| leader_title            = [[Government Agent (Sri Lanka)|District Secretary]]
+| leader_name             = [[R. M. Wanninayake]]
+<!--
+| leader_title1           = Local
+| leader_name1            = {{collapsible list
+ | Municipal Councils: 
+ | Urban Councils: 
+ | Pradeishiya Sabhas: 
+}}
+-->
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 7,179
+| area_land_km2           = 6,664
+| area_water_km2          = 515
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = <ref name="2011census">Department of Census and Statistics,[http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=pop43&gp=Activities&tpl=3 The Census of Population and Housing of Sri Lanka-2011]</ref>
+| population_total        = 856,232
+| population_as_of        = 2012
+| population_density_km2  = auto
+| population_note         = 
+| timezone1               = Sri Lanka
+| utc_offset1             = +05:30
+| iso_code                = [[ISO 3166-2:LK|LK-71]]
+| website                 = [https://web.archive.org/web/20110310175303/http://www.ds.gov.lk/dist_anuradhapura/english/ ds.gov.lk/dist_anuradhapura]
+| footnotes               = 
+}}

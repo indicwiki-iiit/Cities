@@ -1,0 +1,23 @@
+{{Infobox Australian place
+| type          = city
+| name          = Fremantle
+| city          =
+| state         = wa
+| image         = Aerial view of Fremantle.JPG
+| caption       = Aerial view of Fremantle
+| coordinates   = {{coord|32|03|25|S|115|44|38|E|display=inline,title}}
+| lga           = City of Fremantle
+| postcode      = 6160
+| est           = 1829
+| pop           = 28,893
+| pop_year      = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016Y">{{Census 2016 AUS|id=LGA53430|name=Fremantle (Local Government Area)|accessdate=4 December 2018|quick=on}}</ref>
+| area          = 19.0
+| timezone      = [[Australian Western Standard Time|AWST]]
+| utc           = +8
+| stategov      = [[Electoral district of Fremantle|Fremantle]]
+| fedgov        = [[Division of Fremantle|Fremantle]]
+| dist1         = 19
+| dir1          = SW
+| location1     = [[Perth CBD]]
+}}

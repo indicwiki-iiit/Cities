@@ -1,0 +1,20 @@
+{{Infobox military conflict
+| partof      = the [[American Revolutionary War]]
+| image       = PhiladelCampaignHessianMap.jpg
+| image_size  = 300
+| caption     = Hessian map of the Philadelphia campaign
+| date        = September 11, 1777
+| place       = [[Chadds Ford Township, Pennsylvania|Chadds Ford Township]], [[Delaware County, Pennsylvania|Delaware County]]
+| coordinates = {{Coord|39.872|N|75.590|W |display=inline,title |source:placeopedia_region:US-PA_type:landmark |format=dms |name=Battlefield Park}}
+| result      = British victory<ref name="Middlekauff2005">{{cite book|author=Robert Middlekauff|author-link=Robert Middlekauff|title=The Glorious Cause: The American Revolution, 1763–1789|url=https://books.google.com/books?id=nya0ODz-B-cC&pg=PT566|access-date=19 March 2013|date=5 January 2005|publisher=Oxford University Press|isbn=978-0-19-974092-5|page=566}}</ref>
+| combatant2  = {{flagcountry|United States|1777}}
+| combatant1  = {{flagcountry|Kingdom of Great Britain}} <br> {{flagdeco|Hesse}} [[Landgraviate of Hesse-Kassel|Hesse-Kassel]] 
+| commander2  = {{flagdeco|United States|1777}} [[George Washington]] <br> {{flagdeco|United States|1777}} [[Gilbert du Motier, Marquis de Lafayette|Marquis de Lafayette]] <br>{{flagdeco|United States|1777}} [[Nathanael Greene]] <br> {{flagdeco|United States|1777}} [[John Sullivan (general)|John Sullivan]] <br> {{flagdeco|United States|1777}} [[William Alexander (American general)|William Alexander]] <br> {{flagdeco|United States|1777}} [[Adam Stephen]] <br> {{flagdeco|United States|1777}} [[Anthony Wayne]] <br>{{flagdeco|United States|1777}} [[Casimir Pulaski]] 
+| commander1  = {{flagdeco|Kingdom of Great Britain}} [[William Howe, 5th Viscount Howe|William Howe]] <br> {{flagdeco|Kingdom of Great Britain}} [[Charles Cornwallis, 1st Marquess Cornwallis|Charles Cornwallis]]<br>{{flagdeco|Hesse}} [[Wilhelm von Knyphausen|Wilhelm Knyphausen]]
+| strength2   = 14,600<ref name="takingthecapital23">''Philadelphia 1777: Taking the Capital'', Clement, p. 23</ref>
+| strength1   = 15,500<ref name="takingthecapital23" />
+| casualties2 = 250 killed <br> 600 wounded <br> 400 captured<ref name="mcguire269" />
+| casualties1 = 93 killed <br> 488 wounded <br> 6 missing<ref name="mcguire269" />
+| notes       = {{designation list|embed=yes|designation1=Pennsylvania|designation1_date=March 18, 1952<ref name="PAHMDB">{{cite web|url=http://www.portal.state.pa.us/portal/server.pt/community/pennsylvania_historical_marker_program/2539/search_for_historical_markers |title=PHMC Historical Markers Search |work=Pennsylvania Historical and Museum Commission |publisher=Commonwealth of Pennsylvania | format=Searchable database | access-date=2014-01-25}}</ref>}}
+| campaignbox= {{Campaignbox American Revolutionary War: Philadelphia}}
+}}

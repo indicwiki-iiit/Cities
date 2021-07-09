@@ -1,0 +1,41 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = {{raise|0.1em|Manpo}}
+| native_name                     = {{lower|0.1em|{{nobold|만포시}}}}
+| native_name_lang                = ko
+| official_name                   = 
+| settlement_type                 = [[List of cities in North Korea|Municipal City]]
+| translit_lang1                  = Korean
+| translit_lang1_type             = [[Hangul|Chosŏn'gŭl]]
+| translit_lang1_info             = {{linktext|만|포|시}}
+| translit_lang1_type1            = [[Hancha]]
+| translit_lang1_info1            = {{linktext|滿|浦|市}}
+| translit_lang1_type2            = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info2            = Manp'o si
+| translit_lang1_type3            = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3            = Manpo-si
+| image_skyline                   = Jian Yalu River Border Railway Bridge view of Manpo 2011 07 24.jpg
+| imagesize                       = 
+| image_caption                   = View of Manpo from the Ji'an Yalu River Border Railway Bridge
+| image_map                       = DPRK2006 Chagang-Manpo.PNG
+| map_caption                     = Map of Chagang showing the location of Manpo
+| image_map1                      = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map                     = North Korea
+| pushpin_map_caption             = Location within North Korea
+| coordinates                     = {{coord|41.157|126.290|display=title, inline|type:city_region:KP}}
+| subdivision_type                = Country
+| subdivision_name                = [[North Korea]]
+| subdivision_type1               = [[Provinces of North Korea|Province]]
+| subdivision_name1               = [[Chagang Province]]
+| area_total_km2                  = 
+| population_as_of                = 2008
+| population_total                = 116,760
+| population_density_km2          = 
+| population_blank1_title         = Dialect
+| population_blank1               = [[Pyongan dialect|P'yŏngan]]
+| parts_type                      = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                           = 11 ''tong'', 15 ''ri''
+| timezone                        = [[Time in North Korea|Pyongyang Time]]
+| utc_offset                      = +9
+| leader_title                    = Party Chairman of Manpo
+| leader_name                     = O Myong Chol <ref name=rodong>{{Cite web|location=Pyongyang|publisher=Rodong Sinmun |date=April 10, 2020|access-date=10 January 2021|url=https://rodong.rep.kp/ko/index.php?strPageID=SF01_02_01&newsID=2020-05-30-0011}}</ref>
+}}

@@ -1,0 +1,40 @@
+{{Infobox settlement
+|official_name          = Örebro
+|image_skyline          = <center>{{Photomontage |border=0 |size=275 |spacing=2 |color=none |photo1a=Orebro slott 2010.JPG |photo2a=Örebro teatar May 2014 02.jpg |photo2b=Örebro på cykel (11).JPG }}</center>
+|image_caption          =
+|image_shield           = Örebro kommunvapen - Riksarkivet Sverige.png
+|pushpin_map            = Sweden Örebro#Sweden
+|pushpin_label_position = top
+|subdivision_type       = [[Country]]
+|subdivision_name       = [[Sweden]]
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Örebro Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Örebro County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Närke]]
+|established_title3     = [[Stad (Sweden)|Charter]]
+|established_date3      = 1404
+|area_footnotes         = <ref name=scb>{{cite web |url=http://www.scb.se/Statistik/MI/MI0810/2010A01Z/01_Localities2010_land_area_pop_density_2005_2010.xls |title=Localities 2010, area, population and density in localities 2005 and 2010 and change in area and population |date=29 May 2012 |publisher=[[Statistics Sweden]] |archive-url=https://web.archive.org/web/20130116121921/http://www.scb.se/Statistik/MI/MI0810/2010A01Z/01_Localities2010_land_area_pop_density_2005_2010.xls |archive-date=16 January 2013 |url-status=live  }}</ref>
+|area_urban_km2         = 49.27
+|area_total_km2         = 1380.11
+|population_as_of       = 2019
+|population_footnotes   = {{Population Swedish municipality|TXT=ref}}
+|population_urban        = 125817
+|population_urban_footnotes = <ref>{{cite web|url=http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0810__MI0810A/LandarealTatortN/|title=Folkmängd och landareal i tätorter, per tätort. Vart femte år 1960 - 2019|website=Statistikdatabasen}}</ref>
+|population_total       = 155989
+|population_metro       = 196,304{{ref label|aaa|a}}
+|population_density_km2 = 2172
+|population_demonym     = Örebroare
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|59|16|26|N|15|12|27|E|region:SE|display=inline,title}}
+|postal_code_type       = Postal code
+|postal_code            = 701 xx, 702 xx, 703 xx
+|area_code              = (+46) 19
+|elevation_m            = 34
+|website                = {{URL|http://www.orebro.se/}}
+|footnotes              = {{note|aaa}} Including Örebro, [[Kumla Municipality|Kumla]], [[Hallsberg Municipality|Hallsberg]] and [[Lekeberg Municipality|Lekeberg]] municipalities.
+}}

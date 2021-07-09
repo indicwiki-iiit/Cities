@@ -1,0 +1,57 @@
+{{Infobox settlement
+| official_name            = Fruitland, Idaho
+| settlement_type          = [[City]]
+| image_skyline            = Fruitland, Idaho.jpg
+| image_caption            = 
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+| motto                    = 
+| image_map                = File:Payette County Idaho Incorporated and Unincorporated areas Fruitland Highlighted 1628990.svg
+| mapsize                  = 250px
+| map_caption              = Location of Fruitland in Payette County, Idaho.
+| coordinates              = {{coord|44|0|58|N|116|55|17|W|region:US_type:city|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|County]]
+| subdivision_name2        = [[Payette County, Idaho|Payette]]
+| established_title        = 
+| established_date         = 
+| government_type          = 
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_sq_mi         = 2.16
+| area_land_sq_mi          = 2.15
+| area_water_sq_mi         = 0.01
+| elevation_footnotes      = 
+| elevation_ft             = 2228
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 4684
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 5426
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 2519.03
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset               = -7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+| utc_offset_DST           = -6
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 83619
+| area_code                = [[Area codes 208 and 986|208, 986]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-28990
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0396521
+| website                  = {{URL|http://fruitland.org/}}
+|area_total_km2 = 5.59
+|area_land_km2 = 5.58
+|area_water_km2 = 0.01
+|population_density_km2 = 972.42
+}}

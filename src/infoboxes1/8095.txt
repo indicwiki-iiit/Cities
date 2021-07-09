@@ -1,0 +1,94 @@
+{{Infobox settlement
+| name = {{raise|0.2em|Beppu}}
+| official_name = 
+| native_name = {{lower|0.1em|{{nobold|{{nobold|{{lang|ja|別府市}}}}}}}}
+| native_name_lang = ja
+| settlement_type = [[Cities of Japan|City]]
+| other_name = 
+<!-- images, nickname, motto -->
+| image_skyline = Beppu montage.JPG
+| imagesize = 
+| image_caption = Top upper left: Downtown Kitahama hot spring area, Top middle: View of Beppu from Jyumonji Hill, Top lower left: Tsurumi Volcano, Top right: Beppu Tower, Bottom left: Main street near Beppu Station, Bottom right: Sunrise in Beppu Bay
+| image_flag = Flag of Beppu, Oita.svg
+| image_seal = Symbol of Beppu Oita.svg
+| seal_type = Emblem
+<!-- maps and coordinates -->
+| image_map = Beppu in Oita Prefecture Ja.svg
+| map_alt = 
+| map_caption = Location of Beppu in [[Ōita Prefecture]]
+| pushpin_map = Japan
+| pushpin_relief = 
+| pushpin_map_caption = Location in Japan
+| coordinates = {{coord|33|16|46.3|N|131|30|0.1|E|region:JP|display=inline,title}}
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = Japan
+| subdivision_type1 = [[List of regions of Japan|Region]]
+| subdivision_name1 = [[Kyushu]]
+| subdivision_type2 = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2 = [[Ōita Prefecture]]
+| subdivision_type3 = [[Districts of Japan|District]]
+| subdivision_name3 = 
+<!-- established -->
+| established_title = <!-- Settled -->
+| established_date = 
+| extinct_title = Now part of
+| extinct_date = 
+| founder = 
+| named_for = 
+<!-- seat, smaller parts -->
+| seat_type = <!-- defaults to: Seat -->
+| seat = 
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| leader_party = 
+| leader_title = Mayor
+| leader_name = Yasuhiro Nagano
+| leader_title1 = Vice Mayor
+| leader_name1 = 
+<!-- display settings -->
+| total_type = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref = Metric
+<!-- area -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_footnotes = <!-- for references: use <ref> tags -->
+| area_total_km2 = 125.13
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_note = 
+<!-- elevation -->
+| elevation_footnotes = <!-- for references: use <ref> tags -->
+| elevation_m = 
+<!-- population -->
+| population_footnotes =  <!-- for references: use <ref> tags -->
+| population_total = 122,643
+| population_as_of = March 31, 2017
+| population_density_km2 = auto
+| population_est = 
+| pop_est_as_of = 
+<!-- time zone(s) -->
+| timezone1 = [[Japan Standard Time|JST]]
+| utc_offset1 = +09:00
+<!-- postal codes, area code -->
+| postal_code_type = 
+| postal_code = 
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = City hall address
+| blank_info_sec1 = 1-15 Kaminoguchi-chō, Beppu-shi, Ōita-ken<br />874-8511
+<!-- website, footnotes -->
+| website = {{URL|www.city.beppu.oita.jp}}
+| footnotes = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = [[Osmanthus fragrans|Sweet Osmanthus]] and [[Cinnamomum camphora|Camphor Laurel]]
+ | flower = Ōmurasaki <small>([[Rhododendron]] x pulchrum)</small>
+ | bird = 
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = 
+}}
+}}

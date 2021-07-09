@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Whitefish
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Montana's outdoor recreation playground"<ref>{{cite web|url= http://www.whitefish.govoffice.com/|title= Official Website of Whitefish Montana|publisher= Official Website of Whitefish Montana |access-date= October 27, 2012}}</ref>
+
+<!-- Images -->
+|image_skyline            = downtown-whitefish-2006.jpg
+|imagesize                = 250px
+|image_caption            = Looking north from downtown Whitefish
+|image_flag               = 
+|image_seal               = Seal of Whitefish, Montana.jpg
+
+<!-- Maps -->
+|image_map                = Flathead_County_Montana_Incorporated_and_Unincorporated_areas_Whitefish_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Whitefish, Montana
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Montana]]
+|subdivision_type2        = [[List of counties in Montana|County]]
+|subdivision_name2        = [[Flathead County, Montana|Flathead]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = John Mhulfeld
+|leader_title1            = [[City Manager]]
+|leader_name1             = Dana Smith
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_30.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 31.92
+|area_land_km2            = 18.00
+|area_water_km2           = 13.91
+|area_total_sq_mi         = 12.32
+|area_land_sq_mi          = 6.95
+|area_water_sq_mi         = 5.37
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8295
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 6357
+|population_density_km2   = 460.72
+|population_density_sq_mi = 1193.35
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 923
+|elevation_ft             = 3028
+|coordinates              = {{coord|48|24|42|N|114|20|24|W|region:US-MT_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 59937
+|area_code                = [[Area code 406|406]] Exchanges: 862,863
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = 30-79825
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0793219
+|website                  = {{Official website|http://www.cityofwhitefish.org}}
+|footnotes                = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+}}

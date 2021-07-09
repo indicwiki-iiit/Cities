@@ -1,0 +1,19 @@
+{{Infobox settlement
+|name             = Tuakau
+|subdivision_type = Country
+|subdivision_name = [[New Zealand]]
+|subdivision_type1= Region
+|subdivision_name1= [[Waikato]] region
+|subdivision_type2= 
+|subdivision_name2= 
+|image_map = {{infobox mapframe|zoom=10}}
+|pushpin_map      = 
+|pushpin_label_position = right
+|coordinates      = {{coord|37|16|S|174|57|E|region:NZ|display=inline, title}}
+| population_footnotes    = {{NZ population data 2018||||y}}
+| population_total        = {{NZ population data 2018||y}}
+| population_as_of        = {{NZ population data 2018|||y}}
+
+|postal_code_type= [[Postcodes in New Zealand|Postcode(s)]]
+|postal_code= 2121
+}}

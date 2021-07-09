@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Gümüşhane
+|settlement_type = [[Municipality]]
+| image_skyline           = Gümüşhane Genel.JPG
+| image_caption           = Gümüşhane
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|27|35|N|39|28|40|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = Turkey
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Gümüşhane Province|Gümüşhane]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Ercan Çimen
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Gümüşhane|Gümüşhane}}
+| elevation_m             = 1153
+| population_footnotes    = {{Turkey district populations|SOURCE|Gümüşhane}}
+| population_urban        = {{Turkey district populations|Gümüşhane|Gümüşhane|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Gümüşhane|Gümüşhane|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = 
+| postal_code             = 
+| website                 = {{URL| www.gumushane.bel.tr | www.gumushane.bel.tr }}
+}}

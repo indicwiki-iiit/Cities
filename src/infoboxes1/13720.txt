@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| official_name            = Isla Vista
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[census-designated place]]
+<!-- images and maps  ----------->
+| image_skyline            = WelcomeToIslaVista.png
+| image_caption            = A welcome sign in Isla Vista
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = I.V.
+| image_map                = Santa Barbara County California Incorporated and Unincorporated areas Isla Vista Highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location in [[Santa Barbara County, California|Santa Barbara County]] and the state of [[California]]
+| pushpin_map              = USA California Southern#California#USA
+| pushpin_map_caption      = Location in the United States
+| coordinates              = {{coord|34|24|48|N|119|51|39|W|region:US|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[California]]
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[Santa Barbara County, California|Santa Barbara]]
+| established_title        = <!-- Settled -->
+| established_date         = 
+| leader_title             = [[Santa Barbara County|County Supervisor]]
+| leader_name              = Joan Hartmann
+| leader_title1            = [[California State Senate|Senate]]
+| leader_name1             = [[Hannah-Beth Jackson]] ([[California Democratic Party|D]])
+| leader_title2            = [[California State Assembly|Assembly]]
+| leader_name2             = [[Monique Limón]] ([[California Democratic Party|D]])
+| leader_title3            = [[California's 24th congressional district|U.S. Congress]]
+| leader_name3             = [[Salud Carbajal]] (D)
+<!-- Area------------------>
+| unit_pref                = US
+| area_footnotes           = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-07-02 }}</ref>
+| area_total_km2           = 4.833
+| area_total_sq_mi         = 1.86
+| area_land_km2            = 4.789
+| area_land_sq_mi          = 1.849
+| area_water_km2           = 0.045
+| area_water_sq_mi         = 0.017
+| area_water_percent       = 0.93
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              = 14
+| elevation_ft             = 46
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 23096
+| population_as_of         = 2010
+| population_density_km2   = auto
+| population_density_sq_mi = auto
+<!-- General information  --------------->
+| timezone                 = [[Pacific Time Zone|PST]]
+| utc_offset               = -8
+| timezone_DST             = PDT
+| utc_offset_DST           = -7
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 93117
+| area_code                = [[Area code 805|805]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 06-36868
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1702880
+| website                  = 
+}}

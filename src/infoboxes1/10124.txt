@@ -1,0 +1,33 @@
+{{Infobox settlement
+| name                    = Kuşadası 
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| settlement_type         = [[Districts of Turkey|District]] of [[Aydın Province]]
+| image_skyline           = Kuşadası Overlook.jpg
+| image_caption           = An aerial view of Kuşadası
+| pushpin_map             = Turkey#Europe
+| coordinates             = {{coord|37|51|35|N|27|15|35|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Aydın Province|Aydın]]
+| subdivision_type2       = [[Districts of Turkey|District]]
+| subdivision_name2       = Kuşadası
+| leader_party            = [[Cumhuriyet Halk Partisi|CHP]]
+| leader_title            = Mayor
+| leader_name             = Ömer Günel
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Saadettin Yücel
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Aydın|Kuşadası}}
+| elevation_m             =
+| population_footnotes    = {{Turkey district populations|SOURCE|Aydın}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Aydın|Kuşadası|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Aydın|Kuşadası|toplam}}
+| population_density_blank1_km2 = auto
+| postal_code_type        = Post code
+| postal_code             = 09400
+| website                 = {{URL| www.kusadasi.bel.tr | www.kusadasi.bel.tr }}
+}}

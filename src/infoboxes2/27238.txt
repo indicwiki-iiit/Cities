@@ -1,0 +1,35 @@
+{{Infobox settlement
+|name                    = Tsarevo
+|native_name             = Царево
+|native_name_lang        = bg
+|settlement_type         = Town
+|image_skyline           = Tsarevo - panoramio - SpaceControl (5).jpg
+|image_caption           = 
+|pushpin_map             = Bulgaria
+|pushpin_map_caption     = Location of Tsarevo
+|coordinates             = {{coord|42|10|15|N|27|51|4|E|type:city|display=inline,title}}
+|subdivision_type        = Country
+|subdivision_name        = [[Bulgaria]]
+|subdivision_type1       = [[Provinces of Bulgaria|Provinces]]
+|subdivision_name1       = [[Burgas Province|Burgas]]
+|subdivision_type2       = [[Municipalities of Bulgaria|Municipality]]
+|subdivision_name2       = [[Tsarevo Municipality|Tsarevo]]
+|leader_party            = [[GERB]]
+|leader_title            = Mayor
+|leader_name             = Georgi Lapchev
+|unit_pref               = Metric
+|area_total_km2          = 35.179
+|elevation_m             = 0
+|population_footnotes    = <ref name="statistika"/>
+|population_as_of        = 2019
+|population_total        = 6894
+|population_density_km2  = auto
+|timezone1               = [[Eastern European Time|EET]]
+|utc_offset1             = +2
+|timezone1_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset1_DST         = +3
+|postal_code_type        = [[List of postal codes in Bulgaria|Postal Code]]
+|postal_code             = 8260
+|area_code               = 0550
+|website                 = {{URL|www.tzarevo.net}}
+}}

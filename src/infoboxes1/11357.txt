@@ -1,0 +1,57 @@
+{{Infobox settlement
+| name                            = Centurion
+| image_skyline                   = CenturionGautrainStation.jpg
+| image_caption                   = The [[Centurion (Gautrain station)|Centurion]] [[Gautrain]] station
+| pushpin_map                     = South Africa Gauteng#South Africa#Africa
+| coordinates                     = {{coord|25|51|37|S|28|11|22|E|region:ZA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = South Africa
+| subdivision_type1               = [[Provinces of South Africa|Province]]
+| subdivision_name1               = [[Gauteng]]
+| subdivision_type2               = District
+| subdivision_type3               = Municipality
+| subdivision_name3               = [[City of Tshwane Metropolitan Municipality|City of Tshwane]]
+| subdivision_type4               = Main Place
+| established_title               = Established
+| leader_title                    = Councillor
+| area_footnotes                  = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/799059 |title = Main Place Centurion |work=Census 2011}}</ref>
+| area_total_km2                  = 394.88
+| elevation_m                     = 1453
+| population_footnotes            = <ref name="census2011" />
+| population_total                = 236580
+| population_as_of                = 2011
+| population_density_km2          = auto
+<!-- demographics (section 1) -->| demographics_type1              = Racial makeup (2011)
+| demographics1_footnotes         = <ref name="census2011" />
+| demographics1_title1            = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1             = 29.3%
+| demographics1_title2            = [[Coloureds|Coloured]]
+| demographics1_info2             = 2.3%
+| demographics1_title3            = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3             = 8.4%
+| demographics1_title4            = [[White South African|White]]
+| demographics1_info4             = 59.0%
+| demographics1_title5            = Other
+| demographics1_info5             = 1.0%
+<!-- demographics (section 2) -->| demographics_type2              = [[First language]]s (2011)
+| demographics2_footnotes         = <ref name="census2011" />
+| demographics2_title1            = [[Afrikaans]]
+| demographics2_info1             = 49.4%
+| demographics2_title2            = [[South African English|English]]
+| demographics2_info2             = 26.0%
+| demographics2_title3            = [[Northern Sotho language|Northern Sotho]]
+| demographics2_info3             = 5.2%
+| demographics2_title4            = [[Tswana language|Tswana]]
+| demographics2_info4             = 3.7%
+| demographics2_title5            = Other
+| demographics2_info5             = 15.6%
+<!-- blank fields (section 2) -->
+<!-- Other information -->| timezone1                       = [[South African Standard Time|SAST]]
+| utc_offset1                     = +2
+| postal_code_type                = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code                     = 0157
+| postal2_code_type               = [[Post-office box|PO box]]
+| postal2_code                    = 0046
+| area_code_type                  = [[Telephone numbers in South Africa|Area code]]
+| area_code                       = 012
+}}

@@ -1,0 +1,131 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Ningde}}
+|official_name          = 
+|other_name             = Ningteh
+|native_name            = {{lower|0.1em|宁德市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Chieng-seng-gio1.jpg
+|imagesize              = 
+|image_caption          = Qiansheng Covered Bridge in [[Pingnan County, Fujian|Pingnan]], Ningde
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Locator map Ningde in Fujian.svg
+|mapsize                =  
+|map_caption            = Location of Ningde City in Fujian
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China 
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =
+|coor_pinpoint = Ningde municipal government
+|coordinates            = {{coord|26.6662|N|119.5477|E|type:adm2nd_region:CN-35_source:Gaode|format=dms|display=it}}
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Fujian]]
+|seat_type              = Municipal seat
+|seat                   = [[Jiaocheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            =Chen Rongkai
+|leader_title1          =Mayor
+|leader_name1           =Chen Jiadong
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 13452<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 Census
+|population_footnotes           =
+|population_note                =
+|population_total               =2821996
+|population_density_km2         =auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   = 
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             =  +8
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 352000, 355000
+|area_code              = [[Telephone numbers in China|593]]
+|iso_code = [[ISO 3166-2:CN|CN-FJ-09]]
+|blank_name             = [[Gross domestic product|GDP]]
+|blank_info             = 2009<ref name="GDP">{{cite web |url=http://www.stats-fjnd.gov.cn/xwgb/tjgb2009.htm |script-title=zh:2009 年宁德市国民经济和社会发展统计公报 |access-date=2010-05-02 |date=2010-02-08 |publisher=Ningde Municipal Statistic Bureau |language=zh-hans |title=Archived copy |archive-url=https://web.archive.org/web/20101123013810/http://www.stats-fjnd.gov.cn/xwgb/tjgb2009.htm |archive-date=2010-11-23 |url-status=dead }}</ref>
+|blank1_name            = &nbsp;- Total
+|blank1_info            = [[Renminbi|CNY]] 60.364 billion (US$8.84 billion)
+|blank2_name            = &nbsp;- Per capita
+|blank2_info            = CNY 19,889 (US$2,914)
+|blank3_name            = &nbsp;- Growth
+|blank3_info            = {{increase}} 13.3%
+|blank4_name            = [[Licence plates of the People's Republic of China|License Plate]]
+|blank4_info            = {{lang|zh-cn|闽J}}
+|blank5_name            = [[varieties of Chinese|Local variety]]
+|blank5_info            = [[Eastern Min]]
+|blank_name_sec2        = '''City [[flower]]s'''
+|blank_info_sec2        = Canna indica
+|website = {{URL|www.ningde.gov.cn/}}
+|footnotes              = 
+}}

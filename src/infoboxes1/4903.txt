@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info ---------------->
+|official_name = Puerto Armuelles
+|other_name = El Petrolero
+|native_name = Rabo De Puerco
+|nickname = The petroleum capital of Panama
+|settlement_type = City and [[Corregimientos of Panama|corregimiento]]
+|motto =
+<!-- images and maps ----------->
+|image_skyline =
+|imagesize = 300px
+|image_caption = 
+|image_flag =
+|flag_size =
+|image_seal =
+|seal_size =
+|image_shield =
+|shield_size =
+|image_blank_emblem =
+|blank_emblem_type = Coat of Arms
+|blank_emblem_size =
+|image_map = PanamaUpdated.GIF
+|mapsize = 290px
+|map_caption = Puerto Armuelles global positioning
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption =
+|pushpin_mapsize =
+<!-- Location ------------------>
+|subdivision_type = [[Country]]
+|subdivision_name = [[Panama]]
+|subdivision_type1      = [[Provinces of Panama|Province]]
+|subdivision_name1      = [[Chiriquí Province|Chiriquí]]
+|subdivision_type2      = [[Districts of Panama|District]]
+|subdivision_name2      = [[Barú District, Chiriquí|Barú]]
+|subdivision_type3 = 
+|subdivision_name3 = 
+|subdivision_type4 = 
+|subdivision_name4 =
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type = [[Multicultural|Cosmopolitan]] [[borough]], [[City]]
+|leader_title = Governing&nbsp;body
+|leader_name = [[City council|Puerto Armuelles City Council]]
+|leader_title1 = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1 =
+|leader_title2 =
+|leader_name2 =
+|leader_title3 =
+|leader_name3 =
+|leader_title4 =
+|leader_name4 =
+|established_title = Founded
+|established_date = 1928
+|established_title2 = City Status
+|established_date2 = 1990
+|established_title3 = <!-- Incorporated (city) -->
+|established_date3 =
+<!-- Area --------------------->
+|area_land_km2          = 222.5
+|area_footnotes         = <ref name=inec>[http://www.contraloria.gob.pa/inec/archivos/P3601Cuadro11.xls "Cuadro 11 (Superficie, población y densidad de población en la República...)" [Table 11 (Area, population, and population density in the Republic...)<nowiki>]</nowiki>] (.xls). In {{cite web|title=Resultados Finales Básicos|trans-title=Basic Final Results|url=https://www.contraloria.gob.pa/inec/publicaciones/Publicaciones.aspx?ID_SUBCATEGORIA=59&ID_PUBLICACION=360&ID_IDIOMA=1&ID_CATEGORIA=13|publisher=[[National Institute of Statistics and Census of Panama]]|access-date=May 26, 2015|language=es}}</ref>
+<!-- Population ----------------------->
+|population_as_of       = 2010
+|population_total       = 20455
+|population_footnotes   = <ref name=inec/>
+|population_density_km2 = 91.9
+|population_note        = Population density calculated based on land area.
+<!-- General information --------------->
+|elevation_footnotes = <!--for references: use <ref> tags-->
+|elevation_m =
+|elevation_ft =
+|area_code =
+|blank_name = [[Köppen climate classification|Climate]]
+|blank_info = [[Tropical monsoon climate|Am]]
+|blank1_name =
+|blank1_info =
+|blank2_name =
+|blank2_info =
+|blank3_name =
+|blank3_info =
+|blank4_name =
+|blank4_info =
+|website = 
+|footnotes =
+}}

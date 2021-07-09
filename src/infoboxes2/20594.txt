@@ -1,0 +1,43 @@
+{{Infobox settlement
+<!-- General information -->
+|name                   =Monor
+|settlement_type        =[[List of cities and towns of Hungary|Town]]
+|image_shield           =Coa_Hungary_Town_Monor.svg
+|image_flag             =Flag of Monor.svg
+|image_skyline          =Római katolikus templom (7131. számú műemlék).jpg
+|image_caption          =The Roman Catholic Church of Monor
+<!-- Pushpin map -->
+|pushpin_map            =Hungary
+|pushpin_map_caption    =Location of Monor in Hungary
+<!-- Political information -->
+|subdivision_type       =Country
+|subdivision_name       =[[Hungary]]
+|subdivision_type1      =[[List of regions of Hungary|Region]]
+|subdivision_name1      =[[{{Hungarian county region|Pest}}]]
+|subdivision_type2      =[[Counties of Hungary|County]]
+|subdivision_name2      ={{Hungarian county link|Pest}}
+<!-- Geographical information -->
+|area_total_km2         =61.86
+|area_magnitude         =1 E6
+|area_footnotes         =<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=10551 Monor] at the [[Hungarian Central Statistical Office]] (Hungarian). </ref>
+|coordinates            ={{coord|47.34960|N|19.43833|E|region:HU|display=inline}}
+<!-- Demographical information -->
+|postal_code            =2200
+|postal_code_type       =[[Postal code]]
+|area_code              =+36 29
+|area_code_type         =[[Telephone numbers in Hungary|Area code]]
+|timezone               =[[Central European Time|CET]]
+|utc_offset             =+1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         =+2
+|total_type             =Total
+|population_total       =21421
+|population_density_km2 =auto
+|population_density_urban_km2 =auto
+|population_density_metro_km2 =auto
+|population_as_of       =2004
+|population_footnotes   =<ref name="ksh_cite_population">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=10551 Monor] at the [[Hungarian Central Statistical Office]] (Hungarian). 2004</ref>
+
+|blank_info             =
+|website                ={{wikidata|property|P856}}
+}}

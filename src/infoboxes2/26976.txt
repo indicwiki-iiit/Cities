@@ -1,0 +1,28 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|coordinates            = {{Coord|47|52|N|22|24|E|region:HU_type:city|display=title, inline}}
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Nagyecsed|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=Szabolcs-Szatmár-Bereg|
+image_shield=HUN_Nagyecsed_Címer.svg|
+image_flag = Flag of Nagyecsed.svg|
+area_total_km2=43.87|
+population_as_of=2005|
+population_total=6706|
+population_density_km2=156.55|
+postal_code_type=[[Postal code]]|
+postal_code=4355|
+area_code=44|
+}}

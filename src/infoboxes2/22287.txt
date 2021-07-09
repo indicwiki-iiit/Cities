@@ -1,0 +1,52 @@
+{{Infobox settlement
+|name                     = Sun Village, California
+|settlement_type          = [[Census-designated place]]
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+|established_title        = 
+|established_date         = 
+<!-- Population------------------>
+| population_total        = 11565
+| population_as_of        = 2010
+| population_density_km2  = auto
+<!-- Area------------------>
+| area_magnitude          =
+| unit_pref               = US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{Webarchive|url=https://web.archive.org/web/20120112090031/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=January 12, 2012 }}</ref>
+| area_total_sq_mi        = 4.686
+| area_land_sq_mi         = 4.686
+| area_water_sq_mi        = 0
+| area_total_km2          = 16.677
+| area_land_km2           = 16.675
+| area_water_km2          = 0.001
+| area_water_percent      = 0
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      =<ref>{{gnis|2583157}}</ref>
+|elevation_m              = 
+|elevation_ft             = 2723
+|pushpin_map              = California#USA
+|pushpin_label            = Sun Village
+|pushpin_map_caption      = Location in California##Location in the United States
+|coordinates              = {{coord|34|33|34|N|117|57|24|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 93543
+|area_code                = 661
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = 2583157
+|blank1_name              = [[FIPS code]]
+|blank1_info              = 06-77308
+|website                  = 
+|footnotes                = {{gnis|2583157}}
+}}

@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| official_name          = Snellville, Georgia
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = City
+<!-- images and maps  ----------->
+| image_skyline          = Snellville City Hall and Senior Center.jpg
+| imagesize              = 250px
+| image_caption          = City Hall
+| image_flag             = 
+| image_seal             = Snellville_city_seal.jpg
+| image_shield           = 
+| image_blank_emblem     = Snellville town center logo.jpg
+| blank_emblem_size      = 
+| blank_emblem_type      = Town Center Logo
+| nickname               = 
+| motto                  = "Snellville, Where Everybody's Proud to be Somebody"
+| image_map              = Gwinnett_County_Georgia_Incorporated_and_Unincorporated_areas_Snellville_Highlighted.svg
+| mapsize                = 250px
+| map_caption            = Location in [[Gwinnett County, Georgia|Gwinnett County]] and the state of [[Georgia (U.S. state)|Georgia]]
+| pushpin_map            = Metro Atlanta
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label          = Snellville
+| pushpin_map_caption    = Location of Snellville in [[Metro Atlanta]]
+<!-- Location ------------------>
+| coordinates            = {{coord|33|51|30|N|84|0|23|W|region:US|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = United States
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = [[Georgia (U.S. state)|Georgia]]
+| subdivision_type2      = [[List of counties in Georgia (U.S. state)|County]]
+| subdivision_name2      = [[Gwinnett County, Georgia|Gwinnett]]
+<!-- Politics ----------------->
+| established_title      = Settled
+| established_date       = 1874
+| established_title2     = Incorporated
+| established_date2      = 1923
+| government_type        = [[Council-Manager]]
+| government_footnotes   = 
+| leader_title           = Mayor
+| leader_name            = Barbara Bender
+| leader_title1          = City Manager
+| leader_name1           = Butch Sanders
+| leader_title2          = Police Chief
+| leader_name2           = Roy Whitehead
+<!-- Area    --------------------->
+| unit_pref              = Imperial
+| area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_km2         = 27.46
+| area_land_km2          = 27.12
+| area_water_km2         = 0.34
+| area_water_percent     = 
+| elevation_footnotes    = <!--for references: use<ref> </ref> tags-->
+| elevation_m            = 323.70
+| elevation_ft           = 1062
+<!-- Population   ----------------------->
+| population_footnotes   = <ref name="Census 2010"/>
+| population_total       = 18242
+| population_as_of       = [[2010 United States Census|2010]]
+| population_density_km2 = 740.33
+| population_note        = <!-- General information  --------------->
+| timezone               = [[North American Eastern Time Zone|EST]]
+| utc_offset             = -5
+| timezone_DST           = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST         = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type       = ZIP Code(s)
+| postal_code            = 30078–30039
+| area_code              = [[Area code 770|770]]
+| blank_name             = Cell Phone Area Code(s)
+| blank_info             = [[Area code 770|770]], [[Area code 678|678]], [[Area code 404|404]]
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info            = 0334004<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| blank2_name = Major airport
+| blank2_info = [[Hartsfield–Jackson Atlanta International Airport|ATL]]
+| website                = {{URL|www.snellville.org}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 20077
+|population_density_sq_mi = 1917.39
+|area_total_sq_mi = 10.60
+|area_land_sq_mi = 10.47
+|area_water_sq_mi = 0.13
+}}

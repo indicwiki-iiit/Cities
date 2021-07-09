@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Maastricht
+| native_name             = {{native name|li|Mestreech}}
+| settlement_type         = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = 2017 Maastricht montage.jpg
+| image_alt               = 
+| image_caption           = <small>From top to bottom, left to right: river [[Meuse]] in winter · Town Hall by night · sidewalk cafés at [[Onze Lieve Vrouweplein]] · [[Sint Servaasbrug|Saint Servatius Bridge]] · [[Our Lady, Star of the Sea]] chapel · St. John's and [[Basilica of Saint Servatius|St. Servatius']] churches at [[Vrijthof (Maastricht)|Vrijthof square]] · View from [[Mount Saint Peter]]</small>
+| image_flag              = Flag of Maastricht.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Maastricht wapen.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+| anthem                  = Mestreechs Volksleed
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0935 (2009).svg
+| map_alt                 = Highlighted position of Maastricht in a municipal map of Limburg
+| map_caption             = Location in Limburg
+| coordinates             = {{coord|50|51|N|5|41|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[Limburg (Netherlands)|Limburg]]
+| seat_type               = [[Seat of local government|City Hall]]
+| seat                    = [[Maastricht City Hall]]
+| established_title       = Settled
+| established_date        = ≈ 50 BC
+| established_title1      = City rights
+| established_date1       = 1204
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = coll
+| parts                   = 5 districts
+|p1='''Centrum''' ([[Binnenstad (Maastricht)|Binnenstad]], [[Jekerkwartier]], Kommelkwartier, Statenkwartier, Boschstraatkwartier, Sint Maartenspoort, [[Wyck (Maastricht)|Wyck-Céramique]])
+|p2='''Noordoost''' (Beatrixhaven, [[Borgharen]], [[Itteren]], Meerssenhoven, Wyckerpoort, Wittevrouwenveld, Nazareth, Limmel, [[Amby]])
+|p3='''Zuidoost''' (Randwyck, Heugem, Heugemerveld, Scharn, [[Heer (Maastricht)|Heer]], De Heeg, Vroendaal)
+|p4='''Zuidwest''' ([[Villapark (Maastricht)|Villapark]], Jekerdal, [[Biesland (Maastricht)|Biesland]], Campagne, Wolder, [[Sint Pieter]])
+|p5='''Noordwest''' (Brusselsepoort, Mariaberg, Belfort, Pottenberg, Malpertuis, Caberg, Malberg, Dousberg-Hazendans, Daalhof, [[Boschpoort]], Bosscherveld, Frontenkwartier, Belvédère, Lanakerveld)
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url         = http://www.gemeentemaastricht.nl/bestuur-en-organisatie/college/collegeleden/burgemeester-annemarie-penn-te-strake/
+ |title       = Mrs. Annemarie Penn-te Strake
+ |trans-title = Mr. Annemarie Penn-te Strake
+ |language    = nl
+ |publisher   = Gemeente Maastricht
+ |access-date  = 12 October 2013
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20150703134421/http://www.gemeentemaastricht.nl/bestuur-en-organisatie/college/collegeleden/burgemeester-annemarie-penn-te-strake/
+ |archive-date = 3 July 2015
+}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = 
+| leader_title            = [[List of mayors of Maastricht|Mayor]]
+| leader_name             = [[Annemarie Penn-te Strake]] (independent)
+<!-- Geographic information -->
+| total_type              = Municipality<!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Maastricht}}
+| area_land_km2           = {{Dutch municipality land area|Maastricht}}
+| area_water_km2          = {{Dutch municipality water area|Maastricht}}
+| elevation_footnotes     = <ref name="AHN">{{cite web
+ |url=http://www.ahn.nl/postcodetool 
+ |title=Postcodetool for 6211DW 
+ |language=nl 
+ |work=Actueel Hoogtebestand Nederland 
+ |publisher=Het Waterschapshuis 
+ |access-date=12 October 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool 
+ |archive-date=21 September 2013 
+}}</ref>
+| elevation_m             = 49
+| elevation_min_m         =
+<!-- Population, demographics -->
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| population_total        = {{Dutch municipality population|Maastricht}}
+| population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_density_km2  = {{Dutch municipality population density|Maastricht}} <!-- For automatic calculation: auto-->
+| population_urban        = 277,721
+| population_metro        = ≈ 3,500,000
+| population_demonyms      = ([[Dutch language|Dutch]]) Maastrichtenaar;<br/> ([[Maastrichtian dialect|Limb.]]) Mestreechteneer or "Sjeng" (nickname)
+<!-- Other information -->
+| population_note         = Urban population for Dutch-Belgian region;<ref>Including the Belgian municipalities of [[Lanaken]], [[Riemst]] and [[Maasmechelen]] to the west and [[Visé]] to the south.</ref> metropolitan population for Dutch-Belgian-German region.<ref>Basically, the metropolitan areas of Maastricht, [[Liège]], Hasselt-Genk, Sittard-Geleen, Heerlen-Kerkrade and Aachen-Düren constitute the densely populated urban core of the [[Meuse–Rhine Euroregion]].</ref>
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 6200–6229
+| area_code               = 043
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| website                 = {{URL|1=http://www.maastricht.nl}}
+| footnotes               =
+| elevation_max_m         =
+}}

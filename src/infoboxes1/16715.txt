@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+|name            = Rowland Heights, California
+|settlement_type          = [[Unincorporated community]]<br />[[Census-designated place]]
+|nickname                 =
+
+<!-- Images -->
+|image_skyline            = File:Rowland Heights Night.jpg
+|imagesize                =
+|image_caption            =
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas Rowland Heights highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Rowland Heights in [[Los Angeles County, California|Los Angeles County]], [[California]]
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|established_title        =
+|established_date         =
+
+<!-- Area------------------>
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 13.082
+| area_land_sq_mi         = 13.076
+| area_water_sq_mi        = 0.006
+| area_total_km2          = 33.881
+| area_land_km2           = 33.866
+| area_water_km2          = 0.015
+| area_water_percent      = 0.04
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1661344|Rowland Heights|access-date=March 25, 2015}}</ref>
+|elevation_ft             = 525
+|elevation_m              = 160
+<!-- Population ----------->
+|population_as_of         = 2010
+|population_footnotes     =
+|population_total         = 48993
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              =
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 91748
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area code 562|562]], [[Area code 626|626]], and [[Area code 909|909]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|63218}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1661344}}
+|website                  = [http://www.rowland-heights.org/  RHCCC]
+|named_for                = [[John A. Rowland]]
+}}

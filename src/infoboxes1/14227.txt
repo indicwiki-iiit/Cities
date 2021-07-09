@@ -1,0 +1,24 @@
+{{Infobox UK place
+ 
+|country = Scotland
+|official_name= Inverurie
+|gaelic_name= Inbhir Uraidh 
+|scots_name=
+|static_image_name=Inverurie Town Hall.jpg
+|os_grid_reference= NJ7721
+|coordinates = {{coord|57.28|-2.38|display=inline,title}}
+|map_type=Scotland
+| population = {{Scottish locality populations|name|POP=Inverurie}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|unitary_scotland= [[Aberdeenshire]]
+|lieutenancy_scotland= [[Aberdeenshire]]
+|historic_county = [[Aberdeenshire (historic)|Aberdeenshire]]
+|post_town= INVERURIE
+|postcode_district = AB51
+|postcode_area= AB
+|dial_code= 01467
+|constituency_westminster= [[Gordon (UK Parliament constituency)|Gordon]]
+|constituency_scottish_parliament= [[Aberdeenshire East (Scottish Parliament constituency)|Aberdeenshire East]]
+|edinburgh_distance_mi = 97
+|london_distance_mi = 409
+}}

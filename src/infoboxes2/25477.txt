@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                     = Gering, Nebraska
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = Gering, Nebraska 10th from M 2.JPG
+|image_caption            = Downtown at 10th North and M Street
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Scotts_Bluff_County_Nebraska_Incorporated_and_Unincorporated_areas_Gering_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location within [[Scotts Bluff County, Nebraska|Scotts Bluff County]] and [[Nebraska]]
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nebraska]]
+|subdivision_type2        = [[List of counties in Nebraska|County]]
+|subdivision_name2        = [[Scotts Bluff County, Nebraska|Scotts Bluff]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Tony Kaufman
+|leader_title1            = 
+|leader_name1             = 
+|leader_title2            = [[Gering City Council|City Council]]
+|leader_name2             = 
+|established_title        = Founded
+|established_date         = 1887
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_31.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_total_sq_mi         = 4.30
+|area_land_sq_mi          = 4.30
+|area_water_sq_mi         = 0.00
+|area_total_km2           = 11.14
+|area_land_km2            = 11.14
+|area_water_km2           = 0.00
+|unit_pref                = Imperial
+
+<!-- Population -->
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8128
+|pop_est_as_of            = 2019
+|population_total         = 8500
+|population_density_sq_mi = 1890.23
+|population_density_km2   = 729.90
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1192
+|elevation_ft             = 3911
+|coordinates              = {{coord|41|49|27|N|103|39|54|W|region:US-NE_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 69341
+|area_code                = [[Area code 308|308]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 31-18580
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0829493<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.gering.org/ gering.org]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

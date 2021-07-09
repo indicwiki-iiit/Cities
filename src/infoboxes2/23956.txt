@@ -1,0 +1,37 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|image_skyline = Csorna - Prépostság.jpg
+|image_caption = Aerial view
+|image_shield =HUN Csorna címer.svg
+|image_flag = Flag of Csorna.svg
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Csorna
+|pushpin_mapsize        =
+|official_name=Csorna
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Győr-Moson-Sopron County|Győr-Moson-Sopron]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Csorna District|Csorna]]
+|area_total_km2=91.95
+|population_total=10105
+|population_footnotes=<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=04039 Csorna, KSH]</ref>
+|population_as_of=2019
+|population_density_km2=auto
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=9300
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 96
+|website={{URL|http://www.csorna.hu/}}
+|coordinates            = {{coord|47.6167|17.2500|region:HU|display=inline,title}}
+| blank_name             = Motorways
+| blank_info             = [[M85 motorway (Hungary)|M85]], [[M86 expressway (Hungary)|M86]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|155|km|abbr=on}} East
+}}

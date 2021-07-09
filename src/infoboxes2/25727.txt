@@ -1,0 +1,26 @@
+{{Infobox Australian place | type = town
+| name     = Collie
+| state    = wa
+| image    = Collie WA SMC main street1.JPG
+| caption  = Main street of Collie
+| lga      = [[Shire of Collie]]
+| coordinates = {{coord|33.363|S|116.156|E|display=inline,title}}
+| postcode = 6225
+| est      = 1897
+| pop      = 7192
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="ABS"/>
+| elevation= 204
+|elevation_footnotes=<ref name="abm"/>
+| maxtemp  = 22.5
+| mintemp  = 8.4
+| rainfall = 940.2
+| stategov = [[Electoral district of Collie-Preston|Collie-Preston]]
+| fedgov   = [[Division of O'Connor|O'Connor]]
+| dist1    = 213
+| dir1     = S
+| location1= [[Perth, Western Australia|Perth]]
+| dist2    = 59
+| dir2     = E
+| location2= [[Bunbury, Western Australia|Bunbury]]
+}}

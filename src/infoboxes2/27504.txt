@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Westville, Indiana
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = Community of Progress
+<!-- Images -->
+|image_skyline            = Westville, Indiana (2012).jpg
+|imagesize                = 
+|image_caption            = Main Street in Westville
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = File:LaPorte County Indiana Incorporated and Unincorporated areas Westville Highlighted 1883420.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Westville in LaPorte County, Indiana.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Indiana]]
+|subdivision_type2        = [[List of counties in Indiana|County]]
+|subdivision_name2        = [[LaPorte County, Indiana|LaPorte]]
+|subdivision_type3        = [[List of townships in Indiana|Township]]
+|subdivision_name3        = [[New Durham Township, LaPorte County, Indiana|New Durham]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_18.txt|publisher=United States Census Bureau|access-date=July 16, 2020}}</ref>
+|unit_pref                = Imperial
+|area_magnitude           = 
+|area_land_km2            = 8.42
+|area_water_km2           = 0.00
+|area_total_km2           = 8.42
+|area_total_sq_mi         = 3.25
+|area_land_sq_mi          = 3.25
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5866
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5853
+|population_density_km2   = 696.66
+|population_density_sq_mi = 1804.37
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 242
+|elevation_ft             = 794
+|coordinates              = {{coord|41|32|45|N|86|54|15|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 46391
+|area_code                = [[Area code 219|219]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 18-83420<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0445865<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = http://www.westville.us
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

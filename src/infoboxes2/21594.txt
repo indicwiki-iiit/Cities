@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| other_name        = {{lang|de|Toppoltz}} {{in lang|de}}
+|settlement_type   = [[List of cities and towns in Hungary|Town]]
+|image_skyline   ={{nowrap|[[File:Tapolca (2).jpg|250px]]<br/>[[File:Vízi malom együttes (10455. számú műemlék) 12.jpg|122px]][[File:Vízi malom együttes (10455. számú műemlék) 11.jpg|127px]]}}
+|image_caption   =
+|image_shield    =Coa_Hungary_Town_Tapolca.svg
+|image_flag = Flag of Tapolca.svg
+|subdivision_type = Country
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Tapolca
+|pushpin_mapsize        =|
+
+official_name=Tapolca|
+map=<!--<div style="position: relative">[[File:VeszprémMegye.png|275px]]<div style="position: absolute; left: 53px; top: 100px">[[File:Red_Dot.gif]]</div></div>-->|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Veszprém county|Veszprém]]|
+area_total_km2=63.48|
+population_total=16035|population_footnotes=|
+population_as_of=2010|population_density_km2=279.43|
+|postal_code_type=[[Postal code]]|
+postal_code=8300|
+area_code=87|
+|coordinates            = {{coord|46|52|58|N|17|24|29|E|region:HU_type:city|display=inline,title}}
+}}

@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = New Smyrna Beach, Florida
+| official_name           = City of New Smyrna Beach
+| settlement_type         = [[List of municipalities in Florida|City]]
+| image_skyline           = NewSmyrnaBeachFromLighthouse3.jpg
+| image_caption           = New Smyrna Beach from observation deck on top of [[Ponce de Leon Inlet Light|Ponce de León Inlet Light]]
+| image_seal              = 
+| nickname                = "Florida's Secret Pearl"
+| motto                   = ''Cygnus Inter Anates''
+| image_map               = Volusia County Florida Incorporated and Unincorporated areas New Smyrna Beach Highlighted.svg
+| map_caption             = Location in [[Volusia County, Florida|Volusia County]] and the state of Florida
+| pushpin_map             = USA#Florida
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in the USA##Location in Florida 
+| pushpin_label           = New Smyrna Beach 
+| pushpin_label_position  = top
+| coordinates             = {{coord|29|1|50|N|80|55|31|W|region:US-FL|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flagu|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|Florida}}
+| subdivision_type2       = [[County (United States)|County]]
+| subdivision_name2       = [[Volusia County, Florida|Volusia]]
+| established_title       = Settled
+| established_date        = 1768
+| established_title1      = [[Municipal corporation|Incorporated]] (town)
+| established_date1       = 1887
+| established_title2      = Incorporated (city)
+| established_date2       = 1947
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = [[Council–manager government|Commission–manager]]
+| leader_title            = Mayor
+| leader_name             = Russ Owen
+| leader_title1           = [[City manager]]
+| leader_name1            = Khalid Resheidat
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_sq_mi        = 41.10
+| area_land_sq_mi         = 37.71
+| area_water_sq_mi        = 3.39
+| elevation_footnotes     = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| elevation_ft            = 7
+| population_footnotes    = <ref name="GR2">{{cite web|url=http://quickfacts.census.gov/qfd/states/12/1248625.html|publisher=[[United States Census Bureau]]|access-date=December 14, 2014|title=Quickfacts|url-status=dead|archive-url=https://web.archive.org/web/20120625055104/http://quickfacts.census.gov/qfd/states/12/1248625.html|archive-date=June 25, 2012|df=mdy-all}}</ref><ref>[https://www.census.gov/geo/www/ua/ua2k.txt Urbanized Areas, 2010] {{webarchive|url=https://web.archive.org/web/20120520125931/http://www.census.gov/geo/www/ua/ua2k.txt |date=May 20, 2012 }}. United States Census Bureau. 2010-04-01. Retrieved 2012-03-16.</ref>
+| population_total        = 22464
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_sq_mi = 738.33
+| population_urban        = 349064
+| population_metro        = 590289
+| timezone1               = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset1             = &minus;5
+| timezone1_DST           = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST         = &minus;4
+| postal_code_type        = [[ZIP code]](s)
+| postal_code             = 32168, 32169, 32170
+| area_code               = [[Area code 386|386]]
+| blank_name              = [[Federal Information Processing Standard|FIPS code]]
+| blank_info              = 12-48625<ref name="GR2" />
+| blank1_name             = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info             = 0287692<ref name="GR3" />
+| website                 = {{url|www.cityofnsb.com}}
+| footnotes               = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 27843
+|area_total_km2 = 106.44
+|area_land_km2 = 97.67
+|area_water_km2 = 8.77
+|population_density_km2 = 285.07
+}}

@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|image_skyline = Evangélikus templom (7118. számú műemlék).jpg
+|image_caption = The Lutheran Church of Maglód
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Maglód
+|map=[[File:pestMegye.png|center|thumb|275px|Location of Pest county in Hungary]]
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Pest County|Pest]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Vecsés District|Vecsés]]
+|image_shield=HUN_Maglódi_Címer.svg
+|image_flag = Flag of Maglód.svg
+|area_total_km2=22.37
+|population_total=10872
+|population_as_of=2007
+|population_density_km2=463.97
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=2234
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 29
+|website= {{URL|http://www.maglod.hu/}}
+|pushpin_map =Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption =Location of Maglód
+|pushpin_mapsize =
+|coordinates = {{coord|47.44388|19.35261|region:HU|display=inline,title}}
+}}

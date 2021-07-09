@@ -1,0 +1,33 @@
+{{Infobox UK place
+| official_name = Bath
+| country = England
+| region = South West England
+| static_image_name = 
+| static_image_caption = [[Pulteney Bridge]]
+| population = 88,859
+| population_ref = <ref>Bath is a constituency and unparished area; at the time of the 2011 census the city was exactly co-extensive with 16 wards https://www.nomisweb.co.uk/query/asv2htm.aspx {{Webarchive|url=https://web.archive.org/web/20180930205650/https://www.nomisweb.co.uk/query/asv2htm.aspx |date=30 September 2018 }}</ref>
+| population_demonym = Bathonian
+| os_grid_reference = ST750645
+| map_alt = Map of Somerset, with a red dot showing the position of Bath in the north east corner
+| coordinates = {{coord|51.38|-2.36|display=inline,title}}
+| label_position = left
+| post_town = BATH
+| postcode_area = BA
+| postcode_district = BA1, BA2
+| dial_code = 01225
+| constituency_westminster = [[Bath (UK Parliament constituency)|Bath]]
+| london_distance = {{convert|97|mi|km|0}} [[Boxing the compass|E]]
+| unitary_england = [[Bath and North East Somerset]]
+| lieutenancy_england = [[Somerset]]
+| embedded = {{Infobox UNESCO World Heritage Site
+|child = yes
+|Official_name = City of Bath
+|ID = 428
+|Year = 1987
+|Criteria = Cultural: i, ii, iv
+|Area = 2,900 ha
+}}
+| static_image = File:Puente Pulteney, Bath, Inglaterra, 2014-08-12, DD 51.JPG
+| static_image_2 = File:Bath abbey and roman baths arp.jpg
+| static_image_2_caption = [[Bath Abbey]] and [[Roman Baths (Bath)|The Roman Baths]]
+}}

@@ -1,0 +1,38 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Veliko Tarnovo
+| native_name                     = Велико Търново
+| image_skyline                   = Collage of views of VT G.png
+| image_flag                      = Veliko_tarnovo_flag.png
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Bulgaria}}
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +02:00
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +03:00
+| map_caption                     = Location of Veliko Tarnovo
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Veliko Tarnovo
+| leader_title                    = Mayor
+| population_demonym              = Tarnovets/Tarnovka
+Bolyarin/Bolyarka
+| postal_code_type                = [[Postal codes in Bulgaria|Postal code]]
+| image_shield                    = Veliko-Tarnovo-coat-of-arms.svg
+| subdivision_name1               = [[Veliko Tarnovo Province|Veliko Tarnovo]]
+| population_total                = {{increase}} 68859
+| population_urban                = {{increase}} 87181
+| postal_code                     = 5000
+| area_total_km2                  = 30.379
+| population_density_km2          = auto
+| elevation_m                     = 220
+| area_code                       = 062
+| area_code_type                  = [[Telephone numbers in Bulgaria|Area code]]
+| coordinates                     = {{coord|43|04|40|N|25|37|00|E|region:BG|display=inline,title}}
+| leader_name                     = [[Daniel Panov]]
+| website                         = {{url|veliko-tarnovo.bg/bg/}}
+| settlement_type                 = [[Town]]
+| area_urban_km2                  = 885.3
+| leader_party                    = [[GERB]]
+| name                            = 
+}}

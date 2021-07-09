@@ -1,0 +1,27 @@
+{{Infobox mountain
+| name= Canadian Rockies
+| other_name= Rocheuses canadiennes ([[Canadian French|French]])
+| photo= Snow Dome, Forbes, Lyells, Et al from Mt. Kitchener.jpg
+| photo_caption= [[Snow Dome (Canada)|Snow Dome]], [[Mount Forbes|Mt. Forbes]], [[Mount Lyell (Canada)|the Lyells]], et al from [[Mount Kitchener|Mt. Kitchener]] at the edge of the [[Columbia Icefield]]
+| photo_size=
+| country= [[Canada]]
+| subdivision2_type= Provinces
+| subdivision2= {{enum|[[British Columbia]]|[[Alberta]]}}
+| parent= Pacific Cordillera
+<!-- *** Locations *** -->
+| highest=[[Mount Robson]]
+| elevation_m= 3954
+| coordinates= {{coord|53|06|38|N|119|09|21|W|type:mountain|format=dms|display=inline,title}}
+<!-- *** Dimensions *** -->
+| range_coordinates= 
+| length_km= 1460
+| length_ref=<ref name="Gadd 1995"/>
+| width_km= 180
+| width_ref=<ref name="Gadd 1995"/>
+| area_km2= 194000
+| area_ref=<ref name="Gadd 1995"/>
+<!-- *** Features *** -->
+| geology= Sedimentary rock
+| orogeny= [[Sevier orogeny]]<ref>{{cite web |url=http://geowords.com/histbookpdf/g17.pdf |title=Laramide and Sevier orogenies (PLATE TECTONICS) – g17 |page= 423 |website=geowords.com |access-date=2017-08-20 |archive-date=2020-10-08 |archive-url=https://web.archive.org/web/20201008180353/http://geowords.com/histbookpdf/g17.pdf |url-status=live }}</ref>
+| map_image= Canadian Rockies.png
+}}

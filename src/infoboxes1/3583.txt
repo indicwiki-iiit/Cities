@@ -1,0 +1,76 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Mejillones
+| native_name             = <!-- if different from the English name -->
+| native_name_lang        = es
+| other_name              =
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = 
+| image_alt               =
+| image_caption           =
+| image_flag              = Bandera Mejillones.png
+| flag_alt                = Flag
+| image_shield            = Escudo de Mejillones.svg
+| shield_alt              = Coat of arms
+| image_map               = Comuna de Mejillones.svg
+| map_alt                 = Map of Mejillones in Antofagasta Region
+| map_caption             = Map of Mejillones in Antofagasta Region
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = Location in Chile
+| pushpin_map_caption     = Location in Chile
+| coordinates             = {{coord|23|06|S|70|27|W|region:CL-AT|display=inline,title}}
+| coor_pinpoint           = city
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Chile}}
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = {{flag|Antofagasta}}
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[Antofagasta Province|Antofagasta]]
+| established_title       = Founded
+| established_date        = 1842
+| founder                 =
+| named_for               =
+| government_footnotes    = 
+| government_type         = [[Municipality]]
+| leader_party            =
+| leader_title            = [[Alcalde|Mayor]]
+| leader_name             = <!-- add &nbsp; (no-break space) to disable automatic links -->
+| unit_pref               = Metric
+| area_footnotes          = <ref name="INE">{{in lang|es}} [http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php Instituto Nacional de Estadísticas]</ref>
+| area_total_km2          = 3803.9<!-- ALL fields with measurements have automatic unit conversion -->
+| area_rank               =
+| elevation_footnotes     = 
+| elevation_m             = 5
+| elevation_max_footnotes = 
+| elevation_max_m         =
+| population_footnotes    = <ref name="INE"/>
+| population_total        = 9218
+| population_as_of        = 2012 census
+| population_rank         =
+| population_density_km2  = auto
+| population_demonym      = Mejillonino
+| population_note         =
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 7888
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 530
+| demographics_type1      = Sex
+| demographics1_footnotes = <ref name="INE"/>
+| demographics1_title1    = Men
+| demographics1_info1     = 4,654
+| demographics1_title2    = Women
+| demographics1_info2     = 3,764
+|timezone = [[Time in Chile|CLT]]
+| utc_offset = −4
+|timezone_DST = [[Time in Chile|CLST]]
+| utc_offset_DST = −3
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| area_code               = 56 + 55
+| registration_plate      =
+| website                 = [http://www.mejillones.cl/ Municipality of Mejillones]
+| footnotes               =
+}}

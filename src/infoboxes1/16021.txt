@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name                            = Apple Valley, California
+| settlement_type                 = [[Town (California)|Town]]
+| nickname                        = "Apple of the Desert"
+| motto                           = "A Better Way of Life!"
+
+<!-- Images -->| image_skyline                   = File:EM Apple Valley Airport (3686051252).jpg
+| image_caption                   = Apple Valley Airport
+| image_flag                      = 
+| image_seal                      = Seal of Apple Valley, California.png
+
+<!-- Maps -->| image_map                       = File:San Bernardino County California Incorporated and Unincorporated areas Apple Valley Highlighted 0602364.svg
+| map_caption                     = Location of Apple Valley in San Bernardino County, California.
+| coordinates                     = {{coord|34|30|03|N|117|11|09|W|region:US-CA|display=inline,title}}
+| coordinates_footnotes           = <ref name=GNIS>{{Cite GNIS|1660259|Apple Valley|access-date=November 12, 2014}}</ref>
+| pushpin_map                     = California#USA#North America
+| pushpin_label                   = Apple Valley
+| pushpin_map_caption             = Location in California
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Bernardino County, California|San Bernardino]]
+| government_type                 = [[Council–manager government|Council–manager]]
+| leader_title                    = [[City council]]<ref name=co>{{Cite web
+ |url=https://www.applevalley.org/government/town-council
+ |title=Town Council 
+ |publisher=Town of Apple Valley 
+ |access-date=March 28, 2021}}</ref>
+| leader_name                     = [[Mayor]] Curt Emick, <br/> [[Mayor Pro Tem]] Kari Leon, <br/> Art Bishop, <br/> Larry Cusack, and <br/> Scott Nassif
+| leader_title2                   = 
+| leader_name2                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = November 28, 1988<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>| total_type                      = Total
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 74.94
+| area_land_sq_mi                 = 74.87
+| area_water_sq_mi                = 0.07
+| area_total_km2                  = 194.09
+| area_land_km2                   = 193.91
+| area_water_km2                  = 0.19
+| area_water_percent              = 0.45
+| area_metro_km2                  = 
+| area_metro_sq_mi                = <!-- Elevation ------------>
+| elevation_footnotes             = <ref name=GNIS/>
+| elevation_ft                    = 2946
+| elevation_m                     = 898
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0602364.html|title=Apple Valley (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 26, 2015|archive-url=https://www.webcitation.org/69xZCfUEk?url=http://quickfacts.census.gov/qfd/states/06/0602364.html|archive-date=August 16, 2012|url-status=dead}}</ref>
+| population_total                = 69135
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 73453
+| population_density_sq_mi        = 981.09
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = <!-- Time zones ----------->
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92307, 92308 <ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Apple%20Valley | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | access-date = 2007-02-20}}</ref>
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area codes 442 and 760|442/760]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Apple%20Valley | title = Number Administration System - NPA and City/Town Search Results | access-date = 2007-02-20 | archive-url = https://web.archive.org/web/20070926212352/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Apple%20Valley | archive-date = September 26, 2007 | url-status = dead | df = mdy-all }}</ref>
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|02364}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1660259}}, {{GNIS 4|2412372}}
+| website                         = {{URL|www.applevalley.org}}
+| population_density_km2          = 378.80
+}}

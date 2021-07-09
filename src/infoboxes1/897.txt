@@ -1,0 +1,45 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Nkawkaw
+|other_name            =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type  = [[Town]] <!--For Town or Village (Leave blank for the default City)-->
+|motto  =
+<!-- images and maps  ----------->
+|image_skyline  = Nkawkaw Eastern Region Ghana.jpg
+|imagesize   =
+|image_caption = Nkawkaw as seen from [[hill]]s
+|image_flag =
+|flag_size =
+|image_blank_emblem     = Kwahu West Municipal District logo.jpg
+|blank_emblem_type      = Kwahu West Municipal District logo
+|blank_emblem_link      = Kwahu West Municipal District
+|blank_emblem_size      = 130px 
+|pushpin_map = Ghana<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --> 
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location of Nkawkaw in [[Eastern Region, Ghana|Eastern Region]], Ghana
+<!-- Location ------------------>
+|subdivision_type       =
+|subdivision_name    =
+|subdivision_type1      = Region
+|subdivision_name1      = [[Eastern Region, Ghana|Eastern Region]]
+|subdivision_type2      = District
+|subdivision_name2      = [[Kwahu West Municipal District|Kwahu West Municipal]]
+|subdivision_type3  =
+|subdivision_name3  =
+|area_blank1_sq_mi  =
+<!-- Population   ----------------------->
+|population_as_of               =2013
+|population_footnotes           =
+|population_note                =
+|population_total               = 61,785<ref name="World Gazetteer">{{cite web |url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com }}</ref>
+|population_density_km2 =
+|population_density_sq_mi  =
+<!-- General information  --------------->
+|timezone  = [[Greenwich Mean Time|GMT]]
+|utc_offset =
+|timezone_DST  = [[Greenwich Mean Time|GMT]]
+|coordinates            = {{coord|6|33|N|0|46|W|region:GH|display=inline,title}}
+}}

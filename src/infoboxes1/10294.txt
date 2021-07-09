@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Pamukova
+| image_skyline           = Pamukovah1.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|31|N|30|10|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Sakarya Province|Sakarya]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = 
+| leader_title            = <!-- Mayor -->
+| leader_name             = 
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| area_footnotes          = <ref name=area-hgk>{{cite web|title=İl ve İlçe Yüzölçümleri|trans-title=Provincial and District surface area|url=http://www.hgk.msb.gov.tr/urunler/diger/il_ilce_alanlari.pdf|publisher=Harita Genel Komutanlığı|accessdate=2013-02-28|language=Turkish|archive-date=2015-04-05|archive-url=https://web.archive.org/web/20150405060044/http://www.hgk.msb.gov.tr/urunler/diger/il_ilce_alanlari.pdf|url-status=dead}}</ref> 
+| area_blank1_title       = District
+| area_blank1_km2         = 360
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Sakarya}}
+| population_urban        = {{Turkey district populations|Sakarya|Pamukova|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Sakarya|Pamukova|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Mediterranean climate#Hot-summer Mediterranean climate|Csa]]
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

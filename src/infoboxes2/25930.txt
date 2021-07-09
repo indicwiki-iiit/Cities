@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = City of Hughson
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = A Small Community, with a Big Heart!
+<!-- images and maps  ----------->
+|image_skyline            = [[File:Hughson California Water Tower.jpg|250px ]]<br/> "Welcome to Hughson" utility tank
+|imagesize                = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Hughson, California (city seal).gif
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = File:Stanislaus County California Incorporated and Unincorporated areas Hughson Highlighted 0634904.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Hughson in Stanislaus County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief		  = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Stanislaus County, California|Stanislaus]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = December 9, 1972<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 1.91
+| area_land_sq_mi         = 1.91
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 4.94
+| area_land_km2           = 4.94
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 6640
+|population_density_km2   = 1532.18
+|population_density_sq_mi = 3969.05
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|36|11|N|120|52|1|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 38
+|elevation_ft             = 125
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95326
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 209|209]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|34904}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1656082}}
+|website                  = {{URL|www.hughson.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7565
+}}

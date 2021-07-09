@@ -1,0 +1,41 @@
+{{Infobox Portuguese subdivision
+| type            = municipality
+| name                    = Loulé
+| image_skyline           = {{Photomontage
+| photo1a                 = Marina de Cavacos, Quarteira (36887717511) (cropped).jpg
+| photo2a                 = Loulé DSC 0510 (36887347823) (cropped).jpg
+| photo2b                 = Loulé DSC 0497 (23704971258).jpg
+| photo2c                 = Petite rue à Querença (Portugal) (318491205) (cropped).jpg
+| photo3a                 = Portugal - Faro district - 2014 086.JPG
+| photo3b                 = Ilha de Faro - Portugal (8623008636).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            =
+}}
+| image_flag              = Pt-lle3.png
+| image_shield            = COA of Loulé municipality (Portugal).png
+| image_map               = LocalLoule.svg
+| map_caption             = Location of the municipality of Loulé in continental Portugal
+| coordinates             = {{coord|37|09|N|8|00|W|type:adm1st_region:PT_dim:100000|display=inline,title}}
+|region             = [[Algarve]]
+|CIM                = [[Algarve]]
+|district           = [[Faro District|Faro]]
+|parishes           = [[#Geography|9]]
+| established_date        = Settlement: Late [[Paleolithic]]<br/>[[Foral]]: c. 1249 
+| leader_party            = [[Socialist Party (Portugal)|PS]]
+| leader_name             = Vitor Manuel Gonçalves Aleixo<!-- add &nbsp; (no-break space) to disable automatic links -->
+| area_total_km2          = 763.67<!-- ALL fields with measurements have automatic unit conversion -->
+| elevation_m             = 49
+<!-- | population_footnotes    = [[Instituto Nacional de Estatística]]<ref name="INE">{{citation |url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=131011251&PUBLICACOEStema=5414321&PUBLICACOESmodo=2 |title=Censos 2011 - Resultadas Preliminares |publisher=Instituto Nacional de Estatística |location=Lisbon, Portugal |language=pt |access-date=1 January 2012 |year=2010 |editor=INE |editor-link=Instituto Nacional de Estatística}}</ref> for references: use <ref> tags -->
+| population_total        = 70622
+| population_as_of        = 2011
+| postal_code             = 8104-001 
+| area_code               = 289 
+| holiday                 = [[Feast of the Ascension|Ascension]]
+| patron                  = [[Blessed Virgin Mary|Nossa Senhora da Piedade]]<!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+| website                 = {{URL|http://www.cm-loule.pt}}<!-- {{URL|example.com}} -->
+<!-- | footnotes               = Geographic detail from CAOP (2010) produced by Instituto Geográfico Português (IGP)<ref>{{citation|url=http://www.igeo.pt/produtos/cadastro/caop/download/Areas_Freg_Mun_Dist_CAOP2010.zip|title=Carta Administrativa Oficial de Portugal|publisher=Instituto Geográfico Português|location=Lisbon, Portugal|language=pt|access-date=1 January 2012|year=2010|editor=IGP}}</ref> -->
+}}

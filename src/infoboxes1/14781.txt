@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name            = District Heights, Maryland
+|official_name            = City of District Heights
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = District Heights MD City Seal.png
+
+<!-- Maps -->
+|image_map = Prince_George's_County_Maryland_Incorporated_and_Unincorporated_areas_District_Heights_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of District Heights, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[County (United States)|County]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_name2        = {{flagicon image|Flag of Prince George's County, Maryland (1963–present).svg}} [[Prince George's County, Maryland|Prince George's]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date = 1936<ref>{{cite web|title=District Heights|url=http://msa.maryland.gov/msa/mdmanual/37mun/district/html/d.html|website=Maryland Manual|access-date=27 June 2017}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 2.24
+|area_land_km2            = 2.24
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 0.86
+|area_land_sq_mi          = 0.86
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5984
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5837
+|population_density_km2   = 2670.91
+|population_density_sq_mi = 6917.92
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|EST]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 81
+|elevation_ft             = 266
+|coordinates              = {{coord|38|51|34|N|76|53|21|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 20747, 20753
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-23025
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0597330
+|website                  = http://www.districtheights.org/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,22 @@
+{{Infobox settlement
+|name                   = Vícam
+|pushpin_map            = Mexico
+|pushpin_label_position = above
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Mexico
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Mexico}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Sonora]]
+|subdivision_type2      = [[Municipio]]
+|subdivision_name2      = [[Guaymas]]
+|population_total       = 8,578
+|population_as_of       = 2005
+|elevation_m            = 10
+|coordinates            = {{coord|27|38|32|N|110|17|23|W|region:MX|display=inline,title}}
+|timezone               = [[Time in Mexico|MST]]
+|utc_offset             = -7
+|postal_code_type       = Postal code
+|postal_code            = 85510
+|area_code              = 643
+}}

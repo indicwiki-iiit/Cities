@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Chisago City
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Gateway to the Lakes"<ref>{{cite web|url=  http://www.ci.chisago.mn.us/|title= Chisago City Minnesota|publisher= Chisago City Minnesota |accessdate= October 4, 2012}}</ref>
+
+<!-- Images -->
+|image_skyline            = Chisago_City_MN_downtown.jpg
+|imagesize                = 
+|image_caption            = Statue of [[Vilhelm Moberg]] in downtown Chisago City
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Chisago_County_Minnesota_Incorporated_and_Unincorporated_areas_Chisago_City_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Chisago City<br>within Chisago County, Minnesota
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Chisago County, Minnesota|Chisago]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|accessdate=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 38.22
+|area_land_km2            = 32.47
+|area_water_km2           = 5.75
+|area_total_sq_mi         = 14.76
+|area_land_sq_mi          = 12.54
+|area_water_sq_mi         = 2.22
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5224
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 4967
+|population_density_km2   = 160.90
+|population_density_sq_mi = 416.72
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 282
+|elevation_ft             = 925
+|coordinates              = {{coord|45|21|54|N|92|53|12|W|region:US-MN|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 55013
+|area_code                = [[Area code 651|651]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-11350<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0641169<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.ci.chisago.mn.us/ www.ci.chisago.mn.us]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

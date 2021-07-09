@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name            = Poreč
+| official_name   = {{lang-hr|Grad Poreč}}<br/>{{lang-it|Città di Parenzo}}<ref>[http://www.porec.hr The official site], see also [https://web.archive.org/web/20090412111545/http://www.barkun.hr/index.php/2009041024685/POREC/Od-sada-me-zovite-Grad-Porec-Parenzo.html the amendments to the Statute]</ref><br />City of Poreč
+|settlement_type        = [[List of cities and towns in Croatia|City]]
+<!-- images and maps  ----------->
+| image_skyline          = {{Photomontage|position=center
+|photo1a =Panorama of Porec - Parenzo at dawn.jpg
+|photo2a =Općina Poreč, Croatia - panoramio (1).jpg
+|photo2b =Дорожка к морю - panoramio.jpg
+|photo3a =DSC 0272 Eufrazijeva bazilika.jpg
+|photo3b =Poreč–Theatre-01.jpg
+|photo4a =Poreč–Ula Decumanus-01.jpg
+|photo4b =Poreč–Romanesque house-01.jpg
+|photo4c =Croatia BW 2014-10-08 10-05-45 1.jpg
+|photo5a =Panorama of the square in Porec - panoramio.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+}}
+| image_caption          = Poreč
+| image_flag             = Zastava Poreča.svg
+| image_shield           =
+| pushpin_map            = Croatia
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_mapsize        = 
+<!-- Location ------------------>
+| pushpin_map_caption    = 
+| coordinates            = {{coord|45|13|38|N|13|35|45|E|region:HR-18|display=inline,title}}
+| subdivision_type    = [[List of sovereign states|Country]]
+| subdivision_name    = {{flag|Croatia}}
+| subdivision_type1   = [[Counties of Croatia|County]]
+| subdivision_type2   = 
+| subdivision_name1   = [[File:Zastava Istarske županije.svg|border|23px]] [[Istria County|Istria]]
+| subdivision_name2   = 
+<!-- Politics ----------------->
+| established_title    = <!-- Settled -->
+| established_date     = 
+<!-- Area    --------------------->
+| government_footnotes = 
+| government_type      = 
+| leader_title         = Mayor
+| leader_name          = Loris Peršurić<ref>http://www.porec.hr/prva.aspx?stranica=56&pid=54</ref> ([[Istrian Democratic Assembly|IDS]])
+|leader_title1      = City Council
+|leader_name1       = {{Collapsible list
+ |title   = 17 members
+ |frame_style= border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Istrian Democratic Assembly|IDS]] (9)
+ |2     =• [[Social Democratic Party of Croatia|SDP]], [[Croatian Peasant Party|HSS]], [[Croatian People's Party – Liberal Democrats|HNS]], [[Croatian Social Liberal Party|HSLS]] (3)
+ |3     =• [[Croatian Democratic Union|HDZ]] (1)
+ |4     =• [[Croatian Party of Pensioners|HSU]] (1)
+ |5     =• [[Human Shield (political party)|ŽZ]] (1)
+ |6     =• Independents (2) 
+}}
+| unit_pref      = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes = 
+| area_magnitude = 
+| area_total_km2 = 139
+| area_land_km2  = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2 = 
+<!-- Population   ----------------------->
+| elevation_footnotes = <!--for references: use <ref> tags-->
+| elevation_m         = 29
+<!-- Area/postal codes & others -------->
+| population_total       = 16696
+| population_as_of       = 2011
+| population_footnotes   = <ref name="census2011">{{Croatian Census 2011|S|18|3484}}</ref>
+| population_density_km2 = auto
+<!-- General information  --------------->
+| population_note        = 
+| postal_code_type = Postal code
+| postal_code      = 52 440
+| area_code        = 052
+| website          = [http://www.porec.hr porec.hr]
+| footnotes        = 
+| timezone            = [[Central European Time|CET]]
+| utc_offset          = +1
+| timezone_DST        = [[Central European Summer Time|CEST]]
+| utc_offset_DST      = +2
+}}

@@ -1,0 +1,43 @@
+{{Infobox Australian place | type = suburb
+| name     = Bongaree
+| city     = Bribie Island
+| state    = qld
+| image               = Bongaree Jetty looking north, 2006.jpg
+| caption             = Bongaree Jetty looking north, 2006
+| coordinates         = {{coord|-27.0813|153.1636|type:city_region:AU-QLD|display=inline|name=Bongaree (centre of suburb)}}
+| pop                 = 6947
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4507
+| area                = 8.2
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 25.9 <!-- road distances as per template instructions -->
+| dir1                = E
+| location1           = [[Caboolture, Queensland|Caboolture]]
+| dist2               = 47
+| dir2                = N
+| location2           = [[Redcliffe, Queensland|Redcliffe]]
+| dist3               = 47.7
+| dir3                = NW
+| location3           = [[Strathpine, Queensland|Strathpine]]
+| dist4               = 71.5
+| dir4                = NNW
+| location4           = [[Brisbane]]
+| elevation= 
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| lga      = [[Moreton Bay Region]]
+| stategov = [[Electoral district of Pumicestone|Pumicestone]]
+| fedgov   = [[Division of Longman|Longman]]
+| near-n   = [[Woorim, Queensland|Woorim]]
+| near-ne  = [[Woorim, Queensland|Woorim]]
+| near-e   = [[Woorim, Queensland|Woorim]]
+| near-se  = ''[[Moreton Bay]]''
+| near-s   = ''[[Moreton Bay]]''
+| near-sw  = ''[[Moreton Bay]]''
+| near-w   = [[Sandstone Point, Queensland|Sandstone Point]]
+| near-nw  = [[Bellara, Queensland|Bellara]]
+}}

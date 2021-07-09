@@ -1,0 +1,42 @@
+{{Infobox mountain
+| name = Mount Fuji
+| photo = File:080103 hakkai fuji.jpg
+| photo_size = 
+| photo_caption = Mount Fuji, Japan, seen from Oshino Hakkai
+| map = Japan#Japan Shizuoka Prefecture
+| map_caption = Location of Mount Fuji in Japan
+| location = [[Fuji-Hakone-Izu National Park]]
+| country = [[Japan]]
+| subdivision1 = {{enum|[[Shizuoka Prefecture|Shizuoka]]|[[Yamanashi Prefecture|Yamanashi]]}}
+| subdivision1_type = [[Prefectures of Japan|Prefectures]]
+| settlement = {{enum|[[Fuji, Shizuoka|Fuji]]|[[Fujinomiya, Shizuoka|Fujinomiya]]|[[Fujiyoshida]]|[[Gotemba, Shizuoka|Gotemba]]|[[Narusawa, Yamanashi|Narusawa]]|[[Oyama, Shizuoka|Oyama]]}}
+| settlement_type = [[Municipalities of Japan|Shikuchōson]]
+| label_position = 
+| coordinates = {{coord|35|21|38|N|138|43|39|E|type:mountain_scale:100000|format=dms|display=inline,title}}
+| prominence_m = 3776
+| prominence_ref = <ref name=Fujiinfo /><br><small>[[List of peaks by prominence|Ranked 35th]]</small>
+| listing = {{plainlist|
+*[[List of countries by highest point|Highest peak in Japan]]
+*[[Ultra-prominent peak]]s
+*[[List of mountains and hills of Japan by height|List of mountains in Japan]]
+*[[100 Famous Japanese Mountains]]}}
+| native_name = {{native name|ja|富士山}}
+| pronunciation = {{IPA-ja|ɸɯꜜ(d)ʑisaɴ|}}
+| topo_map = [[Geospatial Information Authority]] 25000:1 {{lang|ja|富士山}}<ref name="watch tizu" /><br>50000:1 {{lang|ja|富士山}}
+| coordinates_ref = <ref name="Triangulation station">Triangulation station is 3775.63m. {{cite web|url=http://sokuseikagis1.gsi.go.jp/|title=Information inspection service of the Triangulation station|publisher=[[Geospatial Information Authority of Japan]], (甲府–富士山–富士山)|language=ja |access-date=February 8, 2011}}</ref>
+| mountain_type = [[Stratovolcano]]
+| age = 100,000 years
+| last_eruption = [[Hōei eruption|1707–08]]
+| first_ascent = 663 by [[En no Gyōja|En no Odzunu]] (役行者, En no gyoja, En no Odzuno)
+| easiest_route = [[Hiking]]
+| embedded = {{Infobox UNESCO World Heritage Site
+ |child = yes
+ |Official_name = Fujisan, sacred place and source of artistic inspiration
+ |ID = 1418
+ |Year = 2013
+ |Criteria = Cultural: iii, vi
+ |Area = 20,702.1 ha
+ |Buffer_zone = 49,627.7 ha
+ }}
+| map_size = 280
+}}

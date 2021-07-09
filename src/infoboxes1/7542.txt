@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                   = Kfar Yona
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|כְּפַר יוֹנָה}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|كفار يونا}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 2014)
+| translit_lang1         = Hebrew
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Kefar Yona (official)
+| image_skyline          = "כל הכפר" - כפר יונה ממבט הרחפן.jpg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|19|1.57|N|34|56|8.74|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 23 January 1932
+| leader_title           = Mayor
+| leader_name            = Shosh Kahlon
+| unit_pref              = dunam
+| area_total_km2         = {{formatnum:11|R}}
+| area_total_dunam       = {{formatnum:11,017|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Kefar Yona}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = http://kfar-yona.muni.il/
+}}

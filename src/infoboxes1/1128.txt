@@ -1,0 +1,64 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Sabha
+| other_name             = Sebha 
+| native_name            = {{lang|ar|سبها}}
+| nickname               = 
+| settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+| motto                  = 
+<!-- images and maps  ----------->
+| image_skyline           = Sebha Bank from Kazem hotel 2010-02-08.jpg
+| imagesize               = 
+| image_caption           = Sebha Bank from Kazem hotel
+| image_map               = 
+| mapsize                 = 
+| map_caption             = 
+| pushpin_map             = Libya <!-- the name of a location map as per [[Template:Location map]] -->
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Location in [[Libya]]<!-- Location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Libya}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Fezzan]]
+| subdivision_type2       = [[Districts of Libya|District]]
+| subdivision_name2       = [[Sabha District|Sabha]]
+<!-- Politics ----------------->
+| government_footnotes    = 
+| government_type         = 
+| leader_title            = 
+| leader_name             = 
+| established_title       = <!-- Settled -->
+| established_date        = 
+| area_total_km2          = 
+<!-- Population   ----------------------->
+| population_as_of        = 2012
+| population_footnotes    = <ref name="gazeteer">{{cite web |last=World Gazetteer |author-link=World Gazetteer | url=http://www.world-gazetteer.com/wg.php?x=1273372850&men=gcis&lng=en&des=gamelan&geo=-133&srt=dpnn&col=abcdefghimoq&msz=1500&pt=c&va=&srt=pdnn |title=Libya: largest cities and towns and statistics of their population |access-date=15 October 2011 |archive-url=https://archive.today/20121204173451/http://www.world-gazetteer.com/wg.php?x=1273372850&men=gcis&lng=en&des=gamelan&geo=-133&srt=dpnn&col=abcdefghimoq&msz=1500&pt=c&va=&srt=pdnn |archive-date=4 December 2012}}</ref>
+| population_note         = 
+| population_total        = 99028
+| population_density_km2  = 
+| population_density_sq_mi = 
+| population_metro        = 
+| population_density_metro_km2 = 
+| population_blank1_title = Ethnicities
+| population_blank1       = 
+| population_blank2_title = Religions
+| population_blank2       = 
+| population_density_blank1_km2 = 
+| population_density_blank1_sq_mi = 
+<!-- General information  --------------->
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = 
+| utc_offset_DST          = 
+| coordinates             = {{coord|27|02|20|N|14|25|35|E|region:LY|display=inline}}
+| elevation_footnotes     = 
+| elevation_m             = 420
+| elevation_ft            = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             = 
+| area_code               = 
+| website                 = 
+| footnotes               = 
+}}

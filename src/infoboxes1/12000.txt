@@ -1,0 +1,108 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+|official_name            = City of Yuba City
+|settlement_type          = [[List of cities and towns in California|City]]
+|other_name               = 
+|native_name              = <!-- Images and maps ------>
+|image_skyline            = Yuba_City_CA_From_Air.jpg
+|image_caption            = Yuba City, from the air
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = 
+|motto                    = 
+|image_map                = Sutter_County_California_Incorporated_and_Unincorporated_areas_Yuba_City_Highlighted.svg
+|map_caption              = Location in [[Sutter County, California|Sutter County]] and the state of California
+|pushpin_map              = USA California Northern#California#USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_label            = Yuba City
+<!-- Location ------------->
+|coordinates              = {{coord|39|8|5|N|121|37|34|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California, California|California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sutter County, California|Sutter]]
+<!-- History -------------->
+|established_title        = Founded
+|established_date         = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = January 23, 1908<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Preet Didbal<ref>{{Cite web
+ |url         = http://sacramento.cbslocal.com/2017/12/06/yuba-city-first-sikh-mayor//
+ |title       = Yuba City Swears In First Female Sikh Mayor
+ |publisher   = CBS Sacramento
+ |access-date  = December 20, 2017
+ |url-status     = live
+ |archive-url  = https://web.archive.org/web/20171222105710/http://sacramento.cbslocal.com/2017/12/06/yuba-city-first-sikh-mayor/
+ |archive-date = December 22, 2017
+ |df          = mdy-all
+}}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = <!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 14.98
+| area_total_km2          = 38.79
+| area_land_sq_mi         = 14.90
+| area_land_km2           = 38.59
+| area_water_sq_mi        = 0.08
+| area_water_km2          = 0.20
+| area_water_percent      = 0.53
+|area_metro_sq_mi         = 
+|area_metro_km2           = <!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1660222|Yuba City|access-date=November 9, 2014}}</ref>
+|elevation_ft             = 59
+|elevation_m              = 18
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0686972.html|title=Yuba City (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 11, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150323015523/http://quickfacts.census.gov/qfd/states/06/0686972.html|archive-date=March 23, 2015|df=mdy-all}}</ref>
+|population_total         = 64925
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 67010
+|population_density_sq_mi = 4497.32
+|population_metro         = 
+|population_density_metro_sq_mi = 
+|population_density_metro_km2 = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95991–95993<ref>{{Cite web
+ |url         = https://tools.usps.com/go/ZipLookupAction!input.action
+ |title       = ZIP Code(tm) Lookup
+ |publisher   = [[United States Postal Service]]
+ |access-date  = November 9, 2014
+ |url-status     = live
+ |archive-url  = https://web.archive.org/web/20141116111202/https://tools.usps.com/go/ZipLookupAction!input.action
+ |archive-date = November 16, 2014
+ |df          = mdy-all
+}}</ref>
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 530|530]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|86972}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1660222}}
+|website                  = {{URL|www.yubacity.net}}
+|population_density_km2 = 1736.39
+}}

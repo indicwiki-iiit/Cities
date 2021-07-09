@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Town of Huntersville 
+|name = Huntersville, North Carolina
+|settlement_type          = Town
+|nickname                 = 
+|motto                    = 
+|named_for                = Robert Hunter<ref>{{cite web |url=https://ncpedia.org/gazetteer/search/huntersville/0 |title=North Carolina Gazetteer |access-date= December 25, 2020}}</ref>
+
+<!-- Images -->
+|image_skyline            = Huntersville, North Carolina (2009).jpg
+|imagesize                = 
+|image_caption            = Downtown Huntersville
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Mecklenburg County North Carolina Incorporated and Unincorporated areas Huntersville highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Huntersville, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Mecklenburg County, North Carolina|Mecklenburg]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 106.96
+|area_land_km2            = 106.42
+|area_water_km2           = 0.54
+|area_total_sq_mi         = 41.30
+|area_land_sq_mi          = 41.09
+|area_water_sq_mi         = 0.21
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 46773
+|population_density_km2   = 545.94
+|population_density_sq_mi = 1413.99
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 810
+|coordinates              = {{coord|35|24|38|N|80|50|34|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 28070, 28078
+|area_code                = [[Area code 704|704, 980]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-33120<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 987260<ref name=GNIS1>{{gnis|987260|Huntersville}}</ref>
+|website                  = {{URL|http://www.huntersville.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 58098
+}}

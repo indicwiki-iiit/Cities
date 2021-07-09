@@ -1,0 +1,117 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Hezuo}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{lang|zh|合作市}} · {{bo-textonly|གཙོས་གྲོང་ཁྱེར།}}}}
+|other_name             = 
+|nickname               = 
+|settlement_type        =[[County-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Hezuo.jpg
+|imagesize              = 
+|image_caption          = Monastery in Hezuo
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Hezuo within Gansu (China).png
+|mapsize                =  
+|map_caption            = Hezuo City (red) within Gannan Prefecture (yellow) and Gansu
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+<!-- Location ------------------>
+|pushpin_map = China Gansu
+|pushpin_label_position = left
+|pushpin_map_caption = Location in Gansu
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Gansu]]
+|subdivision_type2      = [[Autonomous prefecture]]
+|subdivision_name2      = [[Gannan Tibetan Autonomous Prefecture|Gannan]]
+|seat_type              = Municipal seat
+|seat                   = Jianmuke'er Subdistrict ({{nowrap|{{lang|zh-hans|[[:zh:坚木克尔街道|坚木克尔街道]]}}}})
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =<!-- CPC Secretary -->
+|leader_name            =
+|leader_title1          =<!-- Mayor -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 2670
+|area_land_km2            = 
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 2883
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               = 2017
+|population_footnotes           =
+|population_note                =
+|population_total               = 95000
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Hezhou municipal government
+|coordinates            = {{coord|35.0002|N|102.9103|E|type:adm3rd_region:CN-62_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 747000
+|area_code              = (0)941
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

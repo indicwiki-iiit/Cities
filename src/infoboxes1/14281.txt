@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name                     = Patchogue, New York
+|official_name            = Incorporated Village of Patchogue
+|settlement_type          = [[Village (New York)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Patchogue Post Office.jpg
+|imagesize                = 
+|image_caption            = [[US Post Office-Patchogue]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position = none
+|pushpin_map_caption    = Location within the state of New York
+|pushpin_mapsize        = 
+|image_map                = Patchogue-map.gif
+|mapsize                  = 250x200px
+|map_caption              = U.S. Census map
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Suffolk County, New York|Suffolk]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Paul V. Pontieri Jr.
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 6.53
+|area_land_km2            = 5.85
+|area_water_km2           = 0.67
+|area_total_sq_mi         = 2.52
+|area_land_sq_mi          = 2.26
+|area_water_sq_mi         = 0.26
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 11798
+|population_density_km2   = 2104.68
+|population_density_sq_mi = 5451.77
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 6
+|elevation_ft             = 20
+|coordinates              = {{coord|40|45|48|N|73|1|4|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 11772
+|area_code                = [[Area codes 631 and 934|631, 934]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-56660
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0959977
+|website                  = {{URL|www.patchoguevillage.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 12321
+}}

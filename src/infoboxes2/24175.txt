@@ -1,0 +1,59 @@
+{{Infobox settlement
+| name                    = Litovel
+| native_name             = 
+| other_name              = 
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Litovel - Square of Přemysl Otakar II.jpg
+| image_caption           = [[Ottokar II of Bohemia|Přemysl Otakar]] Square
+| image_flag              = Litovel CZ flag.gif
+| image_shield            = Litovel_znak.png
+| motto                   = 
+| nickname                = Venice of [[Haná|Hanakia]]
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Olomouc Region|Olomouc]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Olomouc District|Olomouc]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|49|42|5|N|17|4|32|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Viktor Kohout
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1270
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 46.39
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 233
+<!-- population -->
+| population_as_of        = 2020-01-01<ref>{{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=2020-04-30}}</ref>
+| population_footnotes    = 
+| population_total        = 9738
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 784 01
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|https://www.litovel.eu/}}
+| footnotes               = 
+}}

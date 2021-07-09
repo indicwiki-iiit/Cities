@@ -1,0 +1,100 @@
+{{Infobox settlement
+|official_name            = City of New London <!-- Change this and you break the "Seal" wikilink -->
+|settlement_type          = City
+|image_skyline            = New London skyline from Fort Griswold, December 2017.jpg
+|imagesize                = 300px
+|image_caption            = New London skyline from [[Fort Griswold]]
+|image_flag               = 
+|image_seal               = Seal_of_City_of_New_London.png
+|nickname                 = The Whaling City
+|motto                    = ''[[Mare Liberum]]''
+|image_map                = New London County Connecticut Incorporated and Unincorporated areas New London Highlighted 2010.svg
+|mapsize                  = 250 px
+|map_caption              = Location in [[New London County, Connecticut]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map             = USA#Connecticut
+| pushpin_label_position  = top<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = New London
+| pushpin_map_caption     = Location in the United States and Connecticut
+| pushpin_mapsize         = 
+|coordinates              = {{coord|41|21|20|N|72|05|58|W|region:US-CT|display=inline,title}}
+|subdivision_type       = State
+|subdivision_name        = {{flag|Connecticut}}
+| subdivision_type1        = County
+|subdivision_name1        = New London 
+| subdivision_type2        = Metropolitan area 
+| subdivision_name2        = [[New London County, Connecticut|New London]]
+|established_title        = Settle
+|established_date         = 1646 (Pequot Plantation)
+|established_title2       = Named
+|established_date2        = 1658 (New London)
+|established_title3       = Incorporated (city)
+|established_date3        = 1784
+
+<!-- Government -->
+|government_footnotes     = <ref>{{cite web | title = Office of the Mayor | publisher = City of New London, Connecticut | url = http://www.ci.new-london.ct.us/content/7429/7469/default.aspx | access-date = June 11, 2017}}</ref><ref>{{cite web | title = Council Members | publisher = City of New London, Connecticut | url = http://www.ci.new-london.ct.us/content/7429/7471/7511.aspx | access-date = June 11, 2017}}</ref>
+|government_type          = [[Mayor–council government|Mayor–council]]
+|leader_title             = Mayor
+|leader_name              = Michael E. Passero
+{{Collapsible list
+| title                   = City Council
+| title_style             =
+| frame_style             = border:none; padding: 0;
+| list_style              = text-align:left;display:none;
+| 1 = Don Venditto, Jr.
+| 2 = Efrain Dominguez, Jr.
+| 3 = Martha E. Marx
+| 4 = Erica L. Richardson
+| 5 = John D. Satti
+| 6 = Michael J. Tranchida}}
+|unit_pref  = Imperial
+|area_magnitude           = 
+|area_total_km2           = 27.47
+|area_total_sq_mi         = 10.61
+|area_land_km2            = 14.56
+|area_land_sq_mi          = 5.62
+|area_water_km2           = 12.91
+|area_water_sq_mi         = 4.99
+|area_urban_km2           = 318.66
+|area_urban_sq_mi         = 123.03
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_m              = 17
+|elevation_ft             = 56
+|population_total         = 27620
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_km2   = 1844.88
+|population_density_sq_mi = 4778.15
+|population_urban                 = 
+|population_metro         = 274055
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_note          = 
+|postal_code_type         = ZIP code
+|postal_code              = 06320
+|area_code                = 860
+| unemployment_rate = 
+|website                  = <span class="plainlinksneverexpand">[http://www.ci.new-london.ct.us City of New London]</span>
+|footnotes                = 
+|timezone                 = EST
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|blank_name               = FIPS code
+|blank_info               = 09-52280
+|blank1_name              = GNIS feature ID
+|blank1_info              = 0209237
+| blank2_name              = Airport
+| blank2_info              = [[Groton–New London Airport]]
+| blank3_name             = Major highways
+| blank3_info             = [[File:I-95.svg|25px|link=Interstate 95 in Connecticut]] [[File:Connecticut Highway 32.svg|25px|link=Connecticut Route 32]] [[File:Connecticut Highway 85.svg|25px|link=Connecticut Route 85]]
+| blank4_name             = [[Commuter rail|Commuter Rail]]
+| blank4_info             = [[File:SLE logo.svg|25px|link=Shore Line East]]
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 26858
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_09.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+}}

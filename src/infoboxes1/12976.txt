@@ -1,0 +1,96 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name                            = Cerritos, California
+| other_name                      = Dairy Valley<ref name=GNIS/>
+| settlement_type                 = [[City (California)|City in California]]
+| official_name                   = City of Cerritos
+<!-- Images and maps ------>
+| image_skyline                   = Cerritos Library 1.jpg
+| image_caption                   = City library in 2004
+| image_flag                      = 
+| image_seal                      = Cerritos City Seal (color).png
+| nickname                        = 
+| motto                           = "A City With Vision", "Progress Through Commitment", "A History In Progress", "A Prestige Address"
+| image_map                       = File:Los Angeles County California Incorporated and Unincorporated areas Cerritos Highlighted 0612552.svg
+| map_caption                     = Location of Cerritos in Los Angeles County, California.
+| pushpin_map                     = Los Angeles#California#USA
+| pushpin_map_caption             = Location within [[Greater Los Angeles]]##Location in California##Location in the United States
+| pushpin_label                   = Cerritos
+<!-- Location ------------->
+| coordinates                     = {{coord|33|52|6|N|118|4|3|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = April 24, 1956<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Government ----------->
+| government_type                 = [[Council–manager government|Council–manager]]
+| governing_body                  = {{Collapsible list
+  | title = City council<ref name=co>{{Cite web
+    | url = http://www.cerritos.us/GOVERNMENT/city_council.php
+    | title = City Council
+    | publisher = City of Cerritos
+    | access-date = May 17, 2015}}</ref>
+  | Mark E. Pulido (mayor)
+  | Naresh Solanki (mayor pro-tem)
+  | Jim Edwards
+  | Grace Hu
+  | Frank Aurelio Yokoyama
+  }}
+| leader_title3                   = [[City manager]]
+| leader_name3                    = Art Gallucci<ref>{{Cite web|url=http://www.cerritos.us/GOVERNMENT/city_organization/appointed_city_officials.php|title=Appointed City Officials|publisher=City of Cerritos|access-date=February 2, 2015}}</ref>
+<!-- Area ----------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 8.86
+| area_total_km2                  = 22.94
+| area_land_sq_mi                 = 8.73
+| area_land_km2                   = 22.60
+| area_water_sq_mi                = 0.13
+| area_water_km2                  = 0.34
+| area_water_percent              = 1.48
+| area_metro_sq_mi                = 
+| area_metro_km2                  = <!-- Elevation ------------>
+| elevation_footnotes             = <ref name=GNIS>{{Cite GNIS|241229|Cerritos|access-date=October 11, 2014}}</ref>
+| elevation_ft                    = 46
+| elevation_m                     = 14
+<!-- Population ----------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0612552.html|title=Cerritos (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 11, 2015|archive-url=https://web.archive.org/web/20150318064634/http://quickfacts.census.gov/qfd/states/06/0612552.html|archive-date=March 18, 2015|url-status=dead|df=mdy-all}}</ref>
+| population_total                = 49041
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 49859
+| population_density_sq_mi        = 5713.84
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| population_density_metro_km2    = <!-- Time zone ------------>
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+<!-- Codes ---------------->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 90701, 90703
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 562|562]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|12552}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|241229}}, {{GNIS 4|2409431}}
+| website                         = {{URL|www.cerritos.us}}
+| population_density_km2          = 2206.11
+}}

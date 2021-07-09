@@ -1,0 +1,107 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->| name                            = Santa Clara, California
+| settlement_type                 = [[City (California)|City]]
+| official_name                   = City of Santa Clara
+<!-- Images and maps --—-->| image_skyline                   = {{Photomontage
+| photo1a                 = Santa Clara, CA USA - Santa Clara University, Mission Santa Clara de Asis - panoramio (2) (cropped).jpg
+| photo2a                 = USA-Santa Clara-Women's Club Adobe.jpg 
+| photo2b                 = USA-Santa Clara-Carmelite Convent-1 (cropped).jpg
+| photo3a                 = Santa Clara, CA USA - Santa Clara University, Mission Santa Clara de Asis - panoramio (20) (cropped).jpg
+| photo3b                 = Santa Clara, CA USA - panoramio (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise: [[Mission Santa Clara de Asís]]; the Carmelite Monastery; [[Clare of Assisi|Saint Claire]] Monument; [[Santa Clara University]]; Women's Club Adobe
+}}
+| image_flag                      = Flag of Santa Clara, California.png
+| image_seal                      = SantaClaraCitySeal.png
+| nickname                        = The Mission City
+| motto                           = 
+| image_map                       = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Santa_Clara_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Santa Clara County, California|Santa Clara County]] and the U.S. state of [[California]]
+| pushpin_map                     = California#USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_label                   = Santa Clara
+<!-- Location ------------->| coordinates                     = {{coord|37|21|16|N|121|58|9|W|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Santa Clara County, California|Santa Clara]]
+<!-- History -------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = July 5, 1852<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+| named_for                       = [[Clare of Assisi|Saint Clare of Assisi]]
+<!-- Government ----------->| government_type                 = [[Council–manager government|Council/Manager]]<ref>{{Cite web
+ | url = http://santaclaraca.gov/index.aspx?page=7
+ | title = Government
+ | publisher = City of Santa Clara
+ | access-date = April 20, 2015}}</ref>
+| leader_title                    = [[City Council]]<ref name=cc>{{Cite web
+ | url = http://santaclaraca.gov/index.aspx?page=395
+ | title = Councilmembers
+ | publisher = City of Santa Clara
+ | access-date = January 23, 2015}}</ref>
+| leader_name                     = [[Mayor]] Lisa Gillmor<br />District 1: Kathy Watanabe<br />District 2: Raj Chahal<br />District 3: Karen Hardy<br />District 4: Kevin Park<br />District 5: Sudhanshu "Suds" Jain<br />District 6: Anthony Becker
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Deanna Santana<ref>{{Cite web
+ | url = http://www.mercurynews.com/2017/08/23/internal-affairs-santa-clara-appoints-deanna-santana-as-new-city-manager/
+ | title = City Manager
+ | publisher = City of Santa Clara
+ | access-date = September 4, 2017| date = 2017-08-23
+ }}</ref>
+| leader_title2                   = [[Clerk (municipal official)#California|City Clerk]]
+| leader_name2                    = Rod Diridon, Jr.
+<!-- Area ----------------->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 18.28
+| area_total_km2                  = 47.34
+| area_land_sq_mi                 = 18.28
+| area_land_km2                   = 47.34
+| area_water_sq_mi                = 0.00
+| area_water_km2                  = 0.00
+| area_water_percent              = 0
+| area_metro_sq_mi                = 
+| area_metro_km2                  = <!-- Elevation ------------>
+| elevation_footnotes             = <ref>{{Cite GNIS|1654953|Santa Clara|access-date=November 18, 2014}}</ref>
+| elevation_ft                    = 72
+| elevation_m                     = 22
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/table/PST045215/0669084|title=Santa Clara (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 14, 2016}}</ref>
+| population_total                = 116468
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 130365
+| population_rank                 = [[Santa Clara County, California|3rd]] in Santa Clara County<br />[[List of largest California cities by population|45th]] in California
+| population_density_sq_mi        = 7132.74
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- Time zones ----------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95050, 95051, 95054
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 408 and 669|408/669]]
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = {{FIPS|06|69084}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1654953}}, {{GNIS 4|2411816}}
+| website                         = {{URL|SantaClaraCA.gov}}
+| population_density_km2          = 2753.93
+}}

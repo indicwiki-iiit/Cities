@@ -1,0 +1,40 @@
+{{Infobox settlement
+ | name                   = Ratchaburi
+ | native_name            = ราชบุรี
+ | other_name             = Rajburi, Rat Buri
+ | native_name_lang       = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+ | settlement_type        = Town
+ | image_skyline          = From Kean Chandra Hill to Ratchaburi Downtown - panoramio.jpg
+ | image_alt              =
+ | image_caption          = View of Ratchaburi from Kaen Chan hill
+ | etymology              =
+ | nickname               =
+<!-- Location -->
+ | coordinates            = {{coord|13|32|8|N|99|48|48|E|display=inline,title}}
+ | coordinates_footnotes  = <ref>[[GoogleEarth]]</ref>
+ | pushpin_map            = Thailand<!-- name of a location map as per Template:Location_map -->
+ | pushpin_label_position = none <!-- position of the pushpin label: left, right, top, bottom, none -->
+ | pushpin_map_alt        =
+ | pushpin_mapsize        =
+ | pushpin_map_caption    =
+ | subdivision_type       = Country
+ | subdivision_name       = Thailand
+ | subdivision_type1      = Province
+ | subdivision_name1      = [[Ratchaburi Province]]
+ | subdivision_type2      = District
+ | subdivision_name2      = [[Mueang Ratchaburi District]]
+ | subdivision_type3      = Subdistrict
+ | subdivision_name3      = [[Na Mueang, Mueang Ratchaburi|Na Mueang]]
+ | area_footnotes         = <ref>{{Cite web|script-title=th:ตำบลหน้าเมือง อำเภอเมือง ราชบุรี
+ |trans-title=Tumbol Naimueang Amphoe Mueang Ratchaburi |language=th |publisher=ThaiTambon |url=http://www.thaitambon.com/tambon/700101 |archive-url=https://web.archive.org/web/20170616193630/http://www.thaitambon.com:80/tambon/700101 |archive-date=16 June 2017 |url-status=live |df=dmy}}</ref>
+ | area_total_km2         = 8.7
+<!-- Population   ----------------------->
+ | population_footnotes   = <ref name="City=Pop" />
+ | population_total       = 36169
+ | population_as_of       = 2017
+ | population_density_km2 = auto
+ | population_note        =
+ | timezone               = [[UTC+07:00|ICT]]
+ | utc_offset             = +7
+ | website                = <!-- {{URL|example.com}} -->
+}}

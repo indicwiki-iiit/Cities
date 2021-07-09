@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Borçka
+| image_skyline                   = Borcka,mainroad.jpg
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|41|21|49|N|41|40|45|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Turkey}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Artvin Province|Artvin]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Republican People's Party (Turkey)|CHP]]
+| leader_title                    = Mayor
+| leader_name                     = Ercan Orhan
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Hüseyin Gökdemir
+| elevation_m                     = 123
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Artvin|Borçka}}
+| population_footnotes            = {{Turkey district populations|SOURCE|Artvin}}
+| population_urban                = {{Turkey district populations|Artvin|Borçka|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Artvin|Borçka|toplam}}
+| population_density_blank1_km2   = auto
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Oceanic climate|Cfb]]
+| postal_code_type                = Post code
+| postal_code                     = 08400
+| website                         = {{URL| www.borcka.bel.tr | www.borcka.bel.tr }}
+| official_name                   = 
+}}

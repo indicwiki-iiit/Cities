@@ -1,0 +1,66 @@
+{{Infobox settlement
+| name                     = Kearney, Nebraska
+| settlement_type          = [[City]]
+<!-- Images -->
+| image_skyline            = GPRRAMKearney.jpg
+| imagesize                = 250px
+| image_caption            = The [[Great Platte River Road Archway Monument]], which spans [[Interstate 80]]
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+<!-- Maps -->
+| image_map                = Buffalo_County_Nebraska_Incorporated_and_Unincorporated_areas_Kearney_Highlighted.svg
+| mapsize                  = 250px
+| map_caption              = Location of Kearney within Nebraska and Buffalo County
+<!-- Location -->
+| coordinates              = {{coord|40|42|3|N|99|4|52|W|region:US-NE|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Nebraska]]
+| subdivision_type2        = [[List of counties in Nebraska|County]]
+| subdivision_name2        = [[Buffalo County, Nebraska|Buffalo]]
+| established_title        = <!-- Settled -->
+| established_date         = 
+<!-------- Politics -----------> 
+| government_type          = [[Council–manager government|Council–manager]]<ref>{{cite web |title=Government |series=City of Kearney, NE - official website |url=http://www.cityofkearney.org/445/Government |publisher=City of Kearney |access-date=Dec 16, 2019}}</ref>
+| government_footnotes     = 
+| leader_title             = Mayor
+| leader_name              = Stan Clouse 
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web |title=2019 U.S. Gazetteer Files |publisher=United States Census Bureau |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_31.txt |access-date=July 26, 2020}}</ref>
+| area_total_km2           = 38.16
+| area_total_sq_mi         = 14.73
+| area_land_km2            = 37.44
+| area_land_sq_mi          = 14.46
+| area_water_km2           = 0.72
+| area_water_sq_mi         = 0.28
+| elevation_footnotes      = 
+| elevation_m              = 656
+| elevation_ft             = 2152
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov">{{cite web |title=U.S. Census website |publisher=[[United States Census Bureau]] |url=https://www.census.gov |access-date=2012-06-24}}</ref>
+| population_total         = 30787
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 33867
+| pop_est_as_of            = 2019
+| population_density_km2   = 904.49
+| population_density_sq_mi = 2342.60
+<!-- General information -->
+| timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+| timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 68845, 68847, 68848 {{small|(P.O. Box)}}, 68849 {{small|[[University of Nebraska at Kearney|UNK]]}}
+| area_code                = [[Area code 308|308]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 31-25055
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0830442<ref name="GR3">{{cite web |title=US Board on Geographic Names |publisher=[[United States Geological Survey]] |date=2007-10-25 |url=http://geonames.usgs.gov |access-date=2008-01-31}}</ref>
+| website                  = {{URL|http://www.cityofkearney.org}}
+| footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,74 @@
+{{Infobox settlement
+| name                            = Cleveland Heights, Ohio
+| settlement_type                 = [[City (Ohio)|City]]
+| nicknames                       = City Of Trees, Home To The Arts, Neighborhood City, Sharing City
+| motto                           = <!-- Images -->
+| image_skyline                   = Coventry Village September.jpg
+| imagesize                       = 
+| image_caption                   = [[Coventry Village]] in Cleveland Heights.
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Cuyahoga County Ohio incorporated and unincorporated areas Cleveland Heights highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the state of [[Ohio]].
+| image_map1                      = Ohio in United States (US48).svg
+| map_caption1                    = Location of Ohio in the United States
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_type2               = [[List of counties in Ohio|County]]
+| subdivision_name2               = [[Cuyahoga County, Ohio|Cuyahoga]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = [[Council–manager government|Council–manager]]
+| leader_title                    = Council President
+| leader_name                     = Jason S. Stein<ref name="City Council">{{cite web | url=http://www.clevelandheights.com/524/City-Council  | title=City Council | access-date=January 5, 2020}}</ref>
+| leader_title1                   = Council Vice President
+| leader_name1                    = Kahlil Seren<ref name="City Council"/>
+| leader_title2                   = [[City manager]]
+| leader_name2                    = Susanna Niermann O'Neil<ref>{{cite web | url=http://www.clevelandheights.com/161/City-Manager | title=City Manager's Office | access-date=January 5, 2020}}</ref>
+| established_title               = Founded
+| established_date                = 1903 (Village)
+| established_title1              = Established
+| established_date1               = August 9, 1921 (City)
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 20.94
+| area_land_km2                   = 20.89
+| area_water_km2                  = 0.05
+| area_total_sq_mi                = 8.08
+| area_land_sq_mi                 = 8.06
+| area_water_sq_mi                = 0.02
+
+<!-- Population -->| population_total                = 46238
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 43992
+| pop_est_as_of                   = 2019
+| population_density_sq_mi        = 5454.68
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| elevation_m                     = 285
+| elevation_ft                    = 935
+| coordinates                     = {{coord|41|30|35|N|81|33|48|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 44121, 44112, 44118, 44106
+| area_code                       = [[Area code 216|216]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-16014<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1048605<ref name="GR3" />
+| website                         = {{official website}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_density_km2          = 2105.96
+| official_name                   = 
+}}

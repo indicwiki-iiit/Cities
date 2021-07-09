@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Mai Municipality 
+|native_name            = माई नगरपालिका
+|native_name_lang       = ne 
+|official_name          = 
+|other_name             = 
+|nickname               =  
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 300px
+|image_caption          = 
+|image_flag             =
+|image_seal             =
+|mapsize                = 300px
+|map_caption            =
+| pushpin_map        = Nepal Province1#Nepal
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        = 300
+<!-- Location ------------------>
+|pushpin_map_caption    = Location in Province No. 1
+|pushpin_relief         = 
+|coordinates         = 
+{{coord|26.77|||N|87.90|||E|region:NP-BR|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Province No. 1]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Ilam District]]
+|subdivision_type3      = Total Wards
+|subdivision_name3      = 10
+<!-- Politics -->
+|established_title      = Households
+|established_date       = 
+|established_title2     = Incorporated
+|established_date2      = 
+|government_footnotes   =
+|government_type   = 
+|governing_body    = 
+|leader_title      = [[Mayor]]
+|leader_name       = Deepak Kumar Thebe ([[Nepal Communist Party|NCP]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Bishnu Maya Acharya ([[Nepal Communist Party|NCP]])
+|leader_title3     = [[Executive Officer]]
+|leader_name3      =
+|established_title3     = <!-- Incorporated  (town) -->
+|established_date3      =
+|established_title4     = <!-- Incorporated  (city) -->
+|established_date4      =
+<!-- Area    -->
+|unit_pref         = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes    =&nbsp;of Municipality
+|area_total_km2    = 264
+|area_rank         = 9th (Province No. 1)
+|area_note         = 
+<!-- Population   -->
+|population_total       = 33210
+|population_as_of       = 2011
+|population_footnotes   =
+|population_density_km2 =
+|population_municipality   =  
+|population_blank1_title        = Ethnicities
+|demographics_type1     = 
+|demographics1_title1   = 
+|demographics1_info1    = [[Nepali language|Nepali]]
+|demographics1_title2   = Official
+|demographics1_info2    = [[Nepali language|Nepali]]
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]]
+|postal_code            = 
+|area_code              = 
+|blank_name             =
+|blank_info             =
+|website                = {{url|https://www.maimun.gov.np/}}
+|footnotes              = 
+}}

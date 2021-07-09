@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Town of Yucca Valley
+|settlement_type          = [[Town (California)|Town in California]]
+|image_skyline            = Yucca Valley California 2017.jpg
+|imagesize                = 
+|image_caption            = 
+|image_seal               = [[File:Seal of Yucca Valley, California.png|Town of Yucca Valley, CA seal]]
+|image_map                = San Bernardino County California Incorporated and Unincorporated areas Yucca Valley Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Bernardino County, California|San Bernardino County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|34|06|51|N|116|25|56|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS>{{Cite GNIS|1667939|Yucca Valley|access-date=November 18, 2014}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 27, 1991<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | archive-url = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = October 17, 2013
+ | url-status = dead
+ }}</ref>
+
+<!-- Area------------------>
+|total_type                  = Total
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 39.83
+| area_land_sq_mi         = 39.83
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 103.16
+| area_land_km2           = 103.16
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|elevation_footnotes      = <ref name=GNIS/>
+|elevation_ft             = 3369
+|elevation_m              = 1027
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0687056.html|title=Yucca Valley (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 6, 2015|archive-url=https://web.archive.org/web/20120702010033/http://quickfacts.census.gov/qfd/states/06/0687056.html|archive-date=July 2, 2012|url-status=dead}}</ref>
+|population_total         = 20700
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 21777
+|population_density_sq_mi = 546.73
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 92284–92286
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|87056}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1667939}}, {{GNIS 4|2413524}}
+|website                  = {{URL|www.yucca-valley.org}}
+|population_density_km2 = 211.10
+}}

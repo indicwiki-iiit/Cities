@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Rock Springs, Wyoming 
+|settlement_type          = [[City]]
+<!-- Images -->
+|image_skyline            = DowntownRS.jpg
+|imagesize                = 250px
+|image_caption            = [[City Hall (Rock Springs, Wyoming)|City Hall]], Downtown Rock Springs
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = File:Sweetwater County Wyoming Incorporated and Unincorporated areas Rock Springs Highlighted 5667235.svg
+|mapsize                  = 250px
+|map_caption              = Location of Rock Springs in Sweetwater County, Wyoming.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wyoming}}
+|subdivision_type2        = [[List of counties in Wyoming|County]]
+|subdivision_name2        = {{flagicon image|Flag of Sweetwater County, Wyoming.gif}}  [[Sweetwater County, Wyoming|Sweetwater]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title1            = Mayor
+|leader_name1             = Tim Kaumo
+|leader_title2            = [[Wyoming House of Representatives|State House]]
+|leader_name2             = [[Marshall Burt]] ([[Libertarian Party (United States)|L]]), [[Chad Banks]] ([[Democratic Party (United States)|D]]), [[Clark Stith]] ([[Republican Party (United States)|R]])
+|leader_title3            = [[Wyoming Senate|State Senate]]
+|leader_name3             = [[John Kolb]] ([[Republican Party (United States)|R]])
+|established_title        = Rock Springs
+|established_date         = 1888
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_56.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 51.16
+|area_land_km2            = 51.16
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 19.75
+|area_land_sq_mi          = 19.75
+|area_water_sq_mi         = 0.00
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 22653
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 23036
+|population_density_km2   = 442.78
+|population_density_sq_mi = 1146.81
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset              = −7
+|timezone_DST             = MDT
+| utc_offset_DST          = −6
+|elevation_footnotes      = 
+|elevation_m              = 1947
+|elevation_ft             = 6388
+|coordinates              = {{coord|41|35|27|N|109|13|21|W|region:US-WY|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 82901, 82902, 82942
+|area_code                = [[Area code 307|307]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 56-67235<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1593588 <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|https://www.rswy.net}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,120 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Otaru}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|小樽市}}}}}}
+| official_name           = 
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto --->
+| image_skyline           = Otaru Montage.jpg
+| imagesize               = 280px
+| image_alt               = Otaru Montage Image
+| image_caption           = Top left: Otaru Canal<br>
+Top right: The Bank of Japan Otaru Museum<br>
+Middle right 1: – Glass Works in Otaru<br>
+Middle right 2: – Temiya old railway line<br>
+Bottom: – Vista from [[Mount Tengu]]
+| image_flag              = Flag of Otaru, Hokkaido.svg
+| flag_alt                =
+| image_seal              = Symbol of Otaru Hokkaido.svg
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| image_blank_emblem      =
+| nickname                =
+| motto                   =
+<!-- maps and coordinates ------>
+| image_map               = Otaru in Hokkaido Prefecture Ja.svg
+| map_alt                 =
+| map_caption             = <small>Location of Otaru in [[Hokkaido]]</small>
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x = |dot_y =
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         =
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|43|11|N|141|0|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = Japan
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Hokkaido]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Hokkaido]] ([[Shiribeshi Subprefecture]])
+| subdivision_type3       =
+| subdivision_name3       =
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = Toshiya Hazama (from August 2018)
+| leader_title1           =
+| leader_name1            = 
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 243.13
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_percent      =
+| area_note               =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             =
+| elevation_ft            =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 115333
+| population_as_of        = July 31, 2019
+| population_density_km2  = 474.37
+| population_density_sq_mi= 
+| population_est          =
+| pop_est_as_of           =
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- time zone(s) -------------->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           =
+| utc_offset1_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = – Tree
+| blank1_info_sec1        = Shirakaba (Siberian Silver Birch)
+| blank2_name_sec1        = – Flower
+| blank2_info_sec1        = [[Azalea]]
+| blank3_name_sec1        = – Bird
+| blank3_info_sec1        = Aobato (Japanese Green Pigeon)
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 0134-32-4111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 2-12-1 Hanazono, Otaru-shi, Hokkaido<br>047-8660
+<!-- website, footnotes -------->
+| website                 = [http://www.city.otaru.lg.jp/ http://www.city.otaru.lg.jp/]
+| footnotes               =
+}}

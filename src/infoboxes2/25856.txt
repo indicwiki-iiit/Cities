@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name = Thurmont, Maryland
+|official_name            = Town of Thurmont
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto = "...Gateway to the Mountains"<ref>{{cite web|url= http://www.thurmont.com/|title=Town of Thurmont, Maryland|publisher= Town of Thurmont, Maryland |access-date=August 24, 2012}}</ref>
+
+<!-- Images -->
+|image_skyline            = Thurmont MD Corner of Main and Water.jpg
+|imagesize                = 
+|image_caption            = Corner of Main and Water in downtown Thurmont.
+|image_flag               = 
+
+<!-- Maps -->
+|image_map = Frederick County Maryland Incorporated and Unincorporated areas Thurmont Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Thurmont, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{flagicon image|Flag of Frederick County, Maryland.png}} [[Frederick County, Maryland|Frederick]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = John Kinnaird
+|established_title        = Founded
+|established_date         = 1751
+|established_title1 = [[Municipal corporation|Incorporated]]
+|established_date1 = 1831 (as Mechanicstown), 1894 (as Thurmont)<ref>{{cite web|title=Thurmont|url=http://msa.maryland.gov/msa/mdmanual/37mun/thurmont/html/t.html|website=Maryland Manual|access-date=26 June 2017}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.04
+|area_land_km2            = 8.02
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 3.10
+|area_land_sq_mi          = 3.10
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6895
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov" />
+|population_total         = 6170
+|population_density_km2   = 859.56
+|population_density_sq_mi = 2226.35
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|elevation_footnotes      = 
+|elevation_m              = 158
+|elevation_ft             = 518
+|coordinates              = {{coord|39|37|30|N|77|24|37|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 21788
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-77825
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0587792
+|website                  = {{URL|http://www.thurmont.com/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,57 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| name                            = Shuklagandaki Municipality
+| other_name                      = 
+| native_name                     = शुक्लगण्डकी नगरपालिका
+| nickname                        = 
+| settlement_type                 = [[Municipality]]
+| motto                           = Tourism, Agriculture and Infrastructure is the base of rich Shuklagandaki
+| image_skyline                   = Suklagandaki.jpg
+| image_caption                   = view of Shuklagandaki Municipality
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Nepal
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Nepal
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{flagcountry|Nepal}}
+| subdivision_type1               = [[Zones of Nepal|Zone]]
+| subdivision_name1               = [[Gandaki Zone]]
+| subdivision_type2               = [[Districts of Nepal|District]]
+| subdivision_name2               = [[Tanahun District]]|<!-- Politics -->
+| government_footnotes            = 
+| government_type                 = [[Mayor–council government|Mayor–council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Kishan Gurung ([[Nepali Congress|NC]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Sabita Rasaili ([[Nepal Communist Party|NCP]])
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+<!-- Population   -->| population_as_of                = 2011
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 45,456
+| population_density_km2          = auto
+| population_blank1_title         = Ethnicities
+<!-- General information  -->| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|28.07|84.09|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = 
+| blank_info                      = 
+| website                         = [http://shuklagandakimun.gov.np  shuklagandakimun.gov.np]
+| footnotes                       = 
+}}

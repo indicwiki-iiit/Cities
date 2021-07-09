@@ -1,0 +1,33 @@
+{{Infobox German location
+|type                = Stadt
+|image_photo        = HarzburgKlBurgberg.jpg
+|imagesize          = 250px
+|image_caption      = View from the [[Großer Burgberg|Burgberg]]
+|image_coa             = DEU Bad Harzburg COA.svg
+|Wappengröße        = <!-- Size of COA imageOnly if smaller than 140 -->
+|coordinates        = {{coord|51|52|52|N|10|33|44|E|format=dms|display=inline,title}}
+|image_plan = Bad Harzburg in GS.svg
+|state         = Lower Saxony
+|district          = Goslar
+|elevation               = 261
+|area             = 65.42
+|population          = 22365
+|Stand              = 2007-12-31
+|pop_ref            = <ref>{{cite web|title=Bevölkerungsfortschreibung|url=http://www1.nls.niedersachsen.de/statistik/|author=Niedersächsisches Landesamt für Statistik |language=German}}</ref>
+|postal_code                = 38667
+|area_code            = 05322
+|licence                = GS
+|Gemeindeschlüssel  = 03 1 53 002
+|NUTS               = <!-- NUTS value: DEXXX  - WILL NOT BE DISPLAYED -->
+|LOCODE             = <!-- UN/LOCODE value: "DE XXX"  - WILL NOT BE DISPLAYED -->
+|divisions         = 8 districts
+|Straße             = Forstwiese 5
+|website            = [http://www.stadt-bad-harzburg.de/ www.stadt-bad-harzburg.de]
+|mayor      = Ralf Abrahms
+|party             = Ind
+|ruling_party1      = <!-- Leading political party currently in power - give abbreviations -->
+|ruling_party2      = <!-- 2nd ruling political party - give abbreviations -->
+|ruling_party3      = <!-- 3rd ruling political party - give abbreviations -->
+|year               = <!-- Year founded (not "year of first recorded mention"), no wikilinking.
+                            Give a year, a decade or a century. Places article in "Category: XXXX establishments" -->
+}}

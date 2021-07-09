@@ -1,0 +1,19 @@
+{{Infobox UNESCO World Heritage Site
+| WHS         = Okavango Delta
+| Image       = Okavango Delta map.png
+| Caption     = Map of the delta with [[Okavango Basin|basin]] boundary as dashed line
+| Location    = Botswana
+| Criteria    = Natural: vii, ix, x
+| ID          = 1432
+| Year        = 2014
+| Area        = 2,023,590 ha
+| Buffer_zone = 2,286,630 ha
+| Coordinates = {{coord|19|17|00|S|22|54|00|E}}
+| locmapin    = Botswana
+|embedded = {{Designation list
+| embed = yes
+| designation1 = Ramsar
+| designation1_offname = Okavango Delta System
+| designation1_date = 12 September 1996
+| designation1_number = 879<ref>{{Cite web|title=Okavango Delta System|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/879|access-date=25 April 2018}}</ref>}}
+}}

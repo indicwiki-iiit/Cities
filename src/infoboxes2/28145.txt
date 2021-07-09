@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Travelers Rest, South Carolina
+|settlement_type          = [[City]]
+|nickname                 = TR, Gateway to the Foothills
+|motto                    = "Get in Your Element"
+<!-- Images -->
+|image_skyline            = U.S. Route 276 in Travelers Rest, SC June 2019 1.jpg
+|imagesize                = 
+|image_caption            = [[U.S. Route 276]] in Travelers Rest
+|image_blank_emblem              =  TR City Logo 1.jpg
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = SCMap-doton-TravelersRest.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Travelers Rest, South Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[South Carolina]]
+|subdivision_type2        = [[List of counties in South Carolina|County]]
+|subdivision_name2        = [[Greenville County, South Carolina|Greenville]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Mayor-Council
+|leader_title             = Mayor
+|leader_name              = Brandy Amidon<ref>{{cite web | url=http://travelersrestsc.com/our-community/government/ | title=Government | publisher=Travelers Rest SC | access-date=March 12, 2018}}</ref>
+|leader_title1            = City Administrator  
+|leader_name1             = Eric Vinson<ref>{{cite web | url=https://travelersrestsc.com/businesses/departments/administration/ | title=Administration | publisher=Travelers Rest SC | access-date=June 3, 2020}}</ref>
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.38
+|area_land_km2            = 16.14
+|area_water_km2           = 0.24
+|area_total_sq_mi         = 6.33
+|area_land_sq_mi          = 6.23
+|area_water_sq_mi         = 0.09
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 4576
+|population_density_km2   = 331.22
+|population_density_sq_mi = 857.83
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 334
+|elevation_ft             = 1096
+|coordinates              = {{coord|34|58|12|N|82|26|16|W|region:US-SC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 29690
+|area_code                = [[Area code 864|864]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 45-72430<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1251197<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|travelersrestsc.com}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5346
+}}

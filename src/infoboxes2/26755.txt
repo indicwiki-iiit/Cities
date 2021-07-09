@@ -1,0 +1,37 @@
+{{Infobox Australian place 
+| type = town
+| name     = Chinchilla 
+| state    = qld
+| image    = ChinchillaFootpath.JPG
+| caption  = Footpath on the main street of Chinchilla
+| coordinates = {{coord|26|44|23|S|150|37|30|E|display=inline,title}}
+| pushpin_map_caption    = The location of Chinchilla in [[Queensland]]
+| pushpin_label_position = left
+| pop      = 6612
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC30606 |name=Chinchilla (State Suburb) |accessdate=29 January 2018 |quick=on}}</ref>
+| est      = 1877
+| postcode = 4413
+| elevation= 303
+| area     = 81.1
+| timezone  = [[Australian Eastern Standard Time|AEST]] (No Daylight Saving)
+| utc  = +10
+| dist1    = 293
+| location1= [[Brisbane]]
+| dist2    = 169
+| location2= [[Toowoomba]]
+| lga      = [[Western Downs Region]]
+|stategov = [[Electoral district of Callide|Callide]]
+| fedgov   = [[Division of Maranoa|Maranoa]]
+| maxtemp  = 29.5
+| mintemp  = 25.3
+| rainfall = 670.2
+| near-n              = [[Red Hill, Queensland (Western Downs Region)|Red Hill]]
+| near-ne             = [[Red Hill, Queensland (Western Downs Region)|Red Hill]]
+| near-e              = [[Chances Plain, Queensland|Chances Plain]]
+| near-se             = [[Boonarga, Queensland|Boonarga]]
+| near-s              = [[Hopeland, Queensland|Hopeland]]
+| near-sw             = [[Crossroads, Queensland|Crossroads]]
+| near-w              = [[Greenswamp, Queensland|Greenswamp]]
+| near-nw             = [[Baking Board, Queensland|Baking Board]]
+}}

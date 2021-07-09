@@ -1,0 +1,107 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+| name                     = Chula Vista, California
+| settlement_type          = [[City (California)|City]]
+| official_name            = City of Chula Vista
+<!-- Images and maps ------>
+| image_skyline           = {{Photomontage
+| photo1a                 = Chula Vista, CA, USA - panoramio (77).jpg
+| photo2a                 = Chula Vista, CA, USA - panoramio (37) (cropped).jpg
+| photo2b                 = Otay Ranch, Chula Vista, CA, USA - panoramio (11).jpg
+| photo3a                 = 
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = Clockwise: Chula Vista City Hall; Otay Ranch; Saint Pius X Church
+}}
+| image_flag               = Flag of Chula Vista, California.svg
+| image_seal               = Seal of Chula Vista, California.svg
+| nicknames                 = Lemon Capital of the World<ref>{{cite web|url=http://www.chulavistaca.gov/city_services/community_services/library/LocalHistoryMuseum/heritageMuseum.asp |title=Heritage Museum |year=2012 |work=Public Library Chula Vista |publisher=City of Chula Vista |access-date=March 29, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20121221095445/http://www.chulavistaca.gov/city_services/community_services/library/LocalHistoryMuseum/heritageMuseum.asp |archive-date=December 21, 2012 |df=mdy }}<br />{{cite web|url=http://www.thirdavenuevillage.com/events/lemon-festival |title=Happening Sunday, August 12th |publisher=Third Avenue Village |access-date=March 29, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130703101857/http://www.thirdavenuevillage.com/events/lemon-festival |archive-date=July 3, 2013 |df=mdy }}<br />{{harvnb|San Diego Magazine|2011|p=134}}, {{harvnb|Carpenter|1992|p=31 }}</ref><br />Chula-juana<ref>{{cite news |title=Growing up in "Chula-juana" |author=Bianca Bruno |url=http://www.theusdvista.com/opinion-editorial/growing-up-in-chula-juana-1.1668810 |newspaper=The Vista |date=October 6, 2010 |access-date=January 23, 2011}}{{dead link|date=October 2015}}<br />{{cite news |title=Cross-Border Lifestyle Requires Patience |author=Anne-Marie O'Connor |url=http://articles.latimes.com/2002/sep/11/local/me-border11/2 |newspaper=[[Los Angeles Times]] |date=September 11, 2002 |access-date=March 27, 2011}}<br />{{cite news |title=S.D. County's Cities Defy The Negatives, Accent The Positives |author=Tom Greeley |url=http://articles.latimes.com/1985-04-15/local/me-14019_1_negative-image/2 |newspaper=Los Angeles Times |date=April 15, 1985 |access-date=March 27, 2011}}</ref>
+| image_map                = File:San Diego County California Incorporated and Unincorporated areas Chula Vista Highlighted 0613392.svg
+| mapsize                  = 250x200px
+|pushpin_map              = USA California San Diego County#USA California#USA
+|pushpin_label            = Chula Vista
+|pushpin_label_position   = right<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within San Diego County##Location within California##Location within the United States
+| pushpin_relief = 1
+<!-- Location ------------->
+| coordinates              = {{coord|32|37|40|N|117|2|53|W|type:city_region:US-CA_dim:5000|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name         = {{nowrap|[[United States]]}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[California]]
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[San Diego County, California|San Diego]]
+<!-- History -------------->
+| established_title        = [[Municipal corporation|Incorporated]]
+| named_for                = Spanish for "beautiful view"
+<!-- Government ----------->
+| government_type          = [[Council-manager government|Council-Manager]]
+| established_date         = November 28, 1911<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+| leader_title             = [[City Council]]<ref name=cc>{{cite web
+ | url = http://www.chulavistaca.gov/departments/mayor-council
+ | title = Mayor and Council
+ | publisher = City of Chula Vista
+ | access-date = February 24, 2015}}</ref>
+| leader_name              = [[Mayor]] [[Mary Salas|Mary Casillas Salas]] <br />John McCann<br />Jill Galvez<br />Steve Padilla<br />Mike Diaz
+| leader_title1            = [[City manager]]
+| leader_name1             = Maria V. Kachadoorian<ref>{{cite web
+ |url=https://www.chulavistaca.gov/departments/city-manager/about-us 
+ |title=About the City Manager
+ |publisher=City of Chula Vista 
+ |access-date=March 29, 2021
+ |df=mdy 
+}}</ref>
+<!-- Area ----------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi         = 52.10
+| area_total_km2           = 134.93
+| area_land_sq_mi          = 49.64
+| area_land_km2            = 128.56
+| area_water_sq_mi         = 2.46
+| area_water_km2           = 6.36
+| area_water_percent       = 4.73
+<!-- Elevation ------------>
+| elevation_footnotes      = <ref>{{Cite GNIS|1660481|Chula Vista|access-date=October 22, 2014}}</ref>
+| elevation_ft             = 66
+| elevation_m              = 20
+<!-- Population ----------->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref>{{cite news |title=The faces of San Diego's changing demographics |author=Karen Kucher |url=http://www.sduniontribune.com/news/2011/mar/08/faces-san-diegos-changing-demographics/ |newspaper=[[U-T San Diego]] |date=March 8, 2011 |access-date=March 9, 2011}}</ref><ref name=2010Census>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0613392.html |title=Chula Vista (city), California |date=22 April 2015 |website=Quick Facts |publisher=United States Census Bureau |access-date=22 May 2015 |quote=Population, 2010 243,916 |url-status=dead |archive-url=https://web.archive.org/web/20120805160535/http://quickfacts.census.gov/qfd/states/06/0613392.html |archive-date=August 5, 2012 }}</ref>
+| population_total         = 243916
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019"/>
+<!--Staff writer(s); no by-line.-->| population_est           = 274492
+| population_rank          = [[San Diego County, California|2nd]] in San Diego County<br />[[List of largest California cities by population|15th]] in California<br />[[List of United States cities by population|75th]] in the United States
+| population_density_sq_mi = 5529.76
+| population_metro         = [[San Diego–Tijuana]]: 5105768
+<!-- Time zones ----------->
+| timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset = &minus;8
+| timezone_DST             = PDT
+|utc_offset_DST = &minus;7
+<!-- Codes ---------------->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 91909–91915, 91921
+| area_code                = [[Area code 619|619]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = {{FIPS|06|13392}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|1660481}}, {{GNIS 4|2409461}}
+| website                  = {{URL|www.chulavistaca.gov}}
+| footnotes                = 
+|population_density_km2 = 2135.05
+}}

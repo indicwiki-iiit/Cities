@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                   = Hadera
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|חֲדֵרָה}}|rtl=yes}}
+ | {{Lang|ar|الخضيرة|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1952)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Ḥdera
+| image_skyline          = File:הרברט סמואל 2.jpg
+| image_blank_emblem     = Hadera_COA.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|27|N|34|55|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Haifa District|name=Haifa}}
+| established_title      = Founded
+| established_date       = 1891
+| leader_title           = Mayor
+| leader_name            = [[Zvi Gendelman|Zvika Gendelman]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:53000|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Hadera}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = https://www.hadera.muni.il/
+}}

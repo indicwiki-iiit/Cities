@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Aydın
+| settlement_type                 = [[Metropolitan municipalities in Turkey|Metropolitan municipality]]
+| image_skyline                   = {{Photomontage|position=center
+| photo1a = Tetrapylon - Aphrodisias (7471662848).jpg
+| photo2a = Tralleis, AYDIN - panoramio.jpg
+| photo2b = MonumentAydın (3).JPG
+| photo3a = Çamlık, 09270 Didim-Aydın, Turkey - panoramio (8).jpg
+| photo3b = Didyma_médusa_2009_04_28.jpg
+| photo4a = Kusadasi Hafen Apr2005.jpg
+ | size = 280
+ | spacing = 2
+ | color = #FFFFFF
+ | border = 0
+}}
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey #Europe #Earth
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|37|50|53|N|27|50|43|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{TUR}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Aydın Province|Aydın]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Republican People's Party (Turkey)|CHP]]
+| leader_title                    = Mayor
+| leader_name                     = [[Özlem Çerçioğlu]]
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Aydın|Aydın}}
+| elevation_m                     = 
+| population_footnotes            = {{Turkey district populations|SOURCE|Aydın}}
+| population_urban                = {{Turkey district populations|Aydın|Aydın|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Aydın|Aydın|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.aydin-bld.gov.tr | www.aydin-bld.gov.tr }}
+| timezone                        = [[Time in Turkey|TRT]]
+| utc_offset                      = +3
+| official_name                   = 
+| blank_emblem_type               = Emblem of Aydın Metropolitan Municipality
+| image_blank_emblem              = Aydin Emblem.png
+}}

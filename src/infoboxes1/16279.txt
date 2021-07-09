@@ -1,0 +1,27 @@
+{{Infobox UK place
+| country = England
+| static_image_name = Silver Jubilee Bridge, Runcorn at night (geograph 4431283).jpg
+| static_image_caption = Runcorn's [[Silver Jubilee Bridge]]
+| static_image_width = 300px
+| static_image_2_name = Coat of Arms of Runcorn.svg
+| static_image_2_caption = Coat of arms
+| static_image_2_width = 140px
+| official_name = Runcorn
+| type = Town
+| coordinates = {{coord|53.341|-2.729|display=inline,title}}
+| london_distance = {{convert|167|mi|km|abbr=on}}<ref>{{cite web|url=http://boulter.com/gps/distance/?from=53.328+-2.712&to=51.507+-0.127&units=m|title=Coordinate Distance Calculator|work=boulter.com|access-date=8 March 2016}}</ref>
+| london_direction = SE
+| population = 61,789
+| population_ref = <ref name="2011 Census">{{NOMIS2011|id=E35001305|title=Runcorn Built-up area|access-date=26 May 2020}}</ref>
+| population_demonym = Runcornian
+| unitary_england = [[Borough of Halton|Halton]]
+| region = North West England
+| lieutenancy_england = [[Cheshire]]
+| constituency_westminster = [[Halton (UK Parliament constituency)|Halton]]
+| constituency_westminster1 = [[Weaver Vale (UK Parliament constituency)|Weaver Vale]]
+| post_town = RUNCORN
+| postcode_area = WA
+| postcode_district = WA7
+| dial_code = 01928
+| os_grid_reference = SJ525815
+}}

@@ -1,0 +1,94 @@
+{{Infobox settlement
+| name = {{raise|0.2em|Hikone}}
+| official_name = 
+| native_name = {{lower|0.1em|{{nobold|{{nobold|{{lang|ja|彦根市}}}}}}}}
+| native_name_lang = ja
+| settlement_type = [[Cities of Japan|City]]
+| other_name = 
+<!-- images, nickname, motto -->
+| image_skyline = View of hikone-jo from sawayama-jo ruins.JPG
+| imagesize = 
+| image_caption = City central, Lake Biwa and Hikone castle viewed from Sawayama castle ruin
+| image_flag = Flag of Hikone, Shiga.svg
+| image_seal = Emblem of Hikone, Shiga.svg
+| seal_type = Emblem
+<!-- maps and coordinates -->
+| image_map = Hikone in Shiga prefecture Ja.svg
+| map_alt = 
+| map_caption = Location of Hikone in [[Shiga Prefecture|Shiga]]
+| pushpin_map = Japan
+| pushpin_relief = 
+| pushpin_map_caption = Location in Japan
+| coordinates = {{coord|35|16|N|136|16|E|region:JP|display=inline,title}}
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = Japan
+| subdivision_type1 = [[List of regions of Japan|Region]]
+| subdivision_name1 = [[Kansai region|Kansai]]
+| subdivision_type2 = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2 = [[Shiga Prefecture|Shiga]]
+| subdivision_type3 = [[Districts of Japan|District]]
+| subdivision_name3 = 
+<!-- established -->
+| established_title = <!-- Settled -->
+| established_date = 
+| extinct_title = Now part of
+| extinct_date = 
+| founder = 
+| named_for = 
+<!-- seat, smaller parts -->
+| seat_type = <!-- defaults to: Seat -->
+| seat = 
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| leader_party = 
+| leader_title = Mayor
+| leader_name = Takashi Ōkubo (since May 2013)
+| leader_title1 = Vice Mayor
+| leader_name1 = 
+<!-- display settings -->
+| total_type = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref = Metric
+<!-- area -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_footnotes = <!-- for references: use <ref> tags -->
+| area_total_km2 = 196.84
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_note = 
+<!-- elevation -->
+| elevation_footnotes = <!-- for references: use <ref> tags -->
+| elevation_m = 
+<!-- population -->
+| population_footnotes =  <!-- for references: use <ref> tags -->
+| population_total = 113,349
+| population_as_of = October 1, 2016
+| population_density_km2 = auto
+| population_est = 
+| pop_est_as_of = 
+<!-- time zone(s) -->
+| timezone1 = [[Japan Standard Time|JST]]
+| utc_offset1 = +09:00
+<!-- postal codes, area code -->
+| postal_code_type = 
+| postal_code = 
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = City hall address
+| blank_info_sec1 = 4-2 Motomachi, Hikone-shi, Shiga-ken<br />522-8501
+<!-- website, footnotes -->
+| website = {{URL|https://www.city.hikone.lg.jp/}}
+| footnotes = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = [[Tachibana orange|Tachibana Orange]]
+ | flower = [[Iris (plant)|Iris]]
+ | bird = 
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = 
+}}
+}}

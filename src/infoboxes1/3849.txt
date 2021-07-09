@@ -1,0 +1,37 @@
+{{Infobox football club
+| clubname = San Lorenzo
+| current  = 2019–20 San Lorenzo de Almagro season
+| image    = San lorenzo almagro logo.svg
+| image_size = 180
+| fullname = Club Atlético San Lorenzo de Almagro
+| nickname = ''Santo'' (Saint),<br> ''Cuervo'' (Crow),<br> ''Ciclón'' (Cyclone),<br> ''Azulgrana'' (Blue and Red),<br> ''Matadores'' (Killers),<br> ''Gauchos de Boedo'' (Gauchos of Boedo)
+| founded  = {{Start date and years ago|df=yes|1908|04|01}}
+| ground   = [[Estadio Pedro Bidegain]],<br> [[Flores, Buenos Aires]]
+| capacity = 47,964
+| chairman = [[Marcelo Tinelli]]
+| manager  = [[Paolo Montero]]
+| league   = [[Argentine Primera División|Primera División]]
+| season   = [[2019–20 Argentine Primera División|2019–20]]
+| position = 7th (aggregate table)
+| website = http://www.sanlorenzo.com.ar/
+|pattern_la1      = 
+|pattern_b1       = _sl2020h
+|pattern_ra1      = 
+|pattern_sh1      = 
+|pattern_so1      = 
+|leftarm1         = 000040
+|body1            = 000040
+|rightarm1        = 000040
+|shorts1          = 000040
+|socks1           = 000040
+|pattern_la2      = _navyborder
+|pattern_b2       = _sl2020a
+|pattern_ra2      = _navyborder
+|pattern_sh2      = 
+|pattern_so2      = 
+|leftarm2         = FFFFFF
+|body2            = FFFFFF
+|rightarm2        = FFFFFF
+|shorts2          = FFFFFF
+|socks2           = FFFFFF
+}}

@@ -1,0 +1,118 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name            = Rockledge, Florida
+|official_name            = City of Rockledge
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = "Preserving The Past, Planning The Future"<ref>{{cite web|url= http://www.cityofrockledge.org/Pages/index|title= City of Rockledge Florida Website |publisher= City of Rockledge Florida Website |access-date= September 21, 2012}}</ref>
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 150px
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Brevard_County_Florida_Incorporated_and_Unincorporated_areas_Rockledge_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Brevard County, Florida|Brevard County]] and the state of [[Florida]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = <!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Florida}}
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = {{flagicon image|Flag of Brevard County, Florida.png}} [[Brevard County, Florida|Brevard]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Thomas J. Price
+|leader_title1            = [[City manager]]
+|leader_name1             = James P. “Jim” McKnight
+|leader_title2            = Deputy mayor, chairman
+|leader_name2             = Frank T. Forrester
+|leader_title3            = Vice chairman
+|leader_name3             = Richard K. "Dick" Blake
+|leader_title4            = 
+|leader_name4             = 
+|founder = [[Gardner S. Hardee]]
+|established_title        = Founded
+|established_date         = August 7, 1887
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = <!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 35.21
+|area_land_km2            = 31.41
+|area_water_km2           = 3.80
+|area_total_sq_mi         = 13.59
+|area_land_sq_mi          = 12.13
+|area_water_sq_mi         = 1.47
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010">{{cite web| url=https://www.census.gov| title=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data (DP-1): Rockledge city, Florida| publisher=[[United States Census Bureau]]| access-date=January 30, 2012}}</ref>
+|population_note          = 
+|population_total         = 24926
+|population_density_km2   = 898.53
+|population_density_sq_mi = 2327.23
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|28|19|30|N|80|43|58|W|region:US-FL|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> tags-->
+|elevation_m              = 7
+|elevation_ft             = 23
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 32955-32956
+|area_code                = [[Area code 321|321]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-61500<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0294132<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.cityofrockledge.org/|www.CityofRockledge}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 28227
+}}

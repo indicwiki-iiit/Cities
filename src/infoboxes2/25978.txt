@@ -1,0 +1,76 @@
+{{Infobox Australian place
+| type                     = city
+| name                     = Castlemaine
+| state                    = vic
+| image = {{Photomontage
+ | photo1a      = CastlemaineBuilding.JPG 
+ | photo2a      = CastlemainePostOffice.JPG 
+ | photo2b      = CastlemaineTownHall.JPG 
+ | photo3a      = CastlemaineUnitingChurch.JPG 
+ | size         = 250|position=center
+ | color        = white
+ | border       = 0
+ | foot_montage = Generic Castlemaine building, Post Office, Town Hall and the Castlemaine Uniting Church 
+}}
+| caption                  =  
+| image_alt                = 
+| use_lga_map              = yes
+| relief                   = 
+| coordinates              = {{coord|37|3|49|S|144|13|2|E|display=inline,title}}
+| pushpin_map_caption      = 
+| pushpin_label_position   = 
+| map_alt                  = 
+| pop                      = 6,757
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes            = <ref name="census16" />
+| poprank                  = 
+| density                  = 
+| density_footnotes        = 
+| established              = 1851
+| established_footnotes    = 
+| abolished                = 
+| gazetted                 = 
+| postcode                 = 3450
+| elevation                = 310.9
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone     = [[UTC10|AEST]]
+| utc          = +10
+| timezone-dst = [[UTC11|AEST]]
+| utc-dst      = +11
+| dist1                    = 119
+| dir1                     = 
+| location1                = [[Melbourne]]
+| dist2                    = 38
+| dir2                     = 
+| location2                = [[Bendigo, Victoria|Bendigo]]
+| lga                      = Shire of Mount Alexander
+| seat                     = 
+| region                   = 
+| county                   = 
+| division                 = 
+| stategov                 = [[Electoral district of Bendigo West|Bendigo West]], [[Northern Victoria Region|Northern Victoria]]
+| fedgov                   = [[Division of Bendigo|Bendigo]]
+| visitation_num           = 
+| visitation_year          = 
+| visitation_footnotes     = 
+| managing_authorities     = 
+| url                      = 
+| maxtemp                  = 20.2
+| maxtemp_footnotes        = 
+| mintemp                  = 6.7
+| mintemp_footnotes        = 
+| rainfall                 = 558.4
+| rainfall_footnotes       = 
+| near-n                   = 
+| near-ne                  = 
+| near-e                   = 
+| near-se                  = 
+| near-s                   = 
+| near-sw                  = 
+| near-w                   = 
+| near-nw                  = 
+| near                     = 
+| footnotes                = 
+}}

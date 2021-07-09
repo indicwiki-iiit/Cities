@@ -1,0 +1,56 @@
+{{Infobox settlement
+|official_name            = North Highlands
+|settlement_type          = [[Census-designated place]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_seal               = 
+|image_map                = Sacramento_County_California_Incorporated_and_Unincorporated_areas_North_Highlands_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Sacramento County, California|Sacramento County]] (on the right side) and of Sacramento County in the state of [[California]] (on the left side)
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|coordinates              = {{coord|38|40|23|N|121|22|22|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sacramento County, California|Sacramento]]
+|established_date         = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+<!-- Area------------------>
+|area_magnitude           =
+|unit_pref                = US
+|area_footnotes           = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+|area_total_sq_mi         = 8.831
+|area_land_sq_mi          = 8.831
+|area_water_sq_mi         = 0
+|area_water_percent       = 0
+|area_note                = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1656191|North Highlands|access-date=January 19, 2015}}</ref>
+|elevation_ft             = 95
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 42694
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95660
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area codes 916 and 279|916, 279]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|51924}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1656191}}, {{GNIS 4|2408941}}
+|website                  = 
+|footnotes                = 
+}}

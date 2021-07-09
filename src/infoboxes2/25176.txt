@@ -1,0 +1,28 @@
+{{Infobox Australian place
+| type     = town
+| name     = Mooroopna
+| state    = vic
+| image    = Mooroopna Main Street.JPG
+| caption  = Main street of Mooroopna
+| coordinates = {{coord|36|23|S|145|21|E|display=inline,title}}
+| pushpin_label_position = right
+| use_lga_map = yes
+| lga      = City of Greater Shepparton
+| postcode = 3629
+| est      = 
+| pop      = 7,942
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes= <ref name="ABS2016">{{cite web |title=2016 Census QuickStats Mooroopna |url=http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC21744 |website=Australian Bureau of Statistics |access-date=2 March 2019}}</ref>
+| elevation= 
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Shepparton|Shepparton]]
+| fedgov   = [[Division of Nicholls|Nicholls]]
+| dist1    = 181
+| dir1     = N
+| location1= Melbourne
+| dist2    = 4
+| dir2     = W
+| location2= Shepparton
+}}

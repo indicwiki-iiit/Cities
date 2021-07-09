@@ -1,0 +1,70 @@
+{{Infobox settlement
+| name                            = Woodbridge, Virginia
+| official_name                   = 
+| settlement_type                 = [[Census-designated place]]
+
+<!-- Images -->
+| image_skyline                   = Woodbridge, Virginia Railway Station.jpg
+| imagesize                       = 
+| image_caption                   = Woodbridge Railway Station
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = Prince William County Virginia incorporated and unincorporated areas Woodbridge highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Prince William County, Virginia|Prince William County]] and the U.S. state of [[Virginia]]
+
+<!-- maps and coordinates ------>
+| coordinates                     = {{coord|38|38|37|N|77|15|39|W|region:US-VA_type:city|display=inline,title}}
+| pushpin_map                     = Virginia#USA
+| pushpin_label_position          = left
+
+<!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = {{Flagu|United States|size=23px}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|Virginia|size=23px}}
+| subdivision_type2               = [[List of counties in Virginia|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Prince William County, Virginia.png|size=23px}} [[Prince William County, Virginia|Prince William]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = 
+| area_magnitude                  = 
+| area_total_km2                  = 28.0
+| area_land_km2                   = 27.1
+| area_water_km2                  = 0.8
+
+<!-- Population -->
+| population_as_of                = 2010
+| population_footnotes            = 
+| population_total                = 54275
+| population_density_km2          = auto
+
+<!-- General information -->
+| timezone                        = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 23
+| elevation_ft                    = 75
+
+<!-- Area/postal codes & others -->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 22191–22193
+| area_code                       = [[Area code 703|571, 703]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 51-87312<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1497222<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = 
+| footnotes                       = 
+}}

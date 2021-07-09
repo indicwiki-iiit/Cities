@@ -1,0 +1,90 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Quibala
+|official_name          = 
+|other_name             = Kibala
+|native_name            =  <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = Municipality and town
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Angola <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country<!--Country-->
+|subdivision_name       = {{flag|Angola}}<!--the name of the country-->
+|subdivision_type1      = Province
+|subdivision_name1      = [[Cuanza Sul Province|Cuanza Sul]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =  <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = 10300<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    = <ref>{{cite web|url=http://freemeteo.com/default.asp?la=1&pid=1&gid=3346598|title=Weather in Quibala, Angola|publisher=Freemeteo}}</ref>
+|elevation_m            = 1375
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+|blank1_name_sec2           = Climate
+|blank1_info_sec2           = [[Tropical savanna climate|Aw]]
+<!-- Population   ----------------------->
+|population_as_of               = mid 2019
+|population_footnotes           = <ref>[https://www.citypopulation.de/en/angola/admin/ Citypopulation.de] Population of provinces and municipalities in Angola</ref>
+|population_note                =
+|population_total               = 163991
+|population_density_km2         = 16
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coor_pinpoint         =<!-- can be used to specify exactly where/what the coordinates refer to -->
+|coordinates            = {{coord|10|44|S|14|59|E|region:AO-CUS|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+}}

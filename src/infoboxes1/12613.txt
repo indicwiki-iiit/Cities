@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Caçador
+|other_name             = '' Municipality of Caçador ''<br/>'' Município de Caçador ''
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Municipality
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Catedral de Caçador.jpg
+|imagesize              = 300px
+|image_caption          = [[Francis of Assisi|São Francisco de Assis]] Cathedral
+|image_flag             = Bandeira_Cacador.svg
+|flag_size              = 
+|image_seal             = Brasao_Cacador.svg
+|seal_size              =
+|image_map              = SantaCatarina Municip Cacador.svg
+|mapsize                = 250px
+|map_caption            = Location within the state of Santa Catarina
+|pushpin_map            = Brazil
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Brazil}}
+|subdivision_type1      = [[Regions of Brazil|Region]]
+|subdivision_name1      = [[South Region, Brazil|South]]
+|subdivision_type2      = [[States of Brazil|State]]
+|subdivision_name2      = [[Santa Catarina (state)|Santa Catarina]]
+|subdivision_type3      = Mesoregion
+|subdivision_name3      = Oeste Catarinense<ref name="IBGE_DTB_2018">{{Cite web |url=ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2018/DTB_2018.zip |format=ZIP |title=Divisão Territorial Brasileira |date=2018 |publisher=Instituto Brasileiro de Geografia e Estatística |access-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215143933/http://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2018/DTB_2018.zip |archive-date=February 15, 2019}}</ref>
+|subdivision_type4      = Microregion
+|subdivision_name4      = Joaçaba
+|subdivision_type5      = Metropolitan area
+|subdivision_name5      = Contestado Metropolitan Area
+
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Saulo Sperotto ([[PSDB]])
+|established_title      = 
+|established_date       = March 25, 1934
+
+<!-- Area    --------------------->
+|unit_pref              =
+|area_total_km2         = 984.285
+|area_land_km2          = 
+|area_footnotes         = <ref name ="IBGE_cidades_e_estados_caçador">{{cite web |url=https://www.ibge.gov.br/cidades-e-estados/sc/cacador.html |url-status=live |archive-url=https://web.archive.org/web/20190214161339/https://www.ibge.gov.br/cidades-e-estados/sc/cacador.html |archive-date=February 14, 2019 |title=Caçador (SC) / Cidades e Estados|access-date=February 14, 2019 |publisher=IBGE - Instituto Brasileiro de Geografia e Estatística |language=pt}}</ref>
+|area_note               = IBGE/2017
+
+<!-- Population   ----------------------->
+|population_as_of       = 2020 <ref>[https://cidades.ibge.gov.br/brasil/sc/cacador/panorama IBGE 2020]</ref>
+|population_note        = IBGE
+|population_total       = 79,313
+|population_footnotes   = 
+|population_density_km2 = auto
+
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = −3
+|timezone_DST           = 
+|utc_offset_DST         = -2
+|coordinates            = {{coord|26|46|30|S|51|00|54|W|region:BR|display=inline,title}}
+|elevation_footnotes    =  
+|elevation_m            = 920
+|elevation_ft           = 
+|elevation_max_m        = 1390
+|elevation_max_ft       =
+|elevation_max_rank     =
+|elevation_min_m        = 780
+|elevation_min_ft       =
+|elevation_min_rank     =
+
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Demonym]]
+|blank_info             = ''caçadorense''
+|website                = 
+|footnotes              = 
+}}

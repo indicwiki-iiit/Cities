@@ -1,0 +1,87 @@
+{{Infobox settlement
+|name                     = Thompson's Station, Tennessee
+|official_name            = Town of Thompson's Station
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Thompsons station town hall tennessee 2010.jpg
+|imagesize                = 
+|image_caption            = Thompson's Station Town Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map            = Tennessee
+|pushpin_label_position = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within the state of Tennessee
+|pushpin_mapsize        = 
+|image_map                = File:Williamson County Tennessee Incorporated and Unincorporated areas Thompson's Station Highlighted 4773900.svg
+|mapsize                  = 
+|map_caption              = Location of Thompson's Station in Williamson County, Tennessee.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Tennessee]]
+|subdivision_type2        = [[List of counties in Tennessee|County]]
+|subdivision_name2        = [[Williamson County, Tennessee|Williamson]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Corey Napier
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1780<ref name=official>[http://www.thompsons-station.com Timeline of Thompson's Station], Official town website.</ref>
+|established_title2       = Incorporated
+|established_date2        = 1990<ref>''[http://www.state.tn.us/sos/bluebook/05-06/48-data.pdf Tennessee Blue Book]'', 2005-2006, pp. 618-625.</ref>
+|named_for                = Dr. Elijah Thompson, early settler<ref name=official />
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|accessdate=July 30, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 52.73
+|area_land_km2            = 52.70
+|area_water_km2           = 0.03
+|area_total_sq_mi         = 20.36
+|area_land_sq_mi          = 20.35
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2194
+|population_est           = 6567
+|pop_est_as_of            = 2019
+|population_density_km2   = 124.62
+|population_density_sq_mi = 322.77
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 244
+|elevation_ft             = 801
+|coordinates              = {{coord|35|47|55|N|86|54|26|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 37179
+|area_code                = [[Area code 615|615]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 47-73900<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1652469<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.thompsons-station.com thompsons-station.com] 
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

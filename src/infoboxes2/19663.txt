@@ -1,0 +1,20 @@
+{{Infobox company
+| name = Unity Software Inc.
+| logo = Unity Technologies Logo.svg
+| trade_name = Unity Technologies
+| traded_as = {{NYSE|U}}
+| former_name = Over the Edge Entertainment (2004–2007)
+| type = [[Public company]]
+| industry = {{Unbulleted list|[[Software|Computer software]]|[[Video game industry|Video games]]}}
+| founded = {{Start date and age|df=yes|2004}} in [[Copenhagen]], Denmark
+| founders = {{Unbulleted list|David Helgason|Nicholas Francis|Joachim Ante}}
+| hq_location_city = [[San Francisco]]
+| hq_location_country = US
+| key_people = {{Unbulleted list|[[John Riccitiello]] ([[Chief executive officer|CEO]])|[[Danny Lange]] ([[Vice-president|VP]], [[Artificial intelligence|AI]] and [[machine learning]])}}
+| products = [[Unity (game engine)|Unity]]
+| services = {{Hlist|Unity Certification|Unity Collaborate|Unity Asset Store|Unity Ads|Unity Cloud Build|Unity Analytics|Unity Everyplay (2012–2018)|Unity Multiplayer|Unity Performance Reporting<ref>{{cite web |title=Unity – Services |url=http://unity3d.com/services/ |publisher=Unity Technologies |access-date=4 August 2015 |archive-url=https://web.archive.org/web/20150812075305/http://unity3d.com/services |archive-date=12 August 2015 |url-status=live }}</ref>}}
+| num_employees = 3,379<ref name="Takahashi">{{cite news |title=Unity files for IPO, reveals $163 million loss for 2019 and 1.5 million monthly users |last1=Takahashi |first1=Dean |url=https://venturebeat.com/2020/08/24/unity-files-for-ipo-reveals-163-million-loss-for-2019-and-1-5-million-monthly-users/ |work=VentureBeat |date=24 August 2020 |access-date=17 October 2018 |archive-url=https://web.archive.org/web/20200827083042/https://venturebeat.com/2020/08/24/unity-files-for-ipo-reveals-163-million-loss-for-2019-and-1-5-million-monthly-users/ |archive-date=27 August 2020 |url-status=live }}</ref>
+| num_employees_year = 2020
+| subsid = {{Hlist|ChilliConnect|[[deltaDNA]]|[[Multiplay]]|[[Vivox]]|Artomatix}}
+| website = {{Official URL}}
+}}

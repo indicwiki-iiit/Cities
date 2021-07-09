@@ -1,0 +1,32 @@
+{{Infobox settlement
+| name                   = Kiryat Ata
+| native_name            = {{Script/Hebrew|קִרְיַת אָתָא}}
+| settlement_type        = [[List of cities in Israel|City]] (from 1969)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Qiryat ʔataˀ
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = {{br separated entries|Qiryat Ata (official)| Kiryat Ata (unofficial) }}
+| image_skyline          = Kiryat ata.jpg
+| image_blank_emblem     = Coat of arms of Kiryat-Ata.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = bottom
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|48|N|35|06|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 160/244 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{ISR}}
+| subdivision_type1      = [[Districts of Israel|District]]
+| subdivision_name1      = {{flag|Haifa District|name=Haifa}}
+| leader_title           = Mayor
+| leader_name            = Yaakov Peretz
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:16706|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Qiryat Atta}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

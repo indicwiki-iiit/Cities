@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Anqing}}
+|official_name          = 
+|other_name             = Anking
+|native_name            = {{lower|0.1em|安庆市}}
+|native_name_lang = zh-Hans
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Bridge_on_the_Yangtze_River_in_Anqing_Anhui_China.jpg
+|image_map              =  Location of Anqing Prefecture within Anhui (China).png
+|map_caption            = Location of Anqing City jurisdiction in Anhui
+<!-- Location ------------------>
+|coor_pinpoint = Anqing municipal government
+|coordinates            = {{coord|30.5318|N|117.1153|E|type:adm2nd_region:CN-34_source:Gaode|format=dms|display=it}}
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Anhui]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      = 11
+|subdivision_type3      = [[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|seat_type              = Municipal seat
+|seat                   =[[Yixiu District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            = Wei Xiaoming ({{lang|zh-hans|魏晓明}})
+|leader_title1          =[[Mayor]]
+|leader_name1           = Chen Bingbing ({{lang|zh-hans|陈冰冰}})
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|area_urban_footnotes           =<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22|access-date=2018-06-15|archive-url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf|archive-date=2018-05-03|url-status=live}}</ref>
+|area_total_km2           = 13590<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =104
+|area_metro_km2           =821
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =<ref>{{in lang|zh}} Compilation by LianXin website. [http://www.luqyu.cn/tongjishow.asp?tid=1008 Data from the Sixth National Population Census of the People's Republic of China]  {{webarchive |url=https://web.archive.org/web/20120325041039/http://www.luqyu.cn/tongjishow.asp?tid=1008 |date=March 25, 2012 }}</ref>
+|population_note                =
+|population_total               =5311379
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =780514
+|population_density_metro_km2   =auto
+| population_urban = 600,000
+| population_urban_footnotes = &nbsp;(2018)<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22|access-date=2018-06-15|archive-url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf|archive-date=2018-05-03|url-status=live}}</ref>
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|CST]]
+|utc_offset             = +8
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!--  [[Postal code of China|Postal code]] -->
+|postal_code            = 246000
+|area_code              = 0556
+|iso_code = [[ISO 3166-2:CN|CN-AH-08]]
+|blank_name             =[[GDP]]
+|blank_info             =
+|blank1_name            =GDP per capita
+|blank1_info            =
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank2_info            = {{lang|zh-cn|皖H}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = {{URL|www.anqing.gov.cn}}
+|footnotes              =
+}}

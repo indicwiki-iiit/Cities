@@ -1,0 +1,41 @@
+{{Infobox Australian place | type = town
+| name     = Bacchus Marsh
+| state    = vic
+| image    = Bacchus Marsh Main St 002.JPG
+| caption  = Main St, Bacchus Marsh
+| lga      = Shire of Moorabool
+| postcode = 3340
+| pop      = 22223
+| pop_year = 2018, Urban Area
+| pop_footnotes = <ref name=ABSSUA>{{cite web|title=3218.0 – Regional Population Growth, Australia, 2017–18: Population Estimates by Significant Urban Area, 2008 to 2018|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|website=Australian Bureau of Statistics|publisher=[[Australian Bureau of Statistics]]|date=27 March 2019|access-date=22 April 2019}} Estimated resident population, 30 June 2018.[[File:CC-BY icon.svg|50px]]</ref>
+| pop2 =  6,394
+| pop2_year = 2016, state suburb
+| pop2_footnotes = <ref name=ABSSUB>{{census 2016 AUS|id= SSC20094 |name= Bacchus Marsh (State Suburb)|accessdate= 9 July 2017|quick=on}}</ref>
+| area = 196.3
+| est      = 
+| elevation= 118
+| use_lga_map = yes
+| coordinates = {{coord|37|40|30|S|144|26|20|E|display=inline,title}}
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Melton|Melton]]
+| fedgov   = [[Division of Ballarat|Ballarat]]
+| dist1                    = 49
+| dir1                     = NW
+| location1                = [[Melbourne]]
+| dist2                    = 52
+| dir2                     = SE
+| location2                = [[Ballarat]]
+| dist3    = 53
+| dir3     = N
+| location3= [[Geelong]]
+| near-nw  = [[Pentland Hills, Victoria|Pentland Hills]]
+| near-n   = [[Darley, Victoria|Darley]]
+| near-ne  = [[Merrimu, Victoria|Merrimu]]
+| near-w   = [[Pentland Hills, Victoria|Pentland Hills]]
+| near-e   = [[Hopetoun Park, Victoria|Hopetoun Park]]
+| near-sw  = [[Maddingley, Victoria|Maddingley]]
+| near-s   = [[Maddingley, Victoria|Maddingley]]
+| near-se  = [[Parwan, Victoria|Parwan]]
+}}

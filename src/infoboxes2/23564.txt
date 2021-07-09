@@ -1,0 +1,43 @@
+{{Infobox Australian place
+| type     = town
+| name     = Kingaroy
+| state    = qld
+| image    = KingaroyPeanutSilos.jpg
+| caption  = The peanut silos in Haly Street are the town's tallest structures and most visible landmark
+| coordinates         = {{coord|-26.5408|151.8394|type:city_region:AU-QLD|display=inline|name=Kingaroy (town centre)}}
+| pop      = 10398
+| pop_year = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| established         = 
+| postcode            = 4610
+| area                = 68.5
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 142 <!-- road distances as per template instructions -->
+| dir1                = WSW
+| location1           = [[Gympie]]
+| dist2               = 153
+| dir2                = N
+| location2           = [[Toowoomba]]
+| dist3               = 222
+| dir3                = NW
+| location3           = [[Brisbane]]
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga      = South Burnett Region
+| stategov = [[Electoral district of Nanango|Nanango]]
+| fedgov   = [[Division of Maranoa]]
+| elevation= 441.9
+| maxtemp  = 24.8
+| mintemp  = 11.5
+| rainfall = 779.1
+| near-n              = [[Memerambi, Queensland|Memerambi]]
+| near-ne             = [[Corndale, Queensland|Corndale]]
+| near-e              = [[Booie, Queensland|Booie]]
+| near-se             = [[Coolabunia, Queensland|Coolbunia]]
+| near-s              = [[Taabinga, Queensland|Taabinga]]
+| near-sw             = [[Inverlaw, Queensland|Inverlaw]]
+| near-w              = [[Gordonbrook, Queensland|Gordonbrook]]
+| near-nw             = [[Crawford, Queensland|Crawford]]
+}}

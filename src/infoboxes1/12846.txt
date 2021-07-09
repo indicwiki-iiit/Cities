@@ -1,0 +1,32 @@
+{{Infobox settlement
+|official_name          = Halmstad
+|image_skyline          = <center>{{Photomontage |border=0 |size=275 |spacing=2 |color=none |photo1a=Halmstad Nissan01.JPG |photo2a=Halmstads Stadsbibliotek.jpg |photo2b=2015-07-01 Stadttor in Halmstad RB1278.jpg}}</center>
+|image_caption          = 
+|image_shield           = Halmstad stora vapen.svg
+|pushpin_map            = Sweden Halland#Sweden
+|pushpin_label_position = 
+|subdivision_type       = [[Country]]
+|subdivision_name       = [[Sweden]]
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Halmstad Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Halland County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Halland]]
+|area_footnotes         = <ref name=scb>{{cite web|url=http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0810__MI0810A/LandarealTatortN/|title=Folkmängd och landareal i tätorter, per tätort. Vart femte år 1960 - 2019|date=24 March 2020 |publisher=[[Statistics Sweden]] |language=sv}}</ref>
+|area_total_km2         = 36.68
+|population_as_of       = 2019
+|population_footnotes   = <ref name=scb/>
+|population_total       = 70,480 <!-- This is the official figure from Statistics Sweden (Statistiska centralbyrån). -->
+|population_density_km2 = 1921
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|56|40|26|N|12|51|26|E|region:SE|display=inline,title}}
+|elevation_m            = 11
+|postal_code_type       = Postal code
+|postal_code            = 30x xx
+|area_code              = (+46) 35
+|website                = {{URL|http://www.halmstad.se}}
+}}

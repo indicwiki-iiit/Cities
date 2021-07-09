@@ -1,0 +1,150 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = <!-- at least one of the first two fields must be filled in -->
+| official_name            = London Borough of Camden
+| other_name              =
+| settlement_type         = [[London boroughs|Borough]]
+<!-- transliteration(s) -------->
+<!-- images, nickname, motto --->
+| image_skyline           =
+| imagesize               = 270px
+| image_alt               =
+| image_caption           =
+| image_shield            = Coat of arms of the London Borough of Camden.svg
+| shield_size             = 100px
+| shield_alt              =
+| shield_link             = Coat of arms of the London Borough of Camden
+| image_blank_emblem      = Lb_camden_logo.svg
+| blank_emblem_type       = Council logo
+| blank_emblem_size       = 100px
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| motto                   = ''Non sibi, sed toti''<br />(Not for self, but for all)
+<!-- maps and coordinates ------>
+| image_map               = Camden UK locator map.svg
+| map_alt                 =
+| map_caption             = Camden shown within [[Greater London]]
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates       =
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Sovereign state]]
+| subdivision_name        = [[United Kingdom]]
+| subdivision_type2       = [[Country of the United Kingdom|Constituent country]]
+| subdivision_name2       = [[England]]
+| subdivision_type3       = [[Regions of England|Region]]
+| subdivision_name3       = [[Greater London|London]]
+| subdivision_type4       = [[Ceremonial counties of England|Ceremonial county]]
+| subdivision_name4       = [[Greater London]]
+| subdivision_type5       =
+| subdivision_name5       =
+| established_title       = Created
+| established_date        = 1 April 1965
+| established_title1      =
+| established_date1       =
+| named_for               =
+<!-- seat, smaller parts -->
+| seat_type               = Admin HQ
+| seat                    = [[Camden Town Hall|Town Hall]], Judd Street, St Pancras, London
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = [[London boroughs|London borough council]]
+| governing_body          = [[Camden London Borough Council]]
+| leader_party            = {{English district control|ONS=00AG|GSS=E09000007}}
+| leader_title            = Leadership
+| leader_name             = Leader & Cabinet
+| leader_title1           = Mayor
+| leader_name1            = Councillor Maryam Eslamdoust
+| leader_title2           = London&nbsp;Assembly
+| leader_name2            = [[Andrew Dismore]] (Lab) AM for [[Barnet and Camden (London Assembly constituency)|Barnet and Camden]]
+| leader_title3           = [[List of MPs elected in the 2010 United Kingdom general election|MPs]]
+| leader_name3            = {{plainlist|
+* [[Keir Starmer]] (Lab)
+* [[Tulip Siddiq]] (Lab)}}
+| leader_title4           =
+| leader_name4            =
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_total_km2          = 21.8
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_total_dunam        = <!-- used in Middle East articles only -->
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          =
+| area_urban_sq_mi        =
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          =
+| area_rural_sq_mi        =
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          =
+| area_metro_sq_mi        =
+| area_rank               = {{English district area rank|ONS=00AG|GSS=E09000007}} [[List of English districts by area|(of {{English district total}})]]
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_sq_mi       =
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = {{English district population|ONS=00AG|GSS=E09000007}}
+| population_as_of        = {{United Kingdom statistics year}}
+| population_rank         = {{English district rank|ONS=00AG|GSS=E09000007}} [[List of English districts by population|(of {{English district total}})]]
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_blank1_title = Ethnicity<ref name=LBEthnicPercentages>''[http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls 2011 Census: Ethnic group, local authorities in England and Wales]'', [[Office for National Statistics]] (2012). See [[Classification of ethnicity in the United Kingdom]] for the full descriptions used in the 2011 Census.</ref>
+| population_blank1 = {{plainlist|
+* 44% [[White British]]
+* 3.2% [[Irish Briton|White Irish]]
+* 0.1% White Gypsy or Irish Traveller
+* 19% [[White Other (United Kingdom Census)|Other White]]
+* 1.1% White & Black Caribbean
+* 0.8% White & Black African
+* 1.8% White & Asian
+* 1.9% Other Mixed
+* 2.8% [[British Indian|Indian]]
+* 0.7% [[British Pakistanis|Pakistani]]
+* 5.7% [[British Bangladeshi|Bangladeshi]]
+* 2.9% [[British Chinese|Chinese]]
+* 4% Other Asian
+* 4.9% [[Black British#Census classification|Black African]]
+* 1.6% [[British African-Caribbean community|Black Caribbean]]
+* 1.7% Other Black
+* 1.6% [[British Arab|Arab]]
+* 2.3% [[Other ethnic group (United Kingdom Census)|Other]]}}
+| population_blank2_title =
+| population_blank2       =
+| population_demonym      =
+<!-- time zone(s) -------------->
+| timezone                = [[Greenwich Mean Time|GMT]]
+| utc_offset              = ±00:00{{!}}UTC
+| timezone_DST            = [[British Summer Time|BST]]
+| utc_offset_DST          = +1
+<!-- postal codes, area code --->
+| postal_code_type        = [[Postcodes in the United Kingdom|Postcodes]]
+| postal_code             = {{postcode|EC}}, {{postcode|N}}, {{postcode|NW}}, {{postcode|W}}, {{postcode|WC}}
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = [[020]]
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+<!-- blank fields (section 1) -->
+| blank1_name             = [[ONS coding system|ONS code]]
+| blank1_info             = 00AG
+| blank2_name             = [[ONS coding system|GSS code]]
+| blank2_info             = E09000007
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = [[List of law enforcement agencies in the United Kingdom|Police]]
+| blank_info_sec2         = [[Metropolitan Police]]
+<!-- website, footnotes -------->
+| website                 = [http://www.camden.gov.uk/ www.camden.gov.uk]
+| footnotes               =
+}}

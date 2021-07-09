@@ -1,0 +1,24 @@
+{{Infobox settlement
+| name                   = Jisr ash-Shugur District
+| native_name            = منطقة جسر الشغور
+| native_name_lang       = ar
+| settlement_type        = [[Districts of Syria|District]]
+| image_map              = Jisr ash-Shugur District.svg
+| map_caption            = Map of Jisr ash-Shugur District within Idlib Governorate
+| coordinates            = {{coord|region:SY-ID_type:adm2nd|format=dms|display=inline,title}}
+| coor_pinpoint          = [[Jisr ash-Shugur]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Syria}}
+| subdivision_type1      = [[Governorates of Syria|Governorate]]
+| subdivision_name1      = [[Idlib Governorate|Idlib]]
+| seat                   = [[Jisr ash-Shugur]]
+| parts_type             = Subdistricts
+| parts_style            = para
+| p1                     = 4 [[nahiyah|nawāḥī]]
+| area_total_km2         = 610.89
+| population_footnotes   = <ref name=census2004>{{cite web |title=2004 Census Data |url=https://www.humanitarianresponse.info/en/operations/syria/dataset/syrian-arab-republic-other |publisher=[[United Nations Office for the Coordination of Humanitarian Affairs|UN OCHA]] |access-date=15 October 2015}}</ref>
+| population_total       = 150193
+| population_as_of       = 2004
+| population_density_km2 = auto
+| geocode                = SY0704
+}}

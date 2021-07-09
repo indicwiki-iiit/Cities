@@ -1,0 +1,97 @@
+{{Infobox settlement
+|name                     = Dandridge, Tennessee
+|official_name            = Town of Dandridge
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = “We Saved a Place For You.”
+
+<!-- Images -->
+|image_skyline            = Dandridge-Main-St-tn.jpg
+|imagesize                = 250px
+|image_caption            = Dandridge Town Hall (foreground) and Jefferson County Courthouse (background)
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = Town of Dandridge logo.png
+|blank_emblem_type        = Logo
+|blank_emblem_size        = 90px
+
+<!-- Maps -->
+|image_map                = File:Jefferson County Tennessee Incorporated and Unincorporated areas Dandridge Highlighted 4719380.svg
+|mapsize                  = 250px
+|map_caption              = Location of Dandridge in Jefferson County, Tennessee
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Tennessee]]
+|subdivision_type2        = [[List of counties in Tennessee|County]]
+|subdivision_name2        = [[Jefferson County, Tennessee|Jefferson]]
+
+<!-- Government -->
+|government_footnotes     = <ref name="mtas">{{cite web |title=Dandridge |url=http://www.mtas.tennessee.edu/city/dandridge |website=Municipal Technical Advisory Service |access-date=July 30, 2020}}</ref>
+|government_type          = [[Mayor-council]]
+|leader_title             = [[Mayor]]
+|leader_name              = George Gantte
+|leader_title1            = [[Vice Mayor]]
+|leader_name1             = Todd Kesterson
+|leader_title2            = [[Town Council]]
+|leader_name2             = {{Collapsible list
+|title = Aldermen
+|frame_style = border:none; padding: 0;
+|list_style = text-align:left;display:none;
+|1 = Todd Kesterson
+|2 = Mike Chambers
+|3 = Jeffrey Depew
+|4 = Jessica Elder
+|5 = Mike Nelson
+|6 = Marianne Reese
+}}
+|established_title        = Founded
+|established_date         = 1783
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1799<ref>''[http://www.state.tn.us/sos/bluebook/05-06/48-data.pdf Tennessee Blue Book]'', 2005-2006, pp. 618-625.</ref>
+|named_for                = [[Martha Dandridge Washington]]
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.77
+|area_land_km2            = 15.39
+|area_water_km2           = 1.37
+|area_total_sq_mi         = 6.47
+|area_land_sq_mi          = 5.94
+|area_water_sq_mi         = 0.53
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2812
+|population_density_km2   = 208.00
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 304
+|elevation_ft             = 997
+|coordinates              = {{coord|36|1|43|N|83|25|26|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 37725
+|area_code                = [[Area code 865|865]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 47-19380<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1282016<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{url| http://www.dandridgetn.gov/}}                
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 3202
+|population_density_sq_mi = 538.69
+}}

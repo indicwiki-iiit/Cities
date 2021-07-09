@@ -1,0 +1,44 @@
+{{Infobox Australian place
+| type = town
+| name     = Burketown
+| state    = qld
+| image    = Burketown-pub-gulf-savannah-queensland-australia.jpg
+| caption  = Burketown pub (since destroyed)
+| coordinates         = {{coord|-17.7408|139.5477|type:city_region:AU-QLD|display=inline|name=Burketown (town centre)}}
+| pop                 = 238
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1865
+| postcode            = 4830
+| area                = 1713.3
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| elevation           = 6
+| elevation_footnotes=<ref name="BOM">{{cite web|url=http://www.bom.gov.au/climate/averages/tables/cw_029004.shtml|title=BURKETOWN POST OFFICE|publisher=Bureau of Meteorology|access-date=13 September 2009|url-status=live|archive-url=https://web.archive.org/web/20090630125128/http://www.bom.gov.au/climate/averages/tables/cw_029004.shtml|archive-date=30 June 2009|df=dmy-all}}</ref>
+| maxtemp             = 32.2
+| mintemp             = 20.0
+| rainfall            = 788.0
+| lga                 = Shire of Burke
+| stategov            = [[Electoral district of Traeger|Traeger]]
+| fedgov              = [[Division of Kennedy|Kennedy]]
+| near-n              = ''[[Gulf of Carpentaria]]''
+| near-ne             = ''[[Gulf of Carpentaria]]''
+| near-e              = [[Carpentaria, Queensland|Carpentaria]]
+| near-se             = [[Carpentaria, Queensland|Carpentaria]]
+| near-s              = [[Gregory, Queensland|Gregory]]
+| near-sw             = [[Gregory, Queensland|Gregory]]
+| near-w              = [[Nicholson, Queensland|Nicholson]]
+| near-nw             = [[Nicholson, Queensland|Nicholson]]
+}}

@@ -1,0 +1,34 @@
+{{Infobox Australian place 
+| type     = suburb
+| name     = Pakenham
+| city     = Melbourne
+| state    = vic
+| image    = Packenham Aerial.jpg
+| caption  = Aerial view from south west
+| lga      = Shire of Cardinia
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|38.0712|S|145.4878|E|display=inline,title}}
+| postcode = 3810
+| pop      = 46,421
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS | id = SSC22015 | name = Pakenham (State Suburb) | accessdate = 20 September 2017 | quick = on}}</ref>
+| elevation= 101
+| maxtemp  = 23.4
+| mintemp  = 12.3
+| rainfall = 865
+| stategov = [[Electoral district of Bass|Bass]]
+| stategov2 = [[Electoral district of Gembrook|Gembrook]]
+| fedgov   = [[Division of La Trobe|La Trobe]]
+| dist1    = 53
+| location1= Melbourne
+| dist2    = 14
+| location2= [[Berwick, Victoria|Berwick]]
+| near-nw  = [[Beaconsfield Upper, Victoria|Beaconsfield Upper]]
+| near-n   = [[Pakenham Upper, Victoria|Pakenham Upper]]
+| near-ne  = [[Nar Nar Goon North, Victoria|Nar Nar Goon North]]
+| near-w   = [[Officer, Victoria|Officer]]
+| near-e   = [[Pakenham East, Victoria|Pakenham East]]
+| near-sw  = [[Officer South, Victoria|Officer South]]
+| near-s   = [[Pakenham South, Victoria|Pakenham South]]
+| near-se  = [[Pakenham South, Victoria|Pakenham South]]
+}}

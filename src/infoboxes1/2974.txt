@@ -1,0 +1,26 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| official_name                   = Chitungwiza
+| image_shield                    = Chitungwiza logo.jpg
+| nickname                        = Chi Town
+| motto                           = ''Pamberi nekushandira pamwe''
+<!-- images and maps  ----------->| image_map                       = 
+| pushpin_map                     = Zimbabwe
+| pushpin_label_position          = 
+| pushpin_mapsize                 = 300
+<!-- Location ------------------>| pushpin_map_caption             = 
+| coordinates                     = {{coord|17|59|38|S|31|02|53|E|type:city_region:ZW|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Zimbabwe]]
+| subdivision_type1               = [[Provinces of Zimbabwe|Province]]
+| subdivision_name1               = [[Harare Province]]
+| established_title               = Formed
+| established_date                = 
+| elevation_m                     = 1,448
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| population_total                = 340,000<ref name="Pop" />
+| website                         = {{url|http://www.chitungwiza.co.zw/}}
+| timezone                        = [[Central Africa Time|CAT]]
+| utc_offset                      = +2
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Subtropical highland|Cwb]]
+}}

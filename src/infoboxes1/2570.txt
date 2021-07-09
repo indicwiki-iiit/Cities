@@ -1,0 +1,61 @@
+{{Infobox settlement
+| name                    = Kuruman
+| image_skyline           = South-Africa - Kuruman - Eye.jpg
+| image_caption           = ''The Eye''
+| pushpin_map             = South Africa Northern Cape#South Africa#Africa
+| coordinates             = {{coord|27|27|S|23|26|E|type:city_region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]] 
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]] 
+| subdivision_name1       = [[Northern Cape]]
+| subdivision_type2       = [[List of districts of South Africa|District]] 
+| subdivision_name2       = [[John Taolo Gaetsewe District Municipality|John Taolo Gaetsewe]]
+| subdivision_type3       = [[List of municipalities of South Africa|Municipality]] 
+| subdivision_name3       = [[Ga-Segonyana Local Municipality|Ga-Segonyana]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1887<ref name=raper>{{cite book|last=Raper|first=R.E.|title=Dictionary of Southern African Place Names|url=https://archive.org/stream/DictionaryOfSouthernAfricanPlaceNames/SaPlaceNames#page/n265/mode/2up|publisher=HSRC|p=265|date=1987}}</ref>
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/361021 |title=Main Place Kuruman |work=Census 2011 |access-date=2019-03-24 |archive-url=https://web.archive.org/web/20130927043802/http://census2011.adrianfrith.com/place/361021 |archive-date=2013-09-27 |url-status=dead }}</ref>
+| area_total_km2          = 93.39
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 13057
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 23.5%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 43.7%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 1.3%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 30.3%
+| demographics1_title5    = Other
+| demographics1_info5     = 1.2%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 76.9%
+| demographics2_title2    = [[Tswana language|Tswana]]
+| demographics2_info2     = 14.9%
+| demographics2_title3    = [[South African English|English]]
+| demographics2_info3     = 4.0%
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Other
+| demographics2_info5     = 4.2%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 8460
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 8460
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 053
+}}

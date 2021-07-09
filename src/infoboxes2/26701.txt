@@ -1,0 +1,32 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|coordinates            =
+
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = <!--Hungary-->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Ibrány
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Szabolcs-Szatmár-Bereg County|Szabolcs-Szatmár-Bereg]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Ibrány District|Ibrány]]
+|image_shield=HUN_Ibrány_Címer.svg
+|image_flag = Flag of Ibrány.svg
+|area_total_km2=60.42
+|population_as_of=2015
+|population_total=6751<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1 January 2015]''. Hungarian Central Statistical Office. 3 September 2015</ref>
+|population_density_km2=111.9
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=4484
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 42
+|website={{URL|http://www.ibrany.hu/}}
+}}

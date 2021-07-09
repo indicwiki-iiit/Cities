@@ -1,0 +1,86 @@
+{{Infobox settlement
+|name                     = Erwin, Tennessee
+|official_name            = Town of Erwin
+|settlement_type          = [[Town]]
+|nickname                 = The Valley Beautiful
+|motto                    = "Where the Mountains and the People Welcome You."<ref name="homepage">{{cite web |title=Homepage |url=https://www.erwintn.org/ |website=Town of Erwin |access-date=February 24, 2021}}</ref>
+
+<!-- Images -->
+|image_skyline            = Erwin-Main-Street-tn1.jpg
+|imagesize                = 250px
+|image_caption            = View along Main Street in Erwin
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Unicoi County Tennessee Incorporated and Unincorporated areas Erwin Highlighted 4724360.svg
+|mapsize                  = 250px
+|map_caption              = Location of Erwin in Unicoi County, Tennessee.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA Tennessee
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = Tennessee
+|subdivision_type2        = [[List of counties in Tennessee|County]]
+|subdivision_name2        = [[Unicoi County, Tennessee|Unicoi]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Municipal Corporation]]
+|leader_title             = Mayor
+|leader_name              = Doris Hensley
+|leader_title1            = Aldermen
+|leader_name1             = Gary Chandler, Gary Edwards, Mark Lafever, Virgil Moore, Rachelle Shurtz
+|established_title        = Settled
+|established_date         = 1780s<ref name=goforth>James A. Goforth, ''[https://books.google.com/books?id=8tYFr_QvbuIC&pg=PA3&lpg=PA3&dq=erwin,+tennessee+originally+settled+unaka+longmire&source=bl&ots=mPwE3Usth6&sig=2JALxTCE8EPqVZ1LYMF_TKTC7vg&hl=en&sa=X&ei=l6dxUef5BoPs8gTcl4GoAQ&ved=0CFUQ6AEwBA#v=onepage&q=erwin%2C%20tennessee%20originally%20settled%20unaka%20longmire&f=false Erwin, Tennessee: A Pictorial History 1891&ndash;1929]'' (Overmountain Press, 2004), pp. 1-3.</ref>
+|established_title2       = Founded
+|established_date2        = 1876<ref name=goforth />
+|established_title3       = Incorporated
+|established_date3        = 1903<ref>''[http://www.state.tn.us/sos/bluebook/05-06/48-data.pdf Tennessee Blue Book]'', 2005-2006, pp. 618-625.</ref>
+|named_for                = David J.N. Ervin, early resident<ref>A. Christine Tipton, "[http://www.erwintn.org/history/history.html Town of Erwin], Erwin official website, 2011. Retrieved: 19 April 2013.</ref>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 10.70
+|area_land_km2            = 10.69
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 4.13
+|area_land_sq_mi          = 4.13
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref>Tennessee Department of Economic and Community Development, [https://www.tn.gov/ecd/pdf/StateProfile/2011certpop.pdf Certified Population of Tennessee Incorporated Municipalities and Counties] {{webarchive|url=https://web.archive.org/web/20140630192652/https://www.tn.gov/ecd/pdf/StateProfile/2011certpop.pdf |date=2014-06-30 }}, State of Tennessee website, 1 July 2011.</ref>
+|population_total         = 6097
+|population_density_km2   = 553.76
+|population_density_sq_mi = 1434.32
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 510
+|elevation_ft             = 1673
+|coordinates              = {{coord|36|8|42|N|82|24|39|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 37650
+|area_code                = [[Area code 423|423]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 47-24360<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1328148<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.erwintn.org/ erwintn.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5918
+}}

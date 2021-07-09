@@ -1,0 +1,54 @@
+{{Infobox settlement
+| name                  = Kokopo
+| other_name            = 
+| image_skyline         = Kokopo.png
+| image_alt             = 
+| image_caption         = Satellite image
+| image_map             = 
+| map_alt               = 
+| map_caption           = 
+| pushpin_map           = Papua New Guinea
+| pushpin_relief         =  
+| coordinates             = {{coord|4|21|00|S|152|16|25|E|region:PG|display=inline}}
+| pushpin_label_position = right
+| pushpin_map_alt        = 
+| pushpin_map_caption    = Location within New Britain and Ireland
+| subdivision_type        = Country
+| subdivision_name        = [[Papua New Guinea]]
+| subdivision_type1       = [[Provinces of Papua New Guinea|Province]]
+| subdivision_name1       = [[East New Britain Province|East New Britain]]
+| subdivision_type2       = [[Districts and LLGs of Papua New Guinea|District]]
+| subdivision_name2       = [[Kokopo District]]
+| subdivision_type3       = [[Districts and LLGs of Papua New Guinea|LLG]]
+| subdivision_name3       = Kokopo-Vunamami Urban
+| area_total_km2          = 
+| area_footnotes          = 
+| population_total        = 20,262
+| population_as_of        = 2000
+| population_rank         = [[List of cities and towns in Papua New Guinea by population|8th]]
+| population_footnotes    = 
+| population_density_km2  = auto
+| demographics_type1      = Languages
+| demographics1_title1    = [[Languages of Papua New Guinea|Main languages]]
+| demographics1_info1     = [[Kuanua]], [[Tok Pisin]], English
+| established_title       = 
+| established_date        = 
+| leader_title            = 
+| leader_name             =  
+| elevation_m             = 4
+| postal_code_type        = 
+| postal_code             = 
+| timezone1               = [[Time in Australia|AEST]]
+| utc_offset1             = +10
+| website                 = 
+| blank_name              = Location
+| blank_info              = {{convert|20|km|abbr=on}} from [[Rabaul]]
+| blank1_name              = Mean max temp
+| blank1_info              = {{convert|31.0|C|F}}
+| blank2_name             = Mean min temp
+| blank2_info             = {{convert|23.3|C|F}}
+| blank3_name             = Annual rainfall
+| blank3_info             = {{convert|2003|mm|in|sigfig=4|abbr=on}}
+| blank4_name             = [[Köppen climate classification|Climate]]
+| blank4_info             = [[Tropical rainforest climate|Af]]
+}}

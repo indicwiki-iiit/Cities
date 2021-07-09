@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Elbistan
+| image_skyline                   = Elbistan - panoramio - Emin Başar ÖZDEMİR.jpg
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|38|12|05|N|37|11|18|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Kahramanmaraş Province|Kahramanmaraş]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Adalet ve Kalkınma Partisi|AKP]]
+| leader_title                    = Mayor
+| leader_name                     = Mehmet Gürbüz
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Özkan Demir
+| elevation_m                     = 1150
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Kahramanmaraş|Elbistan}}
+| population_footnotes            = {{Turkey district populations|SOURCE|Kahramanmaraş}}
+| population                = 143,000
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = 2013Population
+| population_blank1               = {{Turkey district populations|Kahramanmaraş|Elbistan|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 46300
+| website                         = {{URL|www.elbistan.bel.tr | www.elbistan.bel.tr }}
+| official_name                   = 
+}}

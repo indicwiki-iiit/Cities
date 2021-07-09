@@ -1,0 +1,142 @@
+{{Infobox country
+| conventional_long_name = Federal Democratic Republic of Ethiopia
+| common_name            = Ethiopia
+| native_name            = {{Collapsible list
+|titlestyle = background:transparent;text-align:center;line-height:normal;font-size:85%;
+|title      = Name in national languages
+| {{Infobox
+| subbox    = yes
+| bodystyle = font-size:78%;font-weight:normal;
+| rowclass1 = mergedrow
+| label1    = [[Amharic]]:
+| data1     = {{lang|am|የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ}}<br>{{lang|am-Latn|yeʾĪtiyoṗṗiya Fēdēralawī Dēmokirasīyawī Rīpebilīk}}
+| rowclass3 = mergedrow
+| label3    = [[Oromo language|Oromo]]:
+| data3     = {{lang|om|Rippabliikii Federaalawaa Dimokraatawaa Itiyoophiyaa}}
+| rowclass4 = mergedrow
+| label4    = [[Somali language|Somali]]:
+| data4     = {{lang|so|Jamhuuriyadda Dimuqraadiga Federaalka Itoobiya}}
+| rowclass5 = mergedrow
+| label5    = [[Afar language|Afar]]:
+| data5     = {{lang|aa|Ityoppiah Federalih Demokrasih Ummuno}}
+| rowclass6 = mergedrow
+| label6    = [[Tigrinya language|Tigrinya]]:
+| data6     = {{lang|ti|ናይኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ}}<br>{{lang|ti-Latn|nayi'ītiyop'iya fēdēralawī dēmokirasīyawī rīpebilīki}}
+}}
+}}
+| image_flag             = Flag of Ethiopia.svg
+| image_coat             = Emblem of Ethiopia.svg
+| symbol_type            = Emblem
+| national_anthem        = <br />{{lang|am|ወደፊት ገስግሺ ፣ ውድ እናት ኢትዮጵያ|bold=yes}}<br />({{Lang-en|"[[March Forward, Dear Mother Ethiopia]]"}})<br /><div style="display:inline-block;margin-top:0.4em;">{{center|[[File:Wedefit Gesgeshi Widd Innat Ittyoppya.ogg]]}}</div>
+| image_map              = Ethiopia (Africa orthographic projection).svg
+| capital                = [[Addis Ababa]]
+| coordinates            = {{Coord|9|1|N|38|45|E|type:city}}
+| largest_city           = capital
+| official_languages     = [[Afar language|Afar]] <br> [[Amharic language|Amharic]] <br> [[Oromo language|Oromo]] <br> [[Somali language|Somali]] <br> [[Tigrinya language|Tigrinya]]<ref>{{cite web |title=ETHIOPIA TO ADD 4 MORE OFFICIAL LANGUAGES TO FOSTER UNITY |url=http://venturesafrica.com/ethiopia-to-add-4-more-official-languages-to-foster-unity/ |website=Ventures Africa |date=4 March 2020 |publisher=Ventures |access-date=2 February 2021}}</ref><ref>{{cite web |title=Ethiopia is adding four more official languages to Amharic as political instability mounts |url=https://www.nazret.com/2020/03/07/ethiopia-is-adding-four-more-official-languages-to-amharic-as-political-instability-mounts/ |website=Nazret |publisher=Nazret |access-date=2 February 2021}}</ref><ref>{{cite news |last1=Shaban |first1=Abdurahman |title=One to five: Ethiopia gets four new federal working languages |url=https://www.africanews.com/2020/03/04/one-to-five-ethiopia-gets-four-new-federal-working-languages// |agency=Africa News}}</ref> 
+| languages_type         = {{nowrap|'''[[Regional language]]s'''}}<ref name="africa.upenn.edu">{{Cite web | url=https://www.africa.upenn.edu/Hornet/Ethiopian_Constitution.html | title=Ethiopian Constitution}}</ref>
+| ethnic_groups          = {{plainlist|
+* 34.5% [[Oromo people|Oromo]]
+* 26.9% [[Amhara people|Amhara]]
+* 6.2% [[Somalis|Somali]]
+* 6.1% [[Tigrayans|Tigray]]
+* 4.0% [[Sidama people|Sidama]]
+* 2.5% [[Gurage people|Gurage]]
+* 2.3% [[Welayta people|Welayta]]
+* 1.7% [[Hadiya people|Hadiya]]
+* 1.7% [[Afar people|Afar]]
+* 12.6% [[List of ethnic groups in Ethiopia|Others]]}}
+| languages_sub          = yes
+| languages              = {{Flatlist|
+* [[Harari language|Harari]]
+* [[Sidamo language|Sidama]]
+* [[Languages of Ethiopia]]
+<!-- includes only languages officially recognized by a region as the working language -->
+}}
+| languages2_type         = Foreign languages
+| languages2              =
+| ethnic_groups_year      = 2007<ref name="CSA">{{cite web|title=Table 2.2 Percentage distribution of major ethnic groups: 2007|page=16|url=http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf|work=Summary and Statistical Report of the 2007 Population and Housing Census Results|publisher=Population Census Commission|access-date=14 December 2020|archive-url=https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf|archive-date=25 March 2009}}</ref><ref name=2007Census />
+| religion                = {{ublist |item_style=white-space;
+                                    |62.8% [[Christianity in Ethiopia|Christianity]]
+|—43.5% [[Ethiopian Orthodox Church|Ethiopian Orthodoxy]]
+|—18.6% [[P'ent'ay]]
+|—0.7% [[Catholic Church in Ethiopia|Catholicism]]
+|33.9% [[Islam in Ethiopia|Islam]]
+|2.6% [[Traditional African religion|Traditional faiths]]
+|0.7% [[Religion in Ethiopia|Others]] / [[Irreligion|None]]<ref name="CIA">{{cite web|title=Ethiopia|url=https://www.cia.gov/the-world-factbook/countries/ethiopia/|work=The World Factbook|publisher=CIA|access-date=5 April 2021}}</ref>}}
+| demonym                 = [[People of Ethiopia|Ethiopian]]
+| government_type         = [[Ethnic federalism#Ethiopia|Ethnofederalist]]<ref>{{Cite web|url=https://globalafrica.isp.msu.edu/files/5015/5916/5319/TedVestal.pdf|title=Zenawism as ethnic-federalism}}</ref> ([[Federal republic|federal]])  [[Parliamentary system|parliamentary]] [[constitutional republic]]
+| leader_title1           = [[President of Ethiopia|President]]
+| leader_name1            = [[Sahle-Work Zewde]]
+| leader_title2           = [[Prime Minister of Ethiopia|Prime Minister]]
+| leader_name2            = [[Abiy Ahmed]]
+| leader_title3           = [[Deputy Prime Minister]]
+| leader_name3            = [[Demeke Mekonnen]]
+| leader_title4           = [[Speaker of the House of Peoples' Representatives]]
+| leader_name4            = [[Tagesse Chafo]]
+| leader_title5           = Speaker of the [[House of Federation]]
+| leader_name5            =  Adem Farah
+| leader_title6           = [[Federal Supreme Court of Ethiopia|Supreme Court Chief]]
+| leader_name6            = [[Meaza Ashenafi]]
+| legislature             = [[Federal Parliamentary Assembly]]
+| upper_house             = [[House of Federation]]
+| lower_house             = [[House of Peoples' Representatives]]
+| sovereignty_type        = [[History of Ethiopia|Formation]]
+| established_event1      = [[Ethiopian Empire]]
+| established_date1       = 1270
+| established_event2      = [[Zemene Mesafint#End of Zemene Mesafint era|Consolidation (End of Zemene Mesafint era)]]
+| established_date2       = 1855
+| established_event3      = [[Menelik II#Centralisation|Centralisation]]
+| established_date3       = 1904
+| established_event4      = [[Italian Ethiopia|Occupied & annexed]] into [[Italian East Africa]]
+| established_date4       = 1936
+| established_event5      = [[East African campaign (World War II)| Empire restored during World War II]]
+| established_date5       = 1941
+| established_event6      = [[Derg| Derg military rule]] and overthrow of Emperor [[Haile Selassie]]
+| established_date6       = 1974
+| established_event7      = [[Transitional Government of Ethiopia|Transitional government]]
+| established_date7       = 1991
+| established_event8      = [[1995 Constitution of Ethiopia|Current constitution]]
+| established_date8       = 1995
+| area_km2                = 1,104,300<ref name="CIA World Factbook"/>
+| area_rank               = 26th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi              = 426,371 <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water           = 0.7
+| population_estimate     = 117,876,227<ref>{{Cite web|url=https://worldpopulationreview.com/en/countries/ethiopia-population|title=Ethiopia Population 2021 (Demographics, Maps, Graphs)}}</ref>
+| population_census       = 73,750,932<ref name=2007Census>{{cite web |title=Country Level |url=http://www.csa.gov.et/index.php/census-report/census-tables/category/301-census-tables?download=655:countrylevel |archive-url=https://web.archive.org/web/20190208061518/http://www.csa.gov.et/index.php/census-report/census-tables/category/301-census-tables?download=655:countrylevel |url-status=dead |archive-date=8 February 2019 |work=2007 Population and Housing Census of Ethiopia |publisher=[[Central Statistical Agency (Ethiopia)|CSA]] |date=13 July 2010 |access-date=18 January 2013 }}</ref>
+| population_estimate_year = 2021
+| population_estimate_rank = 12th
+| population_census_year   = 2007
+| population_density_km2   = 92.7
+| population_density_sq_mi = 240.1 <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank  = 123rd
+| GDP_PPP                  = $272&nbsp;billion<ref name="IMFWEOET">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October |title=World Economic Outlook Database, October 2020 |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=1 December 2020}}</ref>
+| GDP_PPP_year             = 2020
+| GDP_PPP_rank             = 58th
+| GDP_PPP_per_capita       = $2,772<ref name="IMFWEOET"/>
+| GDP_PPP_per_capita_rank  =
+| GDP_nominal              = $91.514 	 billion<ref name="IMFWEOET"/>
+| GDP_nominal_year         = 2021
+| GDP_nominal_rank = 65th
+| GDP_nominal_per_capita   = $974<ref name="IMFWEOET"/>
+| Gini                     = 33.6 <!-- number only -->
+| Gini_year                = 2011
+| Gini_change              = increase
+| Gini_ref                 =<ref>{{cite book |url=http://hdr.undp.org/sites/default/files/2015_human_development_report.pdf |series=Human Development Report |date=2015 |title=Work for human development |last=Selima |first=Jāhāna |publisher=United Nations Development Programme |isbn=978-92-1-126398-5 |oclc=936070939 |page=232}}</ref>
+| Gini_rank                =
+| HDI                      = 0.485 <!-- number only -->
+| HDI_year                 = 2019<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change               = increase <!-- increase/decrease/steady -->
+| HDI_ref                  =<ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank                 = 173rd
+| currency                 = [[Ethiopian birr|Birr]]
+| currency_code            = ETB
+| time_zone                = [[East Africa Time|EAT]]
+| utc_offset               = +3
+| utc_offset_DST           =
+| time_zone_DST            =
+| drives_on                = right
+| calling_code             = [[+251]]
+| cctld                    = [[.et]]
+| today                    =
+| patron_saint             = [[Saint George]]
+}}

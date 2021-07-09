@@ -1,0 +1,28 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|settlement_type        = City
+|official_name          =  Victoria
+|image_skyline          = 
+|imagesize              = 200px
+|image_caption          = 
+|image_shield           = 
+|pushpin_map            = Argentina Greater Buenos Aires
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in [[Greater Buenos Aires]]
+|pushpin_mapsize        = 240
+|subdivision_type1      = [[Provinces of Argentina|Province]]
+|subdivision_name1    =  [[image: Bandera Buenos Aires.svg|24px]]  [[Buenos Aires Province|Buenos Aires]]
+|subdivision_type2      = [[Partidos of Buenos Aires|Partido]]
+|subdivision_name2      = [[San Fernando Partido|San Fernando]]
+|established_title      = 
+|established_date       = 
+|population_as_of       = 2010 census
+|population_total       = 30,623
+|population_density_km2   =
+|coordinates            = {{coord|34|27|S|58|34|W|region:AR|display=inline,title}}
+|elevation_m            =  11
+|postal_code_type       =  [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 1644
+|area_code              = +[[Telephone numbers in Argentina|54]] 11
+|website                = 
+}}

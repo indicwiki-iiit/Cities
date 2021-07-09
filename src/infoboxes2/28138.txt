@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Smithers
+| official_name                   = Town of Smithers
+| native_name                     = 
+| other_name                      = 
+| settlement_type                 = [[List of towns in British Columbia|Town]]
+<!-- images and maps  ----------->| image_skyline                   = SmithersBC1989.JPG
+| image_caption                   = Main Street Smithers (1989)
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = Smithers logo.png
+| nickname                        = 
+| motto                           = 
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Canada British Columbia#Canada<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Smithers
+<!-- Location ------------------>| coordinates                     = {{coord|54|46|55|N|127|10|05|W|region:CA-BC|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = Canada
+| subdivision_type1               = [[Provinces and territories of Canada|Province]]
+| subdivision_name1               = [[British Columbia]]
+| subdivision_type2               = [[Regional districts of British Columbia|Regional District]]
+| subdivision_name2               = [[Regional District of Bulkley-Nechako]]
+| established_title               = Founded
+| established_date                = 1913
+| established_title2              = Incorporated (village)
+| established_date2               = 1921
+| established_title3              = Incorporated (town)
+| established_date3               = 1967
+| government_type                 = <!-- Politics ----------------->
+| government_footnotes            = 
+| leader_title                    = Mayor
+| leader_name                     = Gladys Atrill
+| leader_title1                   = [[Local government|Governing Body]]
+| leader_name1                    = Smithers Town Council
+| leader_title3                   = [[House of Commons of Canada|MP]]
+| leader_name3                    = [[Taylor Bachrach]] ([[New Democratic Party of Canada|NDP]])
+| leader_title4                   = [[Legislative Assembly of British Columbia|MLA]]
+| leader_name4                    = [[Nathan Cullen]] ([[British Columbia New Democratic Party|NDP]])
+<!-- Area    --------------------->| area_footnotes                  = 
+| area_total_km2                  = 15.27
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = 490
+| elevation_ft                    = 1631
+<!-- Population   ----------------------->| population_footnotes            = 
+| population_total                = 5,351
+| population_as_of                = 2016
+| population_density_km2          = 514.9
+| population_urban                = 5,351<ref>{{cite web| url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=POPC&Code1=0765&Geo2=PR&Code2=47&Data=Count&SearchText=Smithers&SearchType=Begins | title=2016 Census Profile | website=www12.statcan.gc.ca}}</ref>
+| population_rural                = 5,256<ref>{{cite web| url= https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=5951051&Geo2=CD&Code2=5951&Data=Count&SearchText=Bulkley%20Nechako&SearchType=Begins&SearchPR=01&B1=All&TABID=1 | title=2016 Census Profile | website=www12.statcan.gc.ca}}</ref>
+| population_note                 = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = −08:00
+| timezone_DST                    = PDT
+| utc_offset_DST                  = −07:00
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code span
+| postal_code                     = V0J
+| area_code                       = [[Area code 250|250]], [[Area codes 778, 236, and 672|778, 236, & 672]]l
+| blank_name                      = [[Demonym]]
+| blank_info                      = Smithereen
+| website                         = {{URL|http://www.smithers.ca/}}
+| footnotes                       = 
+}}

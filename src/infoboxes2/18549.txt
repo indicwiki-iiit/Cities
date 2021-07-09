@@ -1,0 +1,56 @@
+{{Infobox settlement
+| official_name          = Branford, Connecticut
+| settlement_type        = Town
+| image_skyline          = Branford Town Green, Connecticut.jpg
+| image_caption          = Town Green
+| image_seal             = BranfordCtTownSeal.png
+| image_map              = Branford CT lg.PNG
+| mapsize                = 250px
+| map_caption            = Location in [[New Haven County, Connecticut]]
+| coordinates            = {{coord|41|16|40|N|72|47|59|W|region:US-CT|display=inline,title}}
+<!-- location -->
+| subdivision_type        = [[Country]]
+| subdivision_name        = {{US}}
+| subdivision_type1       = [[U.S. state]]
+| subdivision_name1       = {{flag|Connecticut}}
+| subdivision_type2       = [[County (United States)|County]]
+| subdivision_name2       = [[New Haven County, Connecticut|New Haven]]
+| subdivision_type3        = Metropolitan area
+| subdivision_name3        = [[Greater New Haven|New Haven]]
+| established_title      = Settled
+| established_date       = 1644
+| established_title2     = Incorporated
+| established_date2      = 1685
+| government_type        = [[Representative town meeting]]
+| leader_title           = First selectman
+| leader_name            = James B. Cosgrove (R)
+| leader_title1          = Selectman
+| leader_name1           = Joseph E. Higgins, Jr. (R)
+| leader_title2          = Selectman
+| leader_name2           = Bruce E. Storm (D)
+| unit_pref              = Imperial
+| area_total_km2         = 72.5
+| area_total_sq_mi       = 28.0
+| area_land_km2          = 56.9
+| area_land_sq_mi        = 22.0
+| area_water_km2         = 15.6
+| area_water_sq_mi       = 6.0
+| elevation_m            = 13
+| elevation_ft           = 43
+| population_footnotes   = <ref name="Census 2010"/>
+| population_total       = 28026
+| population_as_of       = 2010
+| population_density_km2 = auto
+| timezone               = [[Eastern Standard Time Zone|Eastern]]
+|utc_offset = &minus;5
+| timezone_DST           = [[Eastern Standard Time Zone|Eastern]]
+|utc_offset_DST = &minus;4
+| postal_code_type       = ZIP code
+| postal_code            = 06405
+| area_code              = [[Area codes 203 and 475|203/475]]
+| blank_name             = [[Federal Information Processing Standard|FIPS code]]
+| blank_info             = 09-07310
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info            = 0213395
+| website                = {{URL|www.branford-ct.gov}}
+}}

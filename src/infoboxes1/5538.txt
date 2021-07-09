@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Shiyan}}
+|official_name          = 
+|other_name             = Shih-yen
+|native_name            = {{lower|0.1em|十堰市}}
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 20140703 Shiyan Railway Station.jpg
+|imagesize              = 270px
+|image_caption          = Shiyan Railway Station in July 2014
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Shiyan Prefecture within Hubei (China).png
+|mapsize                =  
+|map_caption            = Location of Shiyan City jurisdiction in Hubei
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Hubei
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Hubei
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Hubei]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      = 8
+|seat_type              = Municipal seat
+|seat                   =[[Maojian District]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary 
+|leader_name            =Chen Tianhui ({{lang|zh-hans|陈天会}})
+|leader_title1          = Mayor
+|leader_name1           = Zhang Siyi ({{lang|zh-hans|张嗣义}})
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 1022 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox settlement for details on unit conversion-->
+|area_water_km2           =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_max_m            =  1640
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2010 census<ref>http://www.citypopulation.de/php/china-hubei-admin.php</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               = 3340841
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+| area_urban_km2          = 410.50
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_urban        = 700900
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Shiyan municipal government
+|coordinates            = {{coord|32.6290|N|110.7987|E|format=dms|type:adm2nd_region:CN-42_source:Gaode|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =	442000
+(Urban center)
+442100-442300, 442500-442700
+(Other areas)
+|area_code              = 719
+|iso_code = [[ISO 3166-2:CN|CN-HB-03]]
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            = [[Licence plates of the People's Republic of China|License Plate]]
+|blank2_info            = {{lang|zh-cn|鄂C}}  
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = 
+|footnotes              = 	Camphor Laurel
+Cinnamomum camphora L. Sieb.
+Southern magnolia
+Magnolia grandiflora L.Blossom of pomegranate
+Punica granatum L.
+Chinese Rose
+Rosa chinensis
+}}

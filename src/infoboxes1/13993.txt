@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+|official_name            = City of Millbrae
+|native_name              = <!-- for cities whose native name is not in English -->
+|other_name               = 
+|settlement_type          = [[City (California)|City in California]]
+|image_skyline            = Millbrae California.jpg
+|image_caption            = General view of Millbrae
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Citysealmillbrae.png
+|nickname                 = 
+|motto                    = A City In The Sun
+<!-- images and maps  ----------->
+|image_map                = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_Millbrae_Highlighted.svg
+|map_caption              = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|37|36|3|N|122|24|5|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = January 14, 1948<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=October 17, 2013
+}}</ref>
+<!-- Area------------------>
+|government_type          = [[Council–manager government|Council–manager]]<ref name=govt>{{Cite web|url=http://www.ci.millbrae.ca.us/index.aspx?page=3|title=Government|publisher=City of Millbrae|access-date=February 4, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150217071839/http://www.ci.millbrae.ca.us/index.aspx?page=3|archive-date=February 17, 2015}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = Ann Schneider (preceded by Reuben Holober)<ref>{{Cite web
+ | url = http://www.ci.millbrae.ca.us/government/city-council/meet-the-city-council
+ | title = Meet the City Council
+ | publisher = City of Millbrae
+ | access-date = May 25, 2021}}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 8.53
+| area_total_sq_mi        = 3.29
+| area_land_km2           = 8.47
+| area_land_sq_mi         = 3.27
+| area_water_km2          = 0.06
+| area_water_sq_mi        = 0.02
+| area_water_percent      = 0.36
+|area_metro_sq_mi         = <!-- Population   ----------------------->
+|elevation_footnotes      = <ref>{{Cite GNIS|1659756|Millbrae}}</ref>
+|elevation_ft             = 33
+<!-- Area/postal codes & others -------->
+|population_total         = 21532
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0647486.html|title=Millbrae (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 18, 2015|archive-url=https://web.archive.org/web/20150219001934/http://quickfacts.census.gov/qfd/states/06/0647486.html|archive-date=February 19, 2015|url-status=dead}}</ref>
+|population_density_sq_mi = 6850.41
+|population_est           = 22394
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 94030
+|area_code                = [[Area code 650|650]]
+|website                  = {{URL|www.ci.millbrae.ca.us}}
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|47486}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1659756}}
+|population_density_km2 = 2645.20
+}}

@@ -1,0 +1,51 @@
+{{Infobox settlement
+| name = Valmiera
+| other_name =
+| settlement_type = City
+| image_shield = COA LV Valmiera.svg
+| shield_size =
+| image_flag = LVA Valmiera flag.png
+| flag_size =
+| image_skyline = Valmiera kesklinn.JPG
+| imagesize =
+| image_caption = Town centre with St. Simon's Church behind
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| subdivision_type1 = [[Municipalities of Latvia|Municipality]]
+| subdivision_name1 = [[Valmiera Municipality|Valmiera]]
+| established_title = [[Town rights]]
+| established_date = 1323
+| pushpin_map = Latvia
+| pushpin_label_position = above
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|57|33|N|25|24|E|region:LV_type:city|display=inline,title}}
+| nickname =
+| leader_title = Mayor
+| leader_name = Jānis Baiks
+| blank_name_sec1 = Number of city council members
+| blank_info_sec1 = 13
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_metro_km2 =
+| elevation_m =
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_metro =
+| population_density_km2 = auto
+| population_density_metro_km2 = auto
+| postal_code_type = [[Postal code]]
+| postal_code = LV-4201 LV-4202 LV-4204
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = +371 642
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+| website = http://www.valmiera.lv/
+| official_name =
+| leader_party = [[For Valmiera and Vidzeme]]
+}}

@@ -1,0 +1,31 @@
+{{Infobox airport
+| name         = Ugolny Airport
+| nativename   = Аэропорт Угольный
+| image        = Ugolny Airport logo.png
+| image-width  = 250
+| image2       = Anadyr-Ugolny-August2006.jpg
+| image2-width = 250
+| IATA         = DYR
+| ICAO         = UHMA
+| LID          = АНЫ
+| pushpin_map  = Russia Chukotka Autonomous Okrug
+| pushpin_label = DYR
+| pushpin_map_caption = Location of airport in Chukotka Autonomous Okrug
+| type         = Public / Military
+| owner        =
+| operator     = [[Chukotavia|Federal State Unitary Enterprise "Chukotavia"]]
+| city-served  = [[Anadyr (town)|Anadyr]]
+| location     = [[Anadyr (town)|Anadyr]], [[Russia]]
+| hub          =
+* [[Chukotavia]]
+| elevation-f  = 194
+| elevation-m  = 59
+| coordinates  = {{coord|64|44|6|N|177|44|30|E|type:airport|display=inline,title}}
+| website      = http://apanadyr.ru/
+| metric-rwy   = y
+| r1-number    = 01/19
+| r1-length-f  = 11,483
+| r1-length-m  = 3,500
+| r1-surface   = [[Concrete]]
+| footnotes    =
+}}

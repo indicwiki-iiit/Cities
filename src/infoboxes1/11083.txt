@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| name                            = Staten Island
+| official_name                   = 
+| other_name                      = Richmond County, New York<!-- Don't change without discussion -->
+| native_name                     = 
+| nickname                        = The Forgotten Borough, Shaolin
+| settlement_type                 = [[Boroughs of New York City|Borough]] and [[List of counties in New York|county]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = 
+<!-- images and maps ----------->
+| image_skyline                   = USS Leyte Gulf (CG 55) under the Verrazano Narrows Bridge.jpg
+| imagesize                       = 300px
+| image_caption                   = The [[Verrazzano-Narrows Bridge]] looking toward Staten Island
+| image_flag                      = Flag of Richmond County, New York.gif
+| flag_size                       = 120px
+| image_seal                      = Seal of Staten Island 2016.svg
+| seal_size                       = 85px
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = {{Maplink|frame=yes|plain=yes|frame-width=300|frame-align=center|type=shape|fill=#ffffff|fill-opacity=0|stroke-width=3}}
+| mapsize                         = 
+| map_caption                     = Interactive map outlining Staten Island
+| image_map1                      = Map of New York highlighting Richmond County.svg
+| map_caption1                    = Location within the state of New York
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = County
+| subdivision_name2               = Richmond <small>(coterminous)</small>
+| subdivision_type3               = City
+| subdivision_name3               = [[New York City]]
+<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = [[Boroughs of New York City|Borough]]
+| leader_title                    = [[Borough president]]
+| leader_name                     = [[James Oddo]] ([[Republican Party (United States)|R]])<br/>— ''(Borough of Staten Island)''
+| leader_title1                   = [[District Attorney]]
+| leader_name1                    = [[Michael McMahon]] ([[Democratic Party (United States)|D]])<br/>— ''(Richmond County)''
+| established_title               = Settled
+| established_date                = 1661
+| named_for                       = {{unbulleted list|[[States General of the Netherlands]] (Staten Island)|[[Charles Lennox, 1st Duke of Richmond]] (Richmond County)}}
+<!-- Area --------------------->
+| unit_pref                       = imperial
+| area_footnotes                  = 
+| area_total_sq_mi                = 102.5
+| area_land_sq_mi                 = 58.5
+| area_water_sq_mi                = 44
+| area_water_percent              = 43
+<!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = 
+<!-- Population ----------------------->
+| population_as_of                = 2019
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 476,143<ref name=StatenIslandQuickFacts/>
+| population_density_sq_mi        = 8030.3
+| population_blank1_title         = [[Demonym]]
+| population_blank1               = Staten Islander<ref>Moynihan, Colin. [https://www.nytimes.com/1999/09/19/nyregion/fyi-530409.html "F.Y.I."], ''[[The New York Times]]'', September 19, 1999. Accessed December 17, 2019. "There are well-known names for inhabitants of four boroughs: Manhattanites, Brooklynites, Bronxites and Staten Islanders. But what are residents of Queens called?"</ref>
+| blank2_name                     = [[Gross domestic product|GDP]] (2018)
+| blank2_info                     = US$14.5 billion<ref>[https://www.bea.gov/system/files/2019-12/lagdp1219.pdf ''Local Area Gross Domestic Product, 2018''], [[Bureau of Economic Analysis]], released December 12, 2019. Accessed December 17, 2019.</ref>
+<!-- General information --------------->
+| timezone                        = [[Eastern Time Zone|Eastern Standard Time]]
+| utc_offset                      = −5
+| timezone_DST                    = [[Eastern Time Zone|Eastern Daylight Time]]
+| utc_offset_DST                  = −4
+| coordinates                     = {{coord|40|34|19|N|74|8|49|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP Code]] prefix
+| postal_code                     = 103
+| area_code                       = [[Area codes 718, 347, and 929|718/347/929]], [[Area code 917|917]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = {{URL|www.statenislandusa.com}}
+| footnotes                       = 
+}}

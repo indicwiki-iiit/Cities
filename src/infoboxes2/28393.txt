@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = Chadron, Nebraska
+|settlement_type          = [[City]]
+|nickname                 =
+
+<!-- Images -->
+|image_skyline            = Chadron, Nebraska 200-odd Main.jpg
+|imagesize                = 
+|image_caption            = The Chadron Commercial Historic District is listed in the [[National Register of Historic Places]].
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Dawes_County_Nebraska_Incorporated_and_Unincorporated_areas_Chadron_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Chadron within Dawes County and Nebraska
+|image_map1               = Detailed map of Chadron, Nebraska.png
+|mapsize1                 = 250px
+|map_caption1             = Detailed map of Chadron
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nebraska]]
+|subdivision_type2        = [[List of counties in Nebraska|County]]
+|subdivision_name2        = [[Dawes County, Nebraska|Dawes]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_31.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 10.11
+|area_land_km2            = 10.11
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 3.90
+|area_land_sq_mi          = 3.90
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5412
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5851
+|population_density_km2   = 535.55
+|population_density_sq_mi = 1386.98
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST           = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1030
+|elevation_ft             = 3379
+|coordinates              = {{coord|42|49|39|N|103|0|11|W|type:city_region:US-NE|display=it}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 69337
+|area_code                = [[Area code 308|308]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 31-08605
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0835519<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://chadron-nebraska.com/ chadron-nebraska.com]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

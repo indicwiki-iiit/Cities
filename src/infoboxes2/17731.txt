@@ -1,0 +1,36 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|image_skyline = Cegled_Calvinist_great_church.jpg
+|image_caption = The Calvinist Great Church
+|image_shield = Coa_Hungary_Town_Cegléd.svg
+|image_flag = Flag of Cegléd.svg
+|subdivision_type=Country
+|subdivision_name={{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+| pushpin_map            = Hungary#Europe
+| pushpin_relief         = 1
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location of Cegléd
+| pushpin_mapsize        = 
+|official_name=Cegléd
+|map=[[File:PestMegye.png|center|thumb|275px|Location of Pest county in Hungary]]
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Pest County|Pest]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Cegléd District|Cegléd]]
+|area_total_km2=244.87
+|leader_title = [[Mayor]]
+|leader_name = [[László Takáts]]<ref>{{cite web|url=http://www.cegled.hu/|title=Cegléd város hivatalos honlapja|first=Tanczos|last=Tibor|website=Cegled.hu|access-date=7 October 2017|archive-url=https://web.archive.org/web/20190616103517/https://www.cegled.hu/|archive-date=16 June 2019|url-status=dead}}</ref>
+|population_total=38220
+|population_as_of=2004
+|population_density_km2=156.08
+|postal_code_type= [[Postal codes in Hungary|Postal code]]
+|postal_code=2700
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 53
+|website= {{URL|http://www.cegled.hu/}}
+|coordinates            = {{coord|47.17433|19.80200|region:HU|display=inline,title}}
+}}

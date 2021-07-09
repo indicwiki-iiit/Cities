@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Marietta, Georgia
+|other_name               = City of Marietta
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Marietta Square, Marietta, GA, US (08).jpg
+|imagesize                = 
+|image_caption            = Marietta Square
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Cobb County Georgia Incorporated and Unincorporated areas Marietta Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Cobb County, Georgia|Cobb County]] and the state of [[Georgia (U.S. state)|Georgia]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = Metro Atlanta
+|pushpin_label            = Marietta
+|pushpin_label_position   = bottom
+|pushpin_map_caption      = Location of Marietta in [[Metro Atlanta]]
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type = Country
+|subdivision_name         = {{flagicon|USA}} [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        ={{flagicon|Georgia (U.S. state)}} [[Georgia (U.S. state)|Georgia]]
+|subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+|subdivision_name2        = [[Cobb County, Georgia|Cobb]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = [[Steve Tumlin|R. Steve Tumlin Jr.]] ([[Republican Party (United States)|R]])
+|leader_title1            = [[City Manager]]
+|leader_name1             = William F. Bruton Jr.
+|established_title        = <!-- Settled -->
+|established_date         = 1834
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = <!-- Area    --------------------->
+|area_magnitude           = 1 E9
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+|area_total_km2           = 60.81
+|area_land_km2            = 60.62
+|area_water_km2           = 0.19
+|area_total_sq_mi         = 23.48
+|area_land_sq_mi          = 23.41
+|area_water_sq_mi         = 0.07
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 2018 estimate
+|population_total         = 56579
+|pop_est_as_of            = 2019
+|population_est           = 60867
+|population_density_km2   = 1004.05
+|population_density_sq_mi = 2600.49
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[North American Eastern Time Zone|EST]]
+|utc_offset = &minus;5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+|coordinates              = {{coord|33|57|12|N|84|32|26|W|region:US-GA|display=inline,title}}
+|elevation_footnotes      = <!--for references: use  tags-->
+|elevation_m              = 344
+|elevation_ft             = 1129
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 30006-08, 30060-69, 30090
+|area_code                = [[Area code 770|770]]/[[Area codes 678 and 470|678/470]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 13-49756<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0317694<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|www.mariettaga.gov}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

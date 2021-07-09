@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                   = Givatayim
+| native_name            = {{Lang|he|{{Script/Hebrew|גִּבְעָתַיִים}}|rtl=yes}}<Br>جفعاتايم
+| settlement_type        = [[List of cities in Israel|City]] (from 1959)
+| image_skyline          = Tel Aviv - תל אביב (15845688503).jpg
+| image_flag             = Flag of Givatayim.svg
+| image_blank_emblem     = Coat of arms of Givatayim.svg
+| blank_emblem_type      = Coat of arms
+| blank_emblem_size      = 100px
+| pushpin_map_alt        = 
+| pushpin_map            = Israel#Israel center ta
+| pushpin_mapsize        = 250
+| pushpin_label_position = right
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|04|17|N|34|48|36|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Tel Aviv District|name=Tel Aviv}}
+| established_title      = Founded
+| established_date       = 1922
+| leader_title           = Mayor
+| leader_name            = [[Ran Kunik]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:3211|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Giv'atayim}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Two hills
+| website                = https://www.givatayim.muni.il
+}}

@@ -1,0 +1,51 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = 
+| image_skyline                   = {{Photomontage|position=center
+|photo1a = Pleven, July 2019.jpg
+|photo2a = Плевен - параклис "Св. Георги Победоносец" - panoramio (2).jpg
+|photo2b = Плевен март 2014 - panoramio (1).jpg
+|photo3a = Pleven Town Hall Todor Bozhinov.jpg
+|photo3b = Панорама "Плевенска епопея 1877г.".JPG
+|photo4a = Pleven Railway Station.jpg
+|photo4b = Kayluka lake 2.jpg
+|photo5a = Storgosia TB 4.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+|foot_montage = }}
+| image_caption                   = Pleven
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Pleven
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+#Europe
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Pleven
+| pushpin_mapsize                 = 
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| native_name                     = {{native name|bg|Плевен|italics=off}}
+| image_shield                    = Pleven-coat-of-arms.svg
+| leader_title                    = Mayor
+| leader_name                     = Georg Spartanski <small>([[Reformist Bloc, IMRO-BNM]])</small>
+| subdivision_name1               = [[Pleven Province|Pleven]]
+| population_total                = 96,610
+| population_urban                = 131,152
+| population_footnotes            = 
+| population_as_of                = <small>End of 2018</small>
+| population_density_km2          = auto
+| area_total_km2                  = 85
+| elevation_m                     = 116
+| postal_code                     = 5800
+| area_code                       = 064
+| LicensePlate                    = EH
+| website                         = [http://pleven.bg/en/ Official website]
+| coordinates                     = {{coord|43|24|28|N|24|37|13|E|region:BG|display=inline,title}}
+| name                            = 
+| settlement_type                 = [[List of cities and towns in Bulgaria|City]]
+}}

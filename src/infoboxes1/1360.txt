@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                = Lallmatie<!-- at least one of the first two fields must be filled in -->
+| official_name       = Lallmatie
+| native_name         = <!-- if different from the English name -->
+| native_name_lang    = "fr"<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name          = 
+| settlement_type     = Village<!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->
+| image_skyline       = {{Photomontage |border=0  |size=275 |spacing=2 |color=none |photo1a=Giroday Road, Lalmatie, Mauritius.jpg|photo2a=Lallmatie, Mauritius market.jpg|photo2b=The Hindu Temple of Lallmatie, Mauritius.jpg|photo3a=}}
+| image_caption       = Sugarcane landscape in Giroday Road, The National Market of Lallmatie and The [[Hinduism in Mauritius|Hindu]] Temple of Lallmatie.
+| image_flag          = 
+| image_seal          = 
+| image_shield        =
+<!-- maps and coordinates ------>
+| image_map           = 
+| map_caption         = 
+| pushpin_map         =
+| pushpin_label       = 
+| coordinates         = {{coord|20|1|6.22|S|57|34|48.62|E|region:MU|format=dms|display=inline,title}}
+<!-- location ------------------>
+| subdivision_type    = Country
+| subdivision_name    = {{flagicon|Mauritius}} [[Mauritius]]<!-- the name of the country -->
+| subdivision_type1   = [[Districts of Mauritius|Districts]]
+| subdivision_name1   = [[Flacq District]]
+| subdivision_type2   = 
+| subdivision_name2   = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->
+| established_title   = <!-- Settled -->
+| established_date    = 
+| leader_party        = 
+| leader_title        = 
+| leader_name         = 
+| leader_name2        = {{Collapsible list
+| title               = Members' List
+| frame_style         = border:none; padding: 0;
+| title_style         = <!-- (optional) -->
+| list_style          = text-align:left;display:none;
+| 1 = 
+| 2 = 
+}}
+| area_total_km2         = <!-- Calculated as per official figure of population and density -->
+| area_land_km2          = 
+| area_water_km2         =
+<!-- elevation ----------------->
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_max_m        = 
+| elevation_min_m        = 
+<!-- population ---------------->
+| population_footnotes   = <ref name="Pop">{{cite journal|url=http://www.gov.mu/portal/goc/cso/report2013/migra2012.pdf |publisher=[[Statistics Mauritius]] |title=Table G1 - Resident population by geographical location, whereabouts on census night and sex |page=3 and 4 |year=2011 |accessdate=19 December 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20160303184757/http://www.gov.mu/portal/goc/cso/report2013/migra2012.pdf |archivedate= 3 March 2016 }}</ref>
+| population_total       = 11,910
+| population_as_of       = 2011
+| population_density_km2 = 793.5<!-- for automatic calculation of any density field, use: auto -->
+<!-- time zone(s) -------------->
+| timezone1              = [[Mauritius Time|MUT]]
+| utc_offset1            = +4
+| timezone1_DST          = 
+| utc_offset1_DST        =
+<!-- postal codes, area code --->
+| postal_code_type       = 
+| postal_code            = 
+| area_code_type         = <!-- defaults to: Area code(s) -->
+| area_code              = 230
+| iso_code               = MU
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Tropical rainforest climate|Af]]
+<!-- website, footnotes -------->
+| website                = 
+}}

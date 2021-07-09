@@ -1,0 +1,29 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_skyline = Szent Anna-kápolna (7465. számú műemlék).jpg
+|image_caption = The Chapel of St Anna
+|image_shield = HUN_Tököl_Címer.svg
+|image_flag = Flag of Tököl.svg
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Tököl|
+image_map=PestMegye.png|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Pest county|Pest]]|
+area_total_km2=38.49|
+population_total=9337|
+population_as_of=2004|
+population_density_km2=242.58|
+postal_code_type=[[Postal code]]|
+postal_code=2316|
+area_code=24|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Tököl
+|pushpin_mapsize        =
+|coordinates            = {{coord|47.32030|18.96711|region:HU|display=inline,title}}
+}}

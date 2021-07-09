@@ -1,0 +1,84 @@
+{{Infobox settlement
+|name                     = Linden, New Jersey
+|official_name            = City of Linden
+|settlement_type          = [[City (New Jersey)|City]]
+|nickname                 =
+|motto                    = "Big enough to lead, small enough to care"
+
+<!-- Images -->
+|image_skyline            = Magnaplate HQ.jpg
+|imagesize                = 250x200px
+|image_caption            = Magnaplate building
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Linden_nj_039.png
+|mapsize                  = 250x200px
+|map_caption              = Location of Linden in Union County. Inset: Location of Union County highlighted in the State of New Jersey.
+|image_map1               = Census_Bureau_map_of_Linden,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of Linden, New Jersey
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_Union_County,_New_Jersey.gif}} [[Union County, New Jersey|Union]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[City (New Jersey)|City]]
+|governing_body           = City Council
+|leader_title             = [[Mayor]]
+|leader_name              = Derek Armstead ([[Democratic Party (United States)|D]], term ends December 31, 2022)<ref name=Mayor/><ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020.</ref>
+|leader_title2            = [[Municipal clerk]]
+|leader_name2             = Joseph Bodek<ref>[http://www.linden-nj.org/Departments/city-clerk City Clerk], City of Linden. Accessed January 24, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = January 1, 1925
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 29.56
+|area_land_km2            = 27.68
+|area_water_km2           =  1.88
+|area_total_sq_mi         = 11.42
+|area_land_sq_mi          = 10.69
+|area_water_sq_mi         =  0.73
+|area_water_percent       =  6.37
+|area_rank                = 199th of 565 in state<br>2nd of 21 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_note          = <ref name=APP2010>[http://php.app.com/census/results2.php?pageNum_Recordset1=0&totalRows_Recordset1=22&State=NJ&County=Union&Town=%25&Submit=Search 2010 Census Populations: Union County], ''[[Asbury Park Press]]''. Accessed July 23, 2012.</ref><ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3403940350 DP-1 - Profile of General Population and Housing Characteristics: 2010 for Linden city, Union County, New Jersey] {{Webarchive|url=https://archive.today/20200212142648/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3403940350 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed July 23, 2012.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_uni/linden1.pdf Profile of General Demographic Characteristics: 2010 for Linden city] {{Webarchive|url=https://web.archive.org/web/20140203210021/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_uni/linden1.pdf |date=2014-02-03 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed July 23, 2012.</ref>
+|population_total         = 40499
+|population_rank          = 52nd of 566 in state<br>4th of 21 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed May 19, 2013.</ref>
+|population_density_km2   = auto
+|population_density_sq_mi = 3793.8
+|population_density_rank  = 164th of 566 in state<br>13th of 21 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 42361
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Gnis|885278|City of Linden}}, [[Geographic Names Information System]]. Accessed March 7, 2013.</ref>
+|elevation_m              = 
+|elevation_ft             = 7
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.627337|-74.23631|region:US-NJ_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 07036<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=linden&state=NJ Look Up a ZIP Code for Linden, NJ], [[United States Postal Service]]. Accessed July 23, 2012.</ref><ref>[http://www.state.nj.us/infobank/njzips.htm Zip Codes], State of [[New Jersey]]. Accessed October 18, 2013.</ref>
+|area_code                = [[Area code 908|908]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCounty=Union&frmCity=Linden Area Code Lookup - NPA NXX for Linden, NJ], Area-Codes.com. Accessed October 18, 2013.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3403940350<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0885278<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.linden-nj.org/}}
+|footnotes                =
+}}

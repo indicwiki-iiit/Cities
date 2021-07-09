@@ -1,0 +1,23 @@
+{{Infobox UK place
+|country =    England
+|map_type =   Greater London
+|region= London
+|population ={{london ward populations|00BDGE|population}}
+|population_ref=[[United Kingdom Census 2011|2011 Census]] ({{london ward populations|00BDGE|ward}} ward {{London ward populations|year}})<ref name=ons/>
+|area_total_km2=3.30
+|civil_parish             = <!-- Unparished area -->
+|official_name=             Kew
+|coordinates = {{coord|51.4759|-0.2863|display=inline,title}}
+|os_grid_reference=     TQ195775
+|london_borough=           Richmond
+|historic_county=Surrey
+|post_town=          RICHMOND
+|postcode_district= TW9
+|postcode_area=          TW
+|dial_code=      020
+|static_image_name=St-Anne-church-Kew-5857.jpg
+|static_image_caption=[[St Anne's Church, Kew|Parish Church of St Anne, Kew]]
+|static_image_2_name=Kew Gardens Temperate House - Sept 2008.jpg
+|static_image_2_caption=Temperate House in [[Kew Gardens]]
+|constituency_westminster=      [[Richmond Park (UK Parliament constituency)|Richmond Park]]
+}}

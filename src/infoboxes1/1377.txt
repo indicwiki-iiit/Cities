@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Kenitra
+| native_name            = {{unbulleted list
+    |{{native name|ar|القنيطرة}}<br /> ⵇⵏⵉⵟIIiI [[Berber languages|Berber]]
+}}
+|other_name             = 
+|settlement_type        =
+|image_skyline          = {{Photomontage
+| photo1a = Kenitra main pic.jpg 
+| photo2a = Kenitra Avenue Mohamed V.JPG
+| photo2b = Kenitra-Centre.JPG
+| photo3a = Kénitra 2014032.jpg
+| photo3b = Kenitra American Base.jpg
+| photo4a = Sbou River - Corniche Kenitra.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|image_caption          = Avenue Mohamed Diouri, Avenue Mohamed V, Kenitra
+|image_flag             = 
+|flag_size              =
+|image_seal             = Blason de la ville de Kénitra.svg
+|seal_size              = 120px
+|image_shield           = 
+|shield_size            =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = yes
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Morocco
+<!-- Location ------------------>
+|coordinates            = {{coord|34|15|N|6|35|W|region:MA|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_type3      =
+|subdivision_name1      = [[Rabat-Salé-Kénitra]]
+|subdivision_name2      = [[Kenitra Province|Kenitra]]
+|subdivision_name3      = 
+|established_title      =  Founded
+|established_date       = 1912
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = [[Aziz Rabbah]] ([[Justice and Development Party (Morocco)|PJD]]) (2009)
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|unit_pref                =metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = 112
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 26
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 431282
+|population_as_of               = 2014
+|population_footnotes           =<ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_rank                =  [[List of cities in Morocco|9th in Morocco]]
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 2900
+|area_code              =
+|website                = http://www.alkenitra.com/
+|footnotes              = 
+|<!-- Politics ----------------->
+|timezone                       = [[Central European Time|CET]]
+|utc_offset                     = +1
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+}}

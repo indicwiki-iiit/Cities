@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Yeoju}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|여주시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| official_name           = 
+| translit_lang1          = Korean 
+| translit_lang1_type = [[Hangul]]
+| translit_lang1_info = {{lang|ko-Hang|{{linktext|여|주|시}}}}
+| translit_lang1_type1 = [[Hanja]]
+| translit_lang1_info1 = {{lang|ko-Hant|{{linktext|驪|州|市}}}}
+| translit_lang1_type2    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info2    = Yeoju-si
+| translit_lang1_type3    = {{nowrap|[[McCune–Reischauer]]}}
+| translit_lang1_info3    = Yŏju-si
+| image_skyline           = Yeoju3953.jpg
+| imagesize               = 
+| image_caption           = At Yeongwollu
+| image_blank_emblem      = 
+| blank_emblem_type       = 
+| image_map               = Gyeonggi-Yeoju.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = City
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Seoul National Capital Area|Sudogwon]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| area_total_km2          = 608.64
+| population_as_of        = 
+| population_total        = 104774 
+| population_density_km2  = 172.1
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 8 ''myeon'', 3 ''dong''
+}}

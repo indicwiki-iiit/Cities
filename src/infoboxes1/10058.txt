@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = Siirt
+| settlement_type                 = [[Municipality]]
+| image_skyline                   = File:Sêrt.jpg
+| image_caption                   = City center
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|37|55|30|N|41|56|45|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type2               = [[Provinces of Turkey|Province]]
+| subdivision_name2               = [[Siirt Province|Siirt]]
+| subdivision_type1               = [[Geographical regions of Turkey|Region]]
+| subdivision_name1               = [[Southeastern Anatolia Region|Southeastern Anatolia]]
+| leader_party                    = [[Peoples' Democratic Party (Turkey)|HDP]]
+| leader_title                    = Elected Mayor
+| leader_name                     = Berivan Helen Işık (deposed)
+| leader_title2           = Acting Mayor (Governor of Siirt Province)
+| leader_name2            = Ali Fuat Atik
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Siirt|Siirt}}
+| elevation_m                     = 902
+| population_footnotes            = {{Turkey district populations|SOURCE|Siirt}}
+| population_urban                = {{Turkey district populations|Siirt|Siirt|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Siirt|Siirt|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.siirt.bel.tr | www.siirt.bel.tr }}
+| official_name                   = 
+}}

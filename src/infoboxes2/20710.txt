@@ -1,0 +1,22 @@
+{{Infobox military conflict
+| conflict          = Battle of Five Forks
+| image             = Battle of Five Forks Kurz & Allison.jpg
+| image_size        = 300
+| caption           = Sheridan's charge at Five Forks<br />(lithograph published c.1886)
+| partof            = the [[American Civil War]]
+| date              = {{Start date|1865|4|1}}
+| place             = Five Forks, [[Dinwiddie County, Virginia]]
+| coordinates       = {{coord|37|08|22|N|77|37|22|W|display=inline,title}}
+| result            = [[Union (American Civil War)|Union]] victory
+| combatant1        = {{flagicon|USA|1865}} United States ([[Union (American Civil War)|Union]])
+| combatant2        = {{flagicon|CSA|1865}} [[Confederate States of America|Confederate States (Confederacy)]]
+| commander1        = [[Philip Sheridan]]<br/>[[Gouverneur K. Warren]]
+| commander2        = [[George Pickett]]
+| units1            = [[V Corps (Union Army)|V Corps]]
+| units2            = Units<ref>See [[Five Forks Confederate order of battle]]</ref> from [[Army of Northern Virginia]]
+| strength1         = 22,000<ref name=cwsac>[http://www.nps.gov/hps/abpp/CWSII/VirginiaBattlefieldProfiles/Elthams%20Landing%20to%20Five%20Forks.pdf CWSAC Report Update]</ref>
+| strength2         = 10,600<ref name=cwsac/>
+| casualties1       = '''830'''<ref name=NPS/>
+| casualties2       = '''2,950'''<ref name=NPS/>
+| campaignbox       = {{Campaignbox Appomattox Campaign}}
+}}

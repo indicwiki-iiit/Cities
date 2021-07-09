@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Truth or Consequences, New Mexico 
+|settlement_type          = [[City]]
+|nickname                 = "T or C"
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Truth or Consequences New Mexico City Hall.jpg
+|image_caption            = City Hall
+|image_flag               = 
+|image_seal               = City of Truth or Consequences Seal.png
+
+<!-- Maps -->
+|image_map                = Sierra_County_New_Mexico_Incorporated_and_Unincorporated_areas_Truth_or_Consequences_Highlighted.svg
+|map_caption              = Location of Truth or Consequences, New Mexico
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Mexico]]
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Sierra County, New Mexico|Sierra]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Sandy Whitehead<ref>{{Cite web|url=http://www.torcnm.org/departments/city_commission/index.php|title=Welcome to town of Truth or Consequences, New Mexico|website=torcnm.org|access-date=Dec 21, 2019}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 72.81
+|area_land_km2            = 72.51
+|area_water_km2           = 0.30
+|area_total_sq_mi         = 28.11
+|area_land_sq_mi          = 28.00
+|area_water_sq_mi         = 0.12
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6475
+|population_density_km2   = 79.34
+|population_density_sq_mi = 205.49
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = −07:00
+|timezone_DST             = MDT
+|utc_offset_DST           = −06:00
+|elevation_footnotes      = 
+|elevation_m              = 1294
+|elevation_ft             = 4245
+|coordinates              = {{coord|33|8|1|N|107|15|10|W|region:US-NM|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 87901
+|area_code                = [[Area code 575|575]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-79840
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0897496
+|website                  = [http://torcnm.org/ torcnm.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5753
+}}

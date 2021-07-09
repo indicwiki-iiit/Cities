@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                            = Municipality of Šentilj
+| native_name                     = ''Občina Šentilj''
+| native_name_lang                = sl<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type                 = [[Municipalities of Slovenia|Municipality]]
+| image_skyline                   = Šentilj v Slovenskih goricah.JPG
+| image_alt                       = 
+| image_caption                   = 
+| image_shield                    = Šentilj.png
+| shield_size                     = 100x80px
+| shield_alt                      = 
+| nickname                        = 
+| motto                           = 
+| image_map                       = Karte Sentilj si.png
+| map_alt                         = 
+| map_caption                     = Location of the Municipality of Šentilj in Slovenia
+| coordinates                     = {{coord|format=dms|region:SI_type:city(8074)|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Slovenia}}
+| established_title               = 
+| established_date                = 
+| founder                         = 
+| seat_type                       = <!-- [[Capital (political)|Capital]] -->
+| seat                            = 
+| government_footnotes            = 
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = Štefan Žvab
+| unit_pref                       = Metric
+| area_footnotes                  = <ref name="SURS">{{cite web |title=Občina Šentilj |url=https://www.stat.si/obcine/sl/Municip/Index/168 |website=Statistični urad Republike Slovenije |access-date=April 8, 2020}}</ref>
+| total_type                      = 
+| area_total_km2                  = 65.01
+| area_note                       = 
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = <ref name="SURS"/>
+| population_total                = 8452
+| population_as_of                = July 1, 2018
+| population_density_km2          = auto
+| population_demonym              = 
+| population_note                 = 
+| timezone1                       = [[Central European Time|CET]]
+| utc_offset1                     = +01
+| timezone1_DST                   = [[Central European Summer Time|CEST]]
+| utc_offset1_DST                 = +02
+| postal_code_type                = 
+| postal_code                     = 
+| area_code_type                  = 
+| area_code                       = 
+| iso_code                        = 
+| website                         = {{Official URL}}
+| footnotes                       = 
+}}

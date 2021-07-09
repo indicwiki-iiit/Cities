@@ -1,0 +1,47 @@
+{{Infobox Australian place
+| type = town
+| name = Innisfail
+| state = qld
+| image = Innisfail outlay.JPG
+| caption = The township of Innisfail, as seen from Coquette Point
+| coordinates         = {{coord|-17.5238|146.0311|type:city_region:AU-QLD|display=inline|name=Innisfail (town centre)}}
+| pop                 = 7236
+| pop_year            = {{CensusAU|2016}} town
+| pop_footnotes       = <ref name=Census2016UCL/>
+| pop2                 = 1145
+| pop2_year            = {{CensusAU|2016}} locality
+| pop2_footnotes       = <ref name=Census2016SSC/>
+| established = 1882/83<ref name="walkabout.com.au">{{cite web| url=http://walkabout.com.au/locations/QLDInnisfail.shtml| title=Walkabout – Innisfail| access-date=2 June 2006| url-status=dead| archive-url=https://web.archive.org/web/20060630153934/http://www.walkabout.com.au/locations/QLDInnisfail.shtml| archive-date=30 June 2006}}</ref><ref name="InnisfailTXTqld"/>
+| postcode            = 4860
+| area                = 10.3
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| elevation = 10
+| elevation_footnotes = <ref name="climate">{{cite web |title=Innisfail – climate statistics |url=http://www.bom.gov.au/climate/averages/tables/cw_032025_All.shtml |website=Climate Data Online |publisher=Bureau of Meteorology |access-date=19 April 2019 |archive-url=https://web.archive.org/web/20190419083919/http://www.bom.gov.au/climate/averages/tables/cw_032025_All.shtml |archive-date=19 April 2019 |url-status=live }}</ref>
+| dist1 = 87.7
+| dir1 = S
+| location1 = [[Cairns]]
+| dist2 = 259
+| dir2 = NNW
+| location2 = [[Townsville]]
+| dist3 = 1591
+| dir3 = NNW
+| location3 = [[Brisbane]]
+| lga = [[Cassowary Coast Region]]
+| stategov = [[Electoral district of Hill|Hill]]
+| fedgov = [[Division of Kennedy|Kennedy]]
+| maxtemp = 28.0
+| maxtemp_footnotes =
+| mintemp = 19.4
+| mintemp_footnotes =
+| rainfall = 3552.4
+| rainfall_footnotes =
+| near-n = [[Cullinane, Queensland|Culliane]]
+| near-ne = [[Innisfail Estate, Queensland|Innisfail Estate]]
+| near-e = [[Webb, Queensland|Webb]]
+| near-se = [[East Innisfail, Queensland|East Innisfail]]
+| near-s = [[Mighell, Queensland|Mighell]]
+| near-sw = [[Goondi Hill, Queensland|Goondi Hill]]
+| near-w = [[Goondi Hill, Queensland|Goondi Hill]]
+| near-nw = [[Cullinane, Queensland|Culliane]]
+}}

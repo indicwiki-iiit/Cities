@@ -1,0 +1,82 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Bizerte
+| official_name            = Bizerte
+| native_name              = {{lang|ar|بنزرت}}
+| other_name               = 
+|settlement_type        = [[List of cities in Tunisia|City]]
+<!-- images, nickname, motto --->|
+| image_skyline                   = {{Photomontage
+| photo1a                         = Ksiba, Bizerte 1.jpg
+| photo2a                         = La Corniche in Bizerte 01.jpg
+| photo2b                         = Vieux port de bizerte.JPG
+| photo3a                         = BizerteCenter1.JPG
+| photo3b                         = SiegeGouvernoratBizerte.JPG
+| photo4a                         = Bizerte bridge from south side(zarzouna).jpg
+| position                        = center
+| color_border                    = white
+| color                           = white
+| size                            = 280
+| foot_montage                    = From top, left to right: View of Bizerte from Ksiba , Bizerte Corniche, Old port od Bizerte, Bizerte Center, The gouvenorate local, Bizerte Bridge.
+}}
+| image_caption            = 
+| image_flag               =
+| flag_size                = 120px
+| image_seal               =
+| image_shield             = 
+| shield_size              = 100px
+| nickname                 =
+| motto                    =
+<!-- images and maps  ----------->
+| image_map                =
+| map_caption              =
+| pushpin_map              = Tunisia#Africa
+| pushpin_label_position   = bottom
+| pushpin_map_caption      = Location in Tunisia
+<!-- Location ------------------>
+| coordinates              = {{coord|37|16|40|N|9|51|50|E|region:TN|display=inline,title}}
+| subdivision_type         = Country
+|subdivision_name       = {{TUN}}
+| subdivision_type1        = [[Governorates of Tunisia|Governorate]]
+| subdivision_name1        = [[Bizerte Governorate]]
+| subdivision_type2        =
+| subdivision_name2        =
+| subdivision_type3        =
+| subdivision_name3        =
+| subdivision_type4        =
+| subdivision_name4        =
+| established_title        = <!-- Settled -->
+| established_date         =
+| government_type          = Mayor
+| government_footnotes     =
+| leader_title             =
+| leader_name              =
+| area_footnotes           =
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         =
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          =
+| area_water_km2           =
+| area_water_sq_mi         =
+| area_water_percent       =
+| area_urban_km2           = 34<ref name="STRAT">{{in lang|fr}} [http://www.commune-bizerte.gov.tn Mnicipalité de Bizerte]  {{webarchive|url=https://web.archive.org/web/20100104111052/http://www.commune-bizerte.gov.tn/ |date=4 January 2010 }}.</ref>
+| area_urban_sq_mi         = 13.127
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              = 5<ref>[http://dateandtime.info/citycoordinates.php?id=2472706 City Coordinates (Dateandtime.info)]</ref>
+| elevation_ft             = 16
+| population_footnotes     =
+| population_total         = 142,966<ref name="STRAT"/>
+| population_as_of         = 2014<ref name="STRAT"/>
+| population_density_km2   = 3,363
+| population_density_sq_mi = 8,712
+| population_metro         = 401,144
+| population_note          =
+| timezone                 = [[Central European Time|CET]]
+| utc_offset               = +01:00
+| timezone_DST             =
+| utc_offset_DST           =
+| postal_code_type         = Postal code
+| postal_code              = 7000
+| area_code                = [[+216]] (Tun) 72 (Bizerte)
+| website = [https://web.archive.org/web/20100104111052/http://www.commune-bizerte.gov.tn/ www.commune-bizerte.gov.tn]
+| footnotes                =
+}}

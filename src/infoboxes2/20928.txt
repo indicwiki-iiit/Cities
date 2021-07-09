@@ -1,0 +1,121 @@
+{{Infobox settlement
+|official_name = Sayre, Pennsylvania
+|other_name = 
+|native_name = 
+|nickname = 
+|settlement_type = [[Borough (Pennsylvania)|Borough]]
+|motto = 
+<!-- images and maps ----------->
+|image_skyline = Sayre, Pennsylvania (4102791454).jpg
+|imagesize = 
+|image_caption = Sayre Historical Society Museum
+|image_flag = 
+|flag_size = 
+|image_seal = 
+|seal_size = 
+|image_shield = 
+|shield_size = 
+|image_blank_emblem = 
+|blank_emblem_size = 
+|image_map = File:Bradford County Pennsylvania Incorporated and Unincorporated areas Sayre Highlighted.svg
+|mapsize = 250x200px
+|map_caption = Location of Sayre in Bradford County, Pennsylvania.
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|image_dot_map = 
+|dot_mapsize = 
+|dot_map_caption = 
+|dot_x = 
+|dot_y = 
+|pushpin_map = Pennsylvania#USA
+|pushpin_label = Sayre
+|pushpin_label_position = bottom <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption = Location of Sayre in the state of Pennsylvania
+|pushpin_mapsize = 
+<!-- Location ------------------>
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Pennsylvania]]
+|subdivision_type2 = [[List of counties in Pennsylvania|County]]
+|subdivision_name2 = [[Bradford County, Pennsylvania|Bradford]]
+|subdivision_type3 = 
+|subdivision_name3 = 
+|subdivision_type4 = 
+|subdivision_name4 = 
+|government_footnotes = 
+|government_type = 
+|leader_title = 
+|leader_name = 
+|leader_title1 = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1 = 
+|leader_title2 = 
+|leader_name2 = 
+|leader_title3 = 
+|leader_name3 = 
+|leader_title4 = 
+|leader_name4 = 
+|established_title = Settled
+|established_date = 1871
+|established_title2 = Incorporated (borough)
+|established_date2 = 1891
+<!-- Area --------------------->
+|area_magnitude = 
+|unit_pref  = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_total_km2 = 5.27
+|area_land_km2 = 5.24
+|area_water_km2 = 0.04
+|area_total_sq_mi = 2.04
+|area_land_sq_mi = 2.02
+|area_water_sq_mi = 0.01
+|area_water_percent = 
+|area_urban_km2 = 
+|area_urban_sq_mi = 
+|area_metro_km2 = 
+|area_metro_sq_mi = 
+|area_blank1_title = 
+|area_blank1_km2 = 
+|area_blank1_sq_mi = 
+<!-- Population ----------------------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_note = 
+|population_total = 5587
+|population_density_km2 = 1024.64
+|population_density_sq_mi = 2653.81
+|population_metro = 
+|population_density_metro_km2 = 
+|population_density_metro_sq_mi = 
+|population_urban = 
+|population_density_urban_km2 = 
+|population_density_urban_sq_mi = 
+|population_blank1_title = 
+|population_blank1 = 
+|population_density_blank1_km2 = 
+|population_density_blank1_sq_mi = 
+<!-- General information --------------->
+|timezone = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = -5
+|timezone_DST = EDT
+|utc_offset_DST = -4
+|coordinates       = {{coord|41|58|44|N|76|30|56|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes = <!--for references: use <ref> tags-->
+|elevation_m = 
+|elevation_ft = 771
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[Zip code]]
+|postal_code = 18840
+|area_code = [[Area code 570|570]] Exchanges: 882,886,887,888
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-68096
+|blank1_name = 
+|blank1_info = 
+
+|footnotes = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5366
+|website = {{URL|http://sayrepa.org}}
+}}

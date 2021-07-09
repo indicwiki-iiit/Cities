@@ -1,0 +1,27 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Nurdağı
+| image_skyline                   = Nurdağı - panoramio.jpg
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|37|10|44|N|36|44|23|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Turkey}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Gaziantep Province|Gaziantep]]
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = Mayor
+| leader_name                     = Ökkeş Kavak
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Eşref Akça
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Gaziantep|Nurdağı}}
+| population_footnotes            = {{Turkey district populations|SOURCE|Gaziantep}}
+| population_urban                = {{Turkey district populations|Gaziantep|Nurdağı|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Gaziantep|Nurdağı|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 27970
+| website                         = {{URL| www.nurdagi.bel.tr | www.nurdagi.bel.tr }}
+}}

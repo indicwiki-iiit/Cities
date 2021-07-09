@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                     = Red Hook
+| settlement_type          = [[Neighborhoods in Brooklyn|Neighborhood of Brooklyn]]
+| image_skyline            = RH Houses East Lorraine eve jeh.jpg
+| image_caption            = [[New York City Housing Authority|NYCHA]] [[Red Hook Houses]]
+| image_map 	= {{maplink|frame=y|plain=y|frame-align=center|zoom=12|type=shape|from=Neighbourhoods/New York City/Red Hook.map}}<!--{{maplink|frame=y|plain=yes|frame-align=center|frame-lat=40.705|frame-long=-73.975|zoom=9|type=point|coord={{coord|40.677|-74.011}}}}-->
+| mapsize 	= <!-- If used, px must be specified; default is 250px. -->
+| map_caption   =  Location in New York City
+| coordinates              = {{Coord|40.677|N|74.011|W|region:US-NY_type:city|display=title,inline}}
+
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New York}}
+| subdivision_type2       = [[City]]
+| subdivision_name2       = {{flagicon image|Flag of New York City.svg}} [[New York City]]
+| subdivision_type3       = [[Borough (New York City)|Borough]]
+| subdivision_name3       = {{flagicon image|Flag of Borough of Brooklyn.png}} [[Brooklyn]]
+| subdivision_type4       = [[Community boards of Brooklyn|Community District]]
+| subdivision_name4       = [[Brooklyn Community Board 6|Brooklyn 6]]<ref name="NYCPlanning">{{cite web |title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/brooklyn/6|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=March 18, 2019}}</ref>
+| established_title        = Settled
+| established_date         = 1836
+| founder                  = Dutch colonists
+| named_for                = red clay on the point of a nearby island in the [[Upper New York Bay]]
+<!--
+| area_footnotes           = 
+| area_total_sq_mi         = 
+| population_footnotes     = 
+| population_total         = 
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_sq_mi = auto
+| demographics_type1       = Economics
+| demographics1_title1     = [[Median household income|Median income]]
+| demographics1_info1      = 
+| demographics_type2       = Ethnicity
+| demographics2_title1     = White
+| demographics2_info1      = 
+| demographics2_title2     = African American
+| demographics2_info2      = 
+| demographics2_title3     = Hispanic American
+| demographics2_info3      = 
+| demographics2_title4     = Asian/Pacific Islander
+| demographics2_info4      = 
+| demographics2_title5     = Other
+| demographics2_info5      = 
+-->
+| timezone1 = [[Eastern Time Zone|Eastern]]
+| utc_offset1 = −5
+| timezone1_DST = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST = −4
+| postal_code_type         = [[ZIP Code]]
+| postal_code              = 11231
+| area_code_type           = [[Telephone numbering plan|Area codes]]
+| area_code                = [[Area codes 718, 347, and 929|718, 347, 929]], and [[Area code 917|917]]
+}}

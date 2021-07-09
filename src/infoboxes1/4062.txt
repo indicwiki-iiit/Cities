@@ -1,0 +1,157 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Amarillo, Texas
+| official_name                   = City of Amarillo
+| native_name                     = <!-- if different from the English name -->
+| native_name_lang                = en
+| other_name                      = 
+| settlement_type                 = [[City]]
+<!-- transliteration(s) -------->| image_skyline                   = Amarillo Skyline at Dusk in January 2018.png
+| imagesize                       = 300px
+| image_alt                       = 
+| image_caption                   = Downtown in 2018
+| image_flag                      = AmarilloTexasSeal.gif
+| flag_size                       = 100px
+| flag_alt                        = 
+| flag_link                       = 
+| image_seal                      = Seal of Amarillo, Texas.gif
+| seal_size                       = 80px
+| seal_alt                        = 
+| seal_link                       = 
+| image_shield                    = 
+| shield_size                     = 
+| shield_alt                      = 
+| shield_link                     = 
+| image_blank_emblem              = Amarillo, Texas logo.svg
+| blank_emblem_type               = [[Wordmark]]
+| blank_emblem_alt                = 
+| blank_emblem_link               = 
+| nickname                        = 
+| motto                           = 
+| anthem                          = <!-- maps and coordinates ------>
+| image_map                       = Potter County Amarillo.svg
+| mapsize                         = 250px
+| map_alt                         = 
+| map_caption                     = Location within Potter and Randall Counties, with Potter to the north
+| image_map1                      = 
+| mapsize1                        = 
+| map_alt1                        = 
+| map_caption1                    = 
+| pushpin_map                     = Texas#USA#North America
+| pushpin_map_caption             = Location within Texas##Location within the United States
+| pushpin_label                   = Amarillo
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|35|11|57|N|101|50|43|W|region:US-TX|format=dms|display=inline,title}}
+| coor_pinpoint                   = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes           = <!-- for references: use <ref> tags -->
+<!-- location ------------------>| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Texas|Counties]]
+| subdivision_name1               = Texas
+| subdivision_name2               = [[Potter County, Texas|Potter]] and [[Randall County, Texas|Randall]]
+<!-- established --------------->| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title1              = <!-- Incorporated (town) -->
+| established_date1               = 
+| established_title2              = <!-- Incorporated (city) -->
+| established_date2               = 
+| extinct_title                   = 
+| extinct_date                    = 
+| founder                         = 
+| named_for                       = <!-- seat, smaller parts ------->
+| seat_type                       = <!-- defaults to: Seat -->
+| seat                            = 
+| parts_type                      = <!-- defaults to: Boroughs -->
+| parts_style                     = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = 
+| government_footnotes            = <!-- for references: use <ref> tags -->
+| government_type                 = [[Council-manager government|Council-Manager]]
+| governing_body                  = [[City Council]]
+| leader_title                    = [[List of mayors of Amarillo, Texas|Mayor]]
+| leader_name                     = Ginger Nelson
+(Since May 2017)
+| leader_title1                   = Councilmember Place 1
+| leader_name1                    = Elaine Hays
+(Since May 2017)
+<!-- government type, leaders -->| leader_title2                   = Councilmember Place 2
+| leader_name2                    = Freda Powell
+(Since May 2017)
+| leader_title3                   = Councilmember Place 3
+| leader_name3                    = Dr. Eddie Sauer
+(Since May 2017)
+| leader_title4                   = Councilmember Place 4
+| leader_name4                    = Howard Smith
+(Since May 2017)
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref                       = Imperial
+<!-- area ---------------------->| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+<!-- for references: use <ref> tags -->| area_magnitude                  = 1 E+9
+| area_total_km2                  = 268.99
+| area_total_sq_mi                = 103.86
+| area_land_km2                   = 264.97
+| area_land_sq_mi                 = 102.30
+| area_water_km2                  = 4.03
+| area_water_sq_mi                = 1.56
+| area_water_percent              = 
+| area_urban_sq_mi                = 
+| area_rural_sq_mi                = 
+| area_metro_sq_mi                = 
+| area_note                       = <!-- elevation ----------------->
+| elevation_footnotes             = <!-- for references: use <ref> tags -->
+| elevation_m                     = 1099
+| elevation_ft                    = 3605
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- population ---------------->
+| elevation_max_footnotes         = <!-- for references: use <ref> tags -->
+| elevation_min_footnotes         = <!-- for references: use <ref> tags -->
+| population_total                = 190695
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_km2          = 752.44
+| population_est                  = 199371
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_density_urban_sq_mi  = 
+| population_density_rural_sq_mi  = 
+| population_metro                = 309,233
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_rank                 = 
+| population_density_sq_mi        = 1948.81
+| population_density_rank         = 
+| population_demonym              = Amarilloan
+| population_note                 = <!-- demographics (section 1) -->
+| demographics_type1              = 
+| demographics1_footnotes         = <!-- for references: use <ref> tags -->
+| demographics1_title1            = 
+| demographics_type2              = 
+| demographics2_footnotes         = <!-- for references: use <ref> tags -->
+| demographics2_title1            = 
+| demographics2_info1             = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->| timezone1                       = [[North American Central Time Zone|CST]]
+| utc_offset1                     = −6
+| timezone1_DST                   = CDT
+| utc_offset1_DST                 = −5
+<!-- postal codes, area code --->| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 79101–79111, 79114, 79116–79121, 79123–79124, 79159, 79163, 79166–79168, 79171–79172, 79174, 79178, 79182, 79185, 79187, 79189
+| postal2_code_type               = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code                    = 
+| area_code                       = [[Area code 806|806]]
+| area_code_type                  = [[Telephone numbering plan|Area code]]
+| geocode                         = 
+| iso_code                        = 
+| registration_plate              = 
+| blank_name_sec1                 = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec1                 = 48-03000<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name_sec1                = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1                = 1351066<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| blank3_name                     = [[Interstate Highway|Interstates]]
+| blank3_info                     = [[File:I-27 (TX).svg|26px|link=Interstate 27]] [[File:I-40 (TX).svg|26px|link=Interstate 40 in Texas]]
+| blank4_name                     = [[U.S. Routes]]
+| blank4_info                     = [[File:US 60.svg|26px|link=U.S. Route 60 (Texas)]] [[File:US 87.svg|26px|link=U.S. Route 87 (Texas)]] [[File:US 287.svg|31px|link=U.S. Route 287 (Texas)]]
+| blank5_name                     = Major State Highways
+| blank5_info                     = [[File:Texas 136.svg|27px|link=Texas State Highway 136]] [[File:Texas Loop 335.svg|27px|link=Texas State Highway Loop 335]]
+<!-- website, footnotes -------->| website                         = {{URL|www.amarillo.gov}}
+| footnotes                       = 
+}}

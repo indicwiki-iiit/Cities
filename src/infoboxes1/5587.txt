@@ -1,0 +1,110 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Bayannur}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{lang|zh-hans|巴彦淖尔市}} • {{MongolUnicode|{{allow wrap|ᠪᠠᠶᠠᠨᠨᠠᠭᠤᠷ ᠬᠣᠲᠠ}}|style=max-height:2em;text-align:left;word-break:normal}}}}
+|other_name             = 
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = File:20130806内蒙巴彦淖尔市政府大楼前10车道大街 - panoramio.jpg
+|imagesize              = 
+|image_caption          = Linhe District, the seat of Bayannur
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Baynnur Prefecture within Inner Mongolia (China).svg
+|mapsize                =  
+|map_caption            = Location of Bayannur City jurisdiction in Inner Mongolia
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|pushpin_map            = Inner Mongolia
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Inner Mongolia
+|pushpin_mapsize        = 240
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Autonomous regions of the People's Republic of China|Region]]
+|subdivision_name1      = [[Inner Mongolia]]
+|seat_type              = Municipal seat
+|seat                   = [[Linhe District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary
+|leader_name            = Nashunmenghe
+|leader_title1          = Mayor
+|leader_name1           = He Yonglin
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|area_footnotes           =
+|area_total_km2           = 65788
+|population_as_of               = 2010
+|population_footnotes           =
+|population_note                =
+|population_total               = 1669915
+|population_density_km2         = auto
+|population_metro               =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 2354.0 
+| area_urban_km2          = 80.51 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 608000
+| population_urban        = 385700
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+|population_density_urban_km2   =auto
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|40.743|N|107.387|E|type:adm2nd_region:CN-15_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Bayannur municipal government
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 015000
+|area_code              = 0478
+|iso_code = [[ISO 3166-2:CN|CN-NM-08]]
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name            = [[Licence plates of the People's Republic of China|License Plate]] Prefix 
+|blank2_info            =
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                = [http://www.bynr.gov.cn/BynChina bynr.gov.cn]
+|footnotes              = 
+}}

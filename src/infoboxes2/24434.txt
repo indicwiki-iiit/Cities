@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                            = Reedsburg
+| official_name                   = 
+| settlement_type                 = City
+| image_skyline                   = ReedsburgWisconsinDowntown.jpg
+| imagesize                       = 
+| image_caption                   = Downtown Reedsburg
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_map                       = File:Sauk County Wisconsin Incorporated and Unincorporated areas Reedsburg Highlighted.svg
+| map_caption                     = Location of Reedsburg in Sauk County, Wisconsin.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| pushpin_map                     = Wisconsin
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = Location within the state of Wisconsin
+| coordinates                     = {{coord|43|32|2|N|90|0|10|W|region:US_type:city|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Wisconsin|County]]
+| subdivision_name1               = {{flag|Wisconsin}}
+| subdivision_name2               = [[Sauk County, Wisconsin|Sauk]]
+| established_title               = 
+| established_date                = <!-- Area -->
+| government_footnotes            = 
+| government_type                 = Mayor-council
+| leader_title                    = Mayor
+| leader_name                     = David G. Estes
+| leader_title1                   = City Administrator
+| leader_name1                    = Timothy M. Becker
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 15.65
+| area_land_km2                   = 15.36
+| area_water_km2                  = 0.29
+
+<!-- Population -->| elevation_footnotes             = 
+| elevation_ft                    = 
+| population_total                = 9200
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name ="wwwcensusgov" />
+| population_density_km2          = 619.87
+| population_density_sq_mi        = 1605.56
+
+<!-- General information -->| population_est                  = 9521
+| pop_est_as_of                   = 2019
+| postal_code_type                = [[Zip Code]]s
+| postal_code                     = 53958, 53959
+| area_code                       = [[Area code 608|608]]
+| website                         = [http://www.reedsburgwi.gov www.reedsburgwi.gov]
+| footnotes                       = 
+| timezone                        = [[Central Time Zone (Americas)|Central (CST)]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 55-66800
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| area_total_sq_mi                = 6.04
+| area_land_sq_mi                 = 5.93
+| area_water_sq_mi                = 0.11
+| named_for                       = David C. Reed
+}}

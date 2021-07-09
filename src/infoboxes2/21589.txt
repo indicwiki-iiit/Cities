@@ -1,0 +1,74 @@
+{{Infobox settlement
+| name = Lower Salford Township
+| settlement_type = Township
+<!-- images, nickname, motto -->
+| image_skyline = Lederach, Pennsylvania.jpg
+| image_caption = An old stone house in Lederach in Lower Salford Township
+| image_flag = 
+| image_seal = 
+<!-- maps and coordinates -->
+| image_map = File:Lower Salford Township Montgomery County.png
+| map_alt = Location of Lower Salford Township in Montgomery County
+| map_caption = Location of Lower Salford Township in [[Montgomery County, Pennsylvania|Montgomery County]]
+| pushpin_map = Pennsylvania
+| pushpin_map_caption = Location of Lower Salford within the state of [[Pennsylvania]]
+| pushpin_map1 = USA
+| pushpin_map_caption1 = Location of Lower Salford within the [[United States of America]]
+| coordinates = {{coord|40|15|37.9|N|75|23|58.2|W|display=inline,title}}
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = {{flag|United States}}
+| subdivision_type1 = State
+| subdivision_name1 = {{flag|Pennsylvania}}
+| subdivision_type2 = County
+| subdivision_name2 = {{flagicon image|Flag of Montgomery County, Pennsylvania.png}} [[Montgomery County, Pennsylvania|Montgomery]]
+<!-- established -->
+| established_title = Founded
+| established_date = 1741 {{small|(split from Salford)}}
+| founder = Jacob Reiff
+| government_type = [[Council–manager government|Council - Manager]]
+| governing_body = Board of Supervisors
+| leader_party = 
+| leader_title = Chairman
+| leader_name = Douglas A. Gifford
+| leader_title1 = Vice-Chairman
+| leader_name1 = Douglas Johnson
+| leader_title2 = Supervisors
+| leader_name2 = {{ubl|Philip P. Heilman|Keith A. Bergman|Christopher Canavan}}
+| unit_pref = Imperial
+<!-- area -->
+| area_total_sq_mi = 14.49
+| area_land_sq_mi = 14.44
+| area_water_sq_mi = 0.05
+| area_water_percent = 0.69%
+| length_mi = 5.2
+| width_mi = 5.7
+<!-- elevation -->
+| elevation_ft = 276
+<!-- population -->
+| population_footnotes = 
+| population_total = 14959
+| population_as_of = [[2010 United States Census|2010]]
+| population_est = 15416
+| pop_est_as_of = 2016
+| population_density_sq_mi = auto
+<!-- time zone(s) -->
+| timezone1 = [[North American Eastern Time Zone|EST]]
+| utc_offset1 = -5
+| timezone1_DST = [[Eastern Daylight Time|EDT]]
+| utc_offset1_DST = -4
+<!-- postal codes, area code -->
+| postal_code_type = ZIP code
+| postal_code = 19438
+| area_code_type = Area codes
+| area_code = [[Area codes 215, 267, and 445|215, 267, 445]], [[Area codes 610 and 484|610, 484]]
+| website = {{URL|http://www.lowersalfordtownship.org/|Township website}}
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-091-45096
+|area_footnotes = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_42.txt|publisher=United States Census Bureau|access-date=Aug 14, 2017}}</ref>
+|area_total_km2 = 37.54
+|area_land_km2 = 37.41
+|area_water_km2 = 0.13
+|population_density_km2 = 412.13
+}}

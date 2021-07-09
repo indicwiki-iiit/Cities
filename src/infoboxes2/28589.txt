@@ -1,0 +1,27 @@
+{{Infobox Australian place | type = town
+| name     = Gingin
+| state    = wa
+| image    = Gingin wheel gnangarra.JPG
+| caption  = Water Wheel in Gingin park, from the original flour mill in Gingin
+| lga      = [[Shire of Gingin]]
+| coordinates = {{coord|31.34|S|115.91|E|display=inline,title}}
+| postcode = 6503
+| est      = 1883 (town declared)
+| pop      = 852 | pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=SSC50546|name=Gingin (State Suburb)|quick=on|access-date=1 January 2020}}</ref>
+| elevation= 96
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Moore|Moore]]
+| fedgov   = [[Division of Pearce|Pearce]]
+| dist1    = 67
+| dir1     = NNE
+| location1= [[Perth]]
+| dist2    = 34
+| dir2     = NE
+| location2= [[Yanchep]]
+| dist3    = 65
+| dir3     = SE
+| location3= [[Lancelin, Western Australia|Lancelin]]
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+| settlement_type        = town
+| official_name
+|nombre_castellano = Girardot
+|nickname = 
+|image_skyline = Camellon_del_Comercio_Girardot.jpg
+|image_flag = Flag of Girardot (Cundinamarca).svg
+|image_seal = Escudo de Girardot.svg
+|image_map = Colombia - Cundinamarca - Girardot.svg
+|map_caption = Localization in [[Cundinamarca Department|Cundinamarca]], in [[Colombia]]
+|pushpin_map            = Colombia
+|pushpin_mapsize        =250
+|pushpin_map_caption        =Location in Colombia
+|subdivision_type = [[Country]]
+|subdivision_name       = {{flag|Colombia}}
+|subdivision_type1 = [[Colombia|Departament]]
+|subdivision_type2 = Province
+|subdivision_name1      = {{flagicon image|Flag of Cundinamarca.svg}}  [[Cundinamarca Department|Cundinamarca]] 
+|subdivision_name2 = [[Upper Magdalena Province]]
+| named_for = ("Girardot")
+| government_type = [[Mayor–council government|Mayor–council]]
+|established_date = 1852
+|leader_title = [[Mayor]]
+|leader_name = Jose Alejandro Arbeláez Cruz
+| leader_party = [[Colombian Liberal Party|L]]
+| leader_title1 = [[City council|Council]]
+| leader_name1 = [[Girardot City Council]]
+<!-- Area------------------>
+|area_magnitude = 
+|area_total_km2 = 130.32
+|area_footnotes     = <ref name=IUP>{{cite journal|last1=Girardot|title=IUP|date=August 2011|url=http://www1.cundinamarca.gov.co/PIU-2012/CUNDINAMARCA%20%202012/PLANES%20INTEGRALES%20ÚNICOS%20-%20PIU/DOCUMENTOS%20PIU/CUNDINAMARCA_GIRARDOT/PIU.pdf|access-date=23 July 2015}}</ref><ref name=POT>{{cite book|last1=Girardot Council|title=POT 029 2000|date=9 June 2002|publisher=Girardot Council|location=Girardot|edition=I|url=http://cdim.esap.edu.co/BancoMedios/Documentos%20PDF/pot%20-%20plan%20de%20ordenamiento%20territorial%20-%20girardot%20-%20cundinamarca%20-%202000.pdf|access-date=23 July 2015}}</ref><ref name=POT2011>{{cite book|last1=Girardot Council|title=OTP 24 2011|date=9 December 2011|publisher=Girardot Council|location=Girardot|page=39|url=http://girardot-cundinamarca.gov.co/Nuestros_planes.shtml|access-date=24 July 2015}}</ref>
+|area_land_km2 = 
+|area_water_km2 = 
+|area_water_percent =
+|area_urban_footnotes={{efn|POT (2011):The urban territory comprends: urban (2114.16hs) and expansion territory(146,16hs).}}
+|area_urban_km2 = 22.6019
+|area_rural_footnotes={{efn|POT (2011): The rural territory comprends: suburban (636.31hs), rural (5053.07hs) and protection (5082.43hs)}}
+|area_rural_km2=107.7181
+|area_metro_footnotes=<ref name=COT>{{cite book|last1=Congress of the Republic of Colombia|title=Project Sol Metropolitan Area Summary|date=23 October 2013|publisher=Congress of Colombia|location=Bogotá|url=http://www.camara.gov.co/portal2011/gestor-documental/doc_download/6295-informe-preliminar-area-metropolitana-del-sol-cot|access-date=25 July 2015}}</ref>
+|area_metro_km2= 1320.99
+<!-- Population ----------------------->
+|population_as_of = 2005 Census
+|population_footnotes = <ref name="IUP" /><ref name="Censo 2005">[http://190.25.231.242/redatam/CG2005/Total_poblacion_conciliada_mpal.xls Adjusted Population municipality at 30 June 2005] {{webarchive |url=https://web.archive.org/web/20131013024651/http://190.25.231.242/redatam/CG2005/Total_poblacion_conciliada_mpal.xls |date=October 13, 2013 }}, on ''[http://190.25.231.242/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl Censo 2005] {{webarchive |url=https://web.archive.org/web/20130616010533/http://190.25.231.242/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl |date=June 16, 2013 }}''. Sistema de Consulta de Información Censal. [[Departamento Administrativo Nacional de Estadística]]. Colombia. Consultado el 21 de julio de 2009.</ref>
+|population_total = 97,834
+|population_density_km2 = auto
+|population_urban =98904
+|population_density_urban_km2   = auto
+|population_rural = 3588 
+|population_density_rural_km2=auto
+|population_metro = 
+|population_demonym = Girardoteño
+| pop_est_as_of = 2019
+| population_est = 107324
+| population_rank  = [[Cundinamarca Department#Municipal population position|6th Cundinamarca]]<br />
+[[List of cities in Colombia#List|59th Colombia]]
+|timezone = [[List of time zones#UTC-5.2C R|COT]]
+|utc_offset = -5
+|timezone_DST = [[List of time zones#UTC-5.2C R|COT]]
+|utc_offset_DST = -5
+|coordinates      = {{coord|4|18|18|N|74|48|06|W|region:CO|display=inline,title}}
+
+<!-- Elevation ------------------------->
+| elevation_footnotes = <ref name="IUP" />
+| elevation_m = 326
+| elevation_max_footnotes = 
+| elevation_max_m =
+| elevation_min_footnotes = 
+| elevation_min_m = 289
+
+|postal_code_type = Postal code
+|postal_code = 252430-252439
+|area_code = 57 + 1
+|website = [http://www.girardot-cundinamarca.gov.co/ Official website]
+|footnotes =
+}}

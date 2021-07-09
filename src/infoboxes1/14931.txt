@@ -1,0 +1,53 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Al Wakrah
+| native_name                     = الوكرة
+| native_name_lang                = ar<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| type                            = [[City]] 
+| image_caption                   = Top to Bottom, Left to Right: A lone fishing vessel on the coastline, Workers traveling along Al Wakrah Corniche in the Al Wakrah Heritage Village, Traditional stone buildings in Al Wakrah Heritage Village, Renovated fort of Sheikh [[Abdulrahman bin Jassim Al Thani]] (now known as Al Wakrah Fort)
+| image_skyline                   = {{Photomontage
+| photo1a = Lone fishing boat in Al Wakrah.jpg
+| photo2a = Expatriate workers on Al Wakrah Corniche, Al Wakrah Heritage Village.jpg
+| photo2b = Traditional buildings in Al Wakrah Heritage Village.jpg
+| photo3a = Wakra Fort, Qatar.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_seal                      = Alwakra logo.jpg
+| seal_alt                        = 
+| pushpin_map                     = Qatar#Middle East#Asia
+| pushpin_label_position          = above
+| pushpin_mapsize            = 
+| pushpin_map_caption         = Location in Qatar
+| coordinates                     = {{coord|25|10|48|N|51|36|36|E|region:QA-WA_type:city|display=inline,title}}
+| coor_pinpoint                   = Al Wakrah
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Qatar}}
+| subdivision_type1               = [[Municipalities of Qatar|Municipality]]
+| subdivision_name1               = [[Al Wakrah (municipality)|Al Wakrah Municipality]]
+| established_title               = 
+| established_date                = 
+| founder                         = 
+| government_footnotes            = 
+| leader_party                    = 
+| leader_title                    = <!-- Governor -->
+| leader_name                     = 
+| unit_pref                       = Metric<!-- or US or UK -->
+| area_footnotes                  = Yfh
+| area_total_km2                  = 75.8
+| area_note                       = 
+| population_footnotes            = <ref name="2015census">{{cite web|url=http://www.mdps.gov.qa/en/knowledge/Publications/Population/Population2015.pdf|title=2015 Population census|publisher=Ministry of Development Planning and Statistics|date=April 2015|access-date=8 August 2017}}</ref>
+| total_type                      = 
+| population_total                = 87,970
+| population_as_of                = 2015
+| population_density_km2          = auto
+| population_note                 = 
+| timezone1                       = 
+| utc_offset1                     = +03
+| iso_code                        = QA-WA
+| website                         = <!-- [http://www.example.com example.com] -->
+| footnotes                       = 
+| official_name                   = 
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Shepherdsville, Kentucky
+|settlement_type          = [[list of Ky cities|City]]
+|named_for                = 
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Downtown shepherdsville.jpg
+|imagesize                = 250px
+|image_caption            = Downtown Shepherdsville
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Bullitt County Kentucky Incorporated and Unincorporated areas Shepherdsville Highlighted 2170086.svg
+|mapsize                  = 250px
+|map_caption              = Location of Shepherdsville in Bullitt County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Bullitt County, Kentucky|Bullitt]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Curtis Hockenbury
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Established
+|established_date         = 1793<ref name=sos>Commonwealth of Kentucky. Office of the Secretary of State. Land Office. "Shepherdsville, Kentucky". Accessed August 26, 2013.</ref>
+|established_title2        = Incorporated
+|established_date2         = Unknown<ref name=sos/>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 38.40
+|area_land_km2            = 37.60
+|area_water_km2           = 0.80
+|area_total_sq_mi         = 14.83
+|area_land_sq_mi          = 14.52
+|area_water_sq_mi         = 0.31
+
+<!-- Population -->
+|population_as_of         = [[2019 United States Census|2019]]
+|population_footnotes     = 
+|population_total         = 12,218
+|population_density_km2   = 330.86
+|population_density_sq_mi = 856.95
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 137
+|elevation_ft             = 449
+|coordinates              = {{coord|37|59|17|N|85|42|50|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 40165
+|area_code                = [[Area code 502|502]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 21-70086
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0503351
+|website                  = {{URL|shepherdsville.net}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 12442
+}}

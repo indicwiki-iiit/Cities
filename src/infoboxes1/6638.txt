@@ -1,0 +1,38 @@
+{{Infobox F1 driver
+| name              = Nicholas Latifi
+| image             = Nicholas Latifi, 2020 pre-season testing (3).jpg
+| imagesize         =
+| caption           = Latifi in 2020
+| nationality       = {{flagicon|CAN}} Canadian
+| birth_date        = {{birth date and age|df=y|1995|6|29}}
+| birth_place       = [[Montreal|Montreal, Quebec]], Canada
+| birth_name=Nicholas Daniel Latifi
+
+<!-- Please leave the 2021 team in the infobox until at least 1 January 2022, per WP:F1 convention -->
+| 2021 Team      = [[Williams F1|Williams]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]<ref>{{Cite web|date=16 July 2020|title=Russell and Latifi to stay on at Williams in unchanged 2021 driver line-up|url=https://www.formula1.com/en/latest/article.russell-and-latifi-to-stay-on-at-williams-in-unchanged-2021-driver-line-up.2buMT250BE0Ef8Q2bUBDFE.html|url-status=live|archive-url=https://web.archive.org/web/20200919002445/https://www.formula1.com/en/latest/article.russell-and-latifi-to-stay-on-at-williams-in-unchanged-2021-driver-line-up.2buMT250BE0Ef8Q2bUBDFE.html|archive-date=19 September 2020|access-date=16 July 2020|website=Formula1.com|language=en}}</ref>
+
+| Car number     = 6
+| Races          = {{F1stat|LAT|entries}} ({{F1stat|LAT|starts}} starts)
+| Championships  = 0
+| Wins           = {{F1stat|LAT|wins}}
+| Podiums        = {{F1stat|LAT|podiums}}
+| Points         = {{F1stat|LAT|careerpoints}}
+| Poles          = {{F1stat|LAT|poles}}
+| Fastest laps   = {{F1stat|LAT|fastestlaps}}
+| First race     = {{F1 GP||2020 Austrian}}
+| First win      =
+| Last win       =
+| Last race      = {{Latest F1GP}}
+| Last season    = 2020
+| Last position  = 21st (0 pts)
+| website        = {{Official website|https://www.nicholaslatifi.com/}}
+| module         = 
+{{infobox racing driver|embed=yes                    
+| prev series       = [[Formula 2 Championship]]<br>[[GP2 Series]]<br>[[World Series Formula V8 3.5|Formula Renault 3.5 Series]]<br>[[Porsche Carrera Cup GB]]<br>[[FIA European Formula 3 Championship|European Formula 3]]<br>[[Toyota Racing Series]]<br>[[British Formula 3 Championship|British Formula 3]]<br>[[Italian Formula Three Championship|Italian Formula Three]]<br>[[Continental Tire Sports Car Challenge|Continental Tire SCC]]
+| prev series years = [[2017 Formula 2 Championship|2017]]–[[2019 Formula 2 Championship|19]]<br> [[2014 GP2 Series|2014]]–[[2016 GP2 Series|16]]<br>[[2014 Formula Renault 3.5 Series|2014]]–[[2015 Formula Renault 3.5 Series|15]]<br>[[2014 Porsche Carrera Cup Great Britain|2014]]–[[2015 Porsche Carrera Cup Great Britain|15]]<br>[[2013 FIA Formula 3 European Championship|2013]]–[[2014 FIA Formula 3 European Championship|14]]<br>[[2013 Toyota Racing Series|2013]]<br>[[2013 British Formula 3 season|2013]]<br>[[2012 Italian Formula Three Championship|2012]]<br>[[2012 Continental Tire Sports Car Challenge season|2012]]
+| titles            =
+| title years       =
+| awards            =
+| award years       =
+}}
+}}

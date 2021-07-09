@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                    = {{raise|0.2em|Tokushima}}
+| official_name           = Tokushima City
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|徳島市}}}}}}
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = Tokushima Montage2.jpg
+| image_caption           = Top:[[:ja:吉野川大橋|Yoshino River Bridge]], Second:[[:ja:徳島市阿波おどり|Awa Odori on August]],  Tokushima Station, Third:[[Mount Bizan]], Senshukaku Garden in [[Tokushima Castle]], Bottom:[[:ja:阿波十郎兵衛|Awa Jūrōbei House]], [[Aibahama Park]], all item for left to right
+| image_flag              = Flag of Tokushima, Tokushima.svg
+| image_seal              = Emblem of Tokushima, Tokushima.svg
+<!-- maps and coordinates -->
+| image_map               = Tokushima in Tokushima Prefecture Ja.svg
+| map_caption             = Location of Tokushima in Tokushima Prefecture
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{JPN}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Shikoku]]
+| subdivision_type2       = Prefecture 
+| subdivision_name2       ={{flag|Tokushima}}
+<!-- established -->
+| established_title = First official record 
+| established_date  = 1272
+| established_title2= City Status 
+| established_date2= October 1, 1889
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = [[:ja:内藤 佐和子|Sawako Naitō]]
+<!-- area -->
+| area_total_km2          = 191
+<!-- population -->
+| population_total        = 258,554
+| population_as_of        = October 1, 2015
+| population_density_km2  = 1,354
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time|JST]]
+| utc_offset1             = +9
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 770-8571
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = • Tree
+| blank1_info_sec1        = ''[[Elaeocarpus sylvestris]]''
+| blank2_name_sec1        = • Flower
+| blank2_info_sec1        = ''[[Prunus serrulata]]''
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 088-621-5111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 2-5 Saiwaichō,<br>Tokushima-shi,<br>Tokushima-ken
+<!-- website, footnotes -->
+| website                 = {{Official|1=www.city.tokushima.tokushima.jp/}}
+}}

@@ -1,0 +1,34 @@
+{{Infobox Australian place | type = town
+| name     = Biloela
+| state    = qld
+| image    = Bilo_Silo.JPG
+| caption  = The Silo, Biloela
+| lga      = Shire of Banana
+| postcode = 4715
+| est      = 1924 
+| elevation= 175.0
+| coordinates         = {{coord|-24.4002|150.5133|type:city_region:AU-QLD|display=inline,title}}
+| pop                 = 5758
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| area                = 17.6
+| maxtemp  = 29.0
+| mintemp  = 13.2
+| rainfall = 667.6
+| timezone = [[AEST]]
+| utc      = 10
+| stategov = [[Electoral district of Callide|Callide]]
+| fedgov   = [[Division of Flynn|Flynn]]
+| dist1    = 142
+| dist2    = 549
+| location1= [[Rockhampton, Queensland|Rockhampton]]
+| location2= [[Brisbane]]
+| near-n   = [[Dakenba, Queensland|Dakenba]]
+| near-ne  = [[Valentine Plains, Queensland|Valentine Plains]]
+| near-e   = [[Valentine Plains, Queensland|Valentine Plains]]
+| near-se  = [[Valentine Plains, Queensland|Valentine Plains]]
+| near-s   = [[Prospect, Queensland|Prospect]]
+| near-sw  = [[Prospect, Queensland|Prospect]]
+| near-w   = [[Prospect, Queensland|Prospect]]
+| near-nw   = [[Dakenba, Queensland|Dakenba]]
+}}

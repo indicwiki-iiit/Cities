@@ -1,0 +1,73 @@
+{{Infobox settlement
+| name                            = Le Mars, Iowa
+| settlement_type                 = [[City]]
+| nickname                        = "Ice Cream Capital Of The World"
+| motto                           = <!-- Images -->
+| image_skyline                   = LeMarsIA Downtown.jpg
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Plymouth_County_Iowa_Incorporated_and_Unincorporated_areas_Le_Mars_Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Le Mars within County and State
+| image_map1                      = Lemars-iowa-map.gif
+| mapsize1                        = 250px
+| map_caption1                    = U.S. Census Map
+| pushpin_map             = Iowa#USA
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| pushpin_label           = Le Mars
+| pushpin_label_position  = 
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{USA}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Iowa}}
+| subdivision_type2               = [[List of counties in Iowa|County]]
+| subdivision_name2               = [[Plymouth County, Iowa|Plymouth]]
+| government_footnotes            = 
+| government_type                 = Mayor-council
+| leader_title                    = Mayor
+| leader_name                     = Dick Kirchoff
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 23.33
+| area_land_km2                   = 23.31
+| area_water_km2                  = 0.02
+| area_total_sq_mi                = 9.01
+| area_land_sq_mi                 = 9.00
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 10081
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_total                = 9826
+| population_density_km2          = 432.54
+| population_density_sq_mi        = 1120.24
+| timezone                        = [[North American Central Time Zone|Central (CST)]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| elevation_footnotes             = 
+| elevation_m                     = 376
+| elevation_ft                    = 1234
+| coordinates                     = {{coord|42|47|20|N|96|9|57|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 51031
+| area_code                       = [[Area code 712|712]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 19-44400
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0458255
+| website                         = {{URL|http://www.lemarsiowa.com|lemarsiowa.com}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| official_name                   = 
+}}

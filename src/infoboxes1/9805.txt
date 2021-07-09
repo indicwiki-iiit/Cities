@@ -1,0 +1,42 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Pohang}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|포항시}}}}
+| settlement_type         = [[Cities of South Korea|Specific city]]
+| translit_lang1          = Korean
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|포|항|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2    = {{lang|ko-Hant|{{linktext|浦|項|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Pohang-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = P'ohang-si
+| image_skyline           = Flag of Pohang.svg
+| imagesize               = 
+| image_caption           = Pohang-Si logo
+| image_map               = North Gyeongsang-Pohang.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Yeongnam]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Gyeongsang dialect|Gyeongsang]]
+| area_total_km2          = 1127.24
+| population_as_of        = 2018 Sep
+| population_total        = 516,471
+| population_density_km2  = 458.17
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 2 ''gu'', 15 ''dong'', 4 ''eup'', 10 ''myeon''
+| area_code          = +82-54-2xx
+| image_blank_emblem      = 
+| blank_emblem_type       = Emblem of Pohang
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Lee Kang-deok ([[People Power Party (South Korea)|People Power]])
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+}}

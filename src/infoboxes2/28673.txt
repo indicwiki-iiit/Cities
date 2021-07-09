@@ -1,0 +1,30 @@
+{{Infobox Australian place| type = suburb
+| name     = Yanchep
+| city     = Perth
+| state    = wa
+| image    = Yanchep sunset.jpg
+| caption  = Sunset over Loch McNess in Yanchep National Park
+| lga      = City of Wanneroo
+| alternative_location_map = Australia Western Australia metropolitan Perth
+| coordinates = {{coord|31.55|S|115.634|E|display=inline,title}}
+| postcode = 6035
+| est      = 1970
+| pop      = 8,868 
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=SSC51650|name=Yanchep (State Suburb)|quick=on|access-date=14 January 2018}}</ref>
+| pop2      = 10399
+| pop2_year = 2018
+| pop2_footnotes = <ref name=ABSSUA/>
+| area     = 221.4
+| stategov = [[Electoral district of Butler|Butler]]
+| fedgov   = [[Division of Pearce|Pearce]]
+| near-nw  = 
+| near-n   = [[Two Rocks, Western Australia|Two Rocks]]
+| near-ne  = 
+| near-w   = ''[[Indian Ocean]]''
+| near-e   = [[Pinjar, Western Australia|Pinjar]]
+| near-sw  = 
+| near-s   = [[Eglinton, Western Australia|Eglinton]]
+| near-se  = [[Carabooda, Western Australia|Carabooda]]
+| dist1    = 56 | dir1 = N | location1= [[Perth (suburb)|Perth City]]
+}}

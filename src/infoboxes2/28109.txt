@@ -1,0 +1,41 @@
+{{Infobox film
+| name           = Manchester by the Sea
+| image          = Manchester by the Sea.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[Kenneth Lonergan]]
+| producer       = {{Plainlist|
+* [[Matt Damon]]
+* [[Kimberly Steward]]
+* [[Chris Moore (film producer)|Chris Moore]]
+* [[Lauren Beck]]
+* [[Kevin J. Walsh (film producer)|Kevin J. Walsh]]
+}}
+| writer         = Kenneth Lonergan
+| starring       = {{Plainlist|
+* [[Casey Affleck]]
+* [[Michelle Williams (actress)|Michelle Williams]]
+* [[Kyle Chandler]]
+* [[Lucas Hedges]]
+}}<!--PER POSTER BILLING BLOCK-->
+| music          = [[Lesley Barber]]
+| cinematography = [[Jody Lee Lipes]]
+| editing        = [[Jennifer Lame]]
+| production_companies = {{Plainlist|
+* K Period Media
+* [[Pearl Street Films]]
+* The Media Farm
+* The Affleck / Middleton Project
+* B Story
+}}
+| distributor    = {{Plainlist|
+* [[Amazon Studios]]
+* [[Roadside Attractions]]
+}}
+| released       = {{Film date|2016|01|23|[[2016 Sundance Film Festival|Sundance]]|2016|11|18|United States}}<!-- ONLY LIST FIRST RELEASE DATE AND DOMESTIC RELEASE DATE PER WP:FILMRELEASE. -->
+| runtime        = 137 minutes<!--Theatrical runtime: 137:22--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/manchester-sea-film | title=''Manchester by the Sea'' (15) | website=[[British Board of Film Classification]] | date=November 2, 2016 | access-date=November 2, 2016 | url-status=live | archive-url=https://web.archive.org/web/20161104005605/http://www.bbfc.co.uk/releases/manchester-sea-film | archive-date=November 4, 2016 | df=mdy-all }}</ref>
+| country        = United States
+| language       = English
+| budget         = $9{{nbsp}}million<ref name=BOM/>
+| gross          = $79{{nbsp}}million<ref name=BOM/>
+}}

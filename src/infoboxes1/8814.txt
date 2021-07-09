@@ -1,0 +1,61 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+| name                   = Kushma Municipality
+| native_name            = कुश्मा नगरपालिका<!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = [[Municipality]]
+<!-- images and maps  -->
+| image_skyline          = Kushma Parbat.jpg
+| image_caption          = 
+| image_flag             = 
+| image_seal             = 
+| nickname               = 
+| motto                  = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Nepal
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+| coordinates            = {{coord|28.23|83.69|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Nepal}}
+| subdivision_type1      = [[Provinces of Nepal|Province]]
+| subdivision_name1      = [[Gandaki Pradesh]]
+| subdivision_type2      = [[Districts of Nepal|District]]
+| subdivision_name2      = [[Parbat District]]
+| established_title      = <!-- Settled -->
+| established_date       = 18th May 2014
+| government_type        =
+<!-- Politics -->
+| government_footnotes   = 
+| leader_title           = [[Mayor]]
+| leader_name            = Ram Chandra Joshi ([[Nepali Congress|NC]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Sita Kafle Lamichane ([[Nepali Congress|NC]])
+<!-- Area    -->
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = 
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi       = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            =
+<!-- Population   -->
+| population_footnotes   = 
+| population_total       = 6758
+| population_as_of       = 2011
+| population_density_km2 = auto
+<!-- General information  -->
+| timezone               = [[Nepal Standard Time|NST]]
+| utc_offset             = +5:45
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 
+| website                = http://kushmamun.gov.np
+| footnotes              = Kushma and various other sources in the mountain terrains of Nepal. 
+}}

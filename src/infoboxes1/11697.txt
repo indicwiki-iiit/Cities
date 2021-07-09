@@ -1,0 +1,78 @@
+{{Infobox military installation
+| name = Lajes Field
+| ensign = 
+| ensign_size =
+| native_name = {{Lang|pt|Base Aérea das Lajes}}<br />{{Lang|pt|Base Aérea Nº 4}}
+| partof = <!-- for elements within a larger site -->
+| location = [[Lajes (Praia da Vitória)|Lajes]], [[Terceira Island]]
+| nearest_town = <!-- used in military test site infobox -->
+| country = the [[Azores]]
+| image = File:Lajes field.jpg
+| alt = 
+| caption = A variety of [[United States Air Force|US Air Force]] aircraft seen at Lajes, the airfield being used as a stop-off whilst aircraft transit between the Americas and Europe
+| image2 = <!--secondary image, major command emblems for airfields -->
+| alt2 = 
+| caption2 = 
+| type = Military airfield
+| coordinates = {{coord|38|45|43|N|027|05|27|W|region:PT|display=inline,title}}
+| gridref = 
+| image_map = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map = Portugal Azores
+| pushpin_mapsize = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Location in the Azores
+| pushpin_relief = 
+| pushpin_image = 
+| pushpin_label = Lajes
+| pushpin_label_position = top
+| pushpin_mark = 
+| pushpin_marksize = 
+| ownership = [[Ministry of National Defence (Portugal)|Ministry of National Defence]]
+| operator = [[Portuguese Air Force]] (PAF)
+| controlledby = [[Azores Air Zone Command]]
+| open_to_public = <!-- for out of use sites/sites with museums etc -->
+| site_other_label = <!-- for renaming "Other facilities" in infobox -->
+| site_other = <!-- for other sorts of facilities – radar types etc -->  
+| site_area = <!-- area of site m2, km2 square mile etc -->
+| code = <!--facility/installation code, applies to US -->
+| built = {{Start date|1934}}
+| used = 1934 – present<!--{{End date|1946}} -->
+| builder = 
+| materials = 
+| height = <!-- height of tallest part, not above sea level -->
+| length = <!-- for border fences or other DMZs -->
+| fate = <!--changed from demolished parameter-->
+| condition = Operational 
+| battles = 
+| events = 
+| current_commander = <!-- current commander -->
+| past_commanders = <!-- past notable commander(s) -->
+| garrison = 
+| occupants = *[[502 Squadron (Portugal)|Squadron 502]] (PAF)
+*[[751 Squadron (Portugal)|Squadron 751]] (PAF)
+*[[65th Air Base Group]] ([[United States Air Force|USAF]])
+| designations = 
+| website = {{Official website|https://www.emfa.pt/unit-27-}}
+<!-- begin airfield information  -->
+| IATA = TER
+| ICAO = LPLA
+| FAA = 
+| TC = 
+| LID = 
+| GPS = 
+| WMO = 085090
+| elevation = {{Convert|55|m|0}}
+| r1-number = 15/33
+| r1-length = {{Convert|3,314|m|0}}
+| r1-surface = [[Asphalt]]
+| h1-number = 
+| h1-length = <!-- {{Convert| |m|0}} -->
+| h1-surface = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->
+| footnotes = Airfield shared with [[Lajes Airport]]<br />'''Source:''' Portuguese [[Aeronautical Information Publication|AIP]]<ref name="AIP">AIP [http://www.nav.pt/ais/cd/2012_03_08_AIRAC/html/index.html Part 3 - AD 2 Aerodromes] {{webarchive|url=https://web.archive.org/web/20120415051720/http://www.nav.pt/ais/cd/2012_03_08_AIRAC/html/index.html |date=2012-04-15 }}</ref>
+}}

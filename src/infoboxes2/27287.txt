@@ -1,0 +1,34 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|image_skyline = Szabadszállás légifotó2.jpg
+|image_caption = Aerial view
+|image_shield = HUN_Szabadszállás_Címer.svg
+|image_flag = Flag of Szabadszállás.svg
+|coordinates            = {{coord|46|52|N|19|13|E|region:HU|display=inline}}
+
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Szabadszállás
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Bács-Kiskun County|Bács-Kiskun]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Kunszentmiklós District|Kunszentmiklós]]
+|area_total_km2=164.62
+|population_as_of=2015
+|population_total=6148
+|population_density_km2=auto
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=6080
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 76
+|website={{URL|http://www.szabadszallas.hu/}}
+}}

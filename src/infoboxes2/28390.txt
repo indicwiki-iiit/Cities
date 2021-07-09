@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Buellton
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Buellton.jpg
+|imagesize                = 300px
+|image_caption            = Buellton, as seen from near Gaviota Peak in the [[Santa Ynez Mountains]]
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = File:Santa Barbara County California Incorporated and Unincorporated areas Buellton Highlighted 0608758.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Buellton in Santa Barbara County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Barbara County, California|Santa Barbara]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Holly Sierra
+|leader_title1            = [[California's 19th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|19|fmt=sleader}}<ref name=swd/>
+|leader_title2            = [[California's 37th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|37|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 5, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title3            = [[California's 24th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|24|fmt=usleader}}<ref>{{Cite GovTrack|CA|24|access-date=September 29, 2014}}</ref>
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = February 1, 1992<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 1.58
+| area_land_sq_mi         = 1.58
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 4.10
+| area_land_km2           = 4.10
+| area_water_km2          = 0.00
+| area_water_percent      = 0.04
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1667902|Buellton|access-date=November 5, 2014}}</ref>
+|elevation_ft             = 358
+|elevation_m              = 109
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 4828
+|population_density_km2   = 1245.07
+|population_density_sq_mi = 3225.03
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|34|36|51|N|120|11|38|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 93427
+|area_code                = [[Area code 805|805]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|08758}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1667902}}
+|website                  = {{URL|www.cityofbuellton.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5102
+}}

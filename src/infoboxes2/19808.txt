@@ -1,0 +1,62 @@
+{{Infobox settlement
+|name                     = Villa Park, California
+|settlement_type          = [[City (California)|City in California]]
+|nickname                 = 
+|motto                    = The Hidden Jewel of Orange County<ref name=flyer/>
+|image_skyline            = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Seal of Villa Park, California.png
+|image_map                = Orange_County_California_Incorporated_and_Unincorporated_areas_Villa_Park_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location within [[California]] and [[Orange County, California|Orange County]]
+|image_map1               = 
+|map_caption1             = 
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Orange County, California|Orange]]
+|government_type          = [[Council–manager government|Council–manager]]<ref name=flyer>{{cite web|url=http://www.villapark.org/pdf/cmflyer.pdf|title=The City of Villa Park invites your interest in the position of City Manager|access-date=February 19, 2015}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = Crystal Miles <ref>{{cite web | url = http://www.villapark.org/city-council/ | title = City Council | publisher = Cit of Villa Park, California | access-date = December 17, 2014 | archive-url = https://web.archive.org/web/20160306190813/http://www.villapark.org/city-council/ | archive-date = March 6, 2016 | url-status = dead }}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = January 11, 1962<ref>{{cite web | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc | title = California Cities by Incorporation Date | format = Word | publisher = California Association of [[Local Agency Formation Commission]]s | access-date = August 25, 2014 | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc | archive-date = November 3, 2014 | url-status = dead | df = mdy-all }}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 2.08
+| area_land_sq_mi         = 2.08
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 5.38
+| area_land_km2           = 5.38
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|elevation_footnotes      = <ref>{{Cite GNIS|1661640|Villa Park|access-date=February 19, 2015}}</ref>
+|elevation_ft             = 341
+|elevation_m              = 104
+|coordinates              = {{coord|33|48|58|N|117|48|40|W|display=inline,title}}
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0682744.html|title=Villa Park (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 30, 2015|archive-url=https://web.archive.org/web/20150328235613/http://quickfacts.census.gov/qfd/states/06/0682744.html|archive-date=March 28, 2015|url-status=dead}}</ref>
+|population_total         = 5812
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 5790
+|population_density_km2   = 1076.13
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92861
+|area_code_type        = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 714 and 657|657/714]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|82744}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1661640}}, {{GNIS 4|2412158}}
+|website                  = {{Official URL}}
+|footnotes                = 
+|population_density_sq_mi = 2787.67
+}}

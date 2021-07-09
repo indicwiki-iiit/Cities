@@ -1,0 +1,91 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name          = Keszthely
+|other_name             = ''Mogentiana'' (in ancient Latin) <br>''Castellum'' (in medieval Latin) <br>{{lang|de|Kesthell}} {{in lang|de}} <br>
+{{lang|sl|Blatenski Kostel}} {{in lang|sl}}
+|image_skyline          = Keszthely, Hungary - panoramio.jpg
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|leader_title           = [[Mayor]]
+|leader_name            = [[Bálint Nagy]] ([[Fidesz]]-[[Christian Democratic People's Party (Hungary)|KDNP]])
+|image_caption          = 
+|image_shield           = HUN Keszthely Címer.svg
+|image_flag             = Flag of Keszthely.svg
+|shield_alt             = Coat of Arms of Keszthely
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Keszthely
+|pushpin_mapsize        = 
+|subdivision_type1      = [[List of regions of Hungary|Region]]
+|subdivision_name1      = [[Western Transdanubia]]
+|subdivision_type2      = [[Counties of Hungary|County]]
+|subdivision_name2      = [[Zala County|Zala]]
+|subdivision_type3      = [[Districts of Hungary|District]]
+|subdivision_name3      = [[Keszthely District|Keszthely]]
+|area_total_km2         = 75.98
+|population_total       = 19652
+|population_footnotes   = 
+|population_as_of       = 2017
+|population_density_km2 = 258.65
+|population_demonym     = keszthelyi
+<!-- demographics (section 1) -->
+|demographics_type1     = [[Demographics of Hungary|Population by ethnicity]]
+|demographics1_footnotes = <ref name="KSH - Keszthely, 2011">[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=18421 KSH - Keszthely, 2011]</ref>
+|demographics1_title1   = [[Hungarians]]
+|demographics1_info1    = 83.6%
+|demographics1_title2   = [[Hungarian Germans|Germans]]
+|demographics1_info2    = 2.1%
+|demographics1_title3   = [[Romani people in Hungary|Gypsies]]
+|demographics1_info3    = 0.6%
+|demographics1_title4   = [[Croats in Hungary|Croats]]
+|demographics1_info4    = 0.2%
+|demographics1_title5   = [[Poles in Hungary|Poles]]
+|demographics1_info5    = 0.1%
+|demographics1_title6   = [[Slovaks in Hungary|Slovaks]]
+|demographics1_info6    = 0.1%
+|demographics1_title7   = [[Romanians in Hungary|Romanians]]
+|demographics1_info7    = 0.1%
+|demographics1_title8   = [[Ukrainians in Hungary|Ukrainians]]
+|demographics1_info8    = 0.1%
+|demographics1_title9   = Others
+|demographics1_info9    = 0.7%
+<!-- demographics (section 2) -->
+|demographics_type2     = [[Demographics of Hungary|Population by religion]]
+|demographics2_footnotes = <ref name="KSH - Keszthely, 2011">[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=18421 KSH - Keszthely, 2011]</ref>
+|demographics2_title1   = [[Catholic Church in Hungary|Roman Catholic]]
+|demographics2_info1    = 54.5%
+|demographics2_title2   = [[Hungarian Greek Catholic Church|Greek Catholic]]
+|demographics2_info2    = 0.2%
+|demographics2_title3   = [[Reformed Church in Hungary|Calvinists]]
+|demographics2_info3    = 3.2%
+|demographics2_title4   = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+|demographics2_info4    = 1.6%
+|demographics2_title5   = [[Jews in Hungary|Jews]]
+|demographics2_info5    = 0.1%
+|demographics2_title6   = Other
+|demographics2_info6    = 1.2%
+|demographics2_title7   = [[Non-religious]]
+|demographics2_info7    = 11.6%
+|demographics2_title8   = Unknown
+|demographics2_info8    = 27.6%
+|postal_code_type       = [[Postal codes in Hungary|Postal code]]
+|postal_code            = 8360
+|area_code_type         = [[Telephone numbers in Hungary|Area code]]
+|area_code              = (+36) 83
+|blank_name             = Motorways
+|blank_info             = [[M76 motorway (Hungary)|M76 Motorway]] (planned)
+|blank1_name_sec1       = [[NUTS statistical regions of Hungary|NUTS 3 code]]
+|blank1_info_sec1       = HU223
+|blank2_name            = Distance from Budapest
+|blank2_info            = {{convert|187|km|abbr=on}} Southwest
+|blank6_name_sec1       = [[List of airports in Hungary|International airports]]
+|blank6_info_sec1       = [[Hévíz–Balaton Airport]] (SOB) previously Sármellék International Airport
+|blank3_name_sec2       = [[List of members of the National Assembly of Hungary (2018–22)|MP]]
+|blank3_info_sec2       = [[Jenő Manninger]] ([[Fidesz]])
+|website                = {{URL|https://www.keszthely.hu/}}
+|coordinates            = {{coord|46.76965|17.24813|region:HU|display=inline,title}}
+}}

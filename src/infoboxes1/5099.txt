@@ -1,0 +1,31 @@
+{{Infobox settlement
+|name                   = Vardenis
+|native_name            = {{lang|hy|Վարդենիս}}
+|image_skyline          = Vardenis 012.jpg
+|image_caption          = Vardenis in February 2009
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Province]]
+|subdivision_name1      = [[Gegharkunik Province|Gegharkunik]]
+|leader_title           = Mayor
+|leader_name            = Aram Melkonyan
+|established_title      = Founded
+|established_date       = 1830
+|area_total_km2         = 10
+|area_footnotes         =
+|population_footnotes   = <ref name="2011census">{{Cite web|url=https://www.armstat.am/file/article/1._bajin_1_182-311.pdf|title=The results of the 2011 Population Census of the Republic of Armenia|author=[[Statistical Committee of Armenia]]}}</ref>
+|population_as_of       = [[Census in Armenia|2011]]
+|population_total       = 12,685
+|population_density_km2 = auto
+|timezone               = [[Armenia Time|AMT]] 
+|utc_offset             = +4
+|timezone_DST           =
+|utc_offset_DST         = 
+|coordinates            = {{coord|40|10|50|N|45|43|12|E|region:AM|display=inline}}
+|elevation_m            = 2006
+|area_code              = +374 (269)
+|website                =
+|footnotes              = {{GEOnet2|228DCDAF40EB6633E0535EB81CD604FF}}
+}}

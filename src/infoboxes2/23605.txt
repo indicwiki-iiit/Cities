@@ -1,0 +1,29 @@
+{{Infobox UK place
+ | official_name            = Ardrossan
+ | type = [[Town]]
+ | gaelic_name              = Àird Rosain
+ | scots_name               = Ardrussan
+ | local_name               =
+ | country                  = Scotland
+ | static_image_name        = Ardrossan Scotland.jpg
+ | static_image_width        = 280px
+ | static_image_caption        = Ardrossan skyline and overlooking Ardrossan Harbour, January 2008
+ | map_type                 = Scotland
+| population = {{Scottish locality populations|name|POP=Ardrossan}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ | population_density       =
+ | os_grid_reference        = NS232424
+ | edinburgh_distance       = {{convert|79.1|mi|km}}
+ | london_distance          = {{convert|432.3|mi|km}}
+ | coordinates              = {{coord|55.6432|-04.8097|display=inline,title}}
+ | historic_county = [[Ayrshire]]
+|post_town                = ARDROSSAN
+ | postcode_area            = KA
+ | postcode_district        = KA22
+ | dial_code                = 01294
+ | constituency_westminster = [[North Ayrshire and Arran (UK Parliament constituency)|North Ayrshire and Arran]]
+ | civil_parish             =
+ | unitary_scotland         = [[North Ayrshire]]
+ | lieutenancy_scotland     = [[Ayrshire and Arran]]
+ | constituency_scottish_parliament = [[Cunninghame North (Scottish Parliament constituency)|Cunninghame North]]
+}}

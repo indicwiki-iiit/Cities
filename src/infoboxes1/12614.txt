@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info ----------------->
+|name                     = South San Francisco
+|settlement_type          = [[City (California)|City in California]]
+|official_name            = City of South San Francisco
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = South City; The Industrial City
+|motto                    = <!-- images and maps ------------>
+|image_skyline            = Southsanfrancisco.jpg
+|image_caption            = South San Francisco as viewed from a nearby ridge
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Seal of South San Francisco, California.png
+|seal_size                = 100x100px
+|image_map                = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_South_San_Francisco_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------->
+|subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+|subdivision_type3        = [[Combined Statistical Area|CSA]]
+|subdivision_name3        = [[San Jose–San Francisco–Oakland]]
+|subdivision_type4        = [[Metropolitan statistical area|Metro]]
+|subdivision_name4        = [[San Francisco–Oakland–Hayward]]
+<!-- Politics ------------------>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Mark Addiego<ref name=cc>{{Cite web
+ | url = http://www.ssf.net/departments/city-council
+ | title = City Council
+ | publisher = South San Francisco
+ | access-date = December 20, 2018}}</ref>
+|leader_title1            = [[Vice Mayor]]
+|leader_name1             = Mark Nagales<ref name=cc/>
+|leader_title2            = [[City Manager]]
+|leader_name2             = [[Mike Futrell]]<ref name=mngr>{{Cite web
+ | url = http://www.ssf.net/departments/city-manager/mike-futrell-city-manager
+ | title = City Manager
+ | publisher = South San Francisco
+ | access-date = December 20, 2018}}</ref>
+|leader_title3            = Councilmembers<ref name=cc/>
+|leader_name3             = James Coleman, <br/> Buenaflor Nicolas, <br/> Eddie Flores
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = September 19, 1908<ref>{{Cite web
+ | url = https://calafco.org/sites/default/files/resources/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = December 6, 2017}}</ref>
+<!-- Area ---------------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 30.17
+|area_land_sq_mi          = 9.20
+|area_water_sq_mi         = 20.97
+|area_total_km2           = 78.15
+|area_land_km2            = 23.84
+|area_water_km2           = 54.32
+|area_water_percent       = 69.69
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277618|South San Francisco|access-date=November 23, 2014}}</ref>
+|elevation_ft             = 16
+|elevation_m              = 5
+<!-- Population ---------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 67789
+|population_footnotes     = <ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=November 21, 2014}}</ref>
+|population_total         = 63632
+|population_density_km2   = 2844.02
+|population_density_sq_mi = 7365.97
+|population_density_metro_km2 = 
+|population_density_metro_sq_mi = 
+| population_blank1_title = [[Combined statistical area|CSA]]
+| population_blank1       = 8607423 ([[List of Combined Statistical Areas|5th]])
+| population_metro        = 4594060 ([[List of Metropolitan Statistical Areas|11th]])
+| population_demonym      = South San Franciscan
+<!-- General information ------->
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|coordinates              = {{coord|37|39|N|122|25|W|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94080, 94083, 94099
+|area_code                = [[Area code 650|650]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|73262}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277618}}, {{GNIS 4|2411942}}
+|website                  = {{URL|www.ssf.net}}
+}}

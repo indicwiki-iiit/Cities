@@ -1,0 +1,27 @@
+{{Infobox German location
+|name               = <!-- Only when different from the article name -->
+|German_name        = <!-- Only when different from the English name -->
+|type                =  Stadt
+|image_photo        = Zeven Christinenhaus.jpg
+|imagesize          = <!-- Photo size. Default is 250px -->
+|image_caption      = Queen Christina House in Zeven, Germany
+|image_coa            = DEU Zeven COA.svg
+|coordinates        = {{coord|53|18|0|N|9|17|0|E|format=dms|display=inline,title}}
+|image_plan = Zeven in ROW.svg
+|state        = Lower Saxony
+|district         = Rotenburg
+|Samtgemeinde      = Zeven
+|elevation              = 24
+|area            = 73.9
+|population         = 12763
+|Stand             = 2005-12-31
+|postal_code               = 27404
+|area_code           = 04281
+|licence               = ROW
+                         
+                         BRV
+|Gemeindeschlüssel = 03 3 57 057
+|website           = [http://www.zeven.de/ www.zeven.de]
+|mayor     = Hans-Joachim Jaap
+|party            = CDU
+}}

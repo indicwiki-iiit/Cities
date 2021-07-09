@@ -1,0 +1,34 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|image_skyline = Berettyó-híd%2C_Szeghalom.jpg
+|image_caption = [[Berettyó]]-bridge
+|image_shield = Coa Hungary Town Szeghalom.svg
+|image_flag = Flag of Szeghalom.svg
+|coordinates            = {{coord|47|1|38|N|21|9|58|E|region:HU_type:city|display=inline,title}}
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Szeghalom
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Békés County|Békés]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Szeghalom District|Szeghalom]]
+|area_total_km2=217.13
+|population_as_of=2009
+|population_total=9465
+|population_footnotes=
+|population_density_km2=47
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=5520
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 66
+|website={{URL|http://szeghalom.hu/}}
+}}

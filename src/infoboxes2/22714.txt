@@ -1,0 +1,53 @@
+{{Infobox Australian place
+| type                   = suburb
+| name                   = Nelson Bay
+| city                   = 
+| state                  = nsw
+| image                  = Nelson Bay Panorama.jpg
+| caption                = Looking north-east across d'Albora Marina
+| coordinates            = {{coord|32|42|54|S|152|9|4|E|display=inline,title}}
+| pop                    = 11820
+| pop_year               = {{CensusAU|2016}}
+| pop_footnotes          = <ref name=abs2016pop>{{Census 2016 AUS|id=SSC12923|name=Nelson Bay (State Suburb)|accessdate=8 January 2019|quick=on}}</ref>
+| density                = 345.9
+| density_footnotes      = <ref group=Note>The density figure provided is that for the whole of Nelson Bay. However, the population listed in the [[Australian Bureau of Statistics|ABS]] data reside in only about {{Convert|3.9|km2|sqmi|1}} (approximately 25%) of the suburb, the remainder being uninhabited for various reasons including that a large portion of the suburb is part of Tomaree National Park. The density in the inhabited area is approximately {{convert|1383.6|/km2|/sqmi|abbr=on}}.</ref>
+| est                    = 
+| postcode               = 2315
+| elevation              = 
+| elevation_footnotes    = 
+| area                   = 15.6
+| area_footnotes         = <ref group=Note>Area calculations are based on 1:100000 map 9232 NEWCASTLE.</ref>
+| timezone               = [[Australian Eastern Standard Time|AEST]]
+| utc                    = +10
+| timezone-dst           = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst                = +11
+| dist1                  = 207
+| dir1                   = NNE
+| location1              = Sydney
+| dist2                  = 60
+| dir2                   = NE
+| location2              = [[Newcastle, New South Wales|Newcastle]]
+| dist3                  = 45
+| dir3                   = ENE
+| location3              = Raymond Terrace
+| lga                    = Port Stephens Council
+| region                 = [[Hunter Region|Hunter]]
+| county                 = [[Gloucester County, New South Wales|Gloucester]]<ref name=gnbsuburb>{{NSW GNR|id=ujKqZxWAJP|title=Nelson Bay (suburb)|access-date=31 May 2008}}</ref>
+| parish                 = Tomaree<ref name=gnbsuburb/>
+| stategov               = [[Electoral district of Port Stephens|Port Stephens]]
+| fedgov                 = [[Division of Paterson|Paterson]]
+| maxtemp                = 27.3
+| maxtemp_footnotes      = <ref name=metdata>{{BoM Aust stats|site_ref=cw_061054|site_name=Nelson Bay (Nelson Head)|access-date=2 June 2008}}</ref>
+| mintemp                = 8.4
+| mintemp_footnotes      = <ref name=metdata/>
+| rainfall               = 1348.9
+| rainfall_footnotes     = <ref name=metdata/>
+| near-n                 = ''[[Port Stephens (New South Wales)|Port Stephens]]''
+| near-ne                = ''[[Port Stephens (New South Wales)|Port Stephens]]''
+| near-e                 = [[Shoal Bay, New South Wales|Shoal Bay]], [[Fingal Bay, New South Wales|Fingal Bay]]
+| near-se                = [[Fingal Bay, New South Wales|Fingal Bay]]
+| near-s                 = [[One Mile, New South Wales|One Mile]], [[Fingal Bay, New South Wales|Fingal Bay]]
+| near-sw                = [[Anna Bay, New South Wales|Anna Bay]], [[One Mile, New South Wales|One Mile]]
+| near-w                 = [[Corlette, New South Wales|Corlette]], [[Salamander Bay, New South Wales|Salamander Bay]]
+| near-nw                = ''[[Port Stephens (New South Wales)|Port Stephens]]''
+}}

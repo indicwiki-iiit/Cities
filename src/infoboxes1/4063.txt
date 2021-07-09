@@ -1,0 +1,151 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name                            = Huntington Beach, California
+| settlement_type                 = [[City (California)|City]]
+| official_name                   = City of Huntington Beach<ref>{{cite web
+ | url = http://www.huntingtonbeachca.gov/
+ | title = City of Huntington Beach, California
+ | publisher = City of Huntington Beach
+ | access-date = July 30, 2011
+ | archive-url = https://web.archive.org/web/20110718134452/http://www.huntingtonbeachca.gov/
+ | archive-date = July 18, 2011
+ | url-status = live
+ }}</ref>
+<!-- Images and maps ------>| image_skyline                   = {{Photomontage
+| photo1a                 = Huntington Pier Terminus (cropped).jpg
+| photo1b                 = Huntington Beach High School tower.jpg
+
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 275
+| foot_montage            = Clockwise: Huntington Pier; [[Huntington Beach High School]]; aerial view of the coast; Sunset Beach; Downtown.
+}}
+| image_flag                      = Flag of Huntington Beach, California.svg
+| image_seal                      = Seal of Huntington Beach, California.png
+| nickname                        = [[Surf City (song)|Surf City]]<ref name=surfcity>{{cite web
+ | url = http://huntingtonbeachca.gov/about/
+ | title = About Huntington Beach
+ | publisher = City of Huntington Beach
+ | access-date = December 19, 2014
+ | archive-url = https://web.archive.org/web/20141227002228/http://www.huntingtonbeachca.gov/about/
+ | archive-date = December 27, 2014
+ | url-status = live
+ }}</ref>
+| image_map                       = File:Orange County California Incorporated and Unincorporated areas Huntington Beach Highlighted 0636000.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Huntington Beach in Orange County, California
+| pushpin_map                     = Los Angeles#California#USA
+| pushpin_map_caption             = Location within [[Greater Los Angeles]]##Location in the state of California##Location in the United States
+| pushpin_label                   = Huntington Beach
+<!-- Location ------------->| coordinates                     = {{coord|33|41|34|N|118|0|1|W|region:US-CA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Orange County, California|Orange]]
+<!-- History -------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = February 17, 1909<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+| named_for                       = [[Henry E. Huntington]]
+<!-- Government ----------->| government_type                 = [[Council–manager government|City Council/City Manager]]<ref name=govt>{{cite web
+ |url=http://www.huntingtonbeachca.gov/government/index7.cfm
+ |title=Government
+ |publisher=City of Huntington Beach
+ |access-date=March 18, 2015
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20150325094532/http://huntingtonbeachca.gov/government/index7.cfm
+ |archive-date=March 25, 2015
+}}</ref>
+| leader_title                    = [[City council]]<ref>{{cite web
+ | url = http://huntingtonbeachca.gov/government/elected_officials/city_council/
+ | title = City Council
+ | publisher = City of Huntington Beach
+ | access-date = December 29, 2020
+ | archive-url = http://www.huntingtonbeachca.gov/government/elected_officials/city_council/
+ | archive-date = December 29, 2020
+ | url-status = live
+ }}</ref>
+| leader_name                     = Kim Carr, [[Mayor]]<br/>Barbara Delgleize, [[Mayor pro tem|Mayor Pro Tem]]<br/>Dan Kalmick<br/>Natalie Moser<br/>Erik Peterson <br/>Mike Posey
+| leader_title1                   = [[City attorney]]
+| leader_name1                    = Michael E. Gates<ref name=gates>{{cite web
+ | url = http://huntingtonbeachca.gov/government/elected_officials/city_attorney/
+ | title = City Attorney
+ | publisher = City of Huntington Beach
+ | access-date = December 8, 2014
+ | archive-url = https://web.archive.org/web/20141203213618/http://www.huntingtonbeachca.gov/government/elected_officials/city_attorney/
+ | archive-date = December 3, 2014
+ | url-status = live
+ }}</ref>
+| leader_title2                   = [[City treasurer]]
+| leader_name2                    = Alisa Backstrom<ref name=treasurer>{{cite web
+ | url = http://huntingtonbeachca.gov/government/elected_officials/city_treasurer/
+ | title = City Treasurer
+ | publisher = City of Huntington Beach
+ | access-date = January 11, 2015
+ | archive-url = https://web.archive.org/web/20150103124115/http://www.huntingtonbeachca.gov/government/elected_officials/city_treasurer/
+ | archive-date = January 3, 2015
+ | url-status = live
+ }}</ref>
+| leader_title3                   = [[City clerk]]
+| leader_name3                    = Robin Estanislau<ref name=clerk>{{cite web
+ | url = http://huntingtonbeachca.gov/government/elected_officials/city_clerk/
+ | title = City Clerk
+ | publisher = City of Huntington Beach
+ | access-date = January 9, 2015
+ | archive-url = https://web.archive.org/web/20150116214639/http://www.huntingtonbeachca.gov/government/elected_officials/city_clerk/
+ | archive-date = January 16, 2015
+ | url-status = live
+ }}</ref>
+<!-- Area ----------------->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 28.33
+| area_total_km2                  = 73.38
+| area_land_sq_mi                 = 27.00
+| area_land_km2                   = 69.92
+| area_water_sq_mi                = 1.33
+| area_water_km2                  = 3.46
+| area_water_percent              = 16.10
+<!-- Elevation ------------>| elevation_footnotes             = <ref>{{Cite GNIS|1652724|Huntington Beach|access-date=October 19, 2014}}</ref>
+| elevation_ft                    = 39
+| elevation_m                     = 12
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0636000.html|title=Huntington (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 12, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120805115052/http://quickfacts.census.gov/qfd/states/06/0636000.html|archive-date=August 5, 2012}}</ref>
+| population_total                = 189992
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 199223
+| population_rank                 = [[Orange County, California|4th]] in Orange County<br/>[[List of largest California cities by population|24th]] in California<br />[[List of United States cities by population|120th]] in the United States
+| population_density_sq_mi        = 7379.45
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]s<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 9, 2014
+ | archive-url = https://web.archive.org/web/20141116111202/https://tools.usps.com/go/ZipLookupAction!input.action
+ | archive-date = November 16, 2014
+ | url-status = live
+ }}</ref>
+| postal_code                     = 92605, 92615, 92646–92649
+| area_code_type                  = [[North American Numbering Plan|Area code]]s
+| area_code                       = [[Area code 562|562]], [[Area codes 657 and 714|657/714]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|36000}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652724}}, {{GNIS 4|2410811}}
+| website                         = {{URL|huntingtonbeachca.gov}}
+| population_density_km2          = 2849.20
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| name                            = Dhankuta
+| other_name                      = 
+| native_name                     = {{lang|ne|धनकुटा}}
+| nickname                        = Eastern Hillstation
+| settlement_type                 = City
+| motto                           = Hamro Dhankuta, Ramro Dhankuta
+<!-- images and maps  -->| imagesize                       = 250px
+| flag_size                       = 300px
+| image_skyline                   = Dhankuta.jpg
+| image_caption                   = A view of Dhankuta hill town
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = <!-- NepalDhankutaDistrictmap.png -->
+| mapsize                         = 300px
+| map_caption                     = Map of Dhankuta District. Dhankuta is shaded in light blue second from top.
+| pushpin_map                     = Nepal Province1#Nepal <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Province No. 1
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{flag|Nepal}}
+| subdivision_type1               = [[Provinces of Nepal|Province]]
+| subdivision_name1               = [[Province No. 1]]
+| subdivision_type2               = [[Districts of Nepal|District]]
+| subdivision_name2               = [[Dhankuta District]]
+| government_footnotes            = <!--
+-->
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Mr. Chintan Tamang ([[Nepal Communist Party|NCP]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Ms. Shakuntala Basnet ([[Nepal Communist Party|NCP]])
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+
+<!-- Population   -->| population_as_of                = 2011<ref name="National Population and Housing Census 2011 (National Report)">{{cite news|title=National Population and Housing Census 2011(National Report) |url=http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |access-date=1 November 2012 |agency=Government of Nepal |publisher=[[Central Bureau of Statistics (Nepal)|Central Bureau of Statistics]] |date=November 2012 |ref=Central Bureau of Statistics |url-status=dead |archive-url=https://web.archive.org/web/20130418041642/http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |archive-date=18 April 2013 }}</ref>
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 26440
+| population_density_km2          = 
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_blank1_title         = Ethnicities
+| population_blank1               = Athpahariya [[Rai people|Rai]], [[Yakkha people|Yakha]], [[Limbu people|Limbu]], [[Brahmin]], [[Chhetri]], [[Gurung]]
+| population_blank2_title         = Religions
+| population_blank2               = [[Kiratism]], [[Hinduism]], [[Buddhist]]
+<!-- General information  -->| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|26|59|0|N|87|20|0|E|type:city(41210)_region:NP|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| postal_code_type                = [[Postal Code]]
+| postal_code                     = 56800
+| area_code                       = 026
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Humid subtropical climate|Cwa]]
+| blank1_name                     = [[List of roads in Nepal|Highway]]
+| blank1_info                     = [[Koshi Highway]]
+| website                         = {{url|www.dhankutamun.gov.np}}
+| footnotes                       = 
+| numbers of wards                = 
+| official_name                   = 
+}}

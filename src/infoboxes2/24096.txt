@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Shawano, Wisconsin
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = ShawanoWisconsinMainStreetHistoricDistrict1WIS22.jpg 
+|imagesize                = 
+|image_caption            = Shawano Main Street Historic District
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Shawano County Wisconsin Incorporated and Unincorporated areas Shawano Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Shawano in Shawano County, Wisconsin.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name2        = [[Shawano County, Wisconsin|Shawano]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 17.96
+|area_land_km2            = 17.35
+|area_water_km2           = 0.62
+|area_total_sq_mi         = 6.94
+|area_land_sq_mi          = 6.70
+|area_water_sq_mi         = 0.24
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8935
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 9305
+|population_density_km2   = 515.09
+|population_density_sq_mi = 1334.18
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 
+|elevation_ft             = 817
+|coordinates              = {{coord|44|46|36|N|88|36|7|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = Zip Code
+|postal_code              = 54166
+|area_code                = [[Area codes 715 and 534|715 & 534]]  
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 55-72925<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1573978<ref name="GR3" />
+|website                  = [http://www.cityofshawano.com/ City of Shawano]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

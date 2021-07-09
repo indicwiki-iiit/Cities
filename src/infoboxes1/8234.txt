@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Atami}}
+| official_name           = 
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|熱海市}}}}}}
+| native_name_lang        = ja
+| settlement_type         = [[Cities of Japan|City]]
+<!-- images, nickname, motto -->
+| image_skyline           = Beach in Atami City with sea bathers.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Beach in Atami City with sea bathers
+| image_flag              = Flag of Atami, Shizuoka.svg
+| flag_alt                = 
+| image_blank_emblem      = 静岡県熱海市市章.svg
+| blank_emblem_type       = Emblem
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Atami in Shizuoka Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Atami in Shizuoka Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|35|05|45.5|N|139|4|17.6|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Tōkai region|Tōkai]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Shizuoka Prefecture|Shizuoka]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title   = First official recorded 
+| established_date    = 699 AD
+| established_title2  = City Settled
+| established_date2   = April 10, 1937
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Sakae Saitō
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 61.78
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 36865
+| population_as_of        = May 2019
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = {{•}}Tree
+| blank1_info_sec1        = [[Sakura]]
+| blank2_name_sec1        = {{•}}Flower
+| blank2_info_sec1        = [[Ume]]
+| blank3_name_sec1        = {{•}}Bird
+| blank3_info_sec1        = [[Common gull]]
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 0557-86-6000
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-1 Chūō-chō, Atami-shi, Shizuoka-ken 413-8550
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.city.atami.lg.jp/}}
+| footnotes               = 
+}}

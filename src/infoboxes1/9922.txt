@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Nantou County}}
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = {{lower|0.1em|{{nobold|{{lang|zh-hant|南投縣}}}}}}
+| other_name                      =
+| settlement_type                 = [[County (Taiwan)|County]]
+| image_skyline                   = Nantou County Montage.png
+| image_caption                   = Top：Shuili Water Creek in Shuili Township, 2nd left:Mount Yu, 2nd right:Nantou County Museum of History in Nantou City, 3rd left:View of Sun Moon Lake, from Xuanzang Temple in Yuchi Township, 3rd right:Evergreen Glassland in Renci Township, Bottom left:Tou George Pond in Taiwan Educational University of Nature, Bottom right:Mount Hehuan
+| image_flag                      = File:Flag of Nantou County.svg
+| image_seal               = Seal of Nantou County.svg
+| seal_type                  = Logo
+| image_map                       = Taiwan ROC political division map Nantou County.svg
+| image_map1                      = {{maplink|frame=yes|frame-width=265|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| map_caption                     =
+| coordinates                     = {{coord|23|54|55.28|N|120|41|4.32|E|region:TW_type:adm1st|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{ROC-TW}}
+| subdivision_type1               = Province
+| subdivision_name1               = [[Taiwan Province|Taiwan]]
+| iso_code                        = TW-NAN
+| seat_type                       = Seat
+| seat                            = [[Nantou City]]
+| seat1_type                      = Largest city
+| seat1                           = Nantou City
+| parts                           = 1 city, 12 (4 urban, 8 rural) townships
+| leader_title                    = County Magistrate
+| leader_name                     = [[Lin Ming-chen]] ([[Kuomintang|KMT]])
+| area_total_km2                  = 4,106.436
+| area_water_percent              = 0
+| area_rank                       = [[List of administrative divisions of Taiwan|2 of 22]]
+| population_total                = 514,315
+| population_as_of                = Dec. 2014
+| population_rank                 = [[List of administrative divisions of Taiwan|15 of 22]]
+| population_density_km2          = auto
+| timezone                        = [[National Standard Time]]
+| utc_offset                      = +8
+| website                         = {{url|www.nantou.gov.tw/english/|www.nantou.gov.tw}}
+| footnotes                       =
+| module                          = {{Infobox place symbols| embedded=yes
+| flower  = [[Prunus mume|Plum blossom]] (''Prunus mume'')
+| tree    = Camphor Laurel (''[[Cinnamomum camphora]]'')
+| bird    =
+}}
+}}

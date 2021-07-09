@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Ma'arrat Misrin
+| other_name                      = Ma'arrat Masrin
+| native_name                     = مَعَرَّةُ مِصْرِينَ
+| nickname                        = 
+| settlement_type                 = Town
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 250
+| pushpin_map_caption             = Location in Syria
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{Flag|Syria}}
+| subdivision_type1               = [[Governorates of Syria|Governorate]]
+| subdivision_name1               = [[Idlib Governorate|Idlib]]
+| subdivision_type2               = [[Districts of Syria|District]]
+| subdivision_name2               = [[Idlib District|Idlib]]
+| subdivision_type3               = [[Nahiyah|Subdistrict]]
+| subdivision_name3               = [[Maarrat Misrin Nahiyah|Maarrat Misrin]]
+| subdivision_type4               = 
+| subdivision_name4               = <!-- Politics ----------------->
+| leader_title                    = Head of City Council
+| leader_name                     = Abed al-Aziz Rahal
+| government_footnotes            = <ref>[http://www.documents.sy/news.php?id=2285&lang=en Latest Events Bulletin] {{Webarchive|url=https://web.archive.org/web/20140716160306/http://documents.sy/news.php?id=2285&lang=en |date=2014-07-16 }}. Syrian Documents. 2012-06-03.</ref>
+<!-- Area    --------------------->| area_magnitude                  = 
+| unit_pref                       = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+<!-- Population   ----------------------->| population_as_of                = 2004
+| population_footnotes            = <ref name="CBS"/>
+| population_note                 = 
+| population_total                = 17,519
+<!-- General information  --------------->| timezone                        = 
+| utc_offset                      = 
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|36|00|N|36|40|E|region:SY|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 338
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = 
+| blank_info                      = 
+| blank1_name                     = 
+| blank1_info                     = 
+| website                         = 
+| footnotes                       = 
+| name                            = 
+}}

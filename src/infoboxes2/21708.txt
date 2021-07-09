@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name            = Boulder City
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = Home of Hoover Dam<ref>{{cite web|url=http://www.bcnv.org/|title=Boulder City, NV - Official Website - Official Website}}</ref>
+|settlement_type          = [[Town]]
+|motto                    = 
+ <!-- images and maps  ----------->
+|image_skyline            = Boulder-hotel.jpg
+|imagesize                = 250px
+|image_caption            = Boulder Dam Hotel built in 1933<ref>{{cite web|url=http://www.boulderdamhotel.com/|title=Boulder Dam Hotel - Boulder City, NV Lodging|access-date=February 9, 2007|archive-url=https://web.archive.org/web/20150204085126/http://www.boulderdamhotel.com/|archive-date=February 4, 2015|url-status=dead}}</ref>
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|image_map                = Clark County Nevada Incorporated Areas Boulder City highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location within Clark County
+|image_map1               = Boulder-city-map.png
+|mapsize1                 = 250px
+|map_caption1             = U.S. Census map
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = Nevada#USA
+|pushpin_map_caption      = Location within Nevada##Location within the United States
+|pushpin_label            = Boulder City
+|pushpin_relief           = 1
+<!-- Location ------------------>
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nevada]]
+|subdivision_type2        = [[List of counties in Nevada|County]]
+|subdivision_name2        = [[Clark County, Nevada|Clark]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Kiernan McManus ([[Democratic Party (United States)|D]])
+|established_title        = Founded
+|established_date         = {{Start date and age|1931}}
+|established_title2       = Incorporated
+|established_date2        = {{Start date and age|1960|1|4}}
+|named_for                = [[Boulder Canyon (Colorado River)|Boulder Canyon]]
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_32.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_total_km2           = 539.49
+|area_land_km2            = 539.40
+|area_water_km2           = 0.08
+|area_total_sq_mi         = 208.30
+|area_land_sq_mi          = 208.26
+|area_water_sq_mi         = 0.03
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = 
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=AFF>{{cite web |title=U.S. Census website |url=https://www.census.gov |work=U. S. Bureau of the Census |access-date=8 July 2011 }}</ref>
+|population_note          = 
+|population_total         = 15023
+|population_density_km2   = 30.05
+|population_density_sq_mi = 77.82
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = 
+<!-- General information  --------------->
+|timezone                 = PST
+| utc_offset = &minus;8
+|timezone_DST             = PDT
+| utc_offset_DST = &minus;7
+|coordinates              = {{Coord|35|58|43|N|114|49|57|W|region:US-NV_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 765
+|elevation_ft             = 2510
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 89005–89006
+|area_code                = [[Area codes 702 and 725|702 and 725]]
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|32|06500}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 858617<ref name=GNIS>{{Cite GNIS|858617|Boulder City}}</ref>
+|website                  = {{URL|www.bcnv.org}}
+|footnotes                = 
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 16207
+}}

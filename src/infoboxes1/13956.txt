@@ -1,0 +1,58 @@
+{{Infobox settlement
+| name = Jēkabpils
+| native_name =
+| settlement_type = City
+| other_name =
+| nickname =
+| motto =
+| image_skyline = Jēkabpils pilsētas laukums.JPG
+| imagesize =
+| image_caption =
+| image_flag = Jēkabpils flag.svg
+| flag_link =
+| image_shield = Coat_of_Arms_of_Jēkabpils.svg
+| shield_link =
+| pushpin_map = Latvia
+| pushpin_label_position = <!-- left/right -->
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|56|29|58|N|25|52|42|E|region:LV|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name = {{LVA}}
+| subdivision_type1 =
+| subdivision_name1 =
+| subdivision_type2 =
+| subdivision_name2 =
+| established_title = [[Town rights]]
+| established_date = 1670
+| government_type =
+| leader_title = [[Mayor]]
+| leader_name = [[Aivars Kraps]]
+| leader_title1 = Number of city council members
+| leader_name1 = 13
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_rank =
+| population_density_km2 = auto
+| population_urban =
+| population_metro =
+| population_density =
+| population_density_rank =
+| elevation_m = 77
+| timezone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| timezone_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = [[Postal code]]
+| postal_code = LV-52(01/02)
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = <small>(+371)</small> 652
+| website = {{url|http://www.jekabpils.lv/}}
+| footnotes =
+| official_name =
+| leader_party = [[Honor to Serve Our Latvia|GKML]]
+}}

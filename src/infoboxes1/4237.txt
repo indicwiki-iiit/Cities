@@ -1,0 +1,102 @@
+{{Infobox settlement
+|name                     = Carmel-by-the-Sea
+|official_name            = City of Carmel-by-the-Sea
+|other_name               = Carmel
+|settlement_type          = [[City (California)|City]]
+|image_seal               = 
+| image_skyline                   = {{Photomontage
+| photo1a                 = 16 21 0440 carmel mission (cropped) (cropped).jpg
+| photo4a                 = Carmel by the Sea Coastline (Unsplash) (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Top: [[Mission San Carlos Borromeo de Carmelo]]. Bottom: Carmel coastline.
+}}
+|image_map                = File:Monterey County California Incorporated and Unincorporated areas Carmel-by-the-Sea Highlighted 0611250.svg
+|map_caption              = Location of Carmel-by-the-Sea in Monterey County, California
+|coordinates              = {{coord|36|33|19|N|121|55|24|W|region:US-CA|display=inline,title}}
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Monterey County, California|Monterey]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = October 31, 1916<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+ |df=mdy
+}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = [[Dave Potter (politician)|Dave Potter]]<ref>{{Cite web
+ | url = http://ci.carmel.ca.us/carmel/index.cfm/government/elected-officials/
+ | title = Mayor Steve Dallas
+ | publisher = City of Carmel
+ | access-date = November 18, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20141109085408/http://ci.carmel.ca.us/carmel/index.cfm/government/elected-officials/
+ | archive-date = November 9, 2014
+ | df = mdy-all
+ }}</ref>
+|leader_title1            = [[California's 17th State Senate district|State Senator]]
+|leader_name1             = {{Representative|casd|17|fmt=sleader}}<ref name="swd" />
+|leader_title2            = [[California's 29th State Assembly district|State Assembly]]
+|leader_name2             = {{Representative|caad|29|fmt=sleader}}<ref name="swd">{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 5, 2014 |df=mdy-all}}</ref>
+|leader_title3            = [[California's 20th congressional district|U.S. Rep.]]
+|leader_name3             = {{Representative|cacd|20|fmt=usleader}}<ref name="gt20">{{Cite GovTrack|CA|20|access-date=September 30, 2014}}</ref>
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 1.06
+|area_total_km2           = 2.75
+|area_land_sq_mi          = 1.06
+|area_land_km2            = 2.75
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+|elevation_footnotes      = <ref name="gnis">{{Cite GNIS|id=1658224|name=Carmel-by-the-Sea}}</ref>
+|elevation_ft             = 223
+|elevation_m              = 68
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="cips" />
+|population_total         = 3722
+|population_metro         = 
+|population_density_sq_mi = 3591.89
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web
+ |url         = https://tools.usps.com/go/ZipLookupAction!input.action
+ |title       = ZIP Code(tm) Lookup
+ |publisher   = [[United States Postal Service]]
+ |access-date = November 18, 2014
+ |url-status     = live
+ |archive-url  = https://web.archive.org/web/20141116111202/https://tools.usps.com/go/ZipLookupAction!input.action
+ |archive-date = November 16, 2014
+ |df          = mdy-all
+}}</ref>
+|postal_code              = 93921–93923
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 831|831]] Exchanges: 620,622,624,625,626
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|11250}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1658224}}, {{GNIS 4|2409987}}
+|website                  = {{official website}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 3811
+|population_density_km2 = 1386.47
+}}

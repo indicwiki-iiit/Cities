@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Pinardville, New Hampshire
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Pinardville.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New Hampshire#USA
+|pushpin_label            = Pinardville
+|pushpin_label_position   = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          =
+|image_map                =  
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Hampshire]]
+|subdivision_type2        = [[List of counties in New Hampshire|County]]
+|subdivision_name2        = [[Hillsborough County, New Hampshire|Hillsborough]]
+|subdivision_type3        = [[List of cities and towns in New Hampshire|Town]]
+|subdivision_name3        = [[Goffstown, New Hampshire|Goffstown]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 4.7
+|area_land_km2            = 4.3
+|area_water_km2           = 0.4
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 4780
+|population_density_km2   = 1109.8
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 81
+|elevation_ft             = 266
+|coordinates              = {{coord|42|59|42|N|71|30|31|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 03102
+|area_code                = [[Area code 603|603]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 33-61220
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0869156
+|website                  = 
+|footnotes                = 
+}}

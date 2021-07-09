@@ -1,0 +1,130 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Yokkaichi}}
+| official_name           = 
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|四日市市}}}}}}
+| settlement_type         = [[Special cities of Japan|Special city]]
+<!-- images, nickname, motto -->
+| image_skyline           ={{Photomontage
+|photo1c                    = Yokkaichi Port, HDR, Japan, Japão, Mie, Mie Prefecture, Panorama, Port of Yokkaichi, Yokkaichi, Yokkaichi Dome - panoramio.jpg
+|photo2a                    = 四日市ふれあいモール.jpg
+|photo2b                    = Museum Yokkaichi.jpg
+|photo3a                    = Port of Yokkaichi , Mie - panoramio (22).jpg
+|photo3b                    = 神田のトンテキ (30047926404).jpg
+|photo4c                    = YokkaichiCity NightView from TarusakaPark.jpg
+| spacing                   = 1
+| color_border              = white
+| color                     = white
+|size    = 330
+|space   = 2
+}}
+| imagesize               = 
+| image_alt               = 
+| image_caption           = <table style="width:280px; margin:2px auto; border-collapse:collapse">
+<tr><td style="width:100%" colspan="2">[[Yokkaichi Port Building]]&Yokkaichi Port</tr>
+<tr><td style="width:50%">Hureai mall<td style="vertical-align:middle">Yokkaichi Municipal Museum</tr>
+<tr><td style="width:50%">Yokkaichi kombinat<td>Yokkaichi-Tonteki.</tr>
+<tr><td style="width:100%" colspan="2">Yokkaichi City skyline</tr>
+</table><br />{{Infobox mapframe|zoom=10}}
+| image_flag              = Flag of Yokkaichi, Mie.svg
+| flag_alt                = 
+| image_seal              = Emblem of Yokkaichi, Mie.svg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Yokkaichi in Mie Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Yokkaichi in [[Mie Prefecture]]
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|34|57|54.1|N|136|37|27.9|E|region:JP-24|display=it}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_type3       = 
+| subdivision_name1       = [[Kansai region|Kansai]]
+| subdivision_name2       = [[Mie Prefecture|Mie]]
+| subdivision_name3       = 
+<!-- established -->
+| established_title  = <!-- Settled -->
+| established_date   = 
+| established_title2 = 
+| established_date2  = 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Tomohiro Mori
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_total_km2          = 206.44
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_total        = 306107
+| population_as_of        = August 2015
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_density_km2  = 1480
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code               = 
+<!-- blank fields (section 1) -->
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = ''[[Cinnamomum camphora]]''
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 059-354-8244
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-5 Suwa-chō, Yokkaichi-shi, Mie-ken 510-8601
+<!-- website, footnotes -->
+| website                 = {{URL|www.city.yokkaichi.mie.jp}}
+| footnotes               = 
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = ''[[Salvia splendens]]''
+| blank3_name_sec1        = -Bird
+| blank3_info_sec1        = [[Black-headed gull]]
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+}}

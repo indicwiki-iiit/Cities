@@ -1,0 +1,23 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = Piedras Blancas
+|native_name            = 
+|image_skyline          = 
+|image_caption          = 
+|settlement_type        = Villa
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Spain]]
+|subdivision_type1      = [[Autonomous communities of Spain|Autonomous community]]
+|subdivision_name1      = [[Asturias]]
+|subdivision_type2      = [[Provinces of Spain|Province]]
+|subdivision_name2      = [[Asturias]]
+|subdivision_type3      = [[Municipalities of Spain|Municipality]]
+|subdivision_name3      = [[Castrillón]]
+|subdivision_type4      = [[Parroquia (Spain)|Parish]]
+|subdivision_name4      = [[Laspra]]
+<!-- Population   ----------------------->
+|population_total       = 9,544
+|population_as_of       = 2009
+}}

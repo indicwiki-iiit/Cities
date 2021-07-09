@@ -1,0 +1,51 @@
+{{Infobox settlement
+| name                            = Labuan
+| official_name                   = Federal Territory of Labuan<br/>{{native name|zsm-Latn-MY|{{nobold|Wilayah Persekutuan Labuan}}}}<br/>{{native name|zsm-Arab-MY|{{nobold|ولايه ڤرسكوتوان لابوان}}}}<br/>{{native name|cmn-Hans-MY|{{nobold|纳闽联邦直辖区}}}}
+| settlement_type                 = [[States and federal territories of Malaysia|Federal territory]]
+| translit_lang1                  = Other
+| translit_lang1_type1            = [[Jawi alphabet|Jawi]]
+| translit_lang1_info1            = {{lang|ms-arab|لابوان}}
+| translit_lang1_type2            = [[Chinese language|Chinese]]
+| translit_lang1_info2            = {{lang|zh-hant|纳闽}} {{font|size=70%|([[Simplified Chinese characters|Simplified]])}}<br>{{lang|zh-hant|納閩}} {{font|size=70%|([[Traditional Chinese characters|Traditional]])}}
+| translit_lang1_type3            = [[Tamil Language|Tamil]]
+| translit_lang1_info3            = {{lang|ta|இலாபுவான்}}<br> ''Ilābuvāṉ'' {{font|size=70%|([[ISO 15919|Transliteration]])}}
+| motto                           = {{lang|zsm-Latn-MY|Pulau Mutiara Borneo}}<br/>("The Pearl of Borneo")
+| image_skyline                   = 
+| image_caption                   = 
+| image_flag                      = Flag of Labuan.svg
+| image_seal                      = Seal of Labuan.svg
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| image_map1                      = Labuan in Malaysia (special marker).svg
+| map_caption1                    = <center>{{Legend inline|#C41E3A|outline=silver}} '''Labuan''' in {{Legend inline|#FFFDD0|outline=silver}} '''[[Malaysia]]'''</center>
+| coordinates                     = {{coord|05|18|00|N|115|13|12|E|display=inline,title}}
+| seat_type                       = [[List of national capitals|Capital]]
+| seat                            = [[Victoria, Labuan|Victoria]]<ref>{{cite book|title=Geographical Dictionary of the World|url=https://books.google.com/books?id=cVQDZFM1T2IC&pg=PA1926|publisher=Concept Publishing Company|isbn=978-81-7268-012-1|pages=1926–}}</ref>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Malaysia]]
+| government_type                 = [[Federal territory|Direct federal administration]]
+| leader_title                    = Administered by
+| leader_name                     = [[Labuan Corporation]]
+| leader_title1                   = Chairman
+| leader_name1                    = Amir Hussien
+| area_footnotes                  = <ref>{{cite web|url=http://www.statistics.gov.my/ccount12/click.php?id=2127 |title=Preliminary Count Report 2010 |publisher=Department of Statistics, Malaysia |page=27 |access-date=24 January 2011 |archive-url=https://web.archive.org/web/20110708202650/http://www.statistics.gov.my/ccount12/click.php?id=2127 |archive-date= 8 July 2011 |url-status=dead }}</ref><ref>https://www.dosm.gov.my/v1/index.php?r=column/cone&menu_id=NmZ4RUtKY3ZPblVWZ0VqeXk5SEg1dz09</ref>
+| area_magnitude                  = 
+| area_total_sq_mi                = 
+| area_total_km2                  = 92
+| population_footnotes            = <ref name="statistics">{{cite web|url=https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=VTJDdStOakJJd2EwcEVVTm4yRDZSQT09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09|title=Demographic Statistics Second Quarter 2019 Malaysia|publisher=Department of Statistics, Malaysia|access-date=16 August 2019}}</ref>
+| population_as_of                = 2019
+| population_total                = 99,500
+| population_density_sq_mi        = 
+| population_density_km2          = auto
+| demographics1_info1             = 0.778&nbsp;(<span style="color:#0c0;">high</span>) ([[List of Malaysian states by Human Development Index|12st]])
+| demographics_type1              = [[Human Development Index]]
+| demographics1_title1            = HDI (2018)
+| timezone                        = [[Malaysian Standard Time|MST]]
+| utc_offset                      = +8
+| timezone_DST                    = Not observed
+| utc_offset1_DST                 = +8
+| postal_code                     = 87xxx
+| area_code                       = 087
+| registration_plate              = [[Malaysian vehicle license plates|L]]<br/>SL <small>(before becoming FT)</small>
+<!-- website, footnotes -------->| footnotes                       = 
+| website                         = {{URL|pl.gov.my/}}
+}}

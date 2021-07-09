@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Piñon Hills
+|official_name            = 
+|settlement_type          = [[census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+| pushpin_map = USA California Southern#USA California#USA
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of California
+|pushpin_mapsize          = 
+|image_map                = 
+|map_caption              = Location within San Bernardino county
+
+<!-- Location -->
+
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = <!-- Mayor -->
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 32.118
+| area_land_sq_mi         = 32.115
+| area_water_sq_mi        = 0.003
+| area_total_km2          = 83.185
+| area_land_km2           = 83.178
+| area_water_km2          = 0.008
+| area_water_percent      = 0.01
+| area_note               =
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 7272
+|population_density_km2   = auto
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref>{{gnis|2627936}}</ref>
+|elevation_ft             = 4173
+|coordinates              = {{coord|34|25|59|N|117|36|54|W|type:landmark_region:US|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 92372
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|57302}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|2627936}}
+|website                  = 
+|footnotes                = {{gnis|2627936}}
+}}

@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Shawangunk
+|nickname               = 
+|settlement_type        = [[Administrative divisions of New York#Town|Town]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map              = Ulster County New York incorporated and unincorporated areas Shawangunk highlighted.svg
+|mapsize                = 
+|map_caption            = Location in [[Ulster County, New York|Ulster County]] and the state of [[New York (state)|New York]].
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          = 
+|dot_mapsize            = 
+|dot_map_caption        = 
+|dot_x =  
+|dot_y = <!--
+|pushpin_map            = New York
+|pushpin_label_position = 
+|pushpin_map_caption    = Location within state of New York -->
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = United States
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = [[New York (state)|New York]]
+|subdivision_type2      = [[List of counties in New York|County]]
+|subdivision_name2      = [[Ulster County, New York|Ulster]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Supervisor
+|leader_name            = John Valk Jr.<ref>Town of Shawangunk, (n.d.). Shawangunk town officials . Retrieved from website: http://www.shawangunk.org/officials-departments.html</ref> <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  
+|leader_name1           = 
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = Imperial
+|area_footnotes         = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_total_km2         = 146.46
+|area_land_km2          = 145.18
+|area_water_km2         = 1.28
+|area_total_sq_mi       = 56.55
+|area_land_sq_mi        = 56.06
+|area_water_sq_mi       = 0.49
+|area_water_percent     = 
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 102
+|elevation_ft           = 335
+<!-- Population   ----------------------->
+|population_as_of       = [[2010 United States Census|2010]]
+|population_footnotes   = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|population_note        = 
+|population_total       = 14332
+|population_est         = 14063
+|pop_est_as_of          = 2016
+|population_density_km2 = 96.86
+|population_density_sq_mi = 250.87
+<!-- General information  --------------->
+|timezone1              = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset1            = -5
+|timezone1_DST          = EDT
+|utc_offset1_DST        = -4
+|coordinates            = {{coord|41|36|59|N|74|13|59|W|region:US-NY|display=inline,title}}
+|postal_code_type       = <!-- [[ZIP code]] -->
+|postal_code            = 
+|area_code              = <!-- [[Area code ###|###]] -->
+|blank_name             = [[Federal Information Processing Standard|FIPS code]]
+|blank_info             = 36-66674
+|blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info            = 0979486
+|website                = 
+|footnotes              = 
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+}}

@@ -1,0 +1,109 @@
+{{Infobox settlement
+| name                    = Hellertown, Pennsylvania
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = 
+| image_skyline           = Detwiller Plaza (2602062075).jpg
+| image_alt               = 
+| image_caption           = Detwiller Plaza in downtown Hellertown
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| etymology               = 
+| nickname                = 
+| motto                   = 
+| image_map               = File:Northampton County Pennsylvania Incorporated and Unincorporated areas Hellertown Highlighted.svg
+| map_alt                 = 
+| map_caption             = Location of Hellertown in Northampton County, Pennsylvania.
+| pushpin_map             = USA Pennsylvania#USA
+| pushpin_label = Hellertown
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location of Hellertown in Pennsylvania
+| coordinates             = {{coord|40|35|03|N|75|20|17|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[Pennsylvania]]
+| subdivision_type2       = [[List of counties in Pennsylvania|County]]
+| subdivision_name2       = [[Northampton County, Pennsylvania|Northampton]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+| established_title       = 
+| established_date        = 1742
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = David J. Heintzelman ([[Democratic Party (U.S.)|D]])<ref>{{cite web |last1=Deegan|first1=Jim |title=Northampton County primary election results 2017 |url=https://www.lehighvalleylive.com/elections/2017/05/northampton_election_results_2.html |website=lehighvalleylive |access-date=1 January 2020 |language=en |date=17 May 2017}}</ref>
+| unit_pref               = Imperial
+<!-- or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref> </ref> -->
+| area_rural_footnotes    = <!-- <ref> </ref> -->
+| area_metro_footnotes    = <!-- <ref> </ref> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = 
+<!-- square miles --> 
+| area_total_sq_mi        = 1.32
+| area_land_sq_mi         = 1.31
+| area_water_sq_mi        = 0.00
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = 
+<!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_ft            = 322
+| population_as_of        = [[2010 United States Census|2010]]
+| population_footnotes    = 
+| population_total        = 5898
+| population_density_sq_mi = 4444.36
+| population_note         = 
+| population_demonym      = 
+| timezone1               = [[North American Eastern Time Zone|EST]]
+| utc_offset1             = -5
+| timezone1_DST           = [[Eastern Daylight Time|EDT]]
+| utc_offset1_DST         = -4
+| postal_code_type        = [[ZIP Code]]
+| postal_code             = 18055
+| area_code_type          = 
+| area_code               = [[Area codes 610 and 484|610 and 484]] 
+| iso_code                = 
+| website                 = {{URL|http://www.hellertownborough.org}}
+| footnotes               = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5831
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-33744
+|area_total_km2 = 3.41
+|area_land_km2 = 3.40
+|area_water_km2 = 0.01
+|population_density_km2 = 1716.46
+}}

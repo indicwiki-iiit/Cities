@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Alum Rock
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[:Category:Neighborhoods in San Jose, California|Neighborhood of San Jose]]<br><small>[[Census Designated Place]] (partially)</small>
+|motto                    = 
+<!-- images and maps  ----------->
+| image_skyline           = {{Photomontage
+| photo1a                 = Alum Rock Park Fountain.jpg
+| photo1b                 = Alum Rock Mural (cropped).jpg
+| photo2a                 = Downtown Alum Rock 0661.jpg
+| photo2b                 = Downtown Alum Rock 0667 (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 285
+| foot_montage            = Top: [[Alum Rock Park]]; Alum Rock community mural; bottom: Downtown Alum Rock.
+}}
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Alum_Rock_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Santa Clara County, California|Santa Clara County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief          = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Clara County, California|Santa Clara]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+| area_total_sq_mi        = 0.85
+| area_land_sq_mi         = 0.85
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 2.20
+| area_land_km2           = 2.20
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|area_metro_km2           = 
+|area_metro_sq_mi         =
+
+|elevation_footnotes      = <ref>{{Cite GNIS|218196|Alum Rock|accessdate=January 21, 2015}}</ref>
+|elevation_ft             = 151
+|elevation_m              = 46
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2827
+|population_density_km2   = NaN
+|population_density_sq_mi = NaN
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|22|3|N|121|49|32|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95127
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 408 and 669|408/669]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|01458}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|218196}}, {{GNIS 4|2407736}}
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|access-date=June 9, 2017}}</ref>
+|population_est = N/A
+}}

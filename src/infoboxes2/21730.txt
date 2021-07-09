@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                   = Jisr az-Zarqa
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|גִ'סְּר א-זַּרְקָא}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|جـِسـْر الزرقاء}}|rtl=yes}}
+ }}
+| settlement_type        = [[Local council (Israel)|Local council]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Ǧissr ʾa-Zárqaʾ
+| image_skyline          = Jisr az-Zarqa.jpg
+| image_caption          = View of Jisr az-Zarqa
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|32|17|N|34|54|44|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 141/217 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Israel]]
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Haifa District|name=Haifa}}
+| leader_title           = Head of Municipality
+| leader_name            = Morad Ammash
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:1520|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Jisr Az-zarqa}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = The bridge over the River Zerka<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/140/mode/1up 140]</ref>
+}}

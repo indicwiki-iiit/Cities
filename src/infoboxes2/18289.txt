@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = North Royalton, Ohio
+|settlement_type          = [[City]]
+|motto                    = 
+|nickname                 = 
+
+<!-- Images -->
+|image_skyline            = John M. Annis House.jpg
+|imagesize                = 250px
+|image_caption            = The [[John M. Annis House]] on [[Ohio State Route 94|State Road]], built 1833
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Cuyahoga County Ohio incorporated and unincorporated areas North Royalton highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the state of [[Ohio]].
+|image_map1               = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Cuyahoga County, Ohio|Cuyahoga]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Larry Antoskiewicz
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 55.47
+|area_land_km2            = 55.42
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 21.42
+|area_land_sq_mi          = 21.40
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 30068
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 30444
+|population_density_km2   = 542.57
+|population_density_sq_mi = 1405.24
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 366
+|elevation_ft             = 1201
+|coordinates              = {{coord|41|19|20|N|81|44|47|W|region:US-OH|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44133
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-57008<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1065175<ref name="GR3" />
+|website                  = http://www.northroyalton.org/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

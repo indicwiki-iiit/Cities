@@ -1,0 +1,60 @@
+{{Infobox settlement
+| name                    = Van Rhynsdorp
+| image_skyline           = NG kerk Vanrhynsdorp.jpg
+| image_caption           = Dutch Reformed Church in Van Rhynsdorp
+| pushpin_map             = South Africa Western Cape#South Africa#Africa
+| coordinates             = {{coord|31|37|S|18|44|E|region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]] 
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]] 
+| subdivision_name1       = [[Western Cape]]
+| subdivision_type2       = [[List of districts of South Africa|District]] 
+| subdivision_name2       = [[West Coast District Municipality|West Coast]]
+| subdivision_type3       = [[List of municipalities of South Africa|Municipality]] 
+| subdivision_name3       = [[Matzikama Local Municipality|Matzikama]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/160009 |title = Main Place Vanrhynsdorp |work=Census 2011}}</ref>
+| area_total_km2          = 5.99
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 6272
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 6.9%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 71.9%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 0.4%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 19.7%
+| demographics1_title5    = Other
+| demographics1_info5     = 1.0%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 95.3%
+| demographics2_title2    = [[South African English|English]]
+| demographics2_info2     = 1.6%
+| demographics2_title3    = [[Xhosa language|Xhosa]]
+| demographics2_info3     = 1.2%
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Other
+| demographics2_info5     = 1.8%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 8170
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 8170
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 027
+}}

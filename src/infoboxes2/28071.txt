@@ -1,0 +1,67 @@
+{{Infobox settlement
+| official_name            = Kenai<br>''Shk'ituk't''
+| settlement_type          = [[City (Alaska)|City]]
+| image_skyline            = Kenai AK aerial.jpg
+| image_caption            = Aerial view of part of downtown Kenai.  The intersection of Willow Street and Barnacle Way is in the center of the foreground.  [[Cook Inlet]] and [[Mount Redoubt]] are in the background.
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+| motto                    = "Village with a Past - City with a Future"
+| image_map                = AKMap-doton-Kenai.PNG
+| mapsize                  = 250px
+| map_caption              = Location of Kenai, Alaska
+<!-- Coordinates -->
+| coordinates              = {{Coord|60|33|31|N|151|13|47|W|region:US-AK_type:city|display=inline,title}}
+| coordinates_footnotes    = 
+| subdivision_type = Country
+| subdivision_name         = {{flag|United States}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|Alaska}}
+| subdivision_type2        = [[List of boroughs and census areas in Alaska|Borough]]
+| subdivision_name2        = [[Kenai Peninsula Borough, Alaska|Kenai Peninsula]]
+| established_title        = [[Municipal corporation|Incorporated]]
+| established_date         = May 10, 1960<ref>{{Cite journal|title=Directory of Borough and City Officials 1974|journal=Alaska Local Government|volume=XIII|issue=2|page=45|location=Juneau|publisher=[[Alaska Department of Commerce, Community and Economic Development|Alaska Department of Community and Regional Affairs]]|date=January 1974}}</ref>
+| government_type          = 
+<!-- Government -->
+| government_footnotes     = 
+| leader_title             = [[Mayor]]
+| leader_name              = Brian Gabriel<ref>{{Cite book|title=2015 Alaska Municipal Officials Directory|location=Juneau|publisher=Alaska Municipal League|year=2015|page=83}}</ref>
+| leader_title1            = [[Alaska Senate|State senator]]
+| leader_name1             = [[Peter Micciche]] ([[Republican Party (United States)|R]])
+| leader_title2            = [[Alaska House of Representatives|State rep.]]
+| leader_name2             = ''Vacant''
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_02.txt|publisher=United States Census Bureau|access-date=June 30, 2020}}</ref>
+| area_total_km2           = 93.15
+| area_total_sq_mi         = 35.96
+| area_land_km2            = 75.47
+| area_land_sq_mi          = 29.14
+| area_water_km2           = 17.67
+| area_water_sq_mi         = 6.82
+<!-- Elevation -->
+| elevation_footnotes      = 
+| elevation_m              = 22
+| elevation_ft             = 72
+| population_footnotes     = <ref name="2010 Census">{{Cite web|url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US0238420|archive-url=https://archive.today/20200212111834/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US0238420|url-status=dead|archive-date=February 12, 2020|title=Kenai city, Alaska|work=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data|publisher=[[United States Census Bureau]]|access-date=January 22, 2013}}</ref>
+| population_total         = 7100
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 7807
+| pop_est_as_of            = 2019
+| population_density_km2   = 103.44
+| population_density_sq_mi = 267.91
+<!-- General information -->
+| timezone                 = [[Alaska Time Zone|Alaska (AKST)]]
+|utc_offset = &minus;9
+| timezone_DST             = AKDT
+|utc_offset_DST = &minus;8
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 99611, 99635
+| area_code_type           = [[North American Numbering Plan|Area code]]
+| area_code                = [[Area code 907|907]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|02|38420}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = {{GNIS4|1413299}}, {{GNIS4|2419407}}
+| website                  = {{URL|www.ci.kenai.ak.us}}
+}}

@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type      = town
+| name      = Katherine
+| state     = nt
+| image     = Main-Street-Katherine4888.jpg
+| caption   = '''Katherine''' <br/>Main Street
+| lga       = [[Town of Katherine]]
+| coordinates = {{coord|14|28|0|S|132|16|0|E|display=inline,title}}
+| postcode  = 0850, 0852
+| est       = 1926
+| pop       = 6,303
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=UCL714001 |name=Katherine (Urban Centre) |accessdate=18 December 2017 |quick=on}}</ref>
+| elevation = 108
+| maxtemp   = 34.2
+| mintemp   = 20.2
+| rainfall  = 1112.5
+| stategov  = [[Electoral division of Katherine|Katherine]]
+| fedgov    = [[Division of Lingiari|Lingiari]]
+| dist1     = 318
+| dir1      = S
+| location1 = [[Darwin, Northern Territory|Darwin]]
+| dist2     = 1185
+| dir2      = N
+| location2 = [[Alice Springs, Northern Territory|Alice Springs]]
+| dist3     = 516
+| dir3      = E
+| location3 = [[Kununurra, Western Australia|Kununurra]] ([[Western Australia|WA]])
+| dist4     = 273
+| dir4      = N
+| location4 = [[Daly Waters, Northern Territory|Daly Waters]]
+}}

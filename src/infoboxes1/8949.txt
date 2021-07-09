@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|P'yŏngsŏng}}
+| native_name             = {{lower|0.1em|{{nobold|평성시}}}}
+| native_name_lang        = ko
+| official_name           = 
+| settlement_type         = [[List of cities in North Korea|Municipal City]]
+|translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info    = {{linktext|평|성|시}}
+| translit_lang1          = Korean 
+| translit_lang1_type1    = [[Hancha]]
+| translit_lang1_info1    = {{linktext|平|城|市}}
+| translit_lang1_type2    = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info2    = P'yŏngsŏng-si
+| translit_lang1_type3    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3    = Pyeongseong-si
+| image_skyline           = Pyongsong-Street-2014.jpg
+| imagesize               = 
+| image_caption           = City centre
+| image_map               = DPRK2006 Pyongnam-Pyongsong.PNG
+| map_caption             = Map of South Pyongan showing the location of Pyongsong
+| mapsize                 = 
+| image_map1              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map             = North Korea
+| pushpin_map_caption     = Location within North Korea
+| coordinates              = {{Coord|39|15|N|125|51|E|display=inline,title|region:KP_type:city}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|North Korea}}
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[South Pyongan Province|South P'yŏngan]]
+| area_total_km2          = 
+| population_as_of        = 2008
+| population_total        = 284,386
+| population_density_km2  = 
+| population_blank1_title = Dialect
+| population_blank1       = [[Pyongan dialect|P'yŏngan]]
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 20 ''tong'', 14 ''ri''
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+}}

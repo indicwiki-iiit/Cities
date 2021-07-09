@@ -1,0 +1,88 @@
+{{Infobox settlement
+| name = Sausalito
+|official_name            = City of Sausalito
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Sausalito.jpg
+|imagesize                = 
+|image_caption            = Sausalito combines hillside with shoreline, as seen in this view from Bridgeway, the city's central street.
+|image_seal               = 
+|image_map                = Marin_County_California_Incorporated_and_Unincorporated_areas_Sausalito_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Marin County, California|Marin County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_label           = Sausalito
+| pushpin_map = San Francisco Bay Area#USA California Northern#USA California#USA
+| pushpin_map_caption = Location in the [[United States]]
+| pushpin_relief = 1
+|coordinates              = {{coord|37|51|33|N|122|29|07|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Marin County, California|Marin]]
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Joe Burns<ref>{{Cite web
+ | url = http://www.sausalito.gov/city-government/city-council
+ | title = City Council
+ | publisher = Sausalito, CA
+ | access-date = August 22, 2017}}</ref>
+|leader_title1            = [[California's 2nd State Senate district|State Senator]]
+|leader_name1             = {{Representative|casd|2|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=December 30, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title2            = [[California's 10th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|10|fmt=sleader}}<ref name=swd/>
+|leader_title3            = [[California's 2nd congressional district|U. S. Rep.]]
+|leader_name3             = {{Representative|cacd|2|fmt=usleader}}<ref>{{Cite GovTrack|CA|2|accessdate=March 8, 2013}}</ref>
+|leader_title4            = [[Marin County Board of Supervisors|Supervisor]]
+|leader_name4             = District 3<br />[[Kate Sears]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = September 4, 1893<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 2.26
+| area_land_sq_mi         = 1.76
+| area_water_sq_mi        = 0.49
+| area_total_km2          = 5.85
+| area_land_km2           = 4.57
+| area_water_km2          = 1.28
+| area_water_percent      = 21.54
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|277597|Sausalito|access-date=January 8, 2015}}</ref>
+|elevation_[[Foot (unit)|ft]]             = 10
+|elevation_m              = 3
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0670364.html|title=Sausalito (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 9, 2015}}</ref>
+|population_total         = 7061
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 7068
+|population_density_sq_mi = 4006.80
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Time Zone|PST]]
+|utc_offset_DST           = &minus;7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94965, 94966
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 415 and 628|415/628]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|70364}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277597}}, {{GNIS 4|2411834}}
+|website                  = {{URL|www.ci.sausalito.ca.us}}
+|population_density_km2 = 1547.02
+}}

@@ -1,0 +1,30 @@
+{{Infobox Australian place
+| type     = town
+| name     = Singleton
+| state    = nsw
+| image    = 
+| caption  = Location of Singleton in New South Wales (red)
+| coordinates = {{coord|32|34|0|S|151|10|11|E|display=inline,title}}
+| pop         = 16346
+| pop_year    = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| postcode    = 2330
+| elevation   = 40
+| dist1       = 197
+| dir1        = NNW
+| location1   = [[Sydney]]
+| dist2       = 80
+| dir2        = NW
+| location2   = [[Newcastle, New South Wales|Newcastle]]
+| dist3       = 47
+| dir3        = SE
+| location3   = [[Muswellbrook, New South Wales|Muswellbrook]]
+| lga         = Singleton Shire Council
+| county = [[Northumberland County, New South Wales|Northumberland]]
+| stategov    = [[Electoral district of Upper Hunter|Upper Hunter]]
+| fedgov      = [[Division of Hunter|Hunter]]
+| maxtemp     = 24.7
+| mintemp     = 11.1
+| rainfall    = 645.4
+| est         = 
+}}

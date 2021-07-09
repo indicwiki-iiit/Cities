@@ -1,0 +1,70 @@
+{{Infobox settlement
+|official_name            = Frankford, Delaware
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = <!-- Images -->
+|image_skyline            = Capt Ebe frankford SusCo DE.JPG
+|imagesize                = 
+|image_caption            = [[Capt. Ebe Chandler House]]
+|image_flag               = 
+|image_seal               = <!-- Maps -->
+|image_map                = File:Sussex County Delaware Incorporated and Unincorporated areas Frankford Highlighted 1028310.svg
+|mapsize                  = 260px
+|map_caption              = Location of Frankford in Sussex County, Delaware.
+| pushpin_map             = Delaware#USA
+| pushpin_label_position  = left
+| pushpin_label           = Frankford
+| pushpin_map_caption     = Location within the state of Delaware
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Delaware}}
+|subdivision_type2        = [[List of counties in Delaware|County]]
+|subdivision_name2        = {{flagicon image|Flag of Sussex County, Delaware.gif}} [[Sussex County, Delaware|Sussex]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = <!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_10.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|unit_pref  = Imperial
+|area_magnitude           = 
+|area_total_km2           = 1.89
+|area_land_km2            = 1.89
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 0.73
+|area_land_sq_mi          = 0.73
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 847
+|population_density_km2   = 522.82
+|population_density_sq_mi = 1353.91
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 33
+|coordinates              = {{coord|38|31|02|N|75|14|06|W|region:US-DE_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 19945
+|area_code                = [[Area code 302|302]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 10-28310
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 213980<ref>{{cite gnis|213980|Frankford}}</ref>
+|website                  = {{URL|https://frankford.delaware.gov/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 987
+}}

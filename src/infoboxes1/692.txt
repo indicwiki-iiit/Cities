@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name = El-Mahalla
+| native_name = المحلة الكبرى<br>
+ϯϣⲁⲓⲣⲓ
+| native_name_lang = ar
+| settlement_type = City <!-- images and maps  ----------->
+| image_skyline = {{Photomontage
+| photo1a= El Mahalla El Kobra gate.JPG
+| photo1b =  El-Mahalla El-Kubra-art.JPG
+| photo2a = Al Mahalah Al Kubra (Part 2), Al Mahalah Al Kubra, Gharbia Governorate, Egypt - panoramio - youssef alam (1).jpg
+| photo2b = انعكاسات المياة - نادى الصيد بالمحلة - panoramio.jpg
+| photo3a = 
+| size = 280
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_caption = '''Clockwise from top:''' <br>El Mahalla El Kobra gate, Mural at the entrance to the city, Mahalla Hunting Club, Night Panorama
+
+| imagesize = 
+| image_flag = 
+| image_seal = 
+| image_shield = 
+| nickname = 
+| motto = 
+| image_map = 
+| map_caption = 
+| pushpin_map = Egypt<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Egypt
+| coordinates = {{coord|30|58|07|N|31|09|49|E|region:EG|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name = [[Egypt]]
+| subdivision_type1 = [[Governorates of Egypt|Governorate]]
+| subdivision_name1 = [[Gharbia Governorate|Gharbia]]
+| subdivision_type2 = 
+| subdivision_name2 = 
+| established_title = <!-- Settled -->
+| established_date = 
+| named_for = "great ''[[mahallah]]''"
+| government_type = <!-- Politics ----------------->
+| government_footnotes = 
+| leader_title = 
+| leader_name = <!-- Area    --------------------->
+| area_footnotes = 
+| area_total_km2 = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2 = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| elevation_footnotes = <!--for references: use<ref> </ref>  tags-->
+| elevation_m = 26
+| elevation_ft = <!-- Population   ----------------------->
+| population_footnotes = 
+| population_total = 535278
+| population_as_of = 2012
+| population_density_km2 = auto
+| population_note = <!-- General information  --------------->
+| timezone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| timezone_DST = 
+| utc_offset_DST = <!-- Area/postal codes and others -------->
+| postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code = 
+| area_code = (+20) 40
+| website = 
+| footnotes = 
+}}

@@ -1,0 +1,32 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+| image_skyline     =  Fehérgyarmat - Temple.jpg
+| image_caption     = ''Aerial photo: Fehérgyarmat Church''
+|image_shield =HUN Fehérgyarmat Címer.svg
+|image_flag             = Flag of Fehérgyarmat.svg
+|coordinates            = {{coord|47|59|06|N|22|31|02|E|display=inline,title}}
+|pushpin_map            = Hungary Szabolcs-Szatmár-Bereg#Hungary
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Fehérgyarmat
+| subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name       = {{HUN}}
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Szabolcs-Szatmár-Bereg County|Szabolcs-Szatmár-Bereg]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Fehérgyarmat District|Fehérgyarmat]]
+|area_total_km2=52.46
+|population_as_of=2015
+|population_total=8089<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1 January 2015]''. Hungarian Central Statistical Office. 3 September 2015</ref>
+|population_density_km2=154.3
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=4900
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 44
+|website={{URL|fehergyarmat.hu}}
+}}

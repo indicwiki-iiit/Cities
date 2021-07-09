@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Simitli
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| image_skyline                   = Simitli-centre.jpg| map_caption                     = Location of Simitli|
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Simitli
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| native_name                     = Симитли|
+| subdivision_name1               = [[Blagoevgrad Province|Blagoevgrad]]
+| population_total                = 7454
+| population_footnotes            = 
+| population_as_of                = 2005-09-13
+| elevation_m                     = 323
+| postal_code                     = 2730
+| area_code                       = 0748
+| LicensePlate                    = E
+| coordinates                     = {{coord|41|53|N|23|7|E|region:BG|display=inline,title}}
+| leader_name                     = Apostol Apostolov|
+| name                            = 
+| settlement_type                 = Town
+}}

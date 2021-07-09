@@ -1,0 +1,73 @@
+{{Infobox settlement
+|name                          = {{raise|0.2em|Weinan}}
+|official_name                 = 
+|native_name                   = {{lower|0.1em|渭南市}}
+|native_name_lang = zh
+|settlement_type               = [[Prefecture-level city]]
+|total_type                    = <!-- to set a non-standard label for total area and population rows -->
+|image_skyline                 = WeiNan.JPG
+|image_caption                 = 
+|image_map                     = Location of Weinan Prefecture within Shaanxi (China).png
+|map_caption                   = Location of Weinan City jurisdiction in Shaanxi
+|coordinates                   = {{Coord|34.5206|N|109.4710|E|type:adm2nd_region:CN-61_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Weinan municipal government
+| subdivision_type = Country
+|subdivision_name              = [[China|People's Republic of China]]
+|subdivision_type1             = [[Provinces of China|Province]]
+|subdivision_name1             = [[Shaanxi]]
+|seat_type                     = Municipal seat
+|seat = [[Linwei District]]
+|established_title             = Settled
+|established_date              = 668 BC
+|parts_type                    = Divisions<br />[[County-level division|County-level]]:<br /><br /><br />[[Administrative divisions of China#Township level|Township-level]]:
+|parts                         = <br />[[List of administrative divisions of Shaanxi|2 district<br />2 county-level cities<br />7 counties]]<br />143 towns and villages
+<!-- Politics ----------------->
+|leader_title                  = [[Party chief of the Communist Party of China|CPC Ctte Secretary]]
+|leader_name                   = Li Mingyuan
+|leader_title1                 = Mayor
+|leader_name1                  = Li Yi
+<!-- Area    --------------------->
+|area_land_km2                 = 13134<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2                = 
+|area_water_percent            = 
+|area_metro_km2                = 
+|area_blank1_title             = 
+|area_blank1_km2               = 
+<!-- Elevation -------------------------->
+|elevation_footnotes           = <!--for references: use <ref> </ref> tags-->
+|elevation_m                   = 
+|elevation_max_m               = 
+|elevation_min_m               = 
+<!-- Population   ----------------------->
+|population_as_of              = 2010
+|population_footnotes          = 
+|population_note               = 
+|population_total              = 5520772
+|population_density_km2        = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro              = 
+|population_density_metro_km2  = 
+|area_urban_km2                = 78
+|area_urban_footnotes          = &nbsp;(2018)<ref name="demog14">{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|page=22}}</ref>
+| population_urban             = 660000
+| population_urban_footnotes   = &nbsp;(2018)<ref name="demog14"/>
+|population_density_urban_km2  = auto
+|population_blank1_title       = 
+|population_blank1             = 
+|population_density_blank1_km2 = 
+|population_demonym            = [[Guanzhong dialect]]
+|timezone                      = [[Time in China|China Standard]]
+|utc_offset                    = +8
+|postal_code_type              = [[List of postal codes in China|Postal code]]
+|postal_code                   = 714000
+|area_code                     = [[Telephone numbers in China|0913]]
+|iso_code                      = [[ISO 3166-2:CN|CN-SN-05]]
+|blank_name_sec1               = GDP
+|blank_info_sec1               = 2011
+|blank1_name_sec1              = &nbsp;- Total
+|blank1_info_sec1              = [[Renminbi|CNY]]1,119.0&nbsp;billion<br/>([[United States dollar|USD]]177.6&nbsp;billion) 
+|blank2_name_sec1              = &nbsp;- Per capita
+|blank2_info_sec1              = CNY19,424 <br/>(USD3,007)
+|blank4_name_sec1              = [[Vehicle registration plates of China|Licence plate]] prefixes
+|blank4_info_sec1              = {{lang|zh-cn|陕E}}
+|website                       = {{in lang|zh}} [http://www.weinan.gov.cn/ Weinan.gov.cn]<br />{{in lang|en}} [http://en.weinan.gov.cn/ EN.Weinan.gov.cn]
+}}

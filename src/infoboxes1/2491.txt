@@ -1,0 +1,84 @@
+{{Infobox settlement
+| name                            = Durban
+| native_name                     = {{Pad top italic|{{lang|zu|eThekwini}}}}
+| image_skyline                   = {{Photomontage
+| photo1a = Durban skyline.jpg
+| photo2a = Durban TownHall.jpg
+| photo2b = ZA-Durban-shaka-m-eing.jpg
+| photo3a = ICC Durban-20140315.jpg
+| photo3b = SunCoast Casino and Entertainment World.jpg
+| photo4a = Moses Mabhida Stadion durban aerial view 1.jpg
+| spacing = 2
+| color_border = white
+| color = white
+| size = 280
+| foot_montage = Clockwise from top left: Durban beachfront ([[Golden Mile, Durban|Golden Mile]]), Ushaka Marine World, [[Suncoast Casino and Entertainment World]], [[Moses Mabhida Stadium]], [[Inkosi Albert Luthuli International Convention Centre]] and Durban City Hall
+}}
+| image_flag                      = DurbanFlag.svg
+| image_shield                    = DurbanCoatOfArms.jpg
+| pushpin_map                     = South Africa KwaZulu-Natal#South Africa#Africa
+| coordinates                     = {{coord|29|53|S|31|03|E|region:ZA|display=inline,title}}
+| subdivision_type                = [[Country]]
+| subdivision_name                = [[South Africa]]
+| subdivision_type1               = [[Provinces of South Africa|Province]]
+| subdivision_name1               = [[KwaZulu-Natal]]
+| subdivision_type2               = [[District]]
+| subdivision_type3               = [[Municipality]]
+| subdivision_name3               = [[eThekwini Metropolitan Municipality|eThekwini]]
+| subdivision_type4               = Main Place
+| established_title               = Established
+| established_date                = 1880<ref name="established2">{{Cite web |url=https://www.scribd.com/document/291256918/Chronological-Order-of-Town-Establishment-in-South-Africa |title=Chronological Order of Town Establishment in South Africa |last=Evans |first=Owain}}</ref><ref name=established>{{cite web|title=Chronological order of town establishment in South Africa based on Floyd (1960:20–26)|url=http://upetd.up.ac.za/thesis/available/etd-07212011-123414/unrestricted/05back.pdf|pages=xlv–lii}}</ref>
+| named_for                       = [[Benjamin D'Urban]]
+| government_type                 = [[Metropolitan municipality (South Africa)|Metropolitan municipality]]
+| leader_party                    = ANC
+| leader_title                    = Mayor
+| leader_name                     = [[Mxolisi Kaunda]]
+| area_footnotes                  = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/599054 |title = Main Place Durban |work=Census 2011}}</ref>
+| area_total_km2                  = 225.91
+| area_metro_km2                  = 2292
+| population_footnotes            = <ref name="census2011" />
+| population_total                = 3720953
+| population_as_of                = 2018
+| population_density_km2          = auto
+| population_metro                = 3442361
+| population_density_metro_km2    = auto
+| population_metro_footnotes      = <ref name=statssa2011>{{Cite web |url=http://www.statssa.gov.za/?page_id=1021&id=ethekwini-municipality|title=Ethekwini|publisher=Statistics South Africa |access-date=2018-02-17}}</ref>
+| population_demonym              = Durbanite<ref name="McCrackenMcCracken">{{cite book|author1=Donal P. McCracken|author2=Eileen M. McCracken|title=Annals of Kirstenbosch Botanic Gardens|year=1988|url=https://books.google.com/books?id=x3gQAQAAMAAJ&q=Durbanite|publisher=National Botanic Gardens|page=72|isbn=9780620116480}}</ref>
+<!-- demographics (section 1) -->| demographics_type1              = Racial makeup (2011)
+| demographics1_footnotes         = <ref name="census2011" />
+| demographics1_title1            = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1             = 51.1%
+| demographics1_title2            = [[Coloureds|Coloured]]
+| demographics1_info2             = 8.6%
+| demographics1_title3            = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3             = 24.0%
+| demographics1_title4            = [[White South African|White]]
+| demographics1_info4             = 15.3%
+| demographics1_title5            = Other
+| demographics1_info5             = 0.9%
+<!-- demographics (section 2) -->| demographics_type2              = [[First language]]s (2011)
+| demographics2_footnotes         = <ref name="census2011" />
+| demographics2_title1            = [[South African English|English]]
+| demographics2_info1             = 49.8%
+| demographics2_title2            = [[Zulu language|Zulu]]
+| demographics2_info2             = 33.1%
+| demographics2_title3            = [[Xhosa language|Xhosa]]
+| demographics2_info3             = 5.9%
+| demographics2_title4            = [[Afrikaans]]
+| demographics2_info4             = 3.6%
+| demographics2_title5            = Other
+| demographics2_info5             = 7.6%
+<!-- blank fields (section 2) -->| blank_name_sec2                 = GDP
+| blank_info_sec2                 = [[American dollar|US$]] 83.9&nbsp;billion<ref name="brookingsgdp">{{cite web |url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global city GDP 2014 |publisher=Brookings Institution |access-date=18 November 2014 |url-status=dead |archive-url=https://web.archive.org/web/20130605135349/http://www.brookings.edu/research/interactives/global-metro-monitor-3 |archive-date=5 June 2013}}</ref>
+| blank1_name_sec2                = GDP per capita
+| blank1_info_sec2                = [[American dollar|US$]] 15,575<ref name="brookingsgdp" />
+<!-- Other information -->| timezone1                       = [[South African Standard Time|SAST]]
+| utc_offset1                     = +2
+| postal_code_type                = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code                     = 4001
+| postal2_code_type               = [[Post-office box|PO box]]
+| postal2_code                    = 4000
+| area_code_type                  = [[Telephone numbers in South Africa|Area code]]
+| area_code                       = [[031 (South Africa Calling Code)|031]]
+| website                         = {{url|http://www.durban.gov.za/ }}
+}}

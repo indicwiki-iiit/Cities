@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Douentza
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[Communes of Mali|Urban Commune]] and town
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Douentza. Mali.jpg
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Mali<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = Location in Mali
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Mali}}
+| subdivision_type1               = [[Regions of Mali|Region]]
+| subdivision_name1               = [[Mopti Region]]
+| subdivision_type2               = [[Cercles of Mali|Cercle]]
+| subdivision_name2               = [[Douentza Cercle]]
+| subdivision_type3               = 
+| subdivision_name3               = |<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = <ref name=USAID>{{citation | title=Plan de Sécurité Alimentaire Commune Urbaine de Douentza 2006-2010 | publisher=Commissariat à la Sécurité Alimentaire, République du Mali, USAID-Mali | year=2006 | url=http://www.aec.msu.edu/fs2/mali_fd_strtgy/plans/mopti/douentza/psa_douentza.pdf | language=fr | access-date=2012-04-22 | archive-url=https://web.archive.org/web/20120830043914/http://www.aec.msu.edu/fs2/mali_fd_strtgy/plans/mopti/douentza/psa_douentza.pdf | archive-date=2012-08-30 | url-status=dead }}.</ref>
+| area_total_km2                  = 154  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| population_as_of                = 2009 census
+| population_footnotes            = <ref name=pop2009>{{citation
+ |url=http://instat.gov.ml/documentation/mopti.pdf 
+ |publisher=République de Mali: Institut National de la Statistique 
+ |title=Resultats Provisoires RGPH 2009 (Région de Mopti) 
+ |language=fr 
+ |url-status=dead 
+ |archive-url=https://www.webcitation.org/6AnaIKCNv?url=http://instat.gov.ml/documentation/mopti.pdf 
+ |archive-date=2012-09-19 
+}}.</ref>
+| population_note                 = 
+| population_total                = 28005
+| population_density_km2          = auto
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_blank1_title         = Ethnicities
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone                        = [[Greenwich Mean Time]]
+| utc_offset                      = +0
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|15|0|N|2|57|W|region:ML|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 305
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = 
+| blank_info                      = 
+| blank1_name                     = 
+| blank1_info                     = 
+| website                         = 
+| footnotes                       = 
+}}

@@ -1,0 +1,48 @@
+{{Infobox Australian place 
+| type = town
+| name     = Cowell
+| state    = sa
+| image    = Main Street, Cowell, 2017 (02).jpg
+| caption  = Main Street, Cowell
+|coordinates = {{coord|33|41|0|S|136|55|0|E|display=inline,title}}
+| pushpin_label_position = right
+| pop      = 1069
+| pop_year = {{CensusAU|2011}}
+| pop_footnotes = <ref name="Census2011">{{Census 2011 AUS| id=SSC40137 |name=Cowell (State Suburb)| accessdate=9 April 2017|quick=on}}</ref>
+| pop2               = 942 (township)
+| pop2_year          = 2011
+| pop2_footnotes     = <ref name="Census2011a">{{Census 2011 AUS| id=UCL421008 |name=Cowell (Urban Centre)| accessdate=9 April 2017|quick=on}}</ref>
+| established = 28 October 1880 (town)<br/>23 December 1998  (locality)
+| established_footnotes = <ref name="LMV">{{cite web|title=Search results for 'Cowell, LOCB' with the following datasets selected - 'Suburbs and localities', 'Government Towns', 'Counties', 'SA Government Regions',  'Local Government Areas' and 'Gazetteeer'|url=http://location.sa.gov.au/viewer/|website=Location SA Map Viewer|publisher=South Australian Government|access-date=28 January 2018}}</ref>
+
+| postcode = 5602<ref name=postcode>{{cite web|title= Cowell, South Australia (Postcode) |url= http://www.postcodes-australia.com/areas/sa/country+south+australia/cowell  |publisher= postcodes-australia.com |access-date=9 April 2017}}</ref>
+| elevation= 3
+| dist1    = 209
+| dir1     = North-west
+| location1= Adelaide
+| dist2    = 153
+| dir2     = north-east
+| location2= Port Lincoln
+| dist3    = 92
+| dir3     = south-west
+| location3= Whyalla
+| lga      = District Council of Franklin Harbour<ref name="LMV"/>
+| region= [[Eyre Western]]<ref name=EW>{{cite web|title=Eyre Western SA Government region|url=http://www.sa.gov.au/__data/assets/pdf_file/0018/21249/Eyre_Western_SA_Government_region.pdf|publisher=The Government of South Australia|access-date=10 October 2014}}</ref>
+|county=[[County of Jervois|Jervois]]<ref name="LMV"/>
+| stategov = [[Electoral district of Giles|Giles]]
+| fedgov   = [[Division of Grey|Grey]]<ref name=AEC>{{cite web|title=Federal electoral division of Grey |url=http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-grey.pdf  |publisher=Australian Electoral Commission|access-date=24 July 2015}}</ref>
+| maxtemp   = 22.6
+| mintemp   = 11.5
+| rainfall  = 359.6
+| near-n = [[Miltalie, South Australia|Miltalie]]<br/>[[Minbrie, South Australia|Minbrie]]
+| near-ne  = [[Mitchellville, South Australia|Mitchellville]]	
+| near-e  =[[Mitchellville, South Australia|Mitchellville]]<br/>[[Lucky Bay, South Australia|Lucky Bay]]
+| near-se = ''[[Spencer Gulf]]''
+| near-s = ''[[Spencer Gulf]]''<br/> [[Port Gibbon, South Australia|Port Gibbon]]<br/>''[[Spencer Gulf]]''
+| near-sw = [[Arno Bay, South Australia|Arno Bay]]<br/>''[[Spencer Gulf]]''
+| near-w = [[Cleve, South Australia|Cleve]] <br/>[[Arno Bay, South Australia|Arno Bay]]
+| near-nw = [[Mangalo, South Australia|Mangalo]]	
+| footnotes  = Distances<ref name=postcode/><ref name="LMV"/><br/>Coordinates<ref name="LMV"/><br/>Climate<ref>{{cite web|title=Monthly climate statistics: Summary statistics CLEVE AERODROME (nearest weather station) 
+ |url= http://www.bom.gov.au/climate/averages/tables/cw_018116.shtml|publisher=Commonwealth of Australia, Bureau of Meteorology|access-date=9 April 2017}}</ref><br/>Adjoining localities<ref name="LMV"/>
+
+}}

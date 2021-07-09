@@ -1,0 +1,68 @@
+{{Infobox settlement
+|official_name            = Big Bear City
+|settlement_type          = [[Unincorporated town<!--not CDP, because that is ambiguous, and awkward-->]]
+|image_skyline            = Big Bear City.jpg
+|imagesize                = 
+|image_caption            = Looking west at corner of Big Bear Boulevard and Greenway in Big Bear City. This is where Highways 18 and 38 cross over.
+|image_seal               = 
+|image_map                = San_Bernardino_County_California_Incorporated_and_Unincorporated_areas_Big_Bear_City_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Bernardino County, California|San Bernardino County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|coordinates              = {{coord|34|15|40|N|116|50|42|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS>{{Cite GNIS|1660331|Big Bear City|access-date=November 12, 2014}}</ref>
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief          = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_date         =
+
+<!-- Area------------------>
+|total_type               = [[Census designated place|CDP]]
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+| area_total_sq_mi        = 31.97
+| area_land_sq_mi         = 31.95
+| area_water_sq_mi        = 0.02
+| area_total_km2          = 82.80
+| area_land_km2           = 82.76
+| area_water_km2          = 0.04
+| area_water_percent      = 0.05
+
+|elevation_footnotes      = <ref name=GNIS/>
+|elevation_ft             = 6772
+|elevation_m              = 2064
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 12304
+|population_metro         = 
+|population_density_km2   = NaN
+|population_density_sq_mi = NaN
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 92314, 92386
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 909|909]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|06406}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660331}}, {{GNIS 4|2407838}}
+|footnotes                = 
+|website                  = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|access-date=June 9, 2017}}</ref>
+|population_est = N/A
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name=Sainte-Catherine-de-la-Jacques-Cartier
+|settlement_type        = [[Types of municipalities in Quebec|City]]
+<!-- images, nickname, motto --->
+|image_skyline          = SCJC_2008-12-13.JPG
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|image_seal             = 
+|nickname               = 
+|motto                  = 
+ | image_map            = Sainte-Catherine-de-la-Jacques-Cartier Quebec location diagram.png
+ | map_caption          = Location within La Jacques-Cartier RCM.
+ | pushpin_map          = Canada Central Quebec
+ | pushpin_label_position = left
+ | pushpin_label        = 
+ | pushpin_map_caption  = Location in central Quebec.
+|coordinates            = {{coord|46|51|N|71|37|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+<!-- location ------------------>
+|subdivision_type  = Country
+|subdivision_name  = Canada
+|subdivision_type1 = [[Provinces and territories of Canada|Province]]
+|subdivision_name1 = [[Quebec]]
+|subdivision_type2 = [[List of regions of Quebec|Region]]
+|subdivision_name2 = [[Capitale-Nationale]]
+|subdivision_type3 = [[Regional county municipality|RCM]]
+|subdivision_name3 = [[La Jacques-Cartier Regional County Municipality|La Jacques-Cartier]]
+|established_title      = 
+|established_date = 
+|established_title1     = Constituted
+|established_date1      = July 1, 1855
+<!-- government type, leaders -->
+|government_footnotes = <ref name=mamrot>Ministère des Affaires municipales, des Régions et de l'Occupation du territoire - [http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/22005/ Répertoire des municipalités: Sainte-Catherine-de-la-Jacques-Cartier]</ref>
+|leader_title           = Mayor
+|leader_name            = Pierre Dolbec
+ | leader_title1        = [[List of Canadian federal electoral districts|Federal riding]]
+ | leader_name1         = [[Portneuf—Jacques-Cartier]]
+ | leader_title2        = [[List of Quebec provincial electoral districts|Prov. riding]]
+ | leader_name2         = [[La Peltrie (provincial electoral district)|La Peltrie]]
+<!-- area ---------------------->
+|area_footnotes           = <ref name="mamrot"/><ref name="cp2011"/>
+|area_magnitude         = 
+|area_total_km2          = 122.70
+|area_land_km2           = 121.20
+|area_water_km2          = 
+|area_water_percent      = 
+|area_urban_km2          = 
+|elevation_m            = 
+<!-- population ---------------->
+|population_footnotes = <ref name="cp2011">{{cite web|url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2422005&Geo2=PR&Code2=24&Data=Count&SearchText=Sainte-Catherine-de-la-Jacques-Cartier&SearchType=Begins&SearchPR=01&B1=All&Custom= |title= 2011 Community profiles - Sainte-Catherine-de-la-Jacques-Cartier|accessdate=2009-04-15|author=Statistics Canada|date= March 10, 2009}}</ref>
+|population_total       = 6319
+|population_as_of       = [[Canada 2011 Census|2011]]
+|population_density_km2 = 52.1
+|population_urban       = 
+|population_blank1_title= Pop&nbsp;<small>2006-2011</small>
+|population_blank1      = {{increase}} 25.9%
+|population_blank2_title= Dwellings
+|population_blank2      = 2582
+|population_note        = 
+<!-- time zone(s) -------------->
+ | timezone             = [[Eastern Time Zone|EST]]
+ | utc_offset           = −05:00
+ | timezone_DST         = EDT
+ | utc_offset_DST       = −04:00
+<!-- postal codes, area code --->
+ | postal_code_type     = [[Canadian postal code|Postal code(s)]]
+ | postal_code          = [[List of G postal codes of Canada|G3N]]
+ | blank_name           = Highways
+ | blank_info           = {{jct|state=QC|QC|367}} <br /> {{jct|state=QC|QC|369}}
+ | area_code            = [[Area codes 418 and 581|418 and 581]]
+ |website = {{URL|www.villescjc.com}}
+}}

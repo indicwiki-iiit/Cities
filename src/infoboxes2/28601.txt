@@ -1,0 +1,59 @@
+{{Infobox Australian place
+| type                     = town
+| name                     = Kimba
+| state                    = sa
+| image                    = Big Galah Kimba.jpg
+| caption                  = Big Galah
+| image_alt                = 
+| relief                   = 
+| coordinates              = {{coord|33.139565|S|136.41908|E|format=dms|display=inline,title}}
+| coord_ref =<ref name="LMV">{{cite web|title=Search results for 'Kimba, LOCB' with the following datasets selected - 'Suburbs and localities', 'Counties', 'Government Towns', 'Hundreds', 'Local Government Areas', 'SA Government Regions' and 'Gazetteer'|url= http://location.sa.gov.au/viewer/?map=roads&x=136.42482&y=-33.13483&z=14&uids=19,2,115,8,11,20,105&pinx=136.419080&piny=-33.139560&pinTitle=Location&pinText=Kimba,+Locb  |website=Location SA Map Viewer|publisher=South Australian Government|access-date=24 February 2020}}</ref>
+| pushpin_map_caption      = 
+| pushpin_label_position   = 
+| map_alt                  = 
+| pop                      = 629
+| pop_year                 = {{CensusAU|2016}}
+| pop_footnotes            = <ref name ="Census2016SSC">{{Census 2016 AUS|id = SSC40688  |name = Kimba  (State Suburb)|quick = on | access-date=24 February 2020}}</ref>  
+| poprank                  = 
+| density                  = 
+| density_footnotes        = 
+| established              = 29 April 1915 (town)<br/>6 May 1999 (locality)
+| established_footnotes    = <ref name="SAGG-1915">{{cite web |last1=Styles |first1=A.W. |title=Town of Kimba |url=http://www6.austlii.edu.au/au/other/sa_gazette/1915/18/1057.pdf |website=The South Australian Government Gazette |publisher=Government of South Australia |access-date=24 February 2020 |page=1057 |date=29 April 1929}}</ref><ref name="SAGG-1999">{{cite web|title=GEOGRAPHICAL NAMES ACT 1991 Notice to Assign Names and Boundaries to Places (within the District Council of Kimba) |url=http://www7.austlii.edu.au/au/other/sa_gazette/1999/58/2468.pdf |website=The South Australian Government Gazette|publisher= Government of South Australia | access-date=23 February 2020|page=2468 |date=6 May 1999}}</ref>
+ 
+| postcode                 = 5641<ref name=postcode>{{cite web|title= Postcode for Kimba, South Australia|url=https://postcodes-australia.com/areas/sa/country+south+australia/kimba |publisher=Postcodes Australia|access-date=24 February 2020}}</ref>
+| elevation                = 280
+| elevation_footnotes = weather station<ref name=climate/>
+| area                     = 
+| area_footnotes           =
+
+| timezone = [[UTC9:30|ACST]]
+| utc = +9:30
+| timezone-dst = [[UTC10:30|ACST]]
+| utc-dst = +10:30
+
+| dist1                    = 282
+| dir1                     = north-west
+| location1                = [[Adelaide city centre|Adelaide]]<ref name=postcode/>
+| lga                      = [[District Council of Kimba]]<ref name="LMV"/>
+| region = [[Eyre Western]]<ref name="LMV"/>
+| county = [[County of Buxton|Buxton]]<ref name="LMV"/> 
+| stategov  = [[Electoral district of Giles|Giles]]<ref name=ECSA>{{cite web|title= Giles (Electoral District Profile) |url= https://www.ecsa.sa.gov.au/electoral-districts/electoral-district-profiles?view=article&id=831:giles |publisher=Electoral Commission SA|access-date=23 February 2020}}</ref>	
+| fedgov = [[Division of Grey|Grey]]<ref name=AEC>{{cite web|title=Profile of the electoral division of Grey (SA) |url= https://www.aec.gov.au/profiles/sa/grey.htm |publisher=Australian Electoral Commission|access-date=23 February 2020}}</ref>
+ 
+| maxtemp                  = 23.6
+| maxtemp_footnotes        = <ref name=climate/>
+| mintemp                  = 11.4
+| mintemp_footnotes        = <ref name=climate/>
+| rainfall                 = 348.1
+| rainfall_footnotes       = <ref name=climate/>
+| near-n                   = [[Cortlinye, South Australia|Cortlinye]]<br/>[[Moseley, South Australia|Moseley]]
+| near-ne                  = [[Moseley, South Australia|Moseley]]
+| near-e                   = [[Kelly, South Australia|Kelly]]
+| near-se                  = [[Kelly, South Australia|Kelly]]
+| near-s                   = [[Solomon, South Australia|Solomon]]<br/>[[Kelly, South Australia|Kelly]]
+| near-sw                  = [[Solomon, South Australia|Solomon]]
+| near-w                   = [[Solomon, South Australia|Solomon]]
+| near-nw                  = [[Cortlinye, South Australia|Cortlinye]]
+
+| footnotes                = Adjoining localities<ref name="LMV"/>
+}}

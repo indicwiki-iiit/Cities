@@ -1,0 +1,58 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name = Kandahar
+| official_name                   = 
+| native_name                     = {{lang|ps|{{nq|کندهار}}}}
+| other_name                      = 
+| settlement_type                 = [[List of cities in Afghanistan|City]]
+<!-- images and maps  ----------->| image_skyline = {{Photomontage
+|photo1a = Kandahar City Aerial.jpg{{!}}Aerial view of Aino Mina in Kandahar
+|photo2a = Aerial photograph of Kandahar Province in 2011.jpg{{!}}Aerial photograph of an area near Kandahar
+|photo3a = Mausoleum of Baba Wali in 2011.jpg{{!}}Mausoleum of Baba Wali
+|size    = 275|border  = 0}}
+| image_caption                   = From top: Aerial view near the city; Aerial view of the old city; Mausoleum of Baba Wali Kandahari
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Afghanistan#West Asia#Asia
+| pushpin_relief                  = yes
+| pushpin_label_position          = above
+| pushpin_mapsize                 = 300px
+| pushpin_map_caption             = Location in Afghanistan
+| coordinates                     = {{coord|31|37|N|65|43|E|region:AF|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Afghanistan}}
+| subdivision_type1               = [[Provinces of Afghanistan|Province]]
+| subdivision_name1               = [[Kandahar Province|Kandahar]]
+| subdivision_type2               = [[Districts of Afghanistan|District]]
+| subdivision_name2               = [[Kandahar District|Kandahar]]
+| established_title               = 
+| established_date                = 
+| government_type                 = <!-- Politics ----------------->
+| government_footnotes            = 
+| leader_title                    = Mayor
+| leader_name                     = Mohammad Rafi Hayat
+<!-- Area    --------------------->| area_footnotes = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_km2                  = 273.37
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = 1010
+<!-- Population   ----------------------->| population_footnotes = 
+| population_total                = 651,484<ref name=nsia>{{cite web |url=https://www.nsia.gov.af:8080/wp-content/uploads/2021/06/Estimated-Population-of-Afghanistan1-1400.pdf |title=Estimated Population of Afghanistan 2021-22 |author=<!--Not stated--> |date=April 2021 |website= |publisher=National Statistic and Information Authority (NSIA) |access-date=June 21, 2021 |quote=}}</ref>
+| population_as_of                = 2021
+| population_density_km2          = auto
+| population_urban                = 
+| population_note                 = <!-- General information --------------->
+| timezone                        = Afghanistan Standard Time
+| utc_offset                      = +4:30
+| timezone_DST                    = 
+| utc_offset_DST                  = <!-- Area/postal codes & others -------->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| website                         = {{URL|www.kandahar.gov.af}}
+}}

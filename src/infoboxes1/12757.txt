@@ -1,0 +1,88 @@
+{{Infobox settlement
+|name                     = Monterey Park, California
+|settlement_type          = [[City (California)|City in California]]
+|official_name            = City of Monterey Park
+|nickname                 = 
+|motto                    = Pride in the Past, Faith in the Future
+|image_skyline            = Monterey Park January 2013 002.jpg
+|imagesize                = 
+|image_caption            = A busy section of Atlantic Boulevard
+|image_flag               = 
+|image_seal               = Seal of Monterrey Park, California.jpg
+|image_map                = LA County Incorporated Areas Monterey Park highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Monterey Park in [[Los Angeles County, California|Los Angeles County]], [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Los Angeles#California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_label = Monterey Park
+|coordinates              = {{coord|34|2|57|N|118|8|8|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 29, 1916<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council-Manager]]<ref name=term>{{cite web|url=http://www.montereypark.ca.gov/912/Term-of-Office|title=Term of Office|publisher=Monterey Park, CA|access-date=February 10, 2015}}</ref>
+|leader_title             = [[City council]]<ref name=cc>{{cite web
+ | url = http://www.montereypark.ca.gov/917/City-Council
+ | title = City Council
+ | publisher = Monterey Park, CA
+ | access-date = March 26, 2015}}</ref>
+|leader_name              = Hans Liang <br/> Peter Chan <br/> Fred Sornoso <br/> Yvonne Yiu <br/> Henry Lo
+<!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 7.73
+| area_land_sq_mi         = 7.67
+| area_water_sq_mi        = 0.06
+| area_total_km2          = 20.03
+| area_land_km2           = 19.87
+| area_water_km2          = 0.16
+| area_water_percent      = 0.79
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1652753|Monterey Park|access-date=October 16, 2014}}</ref>
+|elevation_ft             = 384
+|elevation_m              = 117
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0648914.html|title=Monterey Park (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 19, 2015|archive-url=https://web.archive.org/web/20150323002955/http://quickfacts.census.gov/qfd/states/06/0648914.html|archive-date=March 23, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_total         = 60269
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 59669
+|population_density_sq_mi = 7776.49
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Time Zone|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 91754-91756
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 323|323]], [[Area code 626|626]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|48914}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652753}}, {{GNIS 4|2411146}}
+|website                  = {{URL|www.montereypark.ca.gov}}
+|footnotes                = 
+|population_density_km2 = 3002.41
+}}

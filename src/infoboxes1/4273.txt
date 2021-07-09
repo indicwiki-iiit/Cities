@@ -1,0 +1,79 @@
+{{Infobox settlement
+| official_name            =
+| name                     = Ciudad López Mateos
+| other_name               =
+| native_name              = <!-- for cities whose native name is not in English -->
+| nickname                 =
+| settlement_type          = Town
+| total_type               = 
+| motto                    =
+<!-- images and maps  ----------->
+| image_skyline            = Atizapan ciudad.JPG
+| image_caption            =
+| image_flag               =
+| image_seal               =
+| image_shield             =
+| image_map                = 
+| map_caption              = Location of Atizapán de Zaragoza in the State of Mexico
+|pushpin_map            = Mexico State of Mexico#Mexico<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =above
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Mexico
+<!-- Location ------------------>
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{MEX}}
+| subdivision_type1        = [[States of Mexico|State]]
+| subdivision_name1        = [[File:Flag of the State of Mexico.svg|State of Mexico|23px]] [[State of Mexico]]
+----
+| subdivision_type2        = [[Regions of the State of Mexico|Region]]
+| subdivision_name2        = [[Region XII (Mexico State)|Tlalnepantla]]
+| subdivision_type3        = Municipality
+| subdivision_name3        = [[Atizapán de Zaragoza]]
+| subdivision_type4        = Metro area
+| subdivision_name4        = [[Greater Mexico City]]
+<!-- History ------------------>
+| established_title        = Municipal Status
+| established_date         = September 3, 1874<ref name=csac>{{cite web |url= http://www.inafed.gob.mx/work/enciclopedia/EMM15mexico/municipios/15013a.html |title= Enciclopedia de los Municipios y Delegaciones de México |publisher= Instituto Nacional para el Federalismo y el Desarrollo Municipal|accessdate=August 27, 2015}}</ref>
+<!-- Parts -------------------->
+| seat_type                = 
+| seat                     = 
+<!-- Politics ----------------->
+| government_footnotes     =
+| government_type          = 
+| leader_title             = 
+| leader_name              = 
+<!-- Area    --------------------->
+| unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes           =
+| area_total_km2           = 91.07
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2           = 0.31
+| area_water_percent       =
+<!-- Population   ----------------------->
+| population_as_of         = 2010 Census
+| population_footnotes     = &nbsp;
+| population_note          =
+| population_total         = 489,937
+| population_density_km2   =
+| population_blank1_title  = City
+| population_blank1        = 489160 
+| population_blank2        =
+<!-- General information  --------------->
+| timezone            = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+| utc_offset          = -6
+| timezone_DST        = Central
+| utc_offset_DST      = -5
+| coordinates              = {{coord|19|33|40|N|99|14|49|W|region:MX|display=inline}}
+| elevation_point     = of seat
+| elevation_m         = 2280
+<!-- Area/postal codes & others -------->
+| postal_code_type    = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code         = 52975
+| area_code           = 55
+| blank_name          = 
+| blank_info          = 
+| blank1_name         = [[Demonym]]
+| blank1_info         = Atizapense
+| website             = {{Official website|http://www.atizapan.gob.mx}} {{in lang|es}}
+| footnotes           =
+}}

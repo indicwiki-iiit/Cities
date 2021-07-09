@@ -1,0 +1,81 @@
+{{Infobox settlement
+| name                            = Wilmington, Delaware
+| official_name                   = City of Wilmington
+| settlement_type                 = [[List of municipalities in Delaware|City]]
+| named_for                       = [[Spencer Compton, 1st Earl of Wilmington]]
+| nickname                        = Corporate Capital of the World, Chemical Capital of the World
+| motto                           = In the middle of it all<ref>{{cite news|title=New signs welcome folks to Delaware's largest city|date=December 7, 2012|last=Min|first=Shirley|url=http://www.newsworks.org/index.php/local/delaware-feature/48043-new-signs-welcome-folks-to-delawares-largest-city|work=[[WHYY-FM]] News|access-date=2016-03-17|archive-url=https://web.archive.org/web/20160305045231/http://www.newsworks.org/index.php/local/delaware-feature/48043-new-signs-welcome-folks-to-delawares-largest-city|archive-date=March 5, 2016|url-status=live}}</ref>
+| etymology                       = Named after [[Spencer Compton, 1st Earl of Wilmington|Spencer Compton]], [[Earl of Wilmington]]
+
+<!-- Images -->| image_skyline                   = Wilmington Delaware skyline.jpg
+| imagesize                       = 
+| image_caption                   = Downtown Wilmington and the [[Christina River]]
+| image_flag                      = Flag of the City of Wilmington.png
+| image_seal                      = Delaware-wilmington-seal.jpg
+
+<!-- Maps -->| image_map                       = File:New Castle County Delaware Incorporated and Unincorporated areas Wilmington Highlighted 1077580.svg
+| mapsize                         = 300px
+| map_caption                     = Location within New Castle County
+| pushpin_map                     = Delaware#USA#North America
+| pushpin_label_position          = 
+| pushpin_label                   = Wilmington
+| pushpin_map_caption             = Location within Delaware##Location within the United States
+| pushpin_relief                  = Yes
+| subdivision_type                = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Delaware]]
+| subdivision_type2               = [[List of counties in Delaware|County]]
+| subdivision_name2               = [[New Castle County, Delaware|New Castle]]
+| government_footnotes            = 
+| government_type                 = [[Council-mayor government|Council-mayor]]
+| leader_title                    = [[List of mayors of Wilmington, Delaware|Mayor]]
+| leader_name                     = [[Mike Purzycki]] ([[Democratic Party (United States)|D]])
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = Founded
+| established_date                = March 1638
+| established_title1              = Incorporated
+| established_date1               = 1731
+| established_title2              = Borough Charter
+| established_date2               = 1739
+| established_title3              = City Charter
+| established_date3               = March 7, 1832
+
+<!-- Area -->| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_10.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| unit_pref                       = Imperial
+| area_magnitude                  = 
+| area_total_sq_mi                = 17.19
+| area_land_sq_mi                 = 10.89
+| area_water_sq_mi                = 6.29
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 70851
+| population_rank                 = US: 483rd
+| population_metro                = 6,069,875 (US: [[List of Metropolitan Statistical Areas|8th]])<ref name=2015MSAest>{{cite web|url=https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2015_PEPANNCHG.US24PR&prodType=table|title=Estimates of Resident Population Change and Rankings: July 1, 2014 to July 1, 2015 - United States -- Metropolitan Statistical Area; and for Puerto Rico|publisher=U.S. Census Bureau|access-date=January 9, 2017|archive-url=https://archive.today/20200214061703/https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2015_PEPANNCHG.US24PR&prodType=table|archive-date=February 14, 2020|url-status=dead}}</ref>
+| population_density_sq_mi        = 6440.20
+| timezone                        = [[Eastern Time Zone|EST]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_ft                    = 92
+| coordinates                     = {{coord|39|44|45|N|75|32|48|W|region:US-DE_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 19801-19810, 19850, 19880, 19884-19886, 19890-19899
+| area_code                       = [[Area code 302|302]]
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 10-77580
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 214862<ref>{{cite gnis|214862|Wilmington}}</ref>
+| website                         = [http://www.ci.wilmington.de.us/ ci.wilmington.de.us]
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 70166
+| area_total_km2                  = 44.52
+| area_land_km2                   = 28.22
+| area_water_km2                  = 16.30
+| population_density_km2          = 2486.54
+}}

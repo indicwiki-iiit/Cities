@@ -1,0 +1,79 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = East Windsor, Connecticut
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = Town
+<!-- images and maps  ----------->
+| image_skyline          = Broad Brook dam and opera house.JPG
+| image_caption          = The dam and Opera House in the [[Broad Brook]] section of town
+| image_flag             = 
+| image_seal             = EastWindsorCTseal.png
+| image_shield           = 
+| nickname               = East Side
+| motto                  = Unity, Strength
+| image_map              = E Windsor CT lg.PNG
+| mapsize                = 250x200px
+| map_caption            = East Windsor's location in Hartford County, Connecticut
+<!-- Location ------------------>
+| coordinates            = {{coord|41|55|00|N|72|33|28|W|region:US-CT|display=inline,title}}
+| subdivision_type       = [[Country]]
+| subdivision_name       = {{flag|United States}}
+| subdivision_type1      = [[U.S. state]]
+| subdivision_name1      = {{flag|Connecticut}}
+| subdivision_type2      = [[County (United States)|County]]
+| subdivision_name2      = [[Hartford County, Connecticut|Hartford]]
+| subdivision_type3      = [[New England city and town area|NECTA]]
+| subdivision_name3      = [[Springfield metropolitan area, Massachusetts|Springfield]]
+| subdivision_type4      = [[List of regions of the United States#Connecticut|Region]]
+| subdivision_name4      = [[Capitol Region (Connecticut)|Capitol Region]]
+| parts_type             = Villages
+| parts                  = [[Broad Brook, Connecticut|Broad&nbsp;Brook]]<br>Melrose<br>Scantic<br>Warehouse&nbsp;Point<br>Windsorville
+<!-- Politics ----------------->
+| established_title      = [[Settled]]
+| established_date       = 1680
+| established_title2     = [[Municipal corporation|Incorporated]]
+| established_date2      = 1768
+| government_type        = [[Board of selectmen|Selectman-town meeting]]
+| government_footnotes   = 
+| leader_title           = [[First Selectman]]
+| leader_name            = Jason E. Bowsza (D)
+| leader_title1          = Selectmen
+| leader_name1           = Marie DeSousa (D)<br/>Alan Baker (D)<br/>Sarah Muska (R)<br/>Charlie Nordell (R)
+<!-- Area    --------------------->
+| unit_pref              = Imperial
+| area_footnotes         =
+| area_magnitude         = 1 E9
+| area_total_km2         = 69.5
+| area_land_km2          = 68.0
+| area_water_km2         = 1.5
+| area_water_percent     = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 22
+| elevation_ft           = 72
+<!-- Population   ----------------------->
+| population_footnotes   = <ref>{{Cite web |url=http://2010.census.gov/2010census/popmap/ipmtext.php?fl=09 |title=Archived copy |access-date=2012-04-30 |archive-url=https://archive.today/20120707031039/http://2010.census.gov/2010census/popmap/ipmtext.php?fl=09 |archive-date=2012-07-07 |url-status=dead }}</ref>
+| population_total       = 11162
+| population_as_of       = 2010
+| population_density_km2 = auto
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Eastern Time Zone (North America)|Eastern]]
+| utc_offset             = -5
+| timezone_DST           = [[Eastern Time Zone (North America)|Eastern]]
+| utc_offset_DST         = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type       = ZIP Codes
+| postal_code            = 06016, 06088
+| area_code              = [[Area code 860|860]]
+| blank_name             = [[Federal Information Processing Standard|FIPS code]]
+| blank_info             = 09-24800
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info            = 0212329
+|blank3_name            = Major highways
+| blank3_info            = [[File:US 5.svg|25px|link=U.S. Route 5 in Connecticut]] [[File:I-91.svg|25px|link=Interstate 91 in Connecticut]]
+| blank4_name                     = U.S. Routes
+| blank4_info                     = [[File:Connecticut Highway 191.svg|25px|link=Connecticut Route 191]]
+| website                = {{URL|www.eastwindsor-ct.gov}}
+}}

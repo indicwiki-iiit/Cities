@@ -1,0 +1,32 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Dengta}}
+|official_nam = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|灯塔市}}}}}}
+|postal_code_type = [[Postal code of China|Postal code]]
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = ChinaLiaoyangDengta.png
+|map_caption = Location in Liaoyang
+|subdivision_type = Country
+|subdivision_name = [[People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Liaoning]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Liaoyang]]
+| area_total_km2          = 1166.0 
+| area_urban_km2          = 127.00 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_total        = 442000
+| population_as_of        = 2017
+| population_urban        = 109600
+| population_footnotes = <ref name="CUCSY_2017"/>
+|population_density_km2 = auto
+|pushpin_map = China Liaoning
+|pushpin_map_caption = Location in Liaoning
+|coordinates = {{coord|41|26|N|123|20|E|type:adm3rd_region:CN-21|display=inline,title}}
+|elevation_ft = 143
+|elevation_m = 44
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website =
+}}

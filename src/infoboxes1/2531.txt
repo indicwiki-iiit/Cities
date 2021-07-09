@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                    = Oudtshoorn
+| image_skyline           = {{Photomontage
+| photo1a                   = View_of_Oudtshoorn,_South_Africa.jpg
+| photo2a                   = ZA-WC-oudtshoorn-cp-nel-museum.jpg
+| photo2b                   = St Jude's Church Oudtshoorn.JPG 
+| photo3a                   = Oudtshoorn Ostriches - Garden Route, South Africa (3919286396).jpg
+| photo3b                   = Cango caves 01.jpg
+| spacing                   = 1
+| color_border              = white
+| color                     = white
+| size                      = 300
+| foot_montage              = {{resize|114%|From top, View of Oudtshoorn. [[CP Nel Museum]] (centre left). St Jude's Church (centre right). Ostriches being raised on the outskirts of Outshoorn (bottom left). [[Cango Caves]] (bottom right).}}
+}}
+| image_caption           = 
+| pushpin_map             = South Africa Western Cape#South Africa#Africa
+| coordinates             = {{coord|33|35|S|22|12|E|region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]] 
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]] 
+| subdivision_name1       = [[Western Cape]]
+| subdivision_type2       = [[List of districts of South Africa|District]] 
+| subdivision_name2       = [[Garden Route District Municipality|Garden Route]]
+| subdivision_type3       = [[List of municipalities of South Africa|Municipality]] 
+| subdivision_name3       = [[Oudtshoorn Local Municipality|Oudtshoorn]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1857<ref name=established>{{cite web|title=Chronological order of town establishment in South Africa based on Floyd (1960:20-26)|url=http://upetd.up.ac.za/thesis/available/etd-07212011-123414/unrestricted/05back.pdf|pages=xlv-lii}}</ref>
+| leader_title            = Councillor
+| area_footnotes          = <ref name=census2011>Sum of the Main Places [http://census2011.adrianfrith.com/place/178004 Oudtshoorn], [http://census2011.adrianfrith.com/place/178005 Bongolethu] and [http://census2011.adrianfrith.com/place/178006 Bridgeton] from Census 2011.</ref>
+| area_total_km2          = 37.6
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 61507
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name=census2011 />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 12.5%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 70.9%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 0.4%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 15.3%
+| demographics1_title5    = Other
+| demographics1_info5     = 1.0%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name=census2011 />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 87.8%
+| demographics2_title2    = [[Xhosa language|Xhosa]]
+| demographics2_info2     = 7.4%
+| demographics2_title3    = [[English language|English]]
+| demographics2_info3     = 2.6%
+| demographics2_title4    = Other
+| demographics2_info4     = 2.2%
+| demographics2_title5    = 
+| demographics2_info5     = 
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 6625
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 6620
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 044
+}}

@@ -1,0 +1,97 @@
+{{Infobox settlement
+|name = Rogersville, Tennessee
+|official_name = Town of Rogersville
+|settlement_type = [[Town]]
+|nickname = 
+|motto = 
+
+<!-- Images -->
+|image_skyline = Rogersville TN.jpg
+|image_caption = Downtown Rogersville in June 2020
+|image_flag = 
+|image_seal = 
+
+<!-- Maps -->
+|image_map = File:Hawkins County Tennessee Incorporated and Unincorporated areas Rogersville Highlighted 4764820.svg
+|mapsize = 250x200px
+|map_caption = Location in Hawkins County, Tennessee
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+
+<!-- Location -->
+|subdivision_type = Country
+|subdivision_name = United States
+|subdivision_type1 = State
+|subdivision_name1 = [[Tennessee]]
+|subdivision_type2 = [[List of counties in Tennessee|County]]
+|subdivision_name2 = [[Hawkins County, Tennessee|Hawkins]]
+
+<!-- Government -->
+|government_footnotes = <ref name="mtas">{{cite web |title=Rogerville |url=http://www.mtas.tennessee.edu/city/rogersville |website=Municipal Technical Advisory Service |publisher=[[University of Tennessee]] |access-date=October 17, 2020}}</ref>
+|government_type = [[Mayor-council government|Mayor-council]]
+|leader_title = [[List of mayors of Rogersville, Tennessee|Mayor]]
+|leader_name = Jim Sells ([[Republican Party (United States)|R]])
+|leader_title1 = [[Vice Mayor]]
+|leader_name1 = Brian Hartness
+|leader_title2 = [[Town Council]]
+|leader_name2 = {{Collapsible list
+|title = Aldermen
+|frame_style = border:none; padding: 0;
+|list_style = text-align:left;display:none;
+|1 = Brian Hartness (also Vice Mayor)
+|2 = Mark DeWitte
+|3 = Eloise Edwards
+|4 = Bill Henderson
+|5 = Craig Kirkpatrick
+|6 = Sondra Price
+}}
+|established_title = Settled
+|established_date = 1775
+|established_title2 = Founded
+|established_date2 = 1789
+|established_title3 = [[Municipal corporation|Incorporated]]
+|established_date3 = 1903<ref>''[http://www.state.tn.us/sos/bluebook/05-06/48-data.pdf Tennessee Blue Book]'', 2005–2006, pp. 618–625.</ref>
+|named_for = [[Joseph Rogers (pioneer)|Joseph Rogers]]
+
+<!-- Area -->
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+|area_magnitude = 
+|area_total_km2 = 9.73
+|area_land_km2 = 9.73
+|area_water_km2 = 0.00
+|area_total_sq_mi = 3.76
+|area_land_sq_mi = 3.76
+|area_water_sq_mi = 0.00
+
+<!-- Population -->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_total = 4420
+|population_density_km2 = 449.62
+|population_density_sq_mi = 1164.41
+|population_urban = 6390<ref name="urbanarea">{{cite web |title=Rogersville, TN Urban Cluster |url=https://censusreporter.org/profiles/40000US76069-rogersville-tn-urban-cluster/ |website=Census Reporter |access-date=October 25, 2020}}</ref>
+
+<!-- General information -->
+|timezone = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = −5
+|timezone_DST = EDT
+|utc_offset_DST = −4
+|elevation_footnotes = <ref name="GNIS"/>
+|elevation_m = 400
+|elevation_ft = 1312
+|coordinates = {{coord|36|25|N|83|0|W|region:US_type:city|display=inline,title}}
+|postal_code_type = [[ZIP code]]
+|postal_code = 37857
+|area_code = [[Area code 423|423]]
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 47-64820<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info = 2407236<ref name="GNIS"/>
+|website = {{url|http://townofrogersville.com/}}
+|footnotes = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4377
+}}

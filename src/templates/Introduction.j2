@@ -1,0 +1,61 @@
+{%- macro intro() -%}
+
+	{%- if country_name != "None" -%}
+	'''{{city_name}}''' ({{en_city_name}}) నగరం {{country_name}} {%- if is_country_capital !="0"-%}{{" "}}దేశ రాజధాని {%- else -%}{{" "}} దేశం లో ఉంది {%- endif -%}.
+	{%- endif -%}
+
+	{%- set continent_line=[
+						'ఈ నగరం '+ continent_name +' ఖండంలో ఉన్న ముఖ్య నగరాలలో ఒకటి.',
+						'ఇది '+continent_name+' ఖండానికి చందిన ముఖ్య నగరాలలో ఒకటి.'
+					] | random
+	-%}
+
+	{%- if continent_name != "None" -%}
+	{{" "}}{{continent_line}} 
+	{%- endif-%}
+
+	{%- set founder_line =[
+						'ఈ నగరాన్ని '+ founder +' నిర్మించారు.' ,
+						'ఈ నగరం '+founder+' చే నిర్మించబడినది.' 
+					] | random
+	-%}
+
+	{%- if founder!="None"-%}
+	{{" "}}{{founder_line}}
+	{%-endif-%}
+
+	{%- if is_state_capital !="0" and state_name != "None" -%}
+	{{" "}}{{city_name}}, {{state_name}} రాష్ట్ర రాజధాని.
+	{%- elif state_name != "None" -%}
+	{{" "}}{{city_name}}, {{state_name}} రాష్ట్రం లో ఉంది.
+	{%- endif -%}
+
+	{%- set area_line=[
+						'ఈ నగరం '+ area +' చదరపు కిలోమీటర్ల విస్తీర్ణంలో ఉంది.',
+						'ఈ నగరం సుమారు '+ area + ' చదరపు కిలోమీటర్ల విస్తీర్ణంలో ఉంది.',
+						'ఈ నగరం ' +  area + ' చదరపు కిలొమీటర్ల వైశాల్యం కలిగి ఉంది.',
+						'ఈ నగర విస్తీర్ణత '+area+' చదరపు కిలోమీటర్లు.' 
+						] | random
+	-%}
+
+	{%- if area!="None"-%}
+	 {{" "}}{{area_line}}
+	{%- endif -%}
+
+	{%- if elevation !="None" -%}
+	{{" "}}{{city_name}} సముద్ర మట్టానికి {{elevation}} అడుగుల ఎత్తులో ఉంది.
+	{%- endif -%}
+
+	{%- if other_names != "None" -%}
+	{{" "}}ఈ నగరాన్ని {{other_names}} అని కూడా పిలుస్తారు.
+	{%- endif-%}
+
+	{%- if GWCR_ranking != "None" -%}
+	{{" "}} [[:en:Globalization and World Cities Research Network | గ్లోబలైజేషన్ అండ్ వరల్డ్ సిటీస్ రీసెర్చ్ నెట్వర్క్ ]] ఈ  నగరానికి {{GWCR_ranking}} హోదా ను ఇచ్చింది.  
+	{%- endif -%}  
+
+{%- endmacro -%}
+
+{# Function Calls Below #}
+
+{{- intro() -}}

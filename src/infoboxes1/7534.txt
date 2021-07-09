@@ -1,0 +1,45 @@
+{{Infobox settlement
+| name                  = Haifa
+| native_name           = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|חֵיפָה}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|حيفا}}|rtl=yes}}
+ }}
+| settlement_type       = [[List of cities in Israel|City]] 
+| image_skyline         = Pic haifa.png
+| image_caption         = '''From upper left:''' Night view of Haifa from [[Mount Carmel]]; [[Baháʼí World Centre]]; aerial view of the [[Haifa University]]; [[Ahmadiyya]] [[Mahmood Mosque, Haifa|Mahmood Mosque]]; the [[Carmelit]]; [[Israel National Museum of Science, Technology, and Space|National Museum of Science, Technology, and Space]]; day view of Haifa from Mount Carmel.
+| image_flag            = Flag of Haifa.svg
+| image_blank_emblem    = [[File:Haifa coa.svg|60px]]
+| blank_emblem_type     = Coat of arms
+| image_map             = Printable_map_haifa_israel_g_view_level_12_eng_svg.svg
+| mapsize               = 250px
+| map_caption           = Map of Haifa
+| pushpin_map_alt=
+| pushpin_map           = Israel north haifa#Israel
+| pushpin_mapsize=
+| pushpin_label_position= left
+| pushpin_map_caption   = Location in Israel
+| coordinates           = {{coord|32|49|0|N|34|59|0|E|region:IL|format=dms|display=inline,title}}
+| grid_name             = Grid&nbsp;position
+| grid_position         = 145/246 [[Palestine grid|PAL]]
+| subdivision_type      = [[List of sovereign states|Country]]
+| subdivision_name=
+{{Flagu|Israel}}
+| subdivision_type1=
+| subdivision_name1=
+| subdivision_type2     = [[Districts of Israel|District]]
+| subdivision_name2=
+{{flag|Haifa District|name=Haifa}}
+| established_title     = Founded
+| established_date      = 1st century CE
+| leader_title          = Mayor
+| leader_name           = [[Einat Kalisch-Rotem]]
+| unit_pref             = dunam
+| area_total_dunam      = {{formatnum:63666|R}}
+| population_footnotes  = {{Israel populations|reference}}
+| population_total      = {{Israel populations|Haifa}}
+| population_urban      = 600,000
+| population_metro      = 1,050,000
+| population_as_of      = {{Israel populations|Year}}
+| population_density_km2= auto
+| website               = {{URL|http://www.haifa.muni.il/English/Pages/default.aspx|www.haifa.muni.il}}
+}}

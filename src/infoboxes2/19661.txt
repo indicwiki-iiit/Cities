@@ -1,0 +1,74 @@
+{{Infobox settlement
+| official_name                   = Pickerington, Ohio
+| settlement_type                 = [[City]]
+| nickname                        = Picktown, Violet Capital of Ohio, The Purple City
+| motto                           = <!-- Images -->
+| image_skyline                   = Ohio - Pickerington.jpg
+| image_caption                   = The welcome sign located on [[Ohio State Route 256|Hill Road]]
+| imagesize                       = 
+| image_flag                      = 
+| image_seal                      = PickeringtonSeal.png
+
+<!-- Maps -->| mapsize                         = 250px
+| map_caption                     = Location within Ohio (Fairfield County)
+| image_map1                      = Map of Fairfield County Ohio Highlighting Pickerington City.png
+| mapsize1                        = 250px
+| map_caption1                    = Location of Pickerington in Fairfield County
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_type2               = [[List of counties in Ohio|Counties]]
+| subdivision_name2               = [[Fairfield County, Ohio|Fairfield]], [[Franklin County, Ohio|Franklin]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = [[Mayor-council government#Strong-mayor, or executive, form|Mayor-council-manager]]
+| leader_title                    = Mayor
+| leader_name                     = Lee A. Gray
+| leader_title1                   = City Manager
+| leader_name1                    = Greg Butcher
+| established_title               = Founded
+| established_date                = 1815
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 25.50
+| area_land_km2                   = 25.50
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 9.85
+| area_land_sq_mi                 = 9.85
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 22158
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 18291
+| population_density_km2          = 868.97
+| population_density_sq_mi        = 2250.69
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_m                     = 255
+| elevation_ft                    = 837
+| coordinates                     = {{coord|39|53|32|N|82|45|50|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 43147
+| area_code                       = [[Area code 614|614]] and [[Area code 380|380]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-62498<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1061537<ref name="GR3" />
+| website                         = {{URL|https://www.ci.pickerington.oh.us/}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| pushpin_map                     = Ohio#USA#North America
+| pushpin_map_caption             = Location within Ohio (Fairfield County)
+| pushpin_label                   = Pickerington
+| pushpin_relief                  = Yes
+}}

@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = International Falls
+|settlement_type          = [[City]]
+|nickname                 = Icebox of the Nation,<br>Frostbite Falls
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = International Falls, Minnesota 1.jpg
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_International_Falls_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of International Falls<br>within [[Koochiching County, Minnesota|Koochiching County]] and the U.S. state of [[Minnesota]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|coordinates              = {{coord|48|35|30|N|93|24|19|W|region:US-MN_type:city_source:GNIS|display=inline,title}}
+|coordinates_footnotes    = <ref name="GNIS">[http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:645435 Geographic Names Information System (GNIS) details for International Falls, Minnesota; United States Geological Survey (USGS); January 11, 1980.]</ref>
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Koochiching County, Minnesota|Koochiching]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Harley M. Droba
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.63
+|area_land_km2            = 16.60
+|area_water_km2           = 0.03
+|area_total_sq_mi         = 6.42
+|area_land_sq_mi          = 6.41
+|area_water_sq_mi         = 0.01
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 1131 (344m)
+|elevation_m              = 342
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5811
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 6424
+|population_density_km2   = 350.09
+|population_density_sq_mi = 906.69
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = &minus;6
+|timezone_DST             = [[Central Daylight Time|CDT]]
+|utc_offset_DST           = &minus;5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 56649
+|area_code                = [[Area code 218|218]] Exchanges: 283, 285
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-31040 <ref name="GNIS"/>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0645435 <ref name="GNIS"/>
+|website                  = [http://www.ci.international-falls.mn.us/ City Website]
+|footnotes                = 
+}}

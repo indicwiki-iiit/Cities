@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                     = Yreka, California
+|settlement_type          = [[City (California)|City]]
+|official_name            = City of Yreka
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+|image_skyline            = Yreka, California in summer 2011 (3).JPG
+|imagesize                = 250x200px
+|image_caption            = Downtown Yreka in 2011
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = 
+|motto                    = 
+|image_map                = Siskiyou_County_California_Incorporated_and_Unincorporated_areas_Yreka_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Siskiyou County, California|Siskiyou County]] and the state of California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_label = Yreka
+<!-- Location ------------------>
+|coordinates              = {{coord|41|43|36|N|122|38|15|W|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[California]]
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[Siskiyou County, California|Siskiyou]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = April 21, 1857<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+|government_type          = [[Council–manager government|Council–manager]]<ref name=gov>{{Cite web|url=http://ci.yreka.ca.us/council|title=City Council|publisher=City of Yreka, CA|access-date=February 1, 2015|archive-url=https://web.archive.org/web/20150302163747/http://ci.yreka.ca.us/council|archive-date=March 2, 2015|url-status=dead}}</ref>
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = <!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 10.06
+|area_total_km2           = 26.05
+|area_land_sq_mi          = 9.98
+|area_land_km2            = 25.86
+|area_water_sq_mi         = 0.07
+|area_water_km2           = 0.19
+|area_water_percent       = 0.72
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|1652661|Yreka|access-date=December 30, 2014}}</ref>
+|elevation_ft             = 2589
+|elevation_m              = 789
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0686944.html|title=Yreka (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|archive-url=https://web.archive.org/web/20120418222323/http://quickfacts.census.gov/qfd/states/06/0686944.html|archive-date=April 18, 2012|url-status=dead}}</ref>
+|population_total         = 7765
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 7518
+|population_density_sq_mi = 752.93
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 96097
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 530|530]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|86944}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1652661<ref name=gnis/>
+|website                  = {{URL|ci.yreka.ca.us}}
+|population_density_km2 = 290.70
+}}

@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Derna
+|other_name             =
+|native_name            = {{lang|ar|درنة}}
+|nickname               =
+|settlement_type        = <!--For City or Town (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = Derna Valley.jpg
+| photo2a = Mediterranean rocky coast of Libya.jpg
+| photo2b = Shrine of Sahabi Zubair bin Qayis al-Balawi.jpg
+| photo3a = Port of Derna.jpg
+| photo3b = Ras al Helal port.jpg
+| size = 280
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|image_caption          = Overview of Derna
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|leader_title	        = Mayor
+|leader_name            = Akram Abdul Aziz<ref>{{Cite web |url=https://www.libyaobserver.ly/inbrief/eastern-government-appoints-new-non-elected-mayor-derna |title=Archived copy |access-date=2018-10-18 |archive-url=https://web.archive.org/web/20181018190253/https://www.libyaobserver.ly/inbrief/eastern-government-appoints-new-non-elected-mayor-derna |archive-date=2018-10-18 |url-status=live }}</ref>
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|population_as_of               = 2011
+|population_footnotes           =<ref>[http://www.spiegel.de/flash/flash-25431.html ''Der Spiegel''] {{Webarchive|url=https://web.archive.org/web/20141006065516/http://www.spiegel.de/flash/flash-25431.html |date=2014-10-06 }}, 2011 Aug 23</ref>
+|population_note                =
+|population_total               = 100,000<ref name="cnn.com">{{cite web|url=http://www.cnn.com/2014/11/18/world/isis-libya/|title=ISIS comes to Libya|author=Paul Cruickshank, Nic Robertson, Tim Lister and Jomana Karadsheh, CNN|date=18 November 2014|work=CNN|access-date=4 July 2015|archive-url=https://web.archive.org/web/20141123113956/http://www.cnn.com/2014/11/18/world/isis-libya|archive-date=23 November 2014|url-status=live}}</ref>-150,000<ref name="middle-east-online.com">{{cite web|url=http://www.middle-east-online.com/english/?id=69077|title=.:Middle East Online:::.|access-date=4 July 2015|archive-url=https://web.archive.org/web/20150705124617/http://www.middle-east-online.com/english/?id=69077|archive-date=5 July 2015|url-status=live}}</ref>
+|pushpin_map            =Libya <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Libya<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       ={{LBY}}
+|subdivision_type1      = Region
+|subdivision_name1      = [[Cyrenaica]]
+|subdivision_type2      = [[Districts of Libya|District]]
+|subdivision_name2      = [[Derna District|Derna]]
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- General information  --------------->
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+|coordinates            = {{coord|32|46|N|22|38|E|region:LY|display=inline}}
+}}

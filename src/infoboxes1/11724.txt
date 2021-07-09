@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!-- Basic info -->
+|name                     = Macon, Georgia
+|official_name            = Macon–Bibb County
+|settlement_type          = [[Consolidated city-county]]
+<!-- images/maps -->
+|image_skyline            =DowntownMaconGa.jpg
+|image_caption            = [[Downtown Macon, Georgia|Downtown]] Macon in 2007
+|image_seal               = Macon_SEAL.png
+| pushpin_map = Georgia (U.S. state)#USA
+| pushpin_map_caption = Location within Georgia##Location within the United States
+| pushpin_relief = 1
+| pushpin_label = Macon
+<!-- Location -->
+|image_map1               = File:Macon Bibb Consolidated Outline.png
+|mapsize1                 =
+|map_caption1             = Location within Bibb County
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Georgia (U.S. state)|Georgia]]
+|subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+|subdivision_name2        = [[Bibb County, Georgia|Bibb]]
+|leader_title             = [[List of mayors of Macon, Georgia|Mayor]]
+|leader_name              = Lester Miller
+<!-- Area -->
+|area_magnitude           = 1 E8
+|area_total_km2           = 661
+|area_land_km2            = 647
+|area_water_km2           = 3.2
+|area_total_sq_mi         = 255.13
+|area_land_sq_mi          = 249.96
+|area_water_sq_mi         = 0.5
+<!-- Population -->
+|population_as_of         = 2019
+|population_total         = 153,159<ref>{{cite web |url=http://quickfacts.census.gov/qfd/states/13/1349008.html |title=Macon-Bibb County QuickFacts from the US Census Bureau |access-date=2017-06-25 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20150905083841/http://quickfacts.census.gov/qfd/states/13/1349008.html |archive-date=September 5, 2015}}</ref>
+|population_metro         = 228,914 ([[Table of United States Metropolitan Statistical Areas|197th]])
+|population_blank1_title  = [[Combined statistical area|CSA]]
+|population_blank1        = 420,693 ([[Table of United States Combined Statistical Areas|97th]])
+|population_blank2_title  = [[Demonym]]
+|population_blank2        = Maconites
+<!-- General information -->
+|timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset = &minus;5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+|coordinates              = {{coord|32|50|5|N|83|39|6|W|region:US-GA|display=inline,title}}
+|elevation_m              = 116
+|elevation_ft             = 381
+<!-- codes/etc -->
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 31200–31299
+|area_code                = [[Area code 478|478]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 13-49000<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0332301<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = [http://maconbibb.us/ maconbibb.us]
+}}

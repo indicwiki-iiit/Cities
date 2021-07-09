@@ -1,0 +1,36 @@
+{{Infobox Belgium municipality
+|name=Bruges
+|native_name={{native name|nl|Brugge}}
+|picture=Rozenhoedkaai Brugge.jpg
+|picture-legend=The {{Interlanguage link multi|Rozenhoedkaai|nl}} (canal) in Bruges with the [[Belfry of Bruges|belfry]] in the background
+|map=BruggeLocatie.png
+|map-legend=Location of Bruges in West Flanders
+|arms=BEL COA Bruges.svg
+|flag=Flag of Bruges.svg
+|region={{BE-REG-FLE}}
+|community={{BE-NL}}
+|province={{BE-PROV-WV}}
+|arrondissement=[[Arrondissement of Bruges|Bruges]]
+|nis=31005
+|pyramid-date=1 January 2006
+|0-19=20.57
+|20-64=59.34
+|65=20.09
+|foreigners=3.52
+|foreigners-date=1 January 2007
+|mayor=[[Dirk De fauw]] (CD&V)
+|majority=[[Christen-Democratisch en Vlaams|CD&V]], [[Socialistische Partij Anders|sp.a]], [[Open VLD]]
+|postal-codes=8000, 8200, 8310, 8380
+|telephone-area=050
+|web={{URL|www.visitbruges.be/en}}
+|coordinates = {{coord|51|12|32|N|03|13|27|E|region:BE|display=inline,title}}
+|module = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Historic Centre of Brugge
+| criteria      = {{UNESCO WHS type|(ii)(iv)(vi)}}(ii)(iv)(vi)
+| ID            = 996
+| year          = 2000
+| area          = {{convert|410|ha|acre|abbr=on}}
+| buffer_zone   = {{convert|168|ha|acre|abbr=on}}
+}}
+}}

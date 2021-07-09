@@ -1,0 +1,89 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+|name                   = Plattsburgh
+|official_name          = City of Plattsburgh
+|settlement_type        = [[City (New York)|City]]
+|image_skyline          = Plattsburgh monument.jpg
+|imagesize              = 262px
+|image_caption          = MacDonough Monument in front of City Hall
+|image_flag             = 
+|flag_size              = 
+|image_seal             = Seal of Plattsburgh.png
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|nickname               = "The Lake City" "(La Ville sur le Lac)" "The Burgh" 
+|motto                  = ''Ipsa Sibi Præmium Virtus''<br />("Virtue is its own reward.")
+|image_map              = Plattsburgh city border map.gif
+|map_caption            = Map of the city
+|image_map1             = Clinton County New York incorporated and unincorporated areas Plattsburgh highlighted.svg
+|mapsize1               = 260px
+|map_caption1           = Location in [[Clinton County, New York|Clinton County]] and the state of [[New York (state)|New York]].
+|coordinates            = {{coord|44|41|43|N|73|27|30|W|type:city_region:US-NY|display=it}}
+|subdivision_type       = Country
+|subdivision_name       = United States
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = [[New York (state)|New York]]
+| subdivision_type2               = Region
+| subdivision_name2               =
+The [[Adirondacks]]; The [[North Country (New York)|North Country]]
+|subdivision_type3      = [[List of counties in New York|County]]
+|subdivision_name3      = [[Clinton County, New York|Clinton]]
+|established_title      = Settled
+|established_date       = 1785
+|established_title1     = Incorporated
+|established_date1      = 1815 (village)<br /> 1902 (city)
+|named_for              = [[Zephaniah Platt]]
+|government_footnotes   = 
+|government_type        = [[Mayor–council government|Mayor–council]]
+|leader_title           = [[Mayor]]
+|leader_name            = Christopher Rosenquest  ([[United States Democratic Party|D]])
+|leader_title3          = [[City Council]]
+|leader_name3           = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • W1: Jaimie Canales ([[United States Democratic Party|D]])
+ |2           = • W2: Michael Kelly ([[United States Democratic Party|D]])
+ |3           = • W3: Elizabeth Gibbs ([[United States Democratic Party|D]])
+ |4           = • W4: Jennifer Tallon ([[United States Democratic Party|D]])
+ |5           = • W5: Patrick McFarlin ([[United States Democratic Party|D]])
+ |6           = • W6: Jeffery Moore ([[United States Democratic Party|D]])
+}}
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref              = Imperial
+|area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_total_km2         = 17.08
+|area_total_sq_mi       = 6.59
+|area_land_km2          = 13.05
+|area_land_sq_mi        = 5.04
+|area_water_km2         = 4.03
+|area_water_sq_mi       = 1.56
+|area_water_percent     = 23.4
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 42
+|elevation_ft           = 138
+|population_total       = 19534
+|population_as_of       = [[2020 United States Census|2020]]
+|population_footnotes   = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|population_density_km2 = 1495.43
+|population_density_sq_mi = 3872.79
+|population_est         = 19515
+|pop_est_as_of          = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_note        = 
+|timezone1              = [[Eastern Time Zone (North America)|Eastern]]
+|utc_offset1            = &minus;5
+|timezone1_DST          = EDT
+|utc_offset1_DST        = &minus;4
+|postal_code_type       = [[ZIP code]]s
+|postal_code            = 12901, 12903
+|area_code              = [[Area code 518|518]]
+|website                = [http://www.cityofplattsburgh-ny.gov/ CityofPlattsburgh-NY.gov]
+|footnotes              = 
+|blank_name             = [[Federal Information Processing Standard|FIPS code]]
+|blank_info             = 36-58574
+|blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info            = 0960698
+}}

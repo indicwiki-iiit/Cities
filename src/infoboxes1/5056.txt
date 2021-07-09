@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = lga 
+| name     = City of Swan
+| state    = wa
+| image    = Swan LGA WA.png
+| image_upright = 0.81
+| caption  = 
+| pop      = 133,851
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA58050 |name=Swan (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 155,653
+| pop2_year          = 2020 est.
+| area     = 1042
+| est      = 1970
+| seat     = [[Midland, Western Australia|Midland]]
+| mayor    = Kevin Bailey
+| region   = [[Eastern Metropolitan Regional Council|Eastern Metropolitan Perth]], [[Swan Valley (Western Australia)|Swan Valley]]
+| logo     = CityofSwanlogo.svg
+| logo_upright = 1.2
+| url      = http://www.swan.wa.gov.au/
+| stategov = [[Electoral district of Bassendean|Bassendean]], [[Electoral district of Midland|Midland]], [[Electoral district of Swan Hills|Swan Hills]], [[Electoral district of West Swan|West Swan]], [[Electoral district of Mirrabooka|Mirrabooka]]
+| fedgov   = [[Division of Swan|Swan]], [[Division of Cowan|Cowan]], [[Division of Hasluck|Hasluck]], [[Division of Pearce|Pearce]]
+| near-nw  = [[City of Wanneroo|Wanneroo]]
+| near-n   = [[Shire of Chittering|Chittering]]
+| near-ne  = [[Shire of Toodyay|Toodyay]]
+| near-e   = [[Shire of Mundaring|Mundaring]]
+| near-w   = [[City of Wanneroo|Wanneroo]]
+| near-sw  = [[City of Stirling|Stirling]]
+| near-s   = [[City of Bayswater|Bayswater]]<br />[[Town of Bassendean|Bassendean]]
+| near-se  = [[City of Kalamunda|Kalamunda]]
+}}

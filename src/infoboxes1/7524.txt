@@ -1,0 +1,50 @@
+{{Infobox settlement
+| name                   = Beersheba
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|בְּאֵר שֶׁבַע}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|بئر السبع}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = {{br separated entries|Be'er Sheva'{{citation needed|date=June 2019}} (official)| Be'er Sheva, Beer Sheva (unofficial) }}
+| image_skyline          = {{center|{{Photomontage
+  |photo1a = Beersheba City Hall 6.jpg
+  |photo1b = BSNU.jpg
+  |photo2a = בית המושל באר שבע.jpg
+  |photo2b = PikiWiki Israel 36687 Beersheba birds eye view.JPG
+  |photo3e = Kikar Hamitnadvim, Beersheba.jpg
+  |photo4e = Be'er Sheva at night.jpg
+  |size    = 280
+  |color   = transparent
+  |border  = 0
+  }}}}
+| image_caption          = '''From Upper left:''' Beersheba City Hall, [[Ben-Gurion University of the Negev]], [[Negev Museum of Art]], view of downtown, Volunteers square, Be'er Sheva at night
+| image_blank_emblem     = [[File:Coat of arms of Beersheba.svg|60px]]
+| pushpin_map_alt        = 
+| pushpin_map            = Israel north negev#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|15|32|N|34|47|59|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = Israel
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = [[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 4000 BC <small>([[Tel Be'er Sheva]])</small><br />1900 (The new city)
+| leader_title           = Mayor
+| leader_name            = [[Ruvik Danilovich]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:117500|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Be'er Sheva}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| elevation_m            = 260
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Well of the Oath<sup>([[#Etymology|see also]])</sup>
+| website                = {{url|http://www.beer-sheva.muni.il/|beer-sheva.muni.il}}
+}}

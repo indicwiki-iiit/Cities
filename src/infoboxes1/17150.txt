@@ -1,0 +1,75 @@
+{{Infobox settlement
+| official_name                   = Cortlandt, New York
+| settlement_type                 = [[Administrative divisions of New York#Town|Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Westchester County New York incorporated and unincorporated areas Cortlandt highlighted.svg
+| map_caption                     = Location of Cortlandt, New York
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| government_footnotes            = 
+| government_type                 = Manager-Council
+| leader_title                    = Town Supervisor
+| leader_name                     = Linda Puglisi ([[Democratic Party (United States)|D]])
+| leader_title1                   = Town Board
+| leader_name1                    = {{Collapsible list
+ |title       = Members
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Richard H. Becker (D)
+ |2           = • Debra A. Costello (D)
+ |3           = • Francis X. Farrell (D)
+ |4           = • Seth M. Freach (D)
+}}
+| established_title               = Founded
+| established_date                = 1788<ref>{{cite web |url=http://www.townofcortlandt.com/Cit-e-Access/webpage.cfm?TID=20&TPID=2564 |title=Archived copy |access-date=2016-05-31 |url-status=dead |archive-url=https://web.archive.org/web/20160511220322/http://www.townofcortlandt.com/Cit-e-Access/webpage.cfm?TID=20&TPID=2564 |archive-date=2016-05-11 }}</ref>
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 129.54
+| area_land_km2                   = 101.68
+| area_water_km2                  = 27.86
+| area_total_sq_mi                = 50.02
+| area_land_sq_mi                 = 39.26
+| area_water_sq_mi                = 10.76
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 41592
+| population_density_km2          = 421.15
+| population_density_sq_mi        = 1090.76
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 97
+| elevation_ft                    = 318
+| coordinates                     = {{coord|41|15|41|N|73|54|9|W|region:US-NY|display=inline,title}}
+| postal_code_type                = 
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-18410
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0978871
+| website                         = {{URL|townofcortlandt.com}}
+| footnotes                       = 
+| pop_est_as_of                   = 2016
+| pop_est_footnotes               = <ref name="USCensusEst2016"/>
+| population_est                  = 42821
+| name                            = 
+}}

@@ -1,0 +1,45 @@
+{{Infobox settlement
+| name                   = Qalansawe
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|קלנסווה}}|rtl=yes}}
+ | {{Lang|ar|قلنسوة|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Qalansuwa
+| translit_lang1_type2   = Translit.
+| translit_lang1_info2   = Kalansuwa or Qalansuwa
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Kalansoueh,<ref name = Guerinp350>Guerin, 1875, [https://archive.org/stream/descriptiongogr04gugoog#page/n375/mode/1up p. 350]</ref> Qalansuwa (unofficial)
+| image_skyline          = Qalansuwa-541.jpg
+| image_blank_emblem     = Qalansawe COA.png
+| blank_emblem_type      = Emblem of Qalansawe
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|16|56.34|N|34|59|0.27|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = {{br separated entries 
+  | 198600/687800 [[Israel Transverse Mercator|ITM]]
+  | 148/187 [[Palestine grid|PAL]]
+}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| leader_title           = Mayor
+| leader_name            = Yossif Takrouri
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:8400|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Qalansawe}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| name                            = Grand Junction, Colorado
+| settlement_type                 = [[List of cities and towns in Colorado#Home rule municipality|Home Rule Municipality]]<ref name=COMun>{{cite web |url=https://dola.colorado.gov/lgis/municipalities.jsf|title=Active Colorado Municipalities|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+| official_name                   = City of Grand Junction<ref name=COMun/>
+<!-- images and maps  ----------->| image_skyline                   = Grand-junction-skyline.jpg
+| imagesize                       = 
+| image_caption                   = Grand Junction skyline.
+| image_map                       = Mesa County Colorado Incorporated and Unincorporated areas Grand Junction Highlighted 0831660.svg
+| mapsize                         = 
+| map_caption                     = Location of the City of Grand Junction in {{nobreak|[[Mesa County, Colorado]].}}
+| pushpin_map                     = USA
+| pushpin_label                   = {{nobreak|Grand Junction}}
+| pushpin_label_position          = right
+| pushpin_map_caption             = Location of the City of Grand Junction in the {{nobreak|[[United States]].}}
+<!-- Location ------------------>| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Colorado}}
+| subdivision_type2               = [[List of counties in Colorado|County]]
+| subdivision_name2               = [[Mesa County, Colorado|Mesa County]]<ref name=COcounty>{{cite web |url=https://dola.colorado.gov/lgis/counties.jsf|title=Colorado Counties|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+| subdivision_type3               = [[List of cities and towns in Colorado|City]]
+| subdivision_name3               = Grand Junction<ref name=COMun/>
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = [[Colorado municipalities#Home Rule Municipality|Home Rule Municipality]]
+| leader_title                    = Mayor
+| leader_name                     = Chuck McDaniel
+| leader_title1                   = City Manager
+| leader_name1                    = Greg Caton
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = July 22, 1882<ref name=MuniIncCO>{{cite web | url = http://www.colorado.gov/dpa/doit/archives/muninc.html | title = Colorado Municipal Incorporations | publisher = [[Colorado|State of Colorado]], Department of Personnel & Administration, Colorado State Archives | date = 2004-12-01 | access-date = 2007-09-02}}</ref>
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = 
+| named_for                       = [[Confluence]] of [[Grand River (Colorado)|Grand River]] and [[Gunnison River]]
+<!-- Area    --------------------->| area_magnitude                  = 1 E9
+| unit_pref                       = US
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_08.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 103.52
+| area_land_km2                   = 102.37
+| area_water_km2                  = 1.15
+| area_total_sq_mi                = 39.97
+| area_land_sq_mi                 = 39.53
+| area_water_sq_mi                = 0.44
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 8653
+| area_metro_sq_mi                = 3341.11
+<!-- Population   ----------------------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 58,566
+| population_density_km2          = 621.24
+| population_density_sq_mi        = 1608.99
+| population_metro                = 147,083
+| population_density_metro_km2    = auto
+| population_density_metro_sq_mi  = auto
+<!-- General information  --------------->| timezone                        = [[Mountain Time Zone|MST]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = [[Mountain Time Zone|MDT]]
+| utc_offset_DST                  = &minus;6
+| coordinates                     = {{coord|39|04|N|108|34|W|region:US-CO_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = 1397
+| elevation_ft                    = 4593
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP Code]]s<ref name=ZIPcode>{{cite web |url=http://zip4.usps.com/zip4/citytown.jsp |title=ZIP Code Lookup |format=[[JavaScript]]/[[HTML]] |publisher=[[United States Postal Service]] |access-date=September 24, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010 }}</ref>
+| postal_code                     = 81501–81507
+| area_code                       = [[Area code 970|970]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 08-31660
+| blank1_name                     = [[Geographic Names Information System|GNIS feature ID]]
+| blank1_info                     = 0204662
+| blank2_name                     = [[state highways in Colorado|Highways]]
+| blank2_info                     = I-70, U.S. Highway 6, U.S. Highway 50, CO SH 340, CO SH 141, CO SH 139
+| website                         = [http://www.gjcity.org/ City of Grand Junction]
+| area_rank                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 63597
+}}

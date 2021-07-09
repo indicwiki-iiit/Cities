@@ -1,0 +1,25 @@
+{{Infobox settlement
+| official_name            = Masyaf
+| native_name              = {{lang|ar|مصياف}}
+| image_skyline            = Masyaf 001.jpg
+| image_caption            = A view of Masyaf, 2008
+| pushpin_map              = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = right
+| pushpin_mapsize          = 250
+| pushpin_map_caption      = Location in Syria
+| pushpin_relief           = 1
+| coordinates              = {{coord|35|03|55|N|36|20|32|E|region:SY|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{SYR}}
+| subdivision_type1        = [[Governorates of Syria|Governorate]]
+| subdivision_name1        = [[Hama Governorate|Hama]]
+| subdivision_type2        = [[Districts of Syria|District]]
+| subdivision_name2        = [[Masyaf District|Masyaf]]
+| subdivision_type3        = [[Nahiyah|Subdistrict]]
+| subdivision_name3        = [[Masyaf Nahiyah|Masyaf]]
+| unit_pref                = Metric
+| elevation_m              = 447
+| population_total         = 22,508
+| population_as_of         = 2004
+| population_density_km2   = auto
+}}

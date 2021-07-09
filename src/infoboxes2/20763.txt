@@ -1,0 +1,36 @@
+{{Infobox Australian place
+| type     = town
+| name     = Broken Hill
+| state    = nsw
+| coordinates = {{coord|31|57|24|S|141|28|04|E|display=inline,title}}
+| pushpin_map_caption = Location in New South Wales, near the border of South Australia 
+| relief   = 1
+| image = Argent Street, Broken Hill.jpg
+| caption  = Argent Street, Broken Hill's main street
+| lga      = [[City of Broken Hill]]
+| county   = [[Yancowinna County, New South Wales|Yancowinna]]
+| postcode = 2880
+| pop      = 17,734
+| pop_year = 2018
+| pop_footnotes = <ref name=ABSSUA>{{cite web|title=3218.0 – Regional Population Growth, Australia, 2017–18: Population Estimates by Significant Urban Area, 2008 to 2018|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|website=Australian Bureau of Statistics|publisher=[[Australian Bureau of Statistics]]|date=27 March 2019|access-date=22 April 2019|archive-url=https://web.archive.org/web/20190327110730/http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|archive-date=27 March 2019|url-status=live}} Estimated resident population, 30 June 2018.</ref>
+| est      = 1883
+| elevation= 315
+| maxtemp  = 24.2
+| mintemp  = 11.9
+| rainfall = 241.8
+| stategov = [[Electoral district of Barwon|Barwon]]
+| fedgov = [[Division of Parkes|Parkes]]<ref>{{cite web|url=http://www.aec.gov.au/profiles/nsw/parkes.htm|title=Profile of the electoral division of Parkes (NSW)|publisher=[[Australian Electoral Commission]]|date=25 February 2016|access-date=12 July 2016|archive-url=https://web.archive.org/web/20160701135907/http://aec.gov.au/profiles/nsw/Parkes.htm|archive-date=1 July 2016|url-status=live}}</ref>
+| timezone = [[Australian Central Standard Time|ACST]]
+| utc      = +9:30
+| timezone-dst= [[Australian Central Daylight Time|ACDT]]
+| utc-dst  = +10:30
+| dist1    = 837
+| dir1     = North West
+| location1= [[Melbourne]]
+| dist2    = 511
+| dir2     = North East
+| location2= [[Adelaide]] via {{AUshield|NSW|A32|alt=on}}
+| dist3    = 1143
+| dir3     = West
+| location3= [[Sydney]] via {{AUshield|NSW|A32|alt=on}}
+}}

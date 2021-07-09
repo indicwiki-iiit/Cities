@@ -1,0 +1,33 @@
+{{Infobox Australian place| type = city
+| name     = Bairnsdale
+| state    = vic
+| image    = Bairnsdale gardens.jpg
+| caption  = Bairnsdale Gardens Main Street
+| lga      = Shire of East Gippsland
+| use_lga_map = 
+| pushpin_map_caption = Location in Victoria
+| relief   = yes
+| postcode = 3875
+| est      = 1860
+| pop      = 7,580
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS | id = SSC20102 | name = Bairnsdale (State Suburb) | access-date = 24 August 2020 | quick = on}}</ref>
+| area = 155
+| area_footnotes=<ref name="ABSSUAProf">{{cite web|title=2016 Census Community Profiles: Bairnsdale|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/communityprofile/2002|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=26 October 2017}}</ref> (2016 urban)
+| elevation= 49
+| coordinates = {{coord|37|50|0|S|147|37|0|E|display=inline,title}}
+| maxtemp  = 20.1
+| mintemp  = 8.3
+| rainfall = 643.6
+| stategov = [[Electoral district of Gippsland East|Gippsland East]]
+| fedgov   = [[Division of Gippsland|Gippsland]]
+| dist1    = 281
+| dir1     = E
+| location1= [[Melbourne]]
+| dist2    = 40
+| dir2     = NW
+| location2= [[Lakes Entrance]]
+| dist3    = 121
+| dir3     = NE
+| location3= [[Traralgon]]
+}}

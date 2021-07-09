@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   ={{raise|0.2em|Chenzhou}}
+|official_name          =
+|other_name             =
+|native_name            ={{lower|0.1em|郴州市}}
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 郴州市裕后街郴江河段.jpg
+|imagesize              = 
+|image_caption          = Chen River and the residential on the river bank in Chenzhou City
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Chenzhou Prefecture within Hunan (China).png
+|mapsize                =  
+|map_caption            = Chenzhou's administrative area in Hunan
+|pushpin_map=China Hunan
+|pushpin_map_caption = Location of the city center in Hunan
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Hunan]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|seat_type              = Municipal seat
+|seat                   = [[Beihu District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =19317 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_urban_km2          = 580.00 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=68 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2001
+|population_footnotes           =
+|population_note                =
+|population_total               =4559600
+|population_density_km2         =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_urban_km2   =
+| population_urban        = 638400
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Chenzhou municipal government
+|coordinates            = {{coord|25.770|N|113.016|E|type:adm2nd_region:CN-43_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[Postal code of China|Postal code]]
+|postal_code            = 423000
+|area_code              = 0735
+|iso_code = [[ISO 3166-2:CN|CN-HN-10]]
+|blank_name             = License plate prefixes
+|blank_info             = {{lang|zh-cn|湘L}}
+|blank1_name            = GDP(2015)
+|blank1_info            = CNY 201.21 billion
+|website                = {{URL|en.czs.gov.cn}}
+}}

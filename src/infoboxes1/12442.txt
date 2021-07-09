@@ -1,0 +1,61 @@
+{{Infobox settlement
+|official_name          = Ávila
+|settlement_type = [[Municipalities of Spain|Municipality]]
+|other_name             = 
+|native_name            =  <!-- for towns and cities whose native name is not in English -->
+|nickname               = ''Ávila de los Caballeros'', ''Ávila del Rey'', ''Ávila de los Leales'' 
+(Ávila of the knights, Ávila of the king, Ávila of the loyal ones) 
+|motto                  = {{lang|es|Una ciudad para todos...}} (A town for everyone...)
+|image_skyline          = Avila 001.jpg
+|imagesize              = 
+|image_caption          = Ávila with its town walls
+|image_flag             = Bandera de Ávila.svg
+|flag_size              =
+|image_shield           = Escudo de Ávila.svg
+|seal_size              =
+|image_blank_emblem     =
+|blank_emblem_size      =
+|pushpin_map            = Spain#Spain Castile and León
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_relief         = 1
+|subdivision_type       = Country
+|subdivision_name       = [[Spain]]
+|subdivision_type1      = [[Autonomous community]]
+|subdivision_name1      = [[Castile and León]]
+|subdivision_type2      = Province
+|subdivision_name2      = [[Ávila (province)|Ávila]]
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Jesús Manuel Sánchez Cabrera
+|leader_party           = [[For Ávila|XAV]]
+|established_title      = <!-- Settled -->
+|established_date       =
+|unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_land_km2          = 231.9
+|population_as_of       = {{Spain metadata Wikidata|population_as_of}}
+| population_footnotes = {{Spain metadata Wikidata|population_footnotes}}
+|population_total       = {{Spain metadata Wikidata|population_total}}
+|timezone               = CET
+|utc_offset             = +1
+|timezone_DST           = CEST
+|utc_offset_DST         = +2
+|coordinates            = {{coord|40|39|N|4|41|W|type:city_region:ES|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1132
+|elevation_ft           = 3714
+|postal_code_type       =  Postal code
+|postal_code            = 05001 - 05006
+|area_code              = 34 (Spain) + 920 (Ávila)
+|website                = http://www.avila.es {{in lang|es}}
+|footnotes = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Old Town of Ávila with its Extra-Muros Churches
+  |ID = 348
+  |Year = 1985
+  |Criteria = Cultural: iii, iv
+  |Area = 36.4 ha
+  |Includes = [[Hermitage of San Segundo]], [[Basilica of San Vicente]], [[Church of San Andrés (Ávila)|Church of San Andrés]], [[Church of San Pedro]], [[Church of San Nicolás (Ávila)|Church of San Nicolás]], [[Church of Santa María de la Cabeza]], [[Church of San Martín (Ávila)|Church of San Martín]], [[Convent of La Encarnación]], [[Convento de San José (Ávila)|Convent of San José]], [[Royal Monastery of Santo Tomás]]
+  }}
+
+}}

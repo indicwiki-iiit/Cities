@@ -1,0 +1,34 @@
+{{Infobox settlement
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = Country
+|subdivision_name       = {{HUN}}
+| image_skyline = Civertanlegipápa5.jpg
+| image_shield            = HUN Pápa Címer.svg
+| image_flag              = Flag of Pápa.svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map =Hungary#Europe
+|pushpin_relief = 1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption =Location of Pápa
+|pushpin_mapsize =
+|official_name=Pápa
+|map=
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Veszprém County|Veszprém]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Pápa District|Pápa]]
+|area_total_km2=91.47
+|population_total=32473
+|population_footnotes=
+|population_as_of=2011
+|population_density_km2=355
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=8500
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 89
+|website={{URL|papa.hu/}}
+|coordinates      = {{coord|47.32373|17.46802|region:HU|display=inline,title}}
+}}

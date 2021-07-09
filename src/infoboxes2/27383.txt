@@ -1,0 +1,105 @@
+{{Infobox settlement
+| name                            = Fort Ann
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[Administrative divisions of New York#Town|Town]]
+| motto                           = 
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| city_logo                       = 
+| citylogo_size                   = 
+| image_map                       = Washington County New York incorporated and unincorporated areas Fort Ann highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Washington County, New York|Washington County]] and the state of [[New York (state)|New York]].
+<!-- Location ------------------>| coordinates                     = {{coord|43|27|52|N|73|32|19|W|region:US-NY|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Washington County, New York|Washington]]
+| subdivision_type3               = [[Metropolitan Statistical Area|Metro Area]]
+| subdivision_name3               = [[Glens Falls, New York|Glens Falls]], [[New York (state)|New York]]
+| government_type                 = 
+| leader_title                    = {{nowrap|[[Town Supervisor]]}}
+| leader_name                     = Richard Moore
+| leader_title1                   = Town Board
+| leader_name1                    = {{Collapsible list
+ |title       = Members<ref name="town homepage"/>
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = Deb Witherell    
+ |2           = Denny Fletcher
+ |3           = Gretchen Stark
+ |4           = Samuel Hall
+}}
+| established_title               = Fort Anne Built
+| established_date                = 1757
+| established_title2              = Organized
+| established_date2               = 1786 as Westfield
+| established_title3              = Incorporated
+| established_date3               = 1808 as Fort Ann
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_total_km2                  = 287.13
+| area_land_km2                   = 282.50
+| area_water_km2                  = 4.63
+| area_total_sq_mi                = 110.86
+| area_land_sq_mi                 = 109.08
+| area_water_sq_mi                = 1.79
+| area_water_percent              = 1.20
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| population_note                 = 
+| population_total                = 6190
+| population_density_km2          = 21.63
+| population_density_sq_mi        = 56.02
+| timezone                        = [[Eastern Time Zone|EST]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| postal_code_type                = [[ZIP code]](s)<ref name="GIS">
+  {{cite map
+ |url         = http://gis.co.washington.ny.us/webmap/default.aspx
+ |title       = Washington County GIS Web Map
+ |publisher   = Washington County, NY
+ |access-date  = June 18, 2010
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20100107070305/http://gis.co.washington.ny.us/webmap/default.aspx
+ |archive-date = January 7, 2010
+}}</ref>
+| postal_code                     = {{Collapsible list
+ |title       = 12827 (primary)
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = 12819 Clemons
+ |2           = 12821 Comstock
+ |3           = 12839 [[Hudson Falls, New York|Hudson Falls]]
+ |4           = 12844 [[Kattskill Bay, New York|Kattskill Bay]]
+ |5           = 12887 [[Whitehall (village), New York|Whitehall]]
+}}
+| area_code                       = [[Area code 518|518]]
+| website                         = [https://www.townoffortannny.com/ www.townoffortannny.com]
+| footnotes                       = 
+| pop_est_as_of                   = 2016
+| pop_est_footnotes               = <ref name="USCensusEst2016"/>
+| population_est                  = 6110
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 36-115-26715
+| leader_title2                   = 
+| leader_name2                    = 
+}}

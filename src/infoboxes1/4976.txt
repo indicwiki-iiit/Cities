@@ -1,0 +1,20 @@
+{{Infobox settlement
+| name                   = Kirakira
+| image_map              = MakiraMap.png 
+| mapsize                = 300px
+| map_caption            = Location on Makira Island
+| pushpin_map            = Solomon Islands
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = Location in Solomon Islands
+| coordinates            = {{coord|10|27|S|161|55|E|region:SB|display=inline}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Solomon Islands}}
+| subdivision_type1      = [[Provinces of Solomon Islands|Province]]
+| subdivision_name1      = [[Makira-Ulawa Province|Makira-Ulawa]]
+| subdivision_type2      = [[List of islands of Solomon Islands|Island]]
+| subdivision_name2      = [[Makira]]
+| population_as_of       = 2019
+| population_total       = 3,500
+| elevation_m            = 152
+}}

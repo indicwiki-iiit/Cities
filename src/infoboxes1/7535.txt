@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                   = Herzliya
+| native_name            = {{Lang|he|{{Script/Hebrew|הֶרְצְלִיָּה}}|rtl=yes}}<Br>هرتسليا
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Herçliya
+| translit_lang1_type2   = Translit.
+| translit_lang1_info2   = Hertzliya
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Herzliyya (official)
+| image_skyline          = Herzliya Aerial View.jpg
+| image_caption          = Herzliya aerial view
+| image_flag             = Flag of Herzliya.svg
+| image_blank_emblem     = [[File:Coat of Arms of Herzliya.svg|60px]]
+| blank_emblem_type      = Emblem of Herzliya
+| pushpin_map_alt        = 
+| pushpin_map            = Israel#Israel center ta
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|09|55|N|34|50|45|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Tel Aviv District|name=Tel Aviv}}
+| established_title      = Founded
+| established_date       = 1924
+| leader_title           = Mayor
+| leader_name            = Moshe Fadlon
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:21585|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Herzliyya}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = named for [[Theodor Herzl]]
+| website                = [http://www.herzliya.muni.il/ www.herzliya.muni.il]
+}}

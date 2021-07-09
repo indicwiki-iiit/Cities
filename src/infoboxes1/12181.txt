@@ -1,0 +1,23 @@
+{{Infobox UK place
+|official_name            = City of Salisbury<!--formal; no longer New Sarum after 2009-->
+|type                     = City
+|country                  = England
+|region                   = South West England
+|static_image_name        = Salisbury Cathedral from Old George Mall.jpg
+|static_image_caption     = [[Salisbury Cathedral]] from the Old George Mall in July 2016
+|population               = 40,302
+|population_ref           = (civil parish, 2011 Census)<ref name="2011census">{{NOMIS2011|id=1170219621|title=Salisbury Parish|access-date=18 March 2018}}</ref>
+|os_grid_reference        = SU145305
+|coordinates              = {{coord|51.07|-1.79|type:city(50000)_region:GB|display=inline,title}}
+|label_position           = left
+|post_town                = SALISBURY
+|postcode_area            = SP
+|postcode_district        = SP1, SP2
+|dial_code                = 01722
+|constituency_westminster = [[Salisbury (UK Parliament constituency)|Salisbury]]
+|civil_parish             = Salisbury
+|london_distance          = {{convert|78|mi|km}}
+|unitary_england          = [[Wiltshire Council]]
+|lieutenancy_england      = [[Wiltshire]]
+|website                  = {{Official URL}}
+}}

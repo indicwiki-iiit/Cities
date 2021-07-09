@@ -1,0 +1,42 @@
+{{Infobox French commune
+ |name               = Bordeaux
+ |common name        = Bordeaux
+ |demonym            = Bordelais
+ |commune status     = [[Prefectures of France|Prefecture]] and [[Communes of France|commune]]
+ |image              = Montage Bordeaux.jpg
+ |image size         = 250
+ |caption            = Clockwise from top: [[Place de la Bourse]] by the [[Garonne]], Allées du Tourny and Maison du Vin, [[Pont de pierre (Bordeaux)|Pont de pierre]] on the Garonne, Meriadeck Commercial Centre, portal of City hall garden, and [[Bordeaux Cathedral|Saint-André Cathedral]] with the [[Bordeaux tramway]]
+ |image coat of arms = Coat of Arms of Bordeaux (Chief of France Moderne).svg
+ |city motto         = ''Lilia sola regunt lunam undas castra leonem.''<br/>"The [[fleur-de-lis]] alone rules over the moon, the waves, the castle, and the lion" (in French: "Les lys règnent seuls sur la lune, les ondes, la forteresse et le lion.")<ref>{{Cite web |date=20 January 2013 |title=Bordeaux : Découvrir Bordeaux – Histoire de Bordeaux |url=http://www.bordeaux.fr/ebx/pgPresStand8.psml?_nfpb=true&_pageLabel=pgPresStand8&classofcontent=presentationStandard&id=6931 |url-status=dead |archive-url=https://web.archive.org/web/20130120062743/http://www.bordeaux.fr/ebx/pgPresStand8.psml?_nfpb=true&_pageLabel=pgPresStand8&classofcontent=presentationStandard&id=6931 |archive-date=20 January 2013}}</ref>
+ |coordinates        = {{coord|44.84|-0.58|region:FR-NAQ_type:city(1,200,000)|format=dms|display=inline,title}}
+ |INSEE              = 33063
+ |arrondissement     = Bordeaux
+ |canton             = [[Cantons of Bordeaux|5 cantons]]
+ |intercommunality   = [[Bordeaux Métropole]]
+ |mayor              = [[Pierre Hurmic]]<ref>{{cite web|title=Répertoire national des élus: les maires|url=https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503|publisher=data.gouv.fr, Plateforme ouverte des données publiques françaises|date=2 December 2020|access-date=22 December 2020|language=fr|archive-date=17 December 2020|archive-url=https://web.archive.org/web/20201217105527/https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503|url-status=live}}</ref>
+ |party              = [[Europe Ecology – The Greens|The Greens]]
+ |term               = 2020–2026
+ |area km2           = 49.36
+ |population         = {{France metadata Wikidata|population_total}}
+ |population date    = {{France metadata Wikidata|population_as_of}}
+ |population footnotes  = {{France metadata Wikidata|population_footnotes}}
+ |population ranking = [[List of communes in France with over 20,000 inhabitants|9th in France]]
+ |urban area km2     = 1172.79
+ |urban area date    = 2017
+ |urban pop          = 927,445
+ |urban pop date     = 2017<ref name="popuu">{{Cite web |title=Comparateur de territoire, Unité urbaine de Bordeaux (33701) |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-33701 |access-date=3 September 2020 |publisher=INSEE |archive-date=5 August 2017 |archive-url=https://web.archive.org/web/20170805192210/https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-33701 |url-status=live }}</ref>
+ |metro area km2     = 5613.41
+ |metro area date    = 2017
+ |metro area pop     = 1,247,977
+ |metro area pop date= 2017<ref name=popau/>
+ |website            = {{URL|www.bordeaux.fr}}
+ {{Infobox UNESCO World Heritage Site
+  |child         = yes
+  |Official_name = [[Port de la Lune|Bordeaux, Port of the Moon]]
+  |ID            = 1256
+  |Criteria      = Cultural: ii, iv
+  |Year          = 2007
+  |Area          = 1,731 ha
+  |Buffer_zone   = 11,974 ha
+}}
+}}

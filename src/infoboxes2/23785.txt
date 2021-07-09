@@ -1,0 +1,12 @@
+{{Infobox nuclear weapons test
+| name = Trinity
+| picture = File:Trinity Detonation T&B.jpg
+| picture_description = Mushroom cloud seconds after detonation of the Gadget.
+| country = {{flagcountry|United States|1912}}
+| test_site = Trinity Site, [[New Mexico]]
+| date = {{Start date and age|1945|07|16|p=yes|br=yes}}
+| test_type = [[Nuclear weapons testing#Types|Atmospheric]]
+| device_type = [[Plutonium]] [[implosion-type nuclear weapon|implosion]] [[nuclear fission|fission]]
+| yield = {{convert|22|ktonTNT|lk=in}}
+| next_test = [[Operation Crossroads]]
+}}

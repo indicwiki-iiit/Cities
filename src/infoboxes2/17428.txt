@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Issaquah, Washington
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+<!-- Images -->
+|image_skyline            = Issaquah - Sunset Way 01.jpg
+|imagesize                = 
+|image_caption            = Sunset Way in downtown Issaquah
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = King_County_Washington_Incorporated_and_Unincorporated_areas_Issaquah_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Issaquah, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = Washington#USA
+|pushpin_map_alt          = 
+|pushpin_map_caption      = Location in Washington##Location in the USA
+|pushpin_label            = Issaquah
+|pushpin_label_position   = 
+|pushpin_relief           = yes
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = State
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[King County, Washington|King]]
+<!-- Government -->
+|government_footnotes     = <ref name="council">{{cite web|url=http://www.ci.issaquah.wa.us/SectionIndex.asp?SectionID=22|title=City of Issaquah – City Council Homepage|access-date=November 14, 2010|url-status=dead |archive-url=https://web.archive.org/web/20101201050504/http://www.ci.issaquah.wa.us/SectionIndex.asp?SectionID=22|archive-date=December 1, 2010}}</ref>
+|government_type          = [[Mayor–council government|Mayor-Council]]
+|leader_title             = Mayor
+|leader_name              = Mary Lou Pauly<ref>{{cite web|url=http://issaquahwa.gov/index.aspx?NID=528|title=Your Government|work=City of Issaquah|access-date=Jan 6, 2018}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 34.14
+|area_land_km2            = 31.42
+|area_water_km2           = 2.72
+|area_total_sq_mi         = 13.18
+|area_land_sq_mi          = 12.13
+|area_water_sq_mi         = 1.05
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 30434
+|pop_est_as_of            = 2019
+|population_est           = 39509
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_density_km2   = 1257.63
+<!-- 2018 est. -->
+|population_density_sq_mi = 3257.13
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 33
+|elevation_ft             = 108
+|coordinates              = {{coord|47|32|8|N|122|2|36|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 98027, 98029, 98075
+|area_code                = [[Area code 425|425]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-33805
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1512327<ref name="GR3">{{cite gnis|id=1512327|name=Issaquah}}</ref>
+|website                  = {{URL|issaquahwa.gov}}
+|footnotes                = 
+}}

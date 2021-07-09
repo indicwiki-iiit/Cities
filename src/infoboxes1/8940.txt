@@ -1,0 +1,142 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.1em|Hyesan}}
+|native_name            = {{lower|0.1em|{{nobold|혜산시}}}}
+|native_name_lang       = ko
+|official_name          = 
+|nickname               = 
+|settlement_type        = [[List of cities in North Korea|Municipal City]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+|translit_lang1         = Korean
+|translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info    = {{linktext|혜|산|시}}
+|translit_lang1_type1   = [[Hanja|Hancha]]
+|translit_lang1_info1   = {{linktext|惠|山|市}}
+|translit_lang1_type2   = {{nowrap|[[McCune-Reischauer]]}}
+|translit_lang1_info2   = Hyesan-si
+|translit_lang1_type3   = {{nowrap|[[Revised Romanization of Korean|Revised Romanization]]}}
+|translit_lang1_info3   = Hyesan-si
+
+<!-- images and maps  ----------->
+|image_skyline          = 巡道工出品 photo by Xundaogong - panoramio (106).jpg
+|imagesize              = 
+|image_caption          = Downtown Hyesan in September 2013
+|image_map              = DPRK2006 Ryanggang-Hyesan.PNG
+| map_caption           = Map of Ryanggang showing the location of Hyesan
+|mapsize                = 270px
+| image_map1 = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map          = North Korea
+| pushpin_map_caption    = Location within North Korea
+|coordinates            = {{coord|41|24|N|128|11|E|region:KP|display=inline,title}}
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{nowrap|{{Flag|North Korea}}}}
+|subdivision_type1      = [[Provinces of North Korea|Province]]
+|subdivision_name1      = [[Ryanggang Province|Ryanggang]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 25 ''tong'', 4 ''ri''
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = 
+|seat                   = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =  <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = Metric
+|area_footnotes           =
+|area_total_km2           = 277
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use<ref> tags-->
+|elevation_m            = 
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2008<ref>{{cite web |url=https://unstats.un.org/unsd/demographic/sources/census/wphc/North_Korea/Final%20national%20census%20report.pdf |title= 2008 Population Census of DPR Korea |publisher=Central Bureau of Statistics, DPR Korea |date=2009 |access-date=July 22, 2017}}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =192680
+|population_density_km2         = auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =
+|population_blank1_title        = Dialect
+|population_blank1              = [[Hamgyŏng dialect|Hamgyŏng]]
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[Time in North Korea|Pyongyang Time]]
+|utc_offset             = +9
+|timezone_DST           = 
+|utc_offset_DST         = 
+| coor_pinpoint         =<!-- can be used to specify exactly where/what the coordinates refer to -->
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             = 
+|blank_info             = 
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = 
+|footnotes              = 
+}}

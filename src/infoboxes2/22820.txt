@@ -1,0 +1,37 @@
+{{Infobox Australian place 
+| type = town
+|name     = Inverell
+|state    = nsw
+|image    = Inverell Court House.JPG
+|caption  = Inverell Court House, built in 1886
+|lga      = Inverell Shire
+|county   = [[Gough County|Gough]] 
+|postcode = 2360
+|coordinates = {{coord|29|46|S|151|07|E|display=inline,title}}
+|est      = 1856 
+|pop      = 11660
+|pop_year = {{CensusAU|2016}}
+|pop_footnotes = <ref name=Census2016>{{Census 2016 AUS|id=SSC11981|name=Inverell (State Suburb)|quick=on|accessdate=17 August 2016}}</ref> 
+|elevation= 582
+|elevation_footnotes = <ref name=BOMInvRaglan1/>
+|maxtemp  = 22.7
+|mintemp  = 10.3
+|rainfall = 800.0
+|stategov = [[Electoral district of Northern Tablelands|Northern Tablelands]]
+|fedgov   = [[Division of New England|New England]]
+|dist1    = 455
+|dir1     = N
+|location1= Sydney
+|dist2    = 318
+|dir2     = SW
+|location2= Brisbane
+|dist3    = 97
+|dir3     = NW
+|location3= [[Armidale, New South Wales|Armidale]]
+|dist4    = 129
+|dir4     = E
+|location4= [[Moree, New South Wales|Moree]]
+|dist5    = 61
+|dir5     = W
+|location5= [[Glen Innes, New South Wales|Glen Innes]]
+}}

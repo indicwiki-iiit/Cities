@@ -1,0 +1,31 @@
+{{Infobox German location
+|image_photo={{Photomontage|position=center
+| photo1a = Blick Marktkirche Halle.jpg
+| photo2a = Moritzburg, Burgtor als Hauptzugang.jpg
+| photo2b = Urban District Centre.jpg
+| photo3a = H51 Francke Krankenhaus Seelsorge.JPG
+| photo3b = Dauerausstellung Paläolithikum, Landesmuseum für Vorgeschichte Sachsen-Anhalt.jpg
+   | size = 280
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = {{nobreak|From top: Halle city centre,}}<br>[[Moritzburg (Halle)]], [[Halle-Neustadt]], [[Francke Foundations]] and [[Halle State Museum of Prehistory]]
+}}
+|image_flag          = Flag of Halle (Saale).svg
+|image_coa            = Coat of arms of Halle (Saale).svg
+|coordinates       = {{coord|51|28|58|N|11|58|11|E|display=inline,title}}
+|image_plan          =
+|name              = Halle (Saale)
+|state        = Saxony-Anhalt
+|type               = City
+|district         = Kreisfreie Stadt
+|elevation              = 87
+|area            = 135.01
+|Gemeindeschlüssel = 15002000
+|postal_code               = 06108-06132
+|area_code           = 0049345
+|licence               = HAL
+|website           = [http://www.halle.de/ www.halle.de]
+|mayor     = [[Bernd Wiegand]]
+|party            =
+}}

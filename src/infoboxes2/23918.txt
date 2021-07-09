@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{HUN}}
+|image_skyline = Kapuvár - Palace.jpg
+|image_caption = Kapuvár palace is now the Rábaközi Museum
+|image_shield =HUN Kapuvár Címer.svg
+|image_flag = Flag of Kapuvár.svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Kapuvár
+|pushpin_mapsize        =
+
+|official_name=Kapuvár
+|map=<!--<div style="position: relative">[[File:GyMSMegye.png|275px]]<div style="position: absolute; left: 38px; top: 61px">[[File:Red_Dot.gif]]</div></div>-->
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Győr-Moson-Sopron County|Győr-Moson-Sopron]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Kapuvár District|Kapuvár]]
+|area_total_km2=96.05
+|population_total=10458
+|population_footnotes=
+|population_as_of=2009
+|population_density_km2=117.71
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=9330
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 96
+|website={{URL|http://www.kapuvar.hu/}}
+|coordinates            = {{coord|47.6000|17.0333|region:HU|display=inline,title}}
+}}

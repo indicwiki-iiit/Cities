@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name          = Fianarantsoa
+|other_name             =
+|native_name            = 
+|nickname               =
+|motto                  = 
+|image_skyline          = Vue globale de la ville Fianarantsoa 2.jpg
+|imagesize              = 240px
+|image_caption          = Upper town Fianarantsoa
+|image_flag             =
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = FIANARANTSOA.png
+|shield_size            = 100px
+|image_map              = 
+|mapsize                = 
+|map_caption            = Location of Fianarantsoa in Madagascar
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = {{Flag|Madagascar}}
+|subdivision_type1      = [[Provinces of Madagascar|Province]]
+|subdivision_name1      = [[Fianarantsoa Province|Fianarantsoa]]
+|subdivision_type2      = [[Regions of Madagascar|Region]]
+|subdivision_name2      = [[Haute Matsiatra]]
+|subdivision_type3      = [[Districts of Madagascar|District]]
+|subdivision_name3      = [[Fianarantsoa District|Fianarantsoa]]
+|pushpin_map            = Madagascar
+|pushpin_label_position = Fianarantsoa
+|pushpin_map_caption    = Location of Fianarantsoa in [[Madagascar]]
+|pushpin_mapsize        = 280
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = 
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           = 
+|established_title      = Founded
+|established_date       = 1830
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 86.05<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|population_as_of       = 2018
+|population_note        = <ref>TROISIEME RECENSEMENT GENERAL DE LA POPULATION ET DE L’HABITATION </ref>
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|population_total       = 191,776
+|population_saxophone_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =auto
+|timezone               = East African Time (GMT+3)
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|21|27|13|S|047|05|09|E|region:MG-F_type:city(144225)|display=inline,title}}
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1200
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+|blank_name                 = [[Köppen climate classification|Climate]]
+|blank_info                 = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+<!-- Area/postal codes & others -------->
+|postal_code_type = Postal code
+|postal_code = 301
+}}

@@ -1,0 +1,66 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                 = Klaipėda
+| nickname             = Uostamiestis (port city), temporary capital of the [[Kingdom of Prussia]]<ref>{{cite web|title=History of Klaipėda (Memel) {{!}} True Lithuania|url=http://www.TrueLithuania.com/history-of-klaipeda-memel-447|website=TrueLithuania.com|access-date=4 November 2017}}</ref>
+| settlement_type      = City
+| image_skyline        = {{Photomontage
+| photo1a                   = Quite_summer_evening_in_the_port_city_Klaipeda.jpg
+| photo2a                   = Klaipėdos_universitetas,_SMF.JPG
+| photo2b                   = Klaipéda_Der_Kunsthof_(18._Jahrhundert).JPG 
+| photo3a                   = Klaipeda_most_obrotowy_3.jpg
+| photo3b                   = Klaipeda_dom_Sukieliu_18.jpg 
+| spacing                   = 2
+| color_border              = white
+| color                     = white
+| size                      = 275
+}}
+| image_caption        = 
+| mapsize              = 230px
+| image_map            = {{Maplink|frame=yes|plain=y|frame-width=325|frame-height=325|zoom=10|frame-lat=55.703|frame-long=21.144|type=shape-inverse|id=Q776965|title=Klaipėda}}
+| map_caption          = Interactive map of Klaipėda
+| pushpin_map          = Lithuania#Baltic states#Europe
+| pushpin_relief       = 1
+| coordinates          = {{coord|55|45|N|21|10|E|region:LT_type:city(620000)|display=inline,title}}
+| pushpin_map_caption  = Location of Klaipėda in Lithuania##Location of Klaipėda within the Baltics##Location of Klaipėda in Europe
+| image_flag           = Klaipeda City Flag.svg
+| image_shield         = Klaipeda City Arms.svg
+| image_blank_emblem   =
+| subdivision_type     = Country
+| subdivision_name     = [[Lithuania]]
+| subdivision_name1    = [[Lithuania Minor]]
+| subdivision_type1    = [[Regions of Lithuania|Ethnographic&nbsp;region]]
+| subdivision_name2    = [[Klaipėda County]]
+| subdivision_type2    = [[Counties of Lithuania|County]]
+| subdivision_name3    = [[Klaipėda city municipality]]
+| subdivision_type3    = [[List of municipalities of Lithuania|Municipality]]
+| subdivision_type6    = [[Capital (political)|Capital of]]
+| subdivision_name6    = [[Klaipėda County]] <br /> Klaipėda city municipality
+| parts_type           = [[Elderships of Lithuania|Elderships]]
+| p1                   = Melnragė and Giruliai
+| parts_style          = para
+| established_date     = 1252
+| established_title    = First mentioned
+| established_date2    = 1258
+| established_title2   = Granted [[Magdeburg rights|city rights]]
+| population_total     = 154332
+| population_metro     = 209,240<sup>including Klaipėda district municipality</sup>
+| population_footnotes =
+| population_as_of     = 2020
+| population_density_km2 = auto
+| blank_name           = [[Gross metropolitan product|GMP]] (nominal)<ref>{{Cite web|url=https://osp.stat.gov.lt/informaciniai-pranesimai?eventId=231671|title=Bendrasis vidaus produktas pagal apskritis 2018m.|website=Osp.stat.gov.lt|access-date=2 August 2019}}</ref>
+| blank_info           = 2019
+| blank1_name          = &nbsp;- Total
+| blank1_info          = €5.3&nbsp;billion 
+| blank2_name          = &nbsp;- Per capita
+| blank2_info          = €16,600
+| area_total_km2       = 98.2
+| area_metro_km2       = 5222
+| elevation_m          = 21
+| postal_code_type     = Postal code
+| postal_code          = 91100-96226
+| area_code            = (+370) 46
+| timezone             = [[Eastern European Time|EET]]
+| utc_offset           = +2
+| timezone_DST         = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST       = +3
+| website              = {{URL|www.klaipeda.lt}}
+}}

@@ -1,0 +1,25 @@
+{{Infobox UNESCO World Heritage Site
+| WHS           = Pantanal Conservation Area
+| image         = Pantanal, south-central South America 5170.jpg
+| image_upright = 1.2
+| caption       = Typical Pantanal scenery
+| location      = [[Brazil]], [[Bolivia]], [[Paraguay]]
+| criteria      = {{UNESCO WHS type|(vii), (ix), (x)}}(vii), (ix), (x)
+| ID            = 999
+| coordinates   = {{coord|17|43|S|57|23|W|format=dms|display=title,inline}}
+| year          = 2000
+| area          = {{convert|187,818|km²|sqmi|abbr=on}}
+| buffer_zone   = 
+| locmapin      = Brazil#South America
+| map_caption   = 
+| embedded = {{Designation list
+| embed = yes
+| designation1 = Ramsar
+| designation1_offname = Pantanal Matogrossense
+| designation1_date = 24 May 1993
+| designation1_number = 602<ref>{{Cite web|title=Pantanal Matogrossense|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/602|access-date=25 April 2018}}</ref>
+| designation2 = Ramsar
+| designation2_offname = El Pantanal Boliviano
+| designation2_date = 17 September 2001
+| designation2_number = 1089<ref>{{Cite web|title=El Pantanal Boliviano|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/1089|access-date=25 April 2018}}</ref>}}
+}}

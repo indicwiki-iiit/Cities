@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                   = Elliot Lake
+|official_name          = City of Elliot Lake
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = [[List of cities in Ontario|City]] ([[List of municipalities in Ontario#Single-tier municipalities|single-tier]])
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Elliot Lake.jpg
+|image_caption          = The city of Elliot Lake; the lake on the right
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Canada Ontario
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location in Ontario
+|pushpin_mapsize        = 200
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = Canada
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = [[Ontario]]
+|subdivision_type2      = District
+|subdivision_name2      = [[Algoma District|Algoma]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Dan Marchisella
+|leader_title1          = Governing Body
+|leader_name1           = Elliot Lake City Council
+|leader_title2          = Federal [[electoral district (Canada)|electoral district]]
+|leader_name2           = [[Algoma—Manitoulin—Kapuskasing]]
+|leader_title3          = Provincial [[electoral district (Canada)|electoral district]]
+|leader_name3           = [[Algoma—Manitoulin (provincial electoral district)|Algoma—Manitoulin]]
+|established_title      = Established
+|established_date       = 1955
+<!-- Area    --------------------->
+|area_magnitude         =
+|area_footnotes         = <ref name=SC16/>
+|area_total_km2         = 
+|area_land_km2          = 714.65
+|area_water_km2         =
+|area_water_percent     =
+<!-- Population   ----------------------->
+|population_as_of       = 2016
+|population_footnotes   = <ref name=SC16>{{cite web |url=http://www12.statcan.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3557041&Geo2=PR&Code2=01&Data=Count&SearchText=Elliot%20Lake&SearchType=Begins&SearchPR=01&TABID=1&B1=All
+ |title=Elliot Lake census profile |publisher=Statistics Canada |work=[[Canada 2016 Census|2016 Census of Population]] |access-date=2017-02-21}}</ref>
+|population_note        =
+|population_total       = 10741
+|population_density_km2 = 15.9
+<!-- General information  --------------->
+|timezone               = [[Eastern Time Zone|Eastern Standard Time (EST)]]
+|utc_offset             = -5
+|timezone_DST           = [[Eastern Time Zone|Eastern Daylight Time (EDT)]]
+|utc_offset_DST         = -4
+|coordinates            = {{coord|46|23|N|82|39|W|region:CA-ON|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of P postal codes of Canada|P5A]]
+|area_code              = [[Area code 705|705]]
+|blank_name             = [[List of highways in Ontario|Highways]]
+|blank_info             = {{jcon|Hwy|108}}
+|website                = [http://www.cityofelliotlake.com/ www.cityofelliotlake.com]
+|footnotes              = Municipal rank:&nbsp;325th in Canada
+}}

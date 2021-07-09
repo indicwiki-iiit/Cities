@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Stewartville
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "The Future Is Bright"
+
+<!-- Images -->
+|image_skyline            = 2009-0528-MN-Stewartville-cityhall.jpg
+|imagesize                = 
+|image_caption            = Stewartville City Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Olmsted_County_Minnesota_Incorporated_and_Unincorporated_areas_Stewartville_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Stewartville, Minnesota
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Olmsted County, Minnesota|Olmsted]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.39
+|area_land_km2            = 8.39
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 3.24
+|area_land_sq_mi          = 3.24
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6094
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5916
+|population_density_km2   = 726.20
+|population_density_sq_mi = 1880.86
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 374
+|elevation_ft             = 1227
+|coordinates              = {{coord|43|51|26|N|92|29|14|W|region:US-MN|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 55976
+|area_code                = [[Area code 507|507]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-62806<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0652636<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://stewartvillemn.com/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

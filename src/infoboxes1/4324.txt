@@ -1,0 +1,76 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name                   = Piedras Negras, Coahuila
+|other_name             = 
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = The Safe Border!
+|settlement_type        = [[City]]
+|motto                  = 
+<!-- images and maps ----------->
+|image_skyline          = Santuario de Nuestra Señora de Guadalupe, Piedras Negras, Coahuila- Nuestra Señora de Guadalupe sanctuary (22760886300).jpg
+|image_caption          = Church of Our Lady of Guadalupe
+|image_flag             = 
+|flag_size              = 
+|image_seal             = Escudo Piedras Negras.jpg
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_map              = 
+|map_caption            = 
+|pushpin_map            = Mexico Coahuila#Mexico<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = Mexico
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[Coahuila]]
+|subdivision_type2      = [[Municipalities of Guerrero|Municipality]]
+|subdivision_name2      = [[Piedras Negras (municipality)|Piedras Negras]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = [[Claudio Mario Bres]] (Partido Morena)
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = 
+|established_title      = Established
+|established_date       = June 15, 1850
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area --------------------->
+|area_footnotes           = 
+|area_total_km2           = 914.2
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 
+|area_water_percent       = 
+<!-- Population ----------------------->
+|population_as_of               = 2015
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 163595<ref name="inegi.org.mx">{{cite web|url=http://www.cuentame.inegi.org.mx/monografias/informacion/coah/poblacion/default.aspx?tema=me|title=Número de habitantes. Coahuila de Zaragoza|website=www.cuentame.inegi.org.mx}}</ref>
+|population_density_km2         = 
+|population_metro               = 245155<ref name="inegi.org.mx"/>
+|population_density_metro_km2   = 
+|population_density_urban_sq_mi = 
+|population_demonym             = {{lang|es|Nigropetrense}}
+<!-- General information --------------->
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = -6
+|timezone_DST           = Central
+|utc_offset_DST         = -5
+|coordinates            = {{coord|28|42|00|N|100|31|23|W|region:MX|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> tags-->
+|elevation_m            = 223
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 26000
+|area_code              = 878
+|blank_name             = Airport
+|blank_info             = [[Piedras Negras International Airport|Piedras Negras Int. Airport]]
+|website                = {{Official URL}}
+|footnotes              = 
+}}

@@ -1,0 +1,49 @@
+{{Infobox settlement
+|name                   = Suolahti
+|official_name          = {{lang|fi|Suolahden kaupunki}}<br />{{lang|sv|Suolahti stad}}
+|settlement_type        = Former municipality
+|image_skyline          = Suolahden kirkko 1.jpg
+|image_caption          = Suolahti Church
+|image_seal             = Äänekoski.vaakuna.svg
+|image_map              = Suolahti.sijainti.suomi.svg
+|mapsize                = 150px
+|map_caption            = Location of Suolahti in [[Finland]]
+|pushpin_mapsize        = 150px
+|subdivision_type       = Country
+|subdivision_name       = [[Finland]]
+|subdivision_type1      = [[Regions of Finland|Region]]
+|subdivision_name1      = [[Central Finland]]
+|seat                   = [[Äänekoski]]
+|established_title      = Established
+|established_date       = 1932
+|established_title2     = [[Town privileges]]
+|established_date2      = 1977
+|extinct_title          = Merged into [[Äänekoski]]
+|extinct_date           = 2007
+|area_footnotes         = <ref name="total_area">{{Cite web |url= http://www.maanmittauslaitos.fi/Pintaalat_kunnittain_1.1.2006.pdf |title= Area by municipality as of {{#time: j F Y|2006-01-01}} |accessdate= {{#time: j F Y|2010-05-02}} |publisher= Land Survey of Finland |format= PDF |language= Finnish, Swedish }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+|area_total_km2         = 67.48
+|area_land_km2          = 57.73
+|area_water_km2         = 9.75
+|population_as_of       = 2006-12-31
+|population_footnotes   = <ref name="population_count">{{Cite web |url= http://www.vrk.fi/vrk/files.nsf/files/5C9F0C2045E12D21C2257260004072C9/$file/061231.htm |title= Population by municipality as of {{#time: j F Y|2006-12-31}} |accessdate= {{#time: j F Y|2010-05-02}} |work= Population Information System |publisher= Population Register Center of Finland |language= Finnish, Swedish }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|population_total       = 5380
+|population_density_km2 = auto
+|demographics1_info1            = % 
+|demographics1_info2            = % 
+|demographics1_info3            = % 
+|demographics1_info4            = %
+|demographics_type2             = [[Demographics|Population by age]]
+|demographics2_title1           = 0 to 14
+|demographics2_info1            = 16.36%
+|demographics2_title2           = 15 to 64
+|demographics2_info2            = 66.99%
+|demographics2_title3           = 65 or older
+|demographics2_info3            = 16.65%
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST         = +3
+|coordinates            = {{coord|62|33|50|N|025|51|10|E|region:FI|display=inline,title}}
+|postal_code_type       = Postal code
+|website                = [http://www.aanekoski.fi/ www.aanekoski.fi]
+}}

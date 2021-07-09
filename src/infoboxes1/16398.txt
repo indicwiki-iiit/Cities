@@ -1,0 +1,101 @@
+{{Infobox settlement
+|official_name            = St. Clair Shores, Michigan
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = The Shores
+|settlement_type          = City
+|motto                    = 
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = St. Clair Shores welcome sign
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|pushpin_map            = Michigan
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          = St. Clair Shores
+|pushpin_map_caption    = Location within the state of Michigan
+|pushpin_mapsize        = 
+|image_map                = St. Clair Shores, MI location.png
+|mapsize                  = 250
+|map_caption              = Location within [[Macomb County, Michigan|Macomb County]] 
+|subdivision_type = Country
+|subdivision_type1        = State
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name         = United States
+|subdivision_name1        = [[Michigan]]
+|subdivision_name2        = [[Macomb County, Michigan|Macomb]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Kip C. Walby
+|leader_title1            = [[City manager]]
+|leader_name1             = Mike Smith
+
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 37.30
+|area_land_km2            = 30.25
+|area_water_km2           = 7.04
+|area_total_sq_mi         = 14.40
+|area_land_sq_mi          = 11.68
+|area_water_sq_mi         = 2.72
+|area_water_percent       = 18.63
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 58984
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 59715
+|population_density_km2   = 1949.70
+|population_density_sq_mi = 5049.57
+|population_note          = 
+|population_metro         = 
+|population_density_metro_km2    = 
+|population_density_metro_sq_mi  = 
+|population_urban                = 
+|population_density_urban_km2    = 
+|population_density_urban_sq_mi  = 
+|population_blank1_title         = 
+|population_blank1               = 
+|population_density_blank1_km2   = 
+|population_density_blank1_sq_mi = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = −5
+|timezone_DST             = EDT
+| utc_offset_DST = −4
+|coordinates              = {{coord|42|29|16|N|82|53|48|W|region:US-MI|display=inline}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 176
+|elevation_ft             = 577
+|postal_code_type         = [[ZIP Code]](s)
+|postal_code              = 48080, 48081, 48082
+|area_code                = [[Area code 586|586]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-70760
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0636601<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|scsmi.net/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

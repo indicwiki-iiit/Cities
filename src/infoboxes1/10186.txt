@@ -1,0 +1,48 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = District 
+|subdivision_type = Country
+|subdivision_name       = {{Flag|Turkey}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|map_caption =Location of Zile within Turkey.
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+
+  |official_name = Zile
+  |image_skyline = Zile_gece.jpg
+  |
+  image_caption = Zile City Center at night
+<!--  Commented out because image was deleted: |image_blank_emblem = Zile coat of arms.JPG -->
+  |
+  blank_emblem_type = Coat of Arms of Zile Municipality
+  | districts.png
+  |
+  subdivision_type1=[[Regions of Turkey|Region]]|
+subdivision_name1 = Black Sea
+  |subdivision_type2=[[Provinces of Turkey|Province]]|
+subdivision_name2 = Tokat
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Tokat|Zile}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Tokat}}
+| population_urban        = {{Turkey district populations|Tokat|Zile|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Tokat|Zile|toplam}}
+| population_density_blank1_km2  = auto
+|pushpin_map            =Turkey
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Zile
+|pushpin_mapsize        =
+|coordinates             = {{coord|40|18|N|35|53|E|region:TR|display=inline,title}}
+|elevation_m = 710|postal_code_type=[[Postal code]]|
+postal_code = 60400
+  |area_code = 0356
+  |blank_info = 60|blank_name=[[Turkish car number plates|Licence&nbsp;plate]]|
+  leader_title=[[Mayor]]|
+leader_name = Şükrü Sargın ([[Republican People's Party (Turkey)|CHP]])
+  |website = {{Official website}}
+  |leader_title1=[[Governor]]|
+leader_name1 = Mehmet Eriş
+  |gwebsite = [http://www.tokat.gov.tr www.tokat.gov.tr]
+}}

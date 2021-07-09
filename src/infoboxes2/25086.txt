@@ -1,0 +1,36 @@
+{{Infobox Australian place
+| type      = town 
+| name      = Springwood
+| state     = nsw
+| image     = (1)Braemar.jpg
+| caption   = Braemar (1892)
+| coordinates = {{coord|33|42|0|S|150|33|0|E|display=inline,title}}
+| pushpin_label_position = left
+| pop                    = 8475
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC13629 |name=Springwood (NSW) (State Suburb) |accessdate=19 March 2018 |quick=on}}</ref>
+| lga       = City of Blue Mountains
+| county    = 
+| postcode  = 2777
+| est       = circa 1815
+| elevation = 371
+| maxtemp   = 22.4
+| mintemp   = 11.9	
+| rainfall  = 1086.3
+| stategov  = [[Electoral district of Blue Mountains|Blue Mountains]]
+| fedgov    = [[Division of Macquarie|Macquarie]]
+| near-nw   = [[Faulconbridge, New South Wales|Faulconbridge]]
+| near-n    = [[Winmalee, New South Wales|Faulconbridge]]
+| near-ne   = [[Yellow Rock, New South Wales (Blue Mountains)|Yellow Rock]]
+| near-w    = [[Faulconbridge, New South Wales|Faulconbridge]]
+| near-e    = [[Valley Heights, New South Wales|Valley Heights]]
+| near-sw   = 
+| near-s    = 
+| near-se   = [[Yellow Rock, New South Wales (Blue Mountains)|Yellow Rock]]
+| dist1     = 72
+| dir1      = west
+| location1 = [[Sydney]]
+| dist2     = 30
+| dir2      = east
+| location2 = [[Katoomba, New South Wales|Katoomba]]
+}}

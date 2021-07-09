@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kenge
+|official_name          = ''Ville de Kenge''
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Provincial capital and city
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in the Democratic Republic of the Congo
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of the Democratic Republic of the Congo.svg|25px]] [[Democratic Republic of the Congo|DR Congo]]
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[Kwango Province]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|parts_type             = Communes
+|parts_style            = para
+|p1                     = Cinq Mai
+|p2                     = Laurent Desire Kabila
+|p3                     = Manonga
+|p4                     = Masikita
+|p5                     = Mavula
+|<!-- Politics ----------------->
+|government_footnotes   = <ref>{{cite news |last1=Yimbu |first1=Émile |title=RDC/Kwango: le marché central de Kenge déplacé ce jeudi |url=https://congoprofond.net/rdc-kwango-le-marche-central-de-kenge-deplace-ce-jeudi/ |accessdate=1 September 2019 |work=Congo Profond.net |date=18 April 2019 |language=French}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Augustin Mvunzi Tubavidiko
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Metric
+|area_footnotes           =
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2009
+|population_footnotes           =
+|population_note                =
+|population_total               =41612
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[West Africa Time]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|4|48|20|S|17|02|30|E|region:CD|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|blank1_name            = [[Languages of the Democratic Republic of the Congo|National language]]
+|blank1_info            = [[Kituba language|Kikongo ya Leta]]
+|website                = 
+|footnotes              = 
+}}

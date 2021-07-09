@@ -1,0 +1,34 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Mount Evelyn
+| city     = Melbourne
+| state    = vic
+| image    = 
+| caption  = 
+| lga      = Shire of Yarra Ranges
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37.783|S|145.385|E|display=inline,title}}
+| postcode = 3796
+| pop      = 9,702
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS2016">{{cite web |title=2016 Census QuickStats Mount Evelyn |url=https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC21783 |website=Australian Bureau of Statistics |accessdate=6 June 2019}}</ref>
+| elevation = 188
+| est      = 
+| stategov = [[Electoral district of Evelyn|Evelyn]]
+| stategov2= [[Electoral district of Monbulk|Monbulk]]
+| fedgov   = [[Division of Casey|Casey]]
+| dist1    = 41
+| location1= [[Melbourne]]
+| dist2    = 5
+| location2= [[Lilydale, Victoria|Lilydale]]
+| dist3    = 19
+| location3= [[Belgrave, Victoria|Belgrave]]
+| near-nw  = [[Lilydale, Victoria|Lilydale]]
+| near-n   = [[Lilydale, Victoria|Lilydale]]
+| near-ne  = [[Wandin North, Victoria|Wandin North]]
+| near-w   = [[Lilydale, Victoria|Lilydale]]
+| near-e   = [[Wandin North, Victoria|Wandin North]]
+| near-sw  = [[Montrose, Victoria|Montrose]]
+| near-s   = [[Kalorama, Victoria|Kalorama]]
+| near-se  = [[Silvan, Victoria|Silvan]]
+}}

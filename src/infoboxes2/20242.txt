@@ -1,0 +1,73 @@
+{{Infobox settlement
+| official_name            = Parma Heights, Ohio
+| settlement_type          = [[City]]
+| nickname                 = 
+<!-- Images --------------->
+| image_skyline            = Robert W. Henry House, Parma Heights.jpg
+| imagesize                = 250px
+| image_caption            = [[Robert W. Henry House]] on [[U.S. Route 42|Pearl Road]]
+| image_flag               = 
+| image_seal               = 
+<!-- Maps ----------------->
+| image_map = Cuyahoga County Ohio incorporated and unincorporated areas Parma Heights highlighted.svg
+| mapsize = 260px
+| map_caption = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the state of [[Ohio]].
+| image_map1 = Ohio in United States (US48).svg
+| map_caption1 = Location of Ohio in the United States
+<!-- Coordinates ---------->
+| coordinates              = {{coord|41|23|10|N|081|45|48|W|region:US-OH_type:city|display=inline,title}}
+| coordinates_footnotes    = 
+<!-- Location ------------->
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Ohio]]
+| subdivision_type2        = [[List of counties in Ohio|County]]
+| subdivision_name2        = [[Cuyahoga County, Ohio|Cuyahoga]]
+<!-- Government ----------->
+| government_footnotes     = 
+| government_type          = 
+| leader_title             = [[Mayor]]
+| leader_name              = Mike Byrne ([[Democratic Party (United States)|D]])<ref>{{cite web|last1=Exner|first1=Rich|title=Democrats outnumber Republicans as mayors in Cuyahoga County, 39-14|url=http://www.cleveland.com/datacentral/index.ssf/2013/11/democrats_outnumber_republican.html|website=[[The Plain Dealer|Cleveland.com]]|access-date=31 January 2016|date=16 November 2013}}</ref>
+| leader_title1            = 
+| leader_name1             = 
+| established_title        = 
+| established_date         = 
+<!-- Area ----------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude           = 
+| area_total_km2           = 10.85
+| area_land_km2            = 10.85
+| area_water_km2           = 0.00
+| area_total_sq_mi         = 4.19
+| area_land_sq_mi          = 4.19
+| area_water_sq_mi         = 0.00
+<!-- Elevation ------------>
+| elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_ft             = 856
+| elevation_m              = 261
+<!-- Population ----------->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 19790
+| pop_est_as_of            = 2019
+| population_footnotes     = <ref name="wwwcensusgov"/>
+| population_total         = 20718
+| population_density_sq_mi = 4722.02
+| population_density_km2   = 1823.21
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 44130
+| area_code                = [[Area code 440|440]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|39|61028}} <ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = {{GNIS4|1056914}}
+| website                  = {{URL|www.parmaheightsoh.gov}}
+| footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

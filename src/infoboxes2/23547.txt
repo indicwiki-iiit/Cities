@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Grand Haven, Michigan
+|official_name            = City of Grand Haven
+|settlement_type          = [[City]]
+|nickname                 = "Coast Guard City U.S.A."
+<!-- Images -->
+|image_skyline            = Grand_haven_lighthouse.jpg{{!}}border
+|imagesize                = 
+|image_caption            = The Grand Haven [[Grand Haven South Pierhead Entrance Light|fog signal]] and [[Grand Haven South Pierhead Inner Light|inner lighthouse]] in February 2006.
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = 
+
+Ottawa_County_Michigan_Incorporated_and_Unincorporated_areas_Grand_Haven_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Grand Haven within [[Michigan]]
+|image_map1               = 
+
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name         = [[United States]]
+|subdivision_name1        = [[Michigan]]
+|subdivision_name2        = [[Ottawa County, Michigan|Ottawa]]
+
+<!-- Government -->
+|government_type          = [[Council-manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Bob Monetza
+|established_title        = incorporated
+|established_date         = 1867
+
+<!-- Area -->
+|area_magnitude           = 
+|area_total_sq_mi         = 6.25
+|area_land_sq_mi          = 5.72
+|area_water_sq_mi         = 0.53
+|area_water_percent       = 
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 16.19
+|area_land_km2            = 14.83
+|area_water_km2           = 1.37
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 11047
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 10412
+|population_density_km2   = 745.13
+|population_density_sq_mi = 1929.94
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|EST]]
+|utc_offset               = -5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = -4
+|elevation_ft             = 662
+|elevation_m              = 202
+|coordinates              = {{coord|43|3|47|N|86|13|42|W|region:US-MI_type:city_source:GNIS|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 49417
+|area_code                = 616
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-33340<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0627084<ref>{{gnis|0627084}}</ref>
+|website                  = http://www.grandhaven.org
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|unit_pref = Imperial
+}}

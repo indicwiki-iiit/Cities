@@ -1,0 +1,77 @@
+{{Infobox settlement
+| name                    = Woodhaven
+| settlement_type         = [[Neighborhoods of Queens|Neighborhood of Queens]]
+| image_skyline           = Woodhaven Bl Jamaica Av 37.jpg
+| imagesize               =
+| image_alt               =
+| image_caption           = View from the [[Woodhaven Boulevard (BMT Jamaica Line)|Woodhaven Boulevard]] subway station
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| nickname                = 
+| motto                   =
+| anthem                  =
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=12|type=shape|from=Neighbourhoods/New York City/Woodhaven.map}}<!--{{maplink|frame=yes|plain=yes|frame-align=center|frame-lat=40.705|frame-long=-73.975|zoom=9|type=point|coord={{coord|40.691|-73.855}}}}-->
+| mapsize                 =
+| map_alt                 =
+| map_caption             = Location within New York City
+
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{Flag|United States|size=23px}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{Flag|New York|size=23px}}
+| subdivision_type2       = City
+| subdivision_name2       = {{Flag|New York City|size=23px}}
+| subdivision_type3       = [[List of counties in New York|County]]/[[Borough (New York City)|Borough]]
+| subdivision_name3       = {{Flagicon image|Flag of Queens.png|size=23px}} [[Queens]]
+| subdivision_type4       = [[Community boards of Queens|Community District]]
+| subdivision_name4       = [[Queens Community Board 9|Queens 9]]<ref name="NYCPlanning">{{cite web|title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/queens/9|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=April 7, 2018}}</ref>
+
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        = 
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| founder                 = 
+| named_for               =
+
+<!-- population ---------------->
+| population_footnotes    = <ref name=PLP5/>
+| population_total        = 56,674
+| population_as_of        = [[2010 United States Census]]
+| population_density_km2  = <!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi=
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+| population_est =
+| pop_est_as_of  =
+
+<!-- demographics (section 1) -->
+| demographics_type1      = Ethnicity
+| demographics1_footnotes = <ref name=PLP3A/>
+| demographics1_title1    = Hispanic
+| demographics1_info1     = 53.5%
+| demographics1_title2    = Asian
+| demographics1_info2     = 17.4%
+| demographics1_title3    = White
+| demographics1_info3     = 17.3%
+| demographics1_title4    = Black
+| demographics1_info4     = 6.1%
+| demographics1_title5    = Other
+| demographics1_info5     = 5.7%
+
+<!-- demographics (section 2) -->
+| demographics_type2      = Economics
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    = [[Median household income|Median income]]
+| demographics2_info1     = $51,596
+
+<!-- postal codes, area code --->
+| timezone                = [[Eastern Time Zone (North America)|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        = [[ZIP Code]]
+| postal_code             = 11421
+| area_code_type          = [[Telephone numbering plan|Area code]]s
+| area_code               = [[Area codes 718, 347, and 929|718, 347, 929]], and [[Area code 917|917]]
+}}

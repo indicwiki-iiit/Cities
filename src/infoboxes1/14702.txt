@@ -1,0 +1,49 @@
+{{Infobox settlement
+|name            = South Monrovia Island, California
+|settlement_type          = [[census-designated place]]
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|established_title        = 
+|established_date         = 
+<!-- Population------------------>
+| population_total        = 6777
+| population_as_of        = 2010
+| population_density_km2  = auto
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://www.webcitation.org/64vfLAeJ2?url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-01-24 }}</ref>
+| area_total_sq_mi        = 0.548
+| area_land_sq_mi         = 0.548
+| area_water_sq_mi        = 0
+| area_total_km2          = 1.419
+| area_land_km2           = 1.419
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = <ref>{{gnis| 2629294}}</ref>
+|elevation_m              = 
+|elevation_ft             = 384
+| pushpin_map             = California
+| pushpin_map_caption     = Position in California
+|coordinates              = {{coord|34|07|05|N|117|59|45|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info               = 2629294
+|website                  = 
+|footnotes                = {{gnis|2629294}}
+}}

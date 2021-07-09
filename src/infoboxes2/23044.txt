@@ -1,0 +1,83 @@
+{{Infobox settlement
+|official_name            = Tremonton, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "A friendly and progressive place"<br>"City with a future"
+
+<!-- Images -->
+|image_skyline            = Tremonton diner.JPG
+|imagesize                = 
+|image_caption            = Diner in the entrance of Tremonton at the junction of [[Interstate 15 in Utah|Interstate 15]] and [[Interstate 84 in Utah]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Box Elder County Utah incorporated and unincorporated areas Tremonton highlighted.svg
+|map_caption              = Location in [[Box Elder County, UT|Box Elder County]] and the state of [[Utah]]
+|image_map1               = Map of USA UT.svg
+|map_caption1             = Location of Utah in the United States
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Box Elder County, Utah|Box Elder]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1888
+|established_title1       = [[Incorporated town|Incorporated]]
+|established_date1        = January 6, 1906
+|established_title2       = City
+|established_date2        = May 6, 1918
+|named_for                = [[Tremont, Illinois]]
+|founder                  = John Petty
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 20.77
+|area_land_km2            = 20.77
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 8.02
+|area_land_sq_mi          = 8.02
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7647
+|population_density_km2   = 443.31
+|population_density_sq_mi = 1148.17
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = <ref name=usgs>{{gnis|1433664|Tremonton}}</ref>
+|elevation_m              = 1318
+|elevation_ft             = 4324
+|coordinates              = {{coord|41|42|34|N|112|10|26|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84337
+|area_code                = [[Area code 435|435]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-77120<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1433664<ref name=usgs/>
+|website                  = {{URL|www.tremontoncity.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 9206
+}}

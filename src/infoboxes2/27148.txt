@@ -1,0 +1,64 @@
+{{Infobox settlement
+| official_name            = Islamorada, Florida
+| settlement_type          = [[Village (United States)|Village of Islands]]
+<!-- Images -->
+| image_skyline            = Islamorada Florida.jpg
+| image_caption            = One of a few beaches on the [[Atlantic Ocean|Atlantic]] side of Islamorada
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+| motto                    = "Village Of Islands"
+<!-- Maps -->
+| image_map                = FLMap-doton-Islamorada.PNG
+| mapsize                  = 250x200px
+| map_caption              = Location of Islamorada, Florida
+| image_map1               = Islamorada.gif
+| mapsize1                 = 250x200px
+| map_caption1             = U.S. Census Bureau map showing village boundaries
+| coordinates              = {{coord|24|56|9|N|80|36|49|W|region:US-FL|display=inline,title}}
+<!-- Location -->
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{flag|United States}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Florida]]
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = {{noflag|[[Monroe County, Florida|Monroe]]}}
+| established_title        = 
+| established_date         = 
+| government_type          = 
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2           = 17.35
+| area_total_sq_mi         = 6.70
+| area_land_km2            = 16.70
+| area_land_sq_mi          = 6.45
+| area_water_km2           = 0.65
+| area_water_sq_mi         = 0.25
+| elevation_footnotes      = 
+| elevation_m              = 
+<!-- Population -->
+| population_footnotes     = 
+| population_total         = 6119
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 6317
+| pop_est_as_of            = 2019
+| population_density_km2   = 378.19
+| population_density_sq_mi = 979.53
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 33036, 33070
+| area_code                = [[Area code 305|305]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 12-34132<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| website                  = {{URL|http://www.islamorada.fl.us/}}
+}}

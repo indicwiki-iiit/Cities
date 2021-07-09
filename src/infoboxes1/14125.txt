@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                   = Yehud
+| native_name            = {{Lang|he|{{Script/Hebrew|יְהוּד}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Yhud
+| image_skyline          = Jahud024.jpg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = right
+| pushpin_map_caption    = Location within Israel's Central District
+| coordinates            = {{coord|32|2|0|N|34|53|0|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 2000 BCE <small>(Earliest settlement)</small><br>1500 BCE <small>(Israelite town)</small><br>1596 <small>(Arab village of [[al-Yahudiya]])</small><br>1953 <small>(Israeli city)</small>
+| leader_title           = Mayor
+| leader_name            = Yaela Machlis ([[Yehud-Monosson]])
+| unit_pref              = dunam
+| area_total_km2         = {{formatnum:4.1|R}}
+| area_total_dunam       = {{formatnum:4100|R}}
+| population_total       = 25,604
+| population_as_of       = 2007
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Named for Biblical location
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Scarsdale, New York
+|settlement_type          = [[Village (New York)|Village]] & [[Administrative divisions of New York#Town|Town]]
+|image_skyline            = ScarsdalePostOffice.JPG
+|imagesize                = 
+|image_caption            = The Scarsdale Post Office
+|image_flag               = 
+|image_seal               = Seal of the Village of Scarsale.jpg
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    = 
+|pushpin_map             = USA New York#USA
+|pushpin_label           = Scarsdale
+|pushpin_label_position      = left
+|pushpin_map_caption      = Location in the United States
+<!-- Images -->
+|image_map                = Westchester County New York incorporated and unincorporated areas Scarsdale highlighted.svg
+|map_caption              = Location of Scarsdale, New York
+
+<!-- Location -->
+|coordinates              = {{coord|40|59|32|N|73|47|13|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name1        = {{flag|New York}}
+|subdivision_name2        = [[Westchester County, New York|Westchester]]
+|established_title        = Settled
+|established_date         = March 21, 1701
+|established_title1       = Incorporated (town)
+|established_date1        = March 7, 1788
+|established_title2       = Incorporated (village)
+|established_date2        = May 24, 1915
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Jane E. Veron
+|leader_title1            = Village Manager
+|leader_name1             = Stephen M. Pappalardo
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 17.31
+|area_total_sq_mi         = 6.68
+|area_land_km2            = 17.29
+|area_land_sq_mi          = 6.67
+|area_water_km2           = 0.02
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 66
+|elevation_ft             = 217
+|population_total         = 17166
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_km2   = 1033.69
+|population_density_sq_mi = 2677.30
+
+<!-- General information -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 10583
+|area_code                = [[Area code 914|914]]
+|website                  = [http://www.scarsdale.com/ www.scarsdale.com]
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-65431
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature
+|blank1_info              = 0977410
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 17871
+}}

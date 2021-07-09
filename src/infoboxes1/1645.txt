@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type     = town
+| name     = Uralla
+| state    = nsw
+| image    = Uralla (5).JPG 
+| caption  = Uralla, NSW
+| coordinates = {{coord|30|38|S|151|29|E|display=inline,title}}
+| pushpin_label_position = left
+| lga      = Uralla Shire
+| county   = [[Sandon County]]
+| postcode = 2358
+| est      = 1855
+| pop      = 2421
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census>{{Census 2016 AUS|id=UCL115139|name=Uralla (Urban Centre/Locality)
+|accessdate=23 February 2020|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| elevation= 1012
+| maxtemp  = 19.7
+| mintemp  = 6.3
+| rainfall = 802.9
+| stategov = [[Electoral district of Northern Tablelands|Northern Tablelands]]
+| fedgov   = [[Division of New England|New England]]
+| dist1    = 465
+| dir1     = NNW
+| location1= [[Sydney]]
+| dist2    = 91
+| dir2     = NE
+| location2= [[Tamworth, New South Wales|Tamworth]]
+| dist3    = 23
+| dir3     = SW
+| location3= [[Armidale, New South Wales|Armidale]]
+}}

@@ -1,0 +1,68 @@
+{{Infobox settlement
+
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Stouffville
+| other_name             = Whitchurch-Stouffville
+| nickname               =
+| settlement_type        = Town
+| motto                  = Country close to the City
+<!-- images and maps  ----------->
+| pushpin_map            = Canada Ontario York
+| pushpin_label_position = none
+| pushpin_map_caption    = Location within York
+| pushpin_mapsize        = 220
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = Canada
+| subdivision_type1      = [[Provinces and territories of Canada|Province]]
+| subdivision_name1      = [[Ontario]]
+| subdivision_type2      = [[Regional municipality]]
+| subdivision_name2      = [[Regional Municipality of York|York Region]]
+| subdivision_type3      = Town
+| subdivision_name3      = [[Whitchurch–Stouffville]]
+<!-- Politics -->
+| government_footnotes   =
+| government_type        = Municipality
+| leader_title           = [[Mayor]]
+| leader_name            = [[List of mayors of Whitchurch–Stouffville|Iain Lovatt]]
+| leader_title1          = [[Councillors]]
+| leader_name1 = <ref>http://www.townofws.com/members_council.asp</ref><br>Rick Upton (Ward 4)<br>Richard Bartley (Ward 5)<br>Sue Sherban (Ward 6)
+| leader_title2          = MPP
+| leader_name2           = [[Paul Calandra]]
+| leader_title3          = MP
+| leader_name3           = [[Helena Jaczek]]
+| established_title      = Incorporated
+| established_date       = Village of Stouffville 1877
+| established_title2     = Amalgamation (with Whitchurch Township)
+| established_date2      = January 1, 1971
+<!-- Area    --------------------->
+| area_magnitude         =
+| area_footnotes         = <ref name="ReferenceA">[[#2011popc|Statistics Canada]]: 2012</ref>
+| area_total_km2         =
+| area_land_km2          = 14.87
+| area_water_km2         =
+<!-- Population   ----------------------->
+| population_as_of       = [[Canada 2011 Census|2011]]
+| population_footnotes   = <ref name="ReferenceA"/>
+| population_total       = 24886
+| population_density_km2 = 1673.3
+<!-- General information  --------------->
+| timezone               = [[Eastern Time Zone|EST]]
+| utc_offset             = −05:00
+| timezone_DST           = EDT
+| utc_offset_DST         = −04:00
+| coordinates            = {{coord|43|58|N|79|15|W|region:CA-ON|display=inline,title}}
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 266
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+| postal_code            = [[List of L postal codes of Canada|L4A]]
+| area_code              = [[Area codes 905 and 289|905 and 289]]
+| blank_name             = [[National Topographic System|NTS]] Map
+| blank_info             = 030M14
+| blank1_name            = [[Geographical Names Board of Canada|GNBC]] Code
+| blank1_info            = FCSZB
+| website                = {{URL|http://www.town.whitchurch-stouffville.on.ca/}}
+| footnotes              =
+}}

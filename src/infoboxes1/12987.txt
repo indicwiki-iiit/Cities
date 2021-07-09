@@ -1,0 +1,58 @@
+{{Infobox settlement
+| name                    = Karlovy Vary
+| native_name             = 
+| other_name              = Karlsbad
+| settlement_type         = [[Statutory city (Czech Republic)|Statutory city]]
+<!-- images, nickname, motto -->
+| image_skyline           = Karlovy Vary Czech.jpg
+| image_caption           = Aerial view of Karlovy Vary
+| image_flag              = Karlovy Vary (CZE) - flag.gif
+| image_shield            = Karlovy Vary COA.svg
+| etymology               = "[[Charles IV, Holy Roman Emperor|Charles]]' Baths"
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Karlovy Vary Region|Karlovy Vary]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Karlovy Vary District|Karlovy Vary]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|50|13|50|N|12|52|21|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Andrea Pfeffer Ferklová
+| leader_party            = [[ANO 2011|ANO]]
+<!-- established -->
+| established_title       = Founded around
+| established_date        = 1349
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 59.08
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 447
+<!-- population -->
+| population_as_of        = 2021-01-01
+| population_footnotes    = <ref>{{cite web |title=Population of Municipalities – 1 January 2021|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2021|publisher=[[Czech Statistical Office]]|date=2021-04-30}}</ref>
+| population_total        = 48319
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 360 01
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = [http://www.karlovyvary.cz/en/ www.karlovyvary.cz]
+| footnotes               = 
+}}

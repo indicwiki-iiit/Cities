@@ -1,0 +1,79 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name                   = Zalaegerszeg
+|settlement_type        = [[Town with county rights|City with county rights]]
+|official_name          = {{lang|hu|Zalaegerszeg Megyei Jogú Város}}
+|image_skyline = {{nowrap|[[File:R. k. plébániatemplom (11066. számú műemlék) 4.jpg|121px]][[File:Szent Flórián-szobor (11065. számú műemlék).jpg|135px]]<br/>[[File:Olai vízimalom ThT.JPG|136px]][[File:Zalaegerszeg, Széchenyi tér 3.jpg|121px]]}}
+|image_caption = '''Left''':[[Mary Magdalene|Mary Magdalene Church]], A water wheel in Village Museum of Göcsej, '''Right''':Statue of Szent Florián, Zala Megyei Leveltár Reference Office (all items from above to bottom) 
+|image_shield = HUN Zalaegerszeg Címer.svg
+|image_flag = Flag of Zalaegerszeg.svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+| pushpin_map            = Hungary Zala#Hungary
+| pushpin_relief         = 1
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = 
+| pushpin_mapsize        =
+| nickname = ''Egerszeg'', ''Zeg''
+|map=<!--  Commented out because image was deleted: [[File:Zeg_cimer.jpg|center|100px]] --><br/><div style="position: relative">[[File:ZalaMegye.png|275px]]<div style="position: absolute; left: 27px; top: 106px">[[File:Red Dot.gif]]</div></div>-->
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_name  = {{HUN}}
+|subdivision_type1 = [[Counties of Hungary|County]]
+|subdivision_name1 = [[Zala County|Zala]]
+|subdivision_type2 = [[Districts of Hungary|District]]
+|subdivision_name2 = [[Zalaegerszeg District|Zalaegerszeg]]
+|leader_title = [[Mayor]]
+|leader_name = [[Zoltán Balaicz]] ([[Fidesz – Hungarian Civic Union|Fidesz]])
+|area_total_km2=99.98
+|elevation_m=166
+|population_total=61970
+| population_rank =[[List of cities and towns in Hungary|17th]]
+|population_footnotes=
+|population_as_of=2011
+|population_density_km2=621.70
+| population_blank1_title = Demonym
+| population_blank1       = egerszegi, zalaegerszegi
+<!-- demographics (section 1) -->
+|demographics_type1     = [[Demographics of Hungary|Population by ethnicity]]
+|demographics1_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32054 KSH - Zalaegerszeg, 2011]</ref>
+|demographics1_title1   = [[Hungarians]]
+|demographics1_info1    = 86.2%
+|demographics1_title2   = [[Romani people in Hungary|Gypsies]]
+|demographics1_info2    = 1.4%
+|demographics1_title3   = [[Hungarian Germans|Germans]]
+|demographics1_info3    = 0.9%
+|demographics1_title4   = [[Romanians in Hungary|Romanians]]
+|demographics1_info4    = 0.2%
+|demographics1_title5   = [[Poles in Hungary|Poles]]
+|demographics1_info5    = 0.1%
+|demographics1_title6   = [[Croats in Hungary|Croats]]
+|demographics1_info6    = 0.1%
+|demographics1_title7   = Others
+|demographics1_info7    = 0.8%
+<!-- demographics (section 2) -->
+|demographics_type2     = [[Demographics of Hungary|Population by religion]]
+|demographics2_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32054 KSH - Zalaegerszeg, 2011]</ref>
+|demographics2_title1   = [[Catholic Church in Hungary|Roman Catholic]]
+|demographics2_info1    = 52.5%
+|demographics2_title2   = [[Hungarian Greek Catholic Church|Greek Catholic]]
+|demographics2_info2    = 0.1%
+|demographics2_title3   = [[Reformed Church in Hungary|Calvinists]]
+|demographics2_info3    = 2.9%
+|demographics2_title4   = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+|demographics2_info4    = 1.1%
+|demographics2_title5   = [[Jews in Hungary|Jews]]
+|demographics2_info5    = 0.1%
+|demographics2_title6   = Other
+|demographics2_info6    = 1.1%
+|demographics2_title7   = [[Non-religious]]
+|demographics2_info7    = 14.3%
+|demographics2_title8   = Unknown
+|demographics2_info8    = 27.9%
+|postal_code_type = [[Postal codes in Hungary|Postal code]]
+|postal_code = 8900
+|area_code_type = [[Telephone numbers in Hungary|Area code]]
+|area_code = (+36) 92
+|coordinates             = {{coord|46.84538|16.84721|region:HU|display=inline}}
+|website={{URL|http://www.zalaegerszeg.hu/}}
+}}

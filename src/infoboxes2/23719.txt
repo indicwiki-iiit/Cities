@@ -1,0 +1,52 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = São Luiz do Paraitinga
+| native_name            = 
+| other_name             = 
+| settlement_type        = [[Municipalities of Brazil|municipality]]
+| image_skyline          = R Monsenhor Ignacio Giolia Sao Luiz do Paraitinga.JPG
+| image_caption          = Historical Center of São Luiz do Paraitinga
+| image_flag             = Saoluizdoparaitinga_bandeira.png
+| image_seal             = Saoluizdoparaitinga_brasao.png
+| image_map              = SaoPaulo Municip SaoLuizdoParaitinga.svg
+| mapsize                = 250x200px
+| map_caption            = Location in [[São Paulo (state)|São Paulo state]]
+| pushpin_map            = Brazil
+| coordinates            = {{coord|23|13|19|S|45|18|36|W|region:BR|display=inline,title}}
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Brazil}}
+| subdivision_type1      = [[Regions of Brazil|Region]]
+| subdivision_name1      = [[Southeast Region, Brazil|Southeast]]
+| subdivision_type2      = [[States of Brazil|State]]
+| subdivision_name2      = [[São Paulo (state)|São Paulo]]
+| subdivision_type3      = Metropolitan Region
+| subdivision_name3      = [[Metropolitan Region of Vale do Paraíba e Litoral Norte|Vale do Paraíba e Litoral Norte]]
+| established_title      = 
+| established_date       = 
+| leader_title           = 
+| leader_name            =
+<!-- Area------------------>
+| area_footnotes         = <ref name ="IBGE_Área">{{cite web|url=http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm |title=Área territorial oficial |access-date=5 December 2010|date=10 October 2002|author=IBGE |publisher=Resolução da Presidência do IBGE de n° 5 (R.PR-5/02)}}</ref>
+| area_total_km2         = 617.148
+| area_land_km2          = 
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use<ref> </ref> tags-->
+| elevation_m            = 741
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 10,690
+| population_as_of       = 2020 <ref>[https://cidades.ibge.gov.br/brasil/sp/sao-luiz-do-paraitinga/panorama IBGE 2020]</ref>
+| population_density_km2 = auto
+<!-- General information  --------------->
+| timezone               = [[UTC-03|Brasilia Official Time]]
+| utc_offset             = -3
+| timezone_DST           = [[UTC-02|Brazilian Daylight Saving Time]]
+| utc_offset_DST         = -2
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[ZIP code]]
+| postal_code            = 12130-000
+| area_code              = +55 12
+| website                = {{URL|http://www.saoluizdoparaitinga.sp.gov.br/}}
+}}

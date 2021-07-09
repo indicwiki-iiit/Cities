@@ -1,0 +1,79 @@
+{{Infobox settlement
+| name                            = Jupiter, Florida
+| settlement_type                 = [[Town (Florida)|Town]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Jupiter Florida Loxahatchee River photo D Ramey Logan.jpg
+| imagesize                       = 250px
+| image_caption                   = Jupiter Inlet
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Map of Florida highlighting Jupiter.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Jupiter in Palm Beach County, Florida
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| pushpin_map                     = United States
+| pushpin_label                   = Jupiter, Florida
+| pushpin_map_caption             = Location in the United States
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_name1               = Florida
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name2               = [[File:Flag of Palm Beach County, Florida.png|24px]] [[Palm Beach County, Florida|Palm Beach]]
+| government_footnotes            = 
+| government_type                 = [[Council-manager government|Council-Manager]]
+| leader_title                    = Mayor
+| leader_name                     = Todd R. Wodraska ([[Republican Party (United States)|R]])<ref>{{cite web|title=Jupiter's Municipal Government|url=https://www.jupiter.fl.us/243/Town-Council|access-date=September 8, 2019|date=2019|quote=Todd Wodraska-R}}</ref>
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Ilan Kaufer
+| leader_title2                   = [[City Council|Councilmembers]]
+| leader_name2                    = Ron Delaney, Jim Kuretski, Cameron May
+| leader_title3                   = [[City Manager|Town Manager]]
+| leader_name3                    = Matt Benoit
+| leader_title4                   = [[City Clerk|Town Clerk]]
+| leader_name4                    = Sally M. Boylan
+| established_title               = [[municipal incorporation|Incorporated]]
+| established_date                = February 9, 1925
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 59.89
+| area_land_km2                   = 56.01
+| area_water_km2                  = 3.87
+| area_total_sq_mi                = 23.12
+| area_land_sq_mi                 = 21.63
+| area_water_sq_mi                = 1.50
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="USCensusEst2015">{{cite web|url=https://www.census.gov/popest/data/cities/totals/2015/SUB-EST2015.html |title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015 |access-date=July 2, 2016 |url-status=dead |archive-url=https://archive.today/20160602200744/http://www.census.gov/popest/data/cities/totals/2015/SUB-EST2015.html |archive-date=June 2, 2016 }}</ref> <!--<ref name="USCensusEst2014">{{cite web|url=https://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|access-date=June 4, 2015}}</ref><ref>{{cite web|title=Population Estimates|url=https://www.census.gov/popest/data/cities/totals/2013/SUB-EST2013-3.html|publisher=[[United States Census Bureau]]|access-date=15 June 2014}}</ref> -->
+| population_total                = 55156
+| population_density_sq_mi        = 3042.08
+| population_density_km2          = 1174.56
+
+<!-- General information -->| timezone                        = [[Eastern Time Zone (North America)|EST]]
+| utc_offset                      = -5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref>{{cite web|title=GNIS Detail – Jupiter|url=http://geonames.usgs.gov/pls/gnispublic/f?p=154:3:4261762845658098::NO:3:P3_FID,P3_TITLE:285000%2CJupiter|publisher=geonames.usgs.gov|access-date=3 August 2015}}</ref>
+| elevation_m                     = 2
+| elevation_ft                    = 7
+| coordinates                     = {{coord|26|55|34|N|80|6|18|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s<ref>{{cite web|title=Jupiter, Palm Beach County, Florida Zip Code Map Boundary |url=https://www.zipdatamaps.com/zipcodes-jupiter-fl |publisher=zipdatamaps.com |access-date=21 November 2018}}</ref>
+| postal_code                     = 33410, 33418, 33458, 33468, 33469, 33477, 33478
+| area_code                       = [[Area code 561|561]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-35875<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=31 January 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0285000<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=31 January 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = {{URL|jupiter.fl.us/}}
+| footnote                        = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 65791
+| official_name                   = 
+}}

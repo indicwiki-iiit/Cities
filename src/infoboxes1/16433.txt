@@ -1,0 +1,76 @@
+{{Infobox settlement
+| official_name                   = Beckley, West Virginia
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = The Gateway to Southern West Virginia
+
+<!-- Images -->
+| image_skyline                   = Beckley Main Street.jpg
+| imagesize                       = 
+| image_caption                   = Main Street in downtown Beckley in 2007
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = File:Raleigh County West Virginia Incorporated and Unincorporated areas Beckley Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Beckley in Raleigh County, West Virginia
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+|pushpin_map = West Virginia#USA#North America
+|pushpin_label = Beckley
+|pushpin_map_caption = Location in West Virginia
+| subdivision_type = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[West Virginia]]
+| subdivision_type2               = [[List of counties in West Virginia|County]]
+| subdivision_name2               = [[Raleigh County, West Virginia|Raleigh]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Rob Rappold<ref>{{cite web |url=http://www.beckley.org/mayor_emmett_pugh.html |title=Archived copy |access-date=2012-04-03 |url-status=dead |archive-url=https://web.archive.org/web/20120307000413/http://www.beckley.org/mayor_emmett_pugh.html |archive-date=2012-03-07 }}</ref><ref>{{cite web|url=http://wvmetronews.com/2014/01/02/new-mayor-in-beckley/ |title=WV MetroNews – New mayor in Beckley |publisher=Wvmetronews.com |access-date=2017-07-19}}</ref>
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_54.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 24.63
+| area_land_km2                   = 24.60
+| area_water_km2                  = 0.03
+| area_total_sq_mi                = 9.51
+| area_land_sq_mi                 = 9.50
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 15940
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_total                = 17614
+| population_density_km2          = 647.96
+| population_density_sq_mi        = 1678.25
+| population_metro                = 123,373 (US: [[List of Metropolitan Statistical Areas|317th]])
+
+<!-- General information -->
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+| timezone_DST                    = EDT
+|utc_offset_DST = &minus;4
+| elevation_footnotes             = <ref name=gnis/>
+| elevation_m                     = 
+| elevation_ft                    = 2421
+| coordinates                     = {{coord|37|46|41|N|81|11|17|W|region:US-WV|display=inline,title}}<ref name=gnis/>
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 25801, 25802, 25926
+| area_code                       = [[Area code 304|304 and 681]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 54-05332
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1553831<ref name=gnis>{{Cite GNIS|1553831|Beckley}}</ref>
+| website                         = http://www.beckley.org/
+| footnotes                       = 
+}}

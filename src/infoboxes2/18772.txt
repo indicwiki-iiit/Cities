@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = City of Lemoore
+|name = Lemoore, California
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_seal               = 
+|image_map                = File:Kings County California Incorporated and Unincorporated areas Lemoore Highlighted 0641152.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Lemoore in Kings County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the contiguous United States
+|pushpin_relief           = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Kings County, California.png|border=|size=25px}} [[Kings County, California|Kings]]
+|government_type          = [[Council–manager government|Council-Manager]]<ref name=mgr/>
+|leader_title1            = [[City Council]]<ref name=CityCouncil>{{Cite web|url=http://www.lemoore.com/councilmembers.htm|title=Council Members|publisher=City of Lemoore|access-date=December 8, 2016}}</ref>
+|leader_name1             = {{ubl|Eddie Neal (Mayor)|John Plourde (Mayor Pro Tem)||David Brown|Stuart Lyons|Christopher Schalde}}
+|leader_title2           = [[City Manager]]
+|leader_name2             = Nathan Olson 
+|leader_title3           = [[Police Chief]]
+|leader_name3             = Michael Kendall
+
+<ref name=mgr>{{Cite web|url=http://www.lemoore.com/manager.htm|title=City Manager|publisher=City of Lemoore|access-date=April 6, 2015}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = July 4, 1900
+00<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=February 21, 2013 
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 8.81
+| area_land_sq_mi         = 8.81
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 22.83
+| area_land_km2           = 22.83
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|1660905|Lemoore|access-date=December 4, 2014}}</ref>
+|elevation_ft             = 230
+|elevation_m              = 70
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 24531
+|population_metro         = 
+|population_density_km2   = 1170.67
+|population_density_sq_mi = 3032.11
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = &minus;8
+|coordinates              = {{coord|36|18|03|N|119|46|58|W|region:US-CA|display=inline,title}}
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 93245, 93246
+|area_code                = [[Area code 559|559]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|41152}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660905}}, {{GNIS 4|2410819	}}
+|footnotes                = 
+|website                  = {{URL|www.lemoore.com}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 26725
+}}

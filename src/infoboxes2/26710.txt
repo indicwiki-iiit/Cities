@@ -1,0 +1,34 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Tvarditsa
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|image_skyline = Tvardica_view.jpg
+|image_caption = Overview of Tvarditsa
+|map_caption = Location of Tvarditsa, Bulgaria|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Tvarditsa, Bulgaria
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|native_name=Твърдица
+|image_shield=Coat of Arms of Tvarditsa.svg
+|
+|
+subdivision_name1=[[Sliven Province|Sliven]]|
+population_total=5,659|population_footnotes=<ref name="statistika"/> |
+population_as_of=2018-12-31|
+elevation_m=396|
+postal_code=8890|
+area_code=0454|
+blank_info=CH|blank_name= [[Bulgarian car number plates|License plate]]|
+|coordinates            = {{coord|42|42|N|25|54|E|region:BG|display=inline}}
+|
+leader_name=Atanas Atanasov|
+}}

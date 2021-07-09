@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name  = Pakhribas
+|other_name             =
+|native_name            = पाख्रिवास
+|nickname               =
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = A view of Pakhribas Bajar.JPG
+|image_caption          = Pakhribas Bazaar
+|image_flag             =
+|image_seal             =
+|image_map              = <!-- NepalDhankutaDistrictmap.png -->
+|mapsize                = 300px
+|map_caption            = Map of the village development committees in Dhankuta District
+|pushpin_map            = Nepal Province1#Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Province No. 1
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Province No. 1]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Dhankuta District]]
+|subdivision_type3 = Wards
+|subdivision_name3 = 10
+|<!-- Politics -->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = [[Mayor]]
+|leader_name            = Mr. Brish Bahadur Rai ([[Nepal Communist Party|NCP]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Ms. Devkala Paudel Timsina ([[Nepal Communist Party|NCP]])
+|established_title      = <!-- Settled -->Established
+|established_date       = 2 December 2014
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+<!-- Population   -->
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 22078
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]] 
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|27.04|87.29|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]] 
+|postal_code            = 56809
+|area_code              = 026
+|blank_name             =
+|blank_info             =
+|website                = {{url|https://www.pakhribasmun.gov.np/}}
+|footnotes              = 
+}}

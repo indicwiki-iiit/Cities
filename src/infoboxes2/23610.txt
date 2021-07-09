@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Elhovo
+| image_skyline           = Church in Elhovo, Bulgaria.jpg
+| image_caption           = St. [[Demetrius of Thessaloniki]] Church in Elhovo.
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Elhovo|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Elhovo
+|pushpin_mapsize        =
+|leader_title           =Mayor Peter Kirov (GERB)
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|image_shield = Elhovo emblem.svg
+|
+subdivision_name1=[[Yambol Province|Yambol]]|
+population_total=10,424|population_footnotes=<ref>http://www.grao.bg/tna/tab02.txt</ref>|
+population_as_of=15.12.2014|
+elevation_m=106|
+postal_code=8700|
+area_code=0478|
+blank_info=Y|blank_name= [[Bulgarian car number plates|License plate]]|
+|coordinates            = {{coord|42|10|N|26|34|E|region:BG|display=inline,title}}
+|leader_name=Dimitar Dimitrov <small>([[Bulgarian Socialist Party|BSP]])</small>|
+}}

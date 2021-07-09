@@ -1,0 +1,71 @@
+{{Infobox settlement
+| official_name                   = North Augusta, South Carolina
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = "South Carolina's Riverfront"
+
+<!-- Images -->| image_skyline                   = North Augusta 2008.jpg
+| imagesize                       = 250px
+| image_caption                   = Downtown North Augusta
+| image_flag                      = 
+| image_seal                      = North Augusta South Carolina city seal.png
+
+<!-- Maps -->| image_map                       = SCMap-doton-NorthAugusta.PNG
+| mapsize                         = 250px
+| map_caption                     = Location of North Augusta, South Carolina
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = South Carolina#USA
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{US}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|South Carolina}}
+| subdivision_type2               = [[List of counties in South Carolina|Counties]]
+| subdivision_name2               = [[Aiken County, South Carolina|Aiken]], [[Edgefield County, South Carolina|Edgefield]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Briton Williams
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 54.44
+| area_land_km2                   = 53.17
+| area_water_km2                  = 1.27
+| area_total_sq_mi                = 21.02
+| area_land_sq_mi                 = 20.53
+| area_water_sq_mi                = 0.49
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 23845
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_footnotes            = <ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=February 26, 2015}}</ref>
+| population_total                = 21348
+| population_density_km2          = 448.50
+| population_density_sq_mi        = 1161.58
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 118
+| elevation_ft                    = 387
+| coordinates                     = {{coord|33|30|47|N|81|57|46|W|region:US-SC_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 29800-29899
+| area_code                       = [[Area codes 803 and 839|803, 839]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 45-50695<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1231597<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = {{URL|www.northaugusta.net}}
+| footnotes                       = 
+}}

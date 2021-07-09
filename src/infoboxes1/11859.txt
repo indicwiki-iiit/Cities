@@ -1,0 +1,48 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| subdivision_type        = Country
+| subdivision_name        = {{ROU}}
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+|image_map = Targu Mures jud Mures.png
+|map_caption = Location in Mureș County
+| official_name           = Târgu Mureș
+| other_name              = Marosvásárhely
+| image_skyline           = Collage Marosvásárhely.png
+| image_caption           = Top left: Medieval Fortress and Tower of the Reformed Church, Top right: Bob Church, Middle left: Twilight in inner city, Center: The Reformed Church in Szabadi Street, Middle right: Tower of City Hall, Bottom left: Dome of the Synagogue, Bottom right: Statue of Bolyai Farkas and János in Bolyai Square
+| image_shield            = Coa_Romania_Town_Marosvásárhely.svg
+| image_flag              = ROU MS Targu Mures Flag.png
+| pushpin_map             = Romania
+| pushpin_map_caption     = Location in Romania
+| subdivision_type1       = [[Counties of Romania|County]]
+| subdivision_name1       = {{RO-MS}}
+| subdivision_type2       = [[Subdivisions of Romania|Status]]
+| subdivision_name2       = {{Autolink|County capital}}
+| settlement_type         = City
+| leader_title            = Mayor {{no bold|(2020&ndash;2024)}}
+| leader_name             = Zoltán Soós<ref>{{cite web |url=https://prezenta.roaep.ro/locale27092020/romania-pv-final |title=Results of the 2020 local elections |publisher=Central Electoral Bureau |access-date=11 June 2021 |df=dmy-all}}</ref>
+| leader_party            = [[Independent politician|Ind.]]
+| population_demonym      = ''târgmureșean'',&nbsp;''târgmureșeancă''&nbsp;([[Romanian language|ro]])<br />''vásárhelyi'' ([[Hungarian language|hu]])
+| area_total_km2          = 49.3
+| population_as_of        = [[2011 Romanian census|2011 census]]
+| population_total        = 134,290
+| population_metro        = 212,752
+| demographics_type1      = Ethnicity
+| demographics1_footnotes =<ref>{{cite web |url=http://www.edrc.ro/recensamant.jsp?regiune_id=2568&judet_id=2699&localitate_id=2700 |title=Romanian census 2002 |publisher=Edrc.ro |access-date=18 November 2011 |url-status=live |archive-url=https://web.archive.org/web/20120330023717/http://www.edrc.ro/recensamant.jsp?regiune_id=2568&judet_id=2699&localitate_id=2700 |archive-date=30 March 2012}}</ref>
+| demographics1_title1    = [[Romanian people|Romanians]]
+| demographics1_title2    = [[Hungarian people|Hungarians]]
+| demographics1_title3    = [[Roma in Romania|Roma]]
+| demographics1_info1     = 51.9%
+| demographics1_info2     = 45.2%
+| demographics1_info3     = 2.5%
+| population_density_km2  = 2593
+| coordinates             = {{coord|46|32|44|N|24|33|45|E|region:RO|display=inline,title}}
+| postal_code_type        = [[List of postal codes in Romania|Postal Code]]
+| postal_code             = 540xyz<sup>1</sup>
+| area_code               = [[Romania telephone area codes|+40 x65]]<sup>2</sup>
+| blank_name              = [[Romanian car number plates|Car Plates]]
+| blank_info              = MS-N<sup>3</sup>
+| footnotes               = <sup>1</sup>x, y, and z are digits that indicate the street, part of the street, or even the building of the address<br /><sup>2</sup>x is a digit indicating the operator: 2 for the former national operator, [[Romtelecom]], and 3 for the other ground telephone networks<br /><sup>3</sup>used just on the plates of vehicles that operate only within the city limits (such as [[trolley bus]]es, trams, utility vehicles, [[All-terrain vehicle|ATVs]], etc.)
+| website                 = {{url|http://www.tirgumures.ro/}}
+}}

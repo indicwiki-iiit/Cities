@@ -1,0 +1,40 @@
+{{Infobox settlement
+|name                   = Ancaster
+|settlement_type        = Community/former town
+|image_skyline          = Griffin House Ancaster 2010.jpg
+|image_caption          = The historic 1834 Griffin House
+|pushpin_map            = CAN ON Hamilton#Canada Southern Ontario
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|coordinates            = {{coord|43|13|N|80|0|W|region:CA-ON|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = [[Canada]]
+|subdivision_type1      = [[Provinces of Canada|Province]]
+|subdivision_type2      = [[City]]
+|subdivision_name1      = [[Ontario]]
+|subdivision_name2      = [[Hamilton, Ontario|Hamilton]]
+| established_title     = Amalgamated
+| established_date      = 2001 (with Hamilton)
+|leader_title           = [[List of House members of the 40th Parliament of Canada|MP]]
+|leader_name            = [[Filomena Tassi]]
+|leader_title1          = [[Member of Provincial Parliament (Ontario)|MPP]]
+|leader_name1           = [[Sandy Shaw (politician)|Sandy Shaw]]
+|unit_pref              = <metric>
+|area_total_km2         =176.63
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|population_total                = 40557
+|population_as_of                = <!--[[Canada 2020 Census|2020]] -->
+|population_density_km2          =229.6 
+|population_note                 = [[Canada 2020 Census|2020 Census]] 
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of L postal codes of Canada|L9G, L9K]]
+|area_codes              = [[Area codes 905, 289 and 365|905 and 289]]
+<!--
+|blank_name             = Census Tract
+|blank1_name            = [[National Topographic System|NTS]] Map
+|blank2_name            = [[Geographical Names Board of Canada|GNBC]] Code
+-->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Time Zone|EDT]]
+|utc_offset_DST         = −4
+}}

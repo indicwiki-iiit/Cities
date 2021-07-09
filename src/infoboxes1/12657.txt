@@ -1,0 +1,22 @@
+{{Infobox UK place
+| country = England
+| coordinates = {{coord|53.363|-2.728|display=inline,title}}
+| london_distance = {{convert|169|mi|km|abbr=on}}<ref>{{cite web|url=http://boulter.com/gps/distance/?from=53.363+-2.728&to=51.507+-0.127&units=m|title=Coordinate Distance Calculator|work=boulter.com|access-date=8 March 2016}}</ref>
+| london_direction = SE
+| official_name = Widnes
+| type = Town
+| population = 61,464
+| population_ref = <ref name="2011 Census">{{NOMIS2011|id=E34000181|title=Widnes Built-up area|access-date=20 November 2020}}</ref>
+| unitary_england = [[Borough of Halton|Halton]]
+| lieutenancy_england = [[Cheshire]]
+| region = North West England
+| constituency_westminster = [[Halton (UK Parliament constituency)|Halton]]
+| post_town = WIDNES
+| postcode_district = WA8
+| postcode_area = WA
+| dial_code = 0151
+| os_grid_reference = SJ5185
+| static_image = [[File:Victoria Park, Widnes (7).JPG|240px]]
+| static_image_caption = [[Victoria Park, Widnes|Victoria Park in Widnes]]
+| historic_county = Lancashire
+}}

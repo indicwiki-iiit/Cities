@@ -1,0 +1,42 @@
+{{Infobox Portuguese subdivision
+| type            = municipality
+| official_name   = Évora
+| image_flag      = Pt-evr1.png
+| flag_border     = no
+| image_shield    = COA of Évora municipality (Portugal).png
+| image_skyline           = {{Photomontage
+| photo1a                 = CATEDRAL d' ÉVORA, Portugal (16976233822) (cropped).jpg
+| photo1b                 = Templo romano de Évora (48812699836) (cropped2).jpg
+| photo1c                 = 22002-Evora (48542044262) (cropped).jpg
+| photo2a                 = Praça de Giraldo, Evora (10250693386) (cropped).jpg
+| photo3a                 = Portugal Evora Ruinas Jardim (451563244).jpg
+| photo3b                 = Universidade de Évora - Portugal (8027821219) (cropped).jpg
+| photo3c                 = Arcade of dwellings on Rua do Cano, Évora (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = Top: [[Évora Cathedral]]; [[Roman Temple of Évora]]; [[Church of Nossa Senhora da Graça (Évora)|Graça Church]]; middle: Giraldo Square; bottom: [[Royal Palace of Évora]] gardens; [[University of Évora]]; Rua do Cano.
+}}
+|coordinates             = {{coord|38|34|N|07|54|W|type:adm1st_region:PT_dim:100000|display=inline,title}}
+| image_map       = LocalEvora.svg
+|region             = [[Alentejo]]
+|CIM                = [[Alentejo Central]]
+|district           = [[Évora District|Évora]]
+| leader_party            = [[Unitary Democratic Coalition|CDU]]
+| leader_name             = Carlos Pinto de Sá
+| area_total_km2          = 1307.08
+| population_total        = 56,596
+| population_as_of        = 2011
+| parishes     = [[#Human geography|12]]
+| holiday        = [[Saint Peter]]<br />29 June
+| website                 = {{url|http://www.cm-evora.pt/}}
+ {{Infobox UNESCO World Heritage Site
+  | Official_name = Historic Centre of Évora
+  | Criteria      = ii, iv 
+  | ID            = 361
+  | Year          = 1986
+  | child         = yes
+}}
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Maquoketa, Iowa
+|settlement_type          = [[City]]
+|nickname                 = ''Timber City''
+|motto                    = ''One of a Kind''
+
+<!-- Images -->
+|image_skyline            = Maquoketa Middle School.jpg 
+|imagesize                = 
+|image_caption            = Maquoketa Middle School
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Jackson_County_Iowa_Incorporated_and_Unincorporated_areas_Maquoketa_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Maquoketa, Iowa
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Iowa}}
+|subdivision_type2        = [[List of counties in Iowa|Counties]]
+|subdivision_name2        = [[Jackson County, Iowa|Jackson]]<ref>{{cite web | url = https://www.census.gov/popest/cities/files/SUB-EST2007-19.csv | title = Subcounty population estimates: Iowa 2000–2007| format = [[comma-separated values|CSV]] | publisher = [[United States Census Bureau]], Population Division | date = March 18, 2009 | access-date = April 4, 2009}}</ref>
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Don Schwenker
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated 
+|established_date         = January 27, 1857<ref>{{cite web |title=List of Incorporated Cities |url=https://sos.iowa.gov/business/pdf/IncCities.pdf |publisher=Iowa Secretary of State |access-date=28 April 2020}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 11.77
+|area_land_km2            = 11.70
+|area_water_km2           = 0.07
+|area_total_sq_mi         = 4.54
+|area_land_sq_mi          = 4.52
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5990
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 6141
+|population_density_km2   = 512.16
+|population_density_sq_mi = 1326.40
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 214
+|elevation_ft             = 702
+|coordinates              = {{coord|42|4|1|N|90|39|58|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 52060
+|area_code                = [[Area code 563|563]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 19-49215
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0458789
+|website                  = {{URL|http://www.maquoketaia.com/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

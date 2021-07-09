@@ -1,0 +1,28 @@
+{{Infobox settlement 
+| official_name       = Ardino
+| native_name         = '''Ардино'''
+| image_flag          = Emblem of Ardino.png 
+| image_skyline       = Bulgaria-Ardino-01.jpg 
+| image_caption       = Distant view of Ardino
+| subdivision_type    = [[Countries of the world|Country]]
+| subdivision_name    = [[Bulgaria]]
+| subdivision_type1   = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| timezone=[[Eastern European Time|EET]]
+|utc_offset           = +2
+| timezone_DST        = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST      = +3
+| pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location of Ardino
+| pushpin_mapsize        =
+| leader_title      = Mayor
+| leader_name       = İzzet Şaban
+| postal_code_type  = [[List of postal codes in Bulgaria|Postal Code]]
+| subdivision_name1 = [[Kardzhali Province|Kurdzhali]]
+| population_total  = 4,185
+| population_as_of  = 15.12.2010
+| elevation_m = 684
+| postal_code = 6750
+| area_code = 03651
+| coordinates         = {{coord|41|35|N|25|08|E|region:BG|display=inline,title}}
+}}

@@ -1,0 +1,21 @@
+{{Infobox person
+| name               = Viswanathan Anand
+| image              = Viswanathan Anand (2016) (cropped).jpeg
+| caption            = Anand in 2016
+| birthname          = Anand Viswanathan<ref>{{Cite web|date=1 January 2004|title='I start off playing for India. And that's it.Beyond that, the game just takes over'|url=http://archive.indianexpress.com/storyOld.php?storyId=38320&pn|url-status=live|archive-url=https://web.archive.org/web/20110514174615/http://www.indianexpress.com/storyOld.php?storyId=38320&pn|archive-date=14 May 2011|access-date=6 August 2020|website=Indian Express}}</ref>
+| birth_date         = {{Birth date and age|1969|12|11|df=yes}}
+| birth_place        = [[Madras, Tamil Nadu]], India
+| awards             = [[Padma Vibhushan]], [[Padma Bhushan]] (2001), [[Padma Shri]]
+| module             = {{infobox chess player
+| image         = <!-- leave blank to suppress wikidata image -->
+| child         = 
+| title         = [[Grandmaster (chess)|Grandmaster]] (1988)
+| country       = India
+| worldchampion = 2000–2002 (FIDE) <br />2007–2013
+| rating        = 
+| peakrating    = 2817 (March 2011)
+| ranking       = No. 17 (April 2021)
+| peakranking   = [[List of FIDE chess world number ones|No. 1]] (April 2007)
+| FideID        = 5000017
+}}
+}}

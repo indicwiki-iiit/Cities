@@ -1,0 +1,50 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Yamaguchi Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|山口県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|山口県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Yamaguchi-ken}}
+| image_flag              = Flag of Yamaguchi Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Emblem of Yamaguchi Prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 35 Yamaguchi prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūgoku region|Chūgoku]] ([[San'yō region|Sanyo]])
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Yamaguchi, Yamaguchi|Yamaguchi]]
+| seat1_type              = Largest city
+| seat1                   = [[Shimonoseki]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 4 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 19
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Tsugumasa Muraoka]]
+| area_total_km2          = 6,112.30
+| area_water_percent      = 2.6
+| area_rank               = [[List of Japanese prefectures by area|23rd]]
+| population_footnotes    = 
+| population_total        = 1,377,631
+| population_as_of        = February 1, 2018
+| population_rank         = [[List of Japanese prefectures by population|25th]]
+| population_density_km2  = 225.43
+| iso_code                = JP-35
+| website                 = {{URL|http://www.pref.yamaguchi.lg.jp/foreign/english/index.html}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = [[Hooded crane]] (''Grus monacha'')
+| fish     = [[Takifugu rubripes|Japanese puffer]] (''Takifugu rubripes'')
+| flower   = [[Natsumikan|Bitter summer mandarin blossom]] (''Citrus natsudaidai'')
+| tree     = [[Pinus densiflora|Red pine tree]] (''Pinus densiflora'')
+}}}}

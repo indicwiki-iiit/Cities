@@ -1,0 +1,39 @@
+{{Infobox Australian place 
+| type = town
+| name     = Bargara
+| state    = qld
+| image    = Bargara from the air.jpg
+| coordinates         = {{coord|-24.8205|152.4625|type:city_region:AU-QLD|display=inline|name=Bargara (town centre)}}
+| pop                 = 7485
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4670
+| area                = 9.3
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 12.3 <!-- road distances as per template instructions -->
+| dir1                = NE
+| location1           = [[Kepnock, Queensland|Kepnock]]
+| dist2               = 13.3
+| dir2                = NE
+| location2           = [[Bundaberg CBD]]
+| dist3               = 371
+| dir3                = N
+| location3           = [[Brisbane]]
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga                 = Bundaberg Region
+| stategov            = [[Electoral district of Burnett|Burnett]]
+| fedgov              = [[Division of Hinkler|Hinkler]]
+| elevation           = 0-10
+| near-n              = ''[[Coral Sea]]''
+| near-ne             = ''[[Coral Sea]]''
+| near-e              = ''[[Coral Sea]]''
+| near-se             = ''[[Coral Sea]]''
+| near-s              = [[Innes Park, Queensland|Innes Park]]
+| near-sw             = [[Windermere, Queensland|Windermere]]
+| near-w              = [[Qunaba, Queensland|Qunaba]]
+| near-nw             = [[Mon Repos, Queensland|Mon Repos]]
+}}

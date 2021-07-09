@@ -1,0 +1,37 @@
+{{Infobox Australian place
+|type          = town 
+|name          = Yass
+|state         = nsw
+|image         = CSIRO ScienceImage 11532 Yass New South Wales.jpg
+|caption       = Aerial photograph of Yass
+|coordinates   = {{coord|34|49|0|S|148|54|0|E|display=inline,title}}
+|elevation     = 505
+|lga           = Yass Valley Council
+|county        = [[Murray County, New South Wales|Murray]]
+|parish        = Hume
+|region        = Southern Tablelands
+|postcode      = 2582
+|pop           = 6506
+|pop_year      = {{CensusAU|2016}}
+|pop_footnotes = <ref name="Census">{{Census 2016 AUS|id=SSC14493|name=Yass (state suburb)|access-date=28 June 2017|quick=on}}</ref>
+|established   = 1837
+|stategov      = [[Electoral district of Goulburn|Goulburn]]
+|fedgov        = [[Division of Eden-Monaro|Eden-Monaro]]
+|dist1         = 279
+|location1     = Sydney
+|dir1          = SW
+|dist2         = 59
+|location2     = Canberra
+|dir2          = NW
+|dist3         = 83
+|location3     = [[Goulburn]]
+|dir3          = W
+|near-n        = [[Bango, New South Wales|Bango]]
+|near-ne       = [[Bango, New South Wales|Bango]]
+|near-e        = [[Manton, New South Wales|Manton]]
+|near-se       = [[Marchmont, New South Wales|Marchmont]]
+|near-s        = [[Boambolo]]
+|near-sw       = [[Good Hope, New South Wales|Good Hope]]
+|near-w        = [[Bowning]]
+|near-nw       = [[Bowning]]
+}}

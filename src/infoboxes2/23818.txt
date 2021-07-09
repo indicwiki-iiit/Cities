@@ -1,0 +1,76 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name           = Barcs
+| other_name              = {{lang|de|Bartsch / Draustadt}} {{in lang|de}} <br>{{lang|hr|Barč}} {{in lang|hr}}
+| settlement_type         = [[List of cities and towns of Hungary|Town]]
+| image_skyline           = Barcs, római katolikus templom 2021 01.jpg
+| image_caption           = Roman Catholic Church of Barcs
+| image_shield            = HUN Barcs Címer.svg
+| image_flag              = Flag of Barcs.svg
+| pushpin_map             = Hungary 
+| pushpin_map_caption     = Location of Barcs
+| pushpin_mapsize         = 
+| image_map               = 
+| map_caption             = 
+| coordinates             = {{coord|45.96013|17.46008|region:HU|display=inline,title}}
+| subdivision_type        = [[Countries of the world|Country]]
+| subdivision_name        = {{HUN}}
+| subdivision_type1       = [[List of regions of Hungary|Region]]
+| subdivision_name1       = [[Southern Transdanubia]]
+| subdivision_type2       = [[Counties of Hungary|County]]
+| subdivision_name2       = [[Somogy County|Somogy]]
+| subdivision_type3       = [[Districts of Hungary|District]]
+| subdivision_name3       = [[Barcs District|Barcs]]
+| area_total_km2          = 122.9
+| population_total        = 10667
+| population_footnotes    = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32799 Barcs, KSH]</ref>
+| population_as_of        = 2017
+| population_density_km2  = auto
+| population_demonym      = barcsi
+<!-- demographics (section 1) -->
+| demographics_type1      = [[Demographics of Hungary|Population by ethnicity]]
+| demographics1_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32799 KSH - Barcs, 2011]</ref>
+| demographics1_title1    = [[Hungarians]]
+| demographics1_info1     = 79.6%
+| demographics1_title2    = [[Romani people in Hungary|Gypsies]]
+| demographics1_info2     = 8.0%
+| demographics1_title3    = [[Croats in Hungary|Croats]]
+| demographics1_info3     = 2.4%
+| demographics1_title4    = [[Hungarian Germans|Germans]]
+| demographics1_info4     = 1.5%
+| demographics1_title5    = [[Serbs in Hungary|Serbs]]
+| demographics1_info5     = 0.1%
+| demographics1_title6    = [[Romanians in Hungary|Romanians]]
+| demographics1_info6     = 0.1%
+| demographics1_title7    = Others
+| demographics1_info7     = 0.8%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[Demographics of Hungary|Population by religion]]
+| demographics2_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32799 KSH - Barcs, 2011]</ref>
+| demographics2_title1    = [[Catholic Church in Hungary|Roman Catholic]]
+| demographics2_info1     = 50.8%
+| demographics2_title3    = [[Reformed Church in Hungary|Calvinists]]
+| demographics2_info3     = 5.1%
+| demographics2_title4    = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+| demographics2_info4     = 0.4%
+| demographics2_title5    = Other
+| demographics2_info5     = 0.8%
+| demographics2_title6    = [[Non-religious]]
+| demographics2_info6     = 12.2%
+| demographics2_title7    = Unknown
+| demographics2_info7     = 30.6%
+| postal_code_type        = [[Postal codes in Hungary|Postal code]]
+| postal_code             = 7570
+| area_code_type          = [[Telephone numbers in Hungary|Area code]]
+| area_code               = (+36) 82
+| website                 = {{URL|http://www.barcs.hu/|Barcs Online}}
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| blank_name             = [[Patron Saint]]
+| blank_info             = [[Christ the King]]
+| blank4_name_sec1       = [[NUTS statistical regions of Hungary|NUTS 3 code]]
+| blank4_info_sec1       = HU232
+| blank5_name_sec2       = [[List of members of the National Assembly of Hungary (2018–22)|MP]]
+| blank5_info_sec2       = [[László Szászfalvi]] ([[KDNP]])
+}}

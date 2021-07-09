@@ -1,0 +1,51 @@
+{{Infobox settlement
+|name                   = Tipitapa
+|other_name             =
+|native_name            = 
+|settlement_type        = Municipality
+|image_skyline          = Tipitapa.jpg
+|image_size             = 
+|image_caption          = A colonial house in Tipitapa
+|image_flag             = Flag of Tipitapa.gif
+|image_seal             =
+|image_map              =
+|map_caption            = 
+|pushpin_map            = Nicaragua<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = right
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in Nicaragua
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nicaragua}}
+|subdivision_type1      = [[Departments of Nicaragua|Department]]
+|subdivision_name1      = [[Managua (department)|Managua]]
+|subdivision_type2=
+|subdivision_name2=
+|subdivision_type3=
+|subdivision_name3=
+|leader_title       = 
+|leader_name        = 
+|established_title  = Founded
+|established_date   = 1755
+|area_magnitude     = 
+|area_total_km2     = 975
+|area_land_km2      = 
+|area_water_km2     = 
+|population_as_of   = 2020 estimate
+|population_footnotes    = <ref>[https://www.citypopulation.de/en/nicaragua/admin/ Citypopulation.de] Population of departments and municipalities in Nicaragua</ref>
+|population_total        = 151066
+|population_density_km2 = auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               = 141045
+|timezone           =
+|utc_offset         =
+|timezone_DST       =
+|utc_offset_DST     =
+|coordinates            = {{coord|12|12|N|86|06|W|region:NI|display=inline}}
+|elevation_m          =
+|website            =
+|footnotes          = 
+}}

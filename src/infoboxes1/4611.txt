@@ -1,0 +1,61 @@
+{{Infobox scientist
+| birth_name = Geoffrey Everest Hinton
+| name = Geoffrey Hinton
+| honorific_suffix = {{post-nominals|country=CAN|CC|FRS|FRSC|size=100%}}
+| image = Geoffrey Hinton at UBC.jpg
+| image_size = 
+| caption = Hinton in 2013
+| birth_date = {{Birth date and age|df=yes|1947|12|06}}<ref name=whoswho>Anon (2015) {{Who's Who | surname = Hinton | othernames = Prof. Geoffrey Everest | id = U20261 | edition = online [[Oxford University Press]]}} {{doi|10.1093/ww/9780199540884.013.20261}} {{subscription required}}</ref>
+| birth_place = [[Wimbledon, London]]
+| death_date = 
+| death_place = 
+| citizenship = 
+| nationality = 
+| ethnicity = 
+| fields = {{Plainlist|
+* [[Machine learning]]
+* [[Neural network]]s 
+* [[Artificial intelligence]]
+* [[Cognitive science]]
+* [[Object recognition]]<ref name=googlescholar/>}}
+| work_institution = [[University of Toronto]]<br>[[Google]]<br>[[Carnegie Mellon University]]<br>[[University College London]]<br>[[University of California, San Diego]]
+| alma_mater = {{Plainlist|
+* [[University of Cambridge]] (BA)<!--King's College Cambridge doesn't award degrees-->
+* [[University of Edinburgh]] (PhD)}}
+| doctoral_advisor = [[H. Christopher Longuet-Higgins|Christopher Longuet-Higgins]]<ref name=mathgene>{{MathGenealogy|id=50071}}</ref><ref>[http://phdtree.org/scholar/hinton-geoffrey-e/ Geoffrey E. Hinton's Academic Genealogy]</ref><ref>{{Cite journal | last1 = Gregory | first1 = R. L. | last2 = Murrell | first2 = J. N. | doi = 10.1098/rsbm.2006.0012 | title = Hugh Christopher Longuet-Higgins. 11 April 1923 -- 27 March 2004: Elected FRS 1958 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 52 | pages = 149–166 | year = 2006 | title-link = H. Christopher Longuet-Higgins | doi-access = free }}</ref>
+| academic_advisors = 
+| doctoral_students = {{Plainlist|
+* [[Richard Zemel]]<ref name=zemphd>{{cite thesis |degree=PhD |first=Richard Stanley|last=Zemel |title=A minimum description length framework for unsupervised learning |publisher=University of Toronto |date=1994 |oclc=222081343 |id={{ProQuest|304161918}}}}</ref>
+* [[Brendan Frey]]<ref name=brenphd>{{cite thesis |degree=PhD |first=Brendan John|last=Frey |title=Bayesian networks for pattern classification, data compression, and channel coding |publisher=University of Toronto |date=1998 |oclc=46557340 |id={{ProQuest|304396112}}}}</ref>
+* [[Radford M. Neal]]<ref name=radphd>{{cite thesis |degree=PhD |first=Radford|last=Neal |title=Bayesian learning for neural networks |publisher=University of Toronto |date=1995 |oclc=46499792 |id={{ProQuest|304260778}}}}</ref>
+* [[Ruslan Salakhutdinov]]<ref name=rusphd>{{cite thesis |degree=PhD |first=Ruslan|last=Salakhutdinov |title=Learning deep generative models |publisher=University of Toronto |date=2009 |oclc=785764071 |isbn=9780494610800|id={{ProQuest|577365583}}}}</ref>
+* [[Ilya Sutskever]]<ref name=sutsphd>{{cite thesis |degree=PhD |first=Ilya|last=Sutskever |title=Training Recurrent Neural Networks |publisher=University of Toronto |date=2013 |oclc=889910425|id={{ProQuest|1501655550}}}}</ref>
+}}
+| notable_students = {{Plainlist|
+* [[Yann LeCun]] ([[Postdoctoral researcher|postdoc]])
+* [[Peter Dayan]] ([[Postdoctoral researcher|postdoc]]) 
+* [[Max Welling]] ([[Postdoctoral researcher|postdoc]])
+* [[Zoubin Ghahramani]] ([[Postdoctoral researcher|postdoc]])}}
+| thesis_title = Relaxation and its role in vision
+| thesis_year = 1977
+| thesis_url = http://hdl.handle.net/1842/8121
+| known_for = {{Plainlist|
+* Applications of [[Backpropagation]]
+* [[Boltzmann machine]]
+* [[Deep learning]]
+* [[Capsule neural network]]}}
+| influences = 
+| influenced = 
+| awards = {{Plainlist|
+* [[AAAI Fellow]] (1990)
+* [[Rumelhart Prize]] (2001)
+* [[IJCAI Award for Research Excellence]] (2005)
+* [[IEEE Frank Rosenblatt Award]] (2014)
+* [[IEEE/RSE James Clerk Maxwell Medal|James Clerk Maxwell Medal]] (2016)
+* [[BBVA Foundation Frontiers of Knowledge Award]] (2016)
+* [[Turing Award]] (2018)}}
+| religion = 
+| signature = 
+| footnotes = 
+| website = {{URL|www.cs.toronto.edu/~hinton/}}
+}}

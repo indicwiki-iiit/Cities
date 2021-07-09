@@ -1,0 +1,40 @@
+{%- macro climate() -%}
+
+==వాతావరణము==
+	
+	{%- if recHigh!="None" %}
+	{{city_name}}లో నమోదయ్యె అత్యధిక ఉష్ణోగ్రతలు, గరిష్టం {{recHigh}} ,{{" "}}
+	{%- else-%}
+	{{"\n"}}
+	{%- endif -%}
+
+	{%- if recLow != "None"-%}  
+	కనిష్టం {{recLow}}.{{" "}} 
+	{%- endif -%}
+
+	{%- if avgHighM != "None" -%}
+	{{city_name}} లో వేసవికాలం {{summer}} నెలలో ఉంటుంది, ఈ  నెలలో సగటు గరిష్టం {{avgHighM}} గా నమోదవుతుంది.{{" "}}
+	{%- endif -%}
+
+	{%- if avgLowM != "None" -%}
+	నగరంలో శీతాకాలం  {{winter}} నెలలో ఉంటుంది , కనిష్ట సగటు ఉష్ణోగ్రత {{avgLowM}} గా నమోదవుతుంది. 
+	{%- endif -%}
+	
+	{%- if dailyMeanY != "None" -%}
+	వార్షిక రోజువారీ సగటు ఉష్ణోగ్రత {{dailyMeanY}}.{{" "}}
+	{%- endif -%}
+	 
+	{%- if meanMSunShineY != "None" -%}
+	నగరంలో వార్షిక సగటు నెలవారీ సూర్యరశ్మి, {{meanMSunShineY}} గంటలు ఉంటుంది.{{" "}}
+	{%- endif  -%}
+
+	{%- if avgRelHumidity != "None" -%}
+	నగరంలో నమోదైన సగటు తేమ {{avgRelHumidity}} (శాతం).{{" "}} 
+	{%- endif  -%}
+
+	{%- if avgUVIdx != "None" -%}
+	సంవత్సరానికి సగటు అతినీలలోహిత సూచిక {{avgUVIdx}} యూనిట్లు నమోదవుతుంది.{{" "}} 
+	{%- endif -%}
+	
+{% endmacro %}
+{{-climate()-}}

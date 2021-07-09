@@ -1,0 +1,33 @@
+{{Infobox German location
+|name               = Münster
+|German_name        = {{native name|nds|Mönster}}
+|type               = city
+|image_photo        = Muenster Innenstadt.jpg
+|image_caption      = Aerial view of Münster
+|image_flag         = Flagge der kreisfreien Stadt Münster (Westfalen).svg
+|image_coa          = DEU Muenster COA.svg
+|coordinates        = {{coord|51|57|45|N|07|37|32|E|format=dms|display=inline,title}}
+|state              = North Rhine-Westphalia
+|region             = [[Münster (region)|Münster]]
+|district           = urban
+|elevation          = 60
+|area               = 302.89
+<!--
+|population         = 300000
+|Stand              = 2009-06-30
+|pop_ref            =
+filled via Gemeindeschlüssel -->
+|postal_code        = 48143–48167
+|area_code          = 0251<br/><small>&nbsp;02501&nbsp;(Hiltrup,&nbsp;Amelsbüren)<br/>&nbsp;02506&nbsp;(Wolbeck,&nbsp;Angelmodde)<br/>&nbsp;02533&nbsp;([[Nienberge]])<br/>&nbsp;02534&nbsp;(Roxel)<br/>&nbsp;02536&nbsp;(Albachten)</small>
+|licence            = MS
+|Gemeindeschlüssel  = 05 5 15 000
+|divisions          = 6
+|website            = [https://www.muenster.de/en/ www.muenster.de]
+|mayor              = Markus Lewe<ref>[https://www.wahlergebnisse.nrw/kommunalwahlen/2020/index_obb_lr.shtml#ob_lr Wahlergebnisse in NRW Kommunalwahlen 2020], Land Nordrhein-Westfalen, accessed 19 June 2021.</ref>
+|leader_term        = 2020&ndash;25
+|Bürgermeistertitel = Oberbürgermeister
+|party              = [[Christian Democratic Union (Germany)|CDU]]
+|ruling_party1      = Bündnis 90/Die Grünen, SPD, Volt
+|year               = 793
+|category           = <!-- blank to avoid auto categorisation -->
+}}

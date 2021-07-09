@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = North Lauderdale, Florida
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "A Fun City In The Heart Of Broward"<ref>{{cite web|url= http://www.nlauderdale.org/ |archive-url= https://web.archive.org/web/20190203004200/http://www.nlauderdale.org/ |url-status= dead |archive-date= February 3, 2019 |title= North Lauderdale, Florida Website|publisher= City of North Lauderdale (Website as of February 3, 2019) via [[Wayback Machine]] |access-date= March 1, 2019}}</ref> "Building a Future"<ref>{{cite web |url= http://nlauderdale.org:80/ |archive-url= https://web.archive.org/web/20120908133839/http://nlauderdale.org/ |url-status= dead |archive-date= September 8, 2012 |title= North Lauderdale, Florida Website |publisher= City of North Lauderdale (Website, 2012) via [[Wayback Machine]] |access-date= March 1, 2019 }}</ref> "City of Tomorrow"<ref>{{cite web|url= http://www.nlauderdale.org/ |archive-url= https://web.archive.org/web/20010311144733/http://www.nlauderdale.org/ |url-status= dead |archive-date= March 11, 2001 |title= North Lauderdale, Florida Website|publisher= City of North Lauderdale (Website, 2010) via [[Wayback Machine]] |access-date= March 1, 2019}}</ref>
+
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_seal               = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Map of Florida highlighting North Lauderdale.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of North Lauderdale in Broward County in State of Florida
+
+<!-- Location ------------------>
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Florida}}
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = [[File:Logo of Broward County, Florida.svg|24px]] [[Broward County, Florida|Broward]]
+|government_type          = [[Council-Manager government|Commission-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Ana M. Ziade
+|leader_title1            = [[Vice Mayor]]
+|leader_name1             = Samson Borgelin
+|leader_title2            = [[City Council|Commissioners]]
+|leader_name2             = Lorenzo Wood, Rich Moyle, and Mario Bustamante
+|leader_title3            = [[City Manager]]
+|leader_name3             = Ambreen Bhatty
+|leader_title4            = [[City Clerk]]
+|leader_name4             = Patricia Vancheri
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = [[municipal corporation|Incorporated]]
+|established_date3        = July 10, 1963<ref>{{cite web |url=http://www.broward.org/PlanningAndRedevelopment/DemographicsAndEconomics/Documents/bbtn38.pdf |title=Broward-by-the-Numbers (pages 3-5) |publisher=www.broward.org |access-date=2015-07-05 |url-status=dead |archive-url=https://web.archive.org/web/20151010175608/http://www.broward.org/PlanningAndRedevelopment/DemographicsAndEconomics/Documents/bbtn38.pdf |archive-date=2015-10-10 }}</ref>
+<!-- Area    --------------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 12.16
+|area_land_km2            = 11.97
+|area_water_km2           = 0.19
+|area_total_sq_mi         = 4.69
+|area_land_sq_mi          = 4.62
+|area_water_sq_mi         = 0.07
+|area_water_percent       = 0.72
+|area_metro_sq_mi         = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 41023
+|population_density_km2   = 3697.94
+|population_metro         = 5463857
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Eastern Time Zone (North America)|EST]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|26|12|57|N|80|13|28|W|region:US-FL|display=inline,title}}
+|elevation_footnotes      = 
+|elevation_m              = 3
+|elevation_ft             = 9
+<!-- Area/postal codes & others -------->
+|postal_code_type         = ZIP code
+|postal_code              = 33068, 33319
+|area_code                = [[Area code 754|754]], [[Area code 954|954]]
+|website                  = {{URL|www.nlauderdale.org}}
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-49425<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0294455<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 44262
+|population_density_sq_mi = 9578.45
+}}

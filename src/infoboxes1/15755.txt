@@ -1,0 +1,23 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+| name                   = Tômbua
+| other_name             = Porto Alexandre
+|image_skyline=Church in Tombua, Namibe, Angola.JPG
+| settlement_type        = [[Municipalities of Angola|Municipality]] 
+| population_total       = 55494
+| population_as_of       = 2014 Census
+| population_footnotes   = <ref name =Censo2014>{{cite web|url=https://www.ine.gov.ao/images/Censo_2014/PUBLICACAO_NAMIBE_16.11.2016_APJM.pdf |title=Resultados Definitivos Recenseamento Geral da População e Habitação – 2014 Província do Namibe |access-date=3 May 2020 |website=Instituto Nacional de Estatística, República de Angola| df=dmy }}</ref>
+| pushpin_map            = Angola
+| pushpin_label_position = right
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location in Angola
+| coordinates            = {{coord|15|48|S|11|51|E|region:AO|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Angola}}
+| subdivision_type1      = [[Provinces of Angola|Province]]
+| subdivision_name1      = [[Namibe Province|Namibe]]
+| timezone               = [[West Africa Time|WAT]] 
+| utc_offset             = +1
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Desert climate#Hot desert climates|BWh]]
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Wilmore, Kentucky
+|settlement_type          = [[List of cities in Kentucky|City]]
+|motto                    = "...Small town charm" 
+<!-- Images -->
+|image_skyline            = East Main Street Historic District, Wilmore.jpg
+|imagesize                = 
+|image_caption            = The East Main Street Historic District is listed on the [[National Register of Historic Places listings in Jessamine County, Kentucky|National Register of Historic Places]]<ref name="EMSHD">{{cite web | title = East Main Street Historic District | publisher = National Park Service | date = November 2, 2013 | url = http://focus.nps.gov/AssetDetail/NRIS/94000840}}</ref>
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Jessamine County Kentucky Incorporated and Unincorporated areas Wilmore Highlighted 2183550.svg
+|mapsize                  = 250px
+|map_caption              = Location of Wilmore in Jessamine County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Jessamine County, Kentucky|Jessamine]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name             
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 10.60
+|area_land_km2            = 10.51
+|area_water_km2           = 0.09
+|area_total_sq_mi         = 4.09
+|area_land_sq_mi          = 4.06
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 3686
+|population_density_km2   = 612.30
+|population_density_sq_mi = 1585.76
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 883
+|coordinates              = {{coord|37|51|43|N|84|39|42|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 40390
+|area_code                = [[Area code 859|859]]
+|blank_name              = [[Federal Information Processing Standard|FIPS code]]
+|blank_info              = 21-83550
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 506874<ref name=GNIS1>{{gnis|506874|Wilmore}}</ref>
+|website                  = http://www.wilmore.org/
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6435
+}}

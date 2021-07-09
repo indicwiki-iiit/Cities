@@ -1,0 +1,95 @@
+{{Infobox settlement
+|name             = Dubrovnik
+|official_name    = ''Grad Dubrovnik''<br /> City of Dubrovnik
+|nicknames        = "Pearl of the Adriatic", "Thesaurum mundi"
+|settlement_type  = [[List of cities and towns in Croatia|City]]
+|motto            =
+|image_skyline    = File:Montage of major Dubrovnik landmarks.jpg
+|imagesize        =
+|image_caption    = Top: Old city of Dubrovnik; second left: Sponza Palace; second right: Rector's Palace; third left: [[Walls of Dubrovnik|City walls]]; third right: Dubrovnik Cathedral; bottom: [[Stradun (street)|Stradun]], the city's main street
+|image_flag     = St. Blaise - National Flag of the Ragusan Republic.png
+|flag_size      = 135px
+|image_seal     =
+|seal_size      =
+|image_shield   = Dubrovnik grb.svg
+|shield_size    = 70px
+|city_logo      =
+|citylogo_size  =
+|image_map      =
+|mapsize1       =
+|map_caption    =
+|image_dot_map  =
+|dot_mapsize    =
+|dot_map_caption=
+|dot_x=|dot_y   =
+|pushpin_map    = Croatia
+|pushpin_label_position =
+|pushpin_map_caption = The location of Dubrovnik within Croatia
+|pushpin_mapsize  =
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = {{flag|Croatia}}
+|subdivision_type1  = [[Counties of Croatia|County]]
+|subdivision_name1  = [[File:Flag of Dubrovnik-Neretva County.png|border|23px]] [[Dubrovnik-Neretva County|Dubrovnik-Neretva]]
+|government_type    = [[Mayor–council government|Mayor-Council]]
+|leader_title       = Mayor
+|leader_name        = [[Mato Franković]] ([[Croatian Democratic Union|HDZ]])
+|leader_title1      = City Council
+|leader_name1       = {{Collapsible list
+|title   = 25 members
+|frame_style= border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Croatian Democratic Union|HDZ]] (10)
+ |2     =• [[Dubrovnik Party|Dustra]] (3)
+ |3     =• [[Dubrovnik Democratic Assembly|DDS]] (3)
+ |4     =• [[Social Democratic Party of Croatia|SDP]] (2)
+ |5     =• [[Bridge of Independent Lists|MOST]] (2)
+ |6     =• [[Croatian People's Party – Liberal Democrats|HNS]] (1)
+ |7     =• [[Croatian Peasants Party|HSS]] (1)
+ |8     =• Independents (3)
+}}
+|established_title=<!-- Settled -->
+|established_date =
+|established_title2=<!-- Incorporated (town) -->
+|established_date2 =
+|established_title3=<!-- Incorporated (city) -->
+|established_date3 =
+<!-- Area --------------------->
+|area_magnitude  =
+|unit_pref       = metric
+|area_footnotes  =
+|area_total_km2  = 21.35
+|area_land_km2   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2  =
+|area_water_percent =
+|area_urban_km2  =
+|population_as_of = 2011
+|population_footnotes  = <ref name="census2011">{{Croatian Census 2011|S|19|0981}}</ref>
+|population_total   = 42615
+|population_density_km2  = auto
+|population_urban   = 28434
+|population_metro   = 65808
+|population_density_urban_km2 =
+|timezone   = [[Central European Time|CET]]
+|utc_offset = +1
+|timezone_DST   = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|coordinates    = {{coord|42|38|25|N|18|06|30|E|region:HR|display=inline,title}}
+|elevation_footnotes= <!--for references: use tags-->
+| blank_name                      = [[Patron saint]]
+| blank_info                      = [[Saint Blaise]]
+|elevation_m   = 3
+<!-- Area/postal codes & others -------->
+|postal_code_type = Postal code
+|postal_code  = HR-20 000
+|area_code    = +385 20
+|registration_plate = [[Vehicle registration plates of Croatia|DU]]
+|website = {{url|https://www.dubrovnik.hr/}}
+| footnotes                       = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Old City of Dubrovnik
+| criteria      = {{UNESCO WHS type|(i)(iii)(iv)}}(i)(iii)(iv)
+| ID            = 95
+| year          = 1979
+| area          = {{convert|96.7|ha|acre|abbr=on}}
+}}
+}}

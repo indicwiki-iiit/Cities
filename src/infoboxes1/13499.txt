@@ -1,0 +1,54 @@
+{{Infobox settlement
+| name                    = 
+| official_name           = Otumba de Gómez Farías
+| native_name             = <!-- for cities whose native name is not in English -->
+| other_name              = Otumba
+| settlement_type         = Town & Municipality
+<!-- images and maps  ----------->
+| image_skyline           = PlazaOtumbaMX.JPG
+| image_caption           = Main plaza
+| image_flag              = 
+| image_seal              = 
+| image_shield            = 
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Mexico
+| pushpin_mapsize         = 300
+<!-- Location ------------------>
+| coordinates             = {{coord|19|41|49|N|98|45|17|W|region:MX|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{MEX}}
+| subdivision_type1       = [[States of Mexico|State]]
+| subdivision_name1       = [[State of Mexico]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| established_title       = Founded
+| established_date        = 1200s
+| established_title2      = Municipal Status
+| established_date2       = 1821
+| leader_title            = Municipal&nbsp;President
+| leader_name             = 
+| total_type              = Municipality
+| area_total_km2          = 
+| area_land_km2           = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2          = 
+| elevation_m             = 2360
+| elevation_point         = of seat
+<!-- Population   ----------------------->
+| population_footnotes    = &nbsp;Municipality
+| population_total        = 29873
+| population_as_of        = 2005
+| population_density_km2  = 
+| population_blank1_title = Seat
+| population_blank1       = 9242  <!-- population of seat -->
+<!-- General information  --------------->
+| timezone                = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+| utc_offset              = -6
+| timezone_DST            = Central
+| utc_offset_DST          = -5
+<!-- Area/postal codes & others -------->
+| postal_code_type        = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             = 55900
+| area_code               = 
+| website                 = {{URL|http://www.otumba.com/portal/}} {{in lang|es}}
+}}

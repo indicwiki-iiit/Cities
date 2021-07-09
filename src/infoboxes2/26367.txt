@@ -1,0 +1,51 @@
+{{Infobox protected area
+| name            = Lake Lorraine State Park
+| iucn_category   = 
+| iucn_ref        = 
+<!-- images -->
+| photo           = 
+| photo_caption   = 
+<!-- map -->
+| map             = USA Massachusetts
+| map_image       = 
+| map_size        = 
+| map_caption     = Location in Massachusetts
+| relief          = 1
+<!-- location -->
+| location        = [[Springfield, Massachusetts|Springfield]], [[Hampden County, Massachusetts|Hampden]], Massachusetts, [[United States]]
+| nearest_city    = 
+| nearest_town    = 
+| coordinates     = {{coord|42|08|40|N|72|30|48|W|display=inline,title}}
+| coords_ref      = 
+<!-- stats --> 
+| length          = 
+| length_mi       = 
+| length_km       = 
+| width           = 
+| width_mi        = 
+| width_km        = 
+| area_acre       = 3
+| area_ref        = <ref name=2012acreagelist/>
+| elevation       = {{convert|207|ft|m|abbr=on}}<ref name=gnis>{{cite gnis|609038|Lake Lorraine}}</ref>
+| elevation_avg   = 
+| elevation_min   = 
+| elevation_max   = 
+| dimensions      = 
+| designation     = 
+<!-- dates & info -->
+| authorized      = 
+| created         = 
+| designated      = 
+| established     = Unspecified
+| named_for       = 
+| visitation_num  = 
+| visitation_year = 
+| visitation_ref  = 
+| governing_body  = 
+| administrator   = 
+| operator        = [[Massachusetts Department of Conservation and Recreation]]
+| owner           =
+<!-- website, embedded --> 
+| website         = [http://www.mass.gov/eea/agencies/dcr/massparks/region-west/lake-lorraine-state-park.html Lake Lorraine State Park]
+| embedded        = 
+}}

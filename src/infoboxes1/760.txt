@@ -1,0 +1,31 @@
+{{Infobox mine
+| name               = Ngwenya Mine
+| image              = Ngwenya Mine.jpg
+| width              = 
+| caption            = 
+| pushpin_map        = 
+| pushpin_mapsize    = 
+| pushpin_map_alt    = 
+| pushpin_map_caption= 
+| pushpin_image      = 
+| pushpin_label      = 
+| pushpin_label_position = 
+| coordinates        = {{Coord|26.20178|S|31.03396|E|display=inline}}
+| place              = 
+| subdivision_type   = 
+| state/province     = 
+| country            = {{country|Eswatini}}
+| products           = Iron ore (and derived [[specularite]])
+| amount             = <!--include units--> 
+| financial year     = 
+| type               = 
+| greatest depth     = 
+| discovery year     = 
+| opening year       = 41,000 to 43,000 years ago (oldest mine known in History)
+| active years       = <!-- use only if inactive for a period of time-->
+| closing year       = 2014
+| owner              =
+| official website   = <!-- {{URL|example.com}} -->
+| acquisition year   = 
+| module             = <!-- or 'embedded' or 'nrhp' -->
+}}

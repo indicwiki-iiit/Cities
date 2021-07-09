@@ -1,0 +1,31 @@
+{{Infobox station
+| name = West Falls Church<br/><small>VT/UVA</small>
+| style=WMATA
+| type = {{WMATA type|orange}}
+| image = West Falls Church from near outbound end.jpg
+| image_size = 
+| image_caption = The center track, used for train storage
+| address = 7040 Haycock Road, [[Falls Church, Virginia]]
+| line = 
+{{WMATA icon|Orange|showtext=yes}}
+| other = {{bus icon}} '''[[Metrobus (Washington, D.C.)|Metrobus]]''': 3T, [[Leesburg Pike Line|28A]]<br> {{bus icon}} '''[[Fairfax Connector]]'''<br> {{bus icon}} '''[[Loudoun County Commuter Bus|Loudoun County Transit]]
+ <br> {{bus icon}} '''[[Megabus (North America)|Megabus]]'''
+| platform = 2 [[island platform]]s
+| tracks = 3
+| structure = Surface
+| parking = 2,009 spaces
+| bicycle = 40 racks, 22 lockers
+| passengers = 2,411 daily <ref name=ridership17>{{cite web|url=https://www.wmata.com/about/records/public_docs/upload/2017_historical_rail_ridership.pdf|title=Metrorail Average Weekday Passenger Boardings|date=May 2017|publisher=[[Washington Metropolitan Area Transit Authority]]|format=PDF|access-date=February 17, 2018}}</ref>
+| pass_year = 2017
+| pass_percent = -8.67
+| pass_system = 
+| opened = {{start date and age|June 7, 1986 |mf=yes}}
+| rebuilt = 2020
+| ADA = Yes
+| code = K06
+| owned = [[Washington Metropolitan Area Transit Authority]]
+| former = West Falls Church (1986–1999, 2011–present)<br>West Falls Church–VT/UVA (1999–2011)
+| zone = 
+| services = {{Adjacent stations|system=WMATA|line=Orange|left=Dunn Loring|right=East Falls Church}}
+| mpassengers = 
+}}

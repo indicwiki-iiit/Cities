@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!-- See {{Infobox settlement}} for the full list of available fields -->
+<!-- Elements common to United Kingdom -->
+| timezone                        = [[Greenwich Mean Time|GMT]]
+| utc_offset                      = 0
+| timezone_DST                    = [[British Summer Time|BST]]
+| utc_offset_DST                  = +1
+
+<!-- Elements common to administrative division of this type (English two-tier district) -->
+| settlement_type                 = Town, [[Borough status in the United Kingdom|borough]] and [[Non-metropolitan district]]
+| subdivision_type                = [[List of sovereign states|Sovereign state]]
+| subdivision_type1               = [[Countries of the United Kingdom|Constituent country]]
+| subdivision_type2               = [[Regions of England|Region]]
+| subdivision_type3               = [[Non-metropolitan county]]
+| subdivision_type4               = Status
+| subdivision_type5               = Admin HQ
+| subdivision_name                = United Kingdom
+| subdivision_name1               = England
+| subdivision_name4               = [[Non-metropolitan district]]
+| government_type                 = Non-metropolitan district council
+| leader_title                    = Leadership
+| leader_title1                   = [[List of MPs elected in the 2015 United Kingdom general election|MPs]]
+| established_title1              = Incorporated
+| population_density_km2          = auto
+| population_blank1_title         = Ethnicity
+| blank1_name                     = [[ONS coding system|ONS code]]
+| blank2_name                     = [[Ordnance Survey National Grid|OS grid reference]]
+
+<!-- Elements unique to this article -->
+| name                            = Tamworth
+| image_skyline                   = Tamworth - panoramio (4).jpg
+| imagesize                       = 275px
+| image_alt                       = 
+| image_caption                   = [[Tamworth Town Hall]] and Sir [[Robert Peel]] statue
+| image_shield                    = 
+| shield_size                     = 
+| shield_alt                      = 
+| shield_link                     = 
+| image_map                       = Tamworth UK locator map.svg
+| mapsize                         = frameless
+| map_alt                         = 
+| map_caption                     = Tamworth shown within Staffordshire
+| subdivision_name2               = [[West Midlands (region)|West Midlands]]
+| subdivision_name3               = [[Staffordshire]]
+| subdivision_name5               = Tamworth
+| established_date1               = 1 April 1974
+| governing_body                  = Tamworth Borough Council
+| leader_party                    = {{English district control|GSS=E07000199}}
+| leader_name                     = [[Local Government Act 2000|Leader & Cabinet]]
+| leader_name1                    = [[Christopher Pincher]]
+| area_rank                       = {{English district area rank|GSS=E07000199}} [[List of English districts by area|(of {{English district total}})]]
+| area_total_km2                  = 30.85
+| population_total                = {{English district population|GSS=E07000199}}
+| population_as_of                = {{English statistics year}}
+| population_rank                 = {{English district rank|GSS=E07000199}} [[List of English districts by population|(of {{English district total}})]]
+| population_blank1               = 97% White British<br />1.8% Other White<br />1.2% Other
+| blank1_info                     = 41UC (ONS)<br />E07000193 (GSS)
+| blank2_info                     = {{gbmappingsmall|SK207040}}
+| coordinates                     = {{coord|52.633|-1.695|display=inline,title}}
+| postal_code_type                = Postcode
+| postal_code                     = [[B postcode area|B77-B79]]
+| postal2_code_type               = [[Post town]]
+| postal2_code                    = {{Smallcaps|tamworth}}
+| area_code                       = 01827
+| website                         = {{URL|www.tamworth.gov.uk/}}
+| official_name                   = 
+}}

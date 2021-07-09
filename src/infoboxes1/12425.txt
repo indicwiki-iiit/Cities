@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Mountain View, California
+|settlement_type          = [[City (California)|City]]
+| image_skyline                   = City Hall of Mountain View - panoramio - Aleh Haiko (1).jpg
+| image_caption           = City Hall & Performing Arts Center
+|image_seal               = Seal of Mountain View, CA.png
+|image_map                = Santa Clara County California Incorporated and Unincorporated areas Mountain View Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location within Santa Clara County
+|image_map1               = Mountain View city plan California USA.svg
+|mapsize1                 = 250px
+|map_caption1             = Mountain View city map, California, USA
+| pushpin_map = California#USA
+| pushpin_map_caption = Location within California##Location within the United States
+| pushpin_relief = 1
+| pushpin_label = Mountain View
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Clara County, California|Santa Clara]]
+|government_type          = [[Council–manager government|Council–manager]]<ref name="ca" />
+|leader_title             = [[Mayor]]
+|leader_name              = Ellen Kamei<ref name="ca">{{Cite web | url = http://www.mountainview.gov/council/roster/default.asp | title = City Council Roster | publisher = City of Mountain View | access-date = January 14, 2021}}</ref>
+|leader_title1            = [[Vice mayor]]
+|leader_name1             = Lucas Ramirez<ref name="ca"/>
+|leader_title2            = [[City Manager]]
+|leader_name2             = Kimbra McCarthy<ref>{{Cite web |url=http://mountainview.gov/depts/manager/default.asp |title=Office of the City Manager |access-date=January 14, 2021 |publisher=City of Mountain View}}</ref>
+|leader_title3            = [[Santa Clara County Board of Supervisors|Supervisor]]
+|leader_name3             = [[Joe Simitian]]<ref>[http://results.enr.clarityelections.com/CA/Santa_Clara/60535/173168/Web01/en/summary.html Santa Clara County Registrar of Voters, June 2016 Presidential Primary Election Results]</ref>
+|leader_title4            = [[California State Assembly|State Assembly Member]]
+|leader_name4             = [[Marc Berman]]<ref>{{cite web |title=General Election - Statement of Vote, November 6, 2018 |url=https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-6-2018/statement-vote/ |publisher=California Secretary of State}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 7, 1902<ref>{{Cite web |url = http://www.calafco.org/docs/Cities_by_incorp_date.doc |title = California Cities by Incorporation Date |format = Word |publisher = California Association of [[Local Agency Formation Commission]]s |access-date = August 25, 2014 |url-status = dead |archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date = November 3, 2014 |df = mdy-all}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 12.24
+| area_land_sq_mi         = 11.96
+| area_water_sq_mi        = 0.28
+| area_total_km2          = 31.69
+| area_land_km2           = 30.97
+| area_water_km2          = 0.72
+| area_water_percent      = 2.26
+| area_note               = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277611|Mountain View|access-date=October 13, 2014}}</ref>
+|elevation_ft             = 105
+|elevation_m              = 32
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0649670.html|title=Mountain View (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 17, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120921233204/http://quickfacts.census.gov/qfd/states/06/0649670.html|archive-date=September 21, 2012}}</ref>
+|population_total         = 74066
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 82739
+|population_density_km2   = 2671.54
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web | url = https://tools.usps.com/go/ZipLookupAction!input.action | title = ZIP Code(tm) Lookup | publisher = [[United States Postal Service]] | access-date = December 3, 2014}}</ref>
+|postal_code              = 94035, 94039–94043
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 650|650]]
+|coordinates              = {{coord|37|23|22|N|122|4|55|W|region:US-CA|display=inline,title}}
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|49670}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277611}}, {{GNIS 4|2411186}}
+|website                  = {{URL|www.mountainview.gov}}
+|footnotes                = 
+|population_density_sq_mi = 6919.13
+}}

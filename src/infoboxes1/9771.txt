@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Gimje}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|김제시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1          = Korean
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|김|제|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2    = {{lang|ko-Hant|{{linktext|金|堤|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info3    = Gimje-si
+| translit_lang1_info4    = Kimje-si
+| image_skyline           = Korea-Gimje-Cityscape-01.jpg
+| image_caption           = 
+| image_flag              = Gimje logo.png
+| blank_emblem_type       = Emblem of Gimje
+| image_map               = North Jeolla-Gimje.svg
+| map_caption             = Location in South Korea
+| coordinates             = {{coord|35|48|06|N|126|53|20|E|region:KR-45|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Honam]]
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 14 ''myeon'', 4 ''dong''
+| area_total_km2          = 545.19
+<!--
+| population_total        = 93,111
+| population_as_of        = December 2011
+| population_total        = 90,852
+| population_as_of        = 2014
+-->
+| population_total        = 88,479 
+| population_as_of        = 2016
+| population_density_km2  = 162.29
+| population_blank1_title = Dialect
+| population_blank1       = [[Jeolla dialect|Jeolla]]
+}}

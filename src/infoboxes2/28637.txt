@@ -1,0 +1,51 @@
+{{Infobox Australian place
+ | type = town
+| name     = Kingoonya
+| state    = SA
+| image    = 
+| caption  = 
+| coordinates = {{coord| 30.916972|S| 135.314671 |E|format=dms|display=inline,title}}
+|coord_ref =<ref name="LMV">{{cite web |title=Search results for 'Kingoonya, LOCB' with the following datasets being selected - 'Suburbs and Localities', 'Government Towns',  'Local Government Areas', 'SA Government Regions', 'Railways' and 'Gazetteer' |url= http://location.sa.gov.au/viewer/?map=roads&x=135.34615&y=-30.90996&z=13&uids=19,115,11,20,105,134&pinx=135.316010&piny=-30.915530&pinTitle=Location&pinText=Kingoonya,+Locb  |website=Location SA Map Viewer|publisher=Government of South Australia|access-date=7 January 2019}}</ref>
+| pop                      = 13
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes            =<ref name="Census2016">{{Census 2016 AUS|id=SSC40689 |name=Kingoonya (State Suburb)|access-date= 7 January 2019|quick=on}}</ref>
+| established              = 7 June 1928 (town)<br/>23 October 2003 (locality)
+| established_footnotes    =<ref name="SAGG-1928">{{cite web |last1=Tassie |first1=H. |title=TOWN OF KINGOONYA |url=http://www8.austlii.edu.au/au/other/sa_gazette/1928/25.pdf |website=The South Australian Government Gazette |publisher=Government of South Australia |access-date=7 January 2019 |pages=1209–1210 |date=7 June 1928}}</ref><ref name="SAGG-2003">{{cite web |last1=Weatherill |first1=Jay |title=GEOGRAPHICAL NAMES ACT 1991 Notice to Assign Names and Boundaries to Places |url=http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2003/October/2003_101.pdf |website=The South Australian Government Gazette |publisher=Government of South AustralIA |access-date=7 January 2019 |pages=3859 |date=23 October 2003 |quote="Assign the names YUNTA, BLINMAN, BOOKABIE, GLENDAMBO, YALATA, KINGOONYA, OLARY, INNAMINCKA, and MANNA HILL, to those areas Out of Councils and shown numbered 1 to 9 on Rack Plan 857 (Sheet 3)"}}</ref>
+| postcode                 = 5710
+| elevation                = 
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone                 = 
+| utc                      = 
+| timezone-dst             = 
+| utc-dst                  = 
+| dist1    = 635
+| location1= [[Adelaide]]
+| dir1     = northwest
+| dist2    = 80
+| location2= [[Tarcoola, South Australia|Tarcoola]]
+| dir2     = east
+
+| region   =[[Far North (South Australia)|Far North]]<ref name=FN>{{cite web|title=Far North SA government region|url=http://www.sa.gov.au/__data/assets/pdf_file/0020/6905/Far_North_SA_Government_region.pdf|publisher=The Government of South Australia|access-date=16 August 2015}}</ref>
+| lga      = [[Pastoral Unincorporated Area]]<ref name="LMV"/> 
+| stategov = [[Electoral district of Giles|Giles]]<ref name=Giles>{{cite web|title=District of Giles Background Profile|url= http://www.ecsa.sa.gov.au/component/edocman/?task=document.download&id=500&Itemid=0 |publisher=ELECTORAL COMMISSION SA|access-date=20 August 2015}}</ref>
+| fedgov   = [[Division of Grey|Grey]]<ref name=AEC>{{cite web|title=Federal electoral division of Grey, boundary gazetted 16 December 2011|url= http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-grey.pdf |publisher=Australian Electoral Commission|access-date=20 August 2015}}</ref>
+
+| maxtemp   = 27.7
+| maxtemp_footnotes =<ref name=climate>{{cite web|title=Monthly climate statistics: Summary statistics Tarcoola Aero (nearest weather station) |url= http://www.bom.gov.au/climate/averages/tables/cw_016098.shtml |publisher=Commonwealth of Australia , Bureau of Meteorology|access-date=7 January 2019}}</ref>  
+| mintemp   = 12.1
+| mintemp_footnotes =<ref name=climate/>
+| rainfall  = 185.2
+| rainfall_footnotes  =<ref name=climate/>
+| near-n             = [[Wilgena, South Australia|Wilgena]]		
+| near-ne            = [[Wilgena, South Australia|Wilgena]]	
+| near-e             = [[Coondambo, South Australia|Coondambo]] 
+| near-se            = [[Coondambo, South Australia|Coondambo]]  
+| near-s             = [[Wilgena, South Australia|Wilgena]]	
+| near-sw            = [[Wilgena, South Australia|Wilgena]]		
+| near-w             = [[Wilgena, South Australia|Wilgena]]	
+| near-nw            = [[Wilgena, South Australia|Wilgena]]	
+| near =
+| footnotes          = Adjoining localities<ref name="LMV"/> 
+}}

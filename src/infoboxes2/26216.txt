@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Wawayanda, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within the state of New York
+|image_map                = Orange County New York incorporated and unincorporated areas Wawayanda highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Orange County, New York|Orange County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Orange County, New York|Orange]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 90.72
+|area_land_km2            = 89.92
+|area_water_km2           = 0.80
+|area_total_sq_mi         = 35.03
+|area_land_sq_mi          = 34.72
+|area_water_sq_mi         = 0.31
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7266
+|population_density_km2   = 81.35
+|population_density_sq_mi = 210.69
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 170
+|elevation_ft             = 558
+|coordinates              = {{coord|41|23|36|N|74|27|24|W|region:US-NY|display=inline,title}}
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-78839<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979610<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|https://www.townofwawayanda.com/|Town website}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 7315
+}}

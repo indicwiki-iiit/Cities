@@ -1,0 +1,47 @@
+{{Infobox company
+| name = DuPont de Nemours, Inc.
+| logo = DuPont logo.svg
+| logo_size =137px
+| native_name_lang = <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{Lang|[code]|[name]}}. -->
+| romanized_name = 
+| former_name = 
+| type = [[Public company|Public]]
+| traded_as = {{Unbulleted list|{{NYSE|DD}}|[[S&P 100]] component|[[S&P 500]] component}}
+| ISIN = US26614N1028
+| industry = [[Chemical industry|Chemicals]]
+| genre = 
+| fate = 
+| predecessors = {{Unbulleted list|[[Dow Chemical Company|Dow Chemical]]|[[DuPont (1802–2017)|E. I. du Pont de Nemours and Company]]}}
+| successor = <!-- or: | successors = -->
+| founded = {{Start date and age|2017|09|01}}
+| founder = <!-- or: | founders = -->
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| hq_location = [[Wilmington, Delaware]], USA
+| hq_location_city = 
+| hq_location_country = 
+| num_locations = 
+| num_locations_year = <!-- Year of num_locations data (if known) -->
+| area_served = Global
+| key_people = [[Edward D. Breen]]<br>{{small|(Executive Chairman & CEO)}}
+| products = 
+| brands = 
+| production = 
+| production_year = <!-- Year of production data (if known) -->
+| services = 
+| revenue = {{increase}} {{US$|21.57 billion|link=yes}} (2019)<ref name=FY>{{cite web |url=http://d18rn0p25nwr6d.cloudfront.net/CIK-0001666700/47750416-03ed-4e2f-9fa7-3a006ee6df3c.pdf |title=DowDuPont Inc. 2018 Annual Report (Form 10-K) |date=February 2019 |publisher=[[U.S. Securities and Exchange Commission]] |website=Sec.gov |access-date=April 20, 2019 |archive-url=https://web.archive.org/web/20190420045040/http://d18rn0p25nwr6d.cloudfront.net/CIK-0001666700/47750416-03ed-4e2f-9fa7-3a006ee6df3c.pdf |archive-date=April 20, 2019 |url-status=live }}</ref>
+| operating_income = {{increase}} {{US$|5.40 billion}} (2018)<ref name=FY/>
+| net_income = {{increase}} {{US$|3.84 billion}} (2018)<ref name=FY/>
+| assets = {{decrease}} {{US$|188.03 billion}} (2018)<ref name=FY/>
+| equity = {{decrease}} {{US$|94.57 billion}} (2018)<ref name=FY/> 
+| owner = <!-- or: | owners = -->
+| members =  
+| members_year = <!-- Year of members data (if known) -->
+| num_employees = ~98,000 (2018)<ref name=FY/>
+| parent = 
+| divisions = 
+| subsid = 
+| module = <!-- Used to embed other templates -->
+| website = {{URL|www.dupont.com}}
+| footnotes = 
+| ISIN2 = 
+}}

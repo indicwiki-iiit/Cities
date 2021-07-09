@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Milford Township, Michigan
+|official_name            = Charter Township of Milford
+|settlement_type          = [[Charter township]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Milford Michigan Civic Center.JPG
+|imagesize                = 275
+|image_caption            = Milford Civic Center
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            =Michigan
+|pushpin_label_position =left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          =Milford Township
+|pushpin_map_caption    =Location within the state of Michigan
+|pushpin_mapsize        =
+|image_map                = Milford Charter Township, MI location.png
+|mapsize                  = 250
+|map_caption              = Location within [[Oakland County, Michigan|Oakland County]] (red) and the administered village of [[Milford, Michigan|Milford]] (pink)
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Michigan]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name2        = [[Oakland County, Michigan|Oakland]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Supervisor
+|leader_name              = Donald Green
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 91.1
+|area_land_km2            = 86.2
+|area_water_km2           = 4.9
+|area_total_sq_mi         = 35.2
+|area_land_sq_mi          = 33.3
+|area_water_sq_mi         = 1.9
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 15736
+|population_density_km2   = auto
+|population_density_sq_mi =
+|population_metro         = 4296250 ([[Metro Detroit]])
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 300
+|elevation_ft             = 984
+|coordinates              = {{coord|42|34|36|N|83|36|11|W|region:US-MI|display=inline,title}}
+|postal_code_type         = [[ZIP Code|ZIP code(s)]]
+|postal_code              = 48380, 48381
+|area_code                = [[Area codes 248 and 947|248]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-53980<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1626741<ref>{{gnis|1626741}}</ref>
+|website                  = {{URL|http://www.milfordtownship.com/|Official website}}
+|footnotes                = 
+}}

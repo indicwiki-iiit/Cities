@@ -1,0 +1,77 @@
+{{Infobox settlement
+| name                            = Hesperia
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Hesperia City Hall.jpeg
+| image_caption                   = Hesperia City Hall
+| image_seal                      = 
+| image_map                       = File:San Bernardino County California Incorporated and Unincorporated areas Hesperia Highlighted 0633434.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Hesperia in San Bernardino County, California.
+| pushpin_map                     = USA
+| pushpin_map_caption             = Hesperia, California
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|34|24|46|N|117|18|22|W|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of San Bernardino County, California.png}} [[San Bernardino County, California|San Bernardino]]
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = July 1, 1988<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy-all 
+}}</ref>
+| government_type                 = [[Charter city|General Law City]] <br />[[Council–manager government|Council-Manager]]
+| leader_title                    = [[City council]]
+| leader_name                     = Cameron Gregg ([[Mayor]])<br/> Brigit Bennington ([[Pro tempore]])<br /> Larry Bird<br/> Rebekah Swanson<br/> William J. Holland <ref>{{Cite web|title=City Council {{!}} City of Hesperia - Official Website|url=http://www.cityofhesperia.us/133/City-Council|access-date=2021-01-01|website=www.cityofhesperia.us}}</ref>
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Nils Bentsen<ref name=manager>{{cite web|title=City Manager|url=http://www.cityofhesperia.us/index.aspx?NID=304|publisher=City of Hesperia|access-date= June 28, 2016}}</ref>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 188.50
+| area_total_sq_mi                = 72.78
+| area_land_km2                   = 188.26
+| area_land_sq_mi                 = 72.69
+| area_water_km2                  = 0.25
+| area_water_sq_mi                = 0.10
+| area_water_percent              = 0.15
+| elevation_footnotes             = <ref>{{Cite GNIS|1652720|Hesperia|access-date=October 21, 2014}}</ref>
+| elevation_m                     = 971
+<!-- Population ----------->
+| elevation_ft                    = 3186
+| population_total                = 90173
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0633434.html|title=Hesperia (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 16, 2015|archive-url=https://web.archive.org/web/20150416033637/http://quickfacts.census.gov/qfd/states/06/0633434.html|archive-date=April 16, 2015|url-status=dead}}</ref>
+| population_density_sq_mi        = 1317.31
+| population_est                  = 95750
+| pop_est_as_of                   = 2019
+| population_rank                 = [[List of largest California cities by population|77th]] in California
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92340, 92344, 92345
+| area_code                       = [[Area codes 442 and 760|442/760]]
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| leader_title2                   = [[City Treasurer]]
+| leader_name2                    = Vacant
+
+<!-- Area------------------>
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|33434}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652720}}, {{GNIS 4|2410751}}
+| website                         = {{URL|www.cityofhesperia.us|cityofhesperia.us}}
+| population_density_km2          = 508.62
+}}

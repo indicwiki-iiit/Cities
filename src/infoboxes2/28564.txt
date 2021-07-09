@@ -1,0 +1,38 @@
+{{Infobox Australian place
+| type     = town
+| name     = Ouyen
+| state    = vic
+| image    = Ouyen Oke Street 002.JPG
+| caption  = Oke Street, the main street of Ouyen. The war memorial is in the foreground 
+| lga      = Rural City of Mildura
+| use_lga_map = yes
+| postcode = 3490
+| est      = 1906
+| pop      = 1045
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="abspop">{{Census 2016 AUS | id = UCL215064 | name = Ouyen (Urban Centre/Locality)| accessdate = 23 October 2017| quick = on}}</ref>
+| elevation= 50
+| coordinates = {{coord|35|04|0|S|142|19|0|E|display=inline,title}}
+| maxtemp  = 23.6
+| mintemp  = 9.6
+| rainfall = 331.7
+| stategov = [[Electoral district of Mildura|Mildura]]
+| fedgov   = [[Division of Mallee|Mallee]]
+| dist1    = 441
+| dir1     = NW
+| location1= Melbourne
+| dist2    = 377
+| dir2     = E
+| location2= [[Adelaide]], ([[South Australia|SA]])
+| dist3    = 100
+| dir3     = S
+| location3= Mildura
+| near-nw  = [[Murray-Sunset, Victoria|Murray-Sunset]]
+| near-n   = [[Murray-Sunset, Victoria|Murray-Sunset]]
+| near-ne  = [[Hattah, Victoria|Hattah]]
+| near-w   = [[Walpeup, Victoria|Walpeup]]
+| near-e   = [[Kulwin, Victoria|Kulwin]]
+| near-sw  = [[Patchewollock, Victoria|Patchewollock]]
+| near-s   = [[Tempy, Victoria|Tempy]]
+| near-se  = [[Mittyack, Victoria|Mittyack]]
+}}

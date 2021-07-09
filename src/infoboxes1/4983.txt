@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type = town
+| name = Caboolture
+| city = [[Brisbane]]
+| state = qld
+| image = Caboolture CBD.JPG
+| caption = Caboolture [[central business district|CBD]]
+| coordinates         = {{coord|-27.085|152.9513|type:city_region:AU-QLD|display=inline|name=Caboolture (town centre)}}
+| pop                 = 26433
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1842 
+| postcode            = 4510
+| area                = 68.7
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| lga = [[Moreton Bay Region]]
+| stategov = [[Electoral district of Morayfield|Morayfield]]
+| stategov2 = [[Electoral district of Pumicestone|Pumicestone]]
+| fedgov = [[Division of Longman|Longman]]
+| dist1 = 50
+| dir1 = north
+| location1 = [[Brisbane CBD]]
+| near-n = [[Elimbah, Queensland|Elimbah]]
+| near-ne = [[Toorbul, Queensland|Toorbul]]
+| near-e = [[Ningi, Queensland|Ningi]]
+| near-se = [[Beachmere, Queensland|Beachmere]]
+| near-s = [[Caboolture South, Queensland|Caboolture South]]<br/>[[Morayfield, Queensland|Morayfield]]
+| near-sw = [[Bellmere, Queensland|Bellmere]]
+| near-w = [[Moodlu, Queensland|Moodlu]]<br/>
+| near-nw = [[Wamuran, Queensland|Wamuran]]
+}}

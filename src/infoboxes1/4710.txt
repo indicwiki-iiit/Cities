@@ -1,0 +1,45 @@
+{{Infobox settlement
+|native_name            = 
+|nickname               = La Antigua or Antigua Guatemala
+|settlement_type        = City
+|motto                  =
+|image_skyline          = Santa Catalina Arch - Antigua Guatemala Feb 2020.jpg
+|image_caption          = [[Arco de Santa Catalina|Santa Catalina arch]] and Volcan de Agua in 2020
+|image_flag             = Bandera_de_Sacatepéquez.svg
+|flag_size              =
+|image_seal             = Escudo de armas de Sacatepéquez.svg
+|seal_size              = 88px
+|image_shield           = 
+|shield_size            =
+|pushpin_map            = Guatemala
+|pushpin_label_position = bottom
+<!-- |pushpin_map1           = Sacatepequez -->
+|pushpin_mapsize        = 230
+|pushpin_map_caption    = Location in Guatemala
+<!-- |pushpin_map_caption1   = Location in Sacatepéquez Department -->
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Guatemala.svg|25px]] [[Guatemala]]
+|subdivision_type1      = [[Departments of Guatemala|Department]]
+|subdivision_name1      = [[Image:Bandera de Sacatepéquez.svg|25px]] [[Sacatepéquez Department|Sacatepéquez]]
+|government_footnotes   =
+|government_type        = municipal
+|leader_title           = Mayor
+|leader_name            = Ixchel Miranda
+
+|population_as_of       = 2018 census
+|population_footnotes   = <ref>[https://www.citypopulation.de/en/guatemala/cities/ Citypopulation.de] Population of cities & towns in Guatemala</ref>
+|population_total       = 46054
+|population_blank1_title= Ethnicities
+|population_blank2_title= Religions
+|coordinates            = {{coord|14|34|N|90|44|W|region:GT|display=inline}}
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+|website                = http://muniantigua.gob.gt/
+|footnotes              = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |ID = 65
+  |Year = 1979
+  |Criteria = Cultural: ii, iii, iv
+  }}
+}}

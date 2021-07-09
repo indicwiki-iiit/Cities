@@ -1,0 +1,22 @@
+{{Infobox UK place
+| static_image_name        = Wilmslow Church.jpg
+| static_image_caption     = St Bartholomew's Church, Wilmslow
+| country                  = England
+| type                     = Town
+| coordinates              = {{coord|53.325|-2.239|display=inline,title}}
+| london_distance          = {{convert|154|mi|km|abbr=on}}<ref>{{cite web|url=http://boulter.com/gps/distance/?from=53.325+-2.239&to=51.507+-0.127&units=m|title=Coordinate Distance Calculator|work=boulter.com|access-date=8 March 2016}}</ref>
+| london_direction         = SE
+| official_name            = Wilmslow
+| population               = 24,497
+| population_ref           = ([[United Kingdom Census 2011|2011 Census]])
+| civil_parish             =  Wilmslow
+| unitary_england          = [[Cheshire East]]
+| lieutenancy_england      = [[Cheshire]]
+| region                   = North West England
+| constituency_westminster = [[Tatton (UK Parliament constituency)|Tatton]]
+| post_town                = WILMSLOW
+| postcode_district        = SK9
+| postcode_area            = SK
+| dial_code                = 01625
+| os_grid_reference        = SJ840810
+}}

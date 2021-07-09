@@ -1,0 +1,109 @@
+{{Infobox settlement
+| name                            =  Torrance, California
+| official_name                   = City of Torrance
+| settlement_type                 = [[City (California)|City]]
+| named_for                       = [[Jared Sidney Torrance]]
+<!-- Images and maps ------>
+| image_skyline                   = torranceca.jpg
+| image_caption                   = Torrance Beach with the [[Palos Verdes Peninsula]] in the background
+| image_flag                      = Flag of Torrance, California.png
+| image_seal                      = Logo of Torrance, California.svg
+| image_shield                    = 
+| image_blank_emblem              = 
+| blank_emblem_link               = List of U.S. county and city insignia
+| blank_emblem_size               = 
+| blank_emblem_alt                = 
+| blank_emblem_type               = Logo
+| motto                           = "A Balanced City"
+| image_map                       = LA County Incorporated Areas Torrance highlighted.svg
+| map_caption                     = Location of Torrance in the County of Los Angeles
+| pushpin_map                     = USA
+| pushpin_relief                  = 1
+| pushpin_map_caption             = Location in the contiguous United States
+<!-- Location ------------->
+| coordinates                     = {{coord|33|50|05|N|118|20|29|W|region:US-CA_type:city(145000)|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = May 12, 1921<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ | df = mdy-all
+ }}</ref>
+<!-- Government ----------->
+| government_type                 = [[Council–manager government|Council-manager]]<ref name=govt>{{Cite web|url=http://www.torranceca.gov/1928.htm|title=City Council and Elected Officials|publisher=City of Torrance|access-date=February 24, 2015|archive-url=https://web.archive.org/web/20150219142540/http://www.torranceca.gov/1928.htm|archive-date=February 19, 2015|url-status=dead|df=mdy-all}}</ref>
+| leader_title                    = [[City council]]<ref name="officials">{{Cite web |url=http://www.torranceca.gov/1928.htm |title=City Council and Elected Officials |access-date=November 5, 2014 |archive-url=https://web.archive.org/web/20141106004339/http://www.torranceca.gov/1928.htm |archive-date=November 6, 2014 |url-status=dead |df=mdy-all }}</ref>
+| leader_name                     = {{Plain list|
+* [[Mayor]] Patrick J. Furey
+* George K. Chen
+* Sharon Kalani
+* Tim Goodrich
+* Mike Griffiths
+* Heidi Ann Koch Ashcraft
+* Aurelio Cesare Mattucci
+}}
+| leader_title1                   = [[City treasurer]]
+| leader_name1                    = Dana Cortez<ref name="officials"/>
+| leader_title2                   = [[City clerk]]
+| leader_name2                    = Rebecca Poirier<ref name="officials"/>
+<!-- Area ----------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |publisher=United States Census Bureau |access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 53.18
+| area_total_sq_mi                = 20.53
+| area_land_km2                   = 53.10
+| area_land_sq_mi                 = 20.50
+| area_water_km2                  = 0.08
+| area_water_sq_mi                = 0.03
+| area_water_percent              = 0.37
+| area_note                       = 
+<!-- Elevation ------------>
+| elevation_footnotes             = <ref>{{Cite GNIS|1652802|Torrance|access-date=October 11, 2014}}</ref>
+| elevation_m                     = 27
+| elevation_ft                    = 89
+| population_footnotes            = <ref name=quick>{{Cite web
+ |url          = http://quickfacts.census.gov/qfd/states/06/0680000.html
+ |title        = Torrance (city) QuickFacts
+ |publisher    = [[United States Census Bureau]]
+ |access-date  = January 13, 2015
+ |archive-url  = https://web.archive.org/web/20150112060537/http://quickfacts.census.gov/qfd/states/06/0680000.html
+ |archive-date = January 12, 2015
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref>
+<!-- Population ----------->
+| population_total                = 145438
+| population_as_of                = [[2010 United States Census|2010]]
+| population_rank                 = [[List of cities in Los Angeles County, California|8th]] in Los Angeles County<br />[[List of largest California cities by population|39th]] in California<br />[[List of United States cities by population|184th]] in the United States
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 143592
+| pop_est_as_of                   = 2019
+| population_density_km2          = 2704.39
+<!-- Time zones ----------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −7
+<!-- Codes ---------------->
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 90501–90510
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 310 and 424|310/424]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|80000}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS4|1652802}}, {{GNIS 4|2412087}}
+| website                         = {{URL|www.torranceca.gov}}
+| population_density_sq_mi        = 7004.49
+}}

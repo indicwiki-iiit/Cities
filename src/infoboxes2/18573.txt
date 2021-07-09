@@ -1,0 +1,81 @@
+{{Infobox settlement
+|name                     = Bixby, Oklahoma
+|settlement_type          = [[City]]
+|nickname                 = "The Garden Spot of Oklahoma"
+|motto                    = "A Community Of Choice"
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Tulsa County Oklahoma incorporated and unincorporated areas Bixby highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of within [[Tulsa County, OK|Tulsa County]], and the state of [[Oklahoma]]
+| pushpin_map = Oklahoma
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|Counties]]
+|subdivision_name2        = [[Tulsa County, Oklahoma|Tulsa]], [[Wagoner County, Oklahoma|Wagoner]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]<ref>{{cite web|url=https://www.sai.ok.gov/olps/uploads/bixby_fy14_final_report_7bqm.pdf|title=city of bixby, oklahoma - Oklahoma State Auditor|publisher= Oklahoma State Auditor|page= 9|access-date=December 18, 2019}}</ref>
+|leader_title             = [[City manager]]
+|leader_name              = Jared Cottle<ref>{{cite web|url=https://www.bixbyok.gov/Directory.aspx?EID=43|title=Bixby, OK|publisher= City of Bixby, Oklahoma|access-date=December 18, 2019}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 67.18
+|area_land_km2            = 64.41
+|area_water_km2           = 2.77
+|area_total_sq_mi         = 25.94
+|area_land_sq_mi          = 24.87
+|area_water_sq_mi         = 1.07
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 20884
+|population_density_km2   = 433.82
+|population_density_sq_mi = 1123.60
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 183
+|elevation_ft             = 600
+|coordinates              = {{coord|35|57|39|N|95|52|42|W|region:US-OK_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 74008
+|area_code                = [[area codes 539 and 918|539/918]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-06400<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1090185<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+<!--
+|twin1                    = [[Waikiki, Hawaii]]
+|twin1_country            = {{US}} {{flagdeco|Hawaii}}
+-->
+|website                  = [https://www.bixbyok.gov/ bixbyok.gov]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 27944
+}}

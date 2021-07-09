@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = City of Paintsville
+|settlement_type          = [[list of Kentucky cities|City]]
+|named_for                = a [[Paint Creek (Johnson County, Kentucky)|nearby creek]]<ref name=ren/>
+
+<!-- Images -->
+|image_skyline            = Paintsville Christmas.jpg
+|imagesize                = 
+|image_caption            = Main Street decorated for Christmas
+|image_flag               = 
+|image_seal               = 
+|nickname                 = "City Between the Lakes"
+<!-- Maps -->
+|image_map                = File:Johnson County Kentucky Incorporated and Unincorporated areas Paintsville Highlighted 2158962.svg
+|mapsize                  = 250px
+|map_caption              = Location of Paintsville in Johnson County, Kentucky.
+|image_map1               = Paintsville, Kentucky map.gif
+|mapsize1                 = 
+|map_caption1             = Detailed map of Paintsville
+| pushpin_map             = USA Kentucky#USA
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| pushpin_label           = Paintsville
+| pushpin_label_position  = 
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = {{USA}}
+|subdivision_type1        = State
+|subdivision_name1        = {{flag|Kentucky}}
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Johnson County, Kentucky|Johnson]]
+|government_type          = [[Mayor-council government|Mayor-Council]]
+|leader_title             = Mayor
+|leader_name              = Bill Mike Runyon
+|established_title        = Established
+|established_date         = February 24, 1834<ref name=sos/>
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = February 5, 1843<ref name=sos>Commonwealth of Kentucky. Office of the Secretary of State. Land Office. "Paintsville, Kentucky". Retrieved September 24, 2013.</ref>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 17.39
+|area_land_km2            = 17.04
+|area_water_km2           = 0.35
+|area_total_sq_mi         = 6.72
+|area_land_sq_mi          = 6.58
+|area_water_sq_mi         = 0.14
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 3459
+|population_density_km2   = 234.12
+|population_density_sq_mi = 606.38
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 187
+|elevation_ft             = 614
+|coordinates              = {{coord|37|48|41|N|82|48|24|W|region:US-KY_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 41240
+|area_code                = [[Area code 606|606]] Exchanges: 788,789
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 21-58962
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0500128
+|website                  = {{URL|www.cityofpaintsville.net}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 3990
+}}

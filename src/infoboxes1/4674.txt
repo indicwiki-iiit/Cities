@@ -1,0 +1,38 @@
+{{Infobox musical artist
+| name            = Brad Delson
+| image           = File:Linkin Park-Rock im Park 2014- by 2eight 3SC0285.jpg
+| caption         = Delson performing with Linkin Park at [[Rock am Ring and Rock im Park|Rock im Park]] in June 2014
+| birth_name      = Bradford Phillip Delson
+| alias           = {{flatlist|
+* Big Bad Brad
+* BBB
+}}
+| birth_date      = {{nowrap|{{Birth date and age|1977|12|1}}<ref name="Allmusic">{{cite web|first=Corey |last=Apar |url=http://www.allmusic.com/artist/brad-delson-mn0000134606 |title=Brad Delson &#124; Biography |publisher=[[AllMusic]] |date=1977-12-01 |access-date=2016-12-02}}</ref>}}
+| birth_place     = [[Agoura, California]], U.S.
+| instrument      = {{flatlist|
+* Guitar
+}} <!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+| genre           = {{flatlist|
+* [[Alternative metal]]
+* [[nu metal]]
+* [[Heavy metal music|heavy metal]]
+* [[hard rock]]
+* [[alternative rock]]
+* {{nowrap|[[electronic rock]]}}
+}}
+| occupation      = {{flatlist|
+* Musician
+* record producer
+}}
+| years_active    = 1995–present
+| label           = {{flatlist|
+* [[Machine Shop Recordings|Machine Shop]]
+* [[Warner Bros. Records|Warner Bros.]]
+}}
+| associated_acts = {{flatlist|
+* [[Linkin Park]]
+* [[Fort Minor]]
+* Relative Degree
+}}
+| website         = {{URL|linkinpark.com}}
+}}

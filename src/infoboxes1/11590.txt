@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|settlement_type          = City
+| name                    = Ereğli
+| image_skyline           = Ereğli panoramic.jpg
+| image_caption           = Ereğli coast
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|41|15|30|N|31|25|30|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Zonguldak Province|Zonguldak]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Republican People's Party (Turkey)|CHP]]
+| leader_title            = Mayor
+| leader_name             = Halil Posbıyık
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = İbrahim Çay
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Zonguldak|Ereğli}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Zonguldak}}
+| population_urban        = {{Turkey district populations|Zonguldak|Karadeniz Ereğli|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Zonguldak|Karadeniz Ereğli|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Oceanic climate|Cfb]]
+| postal_code_type        = Post code
+| postal_code             = 67300
+| website                 = {{URL| www.kdzeregli.bel.tr | www.kdzeregli.bel.tr }}
+}}

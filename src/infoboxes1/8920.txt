@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Chandannath
+|other_name             =
+|native_name            = चन्दननाथ नगरपालिका
+|nickname               =
+|settlement_type        = Municipality
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = Chandannath Municiplity.jpg
+|image_caption          = Photo of Chandannath Municiplity taken from [[Twin Otter]]
+|image_flag             = 
+|image_seal             =
+|image_map              = 
+|mapsize                = 
+|map_caption            =
+|pushpin_map            = Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 360
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Nepalese Federal States|Province]]
+|subdivision_name1      = [[Karnali Pradesh]]<ref>{{Cite web|url=http://www.myrepublica.com/news/36901/?categoryId=81 |title=Prov 6 named as Karnali, permanent capital in Birendranagar | publisher=myrepublica|accessdate=10 March 2018}}</ref> 
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Jumla District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Kantika Sejuwal
+|leader_title1          = Deputy Chief
+|leader_name1           = Apsara Devi Neupane
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               = 1991
+|population_footnotes           =
+|population_note                =
+|population_total               = 5842
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+|population_blank2_title        = Religions
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|29.17|82.12|type:city_region:NP|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = Postal code
+|postal_code            = 21200 <ref>http://www.geopostcodes.com/Jumla</ref>
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = [http://www.chandannathmun.gov.np chandannathmun.gov.np]
+|footnotes              = 
+}}

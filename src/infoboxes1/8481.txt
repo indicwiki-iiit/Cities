@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Bneid Al-Gar
+| native_name             = بنيد القار
+| native_name_lang        = ar<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead --> ar
+| settlement_type         = District
+| image_skyline           = 
+| imagesize               = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Kuwait
+| pushpin_label_position  = 
+| pushpin_map_alt         =
+| pushpin_map_caption     = 
+| coordinates             = {{coord|29|22|N|48|0|E|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = <ref name="geoportal2011"/>
+| elevation_footnotes     = <ref>{{cite web|url=https://www.floodmap.net/Elevation/ElevationMap/?gi=387951|title=Elevation of Bunayd al Qar, Kuwait Elevation Map, Topo, Contour|website=floodmap.net|accessdate=27 November 2019}}</ref> <!--for references: use <ref> </ref> tags-->
+| elevation_m             = 3
+| elevation_ft            =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{KUW}}
+| subdivision_type1       = [[Governorates of Kuwait|Governorate]]
+| subdivision_name1       = [[Capital Governorate (Kuwait)|Capital Governorate]]
+| subdivision_type2       =
+| subdivision_name2       =
+| subdivision_type3       =
+| subdivision_name3       =
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = <ref name="geoportal2011">{{cite web|url=https://gis.csb.gov.kw/en/|title=Geoportal for Kuwait Census 2011|publisher=Central Statistical Bureau of Kuwait|accessdate=26 November 2019}}</ref>
+| population_total        = 13,171
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 =
+| footnotes               = 
+}}

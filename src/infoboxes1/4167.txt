@@ -1,0 +1,113 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+| name                           = Vallejo, California
+| official_name                  = City of Vallejo California
+| settlement_type                = [[City (California)|City]]
+| other_name                     = 
+| native_name                    = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+| image_skyline                  = Vallejo Historic City Hall, 715 Marin St., Vallejo, California.jpg
+| imagesize                      = 250px
+| image_caption                  = Vallejo Historic City Hall, 715 Marin St., Vallejo, California
+| image_flag                     = 
+| flag_siz123e                   = 
+| image_seal                     = 
+| seal_size                      = 
+| nickname                       = V-Town, The Old Capital, Valley Joe
+| motto                          = City of Opportunity, The Naval City
+| image_map                      = Solano County California Incorporated and Unincorporated areas Vallejo Highlighted.svg
+| mapsize                        = 250px
+| map_caption                    = Location in [[Solano County, California|Solano County]] and the state of [[California]]
+| image_map1                     = 
+| mapsize1                       = 
+| map_caption1                   = 
+| pushpin_map                    = #California##USA#
+| pushpin_map_caption            = Location in California##Location in the United States
+<!-- Location ------------------>
+| coordinates                    = {{coord|38|6|47|N|122|14|9|W|display=inline,title}}
+| subdivision_type               = Country
+| subdivision_name               = United States
+| subdivision_type1              = [[U.S. state|State]]
+| subdivision_name1              = [[California]]
+| subdivision_type2              = [[Regions of California|Region]]
+| subdivision_name2              = [[San Francisco Bay Area]]
+| subdivision_type3              = [[List of counties in California|County]]
+| subdivision_name3              = [[Solano County, California|Solano]]
+
+<!-- Politics ----------------->
+| established_title              = Founded
+| established_date               = 1851
+| established_title2             = [[Municipal corporation|Incorporated]]
+| established_date2              = March 30, 1868<ref>{{Cite web
+ |url          = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title        = California Cities by Incorporation Date
+ |format       = Word
+ |publisher    = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status   = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df           = mdy-all
+}}</ref>
+| government_type                = [[Mayor-council government|Mayor-council]]
+| leader_title                   = [[Mayor]]
+| leader_name                    = Robert McConnell<ref name=CityCouncilListing>{{cite web |title=Mayor & City Council |url=http://www.ci.vallejo.ca.us/city_hall/city_government/mayor___city_council |website=City of Vallejo |access-date=January 18, 2021}}</ref>
+| leader_title1                  = [[City manager]]
+| leader_name1                   = Greg Nyhoff<ref>{{Cite web
+ | url = http://www.ci.vallejo.ca.us/city_hall/departments___divisions/city_manager
+ | title = City Manager
+ | publisher = City of Vallejo
+ | access-date = June 9, 2019
+ | archive-url = https://web.archive.org/web/20190709113504/http://www.ci.vallejo.ca.us/city_hall/departments___divisions/city_manager
+ | archive-date = July 9, 2019
+ | url-status = live
+ }}</ref>
+| leader_title2                  = [[California's 3rd State Senate district|State senator]]
+| leader_name2                   = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 24, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+| leader_title3                  = [[California's 14th State Assembly district|Assemblymember]]
+| leader_name3                   = {{Representative|caad|14|fmt=sleader}}<ref name=swd />
+| leader_title4                  = [[California's 5th congressional district|U. S. rep.]]
+| leader_name4                   = {{Representative|cacd|5|fmt=usleader}}<ref name=GT5>{{Cite GovTrack|CA|5|access-date=October 6, 2014}}</ref>
+<!-- Area------------------>
+| unit_pref                      = Imperial
+| area_footnotes                 = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi               = 48.78
+| area_total_km2                 = 126.34
+| area_land_sq_mi                = 30.50
+| area_land_km2                  = 79.01
+| area_water_sq_mi               = 18.27
+| area_water_km2                 = 47.33
+| area_water_percent             = 38.0
+| area_metro_km2                 = 
+| area_metro_sq_mi               = 
+| elevation_footnotes            = <ref>{{Cite GNIS|1661612|Vallejo|access-date=October 22, 2014}}</ref>
+| elevation_ft                   = 69
+| elevation_m                    = 21
+<!-- Population   ----------------------->
+| population_as_of               = [[2010 United States Census|2010]]
+| population_footnotes           = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0681666.html|title=Vallejo (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 23, 2015|archive-url=https://www.webcitation.org/6AKT9L3G4?url=http://quickfacts.census.gov/qfd/states/06/0681666.html|archive-date=August 31, 2012|url-status=live}}</ref>
+| population_total               = 115942
+| pop_est_as_of                  = 2019
+| pop_est_footnotes              = <ref name="USCensusEst2019"/>
+| population_est                 = 121692
+| population_rank                = [[Solano County, California|1st]] in Solano County<br />[[List of largest California cities by population|50th]] in California
+| population_density_sq_mi = 3989.25
+| population_metro               = 
+| population_density_metro_sq_mi = <!-- General information  --------------->
+| timezone                       = [[Pacific Time Zone|Pacific]]
+| utc_offset                     = &minus;8
+| timezone_DST                   = PDT
+| utc_offset_DST                 = &minus;7
+<!-- Area/postal codes & others -------->
+| postal_code_type               = [[ZIP code]]s
+| postal_code                    = 94589–94592
+| area_code_type                 = [[North American Numbering Plan|Area code]]
+| area_code                      = [[Area code 707|707]]
+| blank_name                     = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                     = {{FIPS|06|81666}}
+| blank1_name                    = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                    = {{GNIS 4|1661612}}, {{GNIS 4|2412142}}
+| website                        = 
+}}
+

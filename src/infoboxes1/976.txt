@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Nanyuki
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             =
+| settlement_type        = Town
+<!-- images and maps  ----------->
+| image_skyline          = Nanyuki main street.jpg
+| imagesize              = 300px
+| image_caption          = Nanyuki main street
+| image_flag             =
+| image_seal             =
+| image_shield           =
+| nickname               =
+| motto                  =
+| image_map              =
+| map_caption            =
+| pushpin_map            = Kenya<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Kenya
+<!-- Location ------------------>
+| coordinates            = {{coord|0|01|N|37|04|E|region:KE|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Kenya}}
+| subdivision_type1      = [[County]]
+| subdivision_type2      =
+| subdivision_type3      =
+| subdivision_type4      =
+| subdivision_name1      = [[Laikipia County]]
+| subdivision_name2      =
+| subdivision_name3      =
+| subdivision_name4      =
+| established_title      = <!-- Settled -->
+| established_date       = 1907
+| government_footnotes   =
+| government_type        =
+<!-- Politics ----------------->
+| leader_title           = Mayor of Nanyuki
+| leader_name            = Cllr. Isaac Mathenge
+<!-- Area    --------------------->
+| unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         =
+| area_water_percent     =
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            =
+<!-- Population   ----------------------->
+| population_total       = 49,233
+| population_as_of       = 2009
+| population_footnotes   =
+| population_density_km2 =
+| population_note        =
+<!-- General information  --------------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| website                =
+| footnotes              =
+| timezone               =
+| utc_offset             =
+| timezone_DST           =
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+}}

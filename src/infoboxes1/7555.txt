@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                   = Nahariya
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|נַהֲרִיָּיה}}|rtl=yes}}
+ | {{Lang|ar|نهاريا|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1961)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Nahariya
+| image_skyline          = Areal view of Nahariya.jpg
+| image_blank_emblem     = Coat of arms of Nahariya.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|33|00|21|N|35|05|56|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| subdivision_type3      = Sub-district 
+| subdivision_name3      = Acre
+| established_title      = Founded
+| established_date       = 1400 BCE <small>(Khirbet Kabarsa)</small><br>1935 <small>(Modern city)</small>
+| leader_title           = Mayor
+| leader_name            = Ronen Marelli
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:10233|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Nahariyya}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

@@ -1,0 +1,90 @@
+{{Infobox settlement
+| name                    = Solududhkunda
+| native_name             = सोलुदूधकुण्ड नगरपालिका
+| nickname                = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+
+| settlement_type         = [[List of cities in Nepal|Municipality]]
+| motto                   = 
+
+| image_skyline           = Local hotel at Namche.JPG
+| imagesize               = 
+| image_alt               = 
+| image_caption           = A view from Salleri
+
+| image_map               = Divisions of Solukhumbu.png
+| mapsize                 = 
+| map_alt                 = 
+| map_caption             = 
+
+| pushpin_map             = Nepal Province1#Nepal
+| pushpin_mapsize         = 300
+| pushpin_map_caption     = Location in Province No.
+| pushpin_label_position  = 
+| pushpin_relief          = 
+| coordinates             = {{coord|27|30|16|N|86|35|11|E|region:NP_type:city_source:GNS-enwiki|display=inline,title}}
+| coordinates_footnotes   = 
+
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Nepal]]
+| subdivision_type1       = [[Provinces of Nepal|Province]]
+| subdivision_name1       = [[Province No. 1]]
+| subdivision_type2       = [[Districts of Nepal|District]]
+| subdivision_name2       = [[Solukhumbu District|Solukhumbu]]
+| subdivision_type3       = No. of wards
+| subdivision_name3       = 11
+
+| established_title       = Established
+| established_date        = 3 December 2014
+| established_title1      = Incorporated ([[Village development committee (Nepal)|VDC]])
+| established_date1       = Salleri, [[Garma, Nepal|Garma]], [[Loding Tamakhani]], [[Beni, Sagarmatha|Beni]], Taksindu, Kerung, Gorakhani, Tapting, Tingla
+| established_title2      = Incorporated (date)
+| established_date2       = 
+
+| seat_type               = Admin HQ.
+| seat                    =  
+
+| government_footnotes    = 
+| government_type         = [[Mayor–council government|Mayor–council]]
+| governing_body          = Solududhkunda Municipality
+| leader_title            = [[Mayor]]
+| leader_name             = Namgel Jangbu Sherpa
+| leader_party            = [[Nepali Congress|NC]]
+| leader_title1           = [[Deputy Mayor]]
+| leader_name1            = Kalpana Rai ([[Nepal Communist Party|NCP]])
+| leader_title2           = {{#if:Solukhumbu 1|[[Member of Parliament|MP]] & [[Parliamentary Constituencies of Nepal|Constituency]]}}
+| leader_name2            = Solukhumbu 1<br/> Hem Kumar Rai {{#if:[[Nepal Communist Party|NCP]]|([[Nepal Communist Party|NCP]])}}
+| leader_title3           = {{#if:Solukhumbu 1(B)|[[Member of legislative assembly|MLA]] & [[Provincial Constituencies of Nepal|Constituency]]}}
+| leader_name3            = Solukhumbu 1(B)<br/> Buddhi Kumar Rajbhandari {{#if:[[Nepal Communist Party|NCP]]|([[Nepal Communist Party|NCP]])}}
+
+| area_magnitude          = 
+| area_footnotes          = 
+| area_total_km2          = 565.06
+| area_note               = 
+| area_rank               = 
+
+
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_min_m         = 
+| elevation_max_m         = 
+
+| population_footnotes    = 
+| population_total        = 24323
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_note         = 
+| population_rank         = 
+| population_blank1_title = Households
+| population_blank1       = 
+
+| timezone1               = [[Nepal Time|NPT]]
+| utc_offset1             = +05:45
+
+| postal_code_type        = Postal Codes
+| postal_code             = 
+| area_code_type          = Telephone Code
+| area_code               = 
+| website                 = {{URL|solududhkundamun.gov.np}}
+| footnotes               = 
+}}

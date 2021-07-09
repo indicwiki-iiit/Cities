@@ -1,0 +1,99 @@
+{{Infobox settlement
+| name                            = Visalia, California
+| settlement_type                 = [[City (California)|City]]
+| official_name                   = City of Visalia
+<!-- Images and maps --—-->| image_skyline                   = {{Photomontage
+| photo1a                 = Visalia Tranist Center 2011 (cropped).jpg
+| photo2a                 = Visalia Fox Theatre 2013 (cropped).jpg
+| photo2b                 = Visalia Bus Transit Center Partial view 2013 (cropped).jpg
+| photo2c                 = 2009-0725-CA-Visalia-BankofItalty.jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise: View of Visalia; Bank of Italy Tower; Visalia Transit Center; Fox Theatre.
+}}
+| image_flag                      = Flag of Visalia, California.gif
+| image_seal                      = 
+| image_blank_emblem              = Visalia Logo.jpg
+| nickname                        = Gateway to the Sequoias
+| image_map                       = Tulare_County_California_Incorporated_and_Unincorporated_areas_Visalia_Highlighted.svg
+| map_caption                     = Location within [[Tulare County, California|Tulare County]] in the state of [[California]]
+| pushpin_map                     = California#USA
+| pushpin_label                   = Visalia
+| pushpin_map_caption             = Location in the United States
+| coordinates                     = {{coord|36|19|N|119|18|W|region:US-CA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Tulare County, California|Tulare]]
+| subdivision_type3               = Region
+| subdivision_name3               = [[San Joaquin Valley]]
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = February 27, 1874<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+| government_type                 = [[Council–manager government|Council-Manager]]
+| leader_title                    = [[City Council]]
+| leader_name                     = [[Mayor]] Steve Nelsen<br />[[Vice Mayor|Vice&#8209;Mayor]]Phil Cox<br />Brian Poochigan<br />Greg Collins<br />Brett Taylor<ref>{{cite web
+ | url = http://www.ci.visalia.ca.us/government/city_council/default.asp
+ | title = City Council
+ | publisher = City of Visalia
+ | access-date = March 26, 2017}}</ref>
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Randy Groom<ref>{{cite web
+ | url = http://www.visalia.city/government/city_manager.asp
+ | title = City Manager
+ | publisher = City of Visalia
+ | access-date = January 4, 2018}}</ref>
+| leader_title2                   = [[Chief of Police]]
+| leader_name2                    = Jason Salazar<ref>{{cite web|url=http://www.ci.visalia.ca.us/depts/police/chiefs_message/bio.asp|title=Chief's Bio|publisher=City of Visalia|access-date=May 1, 2015}}</ref>
+| leader_title3                   = [[Fire Chief]]
+| leader_name3                    = Douglas McBee<ref>{{cite web|url=http://www.ci.visalia.ca.us/depts/fire/info/chief/default.asp|title=Fire Chief Bio|publisher=City of Visalia|access-date=April 26, 2016}}</ref>
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 37.94
+| area_total_km2                  = 98.25
+| area_land_sq_mi                 = 37.91
+| area_land_km2                   = 98.20
+| area_water_sq_mi                = 0.02
+| area_water_km2                  = 0.05
+| area_water_percent              = 0.05
+| elevation_footnotes             = <ref>{{Cite GNIS|1652807|Visalia|access-date=October 10, 2014}}</ref>
+| elevation_ft                    = 331
+| elevation_m                     = 101
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 124442
+| population_metro                = 
+| population_density_sq_mi        = 3550.18
+| population_footnotes            = 
+| population_demonym              = Visalian
+| timezone                        = [[Pacific Time Zone|PST]]
+|utc_offset = &minus;8
+| timezone_DST                    = PDT
+|utc_offset_DST = &minus;7
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 93277-93279, 93290-93292
+| area_code                       = [[Area code 559|559]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|82954}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652807}}, {{GNIS 4|2412160}}
+| website                         = {{URL|www.ci.visalia.ca.us}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 134605
+| population_rank                 = [[List of largest California cities by population|44th]] in California<br />[[List of United States cities by population|202nd]] in the United States
+| population_density_km2          = 1370.73
+}}

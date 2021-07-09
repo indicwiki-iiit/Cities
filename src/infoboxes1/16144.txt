@@ -1,0 +1,43 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name                   = Érd
+|settlement_type        = [[Town with county rights|City with county rights]]
+|official_name          = {{lang|hu|Érd Megyei Jogú Város}}
+|image_skyline          = Minaret (7014. számú műemlék) 3.jpg
+|image_caption          = Ottoman [[Érd minaret|minaret in Érd]]
+|image_shield           = Coat of arms of Érd.svg
+|image_flag             = Flag of Érd.svg
+|flag_border            = no
+|pushpin_map            = Hungary#Europe
+| pushpin_relief        = 1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Érd
+|coordinates            = {{coord|47.37837|18.92200|region:HU|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{HUN}}
+|subdivision_type1      = [[Counties of Hungary|County]]
+|subdivision_name1      = [[Pest County|Pest]]
+|subdivision_type2      = [[Districts of Hungary|District]]
+|subdivision_name2      = [[Érd District|Érd]]
+|leader_title           = [[Mayor]]
+|leader_name            = [[László Csőzik]] - [[Hungarian Socialist Party]]
+|elevation_m            = 
+|area_total_km2         = 60.54
+|population_footnotes   = 
+|population_total       = 69431<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=30988 Érd, KSH]</ref> {{increase}} 
+|population_as_of       = 2020
+|population_rank        = [[List of cities and towns of Hungary|15th in Hungary]]
+|population_density_km2 = 1041.9
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|postal_code_type       = [[Postal codes in Hungary|Postal code]]
+|postal_code            = 2030
+|area_code_type         = [[Telephone numbers in Hungary|Area code]]
+|area_code              = (+36) 23
+| blank_name             = Motorways
+| blank_info             = [[M6 motorway (Hungary)|M6]], [[M7 motorway (Hungary)|M7]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|20.4|km|abbr=on}} Northeast
+|website                = {{URL|http://www.erd.hu/}}
+}}

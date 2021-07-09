@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Druskininkai
+|nickname = 
+|settlement_type= City
+|image_skyline = Snow Arena.JPG
+|image_flag = Flag of Druskininkai.png
+|image_shield = Coat of arms of Druskininkai (Lithuania).svg
+|pushpin_map            = Lithuania#Europe
+|pushpin_relief=1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Druskininkai
+|coordinates      = {{coord|54|1|N|23|58|E|region:LT|display=inline,title}}
+|
+|subdivision_type =[[Countries of the world|Country]]
+|subdivision_name ={{LTU}}
+|subdivision_type1=[[Regions of Lithuania|Ethnographic&nbsp;region]]|
+|subdivision_name1=[[Dzūkija]]
+|subdivision_type2=[[Counties of Lithuania|County]]|
+|subdivision_name2=[[File:Alytus County COA.png|17px]] [[Alytus County]]
+|subdivision_type3=[[List of municipalities of Lithuania|Municipality]]|
+|subdivision_name3=[[Druskininkai municipality]]
+|subdivision_type6=[[Capital (political)|Capital of]]|
+|subdivision_name6=[[Druskininkai municipality]]
+|established_date =1596
+|established_title=First mentioned
+|established_date2=1893
+|established_title2=Granted [[Magdeburg rights|city rights]]
+|population_total = 12,055
+|population_as_of = 2020
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3}}

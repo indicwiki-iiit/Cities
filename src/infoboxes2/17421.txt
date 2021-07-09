@@ -1,0 +1,36 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Dupnitsa
+| native_name                     = Дупница
+| image_skyline                   = Panorama of Dupnitsa and Rila Mountain, Bulgaria.jpg
+| image_caption                   = Dupnitsa in front of the highest mountain in [[Southeastern Europe]] - the [[Rila Mountain]]
+| image_shield                    = Dupnitsa-coat-of-arms.svg
+| map_caption                     = Location of Dupnitsa
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Dupnitsa
+| coordinates                     = {{coord|42.2645|23.1164|region:BG|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = 
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = Bulgaria
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br />{{small|(Oblast)}}
+| subdivision_name1               = [[Kyustendil Province|Kyustendil]]
+| leader_title                    = Mayor
+| leader_name                     = Metodi Chimev ([[GERB]])
+| area_total_km2                  = 32.321
+| elevation_m                     = 535
+| population_footnotes            = 2014/12/31<ref>{{cite web|url=http://www.nsi.bg/bg/content/2975/%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B8-%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B6%D0%B8%D0%B2%D0%B5%D0%B5%D0%BD%D0%B5-%D0%B8-%D0%BF%D0%BE%D0%BB|title=Население по области, общини, местоживеене и пол}}</ref>
+| population_total                = 31868
+| population_density_km2          = auto
+| population_urban                = 42470
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code                     = 2600
+| area_code                       = 0701
+| website                         = {{URL|http://www.dupnitsa.bg/}}
+| name                            = 
+| settlement_type                 = Town
+}}

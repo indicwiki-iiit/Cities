@@ -1,0 +1,21 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+| name                   = Capenda-Camulemba
+| settlement_type        = [[Municipalities of Angola|Municipality]] and town
+| pushpin_map            = Angola
+| pushpin_label_position = right
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location in Angola
+| coordinates            = {{coord|09|25|24|S|18|25|58|E|region:AO|display=inline,title}}
+| population_total = 58285
+| population_as_of = 2014 Census
+| population_footnotes = <ref name =Censo2014>{{cite web|url=https://www.ine.gov.ao/images/Censo_2014/Publicacao_LNorte__FINAL.pdf |title=Resultados Definitivos Recenseamento Geral da População e Habitação – 2014 Província da Lunda Norte |access-date=3 May 2020 |website=Instituto Nacional de Estatística, República de Angola| df=dmy }}</ref>
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Angola}}
+| subdivision_type1      = [[Provinces of Angola|Province]]
+| subdivision_name1      = [[Lunda Norte Province]]
+| timezone               = [[West Africa Time|WAT]] 
+| utc_offset             = +1
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Tropical savanna climate|Aw]]
+}}

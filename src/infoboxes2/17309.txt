@@ -1,0 +1,77 @@
+{{Infobox settlement
+| name = Los Banos, California
+|official_name            = City of Los Banos
+|other_name               = Los Baños
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = St Joseph Church - Los Banos California.jpg
+|imagesize                = 
+|image_caption            = The Falasco Arts Center, housed in the historic St. Joseph's Church, Los Banos.
+|image_seal               = 
+|image_map                = Merced_County_California_Incorporated_and_Unincorporated_areas_Los_Banos_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Merced County, California|Merced County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|37|03|30|N|120|51|00|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Merced County, California|Merced]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 8, 1907<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=February 21, 2013 
+}}</ref>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              =Tom Faria<ref name=cc>{{Cite web
+ | url = http://www.losbanos.org/city-government/mayor-city-council-members/
+ | title = Mayor & City Council Members
+ | publisher = City of Los Banos
+ | access-date = November 23, 2014}}</ref>
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi        = 10.12
+|area_total_km2          = 26.20
+|area_land_sq_mi         = 9.99
+|area_land_km2           = 25.88
+|area_water_sq_mi        = 0.12
+|area_water_km2          = 0.32
+|area_water_percent      = 1.22
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|277547|Los Banos}}</ref>
+|elevation_ft             = 118
+|elevation_m              = 35
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0644028.html|title=Los Banos (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 18, 2015|archive-url=https://web.archive.org/web/20150322235253/http://quickfacts.census.gov/qfd/states/06/0644028.html|archive-date=March 22, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_total         = 35972
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 41036
+|population_density_sq_mi = 4106.47
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 93635
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 209|209]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|44028}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277547}}, {{GNIS 4|2410878}}
+|website                  = {{URL|www.losbanos.org}}
+|population_density_km2   = 1585.47
+}}

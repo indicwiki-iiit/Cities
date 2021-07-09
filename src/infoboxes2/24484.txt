@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = town
+| name     = Wallan
+| state    = vic
+
+| parish   = Wallan Wallan
+| image    = Wallanpan.jpg
+| caption  = Wallan from the top of Green Hill
+| coordinates = {{coord|37|25|S|144|59|E|display=inline,title}}
+| use_lga_map = yes
+| pushpin_label_position = right
+| lga      = Shire of Mitchell
+| postcode = 3756
+| pop      = 8,520
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS" />
+| est      =
+| elevation= 308
+| stategov = [[Electoral district of Yan Yean|Yan Yean]]
+| fedgov   = [[Division of McEwen|McEwen]]
+| dist1    = 45
+| location1= [[Melbourne]]
+| near-nw  = [[Lancefield, Victoria|Lancefield]]
+| near-n   = [[Kilmore, Victoria|Kilmore]]
+| near-ne  = [[Wandong, Victoria|Wandong]]
+| near-w   = [[Romsey, Victoria|Romsey]]
+| near-e   = [[Upper Plenty, Victoria|Upper Plenty]]
+| near-sw  = [[Romsey, Victoria|Romsey]]
+| near-s   = [[Beveridge, Victoria|Beveridge]]
+| near-se  = [[Upper Plenty, Victoria|Upper Plenty]]
+}}

@@ -1,0 +1,73 @@
+{{Infobox settlement
+| official_name          = Kannapolis, North Carolina
+| settlement_type        = [[City]]
+| nickname               = 
+| motto                  = <!-- Images -->
+| image_skyline          = N.C. Research Campus aerial image.jpg
+| imagesize              = 250px
+| image_caption          = City of Kannapolis
+| image_flag             = 
+| image_seal             = <!-- Maps -->
+| image_map              = NCMap-doton-Kannapolis.PNG
+| mapsize                = 250px
+| map_caption            = Location of Kannapolis, North Carolina
+| image_map1             = 
+| mapsize1               = 
+| map_caption1           = <!-- Location -->
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{USA}}
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = [[North Carolina]]
+| subdivision_type2      = [[List of counties in North Carolina|Counties]]
+| subdivision_name2      = [[Cabarrus County, North Carolina|Cabarrus]] and [[Rowan County, North Carolina|Rowan]]<ref name=subcounty>{{cite web|url=https://www.census.gov/popest/cities/files/SUB-EST2006_37.csv |archive-url=https://web.archive.org/web/20080929172733/http://www.census.gov/popest/cities/files/SUB-EST2006_37.csv |url-status=dead |archive-date=2008-09-29 |title=Subcounty population estimates: North Carolina 2000-2006 |format=[[comma-separated values|CSV]] |publisher=[[United States Census Bureau]], Population Division |date=2007-06-28 |access-date=2008-05-28 }}</ref><ref name=nomeck>{{cite web|title=NC State Law 2009-430|url=http://www.ncleg.net/gascripts/BillLookUp/BillLookUp.pl?Session=2009&BillID=S346|work=NC State Laws|access-date=30 August 2011}}</ref>
+| government_footnotes   = 
+| government_type        = Council - Manager
+| leader_title           = [[Mayor]]
+| leader_name            = Milton Darrell Hinnant
+| leader_title1          = 
+| leader_name1           = 
+| established_title      = Founded
+| established_date       = 1906
+| established_title2     = [[Municipal corporation|Incorporated]]
+| established_date2      = 1984
+
+<!-- Area -->
+| unit_pref              = Imperial
+| area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude         = 
+| area_total_km2         = 86.19
+| area_land_km2          = 84.73
+| area_water_km2         = 1.46
+| area_total_sq_mi       = 33.28
+| area_land_sq_mi        = 32.71
+| area_water_sq_mi       = 0.56
+
+<!-- Population -->
+| population_as_of       = [[2010 United States Census|2010]]
+| population_footnotes   = 
+| population_total       = 42625
+| population_density_km2 = 600.04
+| population_density_sq_mi = 1554.11
+
+<!-- General information -->
+| timezone               = [[North American Eastern Time Zone|EST]]
+| utc_offset             = -5
+| timezone_DST           = [[North American Eastern Time Zone#About its name|EDT]]
+| utc_offset_DST         = -4
+| elevation_m            = 237.74
+| elevation_ft           = 780
+| coordinates            = {{coord|35|30|1|N|80|37|27|W|region:US-NC|display=inline,title}}
+| postal_code_type       = [[ZIP code]]s
+| postal_code            = 28081, 28082, 28083
+| area_codes             = [[Area code 704|704]], [[Area code 980|980]]
+| blank_name             = [[Federal Information Processing Standard|FIPS code]]
+| blank_info             = 37-35200<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info            = 1021013<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                = {{URL|kannapolisnc.gov}}
+| footnotes              = 
+| pop_est_as_of          = 2019
+| pop_est_footnotes      = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est         = 50841
+| name                   = 
+}}

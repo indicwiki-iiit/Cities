@@ -1,0 +1,16 @@
+{{Infobox unit
+| bgcolor = 
+| name = acre
+| image = Comparison land area units.svg
+| caption = Comparison of some Imperial and metric units of area
+| standard = [[US customary units]], [[Imperial units]]
+| quantity = Area
+| symbol = acre
+| symbol2 = ac
+| extralabel = 
+| extradata = 
+| units1 = SI units
+| inunits1 = ≈ {{convert|1|acre|m2|disp=out|sigfig=5}}
+| units2 = US customary, Imperial
+| inunits2 = ≡ {{convert|1|acre|yd2|disp=out|sigfig=4}}<br/>≡ {{frac|1|640}}&nbsp;sq mi
+}}

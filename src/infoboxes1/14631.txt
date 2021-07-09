@@ -1,0 +1,39 @@
+{{Infobox mountain
+| name = Mount Rainier
+| etymology = [[Peter Rainier]]
+| native_name = Tahoma, Tacoma
+| native_name_lang = slh
+| photo = Mount Rainier from west.jpg
+| photo_caption = The western slope of Mount Rainier in 2005
+| elevation_system = NAVD88
+| elevation_ft = 14,411
+| elevation_ref = <ref name=PB>{{cite peakbagger|pid=2296|title=Mount Rainier, Washington|access-date=January 1, 2016}}</ref>
+| prominence = {{convert|13,210|ft|m|0|abbr=on|lk=off}}
+| prominence_ref = <ref name=PB/>
+| isolation_mi = 731
+| isolation_ref = <ref name=PB/>
+| parent_peak = [[Mount Massive]]
+| listing = {{unbulleted list
+|[[List of peaks by prominence|World most prominent peaks]] 21st
+|[[List of the most prominent summits of North America|North America prominent peaks]] 4th
+|[[List of the most isolated major summits of North America|North America isolated peaks]] 7th
+|[[List of the highest major summits of the United States|US highest major peaks]] 17th
+|[[List of U.S. states by elevation|U.S. state high point]] 4th
+|[[Decade Volcano]]
+}}
+| location = [[Mount Rainier National Park]], [[Pierce County, Washington]], U.S.
+| range = [[Cascade Range]]
+| map = USA Washington
+| map_caption = 
+| label_position = left
+| coordinates   = {{coord|46.8528857|N|121.7603744|W|type:mountain_region:US-WA_scale:100000_source:gnis|format=dms|display=inline,title}}
+| range_coordinates = 
+| coordinates_ref = <ref name="gnis">{{cite gnis |id=1533614 |name=Mount Rainier |access-date=2008-10-15}}</ref>
+| topo = [[United States Geological Survey|USGS]] Mount Rainier West
+| type = [[Stratovolcano]]
+| age = 500,000 years
+| volcanic_arc = [[Cascade Volcanoes|Cascade Volcanic Arc]]
+| last_eruption = 1450 CE<ref name="SI">{{cite gvp |vn = 321030|name = Rainier |access-date = 2008-08-27}}</ref>
+| first_ascent = 1870 by [[Hazard Stevens]] and [[P. B. Van Trump]]
+| easiest_route = rock/ice climb via Disappointment Cleaver
+}}

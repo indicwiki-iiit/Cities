@@ -1,0 +1,96 @@
+{{Infobox settlement
+|name                     = Tupper Lake, New York
+|official_name            = 
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New York
+|pushpin_label            = Tupper Lake
+|pushpin_label_position   = top<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|pushpin_mapsize          = 
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[Administrative divisions of New York#County|County]]
+|subdivision_name2        = [[Franklin County, New York|Franklin]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor]]
+|leader_name              = Patricia Littlefield ([[United States Republican Party|R]])
+|leader_title1            = Town Administrator 
+|leader_name1             = Laurie Fuller ([[United States Republican Party|R]])
+| leader_title2           = [[Town Council]]
+| leader_name2            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Kathy Lefebvre ([[United States Democratic Party|D]])
+ |2           = • Shawn Skiff ([[United States Republican Party|R]])
+ |3           = • Michael Dechene ([[United States Republican Party|R]])
+ |4           = • John Quinn ([[United States Democratic Party|D]])
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 336.97
+|area_land_km2            = 303.93
+|area_water_km2           = 33.03
+|area_total_sq_mi         = 130.10
+|area_land_sq_mi          = 117.35
+|area_water_sq_mi         = 12.75
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010"/>
+|population_total         = 5971
+|population_density_km2   = 19.17
+|population_density_sq_mi = 49.64
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 516
+|elevation_ft             = 1696
+|coordinates              = {{coord|44|09|45|N|74|28|31|W|region:US-NY|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12986
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-033-75676
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 978671
+|website                  = {{URL|www.tupperlakeny.gov}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 5825
+}}

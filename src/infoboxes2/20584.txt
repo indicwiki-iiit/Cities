@@ -1,0 +1,49 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = <big>Levin</big>
+| native_name             = Taitoko <small>([[Māori language|Māori]])</small>
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[Urban areas of New Zealand|Secondary urban area]]
+| image_skyline           = Levin.jpg
+| imagesize               = 300px
+| image_alt               =
+| image_caption           = Intersection of Queen and Oxford Streets
+| image_flag              =
+| nickname                =
+| motto                   =
+| image_map             = {{infobox mapframe|coord={{coord|40|37|19|S|175|17|12|E}}|zoom=9}}
+| pushpin_map             = 
+| pushpin_label_position  = bottom
+| pushpin_map_alt         =
+| pushpin_map_caption     =
+| coordinates             = {{coord|40|37|19|S|175|17|12|E|display=inline,title}}
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = New Zealand
+| subdivision_type1       = [[Regions of New Zealand|Region]]
+| subdivision_name1       = [[Manawatū-Whanganui]]
+| subdivision_type2       = [[Territorial authorities of New Zealand|Territorial authority]]
+| subdivision_name2       = [[Horowhenua District]]
+| subdivision_type3       = Ward
+| subdivision_name3       = Levin Ward
+| established_title       =
+| established_date        = 
+| founder                 = 
+| named_for               = William Hort Levin
+| seat_type               =
+| area_urban_km2          = 22.43
+| area_footnotes             = <ref name="Area"/>
+| elevation_footnotes     =
+| elevation_m             =
+| elevation_ft            =
+| population_footnotes    = {{NZ population data 2018||||y}}
+| population_as_of        = {{NZ population data 2018|||y}}
+| population_urban        = {{NZ population data 2018|Levin|y}}
+| population_density_urban_km2  = auto
+| postal_code_type        = Postcode
+| postal_code             = 5510
+| area_code_type          =
+| area_code               = 06
+| website                 =
+| footnotes               =
+}}

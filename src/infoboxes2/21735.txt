@@ -1,0 +1,41 @@
+{{Infobox Australian place | type = town
+| name     = Warragul
+| state    = vic
+| image    = Warragul.jpg
+| caption  =
+| lga      = Shire of Baw Baw
+| use_lga_map = yes
+| postcode = 3820
+| est      =
+| pop      = 14276
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="ABSCensusUCL"/> 
+| pop2      = 20149
+| pop2_year = 2018
+| pop2_footnotes=<ref name="ABSSUA"/> 
+| elevation= 143
+| coordinates = {{coord|38|9|0|S|145|56|0|E|display=inline,title}}
+| maxtemp  = 19.2
+| mintemp  = 8.4
+| rainfall = 1022.6
+| county = [[County of Buln Buln|Buln Buln]]
+| stategov = [[Electoral district of Narracan|Narracan]]
+| fedgov   = [[Division of Monash|Monash]]
+| dist1    = 102
+| dir1     = ESE
+| location1= Melbourne
+| dist2    = 32
+| dir2     = W
+| location2= [[Moe, Victoria|Moe]]
+| dist3    = 7
+| dir3     = ESE
+| location3= [[Drouin, Victoria|Drouin]]
+| near-nw  = [[Drouin East, Victoria|Drouin East]]
+| near-n   = [[Lillico, Victoria|Lillico]]
+| near-ne  = [[Nilma North, Victoria|Nilma North]]
+| near-w   = [[Drouin, Victoria|Drouin]]
+| near-e   = [[Nilma, Victoria|Nilma]]
+| near-sw  = [[Drouin South, Victoria|Drouin South]]
+| near-s   = [[Lardner, Victoria|Lardner]]
+| near-se  = [[Bull Swamp, Victoria|Bull Swamp]]
+}}

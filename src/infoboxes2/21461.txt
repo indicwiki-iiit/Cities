@@ -1,0 +1,72 @@
+{{Infobox settlement
+| official_name                   = Mountain House
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| settlement_type                 = [[Census-designated place]]
+| nickname                        = 
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = State
+| subdivision_name1               = California
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Joaquin County, California|San Joaquin]]
+<!-- government type, leaders -->| government_footnotes            = <!-- for references: use <ref> tags -->
+| government_type                 = 
+| governing_body                  = 
+| leader_party                    = 
+| leader_title                    = 
+| leader_name                     = <!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1                   = [[California's 5th State Senate district|State senator]]
+| leader_name1                    = {{Representative|casd|5|fmt=sleader}}
+| leader_title2                   = [[California's 13th State Assembly district|Assemblymember]]
+| leader_name2                    = {{Representative|caad|13|fmt=sleader}}
+| leader_title3                   = [[California's 9th congressional district|U. S. rep.]]
+| leader_name3                    = {{Representative|cacd|9|fmt=usleader}}<ref name="gt9">{{Cite GovTrack|CA|9|accessdate=October 7, 2014}}</ref>
+| established_date                = May 14, 2001
+| pushpin_map                     = USA California
+| pushpin_map_caption             = Position in California.
+
+<!-- Area------------------>| area_magnitude                  = 
+| unit_pref                       = US
+| area_footnotes                  = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi                = 3.192
+| area_land_sq_mi                 = 3.192
+| area_water_sq_mi                = 0
+| area_total_km2                  = 8.268
+| area_land_km2                   = 8.268
+| area_water_km2                  = 0
+| area_water_percent              = 0
+<!-- Elevation ------------>| elevation_footnotes             = <ref name="gnis">{{Cite gnis|2628761|Mountain House Census Designated Place}}</ref>
+| elevation_ft                    = 82
+| elevation_m                     = 25
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|April 1, 2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0649582.html|title=Mountain House CDP QuickFacts|publisher=[[United States Census Bureau]]|accessdate=February 23, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120702001813/http://quickfacts.census.gov/qfd/states/06/0649582.html|archive-date=July 2, 2012}}</ref>
+| population_total                = 9675
+<!-- Time zones ----------->| population_est                  = 20,000
+| pop_est_as_of                   = 2019
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+| coordinates                     = {{coord|37|46|26|N|121|32|39|W|region:US_type:city|display=inline,title}}
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95391
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 209|209]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|49582}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1888888}}, {{GNIS 4|2628761}}
+| footnotes                       = <ref name=gnis/>
+| name                            = 
+| website                         = {{official website|https://www.mountainhousecsd.org/}}
+}}

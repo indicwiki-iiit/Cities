@@ -1,0 +1,93 @@
+{{Infobox settlement
+|official_name            = Tiffin, Ohio
+|settlement_type          = [[City]]
+|nickname                 = Fort Ball
+|motto                    = The Education Community<ref>[http://www.tiffinohio.gov/about-our-city/ "About our City | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+|image_skyline            = Tiffin,_Ohio_Aerial.jpg
+|imagesize                = 300px
+|image_caption            = Aerial view of Tiffin
+
+<!-- Maps -->
+| pushpin_map                     = Ohio#USA#North America
+| pushpin_map_caption             = Location within Ohio##Location within the United States##Location within North America
+| pushpin_relief                  = 1
+| pushpin_label                   = Tiffin
+| coordinates                     = {{Coord|41.1145|N|83.1780|W|display=inline,title}}
+| image_map                       = {{maplink|frame=yes|plain=yes|zoom=11|Data:Tiffin, Ohio.map|type=shape|stroke-width=2|stroke-color=#000000}}
+| map_caption                     = Interactive map outlining Tiffin
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Seneca County, Ohio|Seneca]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor–council government|Mayor-council]]
+|leader_title             = [[Mayor]]
+|leader_name              = Aaron Montz (R) <ref>[http://www.tiffinohio.gov/mayors-office/ "Mayor's Office | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+|leader_title1            = Law Director
+|leader_name1              = Brent Howard (D) <ref>[http://www.tiffinohio.gov/law-department/ "Law Department | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+|leader_title2              = City Administrator
+|leader_name2              = Dale Thornton (R) <ref>[http://www.tiffinohio.gov/city-administrator/ "City Administrator | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+|leader_title3            = City council
+|leader_name3             = {{Collapsible list
+|title = Members <ref>[http://tiffinohio.gov/city-council/ "City Council"], City of Tiffin.{{Retrieved|access-date=April 11, 2020}}</ref><ref>[https://go.tiffinohio.net/2021/01/republicans-select-perkins-to-fill-vacant-tiffin-city-council-seat/ "Perkins selected to fill vacant Tiffin City Council seat / TiffinOhio.net]{{Retrieved|access-date=January 20, 2021}}</ref>
+|frame_style = border:none; padding: 0;
+|title_style = <!-- (optional) -->
+|list_style = text-align:left;display:none;
+|1 = [[President (government title)#Sub-national|Council president]] Rich Focht (R)
+|2 = Steve Lepard (R)
+|3 = Zackery Perkins (R)
+|4 = Ben Gillig (D)
+|5 = Bridget Boyle (R)
+|6 = Ken Jones (R)
+|7 = Dawn Iannantuono (D)
+|8 = Daniel Perry (R)}}
+|established_title        = Incorporated
+|established_date         = 1812 <ref name="Our History | City of Tiffin">[http://www.tiffinohio.gov/about-our-city/our-history/ "Our History | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+| named_for                       = [[Edward Tiffin]]<ref name="Our History | City of Tiffin">[http://www.tiffinohio.gov/about-our-city/our-history/ "Our History | City of Tiffin"], City of Tiffin.{{Retrieved|access-date=August 9, 2020}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 18.14
+|area_land_km2            = 17.79
+|area_water_km2           = 0.36
+|area_total_sq_mi         = 7.01
+|area_land_sq_mi          = 6.87
+|area_water_sq_mi         = 0.14
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 17582
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 17963
+|population_micro         = 56745
+|population_density_km2   = 988.39
+|population_density_sq_mi = 2559.99
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 227
+|elevation_ft             = 745
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44883
+|area_code                = [[Area code 419|419]], [[Area code 567|567]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-76778<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1058075<ref name="GR3" />
+|website                  = http://tiffinohio.gov/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

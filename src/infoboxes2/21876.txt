@@ -1,0 +1,21 @@
+{{Infobox settlement
+|name                   = Tokoroa
+|native_name            = ''Te Kaokaoroa o Pātetere'' ([[Māori language|Māori]])
+|image_skyline          = Tokoroa (May 2012).jpg
+|image_caption          = Tokoroa in autumn (May 2012)
+|population_total       = {{formatnum:{{NZ population data 2018||y}}|R}}
+|population_as_of       = {{NZ population data 2018|||y}}
+|population_footnotes   = {{NZ population data 2018||||y}}
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{NZL}}
+|subdivision_type1      = [[Regions of New Zealand|Region]]
+|subdivision_name1      = [[Waikato]]
+|subdivision_type2      = [[Districts of New Zealand|District]]
+|subdivision_name2      = [[South Waikato District]]
+|image_map = {{Infobox mapframe|coord={{coord|38|13|S|175|52|E}}|zoom=9}}
+|pushpin_map            =
+|pushpin_label_position = left
+|coordinates            = {{coord|38|13|S|175|52|E|region:NZ_type:city|display=title,inline}}
+|postal_code_type       = [[Postcodes in New Zealand|Postcode(s)]]
+|postal_code            = 3420
+}}

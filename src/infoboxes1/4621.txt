@@ -1,0 +1,78 @@
+{{Infobox settlement
+ | name                 = Lachute
+ | official_name        = 
+ | settlement_type      = [[City (Quebec)|City]]
+ | image_skyline        = Lachute QC.JPG
+ | image_caption        = 
+ | image_flag           = 
+ | flag_size            = 120x100px
+ | image_shield         = 
+ | shield_size          = 100x80px
+ | nickname             = 
+ | motto                = 
+ | image_map            = Lachute Quebec location diagram.png
+ | map_caption          = Location within Argenteuil RCM
+ | pushpin_map          = Canada Central Quebec
+ | pushpin_label_position = top
+ | pushpin_label        = 
+ | pushpin_map_caption  = Location in central Quebec
+ | coordinates          = {{coord|45|39|N|74|20|W|region:CA-QC|display=inline,title}}
+ | coor_pinpoint        = 
+ | coordinates_footnotes= <ref name="toponymie"/>
+ | subdivision_type     = Country
+ | subdivision_name     = {{CAN}}
+ | subdivision_type1    = [[Provinces and territories of Canada|Province]]
+ | subdivision_name1    = {{QC}}
+ | subdivision_type2    = [[Region (Quebec)|Region]]
+ | subdivision_name2    = [[Laurentides]]
+ | subdivision_type3    = [[Regional county municipality|RCM]]
+ | subdivision_name3    = [[Argenteuil Regional County Municipality|Argenteuil]]
+ | established_title    = Settled
+ | established_date     = 1753
+ | established_title1   = Constituted
+ | established_date1    = April 30, 1966
+ | established_title2   = 
+ | established_date2    = 
+ | established_title3   = 
+ | established_date3    = 
+ | government_footnotes = <ref name="mamrot"/>
+ | government_type      = 
+ | leader_title         = Mayor
+ | leader_name          = Carl Peloquin
+ | leader_title1        = [[List of Canadian federal electoral districts|Federal riding]]
+ | leader_name1         = [[Argenteuil—La Petite-Nation]]
+ | leader_title2        = [[List of Quebec provincial electoral districts|Prov. riding]]
+ | leader_name2         = [[Argenteuil (provincial electoral district)|Argenteuil]]
+ | area_footnotes       = <ref name="mamrot"/><ref name="cp2011"/><!-- defined by template:Canada census -->
+ | area_total_km2       = 112.80
+ | area_land_km2        = 109.20
+ | area_water_km2       =
+ | area_metro_footnotes = <ref name="cp2011-CA">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=468&Geo2=PR&Code2=24&Data=Count&SearchText=Lachute&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=468&TABID=1 Lachute (Census agglomeration), Quebec, 2011 Census profile]. The census agglomeration consists of only Lachute itself. This was unchanged from the 2006 census.</ref>
+ | area_metro_km2       = 109.20
+ | elevation_footnotes  =
+ | elevation_m          = 
+ | population_footnotes = <ref name="cp2011"/><!-- defined by template:Canada census -->
+ | population_total     = 12551
+ | population_as_of     = 2011
+ | population_density_km2 = 114.9
+ | population_urban     = 
+ | population_density_urban_km2= 
+ | population_metro_footnotes = <ref name="cp2011-CA"/>
+ | population_metro     = 12551
+ | population_density_metro_km2= 114.9
+ | population_blank1_title= Pop&nbsp;<small>2006–2011</small>
+ | population_blank1    = {{increase}} 6.1%
+ | population_blank2_title= Dwellings
+ | population_blank2    = 5991
+ | timezone             = [[Eastern Time Zone|EST]]
+ | utc_offset           = −5
+ | timezone_DST         = [[Eastern Daylight Time|EDT]]
+ | utc_offset_DST       = −4
+ | postal_code_type     = [[Canadian postal code|Postal code(s)]]
+ | postal_code          = [[List of J postal codes of Canada|J8H]]
+ | area_code            = [[Area codes 450 and 579|450 and 579]]
+ | blank_name           = Highways <br>{{jct|state=QC|A|50}}
+ | blank_info           = <br> {{jct|state=QC|QC|148}} <br> {{jct|state=QC|QC|158}} <br> {{jct|state=QC|QC|327}} <br> {{jct|state=QC|QC|329}}
+ | website              = {{URL|www.ville.lachute.qc.ca}}
+ | footnotes            =
+}}

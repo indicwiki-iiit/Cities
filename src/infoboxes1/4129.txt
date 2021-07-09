@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                     = Dayton, Ohio
+| official_name            = City of Dayton
+| named_for                = [[Jonathan Dayton]]
+| settlement_type          = [[City]]
+| image_skyline            = Montage dayton 1.jpg
+| imagesize                = 300px
+| image_caption            = 
+| image_flag               = DaytonFlag.png
+| image_seal               = Dayton seal.jpg
+| nickname                 = The Gem City, Birthplace of Aviation
+| motto                    = 
+<!-- Maps -->
+|image_map                 = Montgomery County Ohio incorporated and unincorporated areas Dayton highlighted.svg
+|mapsize                   = 260px
+|map_caption               = Location in [[Montgomery County, Ohio|Montgomery County]] and the state of [[Ohio]].
+| coordinates              = {{coord|39|45|34|N|84|11|30|W|region:US-OH|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Ohio]]
+| subdivision_type2        = [[List of counties in Ohio|County]]
+| subdivision_name2        = [[Montgomery County, Ohio|Montgomery]]
+| established_title        = Founded
+| established_date         = 1796
+| established_title2       = Incorporated
+| established_date2        = 
+| established_title3       = &nbsp;
+| established_date3        = 1841 (city)
+| government_type          = 
+| leader_title             = Mayor
+| leader_name              = [[Nan Whaley]] ([[Democratic Party (United States)|D]])
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_total_sq_mi         = 56.55
+| area_land_sq_mi          = 55.40
+| area_water_sq_mi         = 1.15
+| elevation_footnotes      = 
+| elevation_ft             = 738
+<!-- Population -->
+| population_footnotes     = <ref name="wwwcensusgov" />
+| population_total         = 141759
+| population_as_of         = [[2010 United States Census|2010]]
+| population_rank          = US: [[List of United States cities by population|189th]]
+| pop_est_footnotes        = <ref name="USCensusEst2019"/>
+| population_est           = 140407
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 2534.61
+| population_urban         = 724091 (US: [[List of United States urban areas|59th]])
+| population_metro         = 799232 (US: [[List of Metropolitan Statistical Areas|71st]])
+| timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset = &minus;5
+| timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = {{collapsible list
+ | title       = ZIP codes<ref>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp |publisher=USPS |title=Zip Code Lookup |access-date=December 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010 |df=mdy }}</ref>
+ | frame_style = border:none; padding: 0;
+ | list_style  = text-align:center;display:none
+ |45400–45406, 45408–45410, 45412–45420, 45422–45424, 45426–45435, 45437, 45439–45441, 45448–45449, 45454, 45458–45459, 45469–45470, 45475, 45479, 45481–45482, 45490
+ }}
+| area_code_type           = [[North American Numbering Plan|Area codes]]
+| area_code                = [[Area codes 937 and 326|937, 326]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 39113
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1064514
+| blank2_name              = Primary airport
+| blank2_info              = [[Dayton International Airport]]
+| website                  = {{URL|https://daytonohio.gov/|daytonohio.gov}}
+| area_total_km2 = 146.46
+| area_land_km2 = 143.47
+| area_water_km2 = 2.99
+| population_density_km2 = 978.62
+}}

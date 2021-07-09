@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| official_name                   = Kshireshwornath
+| other_name                      = 
+| native_name                     = क्षिरेश्वरनाथ
+| nickname                        = 
+| settlement_type                 = Municipality
+| motto                           = <!-- images and maps  -->
+| image_skyline                   = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = 
+| image_size                      = 
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Nepal
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{Flag|Nepal}}
+| subdivision_type1               = [[Provinces of Nepal|Province]]
+| subdivision_name1               = [[Province No. 2]]
+| subdivision_type2               = District
+| subdivision_name2               = [[Dhanusa District|Dhanusa]]
+<!-- Politics -->| government_footnotes            = 
+| government_type                 = Chhireswarnath Municipality
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi                = <!-- Population   -->
+| population_as_of                = 
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 42,541
+| area_total_km2                  = 50.85
+| population_density_km2          = auto
+| population_blank1_title         = 
+| population_blank2_title         = <!-- General information  -->
+| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|26|43|43|N|85|55|30|E|type:city_region:NP|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| area_code                       = 041
+| demographics_type1              = Languages
+| demographics1_title1            = Local
+| demographics1_info1             = [[Nepali language|Nepali]], [[Maithili language|Maithili]]
+| demographics1_title2            = Official
+<!-- General information  -->
+| blank_name                      = 
+| blank_info                      = 
+|website                = [http://kshireshwornathmun.gov.np kshireshwornathmun.gov.np]
+| footnotes                       = 
+}}

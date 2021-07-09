@@ -1,0 +1,29 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_skyline=Lukovit-monument.jpg
+|official_name = Lukovit
+|image_shield= BUL Луковит COA.png
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Lukovit|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Lukovit
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|
+subdivision_name1=[[Lovech Province|Lovech]]|
+population_total=9,630|population_urban=18788|population_footnotes=<ref name="statistika"/>|
+population_as_of=31.12.2009|
+elevation_m=171|
+postal_code=5770|
+area_code=0697
+|coordinates            = {{coord|43|12|N|24|10|E|region:BG|display=inline,title}}
+|leader_name=Ivan Grancharov|
+}}

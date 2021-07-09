@@ -1,0 +1,69 @@
+{{Infobox settlement
+| official_name                   = Galion, Ohio
+| settlement_type                 = [[City]]
+| image_skyline                   = The Galion Theatre.jpg
+| imagesize                       = 
+| image_caption                   = The Galion Theatre located on Harding Way West in uptown Galion
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_map                       = OHMap-doton-Galion.png
+| mapsize                         = 250px
+| map_caption                     = Location of Galion, Ohio
+| image_map1                      = Map of Crawford County Ohio Highlighting Galion City.png
+| mapsize1                        = 250px
+| map_caption1                    = Location of Galion in Crawford County
+
+<!-- Location -->| coordinates                     = {{coord|40|43|59|N|82|47|19|W|region:US_type:city}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Ohio|Counties]]
+| subdivision_name1               = [[Ohio]]
+| subdivision_name2               = [[Crawford County, Ohio|Crawford]], [[Morrow County, Ohio|Morrow]], [[Richland County, Ohio|Richland]]<ref>{{cite web | url = https://www.census.gov/popest/cities/files/SUB-EST2007-39.csv | archive-url = https://web.archive.org/web/20090331141921/http://www.census.gov/popest/cities/files/SUB-EST2007-39.csv | url-status = dead | archive-date = 2009-03-31 | title = Subcounty population estimates: Ohio 2000-2008 | format = [[comma-separated values|CSV]] | publisher = [[United States Census Bureau]], Population Division | date = 2009-03-18 | access-date = 2009-04-04 }}</ref>
+
+<!-- Government -->| established_title               = 
+| established_date                = <!-- Area -->
+| government_footnotes            = 
+| government_type                 = [[Mayor-Council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Mayor Tom O'Leary
+| leader_title1                   = 
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 19.20
+| area_total_sq_mi                = 7.41
+| area_land_km2                   = 19.15
+| area_land_sq_mi                 = 7.39
+| area_water_km2                  = 0.05
+| area_water_sq_mi                = 0.02
+
+<!-- Population -->| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_m                     = 357
+| elevation_ft                    = 1171
+| population_total                = 10512
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_density_km2          = 521.28
+| population_density_sq_mi        = 1350.20
+
+<!-- General information -->| population_est                  = 9982
+| pop_est_as_of                   = 2019
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 44833
+| area_code                       = [[Area code 419|419]]
+| website                         = http://www.galion.city
+| footnotes                       = 
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 39-29162<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1064699<ref name="GR3" />
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+}}

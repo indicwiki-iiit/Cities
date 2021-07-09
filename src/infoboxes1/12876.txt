@@ -1,0 +1,48 @@
+{{Infobox islands
+| name             = Ibiza
+| image_name       = Ibiza ISS035-E-007431.jpg
+| image_caption    = Satellite view (2013)
+| image_size       = 
+| pushpin_map                       = Spain
+| pushpin_relief                    = 1
+| map_caption      = Ibiza is midway between Spanish mainland's coastline and the larger island of [[Majorca]]
+| native_name      = Eivissa
+| native_name_link = Catalan language
+| location         = [[Balearic Sea]]
+| coordinates      = {{Coord|38.98|N|1.43|E|region:ES-IB_type:isle_scale:3000000|display=inline,title}}
+| archipelago      = [[Balearic Islands]], [[Pityusic Islands]]
+| total_islands    =
+| major_islands    =
+| area_km2         = 571.6
+| highest_mount    = [[Sa Talaiassa]]
+| elevation_m      = 475
+| coastline_km     =
+| country          = [[Spain]]
+| country_admin_divisions_title_1   = [[Autonomous communities of Spain|Autonomous Community]]
+| country_admin_divisions_1         = [[Balearic Islands]]
+| country_admin_divisions_title_2   = [[Provinces of Spain|Province]]
+| country_admin_divisions_2         = [[Balearic Islands]]
+| country_admin_divisions_title_3   =
+| country_admin_divisions_3         =
+| country_capital                   = [[Ibiza Town]]
+| country_largest_city              = [[Ibiza Town]]
+| country_largest_city_population   = 49,783
+| country_leader_title              =
+| country_leader_name               =
+| population       = 147,914
+| population_as_of = 1 January 2019
+| density_km2      = 258.8
+| languages =  [[Catalan language|Catalan]], [[Spanish language|Spanish]]
+| footnotes        = {{Infobox designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = Ibiza, Biodiversity and Culture
+   | designation1_free1name = State Party
+   | designation1_free1value = Spain
+   | designation1_type = Mixed
+   | designation1_criteria = ii, iii, iv, ix, x
+   | designation1_number = [https://whc.unesco.org/en/list/417 417]
+   | designation1_free2name = Region
+   | designation1_free2value = Southern Europe
+   | designation1_date = [[List of World Heritage Sites by year of inscription#1999 (23rd session)|1999]] <small>(23rd [[World Heritage Committee|session]])</small>
+   }}
+}}

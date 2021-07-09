@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = Anna, Illinois
+| official_name          = City of Anna
+| native_name_lang       = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type        = [[List of cities in Illinois|City]]
+| image_skyline          = Choate.jpg
+| image_alt              = The Anna State Asylum, built in 1869 in the [[Kirkbride Plan]] was a rambling four-story structure, part of which was destroyed in separate incidents, but most of which is still standing as the central complex to the C.L. Choate Mental Health and Developmental Center.
+| image_caption          = The Anna State Asylum, built in 1869 in the [[Kirkbride Plan]] was a rambling four-story structure, part of which was destroyed in separate incidents, but most of which is still standing as the central complex to the C.L. Choate Mental Health and Developmental Center.
+| image_flag             = 
+| image_seal             = Seal of Anna, Illinois.png
+| image_shield           = 
+| image_map              = File:Union County Illinois Incorporated and Unincorporated areas Anna Highlighted.svg
+| map_caption            = Location of Anna in Union County, Illinois
+| pushpin_map            = USA Illinois
+| coordinates            = {{coord|37|27|40|N|89|14|20|W|region:US-IL|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{nowrap|{{flag|United States of America}}}}
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = {{flag|Illinois}}
+| subdivision_type2      = [[County (United States)|County]]
+| subdivision_name2      = {{noflag|[[Union County, Illinois|Union]]}}
+| established_title      = Platted
+| established_date       = {{start date|1854|03|03}}
+| established_title1     = Incorporated
+| established_date1      = February 16, 1865
+| leader_party           = 
+| leader_title           = Mayor
+| leader_name            = Steve Hartline
+| unit_pref              = Imperial
+| area_total_sq_mi       = 3.57
+| area_land_sq_mi        = 3.55
+| area_water_sq_mi       = 0.02
+| elevation_footnotes    = 
+| elevation_ft           = 610
+| population_footnotes   = 
+| population_total       = 4442
+| population_as_of       = [[2010 United States Census|2010]]
+| population_density_km2 = 445.51
+| timezone1              = [[North American Central Time Zone|CST]]
+| utc_offset1            = -6
+| timezone1_DST          = [[North American Central Time Zone|CDT]]
+| utc_offset1_DST        = -5
+| postal_code_type       = ZIP code
+| postal_code            = 62906
+| area_code_type         = 
+| area_code              = [[Area code 618|618]]
+| website                = {{official URL|https://cityofanna.org/}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4100
+|population_density_sq_mi = 1153.95
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 17-01543
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+|area_total_km2 = 9.25
+|area_land_km2 = 9.20
+|area_water_km2 = 0.05
+}}

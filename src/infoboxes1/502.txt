@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Boma
+|official_name          = ''Ville de Boma''
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = City
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Boma city centre.jpg
+|imagesize              = 250px
+|image_caption          = View of Boma in 2007
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Democratic Republic of the Congo
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of the Democratic Republic of the Congo.svg|25px]] [[Democratic Republic of the Congo|DR Congo]]
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[Kongo Central]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+|parts_type             = Communes
+|parts_style            = para
+|p1                     = [[Kabondo, Boma|Kabondo]]
+|p2                     = [[Kalamu]]
+|p3                     = [[Nzadi]]
+<!-- Politics ----------------->
+|government_footnotes   = <ref>{{cite news |last1=Muaka Dimbi |first1=Dieudonné |title=La ville de Boma bientôt dotée d’un plan stratégique de développement aux standards internationaux |url=http://www.latempete.info/la-ville-de-boma-bientot-dotee-dun-plan-strategique-de-developpement-aux-standards-internationaux/ |access-date=27 August 2019 |work=La Tempête Des Tropiques |date=28 June 2019 |language=fr}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Marie José Niongo Suami
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = 16th century
+|established_title2     = [[City status]]
+|established_date2      = 1963
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = 65
+|area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2012
+|population_footnotes           =<ref name="World Gazetteer">{{cite web|url=http://www.world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&geo=-46&srt=npan&col=abcdefghinoq&msz=1500&pt=c&va=&srt=pnan|title=World Gazetteer|url-status=dead|archive-url=https://archive.is/20130217034142/http://www.world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=wg&geo=-46&srt=npan&col=abcdefghinoq&msz=1500&pt=c&va=&srt=pnan|archive-date=2013-02-17}}</ref>
+|population_note                =
+|population_total               =162521
+|population_density_km2         =auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[West Africa Time]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|5|51|S|13|03|E|region:CD|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 61
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

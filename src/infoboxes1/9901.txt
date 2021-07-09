@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Kafr Nabl
+|native_name            = كَفْرنَبِل<!-- for cities whose native name is not in English -->
+|other_name             = Kafranbel
+|settlement_type        = Town
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =250
+|pushpin_map_caption    =Location in Syria
+<!-- Location ------------------>
+|coordinates            = {{coord|35|36|50|N|36|33|40|E|region:SY|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{Flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_type4      = 
+|subdivision_name1      = [[Idlib Governorate|Idlib]]
+|subdivision_name2      = [[Maarrat al-Nu'man District|Maarrat al-Nu'man]]
+|subdivision_name3      = [[Kafr Nabl Nahiyah|Kafr Nabl]]
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+<!-- Area    --------------------->
+|unit_pref                =Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+<!-- Population   ----------------------->
+|area_magnitude         = 
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 735
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 15,455
+<!-- General information  --------------->
+|population_as_of               = 2004
+|population_footnotes           =
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|timezone               =  
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+}}

@@ -1,0 +1,50 @@
+{{Infobox settlement
+| official_name           = Sabinas
+| other_name              =
+| native_name             = <!-- for cities whose native name is not in English -->
+| nickname                =
+| settlement_type         = Municipality<!--For Town or Village (Leave blank for the default City)-->
+| motto                   =
+|image_shield           = Villa de sta elena.jpg
+| image_skyline           =
+| image_caption           =
+| pushpin_map             = Mexico<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption     =
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Mexico}}
+| subdivision_type1       = State
+| subdivision_name1       = [[Coahuila]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Sabinas (municipality)|Sabinas]]
+| government_footnotes    =
+| government_type         =
+|leader_title1          =  Mayor <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = Cuaotemoc Rodriguez  
+| established_title       = <!-- Settled -->
+| established_date        =
+| unit_pref               = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes          =
+| area_total_km2          = 2345.2
+| area_land_km2           =
+| area_water_km2          =
+|population_as_of               =2015 
+|population_total               =63522
+|population_metro               =177430
+| population_density_km2  = auto
+| population_blank1_title = City
+| population_blank1       = 47933
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = −6
+|timezone_DST           = Central
+|utc_offset_DST         = −5
+|coordinates            = {{coord|27|55|N|101|18|W|region:MX|display=inline,title}}
+|elevation_m            = 331
+|elevation_ft           = 1086
+<!-- Area/postal codes & others -------->
+|postal_code_type       = ZipCode  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 26700
+|area_code              = 861
+|website                = http://sabinas.gob.mx/
+}} <!-- Infobox ends -->
+

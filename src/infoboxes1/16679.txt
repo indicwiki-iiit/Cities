@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Burien, Washington
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = LogoofBurienWA.png
+<!-- Maps -->
+|image_map                = King_County_Washington_Incorporated_and_Unincorporated_areas_Burien_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Burien, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[King County, Washington|King]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = Mayor
+|leader_name              = Jimmy Matta
+|leader_title2            = City manager
+|leader_name2             = Brian Wilson
+|established_title        = 
+|established_date         = 
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 28.98
+|area_land_km2            = 26.00
+|area_water_km2           = 2.98
+|area_total_sq_mi         = 11.19
+|area_land_sq_mi          = 10.04
+|area_water_sq_mi         = 1.15
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 51500
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 33313
+|population_density_km2   = 1980.72
+|population_density_sq_mi = 5129.99
+|population_rank          = US: 747th<br>WA: 24th
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 115
+|elevation_ft             = 377
+|coordinates              = {{coord|47|28|6|N|122|20|44|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 98146, 98148, 98166, 98168
+|area_code                = [[Area code 206|206]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-08850
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1534570<ref name="GR3">{{cite gnis|id=1534570|name=Burien}}</ref>
+|website                  = [http://www.burienwa.gov/ BurienWA.gov]
+|footnotes                = 
+}}

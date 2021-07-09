@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Sungurlu
+| image_skyline           = Sungurlu ulu camii.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40.161|N|34.377|E|format=dms|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{TUR}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Çorum Province|Çorum]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Nationalist Movement Party|MHP]]
+| leader_title            = Mayor
+| leader_name             = Abdulkadir Şahiner
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Çorum|Sungurlu}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Çorum}}
+| population_urban        = {{Turkey district populations|Çorum|Sungurlu|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Çorum|Sungurlu|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = <!-- Post code -->
+| postal_code             =
+| blank_name_sec1         = [[Köppen climate classification|Climate]]
+| blank_info_sec1         = [[Mediterranean climate#Hot-summer Mediterranean climate|Csa]] 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

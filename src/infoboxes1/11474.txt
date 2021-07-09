@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Spring Valley
+|settlement_type          = [[Administrative divisions of New York#Village|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+||pushpin_map             = New York
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|image_map                = Rockland County New York incorporated and unincorporated areas Spring Valley highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Rockland County, New York|Rockland County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = New York
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Rockland County, New York|Rockland]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Alan M. Simon ([[Democratic Party (United States)|D]])<ref>{{cite web|title=New Spring Valley board reverses outgoing panel on ward voting system|url=http://www.lohud.com/story/news/local/rockland/2017/12/04/spring-valley-ward-system/918621001/|website=[[lohud]]|access-date=7 December 2017|date=4 December 2017}}</ref>
+|leader_title1            = Deputy Mayor
+|leader_name1             = Zack Clorina
+|leader_title2            = Trustees
+|leader_name2             = Eudson T. Francois, Asher Grossman, and Sherry T. McGill
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = July 9, 1902
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 5.21
+|area_land_km2            = 5.21
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 2.01
+|area_land_sq_mi          = 2.01
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 31347
+|population_density_km2   = 6195.20
+|population_density_sq_mi = 16042.27
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = {{coord|41|6|52|N|74|2|52|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 10977
+|area_code                = [[Area code 845|845]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 36-70420
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 
+|blank2_name              = [[Specific_Area_Message_Encoding |NWS SAME code]]
+|blank2_info              = 036087|website                  = [http://www.villagespringvalley.org www.villagespringvalley.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 32261
+|unit_pref = Imperial
+}}

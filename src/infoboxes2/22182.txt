@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Conneaut, Ohio
+|settlement_type          = [[City]]
+|motto                    = "Ohio's Sharpest Corner"
+
+<!-- Images -->
+|image_skyline            = Conneaut Ohio aerial view.jpg
+|image_caption            = Aerial view of the port at Conneaut
+|imagesize                = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Conneaut.png
+|mapsize                  = 250px
+|map_caption              = Location of Conneaut, Ohio
+|image_map1               = Map of Ashtabula County Ohio Highlighting Conneaut City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Conneaut in Ashtabula County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Ashtabula County, Ohio|Ashtabula]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[City manager]]
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1799
+|established_title2       = Incorporated
+|established_date2        = 1834 (village)<br> 1902 (city)
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 68.64
+|area_land_km2            = 68.47
+|area_water_km2           = 0.17
+|area_total_sq_mi         = 26.50
+|area_land_sq_mi          = 26.44
+|area_water_sq_mi         = 0.07
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 12530
+|pop_est_as_of            = 2019
+|population_total         = 12841
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_density_km2   = 183.00
+|population_density_sq_mi = 473.97
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 197
+|elevation_ft             = 646
+|coordinates              = {{coord|41|56|50|N|80|33|20|W|region:US-OH_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44030
+|area_code                = [[Area code 440|440]] Exchanges: 593.599
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-18350
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1077521<ref name="GR3" />
+|website                  = [http://www.conneautohio.gov/ www.conneautohio.gov]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

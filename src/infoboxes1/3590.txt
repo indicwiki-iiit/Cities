@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = Tierra Amarilla, New Mexico
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Rio Arriba CCH.jpg
+|image_caption            = Rio Arriba County Courthouse, [[Isaac Rapp]], 1916-17
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New Mexico
+|pushpin_label            = Tierra Amarilla
+|pushpin_label_position   = right <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the [[U.S. state|state]] of [[New Mexico]]
+|image_map                = <!--Rio_Arriba_County_New_Mexico_Incorporated_and_Unincorporated_areas_Tierra_Amarilla_Highlighted.svg -->
+|mapsize                  = <!--250px -->
+|map_caption              = <!--Location of Tierra Amarilla, New Mexico -->
+
+<!-- Location -->
+|coordinates              = {{coord|36|42|01|N|106|32|59|W|region:US-NM_type:city_source:GNIS|display=it}}
+|coordinates_footnotes    = <ref name="GNIS">[http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:923704 Geographic Names Information System (GNIS) details for Tierra Amarilla, New Mexico; United States Geological Survey (USGS); November 13, 1980.]</ref>
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Mexico]]
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Rio Arriba County, New Mexico|Rio Arriba]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|area_footnotes           = 
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 7529
+|elevation_m              = 2295
+
+<!-- Population -->
+|population_footnotes     = 
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 
+|pop_est_footnotes        = 
+|pop_est_as_of            = 
+|population_est           =
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|MST]]
+|utc_offset               = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST           = &minus;6
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 87575
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 575|575]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-77670<ref name="GNIS"/>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0923704<ref name="GNIS"/>
+|website                  = 
+|footnotes                = 
+}}

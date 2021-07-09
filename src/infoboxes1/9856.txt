@@ -1,0 +1,31 @@
+{{Infobox settlement
+| name                   = Fiq
+| native_name            = فيق
+| native_name_lang       = ar
+| type                   = Town
+| image_skyline          = Fiq-03.JPG
+| image_caption          = Ruins at Fiq
+| pushpin_map            = Syria
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location of Fiq in Syria
+| coordinates            = {{coord|format=dms|display=inline}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Syria}}
+| subdivision_type1       = [[Governorates of Syria|Governorate]]
+| subdivision_name1       = [[Quneitra Governorate|Quneitra]]
+| subdivision_type2       = [[Districts of Syria|District]]
+| subdivision_name2       = [[Fiq District|Fiq]]
+| subdivision_type3       = [[Nahiyah|Subdistrict]]
+| subdivision_name3       = [[Nahiya Fiq|Fiq]]
+| elevation_m             = 
+| population              = 2,800<ref name="Kipnis"/>
+| population_density_km2  = auto
+| population_as_of        = 1967
+| population_footnotes    = {{#tag:ref|{{cite web |title=2004 Census Data for ''Nahiya Fiq''|publisher=Syrian [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] |language=ar }} Also available in English: {{cite web |author=UN OCHA |author-link=United Nations Office for the Coordination of Humanitarian Affairs |title=2004 Census Data |url=https://data.humdata.org/dataset/syrian-arab-republic-other-0-0-0-0-0-0-0 |publisher=Humanitarian Data Exchange }}|name=census2004}}
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| website                 = 
+}}

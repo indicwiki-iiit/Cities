@@ -1,0 +1,63 @@
+{{Infobox settlement
+| name                    = Port Alfred
+| image_skyline           = Bridge in Port Alfred, South Africa.jpg
+| image_caption           = Bridge in Port Alfred
+| pushpin_map             = South Africa Eastern Cape#South Africa#Africa
+| coordinates             = {{coord|33|35|30|S|26|53|15|E|region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]]
+| subdivision_name        = {{flagdeco|RSA}} [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]]
+| subdivision_name1       = [[Eastern Cape]]
+| subdivision_type2       = [[District]]
+| subdivision_name2       = [[Sarah Baartman District Municipality|Sarah Baartman]]
+| subdivision_type3       = [[Municipality]]
+| subdivision_name3       = [[Ndlambe Local Municipality|Ndlambe]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| government_type         = Town Council
+| leader_title            = Mayoress
+| leader_name             = 
+| area_footnotes          = <ref name=census2011>Sum of the Main Places [http://census2011.adrianfrith.com/place/265006 Nkwenkwezi] and [http://census2011.adrianfrith.com/place/265007 Port Alfred] from Census 2011.</ref>
+| area_total_km2          = 46.6
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 25859
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name=census2011 />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 80%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 6.8%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 0.3%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 12.5%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.4%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name=census2011 />
+| demographics2_title1    = [[Xhosa language|Xhosa]]
+| demographics2_info1     = 71.2%
+| demographics2_title2    = [[English language|English]]
+| demographics2_info2     = 14.4%
+| demographics2_title3    = [[Afrikaans]]
+| demographics2_info3     = 11.4%
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Other
+| demographics2_info5     = 3.1%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 6170
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 6170
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 046
+| website                 = {{url|http://www.portalfred.co.za/}}
+}}

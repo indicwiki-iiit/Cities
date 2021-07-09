@@ -1,0 +1,111 @@
+{{Infobox settlement
+|name = Norwich
+|settlement_type = [[City status in the United Kingdom|City]] and [[non-metropolitan district]]
+|image_skyline = File:Norwichcollage2019.png
+|image_size = 250px
+|image_caption = Clockwise from top left: Princes Street, [[Norwich Cathedral]], [[City Hall, Norwich|Norwich City Hall]], [[Norwich Castle]], [[St John the Baptist Cathedral, Norwich|St John the Baptist Cathedral]]
+|image_flag =
+|image_seal =
+|image_shield = {{PH wikidata|image_shield}}
+|motto = {{PH wikidata|motto}}
+|nickname =
+|image_map = Norwich UK locator map.svg
+|map_caption = Location within [[Norfolk]]
+|pushpin_map = England#UK#Europe
+|pushpin_map_caption = Location within England##Location within the United Kingdom
+|pushpin_relief = 1
+|coordinates = {{coord|52.630|1.297|display=inline,title}}
+|subdivision_type = [[Sovereign state]]
+|subdivision_name = {{flagicon|UK}} [[United Kingdom]]
+|subdivision_type1 = {{nowrap|[[Countries of the United Kingdom|Country]]}}
+|subdivision_type2 = [[Regions of England|Region]]
+|subdivision_type3 = [[Ceremonial County|County]]
+|subdivision_name1 = {{flagicon|ENG}} [[England]]
+|subdivision_name2 = [[East of England]]
+|subdivision_name3 = [[Norfolk]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|government_footnotes =
+|government_type = [[Non-metropolitan district]] council
+<!-- Founded ----------------->
+|established_title = Founded
+|established_date = c.43 [[Anno Domini|AD]] as Northwic
+|established_title2 = City status
+|established_date2 = [[List of cities in the United Kingdom|1094]]
+|seat_type = Admin HQ
+|seat = [[City Hall, Norwich|City Hall]]
+<!-- Politics --------------- -->
+|leader_title = Local Authority
+|leader_name = [[Norwich City Council]]
+|leader_title1 = [[List of MPs elected in the 2015 United Kingdom general election|MPs]]
+|leader_name1 = {{plainlist|
+*[[Clive Lewis (politician)|Clive Lewis]] ([[Labour Party (UK)|L]])
+*[[Chloe Smith]] ([[Conservative Party (UK)|C]])}}
+|total_type = City
+|unit_pref = <!-- Enter: Imperial, to display imperial before metric -->
+|area_footnotes =
+|area_urban_km2 = {{PH wikidata|area}}
+|area_water_km2 =
+|elevation_footnotes =
+|elevation_m =
+|elevation_min_m =
+|elevation_max_m =
+<!-- Population --------------------- -->
+|population_total = {{English district population|GSS = E07000123}} ([[List of English districts by population|ranked {{English district rank|GSS = E07000123}}]])
+|population_as_of = {{English statistics year}}
+|population_footnotes =
+|population_density_km2 = auto
+|population_urban = 213,166
+|population_density_urban_km2 = auto
+|population_metro = {{nowrap|376,500 ([[Travel to Work Area|TTWA]])<ref name=norwich>{{Cite web |url=http://www.norwich.gov.uk |title=Home |publisher=Norwich City Council |date=7 October 2010 |access-date=13 September 2013 |archive-url=https://web.archive.org/web/20110901231943/http://www.norwich.gov.uk/ |archive-date=1 September 2011 |url-status=live }}</ref>}}
+|population_density_metro_km2 =
+|population_blank2_title = Ethnicity <br /><small>(2011 Census)<ref name=2011census>[http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls "2011 Census: Key Statistics for Local Authorities in England and Wales"] {{Webarchive |url=https://web.archive.org/web/20160224143452/http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |date=24 February 2016}}. [[Office for National Statistics|ONS]]. Retrieved 25 December 2012.</ref></small>
+|population_blank2 = {{Collapsible list
+|title = 90.9% [[White British|White]]
+|frame_style = border:none; padding: 0;
+|list_style = text-align:left;display:none;
+|1 = 84.6% [[White British]]
+|2 = 0.09% [[Irish Briton|White Irish]]
+|3 = 0.08% [[Romani people|Gypsy]] or [[Irish Travellers|Irish Traveller]]
+|4 = 5.38% [[White Other (United Kingdom Census)|Other White]]
+|5 = &nbsp;
+|6 = '''4.5% [[British Asian|Asian]]'''
+|7 = 1.2% [[Indian British|Indian]]
+|8 = 0.1% [[Pakistani British|Pakistani]]
+|9 = 0.4% [[British Bangladeshi|Bangladeshi]]
+|10 = 1.2% [[British Chinese|Chinese]]
+|11 = 1.2% [[British Asian|Other Asian]]
+|12 = &nbsp;
+|13 = '''1.6% [[Black British|Black]]'''
+|14 = 1.3% [[African British|Black African]]
+|15 = 0.2% [[British African-Caribbean community|Black Caribbean]]
+|16 = 0.1% [[Black British|Other Black]]
+|17 = &nbsp;
+|18 = '''2.3% [[British Mixed|Mixed]]'''
+|19 = 0.5% [[British Mixed|White & Black Caribbean]]
+|20 = 0.4% [[British Mixed|White & Black African]]
+|21 = 0.6% [[British Mixed|White and Asian]]
+|22 = 0.6% [[British Mixed|Other mixed]]
+|23 = &nbsp;
+|24 = '''1.1% [[Other ethnic group (United Kingdom Census)|Other]]'''
+|25 = 0.4% [[British Arabs|Arab]]
+|26 = 0.35% [[Other ethnic group (United Kingdom Census)|Other]]
+}}
+|population_demonym = Norvician
+|population_note =
+|postal_code_type = [[Postcodes in the United Kingdom|Postcode]]
+|postal_code = [[NR postcode area|NR]]
+|area_code_type = {{nowrap|[[Telephone numbers in the United Kingdom|Area&nbsp;code]] ([[International direct dialing|IDD]])}}
+|area_code = 01603
+|blank_info = AO, AP, AR, AS, AT, AU
+|blank_name = [[Vehicle registration plates of the United Kingdom|Vehicle registration area code]]
+|footnotes =
+|timezone = [[Greenwich Mean Time|GMT]]
+|utc_offset = 0
+|timezone_DST = [[British Summer Time|BST]]
+|utc_offset_DST = +1
+|blank1_name = [[ONS coding system|ONS code]]
+|blank1_info = 33UK
+|blank2_name = Primary airport
+|blank2_info = [[Norwich Airport]]
+|website = {{nowrap|{{URL|https://www.norwich.gov.uk}}}}
+}}

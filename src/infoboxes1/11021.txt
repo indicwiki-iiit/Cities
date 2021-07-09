@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Dong}}
+| native_name             = {{lower|0.1em|{{nobold|동구}}}}
+| native_name_lang        = ko
+| settlement_type         = [[List of districts in South Korea|Autonomous District]]
+| translit_lang1          = Korean
+| translit_lang1_type1    = Hanja
+| translit_lang1_info1    = {{linktext|東|區}}
+| translit_lang1_type2    = {{nowrap|Revised Romanization}}
+| translit_lang1_info2    = Dong-gu
+| translit_lang1_type3    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info3    = Tong-gu
+| image_skyline           = File:Dong-gu office, Incheon.JPG
+| imagesize               = 
+| image_caption           = Dong-gu district office in Incheon
+| image_map               = Dong-gu INCHEON.PNG
+| mapsize                 = 
+| map_caption             = 
+| image_blank_emblem      = 
+| subdivision_type        = Country
+| subdivision_name        = [[South Korea]]
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Seoul Capital Area|Sudogwon]]
+| subdivision_type2       = [[Provinces of South Korea|Provincial level]]
+| subdivision_name2       = [[Incheon]]
+| subdivision_type3       = [[Administrative divisions of South Korea|Administrative divisions]]
+| subdivision_name3       = 11 ''dongs''
+| parts_type              = 
+| parts                   = 
+| area_total_km2          = 7.19
+| population_as_of        = 
+| population_total        = 75513
+| population_density_km2  = auto
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| website                 = {{url|http://www.icdonggu.go.kr/|Dong{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }} District Office}}
+}}

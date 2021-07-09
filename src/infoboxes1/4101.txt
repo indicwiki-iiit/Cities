@@ -1,0 +1,67 @@
+{{Infobox settlement
+| name                            = Killeen, Texas
+| official_name                   = City of Killeen
+| settlement_type                 = [[City]]
+| image_skyline                   = D Avenue.JPG
+| imagesize                       = 
+| image_caption                   = Avenue D in downtown Killeen
+| image_flag                      = Flag of Killeen, Texas.svg
+| image_seal                      = <!-- Maps -->
+| nickname                        = "K-Town," "The K"
+| motto                           = "Where freedom grows"
+
+<!-- Images -->| image_map                       = Bell Killeen.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Killeen, Texas
+
+<!-- Location -->| coordinates                     = {{coord|31|6|20|N|97|43|36|W|region:US-TX_type:city|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{nowrap|{{US}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Texas|County]]
+| subdivision_name1               = {{flag|Texas}}
+| subdivision_name2               = [[Bell County, Texas|Bell]]
+
+<!-- Government -->| established_title               = 
+| established_date                = <!-- Area -->
+| government_footnotes            = 
+| government_type                 = [[Council-manager government|Council-Manager]]
+| leader_title                    = [[City Council]]
+| leader_name                     = [[Mayor]] Jose Segarra<br />Mayor Pro Tem Shirley Fleming<br />Ken Wilkerson<br />Rick Williams<br />Mellisa Brown<br />Debbie Nash-King<br />Jim Kilpatrick<br />Steve Harris
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Kent Cagle
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 143.75
+| area_total_sq_mi                = 55.50
+| area_land_km2                   = 142.06
+| area_land_sq_mi                 = 54.85
+| area_water_km2                  = 1.69
+| area_water_sq_mi                = 0.65
+<!-- Population -->| elevation_footnotes             = 
+| elevation_m                     = 
+| elevation_ft                    = 890
+| population_total                = 127921
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_km2          = 1067.63
+
+<!-- General information -->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 76540, 76541, 76542, 76543, 76548, 76549
+| area_code                       = [[Area code 254|254]]
+| website                         = {{URL|www.killeentexas.gov}}
+| footnotes                       = 
+| timezone                        = [[North American Central Time Zone|Central (CST)]]
+| utc_offset                      = &minus;6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = &minus;5
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 48-39148<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1360642<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25|url-status=live|archive-url=https://web.archive.org/web/20120212191832/http://geonames.usgs.gov/|archive-date=2012-02-12}}</ref>
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 151666
+| population_density_sq_mi        = 2765.16
+}}

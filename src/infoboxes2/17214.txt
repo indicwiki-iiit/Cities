@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = Hobbs, New Mexico
+|settlement_type          = City
+|nickname                 = 
+|motto                    = "It All Happens Here"
+
+<!-- Images -->
+|image_skyline            = Hobbs New Mexico Public Library.jpg
+|imagesize                = 
+|image_caption            = Hobbs Public Library
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Lea_County_New_Mexico_Incorporated_and_Unincorporated_areas_Hobbs_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Hobbs, New Mexico
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Mexico]]
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Lea County, New Mexico|Lea]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Sam Cobb
+|leader_title1            = City Manager 
+|leader_name1             = Manny Gomez
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 68.47
+|area_land_km2            = 68.37
+|area_water_km2           = 0.10
+|area_total_sq_mi         = 26.44
+|area_land_sq_mi          = 26.40
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010">{{cite web| url=https://data.census.gov/cedsci/table?g=1600000US3532520&tid=DECENNIALSF12010.P1| title=Total Population: 2010 Census DEC Summary File 1 (P1), Hobbs city, New Mexico| publisher=U.S. Census Bureau| website=data.census.gov| access-date=May 6, 2020}}</ref>
+|population_total         = 34122
+|population_density_km2   = 572.45
+|population_density_sq_mi = 1482.61
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST           = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1104
+|elevation_ft             = 3622
+|coordinates              = {{coord|32|42|44|N|103|8|26|W|region:US-NM_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 88240-88242
+|area_code                = [[Area code 575|575]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-32520
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0923609
+|website                  = {{URL|www.hobbsnm.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 39141
+}}

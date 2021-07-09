@@ -1,0 +1,41 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| settlement_type                 = [[Municipality]]
+| name                            = Kars
+| timezone                        = [[Time in Turkey|TRT]]
+| utc_offset                      = +3
+| map_caption                     = Location of Kars in Turkey
+| official_name                   = Kars Municipality<br>''Kars Belediyesi''
+| image_skyline                   = File:Kars_collage_1.JPG
+| image_caption                   = '''Top''': [[Cathedral of Kars]], [[Castle of Kars]] (left to right)<br> '''Bottom''': Panorama view of Kars, overview of Karacaören from Kars Castle.
+| image_blank_emblem              = 
+| blank_emblem_type               = Emblem of Kars Municipality
+| blank_emblem_size               = 110px
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{TUR}}
+| subdivision_type1               = [[Regions of Turkey|Region]]
+| subdivision_name1               = [[Eastern Anatolia Region|Eastern Anatolia]]
+| subdivision_type2               = [[Provinces of Turkey|Province]]
+| subdivision_name2               = [[Kars Province|Kars]]
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Kars|Kars}}
+| population_footnotes            = {{Turkey district populations|SOURCE|Kars}}
+| population_urban                = {{Turkey district populations|Kars|Kars|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Kars|Kars|toplam}}
+| population_density_blank1_km2   = auto
+| pushpin_map                     = Turkey#Europe#Asia
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Kars
+| pushpin_mapsize                 = 
+| coordinates                     = {{coord|40|36|28|N|43|05|45|E|region:TR|display=inline,title}}
+| elevation_m                     = 1768
+| postal_code                     = 36000
+| area_code                       = (+474)
+| leader_title                    = Governor
+| leader_name                     = Eyüp Tepe
+| leader_title1                   = Acting Mayor
+| leader_name1                    = Eyüp Tepe (State-appointed trustee)
+| website                         = {{URL|http://kars.bel.tr/|Kars Municipality}}
+}}

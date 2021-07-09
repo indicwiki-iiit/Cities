@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Town of San Anselmo
+|settlement_type          = [[Town (California)|Town]]
+|name=San Anselmo, California
+|image_skyline            = SanAnselmoMountainView.jpg
+|image_caption            = View of San Anselmo
+|image_seal               = 
+|image_map                = Marin_County_California_Incorporated_and_Unincorporated_areas_San_Anselmo_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Marin County, California|Marin County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|37|58|29|N|122|33|42|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Marin County, California|Marin]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = April 9, 1907<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+}}</ref>
+|government_type          = [[Council–manager government|Council–manager]]<ref name=cc/>
+|leader_title             = [[Town council]]<ref name=cc>{{cite web
+ | url = http://townofsananselmo.org/index.aspx?nid=88
+ | title = Town Council
+ | publisher = San Anselmo, CA
+ | access-date = January 5, 2015}}</ref>
+|leader_name              = [[Mayor]] [[Ford Greene]]
+|leader_title1            = [[City manager|Town manager]]
+|leader_name1             = David P. Donery<ref>https://www.townofsananselmo.org/346/Town-Manager</ref>
+|leader_title2            = [[Marin County Board of Supervisors|Supervisor]]
+|leader_name2             = District 2<br>Katie Rice
+|leader_title3            = [[Legislator]]s
+|leader_name3             = [[California's 2nd State Senate district|Sen.]] {{Representative|casd|2|fmt=sleader}} <br /> [[California's 10th State Assembly district|Asm.]] {{Representative|caad|10|fmt=sleader}} <br /> [[California's 2nd congressional district|Rep.]] {{Representative|cacd|2|fmt=usleader}}<ref>{{Cite GovTrack|CA|2|access-date=March 8, 2013}}</ref>
+<!-- Area------------------>
+|total_type                  = Total
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 2.68
+|area_total_km2           = 6.93
+|area_land_sq_mi          = 2.68
+|area_land_km2            = 6.93
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|277591|San Anselmo}}</ref>
+|elevation_ft             = 46
+|elevation_m              = 14
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 12336
+|population_metro         = 
+|population_density_sq_mi = 4660.44
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −08:00
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −07:00
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 94960, 94979
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 415 and 628|415/628]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|64434}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277591}}, {{GNIS 4|2413251}}
+|website                  = {{URL|townofsananselmo.org}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 12476
+|population_density_km2 = 1799.28
+}}

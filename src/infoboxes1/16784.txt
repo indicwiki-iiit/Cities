@@ -1,0 +1,105 @@
+{{Infobox settlement
+| name                            = Reedley, California
+| official_name                   = City of Reedley
+| settlement_type                 = [[City (California)|City]]
+| nickname                        = "The World's Fruit Basket"<ref name=CC>{{Cite web|url=http://www.reedley.com/departments/city_council|title=City Council|publisher=The City of Reedley|access-date=April 6, 2013}}</ref>
+| image                   = {{multiple image
+| border           = infobox
+| total_width      = 310
+| image_style      = border:1;
+| perrow           = 1/2/3
+| image1           = 2009-0725-CA-ReedleyCH.jpg
+| image2           = Reedley Municipal Airport.jpg
+| image3           = Campbell Mountain.jpg
+}}
+| image_caption                   =
+| image_seal                      = Seal of Reedley, California.png
+| image_map                       = Fresno_County_California_Incorporated_and_Unincorporated_areas_Reedley_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Fresno County, California|Fresno County]] and the state of [[California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Fresno County, California|Fresno]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Mary Fast
+| leader_title1                   = [[City Council]]
+| leader_name1                    = Matthew Tuttle<br/>Robert Beck<br/>Ray Soleno<br/>Anita Betancourt<ref>
+ {{cite web|url=https://reedley.ca.gov/city-council/mayor/
+ |title=City Council
+ |publisher=The City of Reedley
+ |access-date=June 9, 2020}}</ref>
+| leader_title2                   = [[California's 14th State Senate district|State Senator]]
+| leader_name2                    = {{Representative|casd|14|fmt=sleader}}<ref>{{Cite web
+ |url=http://senate.ca.gov/senators 
+ |title=Senators 
+ |access-date=April 6, 2013
+ |publisher=State of California}}</ref>
+| leader_title3                   = [[California's 31st State Assembly district|State&nbsp;Assembly]]
+| leader_name3                    = {{Representative|caad|31|fmt=sleader}}<ref>{{Cite web
+ |url=http://assembly.ca.gov/assemblymembers
+ |title=Members Assembly
+ |access-date=April 6, 2013
+ |publisher=State of California}}</ref>
+| leader_title4                   = [[California's 22nd congressional district|U. S. Congress]]
+| leader_name4                    = {{Representative|cacd|22|fmt=usleader}}<ref>{{Cite GovTrack|CA|22|access-date=April 6, 2013}}</ref>
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = February 18, 1913<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = April 6, 2013
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+}}</ref>
+<!-- Area------------------>| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jun 28, 2017}}</ref>
+| area_total_sq_mi                = 5.49
+| area_land_sq_mi                 = 5.41
+| area_water_sq_mi                = 0.07
+| area_total_km2                  = 14.21
+| area_land_km2                   = 14.02
+| area_water_km2                  = 0.19
+| area_water_percent              = 1.39
+| area_note                       = 
+| elevation_footnotes             = <ref name=gnis/>
+| elevation_ft                    = 348
+| elevation_m                     = 106
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 24194
+| population_metro                = 
+| population_density_km2          = 1824.34
+| population_density_sq_mi        = 4725.16
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| coordinates                     = {{coord|36|35|47|N|119|27|01|W|region:US-CA|display=inline,title}}
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 93654
+| area_code                       = [[Area code 559|559]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 06-60242
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1659495}}, {{GNIS 4|2410920}}
+| footnotes                       = 
+| website                         = {{URL|www.reedley.ca.gov}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 25658
+| named_for                       = Thomas Law Reed
+| population_demonym              = Reedleyite
+}}

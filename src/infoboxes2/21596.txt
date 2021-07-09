@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Sárvár
+| other_name             = {{lang|la|Bassiana}} {{in lang|la}} <br>{{lang|de|Kotenburg / Rotenturm an der Raab}} {{in lang|de}} <br>{{lang|sl|Mala Sela}} {{in lang|sl}}
+| settlement_type        = [[List of cities and towns of Hungary|Town]]
+| image_skyline          = Sárvár Nádasdy-vár1.JPG
+| image_shield           = HUN Sárvár Címer.svg
+| image_flag             = Flag of Sárvár.svg
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = {{HUN}}
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| pushpin_map            = Hungary
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location of Sárvár
+| pushpin_mapsize        = 
+| subdivision_type1      = [[Counties of Hungary|County]]
+| subdivision_name1      = [[Vas County|Vas]]
+| subdivision_type2      = [[Districts of Hungary|District]]
+| subdivision_name2      = [[Sárvár District|Sárvár]]
+| area_total_km2         = 64.64
+| population year        = 2019
+| population_total       = 15226<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=21306 Sárvár, KSH]</ref>
+| population_footnotes   = 
+| population_density_km2 = 242
+| postal_code_type       = [[Postal codes in Hungary|Postal code]]
+| postal_code            = 9600, 9609
+| area_code_type         = [[Telephone numbers in Hungary|Area code]]
+| area_code              = (+36) 95
+| website                = {{URL|http://www.sarvar.hu/}}
+| coordinates            = {{coord|47.25415|16.93545|region:HU|display=inline}}
+}}

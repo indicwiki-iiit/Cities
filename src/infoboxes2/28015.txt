@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name = Woodside
+|official_name            = Town of Woodside
+|other_name               = 
+|settlement_type          = [[Town (California)|Town in California]]
+|native_name              = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+|image_skyline            = Woodside California 2004.jpg
+|image_caption            = Downtown Woodside business district on Woodside Road
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = 
+|motto                    = 
+|image_map                = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_Woodside_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = California#USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_label           = Woodside
+<!-- Location ------------------>
+|coordinates              = {{coord|37|25|15|N|122|15|35|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 16, 1956<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ | url-status = dead
+ }}</ref>
+|government_footnotes     = 
+|government_type          = Town Council
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+<!-- Area------------------>
+|total_type                  = Total
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 11.47
+|area_total_km2           = 29.70
+|area_land_sq_mi          = 11.47
+|area_land_km2            = 29.70
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1660202|Woodside|access-date=December 3, 2014}}</ref>
+|elevation_ft             = 387
+|elevation_m              = 118
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0686440.html|title=Woodside (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 12, 2015|archive-url=https://web.archive.org/web/20120518094340/http://quickfacts.census.gov/qfd/states/06/0686440.html|archive-date=May 18, 2012|url-status=dead}}</ref>
+|population_total         = 5287
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 5458
+|population_density_sq_mi = 476.02
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+|population_density_metro_km2     = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = December 3, 2014}}</ref>
+|postal_code              = 94061–94062
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 650|650]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|86440}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660202}}, {{GNIS 4|2413509}}
+|website                  = {{URL|www.woodsidetown.org}}
+|population_density_km2 = 183.79
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Rockland, Maine
+|settlement_type          = City
+|nickname                 = Vacationland
+|motto                    = God Gives a Reward to Industry
+
+<!-- Images -->
+|image_skyline            = rok2.jpg
+|imagesize                = 
+|image_caption            = Rockland Downtown
+|image_flag = 
+|image_seal               = Seal of Rockland, Maine.png
+
+<!-- Maps -->
+|image_map                = Knox County Maine incorporated and unincorporated areas Rockland highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Knox County, Maine|Knox County]] and the state of [[Maine]].
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Maine]]
+|subdivision_type2        = [[List of counties in Maine|County]]
+|subdivision_name2        = [[Knox County, Maine|Knox]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Lisa Westkaemper
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated (town)
+|established_date         = July 28, 1848
+|established_title1       = Incorporated (city)
+|established_date1        = 1854
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_23.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 39.03
+|area_land_km2            = 33.26
+|area_water_km2           = 5.77
+|area_total_sq_mi         = 15.07
+|area_land_sq_mi          = 12.84
+|area_water_sq_mi         = 2.23
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 7165
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 7297
+|population_density_km2   = 215.43
+|population_density_sq_mi = 557.93
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 7
+|elevation_ft             = 23
+|coordinates              = {{coord|44|6|34|N|69|6|53|W|region:US-ME_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 04841
+|area_code                = [[Area code 207|207]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 23-63590
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0574358
+|website                  = {{URL|https://rocklandmaine.gov/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

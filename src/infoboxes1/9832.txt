@@ -1,0 +1,43 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Damascus Governorate
+| native_name             = مُحافظة دمشق
+| native_name_lang        = ar<!-- ISO 639-2 code e.g. "ar" for Arabic -->
+| settlement_type         = [[Governorates of Syria|Governorate]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_map               = Damascus in Syria (+Golan hatched).svg
+| map_alt                 = 
+| map_caption             = Map of Syria with Damascus highlighted
+| coordinates             = {{coord|33.513|36.292|type:adm1st_region:SY|display=inline,title}}
+| coor_pinpoint           = [[Damascus]]
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flagicon|SYR}} [[Syria]]
+| parts_type              = [[Mintaqah|Manatiq (Districts)]]
+| parts_style             = para
+| p1                      = 
+| established_title       = <!-- Established -->
+| established_date        = 
+| seat_type               = Capital
+| seat                    = [[Damascus]]
+| leader_title    = Governor
+| leader_name   = Adel al-Olabi
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = 
+| population_total        = 2,079,000
+| population_as_of        = 2010 est. 
+| population_density_km2  = auto
+| blank_name_sec1         = [[Syria#Languages|Main language(s)]]
+| blank_info_sec1         = [[Arabic language|Arabic]]
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| iso_code                = SY-DI
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

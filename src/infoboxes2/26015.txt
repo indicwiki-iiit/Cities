@@ -1,0 +1,20 @@
+{{Infobox Australian place | type = town
+| name          = Lennox Head
+| state         = nsw
+| image         = Lennox Point, New South Wales.jpg
+| caption       = Lennox Point
+| lga           = [[Ballina Shire]]
+| pop           = 7,741 | pop_year = {{CensusAU|2016}}
+|pop_footnotes = <ref name="ABS2016">[[Australian Bureau of Statistics]] (27 June 2017). [http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/112011242?opendocument"Lennox Head - Skennars Head (Statistical Area Level 2)"]. ''2016 Census QuickStats.'' Retrieved 25 November 2017.</ref>
+| coordinates   = {{coord|28|48|S|153|35|E|display=inline,title}}
+| pushpin_label_position = left
+| postcode      = 2478
+| stategov      = [[Electoral district of Ballina|Ballina]]
+| fedgov        = [[Division of Richmond|Richmond]]
+| dist1         = 11
+| location1     = [[Ballina, New South Wales|Ballina]]
+| dist2         = 186
+| location2     = [[Brisbane]]
+| dist3         = 20
+| location3     = [[Byron Bay]]
+}}

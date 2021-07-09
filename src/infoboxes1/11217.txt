@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          =El-Ksar-el-Kebir
+|other_name             =
+|native_name            =  القصر الكبير<br />ⵍⵇⵚⵔ ⵍⴽⴱⵉⵔ
+|nickname               = 
+|settlement_type        =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a = القصر الكبير.JPG
+| photo2a = المكتب الجهوي للاستثمار الفلاحي بالقصر الكبير.JPG
+| photo2b = سوق العطارين بالمدينة العثيقة.jpg
+| photo3a = برج الآمر ... طوري دي ماندو.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}  
+|image_flag             = 
+|flag_size              =
+|image_seal             = Seal of Tetouan Municipality.jpeg
+|seal_size              = 80
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+| pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Morocco
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_name1      = [[Tanger-Tetouan-Al Hoceima]]
+|subdivision_type2      = [[Provinces of Morocco|Province]]
+|subdivision_name2      = [[Larache Province|Larache]]
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Mohamed Simo
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2014
+|population_footnotes           =<ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_note                =
+|population_total               =126617
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        = Rank
+|population_blank1              = [[List of cities in Morocco|26th in Morocco]]
+|population_blank2_title       = Religions
+|population_blank2             = Islam
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Western European Time|WET]]
+|utc_offset             =  +0
+|timezone_DST           = [[Western European Summer Time|WEST]]
+|utc_offset_DST         = +1
+|coordinates            = {{coord|34|59|56|N|5|54|10|W|region:MA|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = [http://www.ksarelkbir.ma/ Official website]
+|footnotes              = 
+}}

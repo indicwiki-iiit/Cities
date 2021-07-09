@@ -1,0 +1,101 @@
+{{Infobox settlement
+| name = Southern United States 
+| settlement_type = [[Region]]
+| other_name = American South, the South
+| image_skyline =
+| image_alt =
+| image_caption =
+| image_flag = 
+| flag_alt =
+| image_seal =
+| seal_alt =
+| image_shield =
+| shield_alt =
+| motto =
+| image_map =[[File:Map_of_USA_South.svg|250px]]
+| map_alt =
+| map_caption = Regional definitions vary from source to source. This map reflects the Southern United States as defined by the [[United States Census Bureau|Census Bureau]].<ref name=CensusBureau />
+| pushpin_map =
+| pushpin_map_alt =
+| pushpin_map_caption =
+| coordinates = <!-- {{Coord}} -->
+| coor_pinpoint =
+| coordinates_type =
+| coordinates_footnotes =
+| subdivision_type = Country
+| subdivision_name =
+| subdivision_type1 = Subregions
+| subdivision_type2 = Subregion
+| subdivision_type3 = Country
+| subdivision_name1 = {{hlist|[[Southeastern United States]]|[[South Central United States]]|[[Deep South]]|[[Upland South]]|[[South Atlantic States|South Atlantic]]|[[East South Central States|East South Central]]|[[West South Central States|West South Central]]|[[Mid-Atlantic (United States)|Mid-Atlantic]]}}
+| subdivision_type4  = States
+| subdivision_name3  = {{flag|United States}}
+| subdivision_name4  = {{flag|Alabama}}<br />{{flag|Arkansas}}<br />{{flag|Delaware}}<br />{{flag|Florida}}<br />{{flag|Georgia (U.S. state)|name=Georgia}}<br />{{flag|Kentucky}}<br />{{flag|Louisiana}}<br />{{flag|Maryland}}<br />{{flag|Mississippi}}<br />{{flag|North Carolina}}<br /> {{flag|Oklahoma}}<br />{{flag|South Carolina}}<br />{{flag|Tennessee}}<br />{{flag|Texas}}<br />{{flag|Virginia}}<br />{{flag|West Virginia}}<br />
+| subdivision_type5 = Federal district
+| subdivision_name5 = {{flag|District of Columbia}}
+| established_title =
+| established_date =
+| founder =
+| seat_type =
+| seat =
+| government_footnotes =
+| leader_party =
+| leader_title =
+| leader_name =
+| unit_pref = US<!-- or UK --> <!-- ALL fields with measurements have automatic unit conversion --> <!-- for references: use <ref> tags -->
+| area_footnotes = 
+| area_total_acre =
+| area_land_sq_mi =
+| area_land_acre =
+| area_water_sq_mi =
+| area_water_acre =
+| area_water_percent =
+| area_urban_sq_mi =
+| area_urban_acre =
+| area_rural_sq_mi =
+| area_rural_acre =
+| area_metro_sq_mi =
+| area_metro_acre =
+| area_rank =
+| area_note =
+| length_mi =
+| width_mi =
+| elevation_footnotes =
+| population_total = 126,266,107
+| population_as_of = 2020<ref name="Census2020">{{cite web |title=Change in Resident Population of the 50 States, the District of Columbia, and Puerto Rico: 1910 to 2020 |url=https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/population-change-data-table.pdf |website=Census.gov |publisher=United States Census Bureau |accessdate=27 April 2021 |archive-url=https://web.archive.org/web/20210426202412/https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/population-change-data-table.pdf |archive-date=April 26, 2021|url-status=live }}</ref>
+| population_footnotes =
+| population_density_sq_mi= auto
+| population_demonym = Southerner, Southron (historically)
+| population_note =
+| timezone1 =
+| utc_offset1 =
+| timezone1_DST =
+| utc_offset1_DST =
+| postal_code_type =
+| postal_code =
+| area_code =
+| area_code_type =
+| iso_code =
+| unemployment_rate =
+| website = <!-- {{URL|example.com}} -->
+| footnotes =
+| etymology =
+| coordinates_region =
+| area_urban_footnotes = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes = <!-- <ref name="auto"/> -->
+| area_metro_footnotes = <!-- <ref name="auto"/> -->
+| blank_name_sec1         = Languages
+| blank_info_sec1         = {{Collapsible list
+  |framestyle=border:none; padding:0; <!--as above-->
+  |title= [[Creole languages]] 
+  | bullets = on
+  |1=[[Louisiana Creole|Kouri-Vini]] |2=[[Gullah language|Gullah]]}} {{Collapsible list
+  |framestyle=border:none; padding:0; <!--as above-->
+  |title=[[English language|English]] variants
+  | bullets = on
+  |1=[[African American English]] |2=[[Appalachian English]] |3=[[High Tider]] |4= [[Mid-Atlantic American English|Middle Atlantic]] |5=[[New Orleans English]] |6=[[Southern American English]] |7=[[Texan English]]}} {{Collapsible list
+  |framestyle=border:none; padding:0; <!--as above-->
+  |title=[[Indigenous languages of the Americas|Indigenous Languages]]
+  | bullets = on
+  |1=[[Alabama language|Alabama]] |2=[[Caddo language|Caddo]]|3=[[Catawban languages|Catawban]] |4=[[Comanche language|Comanche]] |5=[[Cherokee language|Cherokee]] |6=[[Chickasaw language|Chickasaw]] |7=[[Choctaw language|Choctaw]] |8=[[Kickapoo people|Kickapoo]] |9=[[Kosati language|Kosati]] |10=[[Mikasuki language|Mikasuki]] |11=[[Muskogean languages]] |12=[[Solano language|Solano]] |13=[[Southern Tiwa language|Southern Tiwa]] |14=[[Tunica language|Tunica]] |15=[[Tuscarora language|Tuscarora]]}}'''[[Louisiana French]]'''<br>'''[[Spanish language in the United States|Spanish]]'''<br>'''[[Texas German]]'''<br> 
+}}

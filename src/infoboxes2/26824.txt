@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Scriba, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Oswego County New York incorporated and unincorporated areas Scriba highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Oswego County, New York|Oswego County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Oswego County, New York|Oswego]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 113.73
+|area_land_km2            = 105.08
+|area_water_km2           = 8.66
+|area_total_sq_mi         = 43.91
+|area_land_sq_mi          = 40.57
+|area_water_sq_mi         = 3.34
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6840
+|population_density_km2   = 62.78
+|population_density_sq_mi = 162.60
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 143
+|elevation_ft             = 469
+|coordinates              = {{coord|43|28|5|N|76|24|56|W|region:US-NY|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 13126
+|area_code                = [[Area code 315|315]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-65992
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979478
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 6597
+}}

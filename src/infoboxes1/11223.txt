@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Quy Nhơn
+| official_name                   = Quy Nhơn City
+| other_name                      = 
+| native_name                     = Thành phố Quy Nhơn
+| nickname                        = 
+| settlement_type                 = [[Provincial city (Vietnam)|City (Class-1)]]<!-- e.g. Town, Village, City, etc.-->
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Thành phố Quy Nhơn.jpg
+| imagesize                       = 260
+| image_caption                   = Quy Nhơn
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = {{Infobox mapframe|frame-width=280|frame-height=280}}
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Vietnam <!-- the name of a location map as per http://web.archive.org/web/20090304143229/http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of in Vietnam
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Vietnam}}
+| subdivision_type1               = [[Provinces of Vietnam|Province]]
+| subdivision_name1               = [[Bình Định Province|Bình Định]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| seat_type                       = 
+| seat                            = <!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = Established city<!-- Settled -->
+| established_date                = 1986
+<!-- Area    --------------------->| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes                  = 
+| area_total_km2                  = 284 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_as_of                = 2019
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 457,400<ref name=ds09>{{cite web|title= Tổng điều tra dân số và nhà ở Việt Nam năm 2009: Kết quả toàn bộ|url=http://www.gso.gov.vn/Modules/Doc_Download.aspx?DocID=12724 |publisher=Ban chỉ đạo Tổng điều tra dân số và nhà ở trung ương |page=23}}</ref>
+| population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_density_sq_mi        = <!-- General information  --------------->
+| timezone                        = Indochina Time
+| utc_offset                      = +7
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Tropical savanna climate|Aw]]
+| coor_type                       = <!-- can be used to specify what the coordinates refer to -->
+| coordinates                     = {{coord|13|46|N|109|14|E|region:VN|display=inline}}
+}}

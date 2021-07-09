@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Xique-Xique
+|other_name             =
+|native_name            = Município de Xique-Xique
+|nickname               = 
+|settlement_type        = Municipality
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = Xique-Xique - bandeira.jpg
+|flag_size              = 
+|image_seal             = Xique-Xique - brasão.jpg
+|seal_size              =
+|image_map              = Bahia_Municip_XiqueXique.svg
+|mapsize                = 
+|map_caption            = Xique-Xique in the state of Bahia
+|pushpin_map            = Brazil
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Brazil
+|subdivision_type       = Country
+|subdivision_name       ={{flag|Brazil}}
+|subdivision_type1      = [[Regions of Brazil|Region]] 
+|subdivision_name1      =[[Northeast Region, Brazil|Nordeste]]
+|subdivision_type2      = [[States of Brazil|State]]
+|subdivision_name2      =[[Bahia]]
+|subdivision_type3      =
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Alfredo Ricardo Bessa Magalhães ([[Workers' Party (Brazil)|PT]], 2013–2016)
+|established_title      =  <!-- Settled -->
+|established_date       = 1832
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 5,502
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2020 <ref>[https://cidades.ibge.gov.br/brasil/ba/xique-xique/panorama IBGE 2020]</ref> 
+|population_footnotes           =
+|population_note                =
+|population_total               = 46,523
+|population_density_km2         =8.76
+<!-- General information  --------------->
+|timezone               = UTC −3
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|10|49|49|S|42|43|51|W|region:BR|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 402
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}

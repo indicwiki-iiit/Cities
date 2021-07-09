@@ -1,0 +1,90 @@
+{{Infobox settlement
+| name                            = Rolling Hills Estates, California
+| official_name                   = City of Rolling Hills Estates
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[City (California)|City]]
+| motto                           = 
+| image_skyline                   = Palos Verdes Street Fair & Music Festival 2011.jpg
+| imagesize                       = 
+| image_caption                   = Promenade on the Peninsula mall, Rolling Hills Estates
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Rolling_Hills_Estates_seal.jpg
+| image_map                       = LA County Incorporated Areas Rolling Hills Estates highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Rolling Hills Estates in [[Los Angeles County, California|Los Angeles County]], [[California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Flagu|United States|size=23px}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|California|size=23px}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Steven Zuckerman<ref>{{cite web |url = http://www.ci.rolling-hills-estates.ca.us/citycouncil/index.htm |title = RHE - City Council |access-date = 2007-01-18 |archive-url = https://web.archive.org/web/20090912052728/http://www.ci.rolling-hills-estates.ca.us/citycouncil/index.htm |archive-date = 2009-09-12 |url-status = dead }}</ref>
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = <!-- Founded -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = September 18, 1957<ref name=incorp>{{Cite web
+ |url          = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title        = California Cities by Incorporation Date
+ |format       = Word
+ |publisher    = California Association of [[Local Agency Formation Commission]]s
+ |access-date   = August 25, 2014
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = 2014-11-03
+ |url-status     = dead
+}}</ref>
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 3.63
+| area_land_sq_mi                 = 3.60
+| area_water_sq_mi                = 0.04
+| area_total_km2                  = 9.41
+| area_land_km2                   = 9.32
+| area_water_km2                  = 0.09
+| area_water_percent              = 1.22
+| area_note                       = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| population_as_of                = [[2010 United States Census|2010]]
+| population_note                 = 
+| population_total                = 8067
+| population_footnotes            = 
+| population_density_sq_mi        = 2239.58
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| coordinates                     = {{coord|33|46|25|N|118|21|39|W|region:US-CA|display=inline,title}}
+| elevation_footnotes             = <ref>{{Cite GNIS|1661326|Rolling Hills Estates|access-date=October 11, 2014}}</ref>
+| elevation_ft                    = 469
+| elevation_m                     = 143
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 90274, 90275<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Rolling%20Hills%20Estates | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | access-date = 2007-01-18}}</ref>
+| area_code                       = [[Area code 310|310]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|62644}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1661326}}, {{GNIS 4|2410987}}
+| website                         = {{URL|www.ci.rolling-hills-estates.ca.us}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 8058
+| population_density_km2          = 864.78
+}}

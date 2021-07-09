@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Benxi}}
+|official_name          = 
+|other_name             =
+|native_name            = {{lower|0.1em|本溪市}}
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Pingdinshan.jpg
+|imagesize              = 
+|image_caption          = 
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Benxi Prefecture within Liaoning (China).png
+|mapsize                =  
+|map_caption            = Location of Benxi City jurisdiction in Liaoning
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Liaoning
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Liaoning
+|pushpin_mapsize        =
+|pushpin_relief = yes
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Liaoning]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =Municipal seat
+|seat                   =[[Xihu District, Benxi|Xihu District]]
+|parts_type             =Districts and Counties
+|parts_style            =coll
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =Pingshan District
+|p2                     =Xihu District
+|p3                     =Mingshan District
+|p4                     =Nanfen District
+|p5                     =Benxi Manchu Autonomous County
+|p6                     =Huanren Manchu Autonomous County
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =[[Communist Party of China|CPC]] Benxi
+|leader_name            = Committee Secretary
+|leader_title1          =Mayor
+|leader_name1           =Tian Shuhuai ({{lang|zh-hans|田树槐}})
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 8435
+|area_land_km2            = 
+|area_water_km2           = 
+|area_water_percent       = 10
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1518.0 
+| area_urban_km2          = 1518.00 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 131
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           = <ref name=pop>[http://www.benxi.gov.cn/english/second/bxgk/zrdl.jsp bxgk<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080320021806/http://www.benxi.gov.cn/english/second/bxgk/zrdl.jsp |date=March 20, 2008 }}</ref>
+|population_note                =
+|population_total               = 1709538
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 935000
+| population_urban        = 855800
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/><!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coordinates            = {{coord|41.3039|N|123.7649|E|type:landmark_region:CN-21_source:Gaode|format=dms|display=i}}
+|coor_pinpoint = Benxi Bureau of Civil Affairs / {{nowrap|{{lang|zh-Hans-CN|本溪市民政局}}}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  [[Postal code of China|Postal code]]
+|postal_code            = 117000
+|area_code              =[[Telephone numbers in China|24]]
+|blank_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank_info             ={{lang|zh-cn|辽E}}
+|blank1_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank1_info            =210500
+|iso_code = [[ISO 3166-2:CN|CN-LN-05]]
+|website                = http://www.benxi.gov.cn/
+|footnotes              = 
+}}

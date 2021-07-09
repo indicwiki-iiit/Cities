@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = Elgin, Illinois
+| official_name                   = City of Elgin 
+| settlement_type                 = [[City]]
+| image_skyline                   = Downtown Elgin aerial view, 2018.jpg
+| image_alt                       = 
+| image_caption                   = Aerial view of Downtown Elgin
+| image_flag                      = Elgin, Illiniois logo.svg
+| flag_alt                        = 
+| image_seal                      = City_of_Elgin_-_Official_Seal.jpg
+| seal_alt                        = 
+| image_shield                    = 
+| shield_alt                      = 
+| nickname                  = The City in the Suburbs
+| motto                         = The Jewel of the Midwest
+| image_map                       = File:Cook County Illinois Incorporated and Unincorporated areas Elgin Highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location of Elgin in Kane and Cook County, Illinois
+| coordinates                     = {{coord|42|02|18|N|88|19|22|W|display=inline,title}}
+| coor_pinpoint                   = 
+| coordinates_footnotes           = <ref name="gnis"/>
+| subdivision_type = Country
+| subdivision_name                = {{US}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Illinois}}
+| subdivision_type2               = [[County (United States)|Counties]]
+| subdivision_name2               = [[Kane County, Illinois|Kane]], [[Cook County, Illinois|Cook]]
+| subdivision_type3               = [[Civil township|Townships]]
+| subdivision_name3               = [[Elgin Township, Kane County, Illinois|Elgin]], [[Dundee Township, Kane County, Illinois|Dundee]], [[Rutland Township, Kane County, Illinois|Rutland]], [[Plato Township, Kane County, Illinois|Plato]], [[Campton Township, Kane County, Illinois|Campton]], [[Hanover Township, Cook County, Illinois|Hanover]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1854
+| founder                         = 1835
+| seat_type                       = 
+| seat                            = 
+| government_footnotes            = 
+| government_type                 = [[Home Rule]], [[Council–manager government|Council–manager]]
+| leader_party                    = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[Dave Kaptain]]
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Rick Kozal
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes            = <!-- <ref> </ref> -->
+| area_rural_footnotes            = <!-- <ref> </ref> -->
+| area_metro_footnotes            = <!-- <ref> </ref> -->
+| area_magnitude                  = <!-- use only to set a special wikilink -->
+| area_note                       = 
+| area_water_percent              = 1.43
+| area_rank                       = 
+| area_blank1_title               = 
+| area_blank2_title               = <!-- square miles -->
+| area_total_sq_mi                = 38.09
+| area_land_sq_mi                 = 37.52
+| area_water_sq_mi                = 0.57
+| area_urban_sq_mi                = 
+| area_rural_sq_mi                = 
+| area_metro_sq_mi                = 
+| area_blank1_sq_mi               = 
+| area_blank2_sq_mi               = <!-- acres -->
+| length_mi                       = 
+| width_mi                        = 
+| dimensions_footnotes            = 
+| elevation_footnotes             = <ref name="gnis">{{Cite GNIS|2394641|City of Elgin}}</ref>
+| elevation_ft                    = 817
+| population_footnotes            = <ref name="quickfacts">{{cite web |title=Elgin (city), Illinois |url=http://quickfacts.census.gov/qfd/states/17/1723074.html |website=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=16 September 2014 |date=8 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20120626032010/http://quickfacts.census.gov/qfd/states/17/1723074.html |archive-date=26 June 2012 }}</ref>
+| population_total                = 108188
+| population_as_of                = [[2010 United States Census|2010]]
+| population_density_sq_mi        = 2954.79
+<!-- 2019 est. -->
+| population_demonym              = 
+| population_note                 = 
+| timezone1                       = [[Central Time Zone|Central]]
+| utc_offset1                     = &minus;6
+| timezone1_DST                   = Central
+| utc_offset1_DST                 = &minus;5
+| postal_code_type                = [[ZIP code|<span style="white-space:nowrap;">ZIP code(s)</span>]]
+| postal_code                     = 60120–60125
+| area_code_type                  = [[North American Numbering Plan|<span style="white-space:nowrap;">Area code(s)</span>]]
+| area_code                       = [[Area codes 630 and 331|331]], [[Area codes 847 and 224|847 and 224]]
+| iso_code                        = 
+| geocode                         = {{FIPS|17|23074}}
+| website                         = {{URL|cityofelgin.org}}
+| footnotes                       = <!-- demographics (section 1) -->
+| demographics_type1              = Standard of living ([[American Community Survey|2011]])
+| demographics1_footnotes         = 
+| demographics1_title1            = [[Median household income]]
+| demographics1_info1             = $56,091
+| demographics1_title2            = [[Real estate appraisal|Median home value]]
+| demographics1_info2             = $209,800
+| population_est                  = 110849
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| blank_name                      = [[Federal Information Processing Standards|FIPS code]]
+| blank_info                      = 17-23074
+| blank_name_sec2                 = Demonym
+| blank_info_sec2                 = Elginite
+| area_total_km2                  = 98.65
+| area_land_km2                   = 97.16
+| area_water_km2                  = 1.49
+| population_density_km2          = 1140.86
+}}

@@ -1,0 +1,69 @@
+{{Infobox settlement
+| name                            = Hudson Falls
+| settlement_type                 = [[Administrative divisions of New York#Village|Village]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Hudson Falls Historic District, July, 2014.jpg
+| imagesize                       = 250px
+| image_caption                   = Buildings in Hudson Falls, July, 2014
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Washington County New York incorporated and unincorporated areas Hudson Falls highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Washington County, New York|Washington County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[Administrative divisions of New York#County|County]]
+| subdivision_name2               = [[Washington County, New York|Washington]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = John Barton
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1810 as Sandy Hill, 1910 as Hudson Falls
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 4.98
+| area_land_km2                   = 4.82
+| area_water_km2                  = 0.15
+| area_total_sq_mi                = 1.92
+| area_land_sq_mi                 = 1.86
+| area_water_sq_mi                = 0.06
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| population_total                = 7281
+| population_density_km2          = 1462.68
+| population_density_sq_mi        = 3787.44
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 90
+| elevation_ft                    = 295
+| coordinates                     = {{coord|43|18|8|N|73|34|50|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 12839
+| area_code                       = [[Area code 518|518]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-35980
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0974163
+| website                         = {{URL|https://www.villageofhudsonfalls.com/|Village website}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 7056
+| official_name                   = 
+}}

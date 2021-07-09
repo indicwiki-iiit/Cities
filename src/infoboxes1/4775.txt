@@ -1,0 +1,53 @@
+{{Infobox settlement
+|name                   = Cité Soleil
+|official_name          = 
+|other_name             = 
+|native_name            = ''Site Solèy''
+|settlement_type        = [[List of communes of Haiti|Commune]]
+|image_skyline          = Cité soleil.JPG
+|image_caption          = Cité Soleil
+|pushpin_map            = Haiti <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_relief         = 1
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|coordinates            = {{coord|18|34|40|N|72|19|55|W|region:HT|display=inline,title}}
+|subdivision_type       = [[Country]]
+|subdivision_name       = {{flag|Haiti}}
+|subdivision_type1      = [[Department (country subdivision)|Department]]
+|subdivision_name1      = [[Ouest (department)|Ouest]]
+|subdivision_type2      = [[Arrondissements of Haiti|Arrondissement]]
+|subdivision_name2      = [[Port-au-Prince Arrondissement|Port-au-Prince]]
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = 
+|established_date       =
+|established_title2     =
+|established_date2      =
+|area_footnotes         =
+|area_total_km2         = 21.81
+|area_urban_km2         =
+|area_metro_km2         =
+|elevation_footnotes    = <!--for references: use <ref> tags-->
+|elevation_m            =
+|population_footnotes   = <ref name=IHSI>{{cite web |title=Mars 2015 Population Totale, Population de 18 ans et Plus Menages et Densites Estimes en 2015 |url=http://www.ihsi.ht/pdf/projection/Estimat_PopTotal_18ans_Menag2015.pdf |publisher=Institut Haïtien de Statistique et d’Informatique (IHSI) |access-date=6 January 2016 |url-status=dead |archive-url=https://web.archive.org/web/20151106110552/http://www.ihsi.ht/pdf/projection/Estimat_PopTotal_18ans_Menag2015.pdf |archive-date=6 November 2015 }}</ref>
+|population_as_of       = 2015 Est.
+|population_total       = 265,072
+|population_density_km2 = 12,154
+|population_metro       = 
+|population_density_metro_km2 =
+|population_urban       =
+|population_density_urban_km2 =
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = -5
+|timezone_DST           =
+|utc_offset_DST         =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                =
+|footnotes              =
+}}

@@ -1,0 +1,110 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name = Sumy
+| native_name = {{lang|uk|Суми}}
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = {{Photomontage|position=center
+ | photo1a                       = UkrainianAcademyOfBanking.JPG
+ | photo2a                       = Дзвіниця Спасо-Преображенського собору в Сумах.jpg
+ | photo2b                       = Сумський обласний художній музей ім. Никанора Онацького .jpg
+ | photo3a                       = Пам'ятник Тарасу.jpg
+ | photo3b                       = Сумська Альтанка зима ніч.jpg
+ | photo4a                       = Sumy Nezalezhnosti 19 Voskresens'ka Tserkva 05 (YDS 7866).JPG
+   | size                       = 270
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = Flag of Sumy.gif
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = Sumy-COA.PNG
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Ukraine Sumy Oblast#Ukraine
+| pushpin_label                   = Sumy
+| pushpin_label_position          = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = {{UKR}}
+| subdivision_type1               = [[Administrative divisions of Ukraine|Oblast]]
+| subdivision_name1               = [[Sumy Oblast]]
+| subdivision_type2               = Municipality
+| subdivision_name2               = Sumy
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->| seat_type                       = 
+| seat                            = 
+| parts_type                      = [[Urban districts of Ukraine|Urban districts]]
+| parts_style                     = list<!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+| parts                           = <!-- parts text, or header for parts list -->
+| p1                              = [[Kovpakivskyi District]]
+| p2                              = [[Zarichnyi District]]<!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = {{ill|Oleksandr Lysenko (politician)|uk|Лисенко Олександр Миколайович}}<ref>[https://www.atlanticcouncil.org/blogs/ukrainealert/mayoral-races-in-ukraine-city-by-city-runoff-preview/ Mayoral races in Ukraine: City-by-city runoff preview] UkraineAlert by [[Brian Mefford]], [[Atlantic Council]] (18 November 2020)</ref>
+|leader_party            = [[Batkivshchyna]]<ref>[https://www.atlanticcouncil.org/blogs/ukrainealert/national-parties-lose-out-to-local-candidates-in-ukraines-2020-municipal-elections/ National parties lose out to local candidates in Ukraine’s 2020 municipal elections] UkraineAlert by [[Brian Mefford]], [[Atlantic Council]] (12 December 2020)</ref>
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = Founded
+| established_date                = 1655
+<!-- Area    --------------------->| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes                  = 
+| area_total_km2                  = 145 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_as_of                = 2020
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 264981
+| population_density_km2          = auto 
+| population_density_sq_mi        = <!-- General information  --------------->
+| timezone                        = [[Eastern European Time|CET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|CEST]]
+| utc_offset_DST                  = +3
+| coor_type                       = <!-- can be used to specify what the coordinates refer to -->
+| coordinates                     = {{coord|50|55|N|34|45|E|region:UA|display=inline,title}}
+| postal_code_type                = Postal code
+| postal_code                     = 40000-40035
+| area_code                       = +380 542
+| website                         = http://www.meria.sumy.ua
+| blank_name_sec1                 = Twinned with
+| blank_info_sec1                 = [[Celle]] {{GER}}
+| blank1_name_sec1                = Twinned with
+| blank1_info_sec1                = [[Vratsa]] {{BUL}}
+| footnotes                       = 
+| official_name                   = 
+}}

@@ -1,0 +1,32 @@
+{{Infobox Australian place| type = suburb
+| name     = East Ballina
+| city     = 
+| state    = nsw
+| image    = 
+| caption  = 
+| coordinates ={{coord |-28.8595|153.5833|format=dms|display=inline,title}}
+<!-- http://www.openstreetmap.org/?mlat=-28.8595&mlon=153.5833#map=16/-28.8595/153.5833 -->
+| coord_ref =
+| lga      = [[Ballina Shire]]
+| region   = [[New South Wales North Coast|NSW North Coast]]
+| postcode = 2478
+| est      = 
+| pop      = 5,571
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=census>{{Census 2016 AUS|id=SSC11345|name=East Ballina (State Suburb)|accessdate=23 March 2018|quick=on}}</ref>
+| area     = 
+| stategov = 
+| fedgov   = 
+| fedgov2  = 
+| near-nw  = 
+| near-ne  = 
+| near-n  = 
+| near-w   = 
+| near-e   = 
+| near-sw  = 
+| near-s   = 
+| near-se  = 
+| dist1    = 
+| dir1     = 
+| location1= 
+}}

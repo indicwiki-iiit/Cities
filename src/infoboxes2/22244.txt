@@ -1,0 +1,69 @@
+{{Infobox settlement
+|official_name            = Luling, Texas
+|settlement_type          = [[City]]
+<!-- Images -->
+|image_skyline            = Oil patch museum 2012.jpg
+|imagesize                = 
+|image_caption            = Museum, Downtown Luling
+
+<!-- Maps -->
+|image_map =  {{maplink|frame=yes|plain=yes|type=line|stroke-width=4|frame-coordinates={{Coord|29.6806|-97.6456}}|coord={{Coord|29.6806|-97.6456}}|zoom=9|Q973047}}
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagicon|USA}}United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flagicon|Texas}}[[Texas]]
+|subdivision_type2        = [[List of counties in Texas|Counties]]
+|subdivision_name2        = [[Caldwell County, Texas|Caldwell]], [[Guadalupe County, Texas|Guadalupe]]
+<!-- Government -->
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = John Wells (''[[pro tempore|pro-tem]]'')
+|leader_title1            = [[City Council]]
+|leader_name1             = Jackie Campbell  <br/> John Wells <br/> John Bell <br/> James Nickells  <br/> Woody Cox
+|leader_title2            = [[City Manager]]
+|leader_name2             = Boskyler Harmoner
+|website                  = {{URL|www.cityofluling.net}}
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_total_km2           = 14.38
+|area_land_km2            = 14.27
+|area_water_km2           = 0.11
+|area_total_sq_mi         = 5.55
+|area_land_sq_mi          = 5.51
+|area_water_sq_mi         = 0.04
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010" /> 
+|population_total         = 5411
+|population_density_km2   = 411.22
+|population_density_sq_mi = 1065.15
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name="GR4">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic|title=Geographic Names Information System|access-date=2008-01-31|publisher=[[United States Geological Survey]]}}</ref>
+|elevation_m              = 125
+|elevation_ft             = 410
+|coordinates              = {{coord|29|40|50|N|97|38|44|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 78648
+|area_code                = [[Area code 830|830]] Exchange: 875
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-45096
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1340735<ref name=GNIS>{{gnis|1340735|Luling}}</ref>
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5869
+}}

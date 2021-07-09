@@ -1,0 +1,57 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = Korishë
+| native_name = 
+{{unbulleted list |item_style=font-size:81%;
+ |{{native name|sq|Korishë|italics=off}}
+ |{{native name|sr|Кориша/Koriša|italics=off}}
+}}
+| settlement_type         = [[Village]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           =
+| image_flag              = 
+| image_seal              =  
+| seal_size               =
+| image_shield            = 
+| shield_size             =
+| pushpin_map             = Kosovo
+| pushpin_label_position  = top
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 
+| pushpin_map_caption     = 
+| coordinates             = {{coord|42.257603|20.798058|region:RK|display=inline,title}}
+| subdivision_type        = Location
+| subdivision_name        = {{flag|Kosovo}}{{efn|name=status}}
+| subdivision_type1       = [[Districts of Kosovo|District]]
+| subdivision_name1       = [[District of Prizren|Prizren]]
+| subdivision_type2       = [[Municipalities of Kosovo|Municipality]]
+| subdivision_name2       = [[Prizren]]
+| government_footnotes    =
+| government_type         =
+| leader_title            =
+| leader_name             = 
+| established_title       = 
+| established_date        = 
+| area_footnotes          =
+| area_total_km2          = 
+| area_land_km2           = 
+| elevation_footnotes     =  <!--for references: use <ref> </ref> tags-->
+| elevation_m             = 
+| elevation_ft            = 
+| population_as_of        = 2011
+| population_footnotes    = <ref>[http://pop-stat.mashke.org/kosovo-ethnic-loc2011.htm 2011 Kosovo Census results]</ref>
+| population_total        = 5279
+| population_density_km2  = auto
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| area_code               =
+| blank_name              = 
+| blank_info              = 
+| website                 = 
+| footnotes               =
+}}

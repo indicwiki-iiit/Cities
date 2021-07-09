@@ -1,0 +1,22 @@
+{{Infobox UK place
+| country                  = England
+| official_name            = Calverley
+| coordinates              = {{coord|53.8266|-1.6908|display=inline,title}}
+| pushpin_map              = United Kingdom Leeds
+| population               = 22,594
+| population_ref           = (Ward. Calverley and Farsley. [[United Kingdom Census 2011|2011 census]])<ref name="2011 census"/>
+| metropolitan_borough     = [[City of Leeds]]
+| metropolitan_county      = [[West Yorkshire]]
+| region                   = Yorkshire and the Humber
+| constituency_westminster = [[Pudsey (UK Parliament constituency)|Pudsey]]
+|historic_county=[[Yorkshire]]
+| post_town                = PUDSEY
+| postcode_area            = LS
+| postcode_district        = LS28
+| dial_code                = 0113
+| os_grid_reference        = SE209368
+| static_image             = WilfredsCalverley.JPG
+| static_image_caption     = Calverley Parish Church
+| london_distance_mi       = 170<!-- straight line per MOS – constant and comparable with other place distances -->
+| london_direction         = SSE
+}}

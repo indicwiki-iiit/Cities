@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name = Indio
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = City of Indio
+|settlement_type          = [[List of cities and towns in California|City]]
+<!-- Images and maps ------>
+|image_skyline            = Sniff's Date Shop, National Date Festival postcard (1950s).jpg
+|imagesize                = 260px
+|image_caption            = Indio during the 1950s: Stan Sniff, a local date grower's booth at the annual National Date Festival and Riverside County Fair, selling dates, which are one of the region's most popular crops
+|image_seal               = 
+|nickname                 = The City of Festivals
+|motto                    = "The place to be"<ref>{{cite web|url=  http://www.indio.org/|title= City of Indio, California|publisher= City of Indio, California |access-date= September 12, 2012}}</ref>
+|image_map                = File:Riverside County California Incorporated and Unincorporated areas Indio Highlighted 0636448.svg
+|mapsize                  = 250px
+|map_caption              = Location of Indio in Riverside County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA California Southern#California#USA
+| pushpin_label = Indio
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 
+<!-- Location ------------->
+|coordinates              = {{coord|33|43|14|N|116|12|56|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    =<ref name=GNIS>{{Cite GNIS|1652727|Indio|access-date=November 11, 2014}}</ref>
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Riverside County, California|Riverside]]
+<!-- History -------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 16, 1930<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+
+}}</ref>
+<!-- Government ----------->
+|government_type          = [[Council–manager government|City Council–City Manager]]<ref>{{cite web |url=http://indio.org/index.aspx?page=110 |title=City Council |publisher=City of Indio |access-date=April 9, 2015 |archive-url=https://archive.today/20150410053826/http://indio.org/index.aspx?page=110 |archive-date=April 10, 2015 |url-status=dead }}</ref>
+|leader_title             = Mayor
+|leader_name              = Lupe Ramos<ref>{{cite web |url=http://indio.org/your_government/city_council/default.htm |title=City of Indio – City Council |publisher=City of Indio |access-date=January 12, 2018}}</ref>
+<!-- Area ----------------->
+|unit_pref                = Imperial
+|area_footnotes           =<ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 33.23
+|area_total_km2           = 86.08
+|area_land_sq_mi          = 33.23
+|area_land_km2            = 86.06
+|area_water_sq_mi         = 0.01
+|area_water_km2           = 0.02
+|area_water_percent       = 0.03
+<!-- Area ----------------->
+|elevation_footnotes      =<ref name=GNIS/>
+|elevation_ft             = −13
+|elevation_m              = −4
+<!-- Population ----------->
+|population_as_of         = 2010
+|population_footnotes     =<ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0636448.html |title=Indio (city) QuickFacts |publisher=[[United States Census Bureau]] |access-date=February 8, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20120704060004/http://quickfacts.census.gov/qfd/states/06/0636448.html |archive-date=July 4, 2012 }}</ref>
+|population_total         = 76036
+|pop_est_as_of            = 2019
+|pop_est_footnotes        =<ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 91765
+|population_rank         = [[List of largest California cities by population|85th]] in California
+|population_density_km2   = 1066.33
+|population_metro         = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 92201–92203
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|36448}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652727}}, {{GNIS 4|2410101}}
+|website                  = {{URL|indio.org}}
+|population_density_sq_mi = 2761.76
+}}

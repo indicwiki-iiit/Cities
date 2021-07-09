@@ -1,0 +1,37 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Tokat
+| settlement_type         = [[Municipality]]
+| image_skyline           = Tokat panorama 2012.JPG
+| image_caption           = [[Yeşilırmak River]] (Yeşilırmak) and Tokat views. 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|18|50|N|36|33|15|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Tokat Province|Tokat]]
+| subdivision_type2       = 
+| subdivision_name2       =
+| timezone                = [[Time in Turkey|TRT]]
+| utc_offset              = +3 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title1           = [[Mayor]]
+| leader_name1            = Eyüp Eroğlu
+| leader_title2           = [[Governor]]
+| leader_name2            = Ozan Balcı
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Tokat|Tokat}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Tokat}}
+| population_urban        = {{Turkey district populations|Tokat|Tokat|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Tokat|Tokat|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = [[postal code]]
+| postal_code             = 60100, 60200
+| area_code               = +90 356
+| website                 =            {{URL| www.tokat.gov.tr | www.tokat.gov.tr }}
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Hartsville, South Carolina
+|settlement_type          = [[City]]
+|motto                    = "A small town with a big heart"<ref>[http://www.hartsvillesc.gov Hartsville official website]. Hartsvillesc.gov (April 15, 2016). Retrieved on 2016-04-29.</ref>
+|image_flag               = 
+|image_blank_emblem               = City of Hartsville, SC Logo.png
+|blank_emblem_size                  = 200px
+|image_skyline = File:Hartsville_SC.jpg
+|image_caption = Downtown Hartsville, SC
+<!-- Maps -->
+|image_map                = SCMap-doton-Hartsville.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Hartsville, South Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[South Carolina]]
+|subdivision_type2        = [[List of counties in South Carolina|County]]
+|subdivision_name2        = [[Darlington County, South Carolina|Darlington]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Council-manager
+|leader_title             = Mayor
+|leader_name              = Mel Pennington
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Town of Hartsville
+|established_date         = December 11, 1891
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.55
+|area_land_km2            = 15.34
+|area_water_km2           = 1.21
+|area_total_sq_mi         = 6.39
+|area_land_sq_mi          = 5.92
+|area_water_sq_mi         = 0.47
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7764
+|population_density_km2   = 491.66
+|population_density_sq_mi = 1273.34
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 66
+|elevation_ft             = 217
+|coordinates              = {{coord|34|22|10|N|80|4|51|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 29550, 29551
+|area_code                = [[Area codes 843 and 854|843, 854]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 45-32560<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1231367<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|www.hartsvillesc.gov}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7542
+}}

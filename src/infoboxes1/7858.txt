@@ -1,0 +1,34 @@
+{{Infobox company
+| name = Hitachi, Ltd.
+| native_name = 株式会社日立製作所
+| romanized_name = Kabushiki gaisha Hitachi Seisaku-sho<br>lit. "Share Company Hitachi Manufacturing Plant"
+| native_name_lang = ja
+| logo = Hitachi Logo.svg
+| logo_caption = Logo since 1992
+| image = Nippon Life Insurance Company,Marunouchi.JPG
+| image_size = 250px
+| image_caption = Hitachi Headquarters in [[Marunouchi]]
+| type = [[Public company|Public]] [[Kabushiki gaisha|KK]]
+| traded_as = {{plainlist|
+*{{TYO|6501}}
+*{{NAG|6501}}
+*[[Nikkei 225]] component (TYO)
+*[[TOPIX]] Core30 component (TYO)}}
+| foundation = {{start date and age|1908}}<br />[[Hitachi, Ibaraki]], Japan
+| founder = [[Namihei Odaira]]
+| location_city = [[Marunouchi]], [[Chiyoda-ku, Tokyo]]
+| location_country = Japan
+| area_served = Worldwide
+| key_people = {{ubl|[[Hiroaki Nakanishi]]<br>{{small|(Executive Chairman)}}|Toshiaki Higashihara<br>{{small|(President and CEO)}}}}
+| revenue = {{decrease}} {{JPY|8.767 trillion|link=yes}} (2020)<ref name="10K">{{cite web |url=https://www.hitachi.com/IR-e/library/integrated/2020/ar2020e.pdf |title=Hitachi Financial Statements|publisher=Hitachi}}</ref>
+| operating_income = {{decrease}} {{JPY|661.9 billion}} (2020)<ref name=10K />
+| net_income = {{decrease}} {{JPY|89.4 billion}} (2020)<ref name=10K />
+| assets = {{decrease}} {{JPY|9.930 trillion}} (2020)<ref name=10K />
+| equity = {{decrease}} {{JPY|4.266 trillion}} (2020)<ref name=10K />
+| num_employees = 295,941 (2020)<ref>{{cite web|url=http://www.hitachi.com/about/corporate/index.html|title=Corporate Profile|access-date=8 October 2014|archive-url=https://web.archive.org/web/20190305070058/http://www.hitachi.com/about/corporate/index.html|archive-date=5 March 2019|url-status=dead}}</ref>
+| industry = [[Conglomerate (company)|Conglomerate]]
+| products = {{hlist |[[Electronics]]|[[Industrial machinery]]||[[Power plant]]s|[[Information system]]|[[Materials]]|[[Auto part]]s|[[Rolling stock]]||[[Elevator]] & [[Escalator]]|[[Military technology|Defense technology]]|[[Heavy equipment]]|[[Supercomputer]]s<ref>{{cite web |title=Super Technical Server HITACHI SR24000 |url=http://www.hitachi.co.jp/Prod/comp/hpc/SR_series/sr24000/index_en.html |website=www.hitachi.co.jp}}</ref><ref>{{cite web |title=SR24000：技術計算向けサーバ：日立 |url=http://www.hitachi.co.jp/Prod/comp/hpc/SR_series/sr24000/index.html |website=www.hitachi.co.jp |language=ja}}</ref>|[[Semiconductor equipment sales leaders by year|Semiconductor manufacturing equipment]]}}
+| services = {{hlist |[[Internet of Things|IoT]]|[[Consulting]]|[[Logistics]]}}
+{{hidden|Former|[[Financial service]]s}}
+| homepage = {{URL|www.hitachi.com}}
+}}

@@ -1,0 +1,29 @@
+{{Infobox UK place
+| official_name                    = Paisley
+| type                             = [[Town]] and [[administrative centre]]
+| scots_name                       = Paisley
+| gaelic_name                      = Pàislig
+| country                          = Scotland
+| population = {{Scottish locality populations|name|POP=Paisley}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+| population_density               = 
+| os_grid_reference                = NS485635
+|language = English, Scots
+| edinburgh_distance               = {{convert|49|mi|km|abbr=on}} [[Boxing the compass|E]]
+| coordinates                      = {{coord|55.846627|-4.423636|display=inline,title}}
+| historic_county = [[Renfrewshire]]
+|post_town                        = PAISLEY
+| postcode_area                    = PA
+| postcode_district                = PA1 – PA3
+| dial_code                        = 0141 & 01505
+| constituency_westminster         = [[Paisley and Renfrewshire North (UK Parliament constituency)|Paisley and Renfrewshire North]]
+| constituency_westminster1        = [[Paisley and Renfrewshire South (UK Parliament constituency)|Paisley and Renfrewshire South]]
+| unitary_scotland                 = [[Renfrewshire]]
+| lieutenancy_scotland             = [[Renfrewshire (historic)|Renfrewshire]]
+| constituency_scottish_parliament = [[Paisley (Scottish Parliament constituency)|Paisley]] <br />
+[[West Scotland (Scottish Parliament electoral region)|West Scotland]] 
+| static_image_name                = File:Paisley, White Cart Water, from Seedhill.jpg
+| static_image_width               = 280px
+| static_image_caption             = Paisley town centre with White Cart Water. Taken from Seedhill.
+| website                          = {{url|paisley.org.uk}}
+}}

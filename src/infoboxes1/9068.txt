@@ -1,0 +1,108 @@
+{{Infobox settlement
+|name          = Ahmadpur East Tehsil
+|native_name                   = {{nq|تحصیل احمدپور شرقیہ}}
+|other_name             = 
+|settlement_type        =[[Tehsil]]
+|nickname               =  
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Pakistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Pakistan
+|pushpin_mapsize        =300
+<!-- Location ------------------>
+|subdivision_type       = [[Country]]
+|subdivision_name       = {{flagu|Pakistan}}
+|subdivision_type1      = [[Provinces of Pakistan|Province]]
+|subdivision_name1      = {{flagicon|Punjab, Pakistan}}&nbsp;[[Punjab (Pakistan)|Punjab]]
+|subdivision_type2      = [[Districts of Pakistan|District]]
+|subdivision_name2      = [[Bahawalpur District|Bahawalpur]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =[[2017 Census of Pakistan|2017]]
+|population_footnotes           = <ref name="census2017">{{cite web|url=http://www.pbscensus.gov.pk/sites/default/files/bwpsr/punjab/BAHAWALPUR_SUMMARY.pdf|title=DISTRICT AND TEHSIL LEVEL POPULATION SUMMARY WITH REGION BREAKUP: PUNJAB|date=2018-01-03|access-date=2018-04-24|publisher=[[Pakistan Bureau of Statistics]]|archive-url=https://web.archive.org/web/20180425114531/http://www.pbscensus.gov.pk/sites/default/files/bwpsr/punjab/BAHAWALPUR_SUMMARY.pdf|archive-date=2018-04-25|url-status=dead}}</ref>
+|Union Councils                = 32
+|population_total               = 1,078,683
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =  175,977
+|population_rural =  902,706
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Pakistan Standard Time|PST]]
+|utc_offset             = +5
+|coordinates            = {{coord|29|09|N|71|16|E|region:PK|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =63350
+|area_code              =06222
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

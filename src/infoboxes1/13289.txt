@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                            = Esch-sur-Alzette
+| native_name                     = Esch-Uelzecht
+| native_name_lang                = lb<!-- ISO 639-2 code e.g. "lb" for Luxembourgish -->
+| settlement_type                 = [[List of communes of Luxembourg|Commune]]
+| image_skyline                   = Esch vum Bierg1.JPG
+| image_caption                   = The town seen from the ''Gaalgebierg'' park
+| image_shield                    = Coat of arms esch alzette luxbrg.png
+| shield_size                     = 100x80px
+| image_map                       = Map Esch-sur-Alzette.PNG
+| mapsize                         = 200px
+| map_caption                     = Map of Luxembourg with Esch-sur-Alzette highlighted in orange, and the canton in dark red
+| coordinates                     = {{coord|3=region:LU_type:adm3rd|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Luxembourg}}
+| subdivision_type1               = [[Cantons of Luxembourg|Canton]]
+| subdivision_name1               = [[Esch-sur-Alzette (canton)|Esch-sur-Alzette]]
+| leader_party                    = [[Christian Social People's Party|CSV]]
+| leader_title                    = Mayor
+| leader_name                     = Mischo Georges
+| unit_pref                       = Metric<!-- or US or UK -->
+| area_total_km2                  = {{Luxembourg commune area|LAU2=0204}}
+| area_rank                       = {{Luxembourg commune area rank|LAU2=0204}} of 102
+| elevation_max_m                 = {{Luxembourg commune high|LAU2=0204}}
+| elevation_max_rank              = {{Luxembourg commune high rank|LAU2=0204}} of 102
+| elevation_min_m                 = {{Luxembourg commune low|LAU2=0204}}
+| elevation_min_rank              = {{Luxembourg commune low rank|LAU2=0204}} of 102
+| population_total                = 36218
+| population_as_of                = 2020
+| population_rank                 = {{Luxembourg commune population rank|LAU2=0204}} of 102
+| population_density_km2          = auto
+| population_density_rank         = {{Luxembourg commune density rank|LAU2=0204}} of 102
+| timezone1                       = [[Central European Time|CET]]
+| utc_offset1                     = +1
+| timezone1_DST                   = [[Central European Summer Time|CEST]]
+| utc_offset1_DST                 = +2
+| blank_name_sec1                 = [[Local administrative unit|LAU 2]]
+| blank_info_sec1                 = LU0000204
+| website                         = [http://www.esch.lu esch.lu]
+}}

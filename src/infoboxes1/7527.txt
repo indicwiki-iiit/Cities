@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Bnei Brak
+| native_name            = {{Lang|he|{{Script/Hebrew|בְּנֵי בְּרַק}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| image_skyline          = Bnei Brak IMG 5863.JPG
+| image_flag             = Flag of Bnei Brak.svg
+| image_blank_emblem     = Coat of arms of Bnei Brak.png
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel#Israel center ta
+| pushpin_mapsize        = 
+| pushpin_label_position = bottom
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|05|N|34|50|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Tel Aviv District|name=Tel Aviv}}
+| established_title      = Founded
+| established_date       = 1924
+| leader_title           = Mayor
+| leader_name            = Avraham Rubinstein
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:7088|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Bene Beraq}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = [http://www.bnei-brak.muni.il/ www.bnei-brak.muni.il]
+}}

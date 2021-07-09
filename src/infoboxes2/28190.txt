@@ -1,0 +1,25 @@
+{{Infobox Australian place | type = town
+| name     = Berri 
+| state    = sa
+| image    = BerriFromScenicLookout.JPG
+| caption  = Looking over Berri and the Murray River from the scenic lookout
+| coordinates = {{coord|34|17|S|140|36|E|display=inline,title}}
+| pushpin_label_position =left
+| lga      = [[Berri Barmera Council]]
+| postcode = 5343
+| pop      = 4,088
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref>{{Census 2016 AUS | id = UCL40096 | name = Berri (Urban Centre/Locality) | quick = on | access-date=2021-01-01}}</ref>
+| est      = 1911
+| elevation= 31
+| maxtemp  = 23.3
+| mintemp  = 10.2
+| rainfall = 296.9
+| stategov = [[Electoral district of Chaffey|Chaffey]]
+| fedgov   = [[Division of Barker|Barker]]
+| dist1    = 238
+| location1= Adelaide
+| near-ne  = [[Renmark, South Australia|Renmark]]
+| near-w   = [[Barmera, South Australia|Barmera]]
+| near-s   = [[Loxton, South Australia|Loxton]]
+}}

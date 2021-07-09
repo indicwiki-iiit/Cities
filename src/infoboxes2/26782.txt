@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = Belle Plaine, Kansas
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = Belle-plaine-water-tower.jpg
+|image_caption            = Belle Plaine water tower (Jan 2017)
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Sumner_County_Kansas_Incorporated_and_Unincorporated_areas_Belle_Plaine_Highlighted.svg
+|map_caption              = Location within [[Sumner County, Kansas|Sumner County]] and [[Kansas]]
+|image_map1               = Map of Sumner Co, Ks, USA.png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Sumner County, Kansas|Sumner County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|37|23|39|N|97|16|45|W|region:US-KS_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name2        = [[Sumner County, Kansas|Sumner]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        = 
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1871
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1884
+|named_for                = ''beautiful plain''
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|accessdate=July 24, 2020}}</ref>
+|area_total_sq_mi         = 0.83
+|area_land_sq_mi          = 0.83
+|area_water_sq_mi         = 0.00
+|area_total_km2           = 2.15
+|area_land_km2            = 2.15
+|area_water_km2           = 0.00
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_ft             = 1224
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 1681
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 1556
+|population_density_sq_mi = 1872.44
+|population_density_km2   = 722.89
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 67013
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 620|620]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-05500 <ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |accessdate=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0470240 <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.bpks.org/|bpks.org}}
+}}

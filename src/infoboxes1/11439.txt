@@ -1,0 +1,30 @@
+{{Infobox Australian place | type = suburb
+| name     = Northcote
+| city     = Melbourne
+| state    = VIC 
+| image    = Northcote Town Hall 01a.jpg
+| caption  = Northcote Town Hall
+| lga      = City of Darebin
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37.7722|S|144.9994|E|display=inline,title}}
+| postcode = 3070
+| pop      = 24,561 
+| pop_year = 2016
+| pop_footnotes =<ref name="abs">{{Census 2016 AUS | id = SSC21959 | name = Northcote (State Suburb) | accessdate = 2017-07-03 | quick = on}}</ref>
+| area     = 6.3
+| est      =
+| stategov = [[Electoral district of Northcote|Northcote]]
+| fedgov   = [[Division of Cooper|Cooper]]
+| dist1    = 7
+| location1= [[Melbourne city centre|Melbourne]]
+| dist2    =
+| location2=
+| near-nw  = [[Brunswick East, Victoria|Brunswick East]]
+| near-n   = [[Thornbury, Victoria|Thornbury]]
+| near-ne  = [[Thornbury, Victoria|Thornbury]]
+| near-w   = [[Brunswick East, Victoria|Brunswick East]]
+| near-e   = [[Fairfield, Victoria|Fairfield]]
+| near-sw  = [[Fitzroy North, Victoria|Fitzroy North]]
+| near-s   = [[Clifton Hill, Victoria|Clifton Hill]]
+| near-se  = [[Fairfield, Victoria|Fairfield]]
+}}

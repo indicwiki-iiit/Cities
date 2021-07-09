@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Alpharetta, Georgia
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Alpharetta, Georgia City Hall.jpg
+|imagesize                = 
+|image_caption            = Alpharetta City Hall
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_map                = Fulton County Georgia Municipalities Map Alpharetta Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Fulton County, Georgia|Fulton County]] and the state of [[Georgia (U.S. state)|Georgia]]
+|pushpin_map              = Metro Atlanta#USA Georgia#USA#North America
+|pushpin_label = Alpharetta
+|pushpin_label_position   = 
+|pushpin_map_caption      = Location of Alpharetta in [[Metro Atlanta]]
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Georgia (U.S. state)|Georgia]]
+|subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+|subdivision_name2        = [[Fulton County, Georgia|Fulton]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = [[Jim Gilvin]]
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = December 11, 1858
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = <!-- Area    --------------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+|area_total_km2           = 70.62
+|area_land_km2            = 69.68
+|area_water_km2           = 0.95
+|area_total_sq_mi         = 27.27
+|area_land_sq_mi          = 26.90
+|area_water_sq_mi         = 0.37
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population               = 57551
+|pop_est_as_of            = 2019
+|population_footnotes     = 
+|population_note          = 
+|population_est           = 65800
+|population_density_km2   = 964.66
+<!--for 2019 pop est.-->
+|population_density_sq_mi = 2498.44
+|timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset               = &minus;5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = &minus;4
+|coordinates              = {{coord|34|04|24|N|84|16|52|W|type:city_region:US-GA|display=it}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 346
+|elevation_ft             = 1135
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 30004, 30005, 30009, 30022
+|area_codes                = [[Area code 770|770]], 404, 678
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 13-01696
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0310497<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007|archive-url=https://web.archive.org/web/20120204035720/http://geonames.usgs.gov/|archive-date=February 4, 2012|url-status=live}}</ref>
+|website                  = {{URL|https://www.alpharetta.ga.us/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_total = 57551
+}}

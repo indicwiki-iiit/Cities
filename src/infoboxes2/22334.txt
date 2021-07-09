@@ -1,0 +1,34 @@
+{{Infobox settlement
+|official_name          = Bollnäs
+|image_skyline          = Bollnäs Missionskyrka.JPG
+|image_caption          = Bollnäs Missionskyrka
+|image_shield           = 
+|pushpin_map            = Sweden Gävleborg#Sweden
+|pushpin_label_position = 
+|subdivision_type       = [[Country]]
+|subdivision_name       = [[Sweden]]
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Bollnäs Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Gävleborg County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Hälsingland]]
+|established_title      = Charter
+|established_date       = 1942
+|area_footnotes         = <ref name=scb>{{cite web |url=http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |title=Tätorternas landareal, folkmängd och invånare per km<sup>2</sup> 2005 och 2010 |date=14 December 2011 |publisher=[[Statistics Sweden]] |language=sv |archive-url=https://web.archive.org/web/20120127055525/http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |archive-date=27 January 2012 |url-status=live |access-date=10 January 2012 }}</ref>
+|area_total_km2         = 12.87
+|population_as_of       = 31 December 2010
+|population_footnotes   = <ref name=scb />
+|population_total       = 12,842 <!-- This is the official figure from Statistics Sweden (Statistiska centralbyrån). -->
+|population_density_km2 = 998
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|61|20|53|N|16|23|41|E|region:SE|display=inline,title}}
+|elevation_m            = 53
+|postal_code_type       = Postal code
+|postal_code            = 821 xx
+|area_code              = (+46) 278
+|website                = {{official_website|www.bollnas.se}}
+}}

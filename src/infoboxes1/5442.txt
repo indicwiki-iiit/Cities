@@ -1,0 +1,110 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name           = {{raise|0.2em|Zhangjiakou}}
+|official_name          = 
+|other_name             = Changchiakow, Kalgan
+|native_name            = {{lower|0.1em|张家口市}}
+|native_name_lang = zh-Hans
+|nickname               = Pearl of the [[Great Wall]] ({{lang|zh-hans|塞外明珠}})
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+|photo1a                = 清河岸上是我家 - panoramio.jpg
+|photo2a                = Gulou of Xuanhua.jpg
+|photo2b                = 雪夜大境门，闪烁的是 警灯 - panoramio.jpg
+|photo2c                = 五一广场放礼花 - panoramio.jpg
+|photo3a                = Tong Bridge of zhangjiakou,Nov 13,2009.jpg
+|spacing                = 2
+|size                   = 280
+}}
+|image_caption          = Clockwise from the top: Qingshui riverfront, downtown fireworks, Tong Bridge, Qingyuan Building, [[Dajingmen]]
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=6}}
+|image_map1             = Location_of_Zhangjiakou_Prefecture_within_Hebei_(China).png
+|mapsize1               = 250px
+|map_caption1           = Location of Zhangjiakou City jurisdiction in Hebei
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China Hebei#China Northern Plain#China
+|pushpin_label_position = left
+|pushpin_map_caption    = Location of the city centre in Hebei
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Hebei]]
+|subdivision_type2      =
+|subdivision_name2      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = Municipal seat
+|seat                   = [[Qiaodong District, Zhangjiakou|Qiaodong District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[CPC Party Chief|Party Secretary]]
+|leader_name            = [[Hui Jian]] ({{lang|zh-hans|回建}})
+|leader_title1          = Mayor
+|leader_name1           = [[Wu Weidong]] ({{lang|zh-hans|武卫东}})
+|established_title      = Settled
+|established_date       = 2500 B.C.
+|established_title2     = Established
+|established_date2      = November 15, 1983
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 36861.56
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 6963.8 
+| area_urban_km2          = 407.21 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref><!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 716
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               =4650000
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 2137000
+| population_urban        = 1055900
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+|pop_est_as_of                  =
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_density_urban_km2   =auto
+<!-- General information  --------------->
+|timezone1               = [[China Standard Time|China Standard]]
+|utc_offset1             = +8
+|coor_pinpoint = Zhangjiakou municipal government
+|coordinates            = {{coord|40.769|N|114.886|E|type:adm2nd_region:CN-13_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            =
+|area_code              =
+|iso_code = [[ISO 3166-2:CN|CN-HE-07]]
+|website = {{URL|www.zjk.gov.cn}}
+|footnotes              =
+|blank_name             = [[Vehicle registration plates of China|Licence plate prefixes]]
+|blank_info             = {{lang|zh-cn|冀G}}
+}}

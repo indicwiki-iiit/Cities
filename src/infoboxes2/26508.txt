@@ -1,0 +1,23 @@
+{{Infobox UK place
+|country =                 England
+|coordinates =             {{coord|53.83|-1.96|display=inline,title}}
+|official_name=            Haworth
+|population =              6,379
+|population_ref =          ([[United Kingdom Census 2011|2011 census]])<ref>{{NOMIS2011|id=1119884265|title=Haworth Built-up area|access-date=27 March 2018}}</ref>
+|metropolitan_borough =    [[City of Bradford]]
+|metropolitan_county =     [[West Yorkshire]]
+|region=                   Yorkshire and the Humber
+|constituency_westminster= [[Keighley (UK Parliament constituency)|Keighley]]
+|civil_parish=             [[Haworth, Cross Roads and Stanbury]]
+|historic_county = [[Yorkshire]]
+|post_town=                KEIGHLEY
+|postcode_district =       BD22
+|postcode_area=            BD
+|dial_code=                01535
+|os_grid_reference=        SE030372
+|static_image_name=        Haworth Main Street - panoramio.jpg
+|static_image_width=       250
+|static_image_caption=     Main Street
+|london_distance_mi =      180<!-- straight line per MOS – constant and comparable with other place distances -->
+|london_direction =        SSE
+}}

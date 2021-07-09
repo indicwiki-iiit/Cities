@@ -1,0 +1,30 @@
+{{Infobox station
+| name        = Funagata Station
+| native_name = 舟形駅
+| native_name_lang = ja
+| type        = 
+| image       = FunagataSt.jpg
+| alt         = 
+| caption     = Funagata Station, May 2005
+| other_name  = 
+| address     = 391-2, Funagata, Funagata-machi, Mogami-gun, Yamagata-ken  999-4601
+| country     = Japan
+| coordinates = {{coord|38.691708|140.316106|format=dms|display=inline,title|type:railwaystation_region:JP}}
+| operator    = [[File:JR logo (east).svg|20px]] [[JR East]]
+| line        = {{colorbull|#999999}} [[Yamagata Line]]
+| distance            = 140.3 kilometers from {{STN|Kogota}}
+| platforms   =  2 side platforms
+| connections = 
+| structure   = 
+| status =Staffed 
+| code        = 
+| website             = {{Official|1=http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1380}}
+| opened      =  July 21, 1902
+| closed      = 
+| former      = 
+| passengers  = 86
+| pass_year   = FY2018
+| services    = {{Adjacent stations|system=JR East|line2=Yamagata|left2=Ashisawa|right2=Shinjō}}
+| map_type    = Japan Yamagata Prefecture#Japan   
+| map_dot_label       =Funagata Station
+}}

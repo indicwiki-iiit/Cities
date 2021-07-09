@@ -1,0 +1,79 @@
+{{Infobox settlement
+| name                            = Ashburn, Virginia
+| official_name                   = 
+| settlement_type                 = [[Census-designated place]]
+
+<!-- Images -->
+| image_skyline                   = File:Ashburn Library (LCPL) from parking lot.jpg
+| image_caption                   = Ashburn Library
+| image_flag                      = 
+| image_seal                      =
+
+<!-- Maps -->
+| pushpin_map                     = USA Virginia Northern#USA Virginia#USA
+| pushpin_label                   = Ashburn
+| pushpin_label_position          = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = |<!-- Coordinates -->
+| coordinates                     = {{coord|39|01|48|N|077|28|16|W|region:US-VA_type:city|display=inline,title}}
+| coordinates_footnotes           = <ref name="GNIS">{{Cite GNIS|2584799|Ashburn Census Designated Place}}</ref>
+
+<!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = {{nowrap|{{flag|United States}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Virginia|size=23px}}
+| subdivision_type2               = [[List of counties in Virginia|County]]
+| subdivision_name2               = {{flagicon image|Flag of Loudoun County, Virginia.svg|size=23px}} [[Loudoun County, Virginia|Loudoun]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                =
+
+<!-- Area -->
+| unit_pref                       = US
+| area_footnotes                  = <ref name="CenPopGazetteer2020">{{cite web|title=2020 U.S. Gazetteer Files –Virginia|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_gaz_place_51.txt|publisher=United States Census Bureau|access-date=February 19, 2021}}</ref>
+| area_total_sq_mi                = 15.55
+| area_land_sq_mi                 = 15.30
+| area_water_sq_mi                = 0.25
+
+<!-- Elevation -->
+| elevation_footnotes             = <ref name="GNIS"/>
+| elevation_ft                    = 295
+
+<!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="Census 2010">{{cite web| url=https://data.census.gov/cedsci/table?g=1600000US5103320&tid=DECENNIALSF12010.P1| title=Total Population: 2010 Census DEC Summary File 1 (P1), Ashburn CDP, Virginia| publisher=U.S. Census Bureau| website=data.census.gov| access-date=February 19, 2021}}</ref>
+| population_total                = 43511
+| population_density_sq_mi        = 3259.1
+| population_est                  = 49848<ref name="Ashburn ACS 2019 Estimate">{{cite web|url=https://data.census.gov/cedsci/profile?q=Ashburn%20CDP,%20Virginia&g=1600000US5103320|access-date=10 December 2020|work=U.S. Census Bureau}}</ref>|<!-- General information -->
+| pop_est_as_of                   = 2019
+| timezone                        = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 20146, 20147, 20148, 20149<ref>
+  {{cite web
+  |url= http://www.vda.virginia.gov/pdfdocs/Post%20Office,%20Zip%20&%20AAA%20Reference%20List.pdf
+  |title= Post Office, Zip Code, Jurisdiction and AAA Cross-Reference List
+  |publisher= Virginia Department for the Aging
+  |date= June 9, 2004
+  }}</ref>
+| area_codes                       = [[Area code 703|703]], [[Area code 571|571]]
+| blank1_name                     = [[Federal Information Processing Standard|FIPS]] code
+| blank1_info                     = <ref name="CenPopGazetteer2020"/>
+| blank2_name                     = [[American National Standards Institute|ANSI]] code
+| blank2_info                     = 2584799<ref name="CenPopGazetteer2020"/>
+| blank3_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank3_info                     = 2584799<ref name="GNIS"/>
+| website                         = 
+| footnotes                       = 
+}}

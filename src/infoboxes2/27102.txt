@@ -1,0 +1,153 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Cobleskill
+| settlement_type         = [[Administrative divisions of New York#Town|Town]]
+<!-- images, nickname, motto --->
+| image_skyline           = 
+| imagesize               = 
+| image_alt               = 
+| image_caption           = 
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              = 
+| flag_size               = 
+| flag_alt                = 
+| flag_link               = 
+| image_seal              = 
+| seal_size               = 
+| seal_alt                = 
+| seal_link               = 
+| image_shield            = 
+| shield_size             = 
+| shield_alt              = 
+| shield_link             = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates ------>
+| image_map               = Schoharie County NY Cobleskill town highlighted.svg
+| mapsize                 = 
+| map_alt                 = 
+| map_caption             = Location in [[Schoharie County, New York|Schoharie County]] and the state of [[New York (state)|New York]].
+| image_map1              = 
+| mapsize1                = 
+| map_alt1                = 
+| map_caption1            = 
+| image_dot_map           = 
+| dot_mapsize             = 
+| dot_map_base_alt        = 
+| dot_map_alt             = 
+| dot_map_caption         = 
+| dot_x = 
+|dot_y = 
+| pushpin_map             = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         = 
+| pushpin_mapsize         = 
+| pushpin_map_caption     = 
+| pushpin_map1            = 
+| pushpin_label_position1 = 
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        = 
+| pushpin_mapsize1        = 
+| pushpin_map_caption1    = 
+| coordinates             = {{coord|42|40|49|N|74|25|03|W|format=dms|display=inline,title}}
+| coor_pinpoint           = seat of town government <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+|subdivision_type         = [[List of countries|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[Administrative divisions of New York#County|County]]
+|subdivision_name2        = [[Schoharie County, New York|Schoharie]]
+<!-- established --------------->
+| established_title       = Settled 
+| established_date        = [[Circa|c.]]1750
+| established_title1      = Established
+| established_date1       = 1795
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      = 
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = 
+| governing_body          = Town board
+| leader_party            = [[Republican Party (United States)|Republican Party]]
+| leader_title            = [[Town supervisor|Supervisor]]
+| leader_name             = Leo T. McAllister<ref name="homepage">{{cite web |url=http://www.schohariecounty-ny.gov/CountyWebSite/towncob/index.jsp |title=Town of Cobleskill Home Page |access-date=July 21, 2010 }}</ref><!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = Imperial
+<!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+<!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_total_km2          = 79.73
+<!-- ALL fields with measurements have automatic unit conversion -->
+| area_total_sq_mi        = 30.78
+<!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2           = 79.27
+| area_land_sq_mi         = 30.61
+| area_water_km2          = 0.46
+| area_water_sq_mi        = 0.18
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation ----------------->
+| elevation_footnotes     = <ref name="gnis">{{cite gnis|978843|Town of Cobleskill}}</ref>
+| elevation_m             = 
+| elevation_ft            = 886
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         = 
+| elevation_max_ft        = 
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         = 
+| elevation_min_ft        = 
+<!-- population ---------------->
+| population_footnotes    = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref><!-- for references: use <ref> tags -->
+| population_total        = 6625
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_km2  = 81.23
+| population_density_sq_mi = 210.39
+| population_est          = 6439
+| pop_est_as_of           = 2016
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- demographics (section 1) -->
+| demographics_type1      = 
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = 
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      = 
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    = 
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               = [[Eastern Time Zone|EST]]
+| utc_offset1             = -5
+| timezone1_DST           = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST         = -4
+<!-- postal codes, area code --->
+| postal_code_type        = [[ZIP code]]
+| postal_code             = 
+| area_code_type          = [[Area code]]
+| area_code               = [[Area code 518|518]]
+| blank_name              = [[Federal Information Processing Standard|FIPS code]]
+| blank_info              = 36-16639
+| blank1_name             = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info             = 0978843
+| website                 = {{URL|https://www4.schohariecounty-ny.gov/government/town-of-cobleskill/|Town website}}
+| footnotes               = 
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+}}

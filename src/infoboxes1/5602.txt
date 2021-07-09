@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Xilinhot}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{lang|zh-Hans|锡林浩特市}} • {{MongolUnicode|ᠰᠢᠯᠢ ᠶᠢᠨ}}{{MongolUnicode|ᠬᠣᠲᠠ}}}}
+|other_name             = 
+|nickname               = 
+|settlement_type        = [[County-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = City Center of Xilinhot
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China Inner Mongolia
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in Inner Mongolia
+|pushpin_mapsize        =
+<!-- Location ------------------>
+| subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Autonomous regions of the People's Republic of China|Autonomous region]]
+|subdivision_name1      = [[Inner Mongolia]]
+|subdivision_type2      = [[Leagues of China|League]]
+|subdivision_name2      = [[Xilingol]]
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- = list (for list), coll (for collapsed list), para (for paragraph format) Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title1     = <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = Incorporated (County-level city)
+|established_date2      = 10 October 1983
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes        = <!--for references: use <ref> tags-->
+|elevation_m                = 997
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               = 2010
+|population_footnotes           = <ref name="xlgl.gov.cn">{{in lang|zh}} [http://www.xlgl.gov.cn/zwgk/xmgk/rkgk/ Data from the Sixth National Population Census of the People's Republic of China] {{webarchive |url=https://web.archive.org/web/20121229054400/http://www.xlgl.gov.cn/zwgk/xmgk/rkgk/ |date=December 29, 2012 }}</ref>
+|population_note                =
+|population_total               = 245886
+|population_density_km2         = auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_urban_km2   =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2  =
+| area_total_km2          = 14592.0 
+| area_urban_km2          = 409.00 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=48 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_urban        = 213000
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Xilinhot municipal government
+|coordinates            = {{coord|43.9334|N|116.0860|E|type:adm3rd_region:CN-15_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 026000
+|area_code              = 0479
+|blank_name             = [[License Plate (China)|License plate prefixes]]
+|blank_info             = {{lang|zh-cn|蒙H}}
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = {{URL|www.xilinhaote.gov.cn}}
+|footnotes              = 
+}}

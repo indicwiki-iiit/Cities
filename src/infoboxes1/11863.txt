@@ -1,0 +1,85 @@
+{{Infobox settlement
+| name                            = Brighton
+| settlement_type                 = <!-- images and maps --------------->
+| image_skyline                   = {{Photomontage
+| photo1a        = Brighton from the pier.jpg{{!}}Brighton seafront looking west from [[Brighton Palace Pier]]
+| photo2a        = British Airways i360 11.jpg{{!}}[[British Airways i360|i360 observation tower]]
+| photo2b        = Clock Tower, Brighton.JPG{{!}}[[Clock Tower, Brighton|Jubilee Clock Tower]]
+| photo3a        = The Royal Pavilion Brighton.jpg{{!}}[[Royal Pavillion]]
+| photo3b        = 2005-07-14 - United Kingdom - England - Brighton - Brighton Pier - CC-BY 4888018336.jpg{{!}}[[Brighton Palace Pier]]
+| size          = 280
+| color_border  = white
+| color         = 
+| spacing       = 3
+| foot_montage  =
+}}
+| imagesize                       = 
+| image_caption                   = Clockwise, from top: Brighton seafront looking west from [[Brighton Palace Pier]]; the [[Clock Tower, Brighton|Jubilee Clock Tower]]; [[Brighton Palace Pier]]; the [[Royal Pavilion]]; the [[British Airways i360|i360 observation tower]]
+| image_map                       = 
+| pushpin_map                     = East Sussex#England#UK#Europe
+| pushpin_relief                  = 1
+| pushpin_map_caption             = Location within East Sussex##Location within England##Location within the United Kingdom
+| mapsize                         = 
+| map_caption                     = 
+| coordinates                     = {{coord|50.828380|-0.139470|region:GB|format=dms|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Sovereign state]]
+| subdivision_name                = {{flag|United Kingdom}}
+| subdivision_type1               = {{nowrap|[[Countries of the United Kingdom|Constituent country]]}}
+| subdivision_type2               = [[Regions of England|Region]]
+| subdivision_type3               = {{nowrap|[[Ceremonial counties of England|Ceremonial county]]}}
+| subdivision_type4               = [[Historic counties of England|Historic county]]
+| subdivision_type5               = Unitary authority
+| subdivision_type6               = Admin HQ
+| subdivision_name1               = {{flag|England}}
+| subdivision_name2               = [[South East England]]
+| subdivision_name3               = [[East Sussex]]
+| subdivision_name4               = [[Sussex]]
+| subdivision_name5               = [[Brighton and Hove]]
+| subdivision_name6               = Hove Town Hall
+| established_title               = Town charter
+| established_date                = 1313
+| established_title2              = Incorporated
+| established_date2               = 1854
+| established_title3              = Unitary authority
+| established_date3               = 1997
+| government_type                 = [[Unitary authority]]
+| leader_title                    = Governing body
+| leader_name                     = [[Brighton and Hove City Council]]
+| area_total_km2                  = {{formatnum:{{English district area|GSS=E06000043}}|R}}
+| population_total                = {{English district population|GSS=E06000043}} ([[List of English districts by population|ranked {{English district rank|GSS=E06000043}}]]) ([[Brighton and Hove]] pop.)
+| population_as_of                = {{English statistics year}}
+| population_density_km2          = {{English district density|GSS=E06000043}}
+| population_blank1_title         = Ethnicity
+| population_blank1               = 
+| population_demonym              = Brightonian
+| timezone1                       = GMT
+| utc_offset1                     = 0
+| postal_code_type                = [[List of postcode areas in the United Kingdom|Postcode area]]
+| postal_code                     = [[BN postcode area|BN]]
+| area_code                       = 01273
+| website                         = {{nowrap|{{URL|https://www.brighton-hove.gov.uk}}}}
+| established_title4              = City status
+| established_date4               = 2000
+| leader_title2                   = Leader
+| leader_name2                    = Nancy Platts ([[Labour Party (UK)|Labour]])
+| leader_title3                   = Mayor
+| leader_name3                    = [[Alex Phillips (Green politician)|Alexandra Phillips]]<ref>[https://www.brighton-hove.gov.uk/content/council-and-democracy/councillors-and-committees/mayor-brighton-hove "The Mayor of Brighton and Hove"] {{Webarchive|url=https://web.archive.org/web/20190512065748/https://www.brighton-hove.gov.uk/content/council-and-democracy/councillors-and-committees/mayor-brighton-hove |date=12 May 2019 }} Brighton and Hove City Council. Retrieved 30 May 2019.</ref>
+| leader_title4                   = [[List of MPs elected in the 2017 United Kingdom general election|MPs]]
+| leader_name4                    = [[Lloyd Russell-Moyle]] ([[Labour Party (UK)|Labour]], [[Brighton Kemptown (UK Parliament constituency)|Kemptown]])<br />[[Caroline Lucas]] ([[Green Party of England and Wales|Green]], [[Brighton Pavilion (UK Parliament constituency)|Pavilion]])
+| timezone_DST                    = BST
+| utc_offset_DST                  = +1
+| blank_name                      = [[ISO 3166-2:GB|ISO 3166-2]]
+| blank_info                      = GB-BNH
+| blank1_name                     = [[ONS coding system|ONS code]]
+| blank1_info                     = 00ML (ONS)<br /> E06000043 (GSS)
+| blank2_name                     = [[British national grid reference system|OS grid reference]]
+| blank2_info                     = {{gbmappingsmall|TQ315065}}
+| blank3_name                     = [[Nomenclature of Territorial Units for Statistics|NUTS]] 3
+| blank3_info                     = UKJ21
+| blank4_name                     = Police
+| blank4_info                     = [[Sussex Police|Sussex]]
+| blank5_name                     = Fire
+| blank5_info                     = [[East Sussex Fire & Rescue Service|East Sussex]]
+| blank6_name                     = Ambulance
+| blank6_info                     = [[South East Coast Ambulance Service|South East Coast]]
+}}

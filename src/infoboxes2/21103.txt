@@ -1,0 +1,23 @@
+{{Infobox UK place
+|country                 = England
+|coordinates             = {{coord|53.3669|-0.0061|display=inline,title}}
+|official_name           = Louth
+|static_image_name       = Queen Street, Louth.jpg
+|static_image_width      = 220px
+|static_image_caption    = Queen Street, Louth with [[St. James Church, Louth|St. James Church]] in the background
+|population              = 16,419
+|population_ref          = ([[United Kingdom Census 2011|2011 Census]])<ref>{{NOMIS2011|id=1170215530|title=Louth Parish|access-date=4 March 2018}}</ref>
+|civil_parish            = Louth
+|shire_district          = [[East Lindsey]]
+|region                  = East Midlands
+|shire_county            = [[Lincolnshire]]
+|constituency_westminster= [[Louth and Horncastle (UK Parliament constituency)|Louth and Horncastle]]
+|post_town               = LOUTH
+|postcode_district       = LN11
+|postcode_area           = LN
+|dial_code               = 01507
+|os_grid_reference       = TF326874
+|map_type                = Lincolnshire
+|london_distance_mi      = 130<!-- straight line per MOS – constant and comparable with other place distances -->
+|london_direction        = S
+}}

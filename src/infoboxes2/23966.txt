@@ -1,0 +1,30 @@
+{{Infobox river
+| name              = Aich 
+| image             = Aich-Aichtal.jpg
+| image_size        = 
+| image_alt         =
+| image_caption     = The river flowing through [[Aichtal]]
+| map               = 
+| map_size          = 
+| map_alt           =
+| map_caption       =
+| pushpin_map        =Germany 
+| pushpin_map_size   = 
+| pushpin_map_caption= Location of mouth
+| pushpin_map_alt    = 
+| source1_location  = [[Holzgerlingen]]
+| mouth_location    = [[Neckar]] in [[Nürtingen]]
+| mouth_coordinates = {{coord|48.65|9.33|region:DE-BW|display=it}}
+| progression       = {{RNeckar}}
+| subdivision_type1 = Country
+| subdivision_name1 = [[Germany]]
+| subdivision_type2 = [[States of Germany|State]]
+| subdivision_name2 = [[Baden-Württemberg]]
+| length            = {{convert|30.5|km|abbr=on}} {{GeoQuelle|DE-BW|LUBW}}
+| source1_elevation = 
+| mouth_elevation   = {{convert|268|m}} above sea level
+| discharge1_avg    = 
+| basin_size        = {{convert|179|km2|abbr=on}} {{GeoQuelle|DE-BW|LUBW}}
+| tributaries_left  =
+| tributaries_right = [[Schaich (river)|Schaich]]
+}}

@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name = San José del Cabo
+|settlement_type =
+|other_name =
+|native_name = Añiñi
+|native_name_lang = Pericu<ref name=encmuc>{{cite web |title= Los Cabos |work=Enciclopedia de los Municipios y Delegaciones de México |publisher= INAFED  |location=Mexico  |year=2010 |url= http://www.inafed.gob.mx/work/enciclopedia/EMM03bajacaliforniasur/municipios/03008a.html |access-date=July 23, 2014 }}</ref><ref name=page182>{{cite book  |author= John Howells and Don Merwin  |title= Choose Mexico for retirement  |publisher= The Globe Pequot Press  |location= Guilford, CT  |year= 2007  |isbn= 9780762743926  |page= [https://archive.org/details/isbn_9780762743926/page/182 182]  |url-access= registration  |url= https://archive.org/details/isbn_9780762743926/page/182  }}</ref>
+|nickname =
+|motto =
+<!-- images and maps ----------->
+|image_skyline = Downtown_San_Jose_del_Cabo,_BCS,_Mexico,_Feb_2012.jpg
+|image_caption = Downtown San José del Cabo (2012)
+|image_flag =
+|flag_size =
+|image_seal =
+|seal_size =
+|image_shield =
+|shield_size =
+|image_blank_emblem =
+|blank_emblem_type =
+|blank_emblem_size =
+|image_map =
+|mapsize =
+|map_caption =
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = Mexico Baja California Sur
+|pushpin_label_position =
+|pushpin_map_caption =Location in [[Baja California Sur]]
+<!-- Location ------------------>
+|subdivision_type = Country
+|subdivision_name = {{Flag|Mexico}}
+|subdivision_type1 = [[Political divisions of Mexico|State]]
+|subdivision_name1 = [[Baja California Sur]]
+|subdivision_type2 = Municipality
+|subdivision_name2 = [[Los Cabos Municipality|Los Cabos]]
+|subdivision_type3 =
+|subdivision_name3 =
+|subdivision_type4 =
+|subdivision_name4 =
+<!-- Politics ----------------->
+|government_footnotes =
+|government_type =
+|leader_title =
+|leader_name =
+|leader_title1 = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1 =
+|leader_title2 =
+|leader_name2 =
+|leader_title3 =
+|leader_name3 =
+|leader_title4 =
+|leader_name4 =
+|established_title = <!-- Settled -->
+|established_date =
+|established_title2 = <!-- Incorporated (town) -->
+|established_date2 =
+|established_title3 = <!-- Incorporated (city) -->
+|established_date3 =
+<!-- Area --------------------->
+|area_magnitude =
+|unit_pref = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes =
+|area_total_km2 = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population ----------------------->
+|population_as_of =2020<ref name="saludbcs.gob.mx">{{cite web|url=http://www.saludbcs.gob.mx/estadistica/Tarjetas%20Estadisticas%20Ejecutivas%202015.pdf |title=Poblacion Por Municipio, Superficie, Densidad De Poblacion |format=PDF |access-date=2018-07-21}}</ref><ref name="2020 Census of Mexico">2020 Census of Mexico.</ref>
+|population_total = 136285<ref name="saludbcs.gob.mx"/>
+|population_metro = 351111
+| population_footnotes    =<ref name="inegi2010">{{cite web|title=San Jose del Cabo |url=http://www.inegi.org.mx/est/contenidos/proyectos/ccpv/cpv2010/Default.aspx|work=Censo de Población y Vivienda 2010|publisher=INEGI|access-date=3 September 2012|language=es}}</ref><ref name="2020 Census of Mexico">2020 Census of Mexico.</ref>
+<!-- General information --------------->
+|timezone               = [[Time in Mexico|MST]]
+|utc_offset             = −7 
+|timezone_DST           = [[Mountain Daylight Time|MDT]] 
+|utc_offset_DST         = −6
+|coordinates       = {{coord|23|03|41|N|109|42|29|W|region:MX|display=inline,title}}
+|elevation_footnotes = <!--for references: use <ref> </ref> tags-->
+|elevation_m = 45
+<!-- Area/postal codes & others -------->
+|postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code =
+|area_code =
+|blank_name =
+|blank_info =
+|blank1_name =
+|blank1_info =
+|website =
+|footnotes =
+}}

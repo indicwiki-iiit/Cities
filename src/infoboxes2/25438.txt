@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Ngāruawāhia
+|settlement_type        = Town <!-- e.g. Town, Village, City, etc.-->
+|total_type             = Territorial <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Waikato-nga-750px.jpg
+|imagesize              = 
+|image_caption          = [[Waikato River]] passing through Ngāruawāhia
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{infobox mapframe|zoom=9}}
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = 
+|pushpin_label_position =
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+| subdivision_type        = Country
+| subdivision_name        = {{NZ}}
+| subdivision_type1       = [[Regions of New Zealand|Region]]
+| subdivision_name1       = [[Waikato]]
+| subdivision_type2       = [[Districts of New Zealand|District]]
+| subdivision_name2       = [[Waikato District|Waikato]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  =<!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     =
+|p3= 
+|p4=
+|p5=
+|p6=
+|p7=<!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =
+|leader_name1            =
+|established_title      = <!-- Settled by the UK -->
+|established_date       = 
+|established_title1      =  
+|established_date1       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = <!--Region--> <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+| population_footnotes    = {{NZ population data 2018||||y}}
+| population_total        = {{NZ population data 2018|Ngaruawahia|y}}
+| population_as_of        = {{NZ population data 2018|||y}}
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_urban               = 
+|population_urban_footnotes     = 
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+<!-- General information  --------------->
+|timezone               = [[Time in New Zealand|NZST]]
+|utc_offset             = +12
+|timezone_DST           = NZDT
+|utc_offset_DST         = +13
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              = 
+|blank_name             = 
+|blank_info             = 
+}}

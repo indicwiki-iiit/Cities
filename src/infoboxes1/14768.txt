@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Junik
+| official_name           =
+| native_name             =
+| native_name_lang        = 
+| other_name              = Junik / Juniku<br />Јуник
+| settlement_type         = [[List of cities in Kosovo|Town]]
+<!-- images, nickname, motto --->
+| image_skyline           = Kulla e Brahim Hoxhës, Junik.jpg
+| image_flag              = 
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_shield            =
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      = Stema e Komunës Junik.svg
+| blank_emblem_type       = Emblem
+<!-- maps and coordinates ------>
+| image_map               = Junik-Yunik.png
+| mapsize                 = 
+| map_alt                 = 
+| map_caption             = Location of the municipality of Junik within Kosovo
+| pushpin_map             = Kosovo
+| pushpin_label_position  = 
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         =
+| pushpin_map_caption     = Location of Junik within Kosovo
+| coordinates             = {{coord|42|28|34|N|20|16|39|E|type:city(12500)_region:{{Xb|KOS}}|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = Kosovo{{efn|name=status}}
+| subdivision_type1       = [[Districts of Kosovo|District]]
+| subdivision_name1       = [[District of Gjakova]]
+| subdivision_type2       = [[Municipalities of Kosovo|Municipality]]
+| subdivision_name2       = [[Junik Municipality]]
+<!-- established --------------->
+| established_title       = Municipality
+| established_date        = 2008
+<!-- seat, smaller parts ------->
+| seat_type               = Seat
+| seat                    =
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         =
+| leader_party            = [[Alliance for the Future of Kosovo|AAK]]
+| leader_title            = Mayor
+| leader_name             = Agron Kuqi
+<!-- area ---------------------->
+| area_magnitude          = 
+| unit_pref               = Metric
+| area_blank1_title       = Urban
+| area_blank1_km2         = 
+| area_blank2_title       = 
+| area_blank2_km2         = 
+| area_footnotes          = 
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 517
+| elevation_ft            =
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_max_ft        =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+| elevation_min_ft        =
+<!-- population ---------------->
+| population_as_of        = 2011
+| population_footnotes    =
+| population_note         =
+| population_blank1_title = Urban
+| population_blank1       = 6053
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipal
+| population_blank2       = 6084
+| population_density_blank2_km2 = auto
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               =
+| utc_offset1             = 1
+| timezone1_DST           =
+| utc_offset1_DST         =
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = Postal code
+| postal_code             = 50000
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = +381 390
+<!-- website, footnotes -------->
+| website                 = {{url|http://kk.rks-gov.net/junik}}
+| footnotes               =
+}}

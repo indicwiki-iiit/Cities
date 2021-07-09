@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                       = Lake Grove, New York
+|official_name            = Incorporated Village of Lake Grove
+|settlement_type          = [[Village (New York)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Smith-haven-mall.jpg
+|imagesize                = 250px
+|image_caption            = [[Smith Haven Mall]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position = none
+|pushpin_map_caption    = Location within the state of New York
+|pushpin_mapsize        = 
+|image_map                = Lake-grove-ny-map.gif
+|mapsize                  = 250px
+|map_caption              = U.S. Census Map
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Suffolk County, New York|Suffolk]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Robert Scottaline
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 7.66
+|area_land_km2            = 7.65
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 2.96
+|area_land_sq_mi          = 2.96
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 11163
+|population_density_km2   = 1444.50
+|population_density_sq_mi = 3741.46
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 36
+|elevation_ft             = 118
+|coordinates              = {{coord|40|51|30|N|73|7|0|W|region:US-NY_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 11755
+|area_code                = [[Area code 631|631]],  [[Area code 934|934]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-40530
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0954916 <ref>{{cite gnis | id=0954916 | name=Lake Grove | access-date=2009-05-03}}</ref>
+|website                  = {{URL|lakegroveny.gov}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11056
+}}

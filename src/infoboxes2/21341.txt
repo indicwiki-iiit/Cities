@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Archer Lodge, North Carolina
+|settlement_type          = [[Town]]
+|image_skyline            = File:Archer Lodge town sign.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    = "The Best Corner of the World"
+
+<!-- Images -->
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|pushpin_map              = North Carolina#USA
+|pushpin_label            = Archer Lodge
+|coordinates              = {{coord|35|41|31|N|78|22|22|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_name2        = [[Johnston County, North Carolina|Johnston]]
+|established_title        = Incorporated
+|established_date         = 2009
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|accessdate=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 23.53
+|area_total_sq_mi         = 9.08
+|area_land_km2            = 23.48
+|area_land_sq_mi          = 9.07
+|area_water_km2           = 0.04
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 103
+|elevation_ft             = 338
+|population_total         = 4292
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_km2   = 219.68
+|population_density_sq_mi = 568.99
+
+<!-- General information -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 27591, 27527
+|area_code                = [[Area code 919|919]]
+|website                  = {{URL|www.townofarcherlodge.com}}
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|blank_name               = [[FIPS code]]
+|blank_info               = 37-01760
+|blank1_name              = [[GNIS]] feature ID
+|blank1_info              = 980279
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5159
+}}

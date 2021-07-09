@@ -1,0 +1,59 @@
+{{Infobox province or territory of Canada
+| name                    = New Brunswick
+| other_name              = {{native name|fr|Nouveau-Brunswick}}
+| settlement_type         = [[Provinces and territories of Canada|Province]]
+| government_type         = [[Constitutional monarchy]]
+| governing_body          = [[Government of New Brunswick]]
+| image_flag              = Flag of New Brunswick.svg
+| image_shield            = New Brunswick coat of arms.svg
+| motto                   = {{lang-la|Spem reduxit}}<ref name=spem>{{cite web | url=https://lib.unb.ca/winslow/reduxit.html | title=Winslow Papers >> Ann Gorman Condon >> The New Province: Spem Reduxit | publisher=University of New Brunswick | author=Ann Gorman Condon | access-date=8 June 2016 | url-status=dead | archive-url=https://web.archive.org/web/20160303174929/http://www.lib.unb.ca/winslow/reduxit.html | archive-date=3 March 2016 | df=mdy-all }}</ref><br/><small>("Hope restored")</small>
+| image_map               = New Brunswick in Canada 2.svg
+| Label_map               = yes
+| coordinates             = {{Coord|46|30|00|N|66|00|00|W|type:adm1st_scale:30000000_region:CA-NB_source:http://www4.rncan.gc.ca/search-place-names/unique/DBBWP|display=inline,title}}
+| capital                 = [[Fredericton]]
+| largest_city            = [[Moncton]]
+| largest_metro           = [[Greater Moncton]]
+| official_lang            = 
+ {{hlist
+  |[[English language|English]] |[[French language|French]]}}<ref>{{cite web | title = My Linguistic Rights | publisher = Office of the Commissioner of Official Languages for New Brunswick | url = http://www.officiallanguages.nb.ca/ | access-date = March 7, 2019 }}</ref> 
+| Premier                 = [[Blaine Higgs]]
+| PremierParty            = [[Progressive Conservative Party of New Brunswick|Progressive Conservatives]]
+| Viceroy                 = [[Brenda Murphy]]
+| ViceroyType             = Lieutenant Governor
+| Legislature             = Legislative Assembly of New Brunswick
+| area_rank               = 11th
+| area_total_km2          = 72907
+| area_land_km2           = 71450
+| area_water_km2          = 1458
+| PercentWater            = 2.0
+| population_demonym      = New Brunswicker <small>''<br />[[Acadian French|FR]]: Néo-Brunswickois(e)''</small>
+| population_rank         = 8th
+| population_total        = 747101 <!-- 2016 StatCan federal census population only per [[WP:CANPOP]]. Do not update until 2021 census population. Use "Population_est" below for latest StatCan quarterly estimate. -->
+| population_ref          =<ref name=StatCan2011>{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&S=50&O=A |title=Population and dwelling counts, for Canada, provinces and territories, 2011 and 2006 censuses |publisher=Statcan.gc.ca |date=February 8, 2012 |access-date=February 8, 2012 |url-status=live |archive-url=http://archive.wikiwix.com/cache/20140307020829/http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&S=50&O=A |archive-date=March 7, 2014 |df=mdy-all }}</ref>
+| population_as_of        = 2016
+| population_est          = 783721<!-- Latest StatCan quarterly estimate only. -->
+| pop_est_as_of           = 2021 Q2
+| pop_est_ref             =<ref name=StatCan2016Q1Est>{{cite web | url=http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510005&paSer=&pattern=&stByVal=1&p1=1&p2=31&tabMode=dataTable&csid= | title=Population by year of Canada of Canada and territories | publisher=[[Statistics Canada]] | date=September 26, 2014 | access-date=September 29, 2018 | url-status=live | archive-url=https://web.archive.org/web/20160619182727/http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510005&paSer=&pattern=&stByVal=1&p1=1&p2=31&tabMode=dataTable&csid= | archive-date=June 19, 2016 | df=mdy-all }}</ref>
+| DensityRank             = 4th
+| Density_km2             = 10.5<ref name=StatCan2011/>
+| GDP_year                = 2017
+| GDP_total               = C$36.088&nbsp;billion<ref>{{cite web |last1=Statistics Canada |title=Table: 36-10-0222-01 Gross domestic product, expenditure-based, provincial and territorial, annual (x 1,000,000) |url=https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610022201&pickMembers%5B0%5D=1.5&pickMembers%5B1%5D=2.2 |access-date=11 September 2019 |date=11 September 2019}}</ref>
+| GDP_rank                = 9th
+| GDP_per_capita          = C$42,606
+| GDP_per_capita_rank     = 11th
+| AdmittanceOrder         = 1st, with [[Ontario]], [[Quebec]], [[Nova Scotia]]
+| AdmittanceDate          = July 1, 1867
+| HouseSeats              = 10
+| SenateSeats             = 10
+| timezone1               = [[Atlantic Time Zone|Atlantic]]
+| utc_offset1             = -04:00
+| timezone1_DST           = [[Atlantic Time Zone|Atlantic DST]]
+| utc_offset1_DST         = -03:00
+| PostalAbbreviation      = NB
+| PostalCodePrefix         = [[List of E postal codes of Canada|E]]
+| iso_code                = CA-NB
+| website                 = www.gnb.ca
+| flower                  = [[Viola cucullata|Purple violet]]
+| tree                    = [[Abies balsamea|Balsam fir]]
+| bird                    = [[Black-capped chickadee]]
+|HDI_year=2018|HDI_rank=12th|HDI=0.889<ref name=":10">{{cite web|title=Sub-national HDI - Subnational HDI - Global Data Lab|url=https://globaldatalab.org/shdi|access-date=2020-06-18|website=globaldatalab.org}}</ref> — <span style="color:#090">Very high</span>}}

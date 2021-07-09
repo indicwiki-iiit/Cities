@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Qudsaya
+|other_name             = 
+|native_name            = {{lang|ar|قدسيا}}<!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                = 250
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =250
+|pushpin_map_caption    =Location in Syria
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{Flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Rif Dimashq Governorate|Rif Dimashq]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[Qudsaya District|Qudsaya]]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_name3      = Qudsaya
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+<!-- Population   ----------------------->
+|population_as_of               = 2004 census
+|population_footnotes           = <ref name="CBS"/>
+|population_note                =
+|population_total               = 33571
+|population_metro               = 
+<!-- General information  --------------->
+|timezone               =  
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|33|32|N|36|13|E|region:SY|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 800
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

@@ -1,0 +1,73 @@
+{{Infobox company
+| name = Magna International Inc.
+| logo = Magna logo.svg
+| logo_size = 200px
+| logo_alt = 
+| logo_caption = 
+| image = MagnaInternationalMarkham.jpg
+| image_size = 
+| image_alt = 
+| image_caption = 
+| trading_name = 
+| native_name = 
+| native_name_lang = <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{Lang|[code]|[name]}}. -->
+| romanized_name = 
+| former_name = 
+| type = [[Public company|Public]]
+| traded_as = {{nyse|MGA}}<br />{{TSX|MG}}
+| ISIN = 
+| ISIN2 = 
+| industry = Manufacturing
+| genre = 
+| fate = 
+| predecessor = <!-- or: | predecessors = -->
+| successor = <!-- or: | successors = -->
+| founded = {{Start date and age|1957}}
+| founder = [[Frank Stronach]]
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| hq_location = 
+| hq_location_city = [[Aurora, Ontario]]
+| hq_location_country = [[Canada]]
+| num_locations = 
+| num_locations_year = <!-- Year of num_locations data (if known) -->
+| area_served = Worldwide
+| key_people = {{plainlist|
+* Swamy Kotagiri, CEO
+* Tommy J. Skudutis, Executive VP & COO
+* Vincent J. Galifi, Executive VP & CF
+* James J. Tobin, Executive Vice-President and President, Magna Asia
+* Eric J. Wilds, Executive VP and Chief Sales & Marketing Officer
+* Riccardo C. Trecroce, Executive VP and CLO 
+* Aaron D. McCarthy, Executive VP and CHRO
+* Francis C. Seguin, Executive VP Corporate Projects and Strategy Development
+}}
+| products = Automotive
+| brands = 
+| production = 
+| production_year = <!-- Year of production data (if known) -->
+| services = 
+| revenue = {{US$|link=yes}}40.82 billion <small>(2018)</small><ref name=yahoo>{{Cite web|url=https://finance.yahoo.com/quote/MGA/financials?p=MGA|title=Magna International Inc. (MGA)|publisher=Yahoo Finance|website=Yahoo.com}}</ref>
+| revenue_year = 
+| operating_income = {{US$}}2.83 billion <small>(2018)</small><ref name=yahoo/>
+| income_year = 
+| net_income = {{US$}}2.29 billion <small>(2018)</small><ref name=yahoo/>
+| net_income_year = 
+| aum = <!-- Only for financial-service companies -->
+| assets = {{US$}}25.94 billion <small>(2018)</small><ref name=yahoo/>
+| assets_year = 
+| equity = {{US$}}11.83 billion <small>(2018)</small><ref name=yahoo/>
+| equity_year = 
+| owner = <!-- or: | owners = -->
+| members = 
+| members_year = <!-- Year of members data (if known) -->
+| num_employees = 169,000 <small>(2019)</small><ref name=forbes>{{Cite web|url=https://www.forbes.com/companies/magna-international/#50aaa47a4a3d|title=#427 Magna International|work=Forbes}}</ref>
+| num_employees_year = <!-- Year of num_employees data (if known) -->
+| parent = 
+| divisions = 
+| subsid = 
+| module = <!-- Used to embed other templates -->
+| ratio = <!-- Basel III ratio; used for banks only -->
+| rating = <!-- Credit rating; used for banks only -->
+| website = {{URL|https://www.magna.com/}}
+| footnotes = 
+}}

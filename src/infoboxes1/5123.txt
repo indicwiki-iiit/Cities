@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name = Agstafa
+|settlement_type= City and Municipality
+|native_name = Ağstafa
+|image_shield           =
+|shield_size            = 80x110px
+|image_skyline          = File:Agstafa un memulatlari.jpg
+|image_caption          = Agstafa agro-industry complex
+| pushpin_map            = Azerbaijan
+| pushpin_mapsize        = 
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{AZE}}
+| subdivision_type1      = [[Administrative divisions of Azerbaijan|District]]
+| subdivision_name1      = [[Agstafa District|Agstafa]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         =2010
+|population_total =20,200
+|population_density_km2   =
+|population_footnotes=<ref>[http://www.azstat.org/statinfo/demoqraphic/en/012.shtml#s11 Population by economic and administrative regions of the Azerbaijan Republic, The State Statistical Committee of the Republic of Azerbaijan]</ref>
+|timezone =[[Azerbaijan Time|AZT]]
+|utc_offset             = +4
+|timezone_DST           =[[Azerbaijan Time|AZT]] 
+|utc_offset_DST         = +5
+|coordinates            = {{coord|41|07|08|N|45|27|14|E|region:AZ|display=inline}}
+|elevation_m            = 340
+|area_code              = +992 244
+|website                = 
+}}

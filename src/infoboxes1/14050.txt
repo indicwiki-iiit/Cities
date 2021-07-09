@@ -1,0 +1,41 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Ukmergė
+|settlement_type=City
+|pushpin_map            =Lithuania 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Ukmergė
+|image_flag= Flag of Ukmergė.jpg
+|image_shield = Ukmergė COA.svg
+|image_skyline = Ukmergė 1.jpg
+|coordinates      = {{coord|55|15|N|24|45|E|region:LT|display=inline,title}}
+|
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{LTU}}
+|subdivision_type1= [[Regions of Lithuania|Ethnographic&nbsp;region]]
+|subdivision_name1= [[Aukštaitija]]
+|subdivision_type2= [[Counties of Lithuania|County]]
+|subdivision_name2= [[File:Vilnius County flag.svg|20px]] [[Vilnius County]]
+|subdivision_type3= [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3= [[Ukmergė district municipality]]
+|subdivision_type4= [[Elderships of Lithuania|Eldership]]
+|subdivision_name4= Ukmergė town eldership
+|subdivision_type6= [[Capital (political)|Capital of]]|
+|subdivision_name6= [[Ukmergė district municipality]] <br> Ukmergė town eldership<br>Pivonija eldership 
+|established_date = 1333
+|established_title=First mentioned
+|established_date2= 1486
+|established_title2=Granted [[Magdeburg rights|city rights]]
+|area_total_km2 = 20.5
+|elevation_m = 64
+|population_total = 20154
+|population_as_of = 2020
+|population_density_km2 = auto
+|population_footnotes=
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|postal_code_type = Postal code
+|postal_code = 20xxx
+|website = {{URL|www.ukmerge.lt}}
+}}

@@ -1,0 +1,28 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_skyline = Pilis - Palace.jpg
+|image_caption = The Beleznay-Nyári Palace from the air
+|subdivision_type = Country
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Pilis|
+map=[[Image:PestMegye.png|center|thumb|275px|Location of Pest county in Hungary]]|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Pest county|Pest]]|
+image_shield=HUN_Pilis_Címer.svg|
+area_total_km2=47.33|
+population_total=11432|
+population_as_of=2004|
+population_density_km2=auto|
+postal_code_type=[[Postal code]]|
+postal_code=2721|
+area_code=29|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Pilis
+|pushpin_mapsize        =
+|coordinates            = {{coord|47.28438|19.54347|region:HU|display=inline,title}}
+}}

@@ -1,0 +1,39 @@
+{{Infobox airport
+| name         = Hoskins Airport
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  =
+| caption      =
+| IATA         = HKN
+| ICAO         = AYHK
+| pushpin_map            = Papua New Guinea
+| pushpin_map_caption    = Location of airport in Papua New Guinea
+| pushpin_label          = HKN
+| pushpin_label_position = right
+| FAA          =
+| LID          =
+| type         = Public
+| owner        =
+| operator     =
+| owner-oper   =
+| city-served  =
+| location     = New Britain island
+| elevation-f  = 77
+| elevation-m  = 
+| coordinates  = {{Coord|05|27|43.81|S|150|24|17.80|E|type:airport}}
+| website      =
+| metric-elev  =
+| metric-rwy   =
+| r1-number    = 12/30
+| r1-length-f  = 5212
+| r1-length-m  = 1589
+| r1-surface   = Asphalt
+| stat-year    =
+| stat1-header =
+| stat1-data   =
+| stat2-header =
+| stat2-data   =
+| footnotes    = Source: World Aero Data [http://worldaerodata.com/wad.cgi?id=PP40765]
+}}

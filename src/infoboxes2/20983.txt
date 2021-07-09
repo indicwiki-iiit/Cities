@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Bastrop, Texas
+|settlement_type          = [[City]]
+|nicknames                 = The Most Historic Small Town in Texas;<br />Heart of the Lost Pines
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Bastrop tx city hall 2014.jpg
+|imagesize                = 250px
+|image_caption            = Bastrop City Hall
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map               = Bastrop Bastrop.svg
+|mapsize                 = 250px
+|map_caption             = Location of Bastrop, Texas
+|pushpin_label = Bastrop
+|pushpin_map = Texas#USA#North America
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Bastrop County, Texas|Bastrop]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 24.20
+|area_land_km2            = 23.89
+|area_water_km2           = 0.31
+|area_total_sq_mi         = 9.34
+|area_land_sq_mi          = 9.22
+|area_water_sq_mi         = 0.12
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=CensusQF>{{cite web|title=State and County Quick Facts|url=http://quickfacts.census.gov/qfd/states/48/4805864.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2015|archive-url=https://web.archive.org/web/20140807144632/http://quickfacts.census.gov/qfd/states/48/4805864.html|archive-date=August 7, 2014|url-status=dead}}</ref>
+|population_total         = 7218
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+|population_est = 9242
+|pop_est_as_of = 2019
+|population_density_km2   = 386.87
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 112
+|elevation_ft             = 367
+|coordinates              = {{coord|30|06|38|N|97|18|55|W|region:US-TX|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 78602
+|area_codes                = [[Area code 512|512]], [[Area code 737|737]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-05864<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1330128<ref>{{gnis|1330128|Bastrop}}</ref>
+|website                  = {{URL|www.cityofbastrop.org}}
+|footnotes                = 
+|population_density_sq_mi = 1001.95
+}}

@@ -1,0 +1,28 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Suvorovo
+| native_name                     = Суворово|
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Suvorovo|
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location of Suvorovo
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]|
+| subdivision_name1               = Varna|
+| population_total                = 4,723
+| population_footnotes            = <ref name="statistika"/>
+| population_as_of                = December 2009
+| elevation_m                     = 246
+| postal_code                     = 9170
+| area_code                       = 05153
+| coordinates                     = {{coord|43|20|N|27|36|E|region:BG|display=inline}}
+| leader_name                     = Danail Yordanov|
+| name                            = 
+}}

@@ -1,0 +1,32 @@
+{{Infobox settlement
+|settlement_type        = Town
+|name                   = Dunboyne
+|native_name             = {{Pad top italic|Dún Búinne}}
+|image_skyline          = Dunboyne.jpg
+|image_caption          = Looking east-southeast from the centre of the village
+|pushpin_map            = Dublin#Ireland
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in [[Greater Dublin]]
+|coordinates            = {{coord|53.420|-6.475|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|O010422}}
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Republic of Ireland|Ireland]]
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Leinster]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[County Meath|Meath]]
+|unit_pref              = Metric
+|elevation_m            = 70
+|population_as_of       = 2016
+|population             = 7272
+|population_footnotes   = <ref>{{cite web|url=http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=C7226549-5E73-470E-BCDC-0FA2A20DE534#SAPMAP_T1_100|publisher=[[Central Statistics Office (Ireland)|Central Statistics Office]]|work= Census 2016|title=Sapmap Area - Settlements - Dunboyne|date=2016}}</ref>
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)1
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =A86
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}

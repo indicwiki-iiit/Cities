@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Kronenwetter, Wisconsin
+|settlement_type          = [[Village]]
+|nickname                 = 
+|motto                    = "Come Grow With Us"
+
+<!-- Images -->
+|image_skyline            = Kronenwettermunicipalcenter.jpg
+|imagesize                = 150px
+|image_caption            = Kronenwetter Municipal Center
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Marathon County Wisconsin Incorporated and Unincorporated areas Kronenwetter Highlighted.svg
+|mapsize                  = 150px
+|map_caption              = Location of Kronenwetter in Marathon County, Wisconsin.
+|image_map1               = KronenwetterMarathonCounty.jpg
+|mapsize1                 = 250px
+|map_caption1             = Kronenwetter
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name2        = [[Marathon County, Wisconsin|Marathon]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Board of Trustees
+|leader_title             = President
+|leader_name              = Chris Voll
+|leader_title1            = Village Administrator
+|leader_name1             = Richard Downey
+|established_title        = Incorporation
+|established_date         = 2002
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 134.61
+|area_land_km2            = 133.66
+|area_water_km2           = 0.95
+|area_total_sq_mi         = 51.97
+|area_land_sq_mi          = 51.61
+|area_water_sq_mi         = 0.36
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8079
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 7210
+|population_density_km2   = 60.44
+|population_density_sq_mi = 156.55
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 365
+|elevation_ft             = 1198
+|coordinates              = {{coord|44|50|20|N|89|37|36|W|region:US-WI|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 54455
+|area_code                =  [[Area codes 715 and 534|715 & 534]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 55-40550<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1583496<ref name="GR3" />
+|website                  = {{URL|www.kronenwetter.org}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

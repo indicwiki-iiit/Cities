@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Wake Forest, North Carolina
+|settlement_type          = [[Town]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_map                = Wake County North Carolina incorporated and unincorporated areas Wake Forest highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Wake County, North Carolina|Wake County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+|coordinates              = {{coord|35|58|24|N|78|31|8|W|region:US-NC_type:city|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in North Carolina|Counties]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_name2        = [[Wake County, North Carolina|Wake]], [[Franklin County, North Carolina|Franklin]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1880
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Vivian A. Jones ([[Republican Party (United States)|R]])
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 46.20
+|area_total_sq_mi         = 17.84
+|area_land_km2            = 45.88
+|area_land_sq_mi          = 17.71
+|area_water_km2           = 0.32
+|area_water_sq_mi         = 0.12
+
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 118
+|elevation_ft             = 387
+|population_total         = 30117
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="2010 Census (City)">{{cite web|title=2010 Census Redistricting Data (Public Law 94-171) Summary File|url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table|work=American FactFinder|publisher=[[United States Census Bureau]]|access-date=27 May 2012}}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref>
+|population_density_km2   = 994.52
+|population_density_sq_mi = 2575.73
+
+<!-- General information -->
+|population_est = 45629
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 27587–27588
+|area_code                = [[Area codes 919 and 984|919, 984]]
+|website                  = [http://www.wakeforestnc.gov/ www.wakeforestnc.gov]
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EST
+|utc_offset_DST           = −4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-70540<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1023094<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+}}

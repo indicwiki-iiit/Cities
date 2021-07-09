@@ -1,0 +1,40 @@
+{{Infobox Australian place | type = town
+| name     = Drouin
+| state    = vic
+| image    = Drouin Main Street.jpg
+| caption  = Main street
+| coordinates = {{coord|38|08|0|S|145|51|0|E|display=inline,title}}
+| pushpin_label_position = right
+| lga      = Shire of Baw Baw
+| use_lga_map = yes
+| postcode = 3818
+| est      = 
+| pop      = 11887
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="ABSCensusUCL"/> 
+| pop2      = 17779
+| pop2_year = 2018
+| pop2_footnotes=<ref name="ABSSUA"/> 
+| elevation= 
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Narracan|Narracan]]
+| fedgov = [[Division of Monash|Monash]]
+| dist1    = 86
+| dir1     =ESE
+| location1= Melbourne
+| dist2    = 7.4
+| dir2     =WNW
+| location2= [[Warragul, Victoria|Warragul]]
+| near-nw  = [[Labertouche, Victoria|Labertouche]]
+| county   = [[County of Buln Buln|Buln Buln]] 
+| parish   = Drouin West
+| near-n   = [[Robin Hood, Victoria|Robin Hood]]
+| near-ne  = [[Drouin East, Victoria|Drouin East]]<!-- <br>[[Tarago, Victoria|Tarago]] -->
+| near-w   = [[Longwarry, Victoria|Longwarry]]
+| near-e   = [[Warragul, Victoria|Warragul]]
+| near-sw  = [[Ripplebrook, Victoria|Ripplebrook]]
+| near-s   = [[Hallora, Victoria|Hallora]]
+| near-se  = [[Lardner, Victoria|Lardner]]
+|area=52}}

@@ -1,0 +1,44 @@
+{{Infobox settlement
+|name                    = Alajuelita
+|native_name_lang        = es
+|settlement_type         = [[Cantons of Costa Rica|Canton]]
+|pushpin_map             = Costa Rica
+|pushpin_map_alt         = Alajuelita canton location in Costa Rica
+|pushpin_map_caption     = Alajuelita canton location in Costa Rica
+|coordinates             = {{coord|9.8890038|-84.1151684|type:adm2nd_region:CR|display=inline,title}}
+|image_flag              = Bandera Cantón Alajuelita, San José, Costa Rica.svg
+|image_seal              = Escudo del cantón de Alajuelita.svg
+|image_map               = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape|title=Alajuelita canton}}
+|map_alt                 = Alajuelita canton
+|map_caption             = Alajuelita canton
+|image_skyline           = CruzAlajuelita.JPG
+|image_alt               = Alajuelita Cross, was illuminated and visible from most of the Central Valley
+|image_caption           = Alajuelita Cross, was illuminated and visible from most of the Central Valley
+|established_title       = Creation
+|established_date        = 4 June 1909<ref name="crevoterritorial">{{cite book |last1=Hernández |first1=Hermógenes |title=Costa Rica: evolución territorial y principales censos de población 1502 - 1984 |date=1985 |publisher=Editorial Universidad Estatal a Distancia |location=San José |isbn=9977-64-243-5 |pages=164–173 |edition=1 |url=https://ccp.ucr.ac.cr/bvp/mapoteca/CostaRica/generales/atlas_censal/ |access-date=5 October 2020 |language=es}}</ref>
+|subdivision_type        = [[List of sovereign states|Country]]
+|subdivision_name        = {{CRI}}
+|subdivision_type1       = [[Provinces of Costa Rica|Province]]
+|subdivision_name1       = [[San José Province|San José]]
+|seat_type               = Head city
+|seat                    = [[Alajuelita District|Alajuelita]]
+|government_type         = [[Local government in Costa Rica|Municipality]]
+|governing_body          = {{lang|es|Municipalidad de Alajuelita}}
+|parts_type              = [[Districts of Costa Rica|Districts]]
+|parts_style             = list
+|parts                   = Districts
+|p1                      = [[Alajuelita District|Alajuelita]]
+|p2                      = [[San Josecito District, Alajuelita|San Josecito]]
+|p3                      = [[San Antonio District, Alajuelita|San Antonio]]
+|p4                      = [[Concepción District, Alajuelita|Concepción]]
+|p5                      = [[San Felipe District, Alajuelita|San Felipe]]
+|area_total_km2          = 21.17
+|elevation_m             = 1194
+|population_total        = 77603
+|population_as_of        = 2011
+|population_density_km2  = auto
+|timezone1               = [[UTC−06:00]]
+|blank_name              = Canton code
+|blank_info              = 110
+|website                 = {{URL|http://munialajuelita.go.cr/}}
+}}

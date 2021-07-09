@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Zlatitsa
+|image_skyline =Zlatitsa-library.jpg
+|image_caption=''[[Chitalishte]]'' Hristo Smirnenski
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br/><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Zlatitsa|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Zlatitsa
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+| | native_name=Златица
+| image_shield=BUL Златица COA.jpg
+| 
+| subdivision_name1=Sofia
+| population_total=5&nbsp;286 
+| population_as_of=01/01/2007
+| elevation_m=680
+| postal_code=2080
+| area_code=0728
+|coordinates            = {{coord|42|43|N|24|08|E|region:BG|display=inline}}
+|leader_name=Georgi Gerginekov
+}}

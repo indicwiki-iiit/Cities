@@ -1,0 +1,42 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Porto Feliz
+| settlement_type         = Municipality
+| image_skyline           = Guardacivil.png
+| image_caption           = A street in downtown Porto Feliz
+| image_flag              = Flag_of_Porto_Feliz_SP.png
+| image_shield            = Brasao PortoFeliz SaoPaulo Brasil.png
+| image_map               = SaoPaulo Municip PortoFeliz.svg
+| map_caption             = Location in São Paulo state
+| pushpin_map             = Brazil
+| pushpin_map_caption     = Location in Brazil 
+| coordinates             = {{coord|23|12|53|S|47|31|26|W|region:BR_type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Brazil}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Southeast Brazil]]
+| subdivision_type2       = State
+| subdivision_name2       = [[São Paulo (state)|São Paulo]]
+| subdivision_type3       = Metropolitan Region
+| subdivision_name3       = [[Metropolitan Region of Sorocaba|Sorocaba]]
+|established_title      = Founded
+|established_date       = October 13, 1797
+| leader_party            = [[Brazilian Labour Party (current)|PTB]]
+| leader_title            = Prefeito
+| leader_name             = Antonio Cassio Habice Prado 
+| area_total_km2          = 556.69
+| elevation_m             = 523
+| population_total        = 53,402
+| population_as_of        = 2020 <ref>[https://cidades.ibge.gov.br/brasil/sp/porto-feliz/panorama IBGE 2020]</ref>
+| population_density_km2  = auto
+| timezone1               = [[Time in Brazil|BRT]]
+| utc_offset1             = -3
+| timezone1_DST           = [[Daylight saving time in Brazil|BRST]]
+| utc_offset1_DST         = -2
+| postal_code_type        = [[Postal code]]
+| postal_code             = 
+| area_code_type          = [[Phone code]]
+| area_code               = 
+| website                 = {{url|http://www.portofeliz.sp.gov.br/}}
+| footnote                = 
+}}

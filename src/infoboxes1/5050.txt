@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type              = lga 
+| name              = City of Kwinana
+| state             = wa
+| image             = Kwinana LGA WA.png
+| image_upright     = 0.81
+| caption           = 
+| pop               = 38,918
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA54830 |name=Kwinana (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 43511
+| pop2_year          = 2018 est.
+| pop2_footnotes     = <ref name=ABS3218.0>{{cite web|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|title=3218.0 – Regional Population Growth, Australia, 2017-18|publisher=Australian Bureau of Statistics|date=27 March 2019|access-date=31 December 2019}} Estimated resident population (ERP) at 30 June 2018.</ref>
+| area              = 118
+| est               = 1954
+| seat              = [[Kwinana Town Centre, Western Australia|Kwinana Town Centre]]
+| mayor             = Carol Adams
+| region            = [[Perth|South Metropolitan Perth]]
+| logo              = Logo of the City of Kwinana.svg
+| logo_upright   = 0.8
+| url               = http://www.kwinana.wa.gov.au
+| stategov          = [[Electoral district of Kwinana|Kwinana]]
+| fedgov            = [[Division of Brand|Brand]]
+| near-nw           = 
+| near-n            = [[City of Cockburn|Cockburn]]
+| near-ne           = [[City of Armadale|Armadale]]
+| near-w            = ''[[Cockburn Sound]]''
+| near-e            = [[Shire of Serpentine-Jarrahdale|Serpentine-Jarrahdale]]
+| near-sw           = 
+| near-s            = [[City of Rockingham|Rockingham]]
+| near-se           = [[Shire of Serpentine-Jarrahdale|Serpentine-Jarrahdale]]
+}}

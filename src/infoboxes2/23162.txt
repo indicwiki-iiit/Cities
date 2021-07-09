@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| official_name          = Waimea, Hawaii
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = [[Census-designated place]]
+<!-- images and maps  ----------->
+| image_skyline          = Waimea pastures.JPG
+| imagesize              = 250px
+| image_caption          = Some cattle pastures just outside Waimea, August 2007
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+| image_map              = Hawaii County Hawaii Incorporated and Unincorporated areas Waimea Highlighted.svg
+| mapsize                = 250px
+| map_caption            = Location in [[Hawaii County, Hawaii|Hawaii County]] and the state of [[Hawaii]]
+| pushpin_map            = Hawaii
+| pushpin_label = Waimea
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location in Hawaii
+<!-- Location ------------------>
+| coordinates            = {{coord|20|1|13|N|155|40|4|W|region:US_type:city|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = United States
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = [[Hawaii]]
+| subdivision_type2      = [[List of counties in Hawaii|County]]
+| subdivision_name2      = [[Hawaii County, Hawaii|Hawaii]]
+<!-- Politics ----------------->
+| established_title      = 
+| established_date       = 
+| government_type        =
+| government_footnotes   = 
+| leader_title           = 
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Imperial
+| area_footnotes         = 
+| area_total_km2         = 101.9
+| area_land_km2          = 101.8
+| area_water_km2         = 0.1
+| area_water_percent     = 
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_ft           = 2670
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 9212
+| population_as_of       = [[2010 United States Census|2010]]
+| population_density_km2 = 90.5
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Hawaii-Aleutian Standard Time Zone|Hawaii-Aleutian]]
+| utc_offset             = -10
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[ZIP code]]
+| postal_code            = 96743
+| area_code              = [[Area code 808|808]]
+| blank_name             = [[Federal Information Processing Standard|FIPS code]]
+| blank_info             = 15-78500
+| blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info            = 2414164
+| website                = 
+}}

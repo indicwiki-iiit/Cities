@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name                            = Aliso Viejo, California
+| settlement_type                 = [[City (California)|City]]
+| motto                           = "Live, Work, Learn, Shop and Play."<ref>[http://www.cityofalisoviejo.com/about_us/ "About"] {{webarchive|url=https://web.archive.org/web/20110311205445/http://cityofalisoviejo.com/about_us/ |date=March 11, 2011 }} on the City of Aliso Viejo website</ref>
+| etymology                       = Spanish for "Old [[Alder]]"
+| image_skyline                   = Aliso Viejo Town Center, Aliso Viejo, CA, USA crop.png
+| image_caption                   = The Aliso Viejo Town Center
+| image_seal                      = Seal of Aliso Viejo, California.png
+| image_map                       = Orange_County_California_Incorporated_and_Unincorporated_areas_Aliso_Viejo_Highlighted.svg
+| map_caption                     = Location of Aliso Viejo within [[Orange County, California]]
+| pushpin_map                     = California#USA#North America
+| pushpin_map_caption             = Location in California
+| pushpin_label                   = Aliso Viejo
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Orange County, California|Orange]]
+| government_type                 = 
+| leader_title                    = [[List of mayors of Aliso Viejo, California|Mayor]]
+| leader_name                     = Mike Munzing <ref>{{Cite web |url=https://avcity.org/292/Mayor-Mike-Munzing |title=Mayor Mike Munzing |access-date=July 10, 2020 }}</ref>
+| leader_title2                   = [[Mayor Pro Tem]]
+| leader_name2                    = Tiffany Ackley<ref>{{Cite web |url=https://avcity.org/293/Mayor-Pro-Tem-Tiffany-Ackley |title=Mayor Pro Tem Tiffany Ackley |access-date=July 10, 2020  }}</ref>
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = July 1, 2001<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 6.92
+| area_land_sq_mi                 = 6.92
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 17.94
+| area_land_km2                   = 17.94
+| area_water_km2                  = 0.00
+| area_water_percent              = 0
+| elevation_footnotes             = <ref>{{Cite GNIS|252532|Aliso Viejo|access-date=February 23, 2015}}</ref>
+| elevation_ft                    = 410
+| elevation_m                     = 125
+| coordinates                     = {{coord|33|34|30|N|117|43|32|W|region:US_type:city|display=inline,title}}
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0600947.html|title=Aliso Viejo (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 18, 2015|archive-url=https://web.archive.org/web/20150329061040/http://quickfacts.census.gov/qfd/states/06/0600947.html|archive-date=March 29, 2015|url-status=dead}}</ref>
+| population_total                = 47823
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 50887
+| population_density_km2          = 2837.01
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| area_code                       = [[Area code 949|949]]
+| postal_code_type                = ZIP code
+| postal_code                     = 92656, 92698
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|00947}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|252532}}, {{GNIS 4|2409683}}
+| website                         = {{URL|www.cityofalisoviejo.com}}
+| population_density_sq_mi        = 7348.30
+| official_name                   = 
+}}

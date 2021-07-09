@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Urla
+| image_skyline           = İzmir Urla İskele.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|38|19|20|N|26|45|53|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_type2       = 
+| subdivision_name1       = [[İzmir Province|İzmir]]
+| subdivision_name2       = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = [[Önder Can]]
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Önder Can
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|İzmir|Urla}}
+| elevation_m             = 
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_footnotes    = {{Turkey district populations|SOURCE|İzmir}}
+| population_urban        = {{Turkey district populations|İzmir|Urla|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|İzmir|Urla|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = 
+| postal_code             = 
+| website                 = {{URL| www.urla.bel.tr | www.urla.bel.tr }}
+}}

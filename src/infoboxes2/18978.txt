@@ -1,0 +1,24 @@
+{{Infobox German location
+|type               = Stadt
+|image_photo       = Stassfurt Bodebruecke.jpg
+|image_caption     = View of the town
+|image_coa            = Wappen Stassfurt.png
+|coordinates       = {{coord|51|52|N|11|34|E|format=dms|display=inline,title}}
+|image_plan = Staßfurt in SLK.png
+|state        = Sachsen-Anhalt
+|district         = Salzlandkreis
+|elevation              = 73
+|area            = 146.53
+|population         = 30274<!-- Bitte nicht per Hand aktualisieren: [[Wikipedia:WikiProjekt_Kommunen_und_Landkreise_in_Deutschland/Einwohnerzahlen]] -->
+|Stand             = 2007-12-31
+|postal_code               = 39418
+|area_code           = 03925
+|licence               = SLK, ASL, BBG, SBK, SFT
+|Gemeindeschlüssel = 15 0 89 310
+|LOCODE            = DE STF
+|NUTS              = DEE0C
+|divisions        = 5
+|Straße            = Hohenerxlebener Straße 12
+|mayor     = Sven Wagner
+|party            = SPD
+}}

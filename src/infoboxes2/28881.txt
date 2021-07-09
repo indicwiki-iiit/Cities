@@ -1,0 +1,28 @@
+{{Infobox settlement
+| name                    = Mopipi
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         =  [[Central District (Botswana)|Central District]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+|pushpin_map            =Botswana <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+| etymology               = 
+| nickname                = 
+| coordinates             = {{coord|21|12|7|S|24|52|6|E|region:BW|display=inline}}
+|population_as_of               = 2001
+|population_footnotes           =<ref>{{cite web
+ | url=http://www.cso.gov.bw/html/census/dist52_53.html
+ | title=Distribution of population by sex by villages and their associated localities: 2001 population and housing census
+ | access-date = 2008-01-06 |archive-url = https://web.archive.org/web/20071124145541/http://www.cso.gov.bw/html/census/dist52_53.html <!-- Bot retrieved archive --> |archive-date = 2007-11-24}}</ref>
+| population_total        = 3,066
+| subdivision_type        = Country
+| subdivision_name        = [[Botswana]]
+| subdivision_type1       = [[Districts of Botswana|District]]
+| subdivision_name1       = [[Central District (Botswana)|Central District]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| website                 = <!-- {{URL|example.com}} -->
+}}

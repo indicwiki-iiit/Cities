@@ -1,0 +1,64 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  -------------->
+|official_name     = Ma'arat al-Nu'man
+|native_name       = {{lang|ar|مَعَرَّةُ النُّعْمَانِ}}<!-- for cities whose native name is not in English -->
+|nickname=
+|settlement_type   = [[List of cities in Syria|City]]
+|motto=
+<!-- images and maps  -----'--->
+|image_skyline     = Maraat al-Numaan Collage.PNG
+|imagesize         = 250px
+|image_caption     = A collage of Maarat al-Numan landmarks
+|image_flag=
+|flag_size=
+|image_seal=
+|seal_size=
+|image_shield=
+|shield_size=
+|image_map=
+|map_caption=
+|pushpin_map       = Syria
+|pushpin_label_position = left
+|pushpin_relief    = yes
+|pushpin_mapsize=
+|pushpin_map_caption= Location within Syria
+<!-- Location ------------------>
+|subdivision_type  = Country
+|subdivision_name  = {{Flag|Syria}}
+|subdivision_type1 = [[Governorates of Syria|Governorate]]
+|subdivision_name1 = [[Idlib Governorate|Idlib]]
+|subdivision_type2 = [[Districts of Syria|District]]
+|subdivision_name2 = [[Maarrat al-Nu'man District|Maarrat al-Nu‘man]]
+|subdivision_type3 = [[Nahiyah|Subdistrict]]
+|subdivision_name3 = [[Maarrat al-Nu'man Nahiyah|Maarrat al-Nu‘man]]
+<!-- Politics ---------------->
+|government_footnotes=
+<!-- Area    ----------------->
+|unit_pref         = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+<!-- Population   ------------>
+|population_as_of  = 2004
+|population_footnotes=
+|population_note=
+|population_total  = 58,008
+|population_demonym= {{lang-ar|معري|Maʿarri}}
+<!-- General information  ---->
+|timezone=
+|utc_offset=
+|timezone_DST=
+|utc_offset_DST=
+|coordinates={{coord|35|38|N|36|40|E|region:SY|display=inline}}
+|elevation_footnotes= <!--for references: use <ref> </ref> tags-->
+|elevation_m       = 522
+|elevation_ft=
+<!-- Area/postal codes & others -------->
+|postal_code_type  = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code=
+|area_code=
+|parts_type        = 
+|parts_style       = 
+|p1                = 
+|geocode           = C3985
+|website=
+|footnotes=
+}}

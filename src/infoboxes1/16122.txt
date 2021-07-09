@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name = Los Lunas, New Mexico
+|official_name            = Village of Los Lunas
+|settlement_type          = [[Village (United States)|Village]]
+|nickname                 = The Moon
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Los Lunas New Mexico Public Library.jpg
+|imagesize                = 
+|image_caption            = Los Lunas Public Library
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Valencia_County_New_Mexico_Incorporated_and_Unincorporated_areas_Los_Lunas_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Los Lunas, New Mexico
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = [[New Mexico]]
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Valencia County, New Mexico|Valencia]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 48.52
+|area_land_km2            = 48.51
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 18.73
+|area_land_sq_mi          = 18.73
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 14835
+|population_density_km2   = 331.09
+|population_density_sq_mi = 857.50
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1480
+|elevation_ft             = 4856
+|coordinates              = {{coord|34|48|34|N|106|44|7|W|region:US-NM_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 87031
+|area_code                = [[Area code 505|505]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-43370
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0891361
+|website                  = [http://www.loslunasnm.gov/ www.loslunasnm.gov]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 16061
+}}

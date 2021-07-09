@@ -1,0 +1,108 @@
+{{Infobox settlement
+|name                   = Rocky Mountain House
+|official_name          = Town of Rocky Mountain House
+|other_name             =
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = Town
+|motto                  =
+|image_skyline          =
+|imagesize              =
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = Coat of Arms of Rocky Mountain House, Alberta.svg
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = 0268 Town Rocky Mountain House, Alberta Locator.svg
+|mapsize                = 
+|map_caption            = Location in Clearwater County
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|pushpin_map            = Canada Alberta#Canada
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Rocky Mountain House
+|pushpin_relief         = 
+|pushpin_mapsize        =
+|subdivision_type       = Country
+|subdivision_name       = Canada
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = [[Alberta]]
+|subdivision_type2      = [[List of regions of Canada#Alberta|Region]]
+|subdivision_name2      = [[Central Alberta]]
+|subdivision_type3      = [[List of census divisions of Alberta|Census division]]
+|subdivision_name3      = [[Division No. 9, Alberta|9]]
+|subdivision_type4      = [[List of municipal districts in Alberta|Municipal district]]
+|subdivision_name4      = [[Clearwater County, Alberta|Clearwater County]]
+|government_footnotes   = <ref name="council">{{AMOS|iso}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Tammy Burke
+|leader_title1          = Governing&nbsp;body
+|leader_name1           = Rocky Mountain House Town Council
+|leader_title2          = [[Current members of the Canadian House of Commons|MP]]
+|leader_name2           = [[Gerald Soroka]]
+|leader_title3          = [[Legislative Assembly of Alberta|MLA]]
+|leader_name3           = [[Jason Nixon]]
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = 1799
+|established_title1 = Incorporated<ref name=AMATownProfiles>{{cite web|url=http://www.municipalaffairs.alberta.ca/cfml/MunicipalProfiles/basicReport/TOWN.PDF|publisher=[[Alberta Municipal Affairs]]|title=Location and History Profile: Town of Rocky Mountain House|page=541|date=June 17, 2016|access-date=June 20, 2016}}</ref>
+|established_date1      = &nbsp;
+|established_title2     = &nbsp;•&nbsp;[[List of villages in Alberta|Village]]
+|established_date2      = May 15, 1913
+|established_title3     = &nbsp;•&nbsp;[[List of towns in Alberta|Town]]
+|established_date3      = August 31, 1939
+|area_footnotes           = &nbsp;(2016)<ref name=2016censusABmunis/>
+|area_total_km2           = 
+|area_land_km2            = 12.71
+|area_water_km2           = 
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|population_as_of               = 2016
+|population_footnotes           = <ref name=2016censusABmunis/>
+|population_note                = 
+|population_total = 6635 <!-- 2016 StatCan population only per [[WP:CANPOP]];  do not replace with latest municipal census population count; this municipal census population count can go in the population_blank1_title and population_blank1 parameters further below and can be noted in the article body (so long as it doesn't replace the 2016 StatCan population in the body). -->
+|population_density_km2         = 521.8
+|population_density_sq_mi       = 
+|population_metro               = 
+|population_density_metro_km2   = 
+|population_density_metro_sq_mi = 
+|population_urban               = 
+|population_density_urban_km2   = 
+|population_density_urban_sq_mi = 
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+|timezone              = [[Mountain Time Zone|MST]]
+|utc_offset             = −07:00
+|timezone_DST           = MDT
+
+|utc_offset_DST         = −06:00
+|coordinates            = {{coord|52|22|31|N|114|55|18|W|region:CA-AB|display=inline,title}}
+
+|elevation_footnotes = <ref>{{cite web|url=http://www.safetycodes.ab.ca/Public/Documents/PSSSOP_Handbook_Version_12_Online_Feb_21_2012b.pdf|title=Alberta Private Sewage Systems 2009 Standard of Practice Handbook: Appendix A.3 Alberta Design Data (A.3.A. Alberta Climate Design Data by Town)|publisher=Safety Codes Council|type=PDF|pages=212–215 (PDF pages 226–229)|date=January 2012|access-date=October 9, 2013}}</ref>
+|elevation_m            = 985
+|elevation_ft           =
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of T postal codes of Canada|T4T]]
+|area_code              = [[Area code 403|403]] / [[Area code 587|587]] 
+|blank_name             = Highways
+|blank_info = {{Jct|state=AB|Hwy|11}}<br>{{Jct|state=AB|Hwy|11A}} <br> {{Jct|state=AB|Hwy|22}}<br> {{Jct|state=AB|Hwy|598}}<br>{{Jct|state=AB|Hwy|752}}
+|blank1_name            = Waterways
+|blank1_info            = [[North Saskatchewan River]], [[Clearwater River, Alberta|Clearwater River]]
+|website                = {{official website|www.rockymtnhouse.com}}
+|footnotes              =
+}}

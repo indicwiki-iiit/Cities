@@ -1,0 +1,29 @@
+{{Infobox settlement
+|official_name            = Berd
+|native_name              = Բերդ
+|image_skyline            = Բերդ, Տավուշ (2).JPG
+|imagesize                = 250px
+|image_alt                = 
+|image_caption            = A view of Berd
+|pushpin_map              = Armenia
+|mapsize                  = 150px
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|Armenia}}
+|subdivision_type1        = [[Administrative divisions of Armenia|Province]]
+|subdivision_name1        = [[Tavush Province|Tavush]]
+|established_title        = Founded
+|established_date         = 10th century
+|area_total_km2           = 3.5
+|area_footnotes           = 
+|population_footnotes     = <ref name="2011census">{{Cite web|url=http://armstat.am/file/doc/99484283.pdf|title=2011 Armenia census, Tavush Province|author=[[Statistical Committee of Armenia]]}}</ref>
+|population_as_of         = [[Census in Armenia|2011]]
+|population_total         = 7,957
+|population_density_km2   = auto
+|timezone                 = [[Armenia Time|AMT]] 
+|utc_offset               = +4
+|timezone_DST             =
+|utc_offset_DST           = 
+|coordinates              = {{coord|40|52|51|N|45|23|30|E|region:AM|display=inline}}
+|website                  = 
+|footnotes                = {{GEOnet2|32FA881E72233774E0440003BA962ED3}}
+}}

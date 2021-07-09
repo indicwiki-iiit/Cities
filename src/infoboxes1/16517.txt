@@ -1,0 +1,33 @@
+{{Infobox settlement
+| official_name           = Azul
+| settlement_type         = Town
+| image_shield            = Escudo_de_Azul.jpg
+| image_skyline           = AzulPlazaSanMartin.jpg
+| image_caption           = Plaza San Martín
+| pushpin_map             = 
+| pushpin_label_position  = bottom
+| pushpin_map1            = Buenos Aires Province
+| pushpin_label_position1 = bottom
+| pushpin_mapsize1        = 200
+| pushpin_map_caption1    = Location in [[Buenos Aires Province]]
+| coordinates             = {{coord|36|47|S|59|51|W|region:AR|display=inline}}
+| subdivision_type        = Country
+| subdivision_name        = {{ARG}}
+| subdivision_type1       = [[Provinces of Argentina|Province]]
+| subdivision_name1       = {{flag|Buenos Aires Province}}
+| subdivision_type2       = [[Partidos of Buenos Aires|Partido]]
+| subdivision_name2       = [[Azul Partido|Azul]]
+| established_title       = Founded
+| established_date        = December 16, 1832
+| elevation_footnotes     = <!--for references: use<ref> </ref>  tags-->
+| elevation_m             = 137
+| population_total        = 55,728
+| population_as_of        = 2010 census
+| population_density_km2  = auto
+| postal_code_type        = [[Argentine postal code|CPA Base]]
+| postal_code             = [[ISO 3166-2:AR|B]] 7330
+| area_code               = +[[Telephone numbers in Argentina|54]] 2281
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Humid subtropical climate|Cfa]]
+| website                 = {{URL|http://www.azul.gov.ar/}}
+}}

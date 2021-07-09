@@ -1,0 +1,44 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Idlib Governorate
+| native_name                     = مُحافظة ادلب
+| native_name_lang                = ar<!-- ISO 639-2 code e.g. "ar" for Arabic -->
+| settlement_type                 = [[Governorates of Syria|Governorate]]
+| image_skyline                   = 
+| image_alt                       = 
+| image_caption                   = 
+| image_map                       = Idlib in Syria (+Golan hatched).svg
+| map_alt                         = 
+| map_caption                     = Map of Syria with Idlib highlighted
+| coordinates                     = {{coord|35.7|36.7|type:adm1st_region:SY|display=inline,title}}
+| coor_pinpoint                   = [[Idlib]]
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Syria}}
+| parts_type                      = [[Mintaqah|Manatiq (Districts)]]
+| parts_style                     = para
+| p1                              = 5
+| established_title               = <!-- Established -->
+| established_date                = 
+| seat_type                       = Capital
+| seat                            = [[Idlib]] ''(rebel control)''<br>[[Khan Shaykhun]] ''([[Syrian Arab Republic]] governor's seat)''
+| leader_title                    = Governor
+| leader_name                     = Mohammad Nattouf<ref>http://sana.sy/en/?p=207458</ref>
+| unit_pref                       = Metric<!-- or US or UK -->
+| area_footnotes                  = 
+| area_total_km2                  = 6097
+| area_note                       = ''Estimates range between 5,933&nbsp;km<sup>2</sup> and 6,097&nbsp;km<sup>2</sup>''
+| population_footnotes            = 
+| population_total                = 1501000
+| population_as_of                = 2011
+| population_density_km2          = auto
+| blank_name_sec1                 = [[Syria#Languages|Main language(s)]]
+| blank_info_sec1                 = [[Arabic language|Arabic]]
+| timezone1                       = [[Eastern European Time|EET]]
+| utc_offset1                     = +2
+| timezone1_DST                   = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST                 = +3
+| iso_code                        = SY-ID
+| website                         = <!-- {{URL|edleb.net}} -->
+| footnotes                       = 
+| official_name                   = 
+}}

@@ -1,0 +1,46 @@
+{{Infobox Australian place 
+| type                = town
+| name                = Emerald
+| state               = qld
+| image               = EmeraldRailway.JPG
+| caption             = [[Emerald railway station, Queensland|Emerald railway station]]
+| coordinates         = {{coord|-23.5208|148.1619|type:city_region:AU-QLD|display=inline|name=Emerald (town centre)}}
+| pop                 = 14356
+| pop_year            = {{CensusAU|2016}} 
+| pop_footnotes       = <ref name=Census2016/>
+| pop2      = 14119
+| pop2_year = 2018 est.
+| pop2_footnotes = <ref name=ABSSUA/>
+| established         = 1879
+| postcode            = 4720
+| area                = 611.1
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga      = [[Central Highlands Region]]
+| stategov = [[Electoral district of Gregory|Gregory]]
+| fedgov   = [[Division of Flynn|Flynn]]
+| elevation= 189
+| maxtemp  = 29.4
+| mintemp  = 15.0
+| rainfall = 641.2
+| near-n              = [[Wyuna, Queensland|Wyuna]]
+| near-ne             = [[Comet, Queensland|Comet]]
+| near-e              = [[Comet, Queensland|Comet]]
+| near-se             = [[Comet, Queensland|Comet]]
+| near-s              = [[Gindie, Queensland|Gindie]]
+| near-sw             = [[Gindie, Queensland|Gindie]]
+| near-w              = [[Anakie Siding, Queensland|Anakie Siding]]
+| near-nw             = [[Fork Lagoons, Queensland|Fork Lagoons]]
+}}

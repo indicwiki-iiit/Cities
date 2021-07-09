@@ -1,0 +1,34 @@
+{{Infobox settlement
+|name                   = {{raise|0.2em|Jianyang}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|简阳市}}}}}}
+|postal_code = 641400
+|postal_code_type = [[Postal code of China|Postal code]]
+|pushpin_map = China Sichuan
+|pushpin_map_caption = Location in Sichuan
+|pushpin_mapsize = 250
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = Location of Jianyang within Sichuan (China).png
+|map_caption = Location of Jianyang City (red) within Chengdu City (yellow) and Sichuan
+|mapsize = 250px
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Sichuan]]
+|subdivision_type2 = [[Sub-provincial city]]
+|subdivision_name2 = [[Chengdu]]
+|area_code = 028
+|area_total_km2 = 2215
+|population = 
+|population_as_of = 2012
+|population_density_km2 = auto
+|population_total = 1481180
+|coor_pinpoint = dm
+|coordinates      = {{coord|30|22|48|N|104|31|48|E|type:adm3rd_region:CN-51|display=inline,title}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website = {{URL|www.scjy.gov.cn/}}
+}}

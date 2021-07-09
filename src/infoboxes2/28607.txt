@@ -1,0 +1,26 @@
+{{Infobox body of water
+| name               = Scoresby Sound
+| native_name         = Kangertittivaq
+|native_name_lang=kl
+| other_name         = ''Scoresby Sund''
+| image              = GreenlandSeaPolarProjection.png
+| caption            =
+|pushpin_map=Greenland
+| image_bathymetry   = Greenland.A2003233.1340.250m.jpg
+| caption_bathymetry = Scoresby Sound is at the bottom of this satellite image
+| location           =
+| coords             = {{coord|70|30|N|25|00|W|region:NO_type:waterbody_scale:4000000|display=title,inline}}
+| type               =
+| inflow             =
+| outflow            =
+| catchment          =
+| basin_countries    = [[Greenland]]
+| length             =
+| width              =
+| area               =
+| depth              = {{convert|500|m|ft|0|abbr=on}}
+| max-depth          = {{convert|1450|m|ft|0|abbr=on}}
+| volume             =
+| reference          = <ref name=bse>{{cite web|url=http://bse.sci-lib.com/article103003.html
+| title              = Scoresby|publisher=[[Great Soviet Encyclopedia]]|language=Russian}}</ref>
+}}

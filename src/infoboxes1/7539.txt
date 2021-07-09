@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                   = Kafr Qasim
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|כַּפְר קָסִם, כפר קאסם}}|rtl=yes}}
+ | {{Lang|ar|كفر قاسم|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 2008)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Kpar Qásim, Kpar Qáˀsem
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = {{br separated entries|Kafar Qasem (official)| Kufur Kassem (unofficial) }}
+| image_skyline          = Kafr Quasim Memorial, Israel.jpg
+| image_caption          = Monument in Kafr Qasim to the victims of the [[Kafr Qasim massacre|massacre in 1956]]
+| image_blank_emblem     = Coat of arms of Kfar Kasem.svg
+| blank_emblem_type      = Emblem of Kafr Qasim
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32.1151|N|34.9751|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 167/148 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 19th century
+| leader_title           = Mayor
+| leader_name            = Adel Badir
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:9154|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Kafar Qasem}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = The village of Kasim<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/230/mode/1up 230]</ref>
+| website                = {{url|kfar-qasem.muni.il}}
+}}

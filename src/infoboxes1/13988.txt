@@ -1,0 +1,27 @@
+{{Infobox settlement
+|settlement_type        = Town
+|name                   = Dingle
+|native_name            = {{pad top italic|Daingean Uí Chúis}}
+|native_name_lang       = ga
+|image_skyline          = 712 Dingle, Dingle Peninsula, County Kerry.jpg
+|image_caption          = Dingle town
+|imagesize              =
+|pushpin_map            = Ireland
+|pushpin_label_position = none
+|pushpin_map_caption    = Location in Ireland
+|coordinates            = {{coord|52.139915|-10.27153|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|Q445012}}
+|unit_pref              = Metric
+|elevation_m            =
+|subdivision_type       = Country
+|subdivision_name       = [[Republic of Ireland|Ireland]]
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Munster]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[County Kerry]]
+|population_total       = 2050
+|population_as_of       = 2016
+|population_footnotes   = <ref name=cso2016>{{cite web | url = http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=5314C840-F0C3-4FFC-8254-6B4CACF31C4F | title = Census 2016 Sapmap Area: Settlements Dingle-Daingean Uí Chuis | publisher = [[Central Statistics Office (Ireland)]] | access-date = 22 March 2018}}</ref>
+|website                =
+}}

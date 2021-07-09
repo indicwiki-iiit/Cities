@@ -1,0 +1,131 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Xinyang}}
+|official_name          = 
+|other_name             = Sinyang
+|native_name            = {{lower|0.1em|信阳市}}
+|native_name_lang = zh-Hans
+|nickname               =
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+<!-- images and maps  ----------->
+|image_skyline          = Xinyang new district1.png
+|image_caption          = View of Xinyang, 2014
+|image_map              = Henan Xinyang map a.png
+|mapsize                =
+|map_caption            = Location of Xinyang City jurisdiction in Henan
+|pushpin_map            = China Northern Plain#China
+|pushpin_map_alt = Xinyang is located at the southern end of the [[North China Plain]], north of the [[Dabie Mountains]]
+|pushpin_label_position = 
+|pushpin_map_caption    = Location on the [[North China Plain]]
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Henan]]
+|subdivision_type2      =
+|subdivision_name2      =
+|seat_type              = Municipal seat
+|seat                   = [[Pingqiao District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_urban_footnotes           =<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+|area_footnotes           =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|area_total_km2           =18819 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =75
+|area_metro_km2           =3665.9
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2019 Census
+|population_footnotes           =<ref>{{cite web
+  |url = https://www.hongheiku.com/xianjirank/
+  |script-title=zh:最新人口信息 www.hongheiku.com
+  |publisher = hongheiku
+  |language = Chinese
+  |access-date = 2021-01-12}}</ref>
+|population_note                =
+|population_total               =6463900
+|population_density_km2         =auto
+|population_metro               =1230042
+|population_density_metro_km2   =auto
+| population_urban = 600,000
+| population_urban_footnotes = &nbsp;(2018)<ref>{{Cite book|url=http://www.demographia.com/db-worldua.pdf|title=Demographia World Urban Areas. 14th Annual Edition|last=Cox|first=W|publisher=Demographia|year=2018|location=St. Louis|pages=22}}</ref>
+|population_density_urban_km2   =auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Xinyang municipal government
+|coordinates            = {{coord|32.149|N|114.091|E|type:adm2nd_region:CN-41_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =[[Postal code of China|Postal code]]  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =0376
+|iso_code = [[ISO 3166-2:CN|CN-HA-15]]
+|blank_name             =GDP 2010
+|blank_info             =109.2
+|blank1_name            =Major [[Nationalities of China|Nationalities]]
+|blank1_info            =[[Han Chinese|Han]]
+|blank2_name             =[[License Plate (China)|License plate prefixes]]
+|blank2_info             ={{lang|zh-cn|{{linktext|豫}}S}}
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website = {{URL|www.xinyang.gov.cn/sitesources/xinyang/page_pc/index.html}}
+|footnotes              =
+}}

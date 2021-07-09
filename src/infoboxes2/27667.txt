@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                     = Idabel, Oklahoma
+|settlement_type          = [[City]]
+|nickname                 = Dogwood Capital of Oklahoma
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Idabel August 2018 08 (Idabel City Hall).jpg
+|image_caption            = Idabel City Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OKMap-doton-Idabel.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Idabel, Oklahoma
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|County]]
+|subdivision_name2        = [[McCurtain County, Oklahoma|McCurtain]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Mayor-council
+|leader_title             = Mayor
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_total_sq_mi         = 17.00
+|area_land_sq_mi          = 16.88
+|area_water_sq_mi         = 0.12
+|area_total_km2           = 44.03
+|area_land_km2            = 43.72
+|area_water_km2           = 0.31
+|unit_pref                = Imperial
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7010
+|population_density_sq_mi = 405.37
+|population_density_km2   = 156.51
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 
+|elevation_ft             = 472
+|coordinates              = {{coord|33|53|44|N|94|49|35|W|region:US_type:city|display=inline,title}}<ref name=gnis/>
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 74745
+|area_code                = [[Area code 580|580]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-36750 <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1101480 <ref name=gnis>{{GNIS|1101480}}</ref>
+|website                  = {{URL|http://www.idabel-ok.gov/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6843
+}}

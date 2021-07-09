@@ -1,0 +1,38 @@
+{{Infobox Australian place| type = suburb
+| name      = Emu Plains
+| city      = Sydney
+| state     = nsw
+| image     = EmuPlainsStation1.JPG
+| caption   = Emu Plains Railway Station
+| image2    = {{maplink
+|frame=yes
+|frame-width=260
+|frame-height=280
+|frame-align=center
+|zoom=13
+|type=shape
+|stroke-colour=#C60C30
+|stroke-width=3
+}}
+| lga       = [[City of Penrith]]
+| postcode  = 2750<ref>[https://auspost.com.au/postcode/emu-plains Emu Plains Postcode] Australia Post</ref>
+| est       = 1814
+| pop       = 8421
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name=census>{{Census 2016 AUS|id=SSC11418|name=Emu Plains (State Suburb)|access-date=27 June 2017|quick=on}}</ref>
+| elevation = 27
+| area      = 7.92
+| stategov  = [[Electoral district of Penrith|Penrith]]
+| fedgov    = [[Division of Lindsay|Lindsay]]
+| near-nw   = [[Emu Heights, New South Wales|Emu Heights]]
+| near-n    = [[Castlereagh, New South Wales|Castlereagh]]
+| near-ne   = [[Penrith, New South Wales|Penrith]]
+| near-w    = [[Glenbrook, New South Wales|Glenbrook]]
+| near-e    = [[Jamisontown, New South Wales|Jamisontown]]
+| near-sw   = [[Glenbrook, New South Wales|Glenbrook]]
+| near-s    = [[Leonay, New South Wales|Leonay]]
+| near-se   = [[Regentville, New South Wales|Regentville]]
+| dist1     = 58
+| dir1      = west
+| location1 = Sydney CBD
+}}

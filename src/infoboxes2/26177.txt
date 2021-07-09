@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = <!-- at least one of the first two fields must be filled in -->
+| official_name                   = Strasburg, Virginia
+| native_name                     = <!-- if different from the English name -->
+| native_name_lang                = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name                      = 
+| settlement_type                 = Town
+<!-- images, nickname, motto --->
+| image_skyline                   = Strasburg Theater.jpg
+| image_caption                   = Strasburg Theater
+| image_flag                      = StrasburgVA_Flag.gif
+| image_seal                      = Strasburg_seal.png
+| image_shield                    = 
+| nickname                        = Pot Town<ref>{{cite web | publisher = PreserveAmerica.gov | title = Preserve America Community | url = http://www.preserveamerica.gov/vastrasburg.html | access-date =July 19, 2011}}</ref>
+<!-- maps and coordinates ------>
+| image_map                       = 
+| map_caption                     = Location of Strasburg in [[Virginia]]
+| pushpin_map                     = Virginia
+| coordinates                     = {{coord|38|59|26|N|78|21|31|W|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Virginia]]
+| subdivision_type2               = [[List of counties in Virginia|County]]
+| subdivision_name2               = [[Shenandoah County, Virginia|Shenandoah]]
+<!-- established --------------->
+| established_title               = Founded
+| established_date                = 1761
+| established_title1              = Incorporated
+| established_date1               = 1871
+| founder                         = Peter Stover
+| government_type                 = [[Mayor-Council government|Mayor-Council]]
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = Brandy Boies
+| leader_title1                   = [[Town Manager]]
+| leader_name1                    = Wyatt Pearson
+| leader_title2                   = [[Town Council|Council]]
+| leader_name2                    = {{Collapsible list
+| title               = Members' List
+| frame_style         = border: none; padding: 0;
+| title_style         = <!-- (optional) -->
+| list_style          = text-align: left; display: all;
+| 1 = • Dane Hooser
+| 2 = • Ken Cherrix
+| 3 = • John Massoud
+| 4 = • Taralyn Nicholson
+| 5 = • Paul Weaver
+| 6 = • Emily Reynolds
+| 7 = • Doreen Ricard
+| 8 = • Christie Monahan
+|.9 = • Brandon Powell
+}}
+| unit_pref                       = Imperial
+| area_total_sq_mi                = 4.11
+| area_land_sq_mi                 = 4.07
+| area_water_sq_mi                = 0.04
+<!-- elevation ----------------->
+| elevation_footnotes             = 
+| elevation_ft                    = 578
+| elevation_max_ft                = 
+| elevation_min_ft                = 
+<!-- population ---------------->
+| population_footnotes            = 
+| population_total                = 6398
+| population_as_of                = [[2010 United States Census|2010]]
+|pop_est_as_of                    = 2019
+|pop_est_footnotes                = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est                   = 6676
+|population_density_sq_mi         = 1639.89
+
+<!-- time zone(s) -------------->
+| timezone1 = 
+| utc_offset1 = &minus;
+| timezone1_DST = 
+| utc_offset1_DST = &minus;
+<!-- postal codes, area code --->
+| postal_code_type                = ZIP Code
+| postal_code                     = 22657
+| area_code_type                  = <!-- defaults to: Area code(s) -->
+| area_code                       = 540
+<!-- blank fields (section 1) -->
+| blank_name_sec1                 = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec1                 = 51-76000<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website |df=mdy }}</ref>
+| blank1_name_sec1                = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1                = 1487663<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+<!-- website, footnotes -------->
+| website                         = {{URL|http://www.strasburgva.com/}}
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_51.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_total_km2 = 10.65
+|area_land_km2 = 10.54
+|area_water_km2 = 0.10
+|population_density_km2 = 633.16
+}}

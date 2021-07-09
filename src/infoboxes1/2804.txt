@@ -1,0 +1,56 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Monastir
+| native_name            = منستير
+| native_name_lang       = ar
+| other_name             = 
+| settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+<!-- images and maps  ----------->
+| image_skyline          = View of Monastir from the ribat tower.jpg
+| imagesize              = 250px
+| image_caption          = {{small|Monastir from the ''[[Ribat of Monastir|ribat]]'''s tower}}
+| image_flag             = 
+| image_seal             = Armoiries Monastir.svg
+| seal_size              = 150px
+| image_shield           = 
+| image_map              = Monastir from space.jpg
+| map_caption            = Monastir from space
+| pushpin_map            = Tunisia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Tunisia
+<!-- Location ------------------>
+| coordinates            = {{coord|35|46|10|N|10|49|10|E|region:TN|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Tunisia}}
+| subdivision_type1      = [[Governorates of Tunisia|Governorate]]
+| subdivision_name1      = [[Monastir Governorate|Monastir]]
+| subdivision_type2      = 
+| subdivision_name2      = 
+| established_title      = <!-- Settled -->
+| established_date       = 
+| leader_title           = 
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            =
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 93306
+| population_as_of       = 2014
+| population_density_km2 = auto
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = 1
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = ZIP code  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 5000
+| area_code              = [[Telephone numbers in Tunisia|73]]
+| website                = 
+}}

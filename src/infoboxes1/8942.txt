@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                            = {{raise|0.1em|Kaesong}}
+| native_name                     = {{lower|0.1em|{{nobold|개성시}}}}
+| native_name_lang                = ko
+| official_name                   = {{nobold|{{lang|ko|개성시}}}}
+| settlement_type                 = [[Special cities of North Korea|Special City]]
+| nickname                        = <span style="line-height:1.5em;">''Songdo'' (송도/松都){{spaces|2}}<small>([[Korean language|Korean]])<br />"City of Pines "</small></span>
+| translit_lang1                  = Korean
+| translit_lang1_type1            = [[Hangul|Chosŏn'gŭl]]
+| translit_lang1_info1            = {{linktext|개|성|시}}
+| translit_lang1_type2            = [[Hanja]]
+| translit_lang1_info2            = {{linktext|開|城|特|別|市}}
+| translit_lang1_type3            = {{nowrap|[[McCune–Reischauer]]}}
+| translit_lang1_info3            = Kaesŏng-T'ŭkpyŏlsi
+| translit_lang1_type4            = {{nowrap|[[Revised Romanization of Korean|Revised Romanization]]}}
+| translit_lang1_info4            = Gaeseong-Teukbyeolsi
+| subdivision_type                = Country
+| subdivision_name                = {{flag|North Korea}}
+| subdivision_type1               = [[Provinces of North Korea|Province]]
+| subdivision_name1               = [[North Hwanghae Province]]
+| area_total_km2                  = 179.26
+| population_as_of                = 2009
+| population_total                = 192,578
+| population_density_km2          = auto
+| parts_type                      = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                           = [[#Administrative divisions|24 ''dong'', 3 ''ri'']]
+| established_title               = Settled
+| established_date                = c. 700
+| population_blank1_title         = Dialect
+| population_blank1               = [[Gyeonggi dialect|Gyeonggi]]
+| image_skyline                   = {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 1/2/2
+| image1                 = Koryo Songgyungwan University.jpg
+| image2                 = Fall Foliage in Kaesong, North Korea (15035686873).jpg
+| image3                 = King Kongmin's Tomb.jpg
+| image4                 = 개성 숭양사원.jpg
+| image5                 = Streets in Kaesong 09.JPG
+| image6                 = Kaesong 1.jpg
+}}
+| image_caption                   = Skyline of Kaesong
+| image_map                       = DPRK2006 Hwangbuk-Kaesong.PNG
+| map_caption                    = Map of North Hwanghae showing the location of Kaesong
+| image_seal                      = Emblem of Kaesong.svg
+| image_map1 = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map          = North Korea
+| pushpin_map_caption    = Location within North Korea
+|coordinates             = {{Coord|37|58|N|126|33|E|region:KP|display=inline,title}}
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+| blank_name_sec1                 = Other information
+| blank_info_sec1                 = Split from [[Gyeonggi]] in 1951;<br />joined [[North Hwanghae]] in 2003.
+}}

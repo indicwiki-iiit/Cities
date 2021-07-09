@@ -1,0 +1,37 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Gabrovo
+| image_skyline                   = TownHall Gabrovo.jpg
+| image_caption                   = Gabrovo Town Hall
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br /><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Gabrovo
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Gabrovo
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| area_total_km2                  = 233.817
+| population_density_km2          = auto
+| website                         = [http://www.gabrovo.bg/en Official website]
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| subdivision_name1               = [[Gabrovo Province|Gabrovo]]
+| image_flag                      = BG Gabrovo flag.svg
+| image_shield                    = gerb Gabrovo.svg
+| native_name                     = Габрово
+| population_total                = 58950
+| population_urban                = 66551
+| population_footnotes            = <ref name="cities census 2011"/>
+| population_as_of                = <small>Census February 2011</small>
+| elevation_m                     = 392
+| postal_code                     = 5300
+| area_code                       = 066
+| coordinates                     = {{coord|42|52|N|25|20|E|region:BG|display=inline,title}}
+| leader_name                     = Tanya Hristova
+| name                            = 
+| settlement_type                 = Town
+}}

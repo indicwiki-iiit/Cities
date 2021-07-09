@@ -1,0 +1,49 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = San Juan de Los Morros
+| settlement_type         = City
+| image_skyline           = {{Photomontage
+| photo1a = Morros de San Juan1.jpg
+| photo2a = 
+| photo3a = San Juan de los Morros Ciudad.jpg
+| photo3b = Tarde en el monumento a san juan bautista.JPG
+| photo4a = Morros de San juan.jpg
+| size = 260
+| spacing = 
+| color = white
+| border = 2
+| color_border = white
+}}
+| image_caption           = Panoramic view of San Juan<br/> and [[Monumento Natural Morros de San Juan]]
+| image_flag = Bandera_roscio.jpg 
+| image_seal = 
+| pushpin_map             = Venezuela
+|coordinates             = {{coord|09|54|39|N|67|21|29|W|type:city|display=inline,title}}
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_type1 = [[States of Venezuela|State]]
+|subdivision_type2 = [[Municipalities of Venezuela|Municipality]]
+|subdivision_name = {{flagicon|Venezuela}} [[Venezuela]]
+|subdivision_name1 = [[Guárico]]
+|subdivision_name2 = [[Juan Germán Roscio Municipality]]
+|established_title = Founded
+|established_date = 26 May 1780
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 
+| elevation_m             = 428.5
+| population_footnotes    =
+| population_total        = 125,347
+| population_as_of        =
+| population_density_km2  = auto
+| population_demonym      = Sanjuanero/a
+| population_note         =
+| timezone1               = [[Time in Venezuela|VET]]
+| utc_offset1             = −4
+| postal_code_type        = postal code
+| postal_code             = 2301
+| area_code_type          = area code
+| area_code               = 0246
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Tropical savanna climate|Aw]]
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}

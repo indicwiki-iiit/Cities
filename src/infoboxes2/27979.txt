@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Stokesdale, North Carolina
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "Mi Amore vole fe yah"
+
+<!-- Images -->
+|image_skyline            = Stokesdale, North Carolina.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Seal of Stokesdale, North Carolina.jpg
+
+<!-- Maps -->
+|image_map                = Guilford County North Carolina incorporated and unincorporated areas Stokesdale highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Guilford County, North Carolina|Guilford County]], [[Rockingham County, North Carolina|Rockingham County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Guilford County, North Carolina|Guilford County]], [[Rockingham County, North Carolina|Rockingham County]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = November 9, 1989
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|accessdate=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 49.64
+|area_land_km2            = 49.26
+|area_water_km2           = 0.38
+|area_total_sq_mi         = 19.17
+|area_land_sq_mi          = 19.02
+|area_water_sq_mi         = 0.15
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5047
+|population_density_km2   = 111.44
+|population_density_sq_mi = 288.62
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 288
+|elevation_ft             = 945
+|coordinates              = {{coord|36|14|11|N|79|58|57|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 27357
+|area_code                = [[Area code 336|336]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-65040<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1022797<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.stokesdale.org/ www.stokesdale.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5489
+}}

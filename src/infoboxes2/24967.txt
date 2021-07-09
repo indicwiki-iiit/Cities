@@ -1,0 +1,83 @@
+{{Infobox settlement
+|official_name            = Seneca Falls
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = SF Seneca Can..jpg
+|imagesize                = 250px
+|image_caption            = Seneca Falls Canal Harbor
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within the state of New York
+|pushpin_mapsize        = 
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[Administrative divisions of New York#County|County]]
+|subdivision_name2        = [[Seneca County, New York|Seneca]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor|Supervisor]]
+|leader_name              = Michael Ferrara 
+|leader_title1            = [[Clerk (municipal official)|Clerk]]
+|leader_name1             = Nicaletta Greer
+|leader_title2            = [[Justice Courts (New York)|Court]]
+|leader_name2             = Justice Charles Lafler<br>Justice Steven Kelley
+|established_title        = Settled
+|established_date         = 1790
+|established_title1       = Established
+|established_date1        = March 26, 1829<ref name="HISTORY">[http://www.senecafalls.com/history-summary.php Town of Seneca Falls, New York - History], Retrieved Jun. 2, 2015.</ref>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 71.12
+|area_land_km2            = 62.72
+|area_water_km2           = 8.40
+|area_total_sq_mi         = 27.46
+|area_land_sq_mi          = 24.22
+|area_water_sq_mi         = 3.24
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|population_total         = 9040
+|population_density_km2   = 141.03
+|population_density_sq_mi = 365.28
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 137
+|elevation_ft             = 449
+|coordinates              = {{coord|42|54|31|N|76|47|53|W|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 13148
+|area_code                = [[Area code 315|315]] and [[Area code 680|680]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-66333
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0964826
+|website                  = http://www.senecafalls.com/
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 8846
+}}

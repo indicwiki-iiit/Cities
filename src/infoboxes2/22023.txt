@@ -1,0 +1,20 @@
+{{Infobox company
+| name = Clearview AI
+| logo = Clearview.ai.logo.png
+| type = [[Privately held company|Private]]
+| industry = Facial recognition
+| fate = 
+| predecessor = <!-- or: | predecessors = -->
+| successor = <!-- or: | successors = -->
+| founded = 2017
+| founders = [[Hoan Ton-That]]<br>[[Richard Schwartz (politician)|Richard Schwartz]]
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| hq_location_city = [[Manhattan]], [[New York City]], [[U.S.]]
+| areas_served = [[United States]]
+| products = 
+| owner = <!-- or: | owners = -->
+| num_employees = 
+| num_employees_year = <!-- Year of num_employees data (if known) -->
+| parent = 
+| homepage = {{url|http://www.clearview.ai/}}
+}}

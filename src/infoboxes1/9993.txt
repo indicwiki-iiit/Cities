@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                            = Chiang Rai
+|official_name                   = City of Chiang Rai<br>เทศบาลนครเชียงราย
+|native_name                     = {{lang|th|เชียงราย}}
+|other_name                      =
+|settlement_type                 = [[List of municipalities in Thailand|City Municipality]]
+|image_skyline                   = หอนาฬิกาเชียงราย_Chiang_Rai_Clock_Tower.jpg
+|imagesize                       =
+|image_caption                   = Chiang Rai Clock Tower
+|image_flag                      =
+|flag_size                       =
+|image_seal                      = Seal of Chiang Rai.png
+|seal_size                       =
+|image_shield                    =
+|shield_size                     =
+|image_blank_emblem              =
+|blank_emblem_type               =
+|blank_emblem_size               =
+|nickname                        =
+|motto                           =
+<!-- images and maps  ----------->
+|image_map                       =
+|mapsize                         =
+|map_caption                     =
+|image_map1                      =
+|mapsize1                        =
+|map_caption1                    =
+|pushpin_map                     = Thailand<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position          = bottom
+|pushpin_map_caption             = Location in [[Thailand]]
+<!-- Location ------------------>
+|coordinates                     = {{coord|19|54|34|N|99|49|39|E|region:TH|display=inline}}
+|subdivision_type                = [[List of sovereign states|Country]]
+|subdivision_name                = [[Thailand]]
+|subdivision_type1               = [[Provinces of Thailand|Province]]
+|subdivision_type2               = [[Districts of Thailand|District]]
+|subdivision_type3               = 
+|subdivision_type4               =
+|subdivision_name1               = [[Chiang Rai Province|Chiang Rai]]
+|subdivision_name2               = [[Mueang Chiang Rai District|Mueang Chiang Rai]]
+|subdivision_name3               = 
+|subdivision_name4               =
+<!-- Politics ----------------->
+|established_title               =  <!-- Settled -->
+|established_date                =
+|established_title2              =  <!-- Incorporated (town) -->
+|established_date2               =
+|established_title3              =  <!-- Incorporated (city) -->
+|established_date3               =
+<!-- Area    --------------------->
+|government_footnotes            =
+|government_type                 = City Municipality
+|leader_title                    = Mayor
+|leader_name                     = Wanchai Chongsutthamani
+|leader_title1                   = Vice Mayor
+|leader_name1                    =
+|unit_pref                       = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes                  =
+|area_magnitude                  =
+|area_total_km2                  = 60.85
+|area_total_sq_mi                =
+|area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_land_sq_mi                 =
+|area_water_km2                  =
+|area_water_sq_mi                =
+|area_water_percent              =
+|area_urban_km2                  =
+|area_urban_sq_mi                =
+|area_metro_km2                  =
+|area_metro_sq_mi                =
+|area_blank1_title               =
+|area_blank1_km2                 =
+|area_blank1_sq_mi               =
+<!-- Population   ----------------------->
+|elevation_footnotes             =  <!--for references: use <ref> </ref> tags-->
+|elevation_m                     = 390
+|elevation_ft                    =
+<!-- Area/postal codes & others -------->
+|population_total                = 69888
+|population_as_of                = 2012
+|population_footnotes            =
+|population_density_km2          = auto
+|population_density_sq_mi        =
+|population_urban                =
+|population_density_urban_km2    =
+|population_density_urban_sq_mi  =
+|population_metro                =
+|population_density_metro_km2    =
+|population_density_metro_sq_mi  =
+|population_blank1_title         = 
+|population_blank1               =
+|population_density_blank1_km2   =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_blank2_title         = 
+|population_blank2               =
+|population_note                 =
+|postal_code_type                =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code                     =
+|area_code                       = (+66) 53
+|website                         = {{url|chiangraicity.go.th}}
+|footnotes                       =
+|area_code_type                  = [[Telephone numbers in Thailand|Area code]]
+|geocode                         = 5100
+|pushpin_label                   = Chiang Rai
+|founder                         = [[Mangrai|King Mangrai]]
+|leader_title2                   =
+|leader_name2                    =
+|leader_title3                   =
+|leader_name3                    =
+|leader_title4                   =
+|leader_name4                    =
+|timezone                        = [[Time in Thailand|ICT]]
+|utc_offset                      = +7
+|timezone_DST                    =
+|utc_offset_DST                  =
+|blank_name                      =
+|blank_info                      =
+|blank1_name                     =
+|blank1_info                     =
+}}

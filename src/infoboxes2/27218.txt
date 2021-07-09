@@ -1,0 +1,35 @@
+{{Infobox Australian place
+| type     = town
+| name     = Whittlesea
+| state    = vic
+| image    = WhittleseaMainSt.JPG
+| caption  = Church Street
+| lga      = City of Whittlesea
+| postcode = 3757
+| pop      = 5,611
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs2016">{{Census 2016 AUS | id = SSC22761 | name = Whittlesea (State Suburb) | access-date = 2017-07-03 | quick = on}}</ref>
+| est      = 
+| elevation= 178
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37|30|50|S|145|06|50|E|display=inline,title}}
+| stategov = [[Electoral district of Yan Yean|Yan Yean]]
+| fedgov   = [[Division of McEwen|McEwen]]
+| dist1    = 40
+| dir1     = N
+| location1= [[Melbourne]]
+| dist2    = 22
+| dir2     = N
+| location2= [[Epping, Victoria|Epping]]
+| dist3    = 20
+| dir3     = SE
+| location3= [[Wallan, Victoria|Wallan]]
+| near-nw  = [[Upper Plenty, Victoria|Upper Plenty]]
+| near-n   = [[Clonbinane, Victoria|Clonbinane]]
+| near-ne  = [[Kinglake, Victoria|Kinglake]]
+| near-w   = [[Eden Park, Victoria|Eden Park]]
+| near-e   = [[Kinglake, Victoria|Kinglake]]
+| near-sw  = [[Beveridge, Victoria|Beveridge]]
+| near-s   = [[Doreen, Victoria|Doreen]]
+| near-se  = [[Arthurs Creek, Victoria|Arthurs Creek]]
+}}

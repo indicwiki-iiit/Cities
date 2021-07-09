@@ -1,0 +1,56 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Río Cuarto
+| native_name             = 
+| native_name_lang        = es<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[List of cities in Argentina|City]]
+| image_skyline           = File:Rio cuarto 09.jpg
+| image_alt               = 
+| image_caption           = Roca Square
+| image_flag              = Bandera de la Ciudad de Río Cuarto.svg
+| image_shield            = Escudo de la Ciudad de Río Cuarto.svg
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Argentina Córdoba Province#Argentina#South America
+| pushpin_relief          = 1
+| coordinates             = {{coord|33|8|S|64|21|W|region:AR|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Argentina}}
+| subdivision_type1       = [[Provinces of Argentina|Province]]
+| subdivision_name1       = {{flag|Córdoba}}
+| subdivision_type2       = [[Departments of Argentina|Department]]
+| subdivision_name2       = [[Río Cuarto Department|Río Cuarto]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| government_footnotes    = 
+| leader_party            = [[Support for an Egalitarian Republic|Civic and Social Front]]
+| leader_title            = [[Mayor]]
+| leader_name             = Juan Manuel Llamosas
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 64.25
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 452
+| population_footnotes    = 
+| population_total        = 157,010
+| population_as_of        = 2010 census 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+| timezone1               = [[Time in Argentina|ART]]
+| utc_offset1             = -3
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[Argentine postal code|CPA base]]
+| postal_code             = [[ISO 3166-2:AR|X]]5800
+| area_code_type          = [[Telephone numbering in Argentina|Dialing code]]
+| area_code               = +54 358
+| website                 = [http://www.riocuarto.gov.ar/ Official website]
+| footnotes               = 
+}}

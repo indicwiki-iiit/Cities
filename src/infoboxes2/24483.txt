@@ -1,0 +1,23 @@
+{{Infobox settlement
+| name = Grigoriopol
+| other_name = Григорио́поль (Russian)<br />Грігоріо́поль (Ukrainian)
+| settlement_type = [[list of cities in Moldova|Town]]
+| image_skyline =Grigoriopol bus station.JPG
+<!-- 
+| image_flag   = 
+| image_shield = 
+--> 
+| pushpin_map =Moldova
+| pushpin_label_position =
+| pushpin_map_caption = Location of Grigoriopol in [[Moldova]]
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Moldova}}
+|subdivision_type1      = Self-proclaimed state <!--De facto-->
+|subdivision_name1      = {{flag|Transnistria}}<ref>{{Transnistria-note}}</ref>
+| subdivision_type2     = [[Administrative divisions of Transnistria|District]]
+| subdivision_name2     = [[Grigoriopol District]]
+|coordinates             = {{coord|47|9|1|N|29|17|33|E|display=inline}}
+|population_total = 11,473
+|elevation_m = 41
+|population_as_of = 2004
+}}

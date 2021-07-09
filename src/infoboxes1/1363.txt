@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Surinam<!-- at least one of the first two fields must be filled in -->
+| official_name           = 
+| native_name             = <!-- if different from the English name -->
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name              =
+| settlement_type         = Village<!-- such as Town, Village, City, Borough etc. -->
+| pushpin_map             = Mauritius <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = right <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = Surinam <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         = 
+| pushpin_map_caption     = 
+| pushpin_map1            =
+| pushpin_label_position1 =
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        =
+| pushpin_mapsize1        =
+| pushpin_map_caption1    =
+| coordinates             = {{coord|20|30|50|S|57|30|40|E|region:MU|format=dms|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = {{flagicon|Mauritius}} [[Mauritius]]<!-- the name of the country -->
+| subdivision_type1       = [[Districts of Mauritius|Districts]]
+| subdivision_name1       = [[Savanne District]]
+| subdivision_type2       =
+| subdivision_name2       = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- area ---------------------->
+| area_total_km2          = <!-- Calculated as per official figure of population and density -->
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2           = 
+| area_land_sq_mi         =
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_percent      =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 23
+| elevation_ft            =
+<!-- population ---------------->
+| population_footnotes    = <ref name="Pop">{{cite journal|url=http://www.gov.mu/portal/goc/cso/report2013/migra2012.pdf|publisher=[[Statistics Mauritius]]|title=Table G1 - Resident population by geographical location, whereabouts on census night and sex|page= 1|year=2011|accessdate=8 September 2013}}</ref>
+| population_total        = 10,507
+| population_as_of        = 2011
+| population_rank         = 
+| population_density_km2  = <!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi=
+<!-- time zone(s) -------------->
+| timezone1               = [[Mauritius Time|MUT]]
+| utc_offset1             = +4
+<!-- postal codes, area code --->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 230
+| geocode                 =
+| iso_code                = MU
+| registration_plate      =
+<!-- website, footnotes -------->
+| website                 = 
+| footnotes               =
+}}

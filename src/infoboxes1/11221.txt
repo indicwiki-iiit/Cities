@@ -1,0 +1,51 @@
+{{Infobox Italian comune
+|name = Catania
+|native_name = 
+|official_name = Comune di Catania
+|image_skyline = Catania-Etna-Sicilia-Italy-Castielli CC0 HQ1.JPG
+|image_caption = Catania skyline
+|pushpin_label_position = 
+|region = {{RegioneIT|sigla=SIC}}
+|metropolitan_city = [[Metropolitan City of Catania|Catania]] (CT)
+|frazioni = Bicocca, Codavolpe, Junghetto, Pantano d'Arci, Paradiso degli Aranci, Passo Cavaliere, Passo del Fico, Passo Martino, Primosole, Reitano, Vaccarizzo, Villaggio Delfino
+|mayor = [[Salvo Pogliese]]
+|mayor_party = [[Brothers of Italy|FdI]]
+|elevation_footnotes = 
+|elevation_m = 7
+|area_footnotes = 
+|area_total_km2 = 182.90
+|population_footnotes = <ref name=istat>Official [[Istituto Nazionale di Statistica|ISTAT]] figures [http://www.demo.istat.it/index.html]</ref>
+|population_as_of = 1 January 2019
+|population_total = 311584
+|population_demonym = Catanese
+|telephone = 095
+|postalcode = 95131
+|istat = 087015
+|saint = [[Agatha of Sicily|St. Agatha]]
+|day = 5 February
+|website = {{official website|http://www.comune.catania.it/}}
+|module = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| part_of       = Late Baroque Towns of the [[Val di Noto]] (South-Eastern [[Sicily]])
+| includes      = 
+| criteria      = {{UNESCO WHS type|(i)(ii)(iv)(v)}}(i)(ii)(iv)(v)
+| ID            = 1024rev-002
+| year          = 2002
+| area          = {{convert|38.5|ha|sqft|abbr=on}}
+| buffer_zone   = {{convert|80.13|ha|sqft|abbr=on}}
+}}
+|image_flag = Flag of Catania.svg
+|image_shield = Catania-Stemma.svg
+|imagesize = 270px
+|image_alt = 
+|map_alt = 
+|map_caption = 
+|pushpin_map_alt = 
+|pushpin_map = Sicily#Italy#Europe
+|coordinates = {{coord|37|30|0|N|15|5|25|E|region:IT-CT_type:city(300601)|display=inline,title}}
+|coordinates_footnotes = 
+|twin1 = 
+|twin1_country = 
+|postal_code = 95100
+|area_code = 095 
+}}

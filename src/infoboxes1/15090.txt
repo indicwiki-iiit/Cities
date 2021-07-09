@@ -1,0 +1,51 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = AL khor
+
+| native_name             = الخور
+| native_name_lang        = ar<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| type                    = [[Municipalities of Qatar|Municipality]]
+| image_skyline           = File:Qatar, Al Khor (6).JPG
+| image_alt               = 
+| image_caption           = View of harbor in [[Al Khor (city)|Al Khor City]]
+| image_size              = 210px
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_map               = Al Khor in Qatar 2015.svg
+| mapsize                 = 210px
+| map_alt                 = 
+| map_caption             = Map of Qatar with Al Khor highlighted
+| coordinates             = {{coord|25.69|51.51|region:QA-KH_type:city|display=inline,title}}
+| coor_pinpoint           = [[Al Khor (city)|Al Khor City]]
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Qatar}}
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = [[Capital (political)|Capital]]
+| seat                    = [[Al Khor (city)|Al Khor City]]
+| parts_type              = [[Zones of Qatar|Zones]]
+| parts_style             = para
+| p1                      = 3
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Ibrahim Issa Nasser Al Fadalah
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 1613.3
+| area_note               = 
+| population_footnotes    = <ref name="2015census">{{cite web|url=http://www.mdps.gov.qa/en/knowledge/Publications/Population/Population2015.pdf|title=2015 Population census|publisher=Ministry of Development Planning and Statistics|date=April 2015|access-date=8 August 2017}}</ref>
+| population_total        = 202,031
+| population_as_of        = 2015
+| population_density_km2  = auto
+| population_note         = 
+| timezone1               = [[East Africa Time]]
+| utc_offset1             = +03
+| iso_code                = QA-KH 
+| website                 = <!-- [http://www.example.com example.com] -->
+| footnotes               = 
+}}

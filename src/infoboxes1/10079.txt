@@ -1,0 +1,39 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Rize
+|settlement_type = [[Municipality]]
+| image_skyline           = File:Panorama_of_Rize.jpg
+| image_caption           = View of Rize
+| image_shield            = 
+| pushpin_map             = Turkey#Black Sea
+|pushpin_relief           = 1
+| coordinates             = {{coord|41|01|29|N|40|31|20|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Rize Province|Rize]]
+| subdivision_type2       = 
+| subdivision_name2       =
+| timezone                = [[Time in Turkey|TRT]]
+| utc_offset              = +3 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Reşat Kasap
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Rize|Rize}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Rize}}
+| population_urban        = {{Turkey district populations|Rize|Rize|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Rize|Rize|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Humid subtropical climate|Cfa]]
+| postal_code_type        = Post code
+| postal_code             = 53000
+| website                 = {{URL| www.rize.bel.tr | www.rize.bel.tr }}
+}}

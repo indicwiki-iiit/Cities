@@ -1,0 +1,62 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| official_name           = Brandenburg
+| native_name             = 
+| native_name_lang        = de
+| settlement_type         = [[States of Germany|State]]
+| image_skyline           = 
+| imagesize               = 270px
+| image_caption           = 
+| image_flag              = Flag of Brandenburg.svg
+| flag_size               = 120px
+| image_shield            = Brandenburg Wappen.svg
+| shield_size             = 75px
+| anthem                  = 
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=5|type=shape<!--line-->|stroke-color=|stroke-width=2|frame-lat=51.1|frame-long=10.5|frame-width=250|frame-height=300}}
+| mapsize                 = 155px
+| map_caption             = 
+| coordinates             = {{coord|52|21|43|N|13|0|29|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Germany]]
+| seat_type               = Capital
+| seat                    = [[Potsdam]]
+| governing_body          = [[Landtag of Brandenburg]]
+| leader_party            = SPD
+| leader_title            = [[Minister-President]]
+| leader_name             = [[Dietmar Woidke]]
+| leader_title1           = Governing parties
+| leader_name1            = {{Polparty|Germany|SPD}} / {{Polparty|Germany|CDU}} / {{Polparty|Germany|Green}} 
+| leader_title2           = [[Bundesrat of Germany|Bundesrat votes]]
+| leader_name2            = 4 (of 69)
+| total_type              = Total
+| area_footnotes          = 
+| area_total_km2          = 29478.63
+| elevation_m             = 
+| population_footnotes    = <ref>{{cite web|url=https://www.statistik-berlin-brandenburg.de/publikationen/stat_berichte/2020/SB_A01-01-00_2019q03_BB.pdf|title=Bevölkerungsentwicklung und Bevölkerungsstand im Land Brandenburg 3. Quartal 2019|work=[[Amt für Statistik Berlin-Brandenburg]]|date=2019 |access-date=23 May 2020 |language=de}}</ref>
+| population_total        = 2520198 
+| population_as_of        = 2019-09-30
+| population_density_km2  = auto
+| population_urban        = 
+| population_metro        = 
+| population_demonym      =  
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| registration_plate      = formerly: BP<small> (1945–1947)</small>, SB (1948–1953)<ref>BP = Brandenburg Province, SB = Soviet Zone, Brandenburg. With the abolition of states in East Germany in 1952 vehicle registration followed the new Bezirk subdivisions. Since 1991 distinct prefixes are specified for each district.</ref>
+| blank_name_sec1         = [[Gross regional product|GRP (nominal)]]
+| blank_info_sec1         = €74 billion (2019)<ref>{{cite web|url=https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|title=Bruttoinlandsprodukt – in jeweiligen Preisen – 1991 bis 2019|website=statistik-bw.de|access-date=26 June 2019|archive-date=25 June 2020|archive-url=https://web.archive.org/web/20200625204722/https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|url-status=dead}}</ref>
+| blank1_name_sec1        = GRP per capita
+| blank1_info_sec1        = €30,000 (2019)
+| iso_code                = DE-BB
+| blank_name_sec2         = [[First level NUTS of the European Union#Germany|NUTS Region]]
+| blank_info_sec2         = DE4
+| blank2_name_sec2         = [[Human Development Index|HDI]] (2018)
+| blank2_info_sec2         = 0.914<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=13 September 2018}}</ref><br/>{{color|green|very high}} · [[List of German states by Human Development Index|14th of 16]]
+| website                 = [http://www.brandenburg.de/ brandenburg.de]
+| footnotes               = 
+}}

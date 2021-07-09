@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Beşikdüzü
+| image_skyline           = 
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|41|2|58|N|39|14|7|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Trabzon Province|Trabzon]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AK PARTİ]]
+| leader_title            = Mayor
+| leader_name             = Orhan Bıçakçıoğlu
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Trabzon|Beşikdüzü}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Trabzon}}
+| population_urban        = {{Turkey district populations|Trabzon|Beşikdüzü|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Trabzon|Beşikdüzü|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Humid subtropical climate|Cfa]]
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

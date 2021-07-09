@@ -1,0 +1,64 @@
+{{Infobox settlement
+| official_name            = Painesville, Ohio
+| settlement_type          = [[City]]
+<!-- Images -->
+| image_skyline            = Lake County Courthouse, Painesville, rear and western side.jpg
+| image_caption            = Lake County Courthouse in Painesville
+| image_flag               = 
+| image_seal               = 
+<!-- Maps -->
+|image_map                = OHMap-doton-Painesville.png
+|mapsize                  = 250px
+|map_caption              = Location of Painesville, Ohio
+|image_map1               = Map of Lake County Ohio Highlighting Painesville City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Painesville in Lake County
+<!-- Location -->
+| coordinates              = {{coord|41|43|22|N|81|14|59|W|region:US-OH|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Ohio]]
+| subdivision_type2        = [[List of counties in Ohio|County]]
+| subdivision_name2        = [[Lake County, Ohio|Lake]]
+| established_title        = Settled
+| established_date         = 1800
+| leader_title             = 
+| leader_name              = 
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_total_km2           = 18.15
+| area_total_sq_mi         = 7.01
+| area_land_km2            = 17.68
+| area_land_sq_mi          = 6.83
+| area_water_km2           = 0.47
+| area_water_sq_mi         = 0.18
+| elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_m              = 206
+| elevation_ft             = 676
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 19563
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 19886
+| pop_est_as_of            = 2019
+| population_density_km2   = 1124.92
+<!-- 2019 est. -->
+| population_density_sq_mi = 2913.70
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 44077
+| area_code                = [[Area code 440|440]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 39-59416<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1044274<ref name="GR3" />
+| website                  = {{URL|www.painesville.com}}
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

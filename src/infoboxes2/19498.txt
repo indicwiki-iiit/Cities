@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Radcliff, Kentucky
+|settlement_type          = [[List of cities in Kentucky|City]]
+|named_for                = 
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Hardin County Kentucky Incorporated and Unincorporated areas Radcliff Highlighted 2163912.svg
+|mapsize                  = 250px
+|map_caption              = Location of Radcliff in Hardin County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Hardin County, Kentucky|Hardin]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = JJ Duvall
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = 1956<ref name=sos>Commonwealth of Kentucky. Office of the Secretary of State. Land Office. "Radcliff, Kentucky". Accessed 26 August 2013.</ref>
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 34.54
+|area_land_km2            = 34.46
+|area_water_km2           = 0.08
+|area_total_sq_mi         = 13.34
+|area_land_sq_mi          = 13.30
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 21688
+|pop_est_as_of            = 2019
+|population_est           = 22914
+|population_density_km2   = 665.01
+<!--2018 est.-->
+|population_density_sq_mi = 1722.34
+|population_demonym       = Hoodrat (citation needed)
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 235
+|elevation_ft             = 771
+|coordinates              = {{coord|37|49|48|N|85|56|44|W|region:US-KY_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 40159-40160
+|area_code = [[Area codes 270 and 364|270 & 364]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 21-63912
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0501516
+|website                  = {{URL|www.radcliff.org}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

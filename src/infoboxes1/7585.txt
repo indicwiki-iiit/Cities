@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                            = Umm al-Fahm
+| native_name                     = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|אום אל-פחם}}|rtl=yes}}
+ | {{Lang|ar|أم الفحم|rtl=yes}}
+ }}
+| settlement_type                 = [[List of cities in Israel|City]] (from 1985)
+| image_skyline                   = Umm Al-Fahm 004.JPG
+| image_caption                   = Umm al-Fahm
+| image_blank_emblem              = Coat of arms of Umm Al Fahm.svg
+| blank_emblem_type               = Emblem of Umm al-Fahm
+| pushpin_map_alt                 = 
+| pushpin_map                     = Israel haifa#Israel
+| pushpin_mapsize                 = 250
+| pushpin_label_position          = bottom
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|32|31|10|N|35|09|13|E|region:IL|format=dms|display=inline,title}}
+| grid_name                       = Grid&nbsp;position
+| grid_position                   = 164/213 [[Palestine grid|PAL]]
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Israel]]
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = [[Districts of Israel|District]]
+| subdivision_name2               = {{flag|Haifa District|name=Haifa}}
+| leader_title                    = Mayor
+| leader_name                     = Dr. Samir Sobhi Mahamed
+| unit_pref                       = dunam
+| area_total_dunam                = {{formatnum:26060|R}}
+| population_footnotes            = {{Israel populations|reference}}
+| population_total                = {{Israel populations|Umm Al-fahm}}
+| population_as_of                = {{Israel populations|Year}}
+| population_density_km2          = auto
+| blank_name_sec1                 = Name meaning
+| blank_info_sec1                 = Mother of Charcoal<ref name = Palmer>Palmer, 1881, [https://archive.org/stream/surveyofwesternp00conduoft#page/154/mode/1up p.154]</ref>
+}}

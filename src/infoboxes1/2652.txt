@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!--Basic info-->
+|official_name=Tabora
+|other_name=
+|native_name=<!-- for cities whose native name is not in English -->
+|nickname=
+|settlement_type=Municipality
+|motto=
+<!--images and maps-->
+|image_skyline=Bundesarchiv Bild 146-1984-063-36A, Deutsch-Ostafrika, Reise Bernhard Dernburg.jpg
+|imagesize=
+|image_caption=Captives in Tabora (1907)
+|image_flag=
+|flag_size=
+|image_seal=
+|seal_size=
+|image_map=
+|mapsize=
+|map_caption= 
+|pushpin_map=Tanzania
+|pushpin_map_caption=Location of Tabora.
+|pushpin_relief=yes
+|subdivision_type=Country
+|subdivision_name=Tanzania
+|subdivision_type1=[[Regions of Tanzania|Region]]
+|subdivision_name1=[[Tabora Region]]
+|subdivision_type2=[[Districts of Tanzania|District]]
+|subdivision_name2=[[Tabora Urban District]]
+|subdivision_type3=
+|subdivision_name3=
+<!--Politics-->
+|government_footnotes=
+|government_type=
+|leader_title=
+|leader_name=
+|established_title=<!-- Settled -->
+|established_date=
+<!--Area-->
+|area_magnitude=
+|unit_pref=Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes=
+|area_total_km2=
+|area_land_km2=<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!--Population-->
+|population_as_of=2012
+|population_footnotes=
+|population_note=
+|population_total=226999
+|population_density_km2=
+|population_urban       = 160608
+|population_urban_footnotes = <ref>[https://www.citypopulation.de/en/tanzania/cities/ Citypopulation.de] Population of cities & urban localities in Tanzania</ref>
+<!--General information-->
+|timezone=[[East Africa Time|EAT]]
+|utc_offset=+3
+|timezone_DST=[[East Africa Time|EAT]]
+|utc_offset_DST=
+|coordinates={{coord|5|1|S|32|48|E|region:TZ|display=inline}}
+|elevation_footnotes=<!--for references: use <ref> tags-->
+|elevation_m=
+|elevation_ft=<!--accord. to Google Earth-->
+<!--Area/postal codes & others-->
+|postal_code_type=<!--enter ZIP code, Postcode, Post code, Postal code...-->
+|postal_code=
+|area_code=026
+|blank_name=[[Köppen climate classification|Climate]]
+|blank_info=[[Tropical savanna climate|Aw]]
+|website={{URL|http://www.tabora.go.tz/|Regional website}}
+|footnotes=
+}}

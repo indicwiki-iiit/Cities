@@ -1,0 +1,57 @@
+{{Infobox airport
+| name         = Puerto Heath Airport
+| nativename   = 
+| nativename-a =
+| nativename-r =
+| image        =
+| image-width  = <!-- if less than 200 -->
+| caption      =
+| image2       =
+| image2-width = <!-- if less than 200 -->
+| caption2     =
+| IATA         =  
+| ICAO         = SLKH
+| FAA          =
+| TC           =
+| LID          = 
+| GPS          =
+| WMO          =
+| type         = Public
+| owner-oper   =
+| owner        =
+| operator     =
+| city-served  = [[Puerto Heath]], [[Bolivia]]
+| location     = 
+| hub          =
+| built        = <!-- military airports -->
+| used         = <!-- military airports -->
+| commander    = <!-- military airports -->
+| occupants    = <!-- military airports -->
+| metric-elev  =
+| elevation-f  = 590 
+| elevation-m  = 
+| coordinates  = {{coord|12|30|15|S|68|39|00|W|display=inline,title}}
+| website                = 
+| image_map              =
+| image_mapsize          =
+| image_map_alt          =
+| image_map_caption      =
+| pushpin_map            = Bolivia
+| pushpin_label_position =
+| pushpin_label          = '''SLKH'''
+| pushpin_map_alt        =
+| pushpin_map_caption    = Location of the airport in Bolivia
+| r1-number    = 03/21
+| r1-length-f  = 
+| r1-length-m  = 530
+| r1-surface   = Grass
+| metric-rwy   = y
+| h1-number    = 
+| h1-length-f  = 
+| h1-length-m  = 
+| h1-surface   = <!-- up to h12 -->
+| stat1-header =
+| stat1-data   = <!-- up to stat4 -->
+| stat-year    =
+| footnotes    = Sources: GCM<ref name="GCM">{{GCM|SLKH|Puerto Heath Airport}}</ref> Google Maps<ref name="gm">[https://www.google.com/maps/@-12.5049691,-68.6497923,1709m/data=!3m1!1e3 Google Maps - Puerto Heath]</ref>
+}}

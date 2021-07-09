@@ -1,0 +1,48 @@
+{{Infobox settlement
+| name                   = Nof HaGalil
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|נוף הגליל}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|نوف هچليل}}|rtl=yes}}
+ }}
+| other_name             = Nazareth Illit{{*}}{{Script/Hebrew|נָצְרַת עִלִּית}}{{*}}{{Script/Arabic|الناصرة العليا / نتسرات عيليت}}{{ref|other}}
+| settlement_type        = [[List of cities in Israel|City]]
+| image_skyline          = File:WikiAir Flight IL-13-09 058.jpg
+| imagesize              = 250
+| image_blank_emblem     = Coat of Arms of Nof HaGalil.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel jezreel#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|43|N|35|20|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1957
+| established_title1      = [[List of cities in Israel|City Status]]
+| established_date1       = 1974
+| leader_title           = Mayor
+| leader_name            = [[Ronen Plot]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:32521|R}}
+| population_footnotes   = {{Israel populations|reference}}
+<!-- Do not change, Israel populations Template uses the previous name of the locality -->| population_total       = {{Israel populations|Nazerat Illit}}
+| population_as_of       = {{Israel populations|Year}}
+|demographics_type1              = Ethnicity
+|demographics1_footnotes ={{Israel populations|reference}}
+| demographics1_title1         = [[Israeli Jews|Jews and others]]
+| demographics1_info1     = 71.3%
+| demographics1_title2         = [[Arab citizens of Israel|Arabs]]
+| demographics1_info2        = 28.7%
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = View of Galilee
+| footnotes              = {{note|other}}From 1957 to 2019
+| website                = {{URL|www.nof-hagalil.muni.il}}
+}}

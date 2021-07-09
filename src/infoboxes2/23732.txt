@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Town of Orono
+|other_name             =
+|settlement_type        = Town
+|image_skyline          = OronoMillStreet.JPG
+|imagesize              = 250px
+|image_caption          = Mill Street business in downtown Orono
+|image_flag             = 
+|flag_size              =
+|image_seal             = Orono Maine seal.jpg
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = Map of Orono, Penobscot Country, Maine Highlighted.png
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|pushpin_map_caption    =
+|coordinates            = {{coord|44.883|-68.672|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[United States]]
+|subdivision_type1      = State
+|subdivision_type2      = County
+|subdivision_name1      = [[Maine]]
+|subdivision_name2      = [[Penobscot County, Maine|Penobscot]]
+<!-- Politics ----------------->
+|established_title      = Settled 
+|established_date       = 1774
+|established_title2     = Incorporated
+|established_date2      = March 12, 1806
+|established_title3     = Chartered
+|established_date3      = 1969
+<!-- Area -->
+|government_footnotes   =
+|government_type        = Council/Manager
+|leader_title           = Town Manager
+|leader_name            =  Sophia L. Wilson
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|unit_pref                = Imperial
+|area_footnotes           = <ref name ="Gazetteer files"/>
+|area_magnitude           = 
+|area_total_km2           = 50.76
+|area_total_sq_mi         = 19.60
+|area_land_km2            = 47.11
+|area_land_sq_mi          = 18.19
+|area_water_km2           = 3.65
+|area_water_sq_mi         = 1.41
+|area_water_percent       = 7.19
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total         = 10362
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_density_km2   = 220.0
+|population_density_sq_mi = 569.7
+<!-- General information  --------------->
+|population_est           = 11242
+|pop_est_as_of            = 2016
+|population_note                =
+|postal_code_type       = ZIP Code
+|postal_code            = 04473-Town, 04469-UMaine 
+|area_code              = 207
+|website                = [http://www.orono.org www.orono.org]
+|footnotes              = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|timezone               = EST
+|utc_offset             = -5
+|timezone_DST           = EDT
+|utc_offset_DST         = -4
+}}

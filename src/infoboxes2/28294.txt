@@ -1,0 +1,90 @@
+{{Infobox settlement
+|name                     = Ravena
+|settlement_type          = [[Administrative divisions of New York#Village|Village]]
+|nickname                 = The Friendship Community<ref name="history"/>
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                 = Albany County New York incorporated and unincorporated areas Ravena highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Albany County, New York|Albany County]] and the state of [[New York (state)|New York]].
+|pushpin_map = New York#USA
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Albany County, New York|Albany]]
+|subdivision_type3        = [[Administrative divisions of New York#Town|Town]]
+|subdivision_name3        = [[Coeymans (town), New York|Coeymans]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = William Misuraca
+|leader_title1            = Deputy Mayor
+|leader_name1             = Keith E. Mahler
+|leader_title2            = Trustee
+|leader_name2             = William Bailey
+|leader_title3            = Trustee
+|leader_name3             = Joel Coye
+|leader_title4            = Trustee
+|leader_name4             = Nancy Warner
+|leader_title5            = Fire Department Chief
+|leader_name5             = Travis Witbeck
+|leader_title6            = Foreman
+|leader_name6             = F. Persico
+|leader_title7            = Building Department Supervisor
+|leader_name7             = Joeseph Burns
+|leader_title8            = Water Department Superindendent
+|leader_name8             = 
+
+|established_title        = Incorporated
+|established_date         = 1914
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 3.82
+|area_land_km2            = 3.80
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 1.47
+|area_land_sq_mi          = 1.47
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 3268
+|population_density_km2   = 834.56
+|population_density_sq_mi = 2161.44
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 70
+|elevation_ft             = 230
+|coordinates              = {{coord|42|28|35|N|73|48|51|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12143
+|area_code                = [[Area code 518|518]] Exchange: 756
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-60675
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0962229
+|website                  = http://www.villageofravena.com
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 3173
+}}

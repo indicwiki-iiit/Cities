@@ -1,0 +1,26 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+| official_name          = Nagyhalász
+| settlement_type        = Town <!--For Town or Village (leave blank for the default City)-->
+| image_skyline          = Nagyhalász légifotó.jpg
+| image_shield           = HUN_Nagyhalász_Címer.svg
+| image_flag             = Flag of Nagyhalász.svg
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Hungary
+| coordinates            = {{coord|48|08|N|21|46|E|region:HU|display=inline,title}}
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = [[Hungary]]
+| subdivision_type1      = [[Counties of Hungary|County]]
+| subdivision_name1      = Szabolcs-Szatmár-Bereg
+| area_total_km2         = 44.34
+| population_total       = 5676<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1 January 2015]''. Hungarian Central Statistical Office. 03/09/2015</ref>
+| population_as_of       = 2015
+| population_density_km2 = 128.1
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| postal_code_type       = [[Postal code]]
+| postal_code            = 4485
+| area_code              = 42
+}}

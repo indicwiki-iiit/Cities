@@ -1,0 +1,49 @@
+{{Infobox UK place
+| official_name                     = Tadley
+| local_name                        =
+| country                           = England
+| region                            = South East England
+<!-- IMAGES -->
+| static_image_name                 = TadleyShopping.jpg
+| static_image_caption              = Shops on Mulfords Hill
+| static_image_alt                  = <!-- for a description of the image per [[WP:ALT]] -->
+<!-- STATISTICS -->
+| area_total_sq_mi                  = <!-- square mile data as a number - will automatically provide conversion to  km<sup>2</sup> -->
+| area_total_km2                    = <!-- sq km data as a number - will automatically provide
+conversion to sq mi (if blank) -->
+| area_footnotes= <!-- to cite the values used in the area fields. Use the <ref> </ref> tags -->
+| population                        = 11,473
+| population_ref                    = <ref>{{cite web|url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=11129416&c=Tadley&d=16&e=62&g=6428786&i=1001x1003x1032x1004&o=362&m=0&r=1&s=1482158956154&enc=1|title=Town Population 2011|access-date=19 December 2016|publisher=Office for National Statistics |work=Neighbourhood Statistics}}</ref>
+| population_density                = <!-- for /sq mi ...use convert template {{convert|(enter value) |/sqmi|/km2|abbr=on}} -->
+<!-- if pop density/km<sup>2</sup> is known use {{convert|(enter value)|/km2|/sqmi|abbr=on}} -->
+<!-- note: if population is given and either area_total_sq_mi or area_total_km2 is given then population_density will be calculated -->
+<!-- MAP & LOCATION -->
+| map_alt                           = <!-- alt text for map, for visually impaired and other readers who cannot see the image; see </nowiki>[[WP:ALT]]<nowiki> -->
+| coordinates                       = {{coord|51.3506|-1.1376|display=inline,title}}
+| label_position                    = bottom
+| post_town                         = TADLEY
+| post_town1                        = <!-- for places in more than one post town -->
+| postcode_area                     = RG
+| postcode_district                 = RG26
+| postcode_district1                = <!-- for places in more than one postcode area -->
+| dial_code                         = 0118
+<!-- GOVERNANCE -->
+| constituency_westminster          = [[North West Hampshire]]
+| constituency_westminster1         = <!-- for places in more than one constituency. Use a link. -->
+| civil_parish                      = Tadley
+| civil_parish1                     = <!-- for places in more than one parish. Use a link. -->
+<!-- DISTANCES -->
+<!-- you can use the template {{convert|(enter data)|mi|precision=0}} to help convert miles to km automatically; both are displayed -->
+| london_distance_mi                = <!-- for UK articles (outside of Greater London), distance to London as the crow flies -->
+| london_distance_km                =
+| london_distance                   =
+| london_direction                  =
+<!-- ENGLAND-SPECIFIC -->
+| shire_district                    = [[Basingstoke and Deane]]
+| shire_county                      = [[Hampshire]]
+| unitary_england                   =
+| website                           = [http://www.tadleycouncil.org/ Tadley Town Council]
+<!-- ALL AREAS -->
+| hide_services                     = <!-- Set to Yes to turn off Police/Fire/Ambulance -->
+| os_grid_reference                 = SU601616
+}}

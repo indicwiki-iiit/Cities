@@ -1,0 +1,90 @@
+{{Infobox settlement
+|name                   = Matane
+|official_name          = 
+|native_name            = 
+|other_name             =
+|settlement_type        = [[Town (Quebec)|Town]]
+|image_skyline          = Embouchre.Riviere.Matane.jpg
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 120x80px
+|image_seal             = 
+|seal_size              =
+|image_shield           = Blason ville ca Matane (Québec).svg
+|shield_size            = 100x80px
+|nickname               = 
+|motto                  = ''Le succès dans l'effort''  {{nowrap|(Success in effort)}}
+|image_map              = Matane Quebec location diagram.png
+|map_caption            = Location within La Matanie RCM.
+|pushpin_map            = Canada Eastern Quebec
+|pushpin_label_position = 
+|pushpin_label          = 
+|pushpin_map_caption    = Location in eastern Quebec.
+|coordinates            = {{coord|48|51|N|67|32|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Gaspésie]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[La Matanie Regional County Municipality|La Matanie]]
+|established_title      = Settled
+|established_date       = 
+|established_title1     = Constituted
+|established_date1      = September 26, 2001
+|established_title2     = 
+|established_date2      = 
+|established_title3     =  
+|established_date3      = 
+|government_footnotes   = <ref name=mamrot>{{cite web |url=http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/08053/ |title=Matane |work=Répertoire des municipalités |publisher=Ministère des Affaires municipales, des Régions et de l'Occupation du territoire |language=fr |access-date=2012-01-23 |archive-url=https://web.archive.org/web/20140413130439/http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/08053 |archive-date=2014-04-13 |url-status=dead }}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Jérome Landry
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Avignon—La Mitis—Matane—Matapédia]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Matane-Matapédia]]
+|area_footnotes         = <ref name=mamrot/><ref name="cp2011B">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2408053&Geo2=PR&Code2=24&Data=Count&SearchText=Matane&SearchType=Begins&SearchPR=01&B1=All&Custom= |title=Matane census profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-01-23}}</ref>
+|area_magnitude         = 
+|area_total_km2         = 228.50
+|area_land_km2          = 195.47
+|area_water_km2         = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|area_metro_footnotes   = <ref name="cp2011-CA">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=403&Geo2=PR&Code2=24&Data=Count&SearchText=Matane&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=403&TABID=1 |title=Matane (Census agglomeration) community profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-05-24}}. The census agglomeration consists of Matane, [[Saint-René-de-Matane, Quebec|Saint-René-de-Matane]], [[Saint-Ulric, Quebec|Saint-Ulric]], [[Sainte-Félicité, Bas-Saint-Laurent, Quebec|Sainte-Félicité]]. In the 2006 census, the census agglomeration had not included Saint-René-de-Matane nor Sainte-Félicité.</ref>
+|area_metro_km2         = 662.96
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|population_footnotes   = <ref name="cp2011B"/>
+|population_total       = 14462
+|population_as_of       = [[Canada 2011 Census|2011]]
+|population_density_km2 = 74.0
+|population_urban               = 
+|population_density_urban_km2   =
+|population_metro_footnotes = <ref name="cp2011-CA"/>
+|population_metro       = 18368
+|population_density_metro_km2   = 27.7
+|population_blank1_title        = Pop&nbsp;<small>2006–11</small>
+|population_blank1              = {{decrease}} 1.9%
+|population_density_blank1_km2  =
+|population_blank2_title= Dwellings
+|population_blank2      = 7293
+|population_demonym     = Matanais, Matanaises
+|population_note        = 
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Time Zone|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of G postal codes of Canada|G4W]]
+|area_code              = [[Area codes 418 and 581|418 and 581]]
+|blank_name             = Highways
+|blank_info             = {{jct|state=QC|QC|132}} <br> {{jct|state=QC|QC|195}}
+|blank1_name            = [[Geocode|Geographical code]]
+|blank1_info            = 24 08053
+|website                = {{URL|www.ville.matane.qc.ca}}
+|footnotes              = 
+}}

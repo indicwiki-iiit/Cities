@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Kirovohrad Oblast
+| native_name             = {{br separated entries
+  |Кіровоградська область
+  |Kirovohrads’ka oblast’
+  }}
+| native_name_lang        = uk<!-- ISO 639-2 code e.g. "fr" for French. -->
+| official_name           = Kirovohradska oblast<ref>{{Cite web|last=Syvak|first=Nina|last2=Ponomarenko|first2=Valerii|last3=Khodzinska|first3=Olha|last4=Lakeichuk|first4=Iryna|date=2011|editor-last=Veklych|editor-first=Lesia|others=scientific consultant Iryna Rudenko; reviewed by Nataliia Kizilowa; translated by Olha Khodzinska|title=Toponymic Guidelines for Map and Other Editors for International Use|url=https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/Toponymic%20guidelines%20PDF/Ukraine/Verstka.pdf|page=20|access-date=2020-10-06|website=[[United Nations Statistics Division]]|publisher=DerzhHeoKadastr and Kartographia|format=PDF|publication-place=Kyiv|isbn=978-966-475-839-7}}</ref>
+| nickname                = {{lang|uk|Кіровоградщина}} ({{transl|uk|Kirovohradshchyna}})
+| settlement_type         = [[Oblasts of Ukraine|Oblast]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Flag_of_Kirovohrad_Oblast.svg
+| flag_alt                = Flag of Kirovohrad Oblast
+| image_shield            = Coat_of_Arms_of_Kirovohrad_Oblast.svg
+| shield_alt              = Coat of arms of Kirovohrad Oblast
+| image_map               = Kirovohrad in Ukraine.svg
+| mapsize                 = 275px
+| map_alt                 = 
+| map_caption             = 
+| coordinates             = {{coord|48.46|32.27|type:adm1st_region:UA|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Ukraine}}
+| parts_type              = [[List of cities in Ukraine by population|Largest cities]]
+| parts_style             = para
+| p1                      = 
+| established_title       = 
+| established_date        = 
+| seat_type               = [[Administrative centre|Administrative center]]
+| seat                    = [[Kropyvnytskyi]]
+| leader_party            = 
+| leader_title            = [[Governor of Kirovohrad Oblast|Governor]]
+| leader_name             = [[Valerii Zhaldak]] ([[acting (law)|acting]])<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2021/04/15/7290370/ Zelensky fired the head of the Kirovohrad region], [[Ukrayinska Pravda]] (15 April 2021)</ref>
+| leader_title1           = [[Kirovohrad Oblast Council|Oblast council]]
+| leader_name1            = 64 seats
+| leader_title2           = Chairperson
+| leader_name2            = [[Oleksandr Chornoivanenko]] ([[Batkivshchyna]])
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 24588
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_rank               = [[List of Ukrainian oblasts and territories by area|Ranked 15th]]
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = 
+| population_total        = 933109
+| population_rank         = [[List of Ukrainian oblasts and territories by population|Ranked 25th]]
+| population_as_of        = 2020
+| population_blank1_title = Annual growth
+| population_blank1       = 
+| population_density_km2  = auto
+| demographics_type1      = 
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    = {{nowrap|[[Official language|Official language(s)]]}}
+| demographics1_info1     = 
+| demographics1_title2    = [[List of Ukrainian oblasts and territories by salary|Average salary]]
+| demographics1_info2     = 
+| demographics1_title3    = Salary growth
+| demographics1_info3     = 
+| blank_name_sec1         = [[Raions of Ukraine|Raion]]s
+| blank_info_sec1         = 21
+| blank1_name_sec1        = [[List of cities in Ukraine by subdivision#Kirovohrad Oblast|Cities]] <small>(total)</small>
+| blank1_info_sec1        = 12
+| blank2_name_sec1        = •&nbsp;[[City of regional significance (Ukraine)|Regional cities]]
+| blank2_info_sec1        = 4
+| blank3_name_sec1        = [[List of urban-type settlements in Ukraine by subdivision#Kirovohrad Oblast|{{nowrap|Urban-type settlements}}]]
+| blank3_info_sec1        = 26
+| blank4_name_sec1        = Villages
+| blank4_info_sec1        = 1015
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[Ukrainian postal codes|Postal code]]
+| postal_code             = [[Ukrainian postal codes|25000-27999]]
+| area_code_type          = [[Area code#Ukraine|Area code]]
+| area_code               = [[Area code#Ukraine|+380-52]]
+| iso_code                = [[ISO 3166-2:UA|UA-35]]
+| registration_plate_type = [[Vehicle registration plates of Ukraine|Vehicle registration]]
+| registration_plate      = ВA
+| blank_name_sec2         = [[FIPS 10-4]]
+| blank_info_sec2         = [[List of FIPS region codes (S-U)#UP: Ukraine|UP10]]
+| website                 = [http://www.kr-admin.gov.ua/ kr-admin.gov.ua]
+| footnotes               = 
+}}

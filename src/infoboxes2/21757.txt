@@ -1,0 +1,31 @@
+{{Infobox mountain
+| name = Mount Washington
+| native_name = Agiocochook <ref name="gnis"/>
+| photo = White Mountains 12 30 09 81.jpg
+| photo_caption = Mount Washington from [[Intervale, New Hampshire|Intervale]]
+| elevation_ft = 6288.3
+| elevation_ref = {{NAVD88}}<ref name="ngs">{{cite ngs |id=PF0951 |name=Mount Washington |accessdate=July 8, 2019}}</ref>
+| prominence_ft = 6148
+| prominence_ref = <ref name="pb">{{cite peakbagger |pid=6960 |name=Mount Washington, New Hampshire |access-date=February 16, 2014}}</ref>
+| listing = {{unbulleted list
+  |[[List of the most isolated major summits of North America|North America isolated peaks]] 6th
+  |[[List of the most prominent summits of the United States|US most prominent peaks]] 59th
+  |[[List of U.S. states by elevation|U.S. state high point]] 18th
+  |[[List of New England Fifty Finest|New England Fifty Finest]] 1st
+  |[[Four-thousand footers|White Mountain 4000-footers]] 1st
+  |[[Ultra-prominent peak|Ultra]]
+  }}
+| location = [[Sargent's Purchase, New Hampshire|Sargent's Purchase]], [[Coös County, New Hampshire|Coös County]], [[New Hampshire]], [[United States|U.S.]]
+| range = [[Presidential Range]]
+| map = New Hampshire#USA
+| map_caption = Location in New Hampshire##Location in the United States
+| map_size = 200
+| label_position = none
+| coordinates   = {{coord|44|16|13.8|N|71|18|11.7|W|region:US-NH_type:mountain_scale:100000|format=dms|display=inline,title}}
+| coordinates_ref = <ref name="ngs" />
+| topo = [[United States Geological Survey|USGS]] Mount Washington<ref name="gnis">{{cite gnis|871352|Mount Washington |access-date=July 7, 2020}}</ref>
+| type =
+| age =
+| first_ascent = 1642 (first recorded)
+| easiest_route = [[Hiking|Hike]], ride [[Mount Washington Cog Railway|cog railway]], or drive via [[Mount Washington Auto Road]].
+}}

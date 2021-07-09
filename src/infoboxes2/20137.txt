@@ -1,0 +1,110 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name            = Bartow, Florida
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[City]]
+| image_skyline            = Bartow crths old01.jpg
+| image_caption            = [[Old Polk County Courthouse (Bartow, Florida)|Old Polk County Courthouse]]
+| image_flag               = <!-- images and maps  ----------->
+| image_seal               = Bartow-city-seal.JPG
+| image_shield             = 
+| nickname                 = City of Oaks and Azaleas
+| image_map                = File:Polk County Florida Incorporated and Unincorporated areas Bartow Highlighted 1203675.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Bartow in Polk County, Florida.
+| pushpin_map              = Florida#USA#North America
+| pushpin_label = Bartow
+| pushpin_map_caption = Location in Florida
+| coordinates              = {{coord|27|53|33|N|81|50|23|W|region:US-FL|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Florida]]
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = [[Polk County, Florida|Polk]]
+| established_title        = First Settled
+| established_date         = Pre-Columbian Era
+| established_title1       = Nearby Black Seminole settlement
+| established_date1        = Late 1810s
+| established_title2       = Resettled
+| established_date2        = 1851
+| established_title3       = Incorporated
+| established_date3        = July 1, 1882
+| leader_title             = [[Mayor]]
+| leader_name              = Scott Sjoblom <ref name="Bartow, Florida mayor"/>
+| leader_title1            = [[City commission government|City Commission]]
+| leader_name1             = {{Collapsible list
+ | title = Members
+ | frame_style = border:none; padding: 0;
+ | list_style = text-align:left;display:none;
+ | 1 = Steve Githens
+ | 2 = William "Billy" Simpson
+ | 3 = Scott Sjoblom
+ | 4 = Leo E. Longworth
+ | 5 = Tanya L. Tucker <ref name="Bartow, Florida mayor"/>}}
+| leader_title2            = City Manager
+| leader_name2             = George A. Long<ref name="City of Bartow Officers">{{cite web
+ |url=http://bartow.govoffice.com/index.asp?Type=B_BASIC&SEC={FB23A00D-B301-4886-90AC-128625D6ED48} 
+ |archive-url=https://web.archive.org/web/20070811035919/http://bartow.govoffice.com/index.asp?Type=B_BASIC&SEC=%7BFB23A00D-B301-4886-90AC-128625D6ED48%7D 
+ |archive-date=August 11, 2007 
+ |title=City of Bartow City Officers 
+ |access-date=2010-09-10 
+ |publisher=City of Bartow 
+ |url-status=dead 
+}}</ref>
+| leader_title3            = U.S. Congress
+| leader_name3             = [[Scott Franklin (politician)|Scott Franklin]] [[Republican Party (United States)|(R)]]<ref name="florida's 15th Congressional District&Map">{{cite web
+ | url = http://www.govtrack.us/congress/findyourreps.xpd?state=FL&district=15
+ | title = Florida's 15th Congressional District & Map
+ | access-date = 2010-09-10
+ | publisher = govtrack.us
+ }}</ref>
+<!-- Area    --------------------->
+| unit_pref                = Imperial
+| area_total_km2           = 136.31
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 52.63
+| area_land_km2            = 119.70
+<!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 46.22
+| area_water_km2           = 16.61
+| area_water_sq_mi         = 6.41
+| elevation_footnotes      = <!--for references: use  tags-->
+| elevation_m              = 37
+| elevation_ft             = 121
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 17298
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_km2   = 168.31
+| population_density_sq_mi = 435.92
+| population_metro         = 584,383
+<!-- General information  --------------->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 33830-33831
+| area_code                = [[Area code 863|863]]
+| blank_name_sec1          = [[Slogan]](s)
+| blank_info_sec1          = Our History Comes to Life<ref name="Home Page, City of Bartow">{{cite web
+| url = http://www.cityofbartow.net/
+| title = Home Page, City of Bartow| access-date = 2011-11-05
+| publisher = City of Bartow
+}}</ref>
+| blank_name_sec2          = [[Federal Information Processing Standard|FIPS code]]
+| blank_info_sec2          = 12-03675<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+| blank1_name_sec2         = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec2         = 0278138<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                  = {{URL|http://www.cityofbartow.net/}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 20147
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 12-03675
+}}

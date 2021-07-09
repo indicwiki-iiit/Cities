@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Incline Village, Nevada
+|settlement_type          = [[Census-designated place]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Incline Village Panoramic.jpg
+|imagesize                =
+|image_caption            =
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = NVMap-doton-Incline_Village-Crystal_Bay.png
+|mapsize                  = 250x200px
+|map_caption              = Location of Incline Village, Nevada
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nevada]]
+|subdivision_type2        =
+|subdivision_name2        =
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           =
+|area_magnitude           =
+|area_total_km2           = 56.3
+|area_land_km2            = 55.8
+|area_water_km2           = 0.5
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     =
+|population_total         = 8777
+|population_density_km2   = auto
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+| utc_offset = &minus;8
+|timezone_DST             = PDT
+| utc_offset_DST = &minus;7
+|elevation_footnotes      =
+|elevation_m              =
+|elevation_ft             = 6350
+|coordinates              = {{coord|39|14|45|N|119|57|0|W|region:US-NV_type:city|display=inline,title}}
+|postal_code_type         =
+|postal_code              =
+|area_code                =
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 32-35100
+|blank1_name              =
+|blank1_info              =
+|website                  =
+|footnotes                =
+}}

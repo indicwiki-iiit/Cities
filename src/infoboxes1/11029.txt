@@ -1,0 +1,94 @@
+{{Infobox settlement
+| name                   = 
+| official_name          = Kryvyi Rih
+| native_name            = {{lang|uk|Кривий Ріг}}
+| other_name            = {{Nobold|{{lang|ru|Кривой Рог}} {{small|{{in lang|ru}}}}}}
+|translit_lang1= [[Ukrainian language|Ukrainian]] 
+|translit_lang1_type1= [[Romanization of Ukrainian|National]] 
+|translit_lang1_info1= Kryvyi Rih
+|translit_lang1_type2= [[ALA-LC romanization|ALA-LC]] 
+|translit_lang1_info2= Kryvyĭ Rih
+|translit_lang1_type3= [[BGN/PCGN romanization|BGN/PCGN]] 
+|translit_lang1_info3= Kryvyy Rih
+|translit_lang1_type4= [[Scientific transliteration of Cyrillic|Scholarly]] 
+|translit_lang1_info4= Kryvyj Rih
+| settlement_type        = [[City of regional significance (Ukraine)|City of regional significance]]
+| image_skyline          = KR_City_collage.png
+| image_alt              = 
+| image_caption          = From upper left: Savior Transfiguration Cathedral, [[Kryvorizhstal|ArcelorMittal]], [[Kryvyi Rih Main Station]], [[Maksyma Hor'koho Square]], [[Saksahan]] boat station
+| image_flag             = Banner of Kryvyi Rih.svg
+| flag_alt               = [[Flag of Kryvyi Rih]]
+| image_shield           = Coat of Arms of Kryvyi Rih.svg
+|image_blank_emblem      = Kryvyi Rih Logotype 01.png
+| shield_alt             = [[Coat of Arms of Kryvyi Rih]]
+| motto                  = Life-long city
+| anthem                 = ''[[Anthem of Krivoy Rog]]''
+| mapsize                         = 230px
+| map_caption                     = Location of Kryvyi Rih in Ukraine
+| pushpin_map                     =Ukraine
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|47|54|31|N|33|08|36|E|region:UA|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{UKR}}
+| subdivision_type1      = [[Oblasts of Ukraine|Province]]
+| subdivision_name1      = {{flag|Dnipropetrovsk Oblast}}
+| subdivision_type2      = [[Raions of Ukraine|District]]
+| subdivision_name2      = [[File:Flag of Kryvyi Rih Raion.gif|22px|border]] [[Kryvyi Rih Raion|Kryvyi Rih]]
+----
+| subdivision_type4      = Historic [[Governorates of Russia|Governorates]]
+| subdivision_name4      = [[Kherson Governorate|Kherson]]<br />[[Yekaterinoslav Governorate|Yekaterinoslav]]
+| established_title      = Founded
+| established_date       = 1775 ({{years ago|1775}} years ago)
+| established_title1     = Town charter
+| established_date1      = 1860
+| established_title2     = City status
+| established_date2      = 1919
+| seat_type              = Administrative HQ
+| seat                   = Kryvyi Rih City Hall,<br/>Ploshcha (Square) Molodizhna
+| parts_type             = Raions
+| parts_style            = <!-- Use "list" (for list), "coll" (for collapsed list), "para" (for paragraph format). Default is "list" if up to 5 items, then-->
+| parts                  = List of 7
+#[[Terny Raion]]
+#[[Pokrovskyi Raion (Kryvyi Rih)|Pokrovskyi Raion]]
+#[[Saksahan Raion]]
+#[[Central City Raion]]
+#[[Dovhuntsevsky Raion]]
+#[[Metalurhiynyi Raion]]
+#[[Inhulets Raion]]
+| government_type        = [[City council]], [[city of regional significance (Ukraine)|regional]]
+| government_footnotes   = 
+
+| leader_title         = Mayor
+| leader_name           =  [[Konstantyn Pavlov]]<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2020/12/7/7276187/ "Servant of the People" lost the mayoral election in Kryvyi Rih - TEC], [[Ukrayinska Pravda]] (7 December 2020)</ref>
+| leader_party           = [[Opposition Platform — For Life]]<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2020/12/7/7276187/ "Servant of the People" lost the mayoral election in Kryvyi Rih - TEC], [[Ukrayinska Pravda]] (7 December 2020)</ref>
+| leader_title1           = Governing&nbsp;body
+| leader_name1            = [[Kryvyi Rih City Council]]
+| leader_title2          = [[People's Deputy of Ukraine|MPs]]:
+| leader_name2           = 
+| unit_pref              = Metric<!-- or US or UK -->
+| area_footnotes         = 
+| area_total_km2         = 430
+| area_land_km2          = 
+| area_water_km2         = 
+| area_water_percent     = 
+| area_note              = 
+| elevation_footnotes    = <ref>{{cite web|title= Kryvyi Rih (Ternopil Oblast, Kryvyi Rih Raion)|url=http://weather.in.ua/en/dnepropetrovskaja/12267|work=weather.in.ua|access-date=27 February 2012}}</ref>
+| elevation_m            = 84
+| population_footnotes   = 
+| population_total       = {{down}} 619,278
+| population_as_of       = 2020
+| population_rank        = 7th, UA
+| population_density_km2 = auto
+| population_note        = 
+| population_metro       = {{down}}  1,010,000
+| population_demonym     = Kryvorizhanyn, Kryvorizhanka, Kryvorizhtsi
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = [[EEST]]
+| utc_offset_DST         = +3
+| postal_code_type       = [[Postal code]]
+| postal_code            = 50000-50479
+| area_code_type         = [[Telephone numbering plan|Area code]]
+| area_code              = +380 56(4)
+| website                = {{URL|https://krmisto.gov.ua/}}
+}}

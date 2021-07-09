@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = New Whiteland, Indiana
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = File:New Whiteland water tower.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = File:Johnson County Indiana Incorporated and Unincorporated areas New Whiteland Highlighted 1853874.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of New Whiteland in Johnson County, Indiana
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Indiana]]
+|subdivision_type2        = [[List of counties in Indiana|County]]
+|subdivision_name2        = [[Johnson County, Indiana|Johnson]]
+|subdivision_type3        = [[List of townships in Indiana|Township]]
+|subdivision_name3        = [[Pleasant Township, Johnson County, Indiana|Pleasant]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_18.txt|publisher=United States Census Bureau|access-date=July 16, 2020}}</ref>
+|unit_pref                = Imperial
+|area_magnitude           = 
+|area_land_km2            = 3.76
+|area_water_km2           = 0.00
+|area_total_km2           = 3.76
+|area_total_sq_mi         = 1.45
+|area_land_sq_mi          = 1.45
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6241
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5472
+|population_density_km2   = 1658.43
+|population_density_sq_mi = 4295.25
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 246
+|elevation_ft             = 807
+|coordinates              = {{coord|39|33|36|N|86|5|51|W|region:US-IN|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 46184
+|area_code                = [[Area code 317|317]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 18-53874<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0440125<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|newwhiteland.in.gov}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = Bexley, Ohio
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = File:Bexley City Hall 1.jpg
+|image_caption            = Bexley City Hall (2017)
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = {{maplink|plain=yes|frame=yes|frame-align=center|frame-width=250|frame-height=280|type=shape|stroke-width=2|fill=#000000|fill-opacity=0|zoom=13}}
+|map_caption              = Interactive map of the city
+
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|39|58|08|N|82|56|16|W|region:US-OH_type:city_source:GNIS|display=inline}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Franklin County, Ohio|Franklin]]
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 
+|named_for                =
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              =
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_total_sq_mi         = 2.44
+|area_land_sq_mi          = 2.42
+|area_water_sq_mi         = 0.02
+|area_land_km2            = 6.27
+|area_water_km2           = 0.05
+|area_total_km2           = 6.32
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_ft             = 794
+
+<!-- Population -->
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 13057
+|pop_est_footnotes        = <ref name="USCensusEst2019"/>
+|pop_est_as_of            = 2019
+|population_est           = 13770
+|population_density_sq_mi = 5687.73
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|EST]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 43209
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 614|614]] and [[Area code 380|380]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = {{FIPS|39|06278}}
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = {{GNIS 4|1048522}}
+|website                  = {{URL|http://www.bexley.org/|bexley.org}}
+|population_density_km2 = 2195.98
+}}

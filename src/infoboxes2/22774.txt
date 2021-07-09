@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = Kingsbury
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Washington County New York incorporated and unincorporated areas Kingsbury highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Washington County, New York|Washington County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = New York
+|subdivision_type2        = [[Administrative divisions of New York#County|County]]
+|subdivision_name2        = [[Washington County, New York|Washington]]
+|government_footnotes     = <ref name="town directory">{{cite web |url=http://teachers.hfcsd.org/webpages/tkingsbury/ |title=Community Information |publisher= |accessdate=2010-02-26}}</ref>
+|government_type          = 
+|leader_title             = [[Town supervisor|Supervisor]]
+|leader_name              = Dana Hogan
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 103.65
+|area_land_km2            = 102.80
+|area_water_km2           = 0.85
+|area_total_sq_mi         = 40.02
+|area_land_sq_mi          = 39.69
+|area_water_sq_mi         = 0.33
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|population_total         = 12671
+|population_density_km2   = 121.13
+|population_density_sq_mi = 313.74
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 83
+|elevation_ft             = 272
+|coordinates              = {{coord|43|19|10|N|73|33|41|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s<ref name=ZIP>{{cite map|url=http://gis.co.washington.ny.us/webmap/default.aspx |title=Washington County GIS Web Map |publisher=Washington County, NY |accessdate=2010-06-18 |url-status=dead |archiveurl=https://web.archive.org/web/20100107070305/http://gis.co.washington.ny.us/webmap/default.aspx |archivedate=2010-01-07 }}</ref>
+|postal_code              = {{Collapsible list
+ |title       = 12839 (primary)
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = 12804 [[Queensbury, New York|Queensbury]]
+ |2           = 12827 [[Fort Ann, New York|Fort Ann]]
+ |3           = 12828 [[Fort Edward, New York|Fort Edward]]
+}}
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-39650
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979117
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 12453
+}}

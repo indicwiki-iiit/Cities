@@ -1,0 +1,150 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Ampara District
+| native_name             = {{lang|ta|அம்பாறை மாவட்டம்}}<br />{{lang|si|අම්පාර දිස්ත්‍රික්කය}}
+| native_name_lang        = 
+| other_name              = 
+| settlement_type         = [[Districts of Sri Lanka|Administrative District]]
+<!-- images, nickname, motto --->
+| image_skyline           = Oluvil.JPG
+| image_alt               = 
+| image_caption           = Paddy field in Oluvil
+| image_flag              = 
+| flag_size               = 
+| flag_alt                = 
+| image_seal              = 
+| seal_size               = 
+| seal_alt                = 
+| image_blank_emblem      = 
+| blank_emblem_type       = 
+| blank_emblem_size       = 
+| nickname                = 
+| motto                   = 
+| anthem                  = 
+<!-- maps and coordinates ------>
+| image_map               = Ampara district.svg
+| map_alt                 = 
+| map_caption             = Location within Sri Lanka
+| image_map1              = 
+| map_alt1                =
+| map_caption1            = 
+| coordinates             = {{coord|07|05|N|81|45|E|type:adm2nd_region:LK-52|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = [[Sri Lanka]]
+| subdivision_type1       = [[Provinces of Sri Lanka|Province]]
+| subdivision_name1       = [[Eastern Province, Sri Lanka|Eastern]]
+<!-- established --------------->
+| established_title       = Created
+| established_date        = April 1961
+<!-- seat, smaller parts ------->
+| seat_type               = Capital
+| seat                    = [[Ampara]]
+| seat1_type              = Largest City
+| seat1                   = [[Kalmunai]]
+| parts_type              = [[Divisional Secretary's Division|DS Division]]
+| parts_style             = coll
+| p1                      = [[Addalaichchenai Divisional Secretary's Division|Addalaichchenai]]
+| p2                      = [[Akkaraipattu Divisional Secretary's Division|Akkaraipattu]]
+| p3                      = [[Alayadivembu Divisional Secretary's Division|Alayadivembu]]
+| p4                      = [[Ampara Divisional Secretary's Division|Ampara]]
+| p5                      = [[Damana Divisional Secretary's Division|Damana]]
+| p6                      = [[Dehiattakandiya Divisional Secretary's Division|Dehiattakandiya]]
+| p7                      = [[Irakkamam Divisional Secretary's Division|Irakkamam]]
+| p8                      = [[Kalmunai Divisional Muslim Secretariat|Kalmunai (Muslim)]]
+| p9                      = [[Kalmunai (Tamil) Divisional Secretary's Division|Kalmunai (Tamil)]]
+| p10                     = [[Karaitivu Divisional Secretary's Division|Karaitivu]]
+| p11                     = [[Lahugala Divisional Secretary's Division|Lahugala]]
+| p12                     = [[Maha Oya Divisional Secretary's Division|Maha Oya]]
+| p13                     = [[Navithanveli Divisional Secretary's Division|Navithanveli]]
+| p14                     = [[Nintavur Divisional Secretary's Division|Nintavur]]
+| p15                     = [[Padiyathalawa Divisional Secretary's Division|Padiyathalawa]]
+| p16                     = [[Pottuvil Divisional Secretary's Division|Pottuvil]]
+| p17                     = [[Sainthamarathu Divisional Secretary's Division|Sainthamarathu]]
+| p18                     = [[Samanthurai Divisional Secretary's Division|Samanthurai]]
+| p19                     = [[Thirukkovil Divisional Secretary's Division|Thirukkovil]]
+| p20                     = [[Uhana Divisional Secretary's Division|Uhana]]
+<!-- government type, leaders -->
+| government_footnotes    = 
+| leader_title            = [[District Secretary]]
+| leader_name             = [[D. M. L. Bandaranayake]]
+| leader_title1           = [[Parliament of Sri Lanka|MPs]]
+| leader_name1            = {{Collapsible list
+| title                   = List
+| [[A. L. M. Athaullah]]
+| [[P. Dayaratna]]
+| [[Cassim Faizal]]
+| [[H. M. M. Harees]]
+| [[Podiappuhamy Piyasena]]
+| [[Sarath Weerasekara]]
+| [[Sriyani Wijewickrama]]
+}}
+| leader_title2           = [[Eastern Provincial Council|MPCs]]
+| leader_name2            = 
+<!-- display settings  --------->
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- area ---------------------->
+| area_footnotes          = <ref name=area />
+| area_total_km2          = 4415
+| area_land_km2           = 4222
+| area_water_km2          = 193
+| area_water_percent      = 4.37
+| area_rank               = 4th (6.73% of total area)
+| area_note               = 
+<!-- elevation ----------------->
+| elevation_footnotes     = 
+| elevation_m             = 
+<!-- population ---------------->
+| population_footnotes    = <ref name=2012eth />
+| population_total        = 648057
+| population_rank         = 14th (3.20% of total pop.)
+| population_as_of        = 2012 census
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         = 
+<!-- demographics (section 1) -->
+| demographics_type1      = [[Demographics of Sri Lanka#Ethnicity|Ethnicity]]
+| demographics1_footnotes = (2012 census)<ref name=2012eth />
+| demographics1_title1    = [[Sri Lankan Moors|Moor]]
+| demographics1_info1     = 282,484 (43.59%)
+| demographics1_title2    = [[Sinhalese people|Sinhalese]]
+| demographics1_info2     = 251,018 (38.73%)
+| demographics1_title3    = [[Sri Lankan Tamil people|Sri Lankan Tamil]]
+| demographics1_info3     = 112,750 (17.40%)
+| demographics1_title4    = [[Burgher people|Burgher]]
+| demographics1_info4     = 849 (0.13%)
+| demographics1_title5    = Other
+| demographics1_info5     = 956 (0.15%)
+<!-- demographics (section 2) -->
+| demographics_type2      = [[Religion in Sri Lanka|Religion]]
+| demographics2_footnotes = (2012 census)<ref name=2012rel />
+| demographics2_title1    = [[Islam in Sri Lanka|Muslim]]
+| demographics2_info1     = 282,746 (43.63%)
+| demographics2_title2    = [[Buddhism in Sri Lanka|Buddhist]]
+| demographics2_info2     = 250,213 (38.61%)
+| demographics2_title3    = [[Hinduism in Sri Lanka|Hindu]]
+| demographics2_info3     = 102,454 (15.81%)
+| demographics2_title4    = [[Christianity in Sri Lanka|Christian]]
+| demographics2_info4     = 12,609 (1.95%)
+| demographics2_title5    = Other
+| demographics2_info5     = 35 (0.01%)
+<!-- time zone(s) -------------->
+| timezone1               = Sri Lanka
+| utc_offset1             = +05:30
+<!-- postal codes, area code --->
+| postal_code_type        = [[Postal codes in Sri Lanka|Post Codes]]
+| postal_code             = 32000-32999
+| area_code_type          = [[Telephone numbers in Sri Lanka|Telephone Codes]]
+| area_code               = 063, 067
+| geocode                 =
+| iso_code                = [[ISO 3166-2:LK|LK-52]]
+| registration_plate      = EP
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Official Languages
+| blank_info_sec1         = [[Tamil language|Tamil]], [[Sinhala language|Sinhala]]
+<!-- website, footnotes -------->
+| website                 = {{URL|1=http://www.ampara.dist.gov.lk/|2=Ampara District Secretariat}}
+| footnotes               = 
+}}

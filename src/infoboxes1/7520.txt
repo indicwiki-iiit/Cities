@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                   = Ashdod
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|אַשְׁדּוֹד}}|rtl=yes}}
+ | {{Lang|ar|أشدود/إسدود|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1968)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = ʔašdod
+| image_skyline          = AshdodCollage.jpg
+| imagesize              = 280px
+| image_flag             = Flag of Ashdod.svg
+| image_blank_emblem     = [[File:Coat of arms of Ashdod.png|60px]]
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel ashkelon#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|48|0|N|34|39|0|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Israel]]
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = [[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1700 BCE<small> (Canaanite settlement)</small><br>1300 BCE<small> (Philistine rule)</small><br>147 BCE<small> (Hasmonean rule)</small><br> 7th century CE <small>(Muslim city)</small><br>1956 <small> (Israeli city)</small>
+| leader_title           = Mayor
+| leader_name            = [[Yehiel Lasri]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:47242|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Ashdod}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = [https://web.archive.org/web/20060407053527/http://www.ashdod.muni.il/ www.ashdod.muni.il]
+}}

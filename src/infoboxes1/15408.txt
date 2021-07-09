@@ -1,0 +1,45 @@
+{{Infobox settlement
+|name                   = Fort Wellington
+|settlement_type        = village and regional capital   
+|image_skyline          =
+|image_size             = 300px
+|image_caption          =
+|image_flag             =
+|image_seal             =
+|image_map              = 
+|map_caption            =
+|pushpin_map            = Guyana
+|pushpin_mapsize        = 260
+|pushpin_label_position = right
+| subdivision_type      = Country
+| subdivision_name      = {{flag|Guyana}}
+| subdivision_type1     = Region
+| subdivision_name1     = [[Mahaica-Berbice]]
+| subdivision_type2     =
+| subdivision_name2     =
+|leader_title           =
+|leader_name            =
+|established_title      = Established
+|established_date       = 
+|area_magnitude         =
+|area_total_km2         = 
+|area_land_km2          =
+|area_water_km2         =
+|population_as_of       = 2012
+|population_footnotes   = <ref name="census2012">{{cite web|url=https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Population_by_Village_2012.zip |title=2012 Population by Village|website=Statistics Guyana|access-date=18 August 2020}}</ref>
+|population_total       = 118<!-- Fort Wellington + Catherina's Lust -->
+|population_metro       =
+|population_density_km2 = auto
+|timezone               = [[UTC-4]]
+|timezone_DST           = <!--NO-->
+|utc_offset_DST         = <!--NO-->
+|coordinates            = {{coord|6|24|0|N|57|37|0|W|region:AR|display=inline,title}}
+|elevation_m            =
+|postal_code_type       = 
+|postal_code            = 
+|area_code              = 
+|website                = 
+|blank_name_sec1        = [[Köppen climate classification|Climate]]
+|blank_info_sec1        = 
+|footnotes              =
+}}

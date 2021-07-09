@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = Atchison, Kansas
+|settlement_type          = [[City]] and [[County seat]]
+
+<!-- Images -->
+|image_skyline            = Atchison Kansas Commercial Street.jpg
+|image_caption            = Commercial Street in downtown Atchison (2006)
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Atchison_County_Kansas_Incorporated_and_Unincorporated_areas_Atchison_Highlighted.svg
+|map_caption              = Location within [[Atchison County, Kansas|Atchison County]] and [[Kansas]]
+|image_map1               = Map of Atchison Co, Ks, USA.png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Atchison County, Kansas|Atchison County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = <ref name="GNIS">[http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:473516 Geographic Names Information System (GNIS) details for Atchison, Kansas; United States Geological Survey (USGS); October 13, 1978.]</ref>
+|coordinates              = {{coord|39|33|45|N|95|7|42|W|region:US-KS_type:city_source:GNIS|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name2        = [[Atchison County, Kansas|Atchison]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        =
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1854
+|established_title1       = [[Municipal corporation|Incorporated]]
+|established_date1        = 1855
+|named_for                = [[David Rice Atchison]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Council-Manager
+|leader_title             = [[Mayor]]
+|leader_name              = Abby Bartlett
+|leader_title1            = City Manager
+|leader_name1             = Becky Berger
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 8.47
+|area_land_sq_mi          = 8.01
+|area_water_sq_mi         = 0.46
+|area_total_km2           = 21.93
+|area_land_km2            = 20.75
+|area_water_km2           = 1.18
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 814
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 11021
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 10476
+|population_density_sq_mi = 1307.38
+|population_density_km2   = 504.80
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 66002 <ref name="GR7">{{cite web|url=http://tools.usps.com/go/ZipLookupAction!input.action|title=USPS - Look Up a ZIP Code|access-date=2012-02-15|author=United States Postal Service|year=2012}}</ref>
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 913|913]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = {{FIPS|20|02900}} <ref name="GNIS"/>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = {{GNIS 4|473516}} <ref name="GNIS"/>
+|website                  = {{URL|https://cityofatchison.com/|CityOfAtchison.com}}
+}}

@@ -1,0 +1,88 @@
+{{Infobox settlement
+| name                            = Johnson City, Tennessee
+| official_name                   = City of Johnson City
+| settlement_type                 = [[City]]
+| image_skyline                   = Johnson_City.jpg
+| imagesize                       = 
+| image_caption                   = Downtown Johnson City
+| image_flag                      = 
+| image_seal                      =
+| image_blank_emblem              = City of Johnson City logo.png
+| blank_emblem_type               = Logo
+| blank_emblem_size               = 90px
+
+<!-- Maps -->
+| pushpin_map                     = USA Tennessee
+| pushpin_mapsize                 = 250
+| pushpin_map_caption             = Location of Johnson City in Tennessee
+
+<!-- Location -->
+| coordinates                     = {{coord|36|20|N|82|22|W|region:US-TN|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Tennessee|Counties]]
+| subdivision_name1               = [[Tennessee]]
+| subdivision_name2               = [[Washington County, Tennessee|Washington]]
+
+<!-- Government -->
+| established_title               = Founded
+| established_date                = 1856
+| established_title2              = Incorporated
+| established_date2               = 1869<ref>''[http://www.state.tn.us/sos/bluebook/05-06/48-data.pdf Tennessee Blue Book]'', 2005-2006, pp. 618-625.</ref>
+| founder                         = Henry Johnson
+| government_footnotes            = 
+| government_type                 = [[Council-manager government]]
+| leader_title1                   = Mayor
+| leader_name1                    = Joe Wise ([[Independent politician|I]])<ref name="daniel2020">{{cite news |last1=Daniel |first1=Anslee |title=Johnson City's Commission race turns partisan |url=https://www.wjhl.com/news/your-local-election-hq/johnson-citys-commission-race-turns-partisan/ |access-date=January 14, 2021 |work=[[WJHL-TV]] |date=September 24, 2020}}</ref>
+| leader_title2                   = Vice Mayor
+| leader_name2                    = Dr. Todd Fowler
+| leader_title3                   = City Manager
+| leader_name3                    = M. Denis "Pete" Peterson
+| leader_title4                   = City Commissioners
+| leader_name4                    = Jenny Brock<br>Aaron T. Murphy<br>John Hunter
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 112.93
+| area_total_sq_mi                = 43.60
+| area_land_km2                   = 112.10
+| area_land_sq_mi                 = 43.28
+| area_water_km2                  = 0.83
+| area_water_sq_mi                = 0.32
+| elevation_footnotes             = 
+| elevation_m                     = 498
+| elevation_ft                    = 1634
+
+<!-- Population -->
+| population_est                  = 66906
+| pop_est_as_of                   = 2019
+| population_total                = 63152
+| population_rank                 = 
+| population_as_of                = [[2010 United States Census|2010]]
+| population_density_km2          = 596.82
+| population_density_sq_mi        = 1545.78
+<!-- General information -->
+| population_urban                = 
+| population_metro                = 198716<ref name="city-data.com">{{cite web|url=http://www.city-data.com/forum/tennessee/1228556-tennessee-census-data.html|title=Tennessee Census Data (Memphis, Nashville-Davidson, Knoxville: estimated, metropolitan, areas) - (TN) - City-Data Forum|website=www.city-data.com}}</ref>
+| population_blank1_title         = [[Combined statistical area|CSA]]
+| population_blank1               = 508260<!-- Johnson City–Kingsport–Bristol Combined Statistical Area (CSA) --> ([[Table of United States Combined Statistical Areas|88th]])<ref name="city-data.com"/>
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 37601-37604, 37614, 37615 & 37684
+| area_code                       = [[Area code 423|423]]
+| website                         = {{URL|www.johnsoncitytn.org}}
+| footnotes                       = <!-- Images -->
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 47-38320<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1328579<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| image_map                       = File:Carter County Tennessee Incorporated and Unincorporated areas Johnson City Highlighted 4738320.svg
+| map_caption                     = Location of Johnson City in Carter, Sullivan and Washington Counties, Tennessee.
+}}

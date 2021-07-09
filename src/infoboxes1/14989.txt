@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name          =  Auki (Aoke)
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = A man keeps flies away from his fish at the old market Auki, the capitol of Malaita. (10662280276).jpg
+|imagesize              = 
+|image_caption          = Fish for sale in the Auki market
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            =Solomon Islands<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in the Solomon Islands
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Solomon Islands}}
+|subdivision_type1      = [[Provinces of the Solomon Islands|Province]]
+|subdivision_name1      = [[Malaita Province]]
+|subdivision_type2      = Island
+|subdivision_name2      = [[Malaita Island]]
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2021
+|population_footnotes           = <ref>[http://world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=gamelan&geo=-186&srt=1p3n&col=abcdefghinoq&msz=1500&pt=c&va=&srt=p13n World Gazeteer] {{webarchive |url=https://web.archive.org/web/20120302151216/http://world-gazetteer.com/wg.php?x=&men=gcis&lng=en&des=gamelan&geo=-186&srt=1p3n&col=abcdefghinoq&msz=1500&pt=c&va=&srt=p13n |date=March 2, 2012 }}</ref>
+|population_note                = 
+|population_total               = 7882
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =UTC 
+|utc_offset             = +11
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|8|46|06|S|160|41|49|E|region:SB|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 157
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical rainforest climate|Af]]
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

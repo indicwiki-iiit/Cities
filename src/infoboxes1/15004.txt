@@ -1,0 +1,39 @@
+{{Infobox settlement
+| settlement_type                 = Town
+| name                            = Tullamore
+| native_name                     = {{Pad top italic|Tulach Mhór}}
+| image_flag                      = Tullamoreflag.jpg
+| image_shield                    = Tullamore Coat of Arms.svg
+| shield_size                     = 
+| pushpin_map                     = Ireland
+| pushpin_label_position          = right 
+| pushpin_map_caption             = Location in Ireland
+| coordinates                     = {{coord|53.2667|-7.5000|dim:100000_region:IE|display=inline,title}}
+| blank_name_sec1                 = Irish Grid Reference
+| blank_info_sec1                 = {{iem4ibx|N335248}}
+| unit_pref                       = Metric
+| elevation_m                     = 73
+| subdivision_type                = Country
+| subdivision_name                = Ireland
+| subdivision_type1               = [[Provinces of Ireland|Province]]
+| subdivision_name1               = [[Leinster]]
+| subdivision_type2               = [[Counties of Ireland|County]]
+| subdivision_name2               = [[County Offaly|Offaly]]
+| population_total                = 14,607
+
+| population_urban                = 
+| population_rural                = 
+| population_as_of                = 2016
+| population_footnotes            = <ref name="sapmap2016">{{cite web|url =http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=28F89BE4-314D-44FC-B447-F28C0FF6A127#SAPMAP_T1_100 | publisher = [[Central Statistics Office (Ireland)|CSO]] | work = Census 2016 | title = Sapmap Area - Settlements - Tullamore | date = 2016 | access-date = 12 January 2018 }}</ref>
+| image_skyline                   = Grand Canal, Tullamore - geograph.org.uk - 753743.jpg
+| image_caption                   = The [[Grand Canal (Ireland)|Grand Canal]], Tullamore
+| website                         = {{URL|http://www.offaly.ie}}
+| area_code_type                  = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code                       = +353(0)57
+| postal_code_type                = [[Eircode]] routing key
+| postal_code                     = R35
+| timezone                        = [[Western European Time|WET]]
+| utc_offset                      = ±0
+| timezone_DST                    = [[Irish Standard Time|IST]]
+| utc_offset_DST                  = +1
+}}

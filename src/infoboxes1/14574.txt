@@ -1,0 +1,75 @@
+{{Infobox settlement
+ | official_name            = City of Folsom
+| settlement_type          = [[City (California)|City]]
+| motto                    = "Distinctive by Nature"<ref>{{cite web|url=https://www.folsom.ca.us/|title=City of Folsom, California|publisher= City of Folsom, California |access-date=August 11, 2012}}</ref>
+| image_skyline            = Sutter_Street.JPG
+| imagesize                = 
+| image_caption            = Historic Sutter Street
+| image_seal               = 
+| image_map                = File:Sacramento County California Incorporated and Unincorporated areas Folsom Highlighted 0624638.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Folsom in Sacramento County, California
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the contiguous United States
+| pushpin_relief 	    = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Sacramento County, California.png|size=23px}} [[Sacramento County, California|Sacramento]]
+| government_type   = 
+| leader_title      = Mayor
+| leader_name       = Sarah Aquino<ref>{{cite web|title=City Council|url=https://www.folsom.ca.us/clerk/city_council/default.asp|website=City of Folsom|access-date=24 November 2020}}</ref>
+| established_title = [[Municipal corporation|Incorporated]]
+| established_date  = April 20, 1946<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+
+<!-- Area------------------>
+| unit_pref                = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi         = 30.15
+| area_land_sq_mi          = 27.88
+| area_water_sq_mi         = 2.27
+| area_water_percent       = 9.69
+| area_note                = 
+| elevation_footnotes = <ref>{{Cite GNIS|277516|Folsom|access-date=January 4, 2015}}</ref>
+| elevation_ft             = 220
+
+<!-- Population ----------->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+| population_total         = 72203
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 81328
+| population_density_sq_mi = 2916.97
+| population_metro         = 
+| timezone                 = [[Pacific Time Zone|PST]]
+| utc_offset               = -8
+| coordinates              = {{coord|38|40|20|N|121|9|28|W|region:US-CA|display=inline,title}}
+| timezone_DST             = PDT
+| utc_offset_DST           = -7
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 95630, 95671, 95763
+| area_code                = [[Area codes 916 and 279|916, 279]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = {{FIPS|06|24638}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|277516}}, {{GNIS 4|2410516}}
+| website                  = {{URL|https://www.folsom.ca.us/}}
+| footnotes                = 
+|area_total_km2 = 78.09
+|area_land_km2 = 72.21
+|area_water_km2 = 5.88
+|population_density_km2 = 1126.26
+}}

@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Mersa Matruh
+|native_name            = مرسى مطروح
+|native_name_lang            = ar
+|other_name             = 
+| settlement_type = [[List of cities in Egypt|City]]
+| image_skyline = {{Photomontage
+| photo1a = Cleopatra Bath, Marsa Matrouh (3).jpg
+| photo2a = Marsa Matruh, Qism Moursy Matrouh, Matrouh Governorate, Egypt - panoramio.jpg
+| photo2b = From the watch tower - panoramio.jpg
+| photo3a = Matroh City.jpg
+| photo3b = Marsa Matrouh city in Egypt on the northern coast of the Mediterranean 06.JPG
+| photo3c = Cleopatra beach - panoramio.jpg
+| size = 290
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_caption = 
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|nickname               =
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Egypt<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Egypt
+<!-- Location ------------------>
+|coordinates            = {{coord|31|20|N|27|13|E|region:EG|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Egypt}}
+|subdivision_type1      = [[Governorates of Egypt|Governorate]]
+|subdivision_type2      =
+|subdivision_type3      =
+|subdivision_name1      = [[Matrouh Governorate|Matrouh]]
+|subdivision_name2      =
+|subdivision_name3      =
+|established_title      =  <!-- Settled -->
+|established_date       =
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_magnitude         =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =30
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               =68339
+|population_as_of               =2011
+|population_footnotes           =
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =140000
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =[[Egyptians]], [[Bedouin]]s & Egyptian-Libyans.
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =(+20) 46
+|website                =
+|footnotes              =
+|<!-- Politics ----------------->
+|timezone               =[[Egypt Standard Time|EST]]
+|utc_offset             = +2
+|timezone_DST           = 
+|utc_offset_DST         =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+}}

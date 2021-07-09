@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Manteo, North Carolina
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "Preserve • Prosper"
+|named_for                = [[Manteo (Native American leader)|Manteo]]<ref name=gazetteer>{{cite web |url=https://ncpedia.org/gazetteer/search/manteo/0 |title=North Carolina Gazetteer |access-date= March 27, 2021}}</ref>
+
+<!-- Images -->
+|image_skyline            = New Roanoke Marshes Light, Manteo, North Carolina.JPG
+|imagesize                = 
+|image_caption            = Reconstructed [[Roanoke Marshes Light]] on the waterfront of Manteo
+|image_flag               = Flag of England.svg
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Dare County North Carolina incorporated and unincorporated areas Manteo highlighted.svg
+|mapsize                  = 270px
+|map_caption              = Location in [[Dare County, North Carolina|Dare County]] and the state of [[North Carolina]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Dare County, North Carolina|Dare]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Bobby Owens
+|leader_title1            = [[Mayor Pro Tem]]
+|leader_name1             = Betty Selby
+|established_title        = Founded
+|established_date         = 1865<ref name=gazetteer/>
+|established_title1       = Incorporated
+|established_date1        = 1899
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 5.06
+|area_land_km2            = 4.91
+|area_water_km2           = 0.15
+|area_total_sq_mi         = 1.96
+|area_land_sq_mi          = 1.90
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1434
+|population_density_km2   = 296.65
+|population_density_sq_mi = 768.34
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 2
+|elevation_ft             = 7
+|coordinates              = {{coord|35|54|17|N|75|40|10|W|region:US-NC|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 27954
+|area_code                = [[Area code 252|252]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-41060<ref name="GR2">{{Cite web |title=U.S. Census website |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0989291<ref name="GR3">{{Cite web |title=US Board on Geographic Names |url=http://geonames.usgs.gov |date=2007-10-25 |publisher=[[United States Geological Survey]] |access-date=2008-01-31}}</ref>
+|website                  = {{URL|townofmanteo.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 1456
+}}

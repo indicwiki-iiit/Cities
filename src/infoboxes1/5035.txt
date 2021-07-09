@@ -1,0 +1,52 @@
+{{Infobox Australian place
+| type                  = city
+| name                  = Bunbury
+| state                 = wa
+| image                 = Bunbury 03.jpg
+| caption               = Panorama of Bunbury from lookout tower
+| image_alt             = 
+| relief                = 1
+| coordinates           = {{coord|33|20|S|115|38|E|display=inline,title}}
+| pop                   = 74363
+| pop_year              = 2018
+| pop_footnotes         = <ref name=ABSSUA/>
+| poprank               = 23rd
+| density               =
+| density_footnotes     = 
+| established           = 1836
+| established_footnotes = 
+| postcode              = 
+| elevation             = 
+| elevation_footnotes   = 
+| area                  = 222.8
+| area_footnotes        = <ref name="ABSSUAProf">{{Census 2016 AUS|id=5003|name=Bunbury}}</ref> (2016 urban)
+| timezone              = [[Australian Western Standard Time|AWST]]
+| utc                   = +8
+| dist1                 = 175
+| dir1                  = SSW
+| location1             = Perth
+| dist2                 = 108
+| dir2                  = S
+| location2             = Mandurah
+| dist3                 = 52
+| dir3                  = NE
+| location3             = [[Busselton, Western Australia|Busselton]]
+| dist4                 = 47
+| dir4                  = SW
+| location4             = [[Harvey, Western Australia|Harvey]]
+| dist5                 = 39
+| dir5                  = NW
+| location5             = [[Donnybrook, Western Australia|Donnybrook]]
+| lga                   = 
+| region                = [[South West (Western Australia)|South West]]
+| stategov              = [[Electoral district of Bunbury|Bunbury]]
+| stategov2             = [[Electoral district of Collie-Preston|Collie-Preston]]
+| stategov3             = [[Electoral district of Murray-Wellington|Murray-Wellington]]
+| fedgov                = [[Division of Forrest|Forrest]]
+| maxtemp               = 
+| maxtemp_footnotes     = 
+| mintemp               = 
+| mintemp_footnotes     = 
+| rainfall              = 
+| rainfall_footnotes    = 
+}}

@@ -1,0 +1,26 @@
+{{Infobox Australian place | type = suburb
+|name     = Joondalup
+|city     = Perth
+|state    = wa
+|image    = Joondalup arial.jpg
+|caption  = Aerial view of Joondalup
+|lga      = City of Joondalup
+| alternative_location_map = Australia Western Australia metropolitan Perth
+|coordinates = {{coord|31.745|S|115.766|E|display=inline,title}}
+|area     = 11.8
+|postcode = 6027
+|pop      = 9090 | pop_year = {{CensusAU|2016}}
+|pop_footnotes = <ref name=abs>{{Census 2016 AUS|id=SSC50696|name=Joondalup (State Suburb)|quick=on|accessdate=23 July 2019}}</ref>
+|dist1    = 26 | location1=[[Perth]]
+|est      = 1980s
+|fedgov   = [[Division of Moore|Moore]]
+|stategov = [[Electoral district of Joondalup|Joondalup]]
+|near-nw = [[Kinross, Western Australia|Kinross]]
+|near-n  = [[Neerabup, Western Australia|Neerabup]]
+|near-ne = [[Carramar, Western Australia|Carramar]]
+|near-w  = [[Currambine, Western Australia|Currambine]]<br />[[Connolly, Western Australia|Connolly]]
+|near-e  = ''[[Lake Joondalup]]''
+|near-sw = [[Heathridge, Western Australia|Heathridge]]
+|near-s  = [[Edgewater, Western Australia|Edgewater]]
+|near-se = [[Edgewater, Western Australia|Edgewater]]
+}}

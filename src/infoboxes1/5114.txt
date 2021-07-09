@@ -1,0 +1,19 @@
+{{Infobox protein family
+| Symbol = VBS
+| Name = VBS
+| image = PDB 1rkc EBI.jpg
+| width = 
+| caption = human vinculin head (1-258) in complex with talin's vinculin binding site 3 (residues 1944-1969)
+| Pfam = PF08913
+| Pfam_clan =  
+| InterPro = IPR015009
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}

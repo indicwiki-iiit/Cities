@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = City of Tehachapi
+|settlement_type          = [[City (California)|City in California]]
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+<!-- Images and maps ------>
+|image_skyline            = Aerial-TehachapiWindFarm.jpg
+|image_caption            = Small portion of wind farms with Tehachapi in the distance
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = The Land of Four Seasons
+|motto                    = 
+|image_map                = Kern County California Incorporated and Unincorporated areas Tehachapi Highlighted.svg
+|map_caption              = Location of Tehachapi, California
+|pushpin_map            = California#USA
+|pushpin_label = Tehachapi
+|pushpin_mapsize        = 
+|pushpin_map_caption    = Location in California##Location within the United States
+<!-- Location ------------->
+|coordinates              = {{coord|35|07|56|N|118|26|56|W|region:US-CA|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = State
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Kern County, California|Kern]]
+|subdivision_type3        = [[List of regions of California|Region]]
+|subdivision_name3        = [[Tehachapi Mountains]]
+<!-- History -------------->
+|established_title        = Founded
+|established_date         = 1876
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = August 13, 1909<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Government ----------->
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Ed Grimes<ref name=cc>{{Cite web
+ | url = http://www.liveuptehachapi.com/index.aspx?NID=20
+ | title = Council Members
+ | publisher = Tehachapi, CA
+ | access-date = February 9, 2015}}</ref>
+|leader_title1            = [[California's 16th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|16|fmt=sleader}}<ref name=swd/>
+|leader_title2            = [[California's 34th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|34|fmt=sleader}}<ref name=swd>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = October 16, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+|leader_title3            = [[California's 23rd congressional district|U.S. Rep.]]
+|leader_name3             = {{Representative|cacd|23|fmt=usleader}}<ref name="gt23">{{Cite GovTrack|CA|23|access-date=October 6, 2014}}</ref>
+<!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 10.25
+| area_total_km2          = 26.54
+| area_land_sq_mi         = 10.15
+| area_land_km2           = 26.29
+| area_water_sq_mi        = 0.10
+| area_water_km2          = 0.25
+| area_water_percent      = 0.97
+|area_metro_sq_mi         = <!-- Elevation ------------>
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|1652798|Tehachapi|access-date=February 9, 2015}}</ref>
+|elevation_ft             = 3970
+|elevation_m              = 1210
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0678092.html|title=Tehachapi (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 15, 2015|archive-url=https://web.archive.org/web/20120702005244/http://quickfacts.census.gov/qfd/states/06/0678092.html|archive-date=July 2, 2012|url-status=dead}}</ref>
+|population_total         = 14414
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 13011
+|population_density_sq_mi = 1281.87
+|population_metro         = 
+|population_density_metro_sq_mi   = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 93561
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 661|661]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|78092}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652798}}, {{GNIS 4|2412041}}
+|website                  = {{URL|www.liveuptehachapi.com}}
+|footnotes                = {{Designation list|embed=yes|designation1=California|designation1_number=643}}
+|population_density_km2 = 494.92
+}}

@@ -1,0 +1,40 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.1em|Huichon}}
+| native_name             = {{lower|0.1em|{{nobold|희천시}}}}
+| native_name_lang        = ko
+| official_name           = 
+| settlement_type         = [[List of cities in North Korea|Municipal City]]
+| translit_lang1          = Korean
+| translit_lang1_type     = [[Hangul|Chosŏn'gŭl]]
+| translit_lang1_info     = {{linktext|희|천|시}}
+| translit_lang1_type1    = [[Hancha]]
+| translit_lang1_info1    = {{linktext|熙|川|市}}
+| translit_lang1_type2    = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info2    = Hŭich'ŏn si
+| translit_lang1_type3    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3    = Huicheon-si
+| image_skyline           = Universidad Telecomunicaciones Huichon (2).jpg
+| imagesize               = 
+| image_caption           = Huichon Telecommunications University
+| image_map               = DPRK2006 Chagang-Huichon.PNG
+| map_caption             = Map of Chagang showing the location of Huichon
+| image_map1              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map             = North Korea
+| pushpin_map_caption     = Location within North Korea
+| coordinates             = {{coord|40.1707|N|126.2761|E|type:city|display=title, inline}}
+| subdivision_type        = Country
+| subdivision_name        = [[North Korea]]
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[Chagang Province]]
+| area_total_km2          = 
+| population_as_of        = 2008<ref>{{cite web |url=https://unstats.un.org/unsd/demographic/sources/census/wphc/North_Korea/Final%20national%20census%20report.pdf |title= 2008 Population Census |publisher=Central Bureau of Statistics, DPR Korea |date=2009 |access-date=July 22, 2017}}</ref>
+| population_total        = 168180
+| population_density_km2  = 
+| population_blank1_title = Dialect
+| population_blank1       = [[Pyongan dialect|P'yŏngan]]
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 21 ''tong'', 12 ''ri''
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+}}

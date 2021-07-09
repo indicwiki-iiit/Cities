@@ -1,0 +1,94 @@
+{{Infobox country
+| conventional_long_name = Central African Republic
+| common_name = the Central African Republic
+| native_name =
+{{unbulleted list|item_style=font-size:88%;|{{native name|fr|République centrafricaine}}}}
+{{unbulleted list|item_style=font-size:88%;|{{native name|sg|Ködörösêse tî Bêafrîka}}}}
+| image_flag = Flag of the Central African Republic.svg
+| image_coat = Coat of arms of the Central African Republic.svg
+| national_motto = {{native phrase|fr|"Unité, Dignité, Travail"|italics=off}}<br />{{small|"Unity, Dignity, Work"}}<br />{{native phrase|sg|"Zo Kwe Zo"|italics=off}}<br />{{small|"All people are people"}}
+| national_anthem = {{native phrase|fr|[[La Renaissance]]|nolink=no}}<br />{{native phrase|sg|E Zingo|nolink=yes}}<br />{{small|"The Renaissance"}}<br /><div style="display:inline-block;margin-top:0.4em;">[[File:La Renaissance.ogg|La Renaissance|center]]</div>
+| image_map = {{Switcher|[[File:Central African Republic (orthographic projection).svg|frameless]]|Show globe|[[File:Location Central African Republic AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption = 
+| image_map2 = 
+| capital = [[Bangui]]
+| coordinates = {{Coord|4|22|N|18|35|E|type:city}}
+| largest_city = capital
+| official_languages = 
+{{Plainlist|
+* [[French language|French]] 
+* [[Sango language|Sango]]
+}} 
+| ethnic_groups = {{hlist|[[Baggara|Baggara Arabs]]|[[Baka people (Cameroon and Gabon)|Baka]]|[[Banda people|Banda]]|[[Aka people|Bayaka]]|[[Fula people|Fula]]|[[Gbaya people|Gbaya]]|[[Kara people|Kara]]|[[Kresh people|Kresh]]|[[Mbaka people|Mbaka]]|[[Mandja people|Mandja]]|[[Ngbandi people|Ngbandi]]|[[Sara people|Sara]]|[[Vidiri people|Vidiri]]|[[Wodaabe]]|[[Yakoma people|Yakoma]]|[[Yulu people|Yulu]]| [[Kanuri people|Kanuri]]|[[Zande people|Zande]]|[[Demographics of the Central African Republic#Ethnic groups|others]]}}
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |89.5% [[Christianity]]
+  |—60.5% [[Protestantism]]
+  |—28.4% [[Catholic Church|Catholicism]]
+  |—0.6% Other [[List of Christian denominations|Christian]]
+  |8.5% [[Islam in Central African Republic|Islam]]
+  |1.0% [[African Traditional Religion|Traditional faiths]]
+  |2.0% [[Demographics of Central African Republic|Others]] / [[Irreligion|None]]
+  }}
+| religion_year                = 2020
+| religion_ref                = <ref name=ReligionCAR>{{cite web |url=http://www.globalreligiousfutures.org/countries/central-african-republic#/?affiliations_religion_id=0&affiliations_year=2010&region_name=All%20Countries&restrictions_year=2016|title=Central African Republic |publisher=[[Pew Research Center]] |access-date= 24 August 2020}}</ref>
+| demonym = [[Demographics of the Central African Republic|Central African]]
+| government_type = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[Republic|constitutional republic]]
+| leader_title1 = [[List of heads of state of the Central African Republic|President]]
+| leader_name1 = [[Faustin-Archange Touadéra]]
+| leader_title2 = [[List of heads of government of the Central African Republic|Prime Minister]]
+| leader_name2 = Henri-Marie Dondra
+| legislature = [[National Assembly (Central African Republic)|National Assembly]]
+| sovereignty_type = [[Independence]]
+| established_event1 = Republic established
+| established_date1 = 1 December 1958
+| established_event2 = from [[France]]
+| established_date2 = 13 August 1960
+| established_event3 = [[Central African Empire]] established
+| established_date3 = 4 December 1976
+| established_event4 = [[Coronation of Bokassa I]]
+| established_date4 = 4 December 1977
+| established_event5 = [[Operation Caban|Bokassa I's overthrow and republic restored]]
+| established_date5 = 21 September 1979
+| area_km2 = 622,984
+| area_rank = 44th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 240,534 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0 
+| population_estimate = {{UN_Population|Central African Republic}}{{UN_Population|ref}}
+| population_census = 3,895,139<ref>{{cite web|url=http://countrymeters.info/en/Central_African_Republic|title=Live Central African Republic population (2017). Current population of Central African Republic — Countrymeters|last=countrymeters.info|website=countrymeters.info|access-date=24 August 2020|archive-url=https://web.archive.org/web/20160601215515/http://countrymeters.info/en/Central_African_Republic|archive-date=1 June 2016|url-status=live}}</ref>
+| population_estimate_year = {{UN_Population|Year}}
+| population_estimate_rank = 119th
+| population_census_year = 2003
+| population_density_km2 = 7.1
+| population_density_sq_mi = 18.4 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 221st
+| GDP_PPP = $4.262 billion<ref name=imf2>{{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=105&pr.y=1&sy=2017&ey=2023&scsm=1&ssd=1&sort=country&ds=.&br=1&c=626&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Central African Republic |publisher=[[International Monetary Fund]] |access-date= 24 August 2020}}</ref>
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 162nd
+| GDP_PPP_per_capita = $823<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 184th
+| GDP_nominal = $2.321 billion<ref name=imf2/>
+| GDP_nominal_rank = 163th
+| GDP_nominal_year = 2019
+| GDP_nominal_per_capita = $448<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 181st
+| Gini = 56.3 <!--number only-->
+| Gini_year = 2008
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=2 March 2011 |archive-url=https://web.archive.org/web/20150209003326/http://data.worldbank.org/indicator/SI.POV.GINI |archive-date=9 February 2015 |url-status=live  }}</ref>
+| Gini_rank = 28th
+| HDI = 0.397 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank      = 188th
+| currency      = [[Central African CFA franc]]
+| currency_code = XAF
+| time_zone     = [[West Africa Time|WAT]]
+| utc_offset    = +1
+| date_format   = dd/mm/yyyy
+| drives_on     = right<ref>[http://www.brianlucas.ca/roadside/ Which side of the road do they drive on?] {{Webarchive|url=https://web.archive.org/web/20120414073422/http://brianlucas.ca/roadside/ |date=14 April 2012 }} Brian Lucas. August 2005. Retrieved 28 January 2009.</ref>
+| calling_code = [[+236]]
+| iso3166code = CF
+| cctld = [[.cf]]
+| ethinc_groups_year = 
+|today=}}

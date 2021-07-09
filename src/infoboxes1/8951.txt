@@ -1,0 +1,157 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                 = {{raise|0.1em|Rason}}
+| native_name          = {{lower|0.1em|{{nobold|라선시}}}}
+| native_name_lang     = ko
+|settlement_type        = [[Special cities of North Korea|Special city]]
+|official_name          = {{nobold|{{lang|ko|라선특별시}}}}{{·}} Rason Special City
+|image_seal = Emblem of Rason.svg
+|translit_lang1         = Korean
+|translit_lang1_type    = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info    = {{lang|ko|{{linktext|라|선|특|별|시}}}}
+|translit_lang1_type1   = [[Hanja|Hancha]]
+|translit_lang1_info1   = {{lang|ko|{{linktext|羅|先|特|別|市}}}}
+|translit_lang1_type2   = {{nowrap|[[McCune-Reischauer]]}}
+|translit_lang1_info2   = Rasŏn T'ŭkpyŏlsi
+|translit_lang1_type3   = {{nowrap|[[Revised Romanization]]}}
+|translit_lang1_info3   = Raseon Teukbyeolsi
+
+<!-- images and maps  ----------->
+|image_skyline          = Rason montage.png
+|imagesize              = 
+|image_caption          = Rason sights: Bipaseom Island (top), Imperial Hotel and Casino (bottom left), Rason Hotel (bottom right)
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+|mapsize                = 
+|image_map1             = Rason North Korea.png
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|North Korea}}
+|subdivision_type1      = [[Regions of Korea|Region]]
+|subdivision_name1      = [[Kwanbuk]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = 
+|seat                   = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+| leader_party         = [[Workers' Party of Korea|WPK]]
+| leader_title         = Party Committee Chairman
+| leader_name          = [[Rim Kyong-man]]<ref name=unikorea>{{Cite web|title=Organizational Chart of North Korean Leadership 
+|location=Seoul|publisher=Political and Military Analysis Division, Intelligence and Analysis Bureau; Ministry of Unification |date=January 2018|access-date=17 October 2018|url=https://www.unikorea.go.kr/cms/getFile.do?file=2018012913454378143.pdf&orgname=north_korean_Leadership.pdf&mgmtId=MGMT_0000000754&siteId=SITE_00003&filePath=eng_unikorea/common/file/&count=Y#.pdf}}</ref>
+| leader_title2        = People's Committee Chairman
+| leader_name2         = [[Cho Chong-ho]]<ref name=unikorea/>
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title1     = <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 746 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_dunam         = <!--Used in Middle East articles only-->
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use<ref> tags-->
+|elevation_m            = 27
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = 2019
+| population_footnotes    = <ref name=朝鲜罗先市> {{ cite web | url=http://wb.jl.gov.cn/yhcs_85472/201910/t20191018_6115233.html | lang=zh | title=朝鲜罗先市 | date=October 18, 2019 | access-date=May 25, 2020 }} </ref>  
+|population_note                =
+|population_total               = 205000
+|population_density_km2         = 275 
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = Dialect
+|population_blank1              = [[Hamgyŏng dialect|Hamgyŏng]]
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Time in North Korea|Pyongyang Time]]
+|utc_offset             = +9
+| coor_pinpoint         = <!-- can be used to specify exactly where/what the coordinates refer to -->
+|coordinates_type       = 
+|coordinates_display    = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|twin1                  =
+|twin1_country          =
+|twin2                  =
+|twin2_country          =
+|twin3                  =
+|twin3_country          =
+|twin4                  =
+|twin4_country          =
+|twin5                  =
+|twin5_country          =
+|twin6                  =
+|twin6_country          =
+|twin7                  =
+|twin7_country          =
+|blank_name             = 
+|blank_info             = 
+|blank1_name            =
+|blank1_info            =
+|blank2_name            =
+|blank2_info            =
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =
+|blank4_info            =
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website                = 
+|footnotes              = 
+}}

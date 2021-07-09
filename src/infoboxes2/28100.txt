@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Bellows Falls, Vermont
+|settlement_type          = [[Village (United States)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = BellowsFalls.jpg
+|image_caption            = Bellows Falls in the early spring, viewed from Fall Mountain
+|imagesize                = 325px
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map              = Vermont
+|pushpin_label_position   = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of Vermont
+|pushpin_mapsize          = 180
+|image_map                = 
+|map_caption              = 
+|image_map1               = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Vermont]]
+|subdivision_type2        = [[List of counties in Vermont|County]]
+|subdivision_name2        = [[Windham County, Vermont|Windham]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Incorporation (municipal government)|Incorporated]]
+|established_date         = 1909
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_50.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_total_km2           = 3.59
+|area_land_km2            = 3.55
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 1.39
+|area_land_sq_mi          = 1.37
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_footnotes     = 
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 3148
+|population_density_sq_mi = 2165.81
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 95
+|elevation_ft             = 312
+|coordinates              = {{coord|43|8|0|N|72|26|38|W|region:US-VT|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 05101
+|area_code                = [[Area code 802|802]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 50-04225<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1456381<ref name=GNIS1>{{gnis|1456381|Bellows Falls}}</ref>
+|website                  = {{Official Website|https://www.rockinghamvt.org/}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 2965
+|population_density_km2 = 836.19
+}}

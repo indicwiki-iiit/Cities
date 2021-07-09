@@ -1,0 +1,36 @@
+{{Infobox station
+| name        = Tamana Station
+| native_name = 玉名駅
+| native_name_lang = ja
+| type        = 
+| image       = Tamana station 1.jpg
+| alt         = 
+| caption     =  Tamana Station in 2006
+| other_name  = 
+| address     = 
+| country     = Japan
+| coordinates = {{coord|32.9257|N|130.5480|E|format=dms|type:railwaystation_region:JP|display=title,inline}}
+| operator    = [[File:JR logo (kyushu).svg|20px]] [[JR Kyushu]]
+| line        = {{colorbull|Red}} [[Kagoshima Main Line]],
+| distance    = 168.6 km from {{STN|Mojikō}}
+| platforms           = 1 side + 1 island platforms
+| tracks              = 3
+| train_operators     = 
+| connections         = 
+| structure           = At grade
+| parking             = 
+| bicycle             = 
+| disabled            = 
+| code                =
+| status              = Staffed ticket window ([[MARS (ticket reservation system)|''Midori no Madoguchi'']]) (outsourced)
+| website             = {{Official website|1=http://www.jrkyushu.co.jp/railway/station/1191682_1601.html}}
+| opened              = {{Start date|1891|04|01|df=y}}
+| rebuilt             = 
+| former              = Takase (until 10 April 1956)
+| closed              = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| passengers          = 2,770 daily
+| pass_year           = FY2016
+| pass_rank           = 67th (among JR Kyushu stations)
+| services            = 
+| map_type            = Japan
+}}

@@ -1,0 +1,72 @@
+{{Infobox settlement
+| official_name                   = Washingtonville, New York
+| settlement_type                 = [[Administrative divisions of New York#Village|Village]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Downtown Washingtonville, NY.JPG
+| imagesize                       = 250px
+| image_caption                   = Downtown Washingtonville
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = New York
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of New York
+| image_map                       = Orange County New York incorporated and unincorporated areas Washingtonville highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Orange County, New York|Orange County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Orange County, New York|Orange]]
+| subdivision_type3               = [[List of towns in New York|Town]]
+| subdivision_name3               = [[Blooming Grove, New York|Blooming Grove]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 6.61
+| area_land_km2                   = 6.57
+| area_water_km2                  = 0.04
+| area_total_sq_mi                = 2.55
+| area_land_sq_mi                 = 2.54
+| area_water_sq_mi                = 0.01
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 5899
+| population_density_km2          = 877.73
+| population_density_sq_mi        = 2273.44
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 93
+| elevation_ft                    = 305
+| coordinates                     = {{coord|41|25|40|N|74|09|58|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 10992
+| area_code                       = [[Area code 845|845]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-78465<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 968876<ref name=GNIS1>{{gnis|968876|Washingtonville}}</ref>
+| website                         = {{URL|http://www.washingtonville-ny.gov}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 5770
+| name                            = 
+}}

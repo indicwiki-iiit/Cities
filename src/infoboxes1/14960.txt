@@ -1,0 +1,50 @@
+{{Infobox settlement
+|settlement_type        = 
+|name                   = Wexford
+|native_name            = {{Pad top italic|Loch Garman}}
+|image_shield           = IRL COA Wexford Town 3D.svg
+|motto                  = ''Per Aquam et Ignem'' <br /> 'Through Water and Fire'
+| image_skyline                   = {{Photomontage
+| photo1a = Wexford Quay, 2021-06-01, 03.jpg
+| photo1b = Wexford Bridge, 2021-06-01.jpg
+| photo2a = Paul Quay, Wexford, 2021-06-01, 02.jpg
+| photo2b = South Main Street, Wexford, 2021-06-01, 01.jpg
+| size = 260
+| spacing = 1
+| color = white
+| border = 0
+}}
+| image_caption                   = From top, left to right: Wexford Quay, Wexford Bridge, Paul Quay, South Main Street
+|pushpin_map            = Ireland
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Ireland
+|coordinates            = {{coord|52.3342|-6.4575|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|T051213}}
+|unit_pref              = Metric
+|elevation_m            = 1
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Republic of Ireland|Ireland]]
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Leinster]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[County Wexford]]
+|subdivision_type3      = Dáil Éireann
+|subdivision_name3      = [[Wexford (Dáil constituency)|Wexford]]
+|subdivision_type4      = EU Parliament
+|subdivision_name4      = [[South (European Parliament constituency)|South]]
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)53
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =Y35
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+|population_urban        = 20,188
+|subdivision_type6 = 
+|subdivision_name6 = 
+|population_footnotes   = <ref name="sapmap2016">{{Cite web |date=2016 |title=Sapmap Area – Settlements – Wexford |url=http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=5388105E-8A13-4BBC-9984-6D3CA17236EA#SAPMAP_T1_100 |access-date=12 January 2018 |website=Census 2016 |publisher=[[Central Statistics Office (Ireland)|CSO]]}}</ref>
+|population_as_of       = 2016
+|website                = {{URL|www.wexford.ie }}
+}}

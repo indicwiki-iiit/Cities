@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                            = Longmont, Colorado
+| settlement_type                 = [[List of cities and towns in Colorado#Home rule municipality|Home Rule Municipality]]<ref name=COMun>{{cite web |url=https://dola.colorado.gov/lgis/municipalities.jsf|title=Active Colorado Municipalities|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+| official_name                   = City of Longmont<ref name=COMun/>
+<!-- images and maps  ----------->
+| image_skyline                   = Longmont, CO, Safety and Justice Center IMG_5217.JPG
+| imagesize                       = 
+| image_caption                   = The Longmont Safety and Justice Center.
+| image_flag                      = Flag of Longmont (Colorado).png
+| image_seal                      = 
+| image_shield                    = 
+| image_map               = Boulder County and Weld County Colorado Incorporated and Unincorporated areas Longmont Highlighted 0845970.svg
+| mapsize                 = 
+|map_caption              = Location of the City of Longmont in [[Boulder County, Colorado|Boulder]] and [[Weld County, Colorado|Weld]] [[List of counties in Colorado|counties]], [[Colorado]].
+|pushpin_map              = USA
+|pushpin_label            = Longmont
+|pushpin_label_position   = right
+|pushpin_map_caption      = Location of the City of Longmont in the {{nobreak|[[United States]].}}
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Colorado}}
+|subdivision_type2        = [[List of counties in Colorado|Counties]]<ref name=COcounty>{{cite web |url=https://dola.colorado.gov/lgis/counties.jsf|title=Colorado Counties|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 27, 2021}}</ref>
+|subdivision_name2        = [[Boulder County, Colorado|Boulder County]]<br/>[[Weld County, Colorado|Weld County]]
+|subdivision_type3        = [[List of cities and towns in Colorado|City]]<ref name=COMun/>
+|subdivision_name3        = Longmont
+<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = [[Colorado municipalities#Home rule municipality|Home Rule Municipality]]<ref name=COMun/>
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[Brian Bagley]] ([[List of mayors of Longmont, Colorado|List]])
+| established_title               = Founded
+| established_date                = 1871
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = November 15, 1885<ref name=MuniIncCO>{{cite web | url = http://www.colorado.gov/dpa/doit/archives/muninc.html | title = Colorado Municipal Incorporations | publisher=[[Colorado|State of Colorado]], Department of Personnel & Administration, Colorado State Archives | date = December 1, 2004 | access-date = September 2, 2007}}</ref>
+| named_for                       = [[Stephen Harriman Long]] and [[Longs Peak]]
+<!-- Area    --------------------->
+| unit_pref                       = US
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_08.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 78.74
+| area_land_km2                   = 74.49
+| area_water_km2                  = 4.26
+| area_water_percent              = <!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 97261
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_total                = 86270
+| population_footnotes            = <ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=June 12, 2015}}</ref>
+| population_density_km2          = 1305.70
+<!-- General information  --------------->| timezone                        = [[Mountain Time Zone|MST]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = [[Mountain Time Zone|MDT]]
+| utc_offset_DST                  = &minus;6
+| coordinates                     = {{coord|40|10|18|N|105|6|33|W|region:US-CO|display=inline,title}}
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_m                     = 1519
+| elevation_ft                    = 4984
+<!-- Area/postal codes & others -------->
+| postal_code_type                = [[ZIP code]]s<ref name=ZIPcode>{{cite web|url=http://zip4.usps.com/zip4/citytown.jsp |title=ZIP Code Lookup |format=[[JavaScript]]/[[HTML]] |publisher=[[United States Postal Service]] |access-date=November 15, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20101104123722/http://zip4.usps.com/zip4/citytown.jsp |archive-date=November 4, 2010 }}</ref>
+| postal_code                     = 80501-80504
+| area_code                       = [[Area codes 303 and 720|303/720]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 08-45970
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:0202560 0202560]
+| website                         = {{URL|www.longmontcolorado.gov}}
+| footnotes                       = 
+| population_density_sq_mi        = 3381.70
+| area_total_sq_mi                = 30.40
+| area_land_sq_mi                 = 28.76
+| area_water_sq_mi                = 1.64
+}}

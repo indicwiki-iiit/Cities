@@ -1,0 +1,99 @@
+{{Infobox settlement
+|name                     = Bellflower, California
+|official_name            = City of Bellflower
+|native_name              = <!-- for cities whose native name is not in English -->
+|other_name               = 
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Bellflower, CA City Hall.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = Flag of Bellflower, California.gif
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = "The Friendly City"
+|motto                    = "Growing Together"
+|image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Bellflower Highlighted 0604982.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Bellflower in Los Angeles County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|33|53|17|N|118|7|39|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[Los Angeles County, California|Los Angeles]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Founded]]
+
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date         = 1906<ref>{{cite web |url=https://www.bellflower.org/about/history.asp |title=City of Bellflower - City History |publisher=Bellflower.org |access-date=2018-10-04 |archive-date=October 29, 2019 |archive-url=https://web.archive.org/web/20191029164429/https://www.bellflower.org/about/history.asp |url-status=dead }}</ref>
+|named_for                = [[Bellflower apple|Yellow bellflower apple]]
+|established_date2        = September 3, 1957<ref>{{cite web|url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[City council]]<ref>{{cite web|url=http://www.bellflower.org/council/default.asp|title=City Council|publisher=City of Bellflower|access-date=April 26, 2017|archive-date=April 25, 2020|archive-url=https://web.archive.org/web/20200425080530/https://www.bellflower.org/council/default.asp|url-status=dead}}</ref>
+|leader_name              = Juan Garza ([[mayor]])<br/> Sonny Santa Ines <br/> Ray Dunton <br/> Dan Koops <br/> Ray Hamada
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_km2           = 15.98
+|area_total_sq_mi         = 6.17
+|area_land_km2            = 15.85
+|area_land_sq_mi          = 6.12
+|area_water_km2           = 0.14
+|area_water_sq_mi         = 0.05
+|area_water_percent       = 0.86
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Population   ----------------------->
+|area_note                = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1652671|Bellflower|access-date=October 11, 2014}}</ref>
+|elevation_m              = 22
+<!-- Area/postal codes & others -------->
+|elevation_ft             = 71
+|population_total         = 76616
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0604982.html|title=Bellflower (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 11, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150215155003/http://quickfacts.census.gov/qfd/states/06/0604982.html|archive-date=February 15, 2015|df=mdy-all}}</ref>
+|population_density_sq_mi = 12493.46
+|population_est           = 76435
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 90706, 90707
+|area_code                = [[Area code 562|562]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.bellflower.org}}
+|footnotes                = 
+|leader_title3            = City Manager
+|leader_name3             = Jeffrey L. Stewart
+|leader_title4            = 
+|leader_name4             = 
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|04982}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652671}}, {{GNIS 4|2409822}}
+|population_density_km2 = 4823.76
+}}

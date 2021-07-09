@@ -1,0 +1,114 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em| Kasamatsu}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|笠松町}}}}}}
+| native_name_lang        = ja
+| settlement_type         = [[Towns of Japan|Town]]
+<!-- images, nickname, motto -->
+| image_skyline           =  Kasamatsucho-Yakuba01.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Kasamatsu Town Hall
+| image_flag              = Flag of Kasamatsu Gifu.JPG
+| flag_alt                = 
+| image_seal              = Kasamatsu Gifu chapter.JPG
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Kasamatsu in Gifu Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Kasamatsu in Gifu Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|35|22|1.8|N|136|45|47.6|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Gifu Prefecture|Gifu]]
+| subdivision_type3       = [[Districts of Japan|District]]
+| subdivision_name3       = [[Hashima District, Gifu|Hashima]]
+<!-- established -->
+| established_title       = <!-- Settled -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Masaaki Hiroe
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 10.3
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 22,273
+| population_as_of        = November 1, 2018
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Pine]]<ref name="kasamatsu">{{Cite web |url=http://www.town.kasamatsu.gifu.jp/kikaku/pdf/toukei2009.pdf |script-title=ja:笠松町統計書 |language=Japanese |date=June 2010 |publisher=Kasamatsu |title=Archived copy |access-date=2011-01-17 |archive-url=https://web.archive.org/web/20110616013916/http://www.town.kasamatsu.gifu.jp/kikaku/pdf/toukei2009.pdf |archive-date=2011-06-16 |url-status=dead }}</ref> 
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Cherry blossom]]<ref name="kasamatsu" /> 
+| blank3_name_sec1        = - Bird
+| blank3_info_sec1        =
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 058-388-1111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = Tsukasa-machi 1, Kasamatsu-chō, Hashima-gun, Gifu-ken 501-6181
+<!-- website, footnotes -->
+| website                 = {{official|1=http://www.town.kasamatsu.gifu.jp/}}
+| footnotes               = 
+}}

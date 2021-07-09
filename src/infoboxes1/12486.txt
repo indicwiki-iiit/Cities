@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage-->
+<!-- Basic info  ---------------->
+|name                     = Watsonville, California
+|settlement_type          = [[City (California)|City in California]]
+|official_name            = City of Watsonville<ref name=charter>{{Cite web|url=http://www.codepublishing.com/ca/watsonville/|title=Charter of the City of Watsonville|publisher=Code Publishing Company|access-date=January 24, 2015}}</ref>
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+|image_skyline            = Watsonville.JPG
+|image_caption            = Downtown Watsonville in 2000
+|image_flag               = Flag of Watsonville, California.png
+|image_seal               = Seal of Watsonville, California.png
+|motto                    = "Opportunity through diversity; unity through cooperation!"
+|nickname                 = 
+|image_map                = Santa_Cruz_County_California_Incorporated_and_Unincorporated_areas_Watsonville_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Santa Cruz County, California|Santa Cruz County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|36|55|12|N|121|45|49|W|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+<!-- Politics ----------------->
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = {{start date|1868|03|30}}<ref name=incorp>{{Cite web
+ |url          = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title        = California Cities by Incorporation Date
+ |format       = Word
+ |publisher    = California Association of [[Local Agency Formation Commission]]s
+ |access-date   = August 25, 2014
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref>
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]<ref name=charter/>
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = <!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 6.80
+|area_total_km2           = 17.62
+|area_land_sq_mi          = 6.71
+|area_land_km2            = 17.37
+|area_water_sq_mi         = 0.10
+|area_water_km2           = 0.25
+|area_water_percent       = 1.42
+|area_metro_sq_mi         = 
+|area_metro_km2           = 
+|elevation_footnotes      = <ref name="City-Data08"/>
+|elevation_ft             = 29
+|elevation_m              = 9
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0683668.html|title=Watsonville (city) QuickFacts|publisher=United States Census Bureau|access-date=February 18, 2015|archive-url=https://web.archive.org/web/20111226082414/http://quickfacts.census.gov/qfd/states/06/0683668.html|archive-date=December 26, 2011|url-status=dead|df=mdy-all}}</ref>
+|population_total         = 51199
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 53856
+|population_density_sq_mi = 8029.82
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+|population_density_metro_km2     = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = United States Postal Service
+ | access-date = November 23, 2014}}</ref>
+|postal_code              = 95076, 95077
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 831|831]]<ref name="City-Data08"/>
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|83668}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660138}}, {{GNIS 4|2412194}}
+|website                  = {{URL|https://cityofwatsonville.org/}}
+|population_density_km2 = 3100.33
+}}

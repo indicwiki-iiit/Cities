@@ -1,0 +1,63 @@
+{{Infobox settlement
+| name = Daugavpils
+| native_name =
+| settlement_type = City
+| other_name =
+| nickname =
+| motto =
+| image_skyline = How Daugavpils look like.jpg
+| imagesize = 275px
+| image_caption = City from different points of view
+| image_flag = Flag of Daugavpils.png
+| flag_size = 150px
+| image_shield = Coat of arms of Daugavpils.svg
+| shield_link =
+| map_caption = Location of Daugavpils in Latvia
+| pushpin_map = Latvia
+| pushpin_relief =
+| coordinates = {{coord|55|52|30|N|26|32|8|E|region:LV-025|display=inline,title}}
+| subdivision_type = [[List of sovereign states|Country]]
+| subdivision_name = [[Latvia]]
+| subdivision_type1 =
+| subdivision_name1 =
+| subdivision_type2 =
+| subdivision_name2 =
+| established_title = Established
+| established_date = 1275
+| established_title1 = [[Town rights]]
+| established_date1 = 1582
+| government_type =
+| leader_title = [[Mayor|Chairman of the City Council]]
+| leader_name = [[Igors Prelatovs]]
+| leader_title1 = Number of city council members
+| leader_name1 = 15
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| elevation_max_m = 139
+| elevation_min_m = 86
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_rank = 2
+| population_density_km2 = auto
+| population_density_sq_mi =
+| population_urban_footnotes = &nbsp;(2017)
+| population_urban = 112,679<ref>{{cite web|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en |title=Population on 1 January by age groups and sex - functional urban areas|publisher=PMLP.gov.lv|access-date=July 19, 2019|language=en}}</ref>
+| population_metro =
+| population_density =
+| population_density_rank =
+| timezone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| timezone_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST = +3
+| postal_code_type = [[Postal code]]
+| postal_code = LV-54(01–65)
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = <small>(+371)</small> 654
+| website = {{url|http://www.daugavpils.lv/}}
+| footnotes =
+| official_name =
+| leader_party = Our Party
+}}

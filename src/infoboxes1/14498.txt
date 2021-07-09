@@ -1,0 +1,23 @@
+{{Infobox UK place
+| static_image_name        = Pier Towers Withernsea.JPG
+| static_image_caption     = Pier Towers, Withernsea
+| country                  = England
+| coordinates              = {{coord|53.7285|0.0382|display=inline,title}}
+| label_position           = top
+| official_name            = Withernsea
+| population               = 6,159
+| population_ref           = ([[United Kingdom Census 2011|2011 census]])<ref name="2011 census"/>
+| civil_parish             = Withernsea
+| unitary_england          = [[East Riding of Yorkshire]]
+| lieutenancy_england      = [[East Riding of Yorkshire]]
+| region                   = Yorkshire and the Humber
+| constituency_westminster = [[Beverley and Holderness (UK Parliament constituency)|Beverley and Holderness]]
+| historic_county = [[Yorkshire]]
+|post_town                = WITHERNSEA
+| postcode_district        = HU19
+| postcode_area            = HU
+| dial_code                = 01964
+| os_grid_reference        = TA344277
+|london_distance_mi        = 150<!-- straight line per MOS – constant and comparable with other place distances -->
+|london_direction          = S
+}}

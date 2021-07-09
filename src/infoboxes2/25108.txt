@@ -1,0 +1,79 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name                     = Montecito
+|settlement_type          = [[Census designated place]]
+|other_name               = 
+<!-- Images and maps ------>
+| image_skyline                   = {{Photomontage
+| photo1a                 = SantaBarbara-Montecito (cropped).jpg
+| photo2a                 = MontecitoCA SantaYnez NB 20140909.jpg
+| photo2b                 = Golden barrels at Lotusland.jpeg
+| photo3a                 = El Fureidis (cropped).jpg
+| photo3b                 = Arcady, George Owen Knapp house, Sycamore Canyon Road, Montecito, California. Lower garden, view to Santa Ynez Mountains.jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise: View of the [[Pacific Ocean]]; the [[Santa Ynez Mountains]]; [[Lotusland]] botanical garden; [[El Fureidis]]; and the Arcady Estate.
+}}
+|nickname                 = 
+|image_map                = Santa Barbara County California Incorporated and Unincorporated areas Montecito Highlighted.svg
+|map_caption              = Location in [[Santa Barbara County, California|Santa Barbara County]] and the state of [[California]]
+| pushpin_map = USA California Southern#USA California#USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------->
+|coordinates              = {{coord|34|26|1|N|119|37|55|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Barbara County, California|Santa Barbara]]
+<!-- History -------------->
+|established_title        = <!-- Founded -->
+|established_date         = 
+<!-- Government ----------->
+|leader_title1            = [[California's 19th State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|19|fmt=sleader}}<ref name=swd/>
+|leader_title2            = [[California's 37th State Assembly district|Assembly Member]]
+|leader_name2             = {{Representative|caad|37|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=November 7, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title3            = [[California's 24th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|24|fmt=usleader}}<ref>{{Cite GovTrack|CA|24|access-date=September 29, 2014}}</ref>
+<!-- Area ----------------->
+|unit_pref                = US
+|area_footnotes           = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+|area_total_sq_mi         = 9.265
+|area_total_km2           = 23.994
+|area_land_sq_mi          = 9.259
+|area_land_km2            = 23.979
+|area_water_sq_mi         = 0.006
+|area_water_km2           = 0.014
+|area_water_percent       = 0.06
+|area_metro_sq_mi         = 
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1661052|Montecito|access-date=November 7, 2014}}</ref>
+|elevation_ft             = 180
+|elevation_m              = 55
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|April 1, 2010]]
+|population_footnotes     = 
+|population_total         = 8965
+|population_density_sq_mi = auto
+|population_metro         =
+|population_density_metro_sq_mi = 
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 93108, 93150
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 805|805]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|48844}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1661052}}, {{GNIS 4|2408861}}
+}}

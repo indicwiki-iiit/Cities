@@ -1,0 +1,23 @@
+{{Infobox UK place 
+|country = Scotland
+|official_name = Arbroath
+|coordinates = {{coord|56.561|-02.586|display=inline,title}}
+|gaelic_name = Obar Bhrothaig
+|scots_name = Aiberbrothock
+|population = {{Scottish locality populations|name|POP=Arbroath}}
+|population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|os_grid_reference = NO641412
+|unitary_scotland = [[Angus, Scotland|Angus]]
+|lieutenancy_scotland = [[Angus, Scotland|Angus]]
+|constituency_westminster = [[Angus (UK Parliament constituency)|Angus]]
+|constituency_scottish_parliament = [[Angus South (Scottish Parliament constituency)|Angus South]]
+|historic_county = Angus
+|post_town = ARBROATH
+|postcode_district = DD11
+|postcode_area = DD 
+|dial_code = 01241
+|static_image_name = Arbroath from Inchape Park.JPG
+|static_image_caption = Arbroath from the south
+|edinburgh_distance = {{convert|45|mi|km|0|abbr=on}} [[Boxing the compass|SSW]]
+|london_distance = {{convert|371|mi|km|0|abbr=on}} [[Boxing the compass|SSE]]
+ }}

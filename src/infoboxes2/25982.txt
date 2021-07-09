@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                     = Purcell, Oklahoma
+|settlement_type          = [[City]]
+|nickname                 = Heart of Oklahoma, Quarterhorse Capital of the World, Queen City of the Chickasaw Nation
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = McClain County Courthouse.JPG
+|image_caption            = McClain County Courthouse in Purcell
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = OKMap-doton-Lexington.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Purcell, Oklahoma
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|Counties]]
+|subdivision_name2        = [[McClain County, Oklahoma|McClain]]
+
+<!-- Government -->
+|government_footnotes     = <ref name=GovDesc>{{cite web|title=City Government Description|publisher=City of Purcell|url=http://www.purcell.ok.gov/index.aspx?page=132|access-date=June 7, 2015| archive-url=https://web.archive.org/web/20161223072517/http://www.purcell.ok.gov/index.aspx?page=132 |archive-date=23 December 2016}}</ref>
+|government_type          = Council-Manager Charter
+|leader_title             = Mayor
+|leader_name              = Ted Cox
+|leader_title1            = City Manager
+|leader_name1             = Dale Bunn
+|established_title        = Incorporated
+|established_date         = 1898
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_total_sq_mi         = 13.80
+|area_land_sq_mi          = 13.39
+|area_water_sq_mi         = 0.41
+|area_total_km2           = 35.75
+|area_land_km2            = 34.69
+|area_water_km2           = 1.06
+|unit_pref                = Imperial
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6420
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=September 24, 2014}}</ref>
+|population_total         = 5884
+|population_density_sq_mi = 479.35
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 335
+|elevation_ft             = 1099
+|coordinates              = {{coord|35|1|3|N|97|22|10|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 73080
+|area_code                = [[Area code 405|405]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-61150<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1096963<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.cityofpurcell.com}}
+|footnotes                = 
+|population_density_km2 = 185.07
+}}

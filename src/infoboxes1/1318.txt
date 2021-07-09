@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|name=Glen Park
+|official_name=
+|other_name=
+|native_name=<!-- if different from the English name -->
+|nickname=
+|settlement_type=[[Neighborhoods in San Francisco|Neighborhood of San Francisco]] <!-- e.g. Town, Village, City, etc.-->
+|total_type=<!-- to set a non-standard label for total area and population rows -->
+|motto=
+<!-- images and maps ----------->
+|image_skyline=On Diamond Street by Bosworth, looking North, Glen Park, SF.jpg
+|imagesize=
+|image_caption=View of Glen Park from Diamond Street by Bosworth Street.
+|image_flag=
+|flag_size=
+|seal_size=
+|image_shield=
+|shield_size=
+|image_blank_emblem=
+|blank_emblem_type=
+|blank_emblem_size=
+|image_map=
+|mapsize=
+|map_caption=
+| pushpin_map=San Francisco County
+| pushpin_label_position=left
+| pushpin_map_caption=Location within San Francisco
+| pushpin_mapsize=250
+
+|subdivision_type=[[List of sovereign states|Country]]
+|subdivision_name={{USA}}
+|subdivision_type1=[[U.S. state|State]]
+|subdivision_name1={{flag|California}}
+|subdivision_type2=[[Consolidated city-county|City-county]]
+|subdivision_name2=[[San Francisco]]
+<!-- Politics ----------------->
+|government_footnotes=
+|government_type=
+|leader_title=[[San Francisco Board of Supervisors|Supervisor]]
+|leader_name=[[Rafael Mandelman]]<ref name=mandelman>{{Cite web |url=https://www.sfchronicle.com/politics/article/Mandelman-leading-incumbent-Sheehy-in-SF-s-12970893.php|title= Mandelman ousts incumbent Sheehy in SF’s District Eight |publisher=SF Chronicle|access-date=May 26, 2020}}</ref>
+|leader_title1=[[California State Assembly|Assemblymember]]
+|leader_name1={{Representative|caad|17|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=December 29, 2014 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title2= [[California State Senate|State Senator]]
+|leader_name2={{Representative|casd|11|fmt=sleader}}<ref name=swd/>
+|leader_title3=[[California's 12th congressional district|U. S. Rep.]]
+|leader_name3={{Representative|cacd|12|fmt=usleader}}<ref>{{Cite GovTrack|CA|12}}</ref>
+|established_title=
+|established_date=
+<!-- Area --------------------->
+|area_magnitude=
+|unit_pref=
+|area_footnotes=<ref name="city-data.com">[http://www.city-data.com/neighborhood/Glen-Park-San-Francisco-CA.html]</ref>
+|area_total_sq_mi=0.485
+|area_land_sq_mi=0.485
+|area_water_sq_mi=
+|area_water_percent=
+<!-- Elevation -------------------------->
+|elevation_footnotes=<!--for references: use <ref> </ref> tags-->
+|elevation_m=
+|elevation_ft=
+|elevation_max_m=
+|elevation_max_ft=
+|elevation_min_m=
+|elevation_min_ft=
+<!-- Population ----------------------->
+|population_as_of=2008
+|population_footnotes=<ref name="city-data.com">[http://www.city-data.com/neighborhood/Glen-Park-San-Francisco-CA.html]</ref>
+|population_note=
+|population_total=6979
+|population_density_sq_mi=14397
+<!-- General information --------------->
+|timezone=
+|utc_offset=
+|timezone_DST=
+|utc_offset_DST=
+|coordinates = {{coord|37|44|02|N|122|26|00|W|display=inline}}
+<!-- Area/postal codes & others -------->
+|postal_code_type=[[ZIP Code]]
+|postal_code=94131
+|area_code_type=[[North American Numbering Plan|Area codes]]
+|area_code=[[Area codes 415 and 628|415/628]]
+|website=
+|footnotes=
+}}

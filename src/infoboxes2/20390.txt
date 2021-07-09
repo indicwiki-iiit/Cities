@@ -1,0 +1,25 @@
+{{Infobox company
+| name = Corning Incorporated
+| logo = [[File:Corning Incorporated Logo.svg|245px]]
+| image = [[File:Corning_Headquarter.jpg|250px]]
+| image_caption = Headquarters, with [[Little Joe Tower]] in the background
+| type = [[Public company|Public]]
+| traded_as = {{NYSE|GLW}}<br />[[S&P 500|S&P 500 Component]]
+| industry = [[Technology]]<br>Glass & Ceramic Materials
+| founded = {{Start date and age|1851}} as<br />Bay State Glass Co.
+| founder = Amory Houghton
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| location = [[Corning (city), New York|Corning]], [[New York (state)|New York]], U.S.
+| area_served = Worldwide
+| key_people = [[Wendell P. Weeks]]<br /><small>(Chairman and CEO)</small><br>Lawrence D. McRae<br>{{small|(Vice Chairman)}}
+| products = [[Glass production|Specialty glass]]<br/>[[Ceramic]]s<br/>[[Optical fiber]]<br/>{{nowrap|Cable, hardware & equipment}}<br/>[[Catalytic converter|Emissions control technology]]<br/>[[LCD|LCD glass]]<br/>[[Life sciences|Life sciences products]]
+| revenue = {{increase}} US $11.4 billion <small>(2018)</small><ref name="Corning-Feb-06-10-K">{{cite web |url=https://www.sec.gov/Archives/edgar/data/24741/000002474117000011/q4201610k.htm |title=Corning, Form 10-K, Annual Report, Filing Date Feb 6, 2017 |publisher=secdatabase.com |access-date=August 19, 2017 |url-status=live |archive-url=https://web.archive.org/web/20170328233015/https://www.sec.gov/Archives/edgar/data/24741/000002474117000011/q4201610k.htm |archive-date=March 28, 2017 }}</ref>
+| operating_income = {{increase}} US $1.391 billion <small>(2016)</small><ref name="Corning-Feb-06-10-K"/>
+| net_income = {{increase}} US $3.695 billion <small>(2016)</small><ref name="Corning-Feb-06-10-K"/>
+| aum = <!-- Only used with financial services companies -->
+| assets = {{decrease}} US $27.899 billion <small>(2016)</small><ref name="Corning-Feb-06-10-K"/>
+| equity = {{decrease}} US $17.96 billion <small>(2016)</small><ref name="Corning-Feb-06-10-K"/>
+| num_employees = 51,500 <ref name="s22.q4cdn.com">https://s22.q4cdn.com/662497847/files/doc_financials/annual/2018/AR_LowRes.pdf</ref>
+| divisions = Display technologies, telecommunications,<br />environmental technologies,<br/>specialty materials,<br />life sciences
+| homepage = {{URL|http://www.corning.com/|www.Corning.com}}
+}}

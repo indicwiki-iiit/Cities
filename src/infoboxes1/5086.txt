@@ -1,0 +1,38 @@
+{{Infobox settlement
+|name                   = Gavar
+|native_name            = Գավառ
+|native_name_lang       = hy
+|other_name             = Kyavar{{*}}{{lang|hy|Քյավառ}}
+|image_skyline          = Gavar city.jpg
+|image_caption          = 
+|image_size             = 300 px
+|image_seal             = Coat of Arms of Gavar.png
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Province]]
+|subdivision_name1      = [[Gegharkunik Province|Gegharkunik]]
+|leader_title           = Mayor
+|leader_name            = 
+|established_title      = Founded<br />City status
+|established_date       = 1830<br />1850
+|area_total_km2         = 16
+|area_footnotes         =
+|population_footnotes   = <ref name="2011censusGegharkunik">{{Cite web|url=http://armstat.am/file/doc/99481713.pdf|title=2011 Armenia census, Gegharkunik Province|author=[[Statistical Committee of Armenia]]}}</ref>
+|population_as_of       = [[Census in Armenia|2011]]
+|population_total       = 20,765
+|population_density_km2 = auto
+|timezone               = [[Armenia Time|AMT]] 
+|utc_offset             = +4
+|timezone_DST           =
+|utc_offset_DST         = 
+|coordinates            = {{coord|40|21|32|N|45|07|36|E|region:AM|display=inline}}
+|elevation_m            = 1982
+|postal_code_type       = Postal code
+|postal_code            = 1201-1205
+|area_code              = (+374) 264
+|registration_plate     = 02
+|website                = [http://www.gavariqaghaqapetaran.am/ Official website]
+|footnotes              = {{GEOnet2|32FA881E6EFB3774E0440003BA962ED3}}
+}}

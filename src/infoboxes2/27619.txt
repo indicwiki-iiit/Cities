@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name = Hilmar-Irwin
+|other_name             = 
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type = [[census-designated place]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map = File:Merced County California Incorporated and Unincorporated areas Hilmar-Irwin Highlighted 0633861.svg
+|mapsize = 
+|map_caption = Location of Hilmar-Irwin in Merced County, California.
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          = 
+|dot_mapsize            = 
+|dot_map_caption        = 
+|dot_x =  
+|dot_y = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2 = [[Merced County, California|Merced]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = 
+|leader_title2          = 
+|leader_name2           = 
+|leader_title3          = 
+|leader_name3           = 
+|leader_title4          = 
+|leader_name4           = 
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      = 
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 3.928
+| area_land_sq_mi         = 3.928
+| area_water_sq_mi        = 0
+| area_total_km2          = 10.173
+| area_land_km2           = 10.173
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = 
+<!-- Population   ----------------------->
+|population_as_of               = 2010
+|population_footnotes           = 
+|population_note                = 
+|population_total = 5197
+|pop_est_as_of                  = 2019
+|population_est                 = 5755
+|population_density_km2 = auto
+|population_density_sq_mi = auto
+|population_metro               = 
+|population_density_metro_km2   = 
+|population_density_metro_sq_mi = 
+|population_urban               = 
+|population_density_urban_km2   = 
+|population_density_urban_sq_mi = 
+|population_blank1_title        = 
+|population_blank1              = 
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates            = {{coord|37|24|30|N|120|51|03|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[ZIP code]]
+|postal_code            = 95324
+|area_code              = [[Area code 209|209]]
+|blank_name             = [[Federal Information Processing Standards|FIPS code]]
+|blank_info             = 06-33861
+|blank1_name            = 
+|blank1_info            = 
+|website                = 
+|footnotes              = 
+}}

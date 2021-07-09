@@ -1,0 +1,42 @@
+{{Infobox settlement
+|name = Qaanaaq
+|other_name = Thule
+|image_skyline = Qaanaaq, Greenland.jpg
+|imagesize = 250px
+|image_caption = Qaanaaq
+|image_shield =
+|shield_size =
+|pushpin_map            = Greenland#Arctic
+|pushpin_label_position =
+|pushpin_map_caption    = Location within Greenland
+|pushpin_mapsize        = 200
+|image = 
+| subdivision_type        = [[Sovereign state]]
+| subdivision_name        = {{Flag|Kingdom of Denmark}}
+| subdivision_type1       = [[Countries of the Kingdom of Denmark|Autonomous country]]
+| subdivision_name1       = {{Flag|Greenland}}
+| subdivision_type2       = [[Administrative divisions of Greenland|Municipality]]
+| subdivision_name2       =  [[Avannaata]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+|government_footnotes =
+|leader_title =
+|leader_name =
+|established_title = First settled
+|established_date = 2000 BC
+|population_as_of = 2020
+|population_total = 646<ref name="stat2020">{{cite book
+  | title       = Population in Localities January 1st by place of birth, gender, locality and time
+  | url         = http://bank.stat.gl/pxweb/en/Greenland/Greenland__BE__BE01__BE0120/BEXST4.PX/table/tableViewLayout1/?rxid=95c5d7b2-e6c0-4f44-a642-7f2f44a82f69
+  | publisher   = [[Statistics Greenland]]
+  | isbn        = 978-87-986787-7-9
+  | issn        = 1602-5709
+  | access-date  = 6 September 2013
+  }}</ref>
+|timezone = [[UTC-04]]<ref name="auto">{{Cite web|url=https://www.timetemperature.com/europe/greenland_time_zone.shtml|title=Greenland Time Zone - Greenland Current Local Time|website=www.timetemperature.com}}</ref> or [[UTC-03]]<ref>{{Cite web|url=https://www.airgreenland.com/|title=We make Greenland accessible|website=www.airgreenland.com}}</ref>
+|timezone_DST = [[UTC-03]]<ref name="auto"/> or [[UTC-02]]
+|coordinates             = {{coord|77|28|00|N|69|13|50|W|region:GL|display=inline,title}}
+|postal_code_type = Postal code
+|postal_code = 012345
+|website =
+}}

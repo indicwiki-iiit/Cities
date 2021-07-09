@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type          = town
+| name          = Ballina
+| state         = nsw
+| image         = File:Ballina NSW collage.jpg
+| image_upright = 0.9
+| caption       = Clockwise from top left: The Big Prawn, Ballina Court House, Ballina Manor, Shelly Beach, River Street Mall.
+| lga           = Ballina Shire
+| pop           = 26381   
+| pop_year      = 2018
+| pop_footnotes = <ref name=ABSSUA>{{cite web|title=3218.0 – Regional Population Growth, Australia, 2017-18: Population Estimates by Significant Urban Area, 2008 to 2018|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|website=Australian Bureau of Statistics|publisher=[[Australian Bureau of Statistics]]|date=27 March 2019|access-date=22 April 2019}} Estimated resident population, 30 June 2018.</ref>
+| postcode      = 2478
+| established   = 1840s
+| elevation     = 1.3
+|elevation_footnotes=<ref>{{cite web
+ | publisher = [[Bureau of Meteorology]]
+ | title=Ballina Airport AWS
+ | work=Climate Averages for Australian Sites
+ | url = http://www.bom.gov.au/climate/averages/tables/cw_058198.shtml
+ |access-date =24 November 2006}}</ref>
+| coordinates   = {{coord|28|50|0|S|153|32|0|E|type:city_dim:100km|display=inline,title}}
+| pushpin_label_position = left
+| maxtemp       = 24.4
+| mintemp       = 14.3
+| rainfall      = 1817.9
+| stategov      = [[Electoral district of Ballina|Ballina]]
+| fedgov        = [[Division of Richmond|Richmond]]
+| dist1         = 740
+| location1     = [[Sydney]]
+| dist2         = 185
+| location2     = [[Brisbane]]
+}}

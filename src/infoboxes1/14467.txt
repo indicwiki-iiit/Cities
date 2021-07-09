@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = City of Capitola, California
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Capitola sports.jpg
+|imagesize                = 
+|image_caption            = Beach at Capitola
+|image_flag               = 
+|image_seal               = 
+|seal_size                = 
+|image_map                = File:Santa Cruz County California Incorporated and Unincorporated areas Capitola Highlighted 0611040.svg
+|mapsize                  = 250px
+|map_caption              = Location of Capitola in Santa Cruz County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief          = 1
+<!-- Location ------------------>
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = January 11, 1949<ref>{{Cite web |title=California Cities by Incorporation Date |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc |url-status=dead |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date=November 3, 2014 |access-date=August 25, 2014 |publisher=California Association of [[Local Agency Formation Commission]]s |format=Word |df=mdy}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{Cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt |access-date=July 1, 2020 |publisher=United States Census Bureau}}</ref>
+| area_total_sq_mi        = 1.68
+| area_land_sq_mi         = 1.59
+| area_water_sq_mi        = 0.08
+| area_total_km2          = 4.34
+| area_land_km2           = 4.13
+| area_water_km2          = 0.21
+| area_water_percent      = 4.92
+| area_note               = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1658216|Capitola|access-date=October 20, 2014}}</ref>
+|elevation_ft             = 13
+|elevation_m              = 4
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 9918
+|population_density_km2   = 2425.95
+|population_density_sq_mi = 6283.74
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|coordinates              = {{coord|36|58|35|N|121|57|17|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95010, 95062
+|area_code                = [[Area code 831|831]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|11040}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1658216}}, {{GNIS 4|2409981}}
+|website                  = {{URL|www.cityofcapitola.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019" />
+|population_est = 10010
+}}

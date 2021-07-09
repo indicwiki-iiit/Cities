@@ -1,0 +1,82 @@
+{{Infobox settlement
+| name                            = Rancho Santa Margarita, California
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Rancho Santa Margarita California photo D Ramey Logan.jpg
+| imagesize                       = 
+| image_caption                   = Rancho Santa Margarita
+| image_flag                      = Flag of Rancho Santa Margarita, California.png
+| image_seal                      = RanchoLogo.jpg
+| image_map                       = Orange County California Incorporated and Unincorporated areas Rancho Santa Margarita Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Rancho Santa Margarita within [[Orange County, California]].
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|33|38|29|N|117|35|40|W|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[Orange County, California|Orange]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = January 1, 2000<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+|url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+|df          = mdy-all
+}}</ref>
+
+<!-- Area------------------>
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Brad McGirr<ref>{{cite web
+ | url = http://www.cityofrsm.org/160/Mayor-City-Council
+ | title = Mayor and City Council
+ | publisher = Rancho Santa Margarita
+ | access-date = December 15, 2015}}</ref>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 33.52
+| area_total_sq_mi                = 12.94
+| area_land_km2                   = 33.40
+| area_land_sq_mi                 = 12.90
+| area_water_km2                  = 0.12
+| area_water_sq_mi                = 0.05
+| area_water_percent              = 0.27
+| area_note                       = 
+| elevation_footnotes             = <ref>{{Cite GNIS|2411517|City of Rancho Santa Margarita|access-date=February 25, 2015}}</ref>
+| elevation_m                     = 282
+| elevation_ft                    = 925
+| population_total                = 47853
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quick>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0659587.html|title=Rancho Santa Margarita (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=January 28, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150215155420/http://quickfacts.census.gov/qfd/states/06/0659587.html|archive-date=February 15, 2015}}</ref>
+| population_density_km2          = 1434.02
+| population_est                  = 47896
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92679, 92688
+| area_code                       = [[Area code 949|949]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| website                         = {{URL|http://www.cityofrsm.org|cityofrsm.org}}
+| footnotes                       = 
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|59587}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1867054}}, {{GNIS 4|2411517}}
+| population_density_sq_mi        = 3714.02
+| official_name                   = 
+}}

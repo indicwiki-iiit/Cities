@@ -1,0 +1,58 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Al-Zabadani
+| native_name            = {{lang|ar|الزبداني}}<!-- for cities whose native name is not in English -->
+| other_name             = Az-Zabadani
+| settlement_type        = City
+| image_skyline          = Alzabadani.JPG
+| imagesize              = 250px
+| image_caption          = Al-Zabadani
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = right
+| pushpin_mapsize        = 250
+| pushpin_relief         = 1
+| pushpin_map_caption    = Location in Syria<!-- Location ------------------>
+| coordinates            = {{coord|33|43|30|N|36|5|50|E|region:SY-RD|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Syria}}
+| subdivision_type1      = [[Governorates of Syria|Governorate]]
+| subdivision_name1      = [[Rif Dimashq Governorate|Rif Dimashq]]
+| subdivision_type2      = [[Districts of Syria|District]]
+| subdivision_name2      = [[al-Zabadani District|al-Zabadani]]
+| subdivision_type3      = [[Nahiyah|Subdistrict]]
+| subdivision_name3      = al-Zabadani
+| established_title      = <!-- Settled -->
+| established_date       = 
+| parts_type             = Occupation
+| parts_style            = para
+| leader_title           = 
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2         = 
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 1100
+<!-- Population   ----------------------->
+| population_footnotes   = <ref name="CBS"/>
+| population_total       = 26285
+| population_as_of       = 2004 census
+| population_density_km2 = auto
+<!-- General information  --------------->
+| timezone               = 
+| utc_offset             = 
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = 13
+| website                = 
+}}

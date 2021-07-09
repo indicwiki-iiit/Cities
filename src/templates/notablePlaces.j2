@@ -1,0 +1,72 @@
+
+{%- macro notablePlaces()-%}
+
+<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+|+ {{city_name}} లోని పర్యాటక ఆకర్షణల జాబితా<ref>{{places_reference}}</ref>
+|-
+! క్ర.సం. !! ప్రాంతం 
+|-
+{% for i in range(places|length) -%}
+|-
+| {{i+1}} || {{places[i]}} 
+{% endfor -%}
+|}
+</div>
+{%- endmacro -%}
+
+{%- macro stadiumsMacro()-%}
+	
+	=== క్రీడా ప్రాంగణాలు ===
+	{%- set align=["right"] | random %}
+	<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+	{% if stadiums_im != [] -%}
+			[[File: {{stadiums_im[0][1]}}|'''{{stadiums_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+	{%- endif -%}
+	{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+	|+ {{city_name}} లోని క్రీడా ప్రాంగణాలు
+	|-
+	! క్ర.సం. !! స్టేడియం 
+	|-
+	{% for i in range(stadiums|length) -%}
+	|-
+	| {{i+1}} || {{stadiums[i][0]}} 
+	{% endfor -%}
+	|}
+	</div>
+{%- endmacro -%}
+
+{% macro beachesMacro() %}
+===బీచ్లు===
+{% set align=["right"] | random %}
+<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+{% if beaches_im != [] -%}
+		[[File: {{beaches_im[0][1]}}|'''{{beaches_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+{%- endif -%}
+{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+|+ {{city_name}} లోని బీచులు
+|-
+! క్ర.సం. !! బీచు 
+|-
+{% for i in range(beaches|length) -%}
+|-
+| {{i+1}} || {{beaches[i][0]}} 
+{% endfor -%}
+|}
+</div>
+{%- endmacro -%}
+
+{# Function Calls Below #}
+==పర్యాటక ఆకర్షణలు==
+
+{% if places!=[] %}
+{{- notablePlaces() -}}
+{%- endif %}
+
+{% if stadiums!= [] -%}
+{{-stadiumsMacro()-}}
+{% endif %}
+
+{% if beaches!= [] %}
+{{ beachesMacro()-}}
+{%- endif -%}

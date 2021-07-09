@@ -1,0 +1,77 @@
+{{Infobox settlement
+| official_name                   = Taos, New Mexico
+| settlement_type                 = [[Town]]
+| nickname                        = Taos 
+| motto                           = 
+<!-- Images -->
+| image_skyline                   = Taos plaza la fonda.jpg
+| imagesize                       = 300px
+| image_caption                   = Taos Plaza and the Hotel La Fonda, within the [[Taos Downtown Historic District]]
+| image_flag                      = 
+| image_seal                      = Taos New Mexico logo.png
+<!-- Maps -->
+| image_map                       = Taos_County_New_Mexico_Incorporated_and_Unincorporated_areas_Taos_Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Taos, New Mexico
+| image_map1                      = Taos-nm-map.gif
+| mapsize1                        = 250px
+| map_caption1                    = U.S. Census Map
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+<!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New Mexico]]
+| subdivision_type2               = [[List of counties in New Mexico|County]]
+| subdivision_name2               = [[Taos County, New Mexico|Taos]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = Mayor
+| leader_name1                    = [[Daniel R. Barrone]]
+| established_title               = Founded
+| established_date                = 1795<ref name="Taos County Historical Society">{{cite web | title=Taos History and Timeline | website=Taos County Historical Society | url=http://taoscountyhistoricalsociety.org/taoshistory.html | access-date=November 27, 2019}}</ref>
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 15.56
+| area_land_km2                   = 15.56
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 6.01
+| area_land_sq_mi                 = 6.01
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 5716
+| population_density_km2          = 381.08
+| population_density_sq_mi        = 987.02
+
+<!-- General information -->
+| timezone                        = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = MDT
+| utc_offset_DST                  = &minus;6
+| elevation_footnotes             = 
+| elevation_m                     = 2124
+| elevation_ft                    = 6969
+| coordinates                     = {{coord|36|23|38|N|105|34|36|W|region:US-NM|display=inline}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 87571
+| area_code                       = [[Area code 575|575]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 35-76200
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0911545
+| website                         = [http://www.taosgov.com/ www.taosgov.com]
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 5929
+| name                            = 
+}}

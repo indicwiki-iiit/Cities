@@ -1,0 +1,79 @@
+{{Infobox settlement
+<!-- Basic info  -------------- -->
+| name                            = Bradenton, Florida
+| settlement_type                 = [[City]]
+<!-- images and maps  --------- -->
+| image_skyline                   = Bradenton City Hall.jpg
+| image_caption                   = Bradenton City Hall
+| image_flag                      = 
+| image_seal                      = Seal of Bradenton, Florida.png
+| image_shield                    = 
+| nickname                        = 
+| motto                           = The Friendly City<ref>{{cite web |access-date=April 26, 2021 |title=Welcome to the Friendly City! |url=https://cityofbradenton.com/ |website=City of Bradenton}}</ref>
+<!-- images and maps  --------- -->
+| image_map                       = Manatee_County_Florida_Incorporated_and_Unincorporated_areas_Bradenton_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Manatee County, Florida|Manatee County]] and the U.S. state of [[Florida]]
+<!-- Location ---------------- -->
+| coordinates                     = {{coord|27|29|N|82|35|W|region:US-FL_type:city|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Florida]]
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name2               = [[Manatee County, Florida|Manatee]]
+| established_title               = Settled
+| established_date                = 1842<ref name=est>{{cite book|last1=Favorite|first1=Merab-Michal|title=Bradenton|date=2013|publisher=Arcadia Publishing|isbn=978-0-7385-9078-3|page=129|url=https://books.google.com/books?id=maxoG1h0xzkC&q=Bradenton%2C+Florida+1842&pg=PA129|access-date=June 9, 2014}}</ref>
+| established_title3              = Incorporated (city)
+| established_date3               = 1903
+| established_title4              = Former names
+| established_date4               = {{ubl|{{nowrap|Braidentown (1842–1905)}}|{{nowrap|Bradentown (1905–1924)}}}}
+| government_type                 = [[Mayor–council government|Mayor–council]]
+<!-- Politics --------------- -->
+| government_footnotes            = 
+| leader_title                    = Mayor
+| leader_name                     = Gene Brown<ref>{{cite web |access-date=April 26, 2021 |title=Mayor & Council |url=https://cityofbradenton.com/council |website=City of Bradenton}}</ref>
+| leader_title2                   = City Administrator
+| leader_name2                    = Carl Callahan
+<!-- Area    ------------------- -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2                  = 44.43
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion -->
+| area_total_sq_mi                = 17.16
+| area_land_km2                   = 37.24
+<!-- See table @ Template:Infobox Settlement for details on automatic unit conversion -->
+| area_land_sq_mi                 = 14.38
+| area_water_km2                  = 7.19
+| area_water_sq_mi                = 2.78
+| area_water_percent              = 16.14
+| elevation_footnotes             = 
+| elevation_m                     = 1.83
+| elevation_ft                    = 6
+<!-- Population   --------------------- -->
+| population_footnotes            = <ref name=censuspop>{{cite web|url=https://www.census.gov/popest/cities/tables/SUB-EST2006-04-12.xls |archive-url=https://web.archive.org/web/20090508083320/http://www.census.gov/popest/cities/tables/SUB-EST2006-04-12.xls |url-status=dead |archive-date=May 8, 2009 |title=Annual Estimates of the population for the Incorporated Places of Florida |publisher=[[US Census Bureau]] |access-date=August 15, 2008 |format=XLS }}</ref>
+| population_total                = 49546
+| population_as_of                = [[2010 United States Census|2010]]
+| population_density_km2          = 1596.17
+| population_density_sq_mi        = 4134.02
+| population_metro                = 702281
+| population_density_metro_km2    = auto
+| population_density_metro_sq_mi  = auto
+<!-- General information  ------------- -->
+| timezone                        = EST
+| utc_offset                      = −5:00
+| timezone_DST                    = EDT
+| utc_offset_DST                  = −4:00
+<!-- Area/postal codes & others ------ -->
+| postal_code_type                = ZIP Codes
+| postal_code                     = 34201–34212, 34280–34282
+| area_code                       = 941
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-07950<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0279311<ref name="GNIS">{{cite GNIS |279311 |Bradenton |entrydate=October 19, 1979 |access-date=April 26, 2021}}</ref>
+| website                         = {{URL|http://www.cityofbradenton.com|cityofbradenton.com}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 59439
+}}

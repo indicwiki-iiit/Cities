@@ -1,0 +1,21 @@
+{{Infobox UK place
+ | static_image_name        = Market Hill, Chatteris.jpg
+ | static_image_caption     = Market Hill, Chatteris
+ | country                  = England
+ | official_name            = Chatteris
+ | coordinates              = {{coord|52.456|0.055|display=inline,title}}
+ | civil_parish             = Chatteris
+ | population               = 10,453
+ | population_ref           = ([[United Kingdom Census 2011|2011 Census]])
+ | shire_district           = [[Fenland District|Fenland]]
+ | shire_county             = [[Cambridgeshire]]
+ | region                   = East of England
+ | constituency_westminster = [[North East Cambridgeshire (UK Parliament constituency)|North East Cambridgeshire]]
+ | post_town                = CHATTERIS
+ | postcode_district        = PE16
+ | postcode_area            = PE
+ | dial_code                = 01354
+ | os_grid_reference        = TL396862
+ | london_distance_mi       = 65<!-- straight line per MOS – constant and comparable with other place distances -->
+ | london_direction         = S
+}}

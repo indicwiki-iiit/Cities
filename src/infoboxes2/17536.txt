@@ -1,0 +1,40 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Mullaitivu
+|native_name            = {{lang|ta|முல்லைத்தீவு}}<br>{{lang|si|මූලදූව}}
+|nickname               = 
+|settlement_type        = [[Town]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Sri Lanka Mullaitivu Mullaiyalvalai Kaaddu vinaayagar kovil.JPG
+|imagesize              = 200px
+|image_caption          = Hindu temple in Mullaitivu
+|pushpin_map            = Sri Lanka Northern Province
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 200
+|pushpin_map_caption    = Location in Northern Province
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Sri Lanka]]
+|subdivision_type2      = [[Provinces of Sri Lanka|Province]]
+|subdivision_name2      = [[Northern Province, Sri Lanka|Northern]]
+|subdivision_type3      = [[Districts of Sri Lanka|District]]
+|subdivision_name3      = [[Mullaitivu District|Mullaitivu]]
+| subdivision_type4     = [[Divisional Secretariats of Sri Lanka|DS Division]]
+| subdivision_name4     = [[Maritimepattu Divisional Secretariat|Maritimepattu]]
+<!-- Population   ----------------------->
+|population_as_of       = 2009 
+|population_footnotes   =
+|population_note        =
+|population_total       = 37,339 (est.)
+<!-- General information  --------------->
+|timezone               = [[Time zone#UTC .2B 6.2C F|Sri Lanka Standard Time Zone]]
+|utc_offset             = +5:30
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|9|17|N|80|48|E|region:LK|display=inline}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+}}

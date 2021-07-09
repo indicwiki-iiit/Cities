@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Sareyn
+|other_name             = 
+|native_name            = <big> سرعین </big>
+|nickname               = 
+|settlement_type        = City
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline         = Sarein.jpg
+|image_size             = 250px
+|image_caption          = Skyline of Sareyn
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x = |dot_y =
+|pushpin_map            = Iran <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Ardabil Province|Ardabil]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 =[[Sareyn County|Sareyn]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Central District (Sareyn County)|Central]]
+
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = 
+|leader_name            = 
+|leader_title1          =
+|leader_name1           =
+|established_title      =  
+|established_date       =  
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+<!-- Population   ----------------------->
+|population_as_of               = 2016 Census
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 5,459 <ref>https://www.amar.org.ir/english</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               = 
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =  
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = 
+|population_blank1              = 
+|population_density_blank1_km2  = 
+|population_density_blank1_sq_mi=
+<!-- General information  --------------->
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Standard Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|38|09|05|N|48|04|15|E|region:IR|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              ={{GEOnet2|32FA880A2AA23774E0440003BA962ED3}}
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Town of Sellersburg
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "A Town Of Opportunity"<ref name="Sellersburg Indiana">{{cite web|url= http://www.sellersburg.org/|title= Sellersburg Indiana|publisher= Sellersbrg Indiana |accessdate= September 29, 2012}}</ref>
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = File:Clark County Indiana Incorporated and Unincorporated areas Sellersburg Highlighted 1868670.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Sellersburg in Clark County, Indiana.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Indiana]]
+|subdivision_type2        = [[List of counties in Indiana|County]]
+|subdivision_name2        = [[Clark County, Indiana|Clark]]
+|subdivision_type3        = [[List of townships in Indiana|Township]]
+|subdivision_name3        = [[Silver Creek Township, Clark County, Indiana|Silver Creek]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_18.txt|publisher=United States Census Bureau|accessdate=July 16, 2020}}</ref>
+|unit_pref                = Imperial
+|area_magnitude           = 
+|area_land_km2            = 19.01
+|area_water_km2           = 0.16
+|area_total_km2           = 19.17
+|area_total_sq_mi         = 7.40
+|area_land_sq_mi          = 7.34
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8908
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 6128
+|population_density_km2   = 468.54
+|population_density_sq_mi = 1213.46
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 148
+|elevation_ft             = 486
+|coordinates              = {{coord|38|23|13|N|85|45|27|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 47172
+|area_code = [[Area codes 812 and 930|812 & 930]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 18-68670<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0449730<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.sellersburg.org/ http://www.sellersburg.org/]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

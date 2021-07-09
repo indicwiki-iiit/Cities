@@ -1,0 +1,21 @@
+{{Infobox UK place
+ | static_image_name         = Northwich - Public Library.jpg
+ | static_image_caption      = Northwich Public Library
+ | official_name             = Northwich
+ | country                   = England
+ | region                    = North West England
+ | population                = 19,924
+ | population_ref            = (civil parish)<ref name=2011_census>"2011 Census results: Overview Profile: Northwich Town Council"; downloaded from [http://inside.cheshirewestandchester.gov.uk/find_out_more/datasets_and_statistics/statistics/census_2011/population_profiles Cheshire West and Chester: Population Profiles], 16 May 2019</ref> 
+ | os_grid_reference         = SJ651733
+ | coordinates               = {{coord|53.259|-2.518|display=inline,title}}
+ | post_town                 = NORTHWICH
+ | postcode_area             = CW  
+ | postcode_district         = CW8,CW9
+ | dial_code                 = 01606
+ | constituency_westminster  = [[Weaver Vale (UK Parliament constituency)|Weaver Vale]]
+ | constituency_westminster1 = [[Tatton (UK Parliament constituency)|Tatton]]
+ | civil_parish              = Northwich
+ | unitary_england           = [[Cheshire West and Chester]]
+ | lieutenancy_england       = [[Cheshire]]
+ | website                   = {{URL|www.northwichtowncouncil.gov.uk}}
+}}

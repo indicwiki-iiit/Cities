@@ -1,0 +1,31 @@
+{{Infobox person
+| name               = Yuri Gagarin
+| image              = Yuri Gagarin (1961) - Restoration.jpg
+| caption            = Gagarin in [[Helsinki]], 1961
+| native_name        = Юрий Алексеевич Гагарин
+| birth_name         = Yuri Alekseyevich Gagarin
+| birth_date         = {{Birth date|df=yes|1934|3|9}}
+| birth_place        = [[Klushino]], [[Smolensk Oblast]], [[Russian Soviet Federative Socialist Republic|Russian SFSR]], Soviet Union
+| death_date         = {{Death date and age|df=yes|1968|3|27|1934|3|9}}
+| death_place        = [[Novosyolovo, Kirzhachsky District, Vladimir Oblast|Novosyolovo]], Russian SFSR, Soviet Union
+| resting_place      = [[Kremlin Wall Necropolis]]
+| nationality        = [[Russians|Russian]]
+| occupation         = [[Aircraft pilot|Pilot]], [[cosmonaut]]
+| height             = {{Convert|157|cm|ftin}}
+| module             = {{Infobox astronaut| child = yes
+ | type               = [[Soviet space program|Soviet]] cosmonaut
+ | rank               = Colonel ([[Polkovnik]]), [[Soviet Air Forces|Air Forces]]
+ | time               = {{time interval|12 April 1961 06:07|12 April 1961 07:55|show=hm|sep=,}}
+ | selection          = [[List of astronauts by year of selection#1960|Soviet Air Force Group 1]]
+ | mission            = [[Vostok 1]]
+ | insignia           = 
+}}
+| spouse             = Valentina Goryacheva
+
+(m.1957)
+| awards             = {{Plainlist|
+*[[Hero of the Soviet Union]]
+*[[Order of Lenin]]
+*[[Pilot-Cosmonaut of the USSR]]}}
+| signature          = File:Gagarin Signature.svg
+}}

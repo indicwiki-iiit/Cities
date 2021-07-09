@@ -1,0 +1,84 @@
+{{Infobox settlement
+|name          = Catumbela
+|other_name             =
+|native_name            = 
+|nickname               = 
+|settlement_type        = [[Municipalities of Angola|Municipality]] and town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Catumbela station.jpg
+|imagesize              = 
+|image_caption          = Catumbela railway station
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Angola
+|pushpin_label_position =right
+|pushpin_mapsize        = 200
+|pushpin_map_caption    =Location in Angola
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Angola}}
+|subdivision_type1      = [[Provinces of Angola|Province]]
+|subdivision_name1      = [[Benguela Province]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Filomena Pascoal
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 801
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2014 Census
+|population_footnotes           = <ref name =Censo2014>{{cite web|url=https://www.ine.gov.ao/images/Populacao_Sociedade/PUBLICACAO_BENGUELA__2016.pdf |title=Resultados Definitivos Recenseamento Geral da População e Habitação – 2014 Província de Benguela |access-date=3 May 2020 |website=Instituto Nacional de Estatística, República de Angola| df=dmy }}</ref>
+|population_note                =
+|population_total               = 175805
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_urban_footnotes     = <ref>[https://www.citypopulation.de/en/angola/cities/ Citypopulation.de] Population of cities & urban localities in Angola</ref>
+|population_urban               = 95034
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =[[West Africa Time|WAT]] 
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|12|26|2.1|S|13|32|35.7|E|region:AO|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

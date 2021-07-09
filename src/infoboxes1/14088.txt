@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- Basic info ---------------->
+| official_name            = Sunbury, Pennsylvania
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = 
+<!-- images and maps ----------->
+| image_skyline            = Pennsylvania Route 61 and 147 in Sunbury.JPG
+| image_caption            = [[Pennsylvania Route 61]] and [[Pennsylvania Route 147]] in Sunbury
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = 
+| image_map                = File:Northumberland County Pennsylvania Incorporated and Unincorporated areas Sunbury Highlighted.svg
+| mapsize                  = 160px
+| map_caption              = Location of Sunbury in Northumberland County, Pennsylvania.
+|pushpin_map = Pennsylvania#USA
+|pushpin_label = Sunbury
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption = Location of Sunbury in Pennsylvania
+|pushpin_mapsize = 
+| coordinates              = {{coord|40|51|50|N|76|47|21|W|region:US-PA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name         = {{Flagu|United States}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|Pennsylvania}}
+| subdivision_type2        = [[List of counties in Pennsylvania|County]]
+| subdivision_name2        = [[Northumberland County, Pennsylvania|Northumberland County]]
+| established_title        = Settled
+| established_date         = 1772
+| established_title2       = Incorporated (borough)
+| established_date2        = 1797
+| established_title3       = Incorporated (city)
+| established_date3        = 1920
+| government_type          = City
+<!-- Politics ----------------->
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| leader_title1            = Mayor <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1             = Kurt Karlovich<ref>{{cite web|title=Mayor|url=http://www.sunburypa.org/mayor.html|website=City of Sunbury, Pa (SunburyPA.org)|access-date=16 April 2018|language=en}}</ref>
+<!-- Area --------------------->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_total_km2           = 5.50
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 2.12
+| area_land_km2            = 5.24
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 2.02
+| area_water_km2           = 0.26
+| area_water_sq_mi         = 0.10
+| area_water_percent       = 1.40
+
+<!-- elevation -->
+| elevation_footnotes     = <ref name="STopozone">{{cite web |title=Sunbury Topo Map, Northumberland County PA (Sunbury Area) |url=https://www.topozone.com/pennsylvania/northumberland-pa/city/sunbury-7/ |website=TopoZone |publisher=Locality, LLC |access-date=27 November 2019 |language=en}}</ref>
+| elevation_m             = 
+| elevation_ft            = 450
+| elevation_point         = benchmark at city center
+| elevation_max_footnotes = <ref name="STopozone"/>
+| elevation_max_m         = 
+| elevation_max_ft        = 640
+| elevation_max_point     = eastern city boundary
+| elevation_max_rank      = 
+| elevation_min_footnotes = <ref name="STopozone"/>
+| elevation_min_m         = 
+| elevation_min_ft        = 420
+| elevation_min_point     = Susquehanna River
+| elevation_min_rank      = 
+<!-- Population ----------------------->
+| population_footnotes     = 
+| population_total         = 9905
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_km2   = 1786.88
+| population_density_sq_mi = 4627.78
+| population_note          = 
+<!-- General information --------------->
+| timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset = &minus;5
+| timezone_DST             = [[Eastern Daylight Time Zone|EDT]]
+|utc_offset_DST = &minus;4
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 17801
+| area_code                = [[Area codes 570 and 272|570 and 272]]
+| website                  = {{URL|https://www.sunburypa.org/|City website}}
+| footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 9362
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-75304
+}}

@@ -1,0 +1,31 @@
+{{Infobox Australian place| type = town
+| name     = Leeton
+| state    = nsw
+| image    = Leeton War Memorial.jpg
+| caption  = Leeton War Memorial
+| coordinates = {{coord|34|34|0|S|146|24|0|E|display=inline,title}}
+| lga      = Leeton Shire
+| postcode = 2705
+| est      = 2 April 1913
+| pop      = 6,931
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS">{{Census 2016 AUS | id = UCL114016 | name = Leeton | quick = on | access-date = 24 January 2021}}</ref>
+| elevation= 138.3
+| maxtemp  = 23.0
+| mintemp  = 10.3
+| rainfall = 432.0
+| county = [[Cooper County, New South Wales|Cooper]]
+| parish = Willimbong
+| stategov = [[Electoral district of Murray|Murray]]
+| fedgov   = [[Division of Farrer|Farrer]]
+| dist1    = 819
+| location1= [[Adelaide]]
+| dist2    = 579
+| location2= [[Sydney]]
+| dist3    = 457
+| location3= [[Melbourne]]
+| dist4    = 369
+| location4= [[Canberra]]
+| dist5    = 129
+| location5= [[Wagga Wagga, New South Wales|Wagga Wagga]]
+}}

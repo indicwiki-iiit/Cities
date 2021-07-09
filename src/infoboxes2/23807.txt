@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Burtonsville, Maryland
+|settlement_type          = [[Census-designated place]]
+|nickname                 = "Bville"
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Montgomery_County_Maryland_Incorporated_and_Unincorporated_areas_Burtonsville_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Burtonsville, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_type2       = [[List of counties in Maryland|County]]
+| subdivision_name        = {{nowrap|{{flag|United States}}}}
+| subdivision_name1       = {{flag|Maryland}}
+| subdivision_name2       = {{Flagicon image|Flag_of_Montgomery_County,_Maryland.svg}} [[Montgomery County, Maryland|Montgomery]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 20.6
+|area_land_km2            = 20.2
+|area_water_km2           = 0.4
+|area_total_sq_mi         = 8.0
+|area_land_sq_mi          = 7.8
+|area_water_sq_mi         = 0.2
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 13344
+|population_density_km2   = 648
+|population_density_sq_mi = 1668
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 149
+|elevation_ft             = 489
+|coordinates              = {{coord|39|6|27|N|76|56|3|W|region:US-MD_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 20866
+|area_code                = [[Area codes 240 and 301|240]], [[Area codes 240 and 301|301]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-11750
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0583500
+|website                  = 
+|footnotes                = 
+}}

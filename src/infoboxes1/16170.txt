@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage-->
+<!-- Basic info  ---------------->
+|official_name            = Petaluma, California
+|etymology                = [[Coast Miwok]] village of {{lang|csi|italics=unset|Péta Lúuma}}
+|other_name               = 
+|native_name              = 
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = <!-- images and maps  ----------->
+| image_skyline           = {{Photomontage
+| photo1a                 = Rancho Petaluma Adobe - 2018 - Stierch 01.jpg
+| photo1b                 = Petaluma CA Church (cropped).jpg
+| photo2a                 = Free Public Library of Petaluma, 20 Fourth St., Petaluma, CA 5-31-2010 6-56-02 PM.JPG
+| photo2b                 = Petaluma Historic Commercial District, Petaluma Blvd. at Western Ave., Petaluma, CA 5-31-2010 7-09-52 PM.JPG
+| photo3a                 = US Post Office-Petaluma, 120 4th St., Petaluma, CA 5-31-2010 7-01-53 PM.JPG
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = Clockwise: St. Vincent de Paul Church; Petaluma Historic Commercial District; U.S. Post Office; Petaluma Public Library; [[Rancho Petaluma]]
+}}
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Sonoma County California Incorporated and Unincorporated areas Petaluma Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Sonoma County, California|Sonoma County]] and the state of [[California]]
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in California##Location in the United States
+| pushpin_label = Petaluma
+| pushpin_relief = 1
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = <!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sonoma County, California|Sonoma]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Teresa Barrett<ref name=cc>{{Cite web
+ | url = http://cityofpetaluma.net/cclerk/council.html
+ | access-date = November 30, 2016
+ | title = Petaluma City Council
+ | publisher = City of Petaluma}}</ref>
+|leader_title1            = [[Vice Mayor]]
+|leader_name1             = Kevin McDonnell<ref name=cc/>
+|leader_title2            = [[City Manager]]
+|leader_name2             = Peggy Flynn<ref name=cm>{{Cite web
+ | url = http://cityofpetaluma.net/cmgr/index.html
+ | access-date = November 9, 2014
+ | title = City Manager
+ | publisher = City of Petaluma}}</ref>
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = April 12, 1858<ref name="CAC">{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = February 21, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 14.52
+| area_land_sq_mi         = 14.41
+| area_water_sq_mi        = 0.11
+| area_total_km2          = 37.61
+| area_land_km2           = 37.34
+| area_water_km2          = 0.28
+| area_water_percent      = 0.74
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="US Census"/>
+|population_total         = 57941
+|population_density_sq_mi = 4198.40
+|population_metro         = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|coordinates              = {{coord|38|14|45|N|122|37|53|W|display=inline,title}}
+|elevation_footnotes      = <ref name="gnis">{{Cite GNIS|277575|Petaluma}}</ref>
+|elevation_m              = 9
+|elevation_ft             = 30
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94952, 94953, 94954
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|56784}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277575}}, {{GNIS 4|2411407}}
+|website                  = {{URL|cityofpetaluma.net}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 60520
+|population_density_km2 = 1621.00
+}}

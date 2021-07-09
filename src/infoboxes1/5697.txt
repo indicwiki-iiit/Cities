@@ -1,0 +1,40 @@
+{{Infobox settlement
+|name                   = {{raise|0.2em|Haicheng}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|{{lang|zh-Hans-CN|海城市}}}}
+|nickname               =
+|settlement_type        =[[County-level city]]
+|image_skyline          = Centro de haicheng.JPG
+|imagesize              = 250px
+|image_caption          = Downtown Haicheng on 20 July 2008
+|image_map =ChinaAnshanHaicheng.png
+|map_caption = Haicheng in Anshan
+|subdivision_type = Country
+|subdivision_name = [[People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Liaoning]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Anshan]]
+|seat = [[Haizhou Subdistrict, Haicheng, Liaoning|Haizhou Subdistrict]] ({{lang|zh-Hans-CN|海州街道}})
+|seat_type = County seat
+| area_total_km2          = 2581.0 
+| area_urban_km2          = 104.00 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_total        = 1142000
+| population_as_of        = 2017
+| population_urban        = 234300
+| population_footnotes = <ref name="CUCSY_2017"/>
+|population_density_km2 = auto
+|pushpin_map = China Liaoning
+|pushpin_label_position = left
+|pushpin_map_caption = Location of the city center in Liaoning
+|coordinates            = {{coord|40.8824|N|122.6852|E|type:adm3rd_region:CN-21_source:Gaode|format=dms|display=it}}
+|elevation_m = 17
+|elevation_ft = 56
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|postal_code = 114200
+|postal_code_type = [[Postal code of China|Postal code]]
+|area_code = 0412
+|website = {{URL|www.haicheng.gov.cn/}}
+}}

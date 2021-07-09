@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Bernalillo, New Mexico
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Bernalillo New Mexico Town Hall.jpg
+|imagesize                = 
+|image_caption            = Bernalillo Town Hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Sandoval_County_New_Mexico_Incorporated_and_Unincorporated_areas_Bernalillo_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Bernalillo, New Mexico
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = New Mexico#USA
+|pushpin_label            = Bernalillo
+|pushpin_label_position   = top
+|pushpin_map_caption      = Location of Bernalillo in New Mexico##Location of Bernalillo in the United States
+<!-- Location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{USA}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New Mexico}}
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Sandoval County, New Mexico|Sandoval]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 12.76
+|area_land_km2            = 12.66
+|area_water_km2           = 0.10
+|area_total_sq_mi         = 4.93
+|area_land_sq_mi          = 4.89
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 8320
+|population_density_km2   = 827.77
+|population_density_sq_mi = 2143.85
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = −07:00
+|timezone_DST             = MDT
+|utc_offset_DST           = −06:00
+|elevation_footnotes      = 
+|elevation_m              = 1540
+|elevation_ft             = 5052
+|coordinates              = {{coord|35|18|34|N|106|33|7|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 87004
+|area_code                = [[Area code 505|505]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-06970
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0928691
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+|population_est = 10477
+}}

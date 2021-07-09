@@ -1,0 +1,72 @@
+{{Infobox settlement
+|name            = Del Aire, California
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            =
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas Del Aire highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Del Aire in [[Los Angeles County, California|Los Angeles County]], [[California]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|unit_pref                = US
+|area_footnotes           = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+|area_total_sq_mi         = 1.014
+|area_land_sq_mi          = 1.014
+|area_water_sq_mi         = 0
+|area_total_km2           = 2.626
+|area_land_km2            = 2.626
+|area_water_km2           = 0
+|area_water_percent       = 0
+|area_note                =
+
+<!-- Population -->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 10001
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|elevation_footnotes      = <ref>{{Cite GNIS|1867012|Del Aire|access-date=October 11, 2014}}</ref>
+|elevation_m              = 31
+|elevation_ft             = 102
+|coordinates              = {{coord|33|54|58|N|118|22|9|W|display=inline,title}}
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 90250 & 90304
+|area_code                = [[Area codes 310 and 424|310/424]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Lomita | title = Number Administration System - NPA and City/Town Search Results | access-date = 2007-01-18 | archive-url = https://web.archive.org/web/20120205182341/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Lomita | archive-date = 2012-02-05 | url-status = dead }}</ref>
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|18352}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1867012}}, {{GNIS 4|2408648}}
+|website                  = 
+|footnotes                = 
+}}

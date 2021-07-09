@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                            = Saline, Michigan
+| official_name                   = City of Saline
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = 
+<!-- Images -->
+| image_skyline                   = Saline, Michigan (Dec 2019).jpg
+| imagesize                       = 275
+| image_caption                   = Downtown Saline along [[U.S. Route 12 in Michigan|Michigan Avenue]]
+| image_flag                      = 
+| image_seal                      = Saline_Michigan_Seal.JPG
+<!-- Maps -->
+| pushpin_map                     = Michigan
+| pushpin_label_position          = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label                   = Saline
+| pushpin_map_caption             = Location within the state of Michigan
+| image_map                       = Saline, MI location.png
+| mapsize                         = 250
+| map_caption                     = Location within [[Washtenaw County, Michigan|Washtenaw County]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Michigan]]
+| subdivision_type2               = [[List of counties in Michigan|County]]
+| subdivision_name2               = [[Washtenaw County, Michigan|Washtenaw]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = [[Council–manager government|Council–manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Brian Marl
+| leader_title1                    = [[City manager|Manager]]
+| leader_name1                     = Todd Campbell
+| established_title               = Incorporated
+| established_date                = 1966
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 11.44
+| area_land_km2                   = 11.26
+| area_water_km2                  = 0.18
+| area_total_sq_mi                = 4.42
+| area_land_sq_mi                 = 4.35
+| area_water_sq_mi                = 0.07
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 9343
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_total                = 8810
+| population_density_km2          = 829.72
+| population_density_sq_mi        = 2148.80
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 250
+| elevation_ft                    = 820
+| coordinates                     = {{coord|42|10|15|N|83|46|47|W|region:US-MI|display=inline}}
+| postal_code_type                = [[ZIP Code|ZIP code(s)]]
+| postal_code                     = 48176
+| area_code                       = [[Area code 734|734]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 26-71140<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0637119<ref>{{gnis|0637119}}</ref>
+| website                         = {{URL|http://cityofsaline.org/|Official website}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

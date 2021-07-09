@@ -1,0 +1,41 @@
+{{Infobox protected area
+| name            = Rock Creek Park
+| photo           = Rock Creek Park NPS sign.jpg
+| photo_caption   = Maryland border entrance
+| iucn_category   = V
+| map             = United States District of Columbia street#USA
+| relief          = 1
+| map_caption     =
+
+| location        = [[Washington, D.C.|District of Columbia]],<br/>[[United States]]
+| nearest_city    = [[Washington, D.C.]]
+| area            = Over {{cvt|2000|acre|sqmi km2|0}}<ref name="NPS_FAQs">''Rock Creek Park, District of Columbia''. "[http://www.nps.gov/rocr/faqs.htm Frequently Asked Questions]." [http://www.nps.gov/index.htm National Park Service], U. S. Dept. of the Interior. Last updated 2014-08-15. Accessed 2014-08-23.</ref>
+| established     = September 27, 1890
+
+| visitation_num  = 2,115,516
+| visitation_year = 2004
+| governing_body  = [[National Park Service]]
+| website         = [https://www.nps.gov/rocr/ Rock Creek Park]
+| embedded1       =
+
+{{Infobox NRHP
+| name             = Rock Creek Park Historic District
+| embed            = yes
+| nrhp_type        =
+| image            =
+| caption          =
+| location         = Roughly, Rock Creek Park from Klingle Road to Montgomery County line, Washington, D.C.
+| coordinates      = {{coord|38|57|27|N|77|2|42|W|type:landmark_region:US-DC_dim:5000|display=inline,title}}
+| locmapin         =
+| map_label        = Rock Creek Park
+| label_size       =
+| label_position   = bottom
+| label_background = transparent
+| built            = 1820s (Peirce Mill)<br>1897–1912 (Park facilities)<ref name="adminhist2">Construction of initial roads, bridle paths and foot paths took place during 1897–1912. {{cite report |author=Mackintosh, Barry|date=1985|title=Rock Creek Park: An Administrative History|chapter=Under Military Rule|chapter-url=http://www.nps.gov/rocr/learn/historyculture/adhi2.htm|publisher=National Park Service (NPS) |location=Washington, DC}}</ref>
+| architect        = [[Frederick Law Olmsted Jr.]], [[John Charles Olmsted]]
+| architecture     = Late 19th and 20th Century Revivals, Early Republic, and NPS Rustic
+| added            = October 23, 1991
+| area             = {{cvt|1754|acre|sqmi km2|1}}<ref name="NPS_FAQs"/>
+| refnum           = 91001524<ref name="nris">{{NRISref|version=2009a}}</ref>
+}}
+}}

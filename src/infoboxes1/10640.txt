@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info ---------------->
+| official_name = Baxt
+| other_name =
+| native_name = Baxt
+| nickname =
+| settlement_type = Town
+| motto =
+<!-- images and maps ----------->
+| image_skyline = Baxt M34.jpg
+| imagesize =
+| image_caption = M34 highway in Baxt
+| image_flag =
+| flag_size =
+| image_seal =
+| seal_size =
+| image_shield =
+| shield_size =
+| image_map =
+| mapsize =
+| map_caption =
+| image_map1 =
+| mapsize1 =
+| pushpin_map = Uzbekistan
+| pushpin_label_position = bottom
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Sirdaryo Province, Uzbekistan
+<!-- Location ------------------>
+| subdivision_type = Country
+| subdivision_name = [[Uzbekistan]]
+| subdivision_type1 = [[Regions of Uzbekistan|Region]]
+| subdivision_name1 = [[Sirdaryo Region]]
+| subdivision_type2 = [[Districts of Uzbekistan|District]]
+| subdivision_name2 = [[Sirdaryo District]]
+| subdivision_type3 =
+| subdivision_name3 =
+<!-- Politics ----------------->
+| government_footnotes =
+| government_type =
+| leader_title =
+| leader_name =
+| established_title = Settlement
+| established_date = 1899
+<!-- Area --------------------->
+| area_magnitude =
+| unit_pref = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes =
+| area_total_km2 = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_metro_km2 =
+<!-- Population ----------------------->
+| population_as_of = 2000
+| population_footnotes = <ref name = "GSE"/>
+| population_note =
+| population_total = 10,100
+| population_density_km2 =
+<!-- General information --------------->
+| timezone = 
+| utc_offset = +5
+| timezone_DST =
+| utc_offset_DST =
+| coordinates = {{coord|40|42|50|N|68|41|36|E|region:UZ_type:city|display=inline,title}}
+| elevation_footnotes = <!--for references: use <ref> </ref> tags-->
+| elevation_m =
+| elevation_ft =
+<!-- Area/postal codes & others -------->
+| postal_code_type =
+| postal_code =
+| area_code =
+| blank_name =
+| blank_info =
+| blank1_name =
+| blank1_info =
+| website =
+| footnotes =
+}}

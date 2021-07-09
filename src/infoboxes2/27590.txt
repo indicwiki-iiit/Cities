@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Marlow Heights, Maryland
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Prince_George's_County_Maryland_Incorporated_and_Unincorporated_areas_Marlow_Heights_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Marlow Heights, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{nowrap|{{flagicon image|Flag of Prince George's County, Maryland (1963–present).svg}} [[Prince George's County, Maryland|Prince George's]]}}
+
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 5.3
+|area_land_km2            = 5.3
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 2.1
+|area_land_sq_mi          = 2.1
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5618
+|population_density_km2   = auto
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 80
+|elevation_ft             = 262
+|coordinates              = {{coord|38|49|31|N|76|56|52|W|region:US-MD_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 20746, 20748
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-50750
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0597719
+|website                  = 
+|footnotes                = 
+}}

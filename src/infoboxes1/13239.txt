@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Istok
+| official_name          = {{lang-sq|Istog / Istogu}}<br>{{lang-sq|Burim / Burimi}}<br>{{lang-sr|Исток / Istok}}
+| settlement_type        = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|municipality]]
+| other_name             =
+<!-- images and maps  ----------->
+|image_skyline          = Istog City.png
+|imagesize              =
+|image_caption          = Town panorama of Istog
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = File:Stema e Komunës Istog.svg
+|shield_size            =
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      =
+|image_map              = File:Istog-İstok.png
+|mapsize                = 
+|map_caption            = Location of the municipality of Istok within Kosovo
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_mapsize        =
+|pushpin_map_caption    = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Kosovo]]{{efn|name=status}}
+|subdivision_type1      = [[Districts of Kosovo|District]]
+|subdivision_name1      = [[District of Peja]]
+|subdivision_type2      = 
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Haki Rugova ([[Democratic League of Kosovo|LDK]])
+|established_title      =
+|established_date       = 
+<!-- Area    --------------------->
+| area_magnitude          = 
+| unit_pref               = 
+| area_blank1_title       = Urban
+| area_blank1_km2         = 
+| area_blank2_title       = Municipal
+| area_blank2_km2         = 454
+| area_footnotes          = 
+<!-- Population   ----------------------->
+| population_as_of        = 2011
+| population_footnotes    =
+| population_note         =
+| population_blank1_title = Urban
+| population_blank1       = 5115
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipal
+| population_blank2       = 39289
+| population_density_blank2_km2 = auto
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|42|47|N|20|29|E|region:RS-KM|display=inline}}
+|elevation_footnotes    = <!--for references: use  tags-->
+|elevation_m            = 480
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 31000
+|area_code              = +383
+|blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+|blank_info             = 03
+|blank1_name            =
+|blank1_info            =
+|website                = {{url|http://kk.rks-gov.net/istog}}
+|footnotes              =
+}}

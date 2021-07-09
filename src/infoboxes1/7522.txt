@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                   = Baqa al-Gharbiyye
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|בָּקַה אל-גרְבִּיָּה}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|باقة الغربية}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1264)
+| translit_lang1         = Hebrew
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Baqa al-Gharbiya (unofficial)
+| image_skyline          = Baqa_el_gharbiya_2007_04_14.jpg
+| image_blank_emblem     = Coat of arms of Baqa al-Gharbiyye.svg
+| blank_emblem_type      = Emblem of Baqa al-Gharbiyye
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|25|13|N|35|02|32|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 154/202 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Haifa District|name=Haifa}}
+| leader_title           = Mayor
+| leader_name            = Raed Daqa
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:9100|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Baqa Al-gharbiyye}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = The western bouquet (of flowers) or "The western Baka"<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/179/mode/1up 179]</ref>
+}}

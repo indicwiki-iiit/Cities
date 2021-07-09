@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Bozüyük
+| image_skyline           = Kasımpaşa Mosque, Bozuyuk, Turkey.jpg
+| image_caption           = Bozüyük
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|39|54|28|N|30|2|12|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Bilecik Province|Bilecik]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = 
+| leader_title            = <!-- Mayor -->
+| leader_name             = 
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Bilecik|Bozüyük}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Bilecik}}
+| population_urban        = {{Turkey district populations|Bilecik|Bozüyük|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Bilecik|Bozüyük|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

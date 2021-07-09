@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Honaz (Colossae)
+| image_skyline           = Colossae'den Honaz görünüm.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|37|45|27.51|N|29|15|50.65|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Denizli Province|Denizli]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Republican People's Party|CHP]]
+| leader_title            = Mayor
+| leader_name             = Yüksel Kepenek 
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Turan Atlamaz
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Denizli|Honaz}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Denizli}}
+| population_urban        = {{Turkey district populations|Denizli|Honaz|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Denizli|Honaz|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 20330
+| website                 = {{URL| www.honaz.bel.tr | www.honaz.bel.tr }}
+}}

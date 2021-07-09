@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Raub
+| native_name             = {{Lang-ms|ﺭﺍؤﺏ}}
+| other_name              = {{Lang-zh|劳勿}}
+| settlement_type         = Town
+| image_flag              =
+| image_seal              = Raubcouncil.jpg
+| image_map               = 
+| coordinates             = {{coord|3|47|42.8|N|101|51|21.5|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Malaysia}}
+| subdivision_type1       = [[States and federal territories of Malaysia|State]]
+| subdivision_name1       = {{flag|Pahang}}
+| subdivision_type2       = [[Districts of Malaysia|District]]
+| subdivision_name2       = [[Raub District]]
+| governing_body          = Raub District Council
+| leader_title            = President
+| leader_name             = Haji Khairulanuar bin Mahmood<ref name="MDRaub-YDP">{{cite web|url=http://www.mdraub.gov.my/en/md-raub/management/ydp-profile |title=YDP's Profile |language=ms,en |date=19 August 2019 |access-date=2019-10-23 |website=Raub District Council }}</ref>
+| area_total_km2          = {{formatnum:977.207|R}}
+| area_footnotes=(MDR Area)<ref>{{cite web|url=http://www.mdraub.gov.my/ms/md-raub/profil/latar-belakang|title=Latar Belakang|last=primuscoreadmin|date=11 November 2015}}</ref>
+| population_total        = {{formatnum:91,731|R}}
+| population_footnotes={{my10}}
+| population_as_of        = 2010
+| population_density_km2  = auto
+| postal_code_type        = [[Postal codes in Malaysia|Postcode]]
+| postal_code             = 27xxx
+| area_code               = +6-09
+| area_code_type          = [[Telephone numbers in Malaysia|Calling code]]
+| registration_plate      = C
+| unemployment_rate = 
+|blank_name_sec2 = [[Members of the Dewan Rakyat, 13th Malaysian Parliament|MP]]
+|blank_info_sec2 = [[Tengku Zulpuri Shah Raja Puji]] ([[Democratic Action Party (Malaysia)|DAP]])
+}}

@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Plumas Lake
+|other_name             =
+|native_name            =  
+|nickname               = 
+|settlement_type        = [[Census-designated place]]
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|pushpin_map            =California
+|pushpin_label_position =bottom
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in California
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2      = [[Yuba County, California|Yuba County]]
+|subdivision_type3      =
+|subdivision_name3      = 
+<!-- Population------------------>
+| population_total        = 5853
+| population_as_of        = 2010
+| population_density_km2  = auto
+
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          =<ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://web.archive.org/web/20120125061959/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-01-25 }}</ref>
+| area_total_sq_mi        = 8.382
+| area_land_sq_mi         = 8.382
+| area_water_sq_mi        = 0
+| area_total_km2          = 21.710
+| area_land_km2           = 21.710
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               =
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+
+|<!-- Politics ----------------->
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|coordinates            = {{coord|39|01|15|N|121|33|29|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes    =<ref>{{gnis|2037166}}</ref>
+|elevation_m            =14
+|elevation_ft           =46
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 95961
+|area_code                = [[area code 530|530]]
+|blank_name               = [[Geographic Names Information System|GNIS]] feature IDs
+|blank_info               = 2037166; 2583117
+|website                  = 
+|footnotes                = {{gnis|2037166}}; {{gnis|2583117}}
+
+}}

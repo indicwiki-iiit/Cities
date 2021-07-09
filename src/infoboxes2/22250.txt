@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Brecksville, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Jonas Coonrad House NPS.jpg
+|image_caption            = Jonas Coonrad House in Brecksville<ref>{{cite book|url=https://books.google.com/books?id=YfvhVln0D20C|title=Ohio Historic Places Dictionary|first1=Editorial|last1=Staff|first2=State History Publications|last2=LLC|date=January 1, 2008|publisher=North American Book Dist LLC|access-date=September 4, 2016|via=Google Books|isbn=9781878592705}}</ref>
+|imagesize                = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Cuyahoga County Ohio incorporated and unincorporated areas Brecksville highlighted.svg
+|mapsize = 260px
+|map_caption = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the state of [[Ohio]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Cuyahoga County, Ohio|Cuyahoga]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Jerry N. Hruby ([[Republican Party (United States)|R]])<ref>{{cite web|last1=Exner|first1=Rich|title=Democrats outnumber Republicans as mayors in Cuyahoga County, 39-14|url=http://www.cleveland.com/datacentral/index.ssf/2013/11/democrats_outnumber_republican.html|website=[[The Plain Dealer|Cleveland.com]]|access-date=January 30, 2016|date=November 16, 2013}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 50.66
+|area_land_km2            = 50.37
+|area_water_km2           = 0.29
+|area_total_sq_mi         = 19.56
+|area_land_sq_mi          = 19.45
+|area_water_sq_mi         = 0.11
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 13604
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 13656
+|population_density_km2   = 270.08
+|population_density_sq_mi = 699.51
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|elevation_m              = 271
+|elevation_ft             = 889
+|coordinates              = {{coord|41|18|36|N|81|37|44|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 44141
+|area_code                = [[Area code 440|440]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-08364<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1064483<ref name="GR3" />
+|website                  = {{URL|http://www.brecksville.oh.us/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

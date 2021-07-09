@@ -1,0 +1,95 @@
+{{Infobox settlement
+| name                     = Lansing, Michigan
+| official_name            = City of Lansing
+| settlement_type          = [[List of capitals in the United States|State capital city]]
+| image_skyline            = {{Photomontage
+  | border = 1 | color_border = none| color = none | spacing = 4 | size = 275
+  | photo2a = Lansing_skyline_brobb_11_2009.jpg
+  | photo3a = Michigan state capitol.jpg
+  | photo3b = 712 michigan hofj.jpg
+  | photo4a = OldsmobilePark02.jpg
+  | foot_montage = Clockwise from top left: [[Downtown Lansing]] skyline, [[Michigan Supreme Court]] Hall of Justice, [[Jackson Field]], [[Michigan State Capitol]]}}
+| image_flag               =
+| image_seal               = 
+| nickname                 = Capital City, L-Town, ''"The Heart of Michigan"''
+| named_for                = [[Lansing, New York]]
+| image_map                = Lansing (Clinton, Eaton, and Ingham), MI location.png
+| mapsize                  = 250
+| map_caption              = Location within [[Clinton County, Michigan|Clinton County]] (top), [[Eaton County, Michigan|Eaton County]] (left), and [[Ingham County, Michigan|Ingham County]] (right) 
+| pushpin_map = Michigan#USA#North America
+| pushpin_map_caption = Location within the state of Michigan##Location within the United States##Location within North America
+| pushpin_label            = Lansing
+| coordinates              = {{coord|42|44|01|N|84|32|48|W|region:US-MI_type:city|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Michigan]]
+| subdivision_type2        = [[List of counties in Michigan|Counties]]
+| subdivision_name2        = [[Clinton County, Michigan|Clinton]], [[Eaton County, Michigan|Eaton]], and [[Ingham County, Michigan|Ingham]]
+| established_title        = Settled
+| established_date         = 1835
+| established_title2       = Incorporated
+| established_date2        = 1859
+| government_type          = [[Mayor–council government|Strong mayor–council]]
+| leader_title             = [[Mayor]]
+| leader_name              = [[Andy Schor]] ([[Democratic Party (United States)|D]])
+| leader_title1            = [[Municipal clerk|Clerk]]
+| leader_name1             = Chris Swope
+| leader_title2                   = City council
+| leader_name2                    = {{collapsible list|bullets=yes
+ | title = Members
+ | 1 = Kathie Dunbar<br>(At Large)
+ | 2 = Peter Spadafore<br>(At Large)
+ | 3 = Patricia Spitzley<br>(At Large)
+ | 4 = Carol Wood<br>(At Large)
+ | 5 = Brandon Betz<br>(1st Ward)
+ | 6 = Jeremy Garza<br>(2nd Ward)
+ | 7 = Adam Hussain<br>(3rd Ward)
+ | 8 = Brian Jackson<br>(4th Ward)
+ }}
+
+<!-- Area -->
+| unit_pref                = Imperial
+| total_type                = City
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+| area_total_km2           = 103.16
+| area_total_sq_mi         = 39.83
+| area_land_km2            = 101.50
+| area_land_sq_mi          = 39.19
+| area_water_km2           = 1.66
+| area_water_sq_mi         = 0.64
+| area_urban_km2           = 354.4
+| area_urban_sq_mi         = 158.2
+| area_metro_km2           = 4440.8
+| area_metro_sq_mi         = 1714.6
+| elevation_m              = 262
+| elevation_ft             = 860
+<!-- Population -->
+| population_footnotes     = <ref name="wwwcensusgov"/>
+| population_total         = 114297
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 118210
+| pop_est_as_of            = 2019
+| population_density_km2   = 1164.67
+| population_density_sq_mi = 3016.48
+| population_urban         = 313532
+| population_metro         = 464036
+| population_blank1_title  = [[Combined statistical area|CSA]]
+| population_blank1        = 534684
+| population_demonym       = Lansingite
+| population_note          = 
+| timezone                 = [[Eastern Time Zone|EST]]
+|utc_offset = &minus;5
+| timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+| postal_code_type         = [[ZIP Code|ZIP code(s)]]
+| postal_code              = 48864 ([[Okemos, Michigan|Okemos]])<br>48901, 48906, 48908–48913, 48915–48919, 48921, 48922, 48924, 48929, 48930, 48933, 48937, 48950, 48951, 48956
+| area_code                = [[Area code 517|517]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 26-46000<ref name="GR2">{{cite web |url = https://www.census.gov |publisher = [[United States Census Bureau]] |access-date = January 31, 2008 |title = U.S. Census website }}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1625035<ref name="GR3">{{cite web |url = http://geonames.usgs.gov |access-date = January 31, 2008 |title = US Board on Geographic Names |publisher = [[United States Geological Survey]] |date = October 25, 2007 }}</ref>
+| website                  = {{URL|https://www.lansingmi.gov/|Official website}}
+| footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

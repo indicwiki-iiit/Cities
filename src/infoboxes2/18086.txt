@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name                   = Val-d'Or
+|official_name          = 
+|native_name            =
+|settlement_type        = [[Types of municipalities in Quebec|City]]
+|image_skyline          = Ville de Val-d'or.jpg
+|imagesize              =
+|image_caption          = Val-d'Or city
+|image_flag             =
+|image_shield           =
+|motto                  =
+|image_map              = Val-d'Or Quebec location diagram.png
+|map_caption            = Location within La Vallée-de-l'Or RCM.
+ | pushpin_map          = Canada Western Quebec
+ | pushpin_label_position = 
+ | pushpin_label        = 
+ | pushpin_map_caption  = Location in western Quebec.
+|coordinates            = {{coord|48|06|N|77|47|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Abitibi-Témiscamingue]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[La Vallée-de-l'Or Regional County Municipality|La Vallée-de-l'Or]]
+|established_title      = 
+|established_date       = 
+|established_title1     = Constituted
+|established_date1      = January 1, 2002
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|government_footnotes   = <ref name=mamrot>Ministère des Affaires municipales, des Régions et de l'Occupation du territoire - Répertoire des municipalités: [http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/89008/ Val-d'Or]</ref>
+|leader_title           = Mayor
+|leader_name            = [[Pierre Corbeil]]
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Abitibi—Baie-James—Nunavik—Eeyou|Abitibi—Baie-James—<br>Nunavik—Eeyou]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Abitibi-Est (provincial electoral district)|Abitibi-Est]]
+|leader_title3          =
+|leader_name3           =
+|area_footnotes = <ref name=mamrot/><ref name="cp2011">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2489008&Geo2=PR&Code2=24&Data=Count&SearchText=Val-d'Or&SearchType=Begins&SearchPR=01&B1=All&Custom= |title=Val-d'Or census profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-05-24}}</ref>
+|area_magnitude         =
+|area_total_km2         = 3955.10
+|area_land_km2          = 3551.79
+|area_water_km2         =
+|area_urban_km2         =
+|area_metro_footnotes   = <ref name="cp2011-CA">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=480&Geo2=PR&Code2=24&Data=Count&SearchText=Val-d'Or&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=480&TABID=1 |title=Val-d'Or (Census agglomeration) census profile |publisher=Statistics Canada |work=[[Canada 2011 Census|2011 Census data]] |access-date=2012-05-24}}.  The census agglomeration consists of Val-d'Or and [[Lac-Simon, Abitibi-Témiscamingue, Quebec|Lac-Simon]].  This was unchanged from the 2006 census.</ref>
+|area_metro_km2         = 3555.03
+|elevation_m            = 306
+|population_footnotes   = <ref name="cp2011"/>
+|population_total       = 31862
+|population_as_of       = 2011
+|population_density_km2 = 9.0
+|population_urban       =
+|population_density_urban_km2 =
+|population_metro_footnotes = <ref name="cp2011-CA"/>
+|population_metro       = 33265
+|population_density_metro_km2 = 9.4
+|population_blank1_title= Pop&nbsp;<small>2006-2011</small>
+|population_blank1      = {{increase}} 2.4%
+|population_blank2_title= Dwellings
+|population_blank2      = 14784
+|population_note        =
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of J postal codes of Canada|J9P]]
+|area_code              = [[Area codes 819 and 873|819/873]]
+|blank_name             = Highways
+|blank_info             = {{jct|state=QC|QC|111}} <br> {{jct|state=QC|QC|113}} <br> {{jct|state=QC|TCH|117}} <br> {{jct|state=QC|QC|397}}
+|website                = {{URL|www.ville.valdor.qc.ca}}
+|footnotes              =
+}}

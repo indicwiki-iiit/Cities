@@ -1,0 +1,36 @@
+{{Infobox Australian place
+| type          = town
+| name          = Muswellbrook
+| state         = nsw
+| image         = File:Muswellbrook Steeple - panoramio.jpg
+| caption       = Hope City Church
+| lga           = Muswellbrook Shire
+| postcode      = 2333
+| est           = 1833
+| pop           = 16,000
+| pop_year      = 2021
+| pop_footnotes = <ref name=ABSSUA/>
+| elevation     = 220
+| coordinates   = {{coord|32|15|55.5|S|150|53|18.5|E|display=inline,title}}
+| pushpin_label_position = left
+| maxtemp       = 
+| mintemp       = 
+| rainfall      = 
+| stategov      = [[Electoral district of Upper Hunter|Upper Hunter]]
+| fedgov        = [[Division of Hunter|Hunter]]
+| dist1         = 243
+| dir1          = N
+| location1     = Sydney
+| dist2         = 127
+| dir2          = NW
+| location2     = [[Newcastle, New South Wales|Newcastle]]
+| dist3         = 47
+| dir3          = NW
+| location3     = [[Singleton, New South Wales|Singleton]]
+| dist4         = 27
+| dir4          = S
+| location4     = [[Scone, New South Wales|Scone]]
+| dist5         = 272
+| dir5          = E
+| location5     = Dubbo
+}}

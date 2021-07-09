@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Valatie, New York
+|settlement_type          = [[Village (New York)|Village]]
+|nickname                 = ''Vaaltje'' ("Little Falls")
+|motto                    = "What a Village Should Be"
+
+<!-- Images -->
+|image_seal               = 
+|image_skyline            = Beaver Kill Falls, aka Valatie Kill Falls.jpg
+|image_caption            = Beaver Mill Falls 
+|image_flag               = 
+
+<!-- Maps -->
+|pushpin_map            = 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+|image_map                = Columbia County New York incorporated areas Village of Valatie highlighted.svg
+|mapsize                  = 
+|map_caption              = Location of Valatie, New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Columbia County, New York|Columbia]]
+|subdivision_type3        = [[List of towns in New York|Town]]
+|subdivision_name3        = [[Kinderhook (town), New York|Kinderhook]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            =  
+|leader_name1             =  
+|established_title        = Settled
+|established_date         = 1665
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 3.28
+|area_land_km2            = 3.25
+|area_water_km2           = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1819
+|population_density_km2   = 566.73
+|population_density_sq_mi = 1468.10
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 73
+|elevation_ft             = 240
+|coordinates              = {{coord|42|24|50|N|73|40|39|W|region:US-NY_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12184
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-76617
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0968342
+|website                  = {{URL|www.valatievillage.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 1841
+|area_total_sq_mi = 1.27
+|area_land_sq_mi = 1.25
+|area_water_sq_mi = 0.01
+}}

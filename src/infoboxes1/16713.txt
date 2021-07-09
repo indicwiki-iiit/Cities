@@ -1,0 +1,50 @@
+{{Infobox settlement
+| name                            = Starogard Gdański
+| image_skyline                   = {{Photomontage
+  |color=#ffffff
+  | photo1a = Starogard ratusz.jpg{{!}}Town Hall
+  | photo2a = Starogard kosciol Mateusza z boku.jpg{{!}}Saint Matthew church
+  | photo2b = Pałac Wiechertów w Starogardzie Gd..jpg{{!}}Wiechert Palace
+  | photo3a = Starogard Gdański, Rynek, noční pohled.JPG{{!}}Market Square at night
+  | photo3b = Starogard Gdański, Pomorska, kostel sv. Wojciecha.JPG{{!}}Saint Adalbert church
+  | spacing = 1
+  | border = 0
+  | size = 280
+}}
+| imagesize                       = 250px
+| image_caption                   = {{hlist|From top, left to right: Town Hall|Saint Matthew church|Wiechert Palace|Market Square|Saint Adalbert church}}
+| image_flag                      = Flaga Starogardu Gdańskiego w wersji podstawowej.svg
+| image_shield                    = POL Starogard Gdański COA.svg
+| pushpin_map                     = Poland#Poland Pomeranian Voivodeship
+| pushpin_label_position          = bottom
+| subdivision_type                = Country
+| subdivision_name                = {{POL}}
+| subdivision_type1               = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1               = {{flag|Pomeranian Voivodeship|name=Pomeranian}}
+| subdivision_type2               = [[Powiat|County]]
+| subdivision_name2               = [[Starogard County|Starogard]]
+| subdivision_type3               = [[Gmina]]
+| subdivision_name3               = Starogard Gdański <small>(urban gmina)</small>
+| leader_title                    = Mayor
+| leader_name                     = Janusz Stankowiak
+| established_title               = Established
+| established_date                = 1198
+| established_title3              = Town rights
+| established_date3               = 1348
+| area_total_km2                  = 25.27
+| population_as_of                = 2006
+| population_total                = 48136
+| population_density_km2          = auto
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|53|58|N|18|32|E|region:PL|display=inline,title}}
+| postal_code_type                = Postal code
+| postal_code                     = 83-200
+| area_code                       = +48 58
+| blank_name                      = [[Polish car number plates|Car plates]]
+| blank_info                      = GST
+| website                         = http://www.starogard.pl
+| official_name                   = 
+}}

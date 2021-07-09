@@ -1,0 +1,41 @@
+{{Infobox Australian place
+| type     = town
+| name     = Swan Hill
+| state    = vic
+| image    = SwanHillPark.JPG
+| caption  = A park in central Swan Hill
+| use_lga_map = yes
+| coordinates = {{coord|35|20|0|S|143|33|0|E|display=inline,title}}
+| lga      = Rural City of Swan Hill
+| postcode = 3585
+| est      = 1846
+| pop      = 11103
+| pop_year = 2018
+|pop_footnotes = <ref name=ABSSUA/> 
+| elevation= 70
+| maxtemp  = 23.0
+| mintemp  = 9.7
+| rainfall = 348.5
+| stategov = [[Electoral district of Murray Plains|Murray Plains]]
+| fedgov   = [[Division of Mallee|Mallee]]
+| dist1    = 338
+| dir1     = NW
+| location1= Melbourne
+| dist2    = 155
+| location2= Echuca
+| dist3    = 188
+| dir3     = NW
+| location3= Bendigo
+| dist4    = 214
+| location4= Mildura
+| dist5    = 225
+| location5= [[Horsham, Victoria|Horsham]]
+| near-nw  = [[Woorinen South, Victoria|Woorinen South]]
+| near-n   = [[Tyntynder South, Victoria|Tyntynder South]], [[Murrawee, Victoria|Murrawee]]
+| near-ne  = [[Murraydale, Victoria|Murraydale]]
+| near-w   = [[Swan Hill West, Victoria|Swan Hill West]]
+| near-e   = ''[[New South Wales]]''
+| near-sw  = [[Goschen, Victoria|Goschen]]
+| near-s   = [[Castle Donnington, Victoria|Castle Donnington]]
+| near-se  = [[Pental Island, Victoria|Pental Island]]
+}}

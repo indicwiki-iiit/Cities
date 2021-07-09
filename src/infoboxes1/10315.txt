@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Kızılpınar Atatürk
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Neighborhood
+| image_skyline           = Hürriyet Caddesi.jpg
+| image_alt               = 
+| image_caption           = Hürriyet Street (2009)
+| nickname                = 
+| motto                   = 
+| image_map               = KızılpınarAtaturk.svg
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Turkey
+| pushpin_label_position  = right
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Turkey
+| coordinates             = {{coord|41|16|N|27|58|E|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{TUR}}
+| subdivision_type1       = [[List of regions of Turkey|Region]]
+| subdivision_name1       = [[Marmara Region|Marmara]]
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = [[Tekirdağ Province]]
+| subdivision_type3       = [[Tekirdağ Province|District]]
+| subdivision_name3       = [[Çerkezköy]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 150
+| population_footnotes    = 
+| population_total        = 22,966 <ref>{{cite web|url= https://biruni.tuik.gov.tr/medas/?kn=95&locale=en|title=Turkstat|publisher=Turkish Statistical Institute|accessdate=4 February 2021}}</ref>
+| population_as_of        = 
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         =
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = Postal code
+| postal_code             = 59500
+| area_code_type          = Area code
+| area_code               = 0282
+|blank_info = 59 |blank_name=[[Turkish car number plates|Licence&nbsp;plate]]
+| iso_code                = 
+| website                 = {{URL| www.cerkezkoy.bel.tr}}
+| footnotes               = 
+}}

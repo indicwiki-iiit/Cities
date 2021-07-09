@@ -1,0 +1,27 @@
+{{Infobox German location
+|name = Landau in der Pfalz
+|type            = Stadt
+|image_photo     = Court House in Landau.JPG
+|image_caption   = Courthouse
+|image_flag      = Flagge Landau in der Pfalz.svg
+|image_coa       = Wappen Landau Pfalz.svg
+|coordinates     = {{coord|49|12|N|8|7|E|format=dms|display=inline,title}}
+|image_plan      =
+|state           = Rheinland-Pfalz
+|district        = Kreisfreie Stadt
+|elevation       = 142
+|area            = 82.94
+|population      = 43048<!-- Bitte nicht per Hand aktualisieren: [[Wikipedia:WikiProjekt_Kommunen_und_Landkreise_in_Deutschland/Einwohnerzahlen]] -->
+|Stand           = 2006-12-31
+|postal_code     = 76829
+<!-- |PLZ-alt    = 6740 -->
+|area_code       = 06341
+|licence          = LD
+|Gemeindeschlüssel = 07 3 13 000
+|divisions        = 8 [[Ortsteil]]e
+<!--|Adresse    = Marktstraße 50<br />76829 Landau in der Pfalz -->
+|website          = [http://www.landau.de/ www.landau.de]
+|mayor            = Thomas Hirsch
+|Bürgermeistertitel = Oberbürgermeister
+|party            = [[Christian Democratic Union of Germany|CDU]]
+}}

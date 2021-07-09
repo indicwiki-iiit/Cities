@@ -1,0 +1,59 @@
+{{Infobox Australian place
+| type     = town
+| name     = Meningie
+| state    = sa
+| image    = MeningieHotel.JPG
+| caption  = Meningie Hotel
+| coordinates = {{coord|35|41|18|S|139|20|16|E|display=inline,title}}
+| coord_ref          = <ref name="LMV">{{cite web|title=Search result for 'Meningie, Locb' with the following datasets selected - 'Suburbs and Localities', 'Government Towns', 'Counties', 'Hundreds', 'Local Government Areas', 'SA Government Regions’ and 'Gazetteer'|url=http://location.sa.gov.au/viewer/?map=roads&x=139.38767&y=-35.71511&z=12&uids=19,2,115,8,11,20,105&pinx=139.338980&piny=-35.689470&pinTitle=Location&pinText=Meningie,+Locb
+|website=Location SA Map viewer|publisher=Government of South Australia|access-date=9 April 2019}}</ref>
+
+| pop      = 852 (town centre)
+| pop_year = {{censusAU|2016}}
+| pop_footnotes =<ref name= Census2016-UCL>{{Census 2016 AUS|id= UCL421023 |name= Meningie (UCL)|accessdate=6 January 2018|quick=on}}</ref> 
+| pop2      = 1118 (locality)
+| pop2_year = {{censusAU|2016}}
+| pop2_footnotes   = <ref name= Census2016-SSC>{{Census 2016 AUS|id= SSC40851 |name= Meningie (SSC)|accessdate=6 January 2018|quick=on}}</ref>
+
+| established              = 1866 (town)<br/>2000 (locality)
+| established_footnotes    = <ref name=manning/><ref name=SAGG>{{Citation | title = GEOGRAPHICAL NAMES ACT 1991, Notice to Assign Boundaries and Names to Places | journal = The South Australian Government Gazette | page = 596 | date=24 August 2000| url =http://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2000/August/2000_132.pdf |access-date=5 January 2018}}</ref>
+| postcode = 5264<ref name=postcode>{{cite web|title= Postcode for Meningie, South Australia|url= https://postcodes-australia.com/areas/sa/adelaide/meningie |publisher=Postcodes Australia|access-date=6 January 2018}}</ref>
+
+| elevation= 3
+| elevation_footnotes      = <ref name=climate/>
+ 
+| timezone = [[UTC9:30|ACST]]
+| utc = +9:30
+| timezone-dst = [[UTC10:30|ACST]]
+| utc-dst = +10:30
+
+| dist1    = 108
+| dir1     = SE
+| location1= [[Adelaide city centre|Adelaide]]
+| dist2       = 49
+| dir2        = S
+| location2   = [[Tailem Bend, South Australia|Tailem Bend]]
+
+| lga      = [[The Coorong District Council]]<ref name="LMV"/>
+| region             = [[Murray and Mallee]]<ref name="LMV"/>
+| county             = [[County of Russell|Russell]]<ref name="LMV"/>
+| stategov = [[Electoral district of Mackillop|Mackillop]]<ref name=ECSA>{{cite web|title=District of Mackillop profile |url=https://ecsa.sa.gov.au/electoral-districts/electoral-district-profiles?view=article&id=841:Mackillop |publisher=Electoral Commission SA|access-date=9 April 2019}}</ref>
+| fedgov   = [[Division of Barker|Barker]]<ref name=AEC>{{cite web|title=Federal electoral division of Barker |url=http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-barker.pdf |publisher=Australian Electoral Commission|access-date=28 December 2017}}</ref>
+
+| maxtemp = 20.8
+| maxtemp_footnotes = <ref name=climate>{{cite web|title=Monthly climate statistics: Summary statistics Summary statistics MENINGIE (nearest weather station) |url= http://www.bom.gov.au/climate/averages/tables/cw_024518.shtml  |publisher=Commonwealth of Australia , Bureau of Meteorology|access-date=5 January 2018}}</ref>
+| mintemp = 10.3
+| mintemp_footnotes = <ref name=climate/>
+| rainfall = 469.2
+| rainfall_footnotes =<ref name=climate/>
+
+| near-n              = [[Waltowa, South Australia|Waltowa]]
+| near-ne             = [[Meningie East, South Australia|Meningie East]]
+| near-e              = [[Meningie East, South Australia|Meningie East]]<br/>[[Field, South Australia|Field]]
+| near-se             = [[Field, South Australia|Field]]<br/>[[Coorong, South Australia|Coorong]]
+| near-s              = [[Coorong, South Australia|Coorong]]
+| near-sw             = [[Coorong, South Australia|Coorong]]
+| near-w              = [[Lake Albert, South Australia (locality)|Lake Albert]]<br/>[[Meningie West, South Australia|Meningie West]]
+| near-nw             = [[Lake Albert, South Australia (locality)|Lake Albert]]
+| footnotes           = Location<ref name=postcode/><ref name="LMV"/><br/>Adjoining localities<ref name="LMV"/>
+}}

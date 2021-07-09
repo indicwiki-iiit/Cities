@@ -1,0 +1,25 @@
+{{Infobox company
+| name = The Bank of Nova Scotia
+| trade_name = Scotiabank
+| logo = Scotiabank logo.svg
+| logo_size = 270px
+| type = [[Public company|Public]]
+| traded_as = {{tsx|BNS}}<br />{{nyse|BNS}}<br />[[S&P/TSX 60|S&P/TSX 60 component]]
+| key_people = [http://www.scotiabank.com/ca/en/0,,532,00.html Brian J. Porter] (President and CEO)<br/>[https://www.scotiabank.com/ca/en/about/our-company/executive-management/raj-viswanathan.html Raj Viswanathan] (CFO)
+| industry = [[Banking]], [[Financial services]]
+| revenue = {{increase}} [[C$]]31.3 billion (2020)<ref name=2020results>{{Cite web|url=https://www.newswire.ca/news-releases/scotiabank-reports-fourth-quarter-and-2020-results-835426903.html#:~:text=TORONTO%2C%20Dec.%201%2C%202020,13.1%25%20in%20the%20previous%20year.| title=2020 Annual Report}}</ref>
+| net_income = {{decrease}} [[C$]]6.8 billion (2020)<ref name="2020results"/>
+| aum = {{increase}} [[C$]]291.7 billion (2020)<ref name="2020results"/>
+| assets = {{increase}} [[C$]]1,136 billion (2020)<ref name="2020results"/>
+| equity = {{increase}} [[C$]]70.5 billion (2020)<ref name="2020results"/>
+| num_employees = 92,001 (2020)<ref name="2020results"/>
+| subsid = [[Tangerine Bank]]
+| foundation = {{start date and age|1832|03|30|df=yes}}<br />[[History of Halifax (former city)|Halifax]], [[Nova Scotia]]
+| location = [[Toronto]], [[Ontario]], Canada<ref name="HeadOffice">{{cite web
+| url          = http://cgi.scotiabank.com/email_mail.html
+| title        = Mail Us
+| publisher    = Scotiabank
+| access-date   = December 4, 2010
+}}</ref>
+| homepage = {{url|https://www.scotiabank.com/}}
+}}

@@ -1,0 +1,71 @@
+{{Infobox settlement
+
+| name                   = Talara
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             =
+| settlement_type        = City
+| image_skyline          = {{Photomontage	
+| photo1a = 1945 - CIUDAD DE TALARA - P.jpg
+| photo2a = 1991._Lotes_petroleros_Talara.jpg
+| photo2b = 2009. Planta de gas de Pariñas.jpg
+| spacing = 1
+| position = center
+| color_border = white
+| color =  white
+| size = 260
+| foot_montage = 
+}} 
+| image_caption          = Talara
+| image_flag             =
+| flag_size              = 150px
+| image_seal             =
+<!-- Commented out: | image_shield           = COA Talara Province in Piura Region.png --><!--Coat of arms image-->
+| shield_size            = 80px
+| nickname               =
+| motto                  =
+| image_map              =
+| map_caption            =
+| pushpin_map            = Peru
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| coordinates            = {{coord|4|34|47.65|S|81|16|18.76|W|region:PE|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Peru}}
+| subdivision_type1      = Region
+| subdivision_name1      = [[Piura Region|Piura]]
+| subdivision_type2      = Province
+| subdivision_name2      = [[Talara Province|Talara]]
+| subdivision_type3      =
+| subdivision_name3      =
+| subdivision_type4      =
+| subdivision_name4      =
+| established_title      =
+| established_date       =
+| government_type        = Democracy
+| leader_title           = Mayor
+| leader_name            = José Alfredo Vitonera Infante
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         =
+| area_land_km2          =
+| area_water_km2         =
+| area_water_percent     =
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 11
+| pop_est_as_of          = 2015
+| pop_est_footnotes      = <ref>{{cite report |url=http://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib1020/cuadros/c0206.xls |title=Perú: Población estimada al 30 de junio y tasa de crecimiento de las ciudades capitales, por departamento, 2011 y 2015 |work=Perú: Estimaciones y proyecciones de población total por sexo de las principales ciudades, 2012-2015 |publisher=Instituto Nacional de Estadística e Informática |date=March 2012 |access-date=4 June 2015}}</ref>
+| population_est         = 90830
+| population_footnotes   =
+| population_total       = 91444
+| population_as_of       = 2017
+| population_density_km2 =
+| population_note        =
+| timezone               = PET
+| utc_offset             = -5
+| timezone_DST           = PET
+| utc_offset_DST         = -5
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| website                = {{URL|http://www.munitalara.gob.pe/}}
+| footnotes              =
+}}

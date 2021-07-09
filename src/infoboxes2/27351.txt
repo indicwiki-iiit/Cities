@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Amory
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Monroe_County_Mississippi_Incorporated_and_Unincorporated_areas_Amory_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Amory, Mississippi
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Mississippi#USA#North America
+| pushpin_map_caption = Location in Mississippi
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Mississippi]]
+|subdivision_type2        = [[List of counties in Mississippi|County]]
+|subdivision_name2        = [[Monroe County, Mississippi|Monroe]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_28.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 34.03
+|area_land_km2            = 32.46
+|area_water_km2           = 1.58
+|area_total_sq_mi         = 13.14
+|area_land_sq_mi          = 12.53
+|area_water_sq_mi         = 0.61
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census2010">{{cite web|title=2010 City Population and Housing Occupancy Status |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table |publisher=[[United States Census Bureau]] |access-date=May 14, 2012 }}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref>
+|population_total         = 7316
+|population_density_km2   = 209.33
+|population_density_sq_mi = 542.18
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 73
+|elevation_ft             = 240
+|coordinates              = {{coord|33|59|14|N|88|29|2|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 38821
+|area_code                = [[Area code 662|662]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 28-01260
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0666246
+|website                  = [http://www.cityofamoryms.com/ City of Amory, Mississippi]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6794
+}}

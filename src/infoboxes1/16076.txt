@@ -1,0 +1,65 @@
+{{Infobox settlement
+| name                         = Châteauguay 
+| official_name                = 
+| settlement_type              = [[City (Quebec)|City]]
+| image_skyline                = Église Saint-Joachim (5).jpg
+| image_flag                   = 
+| image_shield                 = Chateauguay shield.jpg
+| shield_size                  = 100x90px
+| image_blank_emblem           = Logo chateauguay.gif
+| blank_emblem_size            = 140x80px
+| motto                        = ''Unita Fortior''<br>([[Latin]]: "Stronger when United")
+| image_map                    = Châteauguay Quebec location diagram.PNG
+| map_caption                  = Location within Roussillon RCM
+| pushpin_map                  = Canada Southern Quebec
+| pushpin_map_caption          = Location in southern Quebec
+| coordinates                  = {{coord|region:CA-QC|format=dms|display=inline,title}}<ref name="toponymie"/>
+| subdivision_type             = Country
+| subdivision_name             = {{CAN}}
+| subdivision_type1            = [[Provinces and territories of Canada|Province]]
+| subdivision_name1            = {{QC}}
+| subdivision_type2            = [[Region (Quebec)|Region]]
+| subdivision_name2            = [[Montérégie]]
+| subdivision_type3            = [[Regional county municipality|RCM]]
+| subdivision_name3            = [[Roussillon Regional County Municipality|Roussillon]]
+| established_title            = 
+| established_date             = 
+| established_title1           = Constituted
+| established_date1            = November 3, 1975
+| government_footnotes         = <ref name="mamrot">{{Cite web |url=http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/67050/ |title=Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Châteauguay |access-date=2012-03-11 |archive-url=https://web.archive.org/web/20131215045130/http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/67050/ |archive-date=2013-12-15 |url-status=dead }}</ref><ref>{{CanRiding|ID=1879|name=Châteauguay&ndash;Saint-Constant, Quebec}}</ref>
+| leader_title                 = Mayor
+| leader_name                  = Pierre-Paul Routhier
+| leader_title1                = [[List of Canadian federal electoral districts|Federal riding]]
+| leader_name1                 = [[Châteauguay—Lacolle]]
+| leader_title2                = [[List of Quebec provincial electoral districts|Prov. riding]]
+| leader_name2                 = [[Châteauguay (provincial electoral district)|Châteauguay]]
+| area_footnotes               = <ref name="mamrot"/><ref name="cp2011Chateauguay">{{cite web|url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2467050&Geo2=PR&Code2=24&Data=Count&SearchText=Chateauguay&SearchType=Begins&SearchPR=01&B1=All&Custom=|title=Census Profile - Châteauguay, Ville|date=2012-02-08|work=[[Canada 2011 Census]]|publisher=[[Statistics Canada]]|access-date=10 February 2012}}</ref>
+| area_magnitude               = 1 E8
+| area_total_km2               = 46.50
+| area_land_km2                = 35.89
+| area_water_km2               = 
+| area_urban_footnotes         = <ref name="cp2011-PC">{{cite web|url=http://www12.statcan.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=POPC&Code1=1177&Geo2=PR&Code2=24&Data=Count&SearchText=chateauguay&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1|title=Census Profile - Châteauguay, Population Centre|date=2012-02-08|work=[[Canada 2011 Census]]|publisher=[[Statistics Canada]]|access-date=10 February 2012}}</ref>
+| area_urban_km2               = 91.44
+| elevation_m                  = 
+| population_footnotes         = <ref name="cp2011Chateauguay"/>
+| population_total             = 46264
+| population_as_of             = 2013
+| population_density_km2       = 1278.9
+| population_urban_footnotes   = <ref name="cp2011-PC"/>
+| population_urban             = 70,812
+| population_density_urban_km2 = 774.4
+| population_blank1_title      = Pop&nbsp;{{small|2006-2011}}
+| population_blank1            = {{increase}} 7.3%
+| population_blank2_title      = Dwellings
+| population_blank2            = 18429
+| timezone                     = [[Eastern Time Zone|EST]]
+| utc_offset                   = −5
+| timezone_DST                 = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST               = −4
+| postal_code_type             = [[Canadian postal code|Postal code(s)]]
+| postal_code                  = [[List of J postal codes of Canada|J6J, J6K]]
+| area_code                    = [[Area codes 450 and 579|450 and 579]]
+| blank_name                   = Highways <br> {{jct|state=QC|A|30}}
+| blank_info                   = <br> {{jct|state=QC|QC|132}} <br> {{jct|state=QC|QC|138}}
+| website                      = {{official URL}}
+}}

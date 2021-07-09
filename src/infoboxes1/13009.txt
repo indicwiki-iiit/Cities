@@ -1,0 +1,29 @@
+{{Infobox UK place
+|country                  = England
+|region                   = London
+|official_name            = Kingston upon Thames
+|os_grid_reference       = TQ182693
+|population               = 43,013
+|population_ref           =<ref name=Census2011/>
+|london_borough           = Kingston
+|historic_county = Surrey
+|post_town                = KINGSTON UPON THAMES
+|postcode_area            = KT
+|postcode_district        = KT1, KT2
+|dial_code                = 020
+|constituency_westminster = [[Kingston and Surbiton (UK Parliament constituency)|Kingston and Surbiton]]
+|constituency_westminster1= [[Richmond Park (UK Parliament constituency)|Richmond Park]]
+|coordinates              = {{coord|51.4103|-0.2995|region:GB|format=dms|display=inline,title}}
+|london_distance          =
+|static_image_name        = {{image frame|content={{Photomontage
+|photo1a=Kingston Market Square.jpg
+| photo2a = Shrubsole Memorial, Kingston upon Thames.jpg
+| photo2b = Church Street, Kingston-upon-Thames.jpg
+| photo3a = Kingston Bridge at night.jpg
+| size = 300
+| text = Clockwise from top: Kingston Market Square; Church Street; [[Kingston Bridge, London|Kingston Bridge]] at night; Shrubsole Memorial water fountain
+}}}}
+|static_image_caption     = 
+|charingX_distance_mi     = 10.0
+|charingX_direction       = NE
+}}

@@ -1,0 +1,59 @@
+{{Infobox settlement
+|official_name          = 
+|name                   = Temascaltepec de González
+|other_name             = 
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town
+|total_type             =Municipality
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|pushpin_mapsize        = 300px
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{MEX}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = [[State of Mexico]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Temascaltepec]]
+|leader_title           = Municipal&nbsp;President
+|leader_name            = Noe Barrueta Baron (2006–2009)
+|established_title      = Founded
+|established_date       = 1555
+|established_title2     = Municipal status
+|established_date2      = 1835
+|population_as_of               = 2005
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 30,336  <!-- population of municipality -->
+|population_density_km2         = 
+|population_density_sq_mi       = 
+|population_blank1_title        = Seat
+|population_blank1              = 2,253  <!-- population of seat -->
+|population_blank2_title        = 
+|population_blank2              = 
+|population_density_blank1_km2 = 
+|population_density_blank1_sq_mi = 
+<!-- General information  --------------->
+|timezone               = [[Time in Mexico|Central]] [[Central Standard Time Zone|(US Central)]]
+|utc_offset             = -6
+|timezone_DST           = Central
+|utc_offset_DST         = -5 
+|coordinates            = {{coord|19|02|36|N|100|02|29|W|region:MX|display=inline,title}}
+|elevation_footnotes    = &nbsp;of seat
+|elevation_m            = 1720
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 51300
+|area_code              = 
+|blank_name             = 
+|blank_info             = 
+|blank1_name            = [[Demonym]]
+|blank1_info            = 
+|website                = 
+|footnotes              = 
+}}

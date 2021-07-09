@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Tshikapa
+|other_name             = 
+|official_name          = ''Ville de Tshikapa''
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = Provincial capital and city
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =right
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in the Democratic Republic of the Congo
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Democratic Republic of the Congo}}
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[Kasai Province|Kasai]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|parts_type             = Communes
+|parts_style            = para
+|p1                     = [[Dibumba I]]
+|p2                     = [[Dibumba II]]
+|p3                     = [[Kanzala]]
+|p4                     = [[Mabondo]]
+|p5                     = [[Mbumba]]
+|<!-- Politics ----------------->
+|government_footnotes   = <ref>{{cite news |last1=Kabongo |first1=Sylvain |title=Kasaï : un militaire ivre ouvre le feu à des funérailles à Tshikapa |url=https://www.mediacongo.net/article-actualite-44653_kasai_un_militaire_ivre_ouvre_le_feu_a_des_funerailles_a_tshikapa.html |accessdate=20 August 2019 |work=mediacongo.net |language=French}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Laurent Kambulu Mputu
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = [[City status]]
+|established_date       = 2003
+|named_for              = Tshikapa River
+<!-- Area    --------------------->
+|area_magnitude         =
+|area_footnotes           =
+|area_urban_km2           = 38
+|area_total_km2           = 
+|area_land_km2            = 
+<!-- Population   ----------------------->
+|population_as_of               =2016 estimate
+|population_note                =
+|population_blank1_title        = City    
+|population_blank1              = 267462
+|population_density_urban_km2         =auto
+|population_density_sq_mi       =
+|population_footnotes           = <ref>[https://populationstat.com/democratic-republic-of-the-congo/tshikapa PopulationStat.com] Population of Tshikapa, city and urban area</ref>
+|population_urban               = 732000
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank2_title        =Ethnicities
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Central Africa Time]]
+|utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|6|25|S|20|48|E|region:CD|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 485
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              =
+}}

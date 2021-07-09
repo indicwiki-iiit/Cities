@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|image_shield =HUN Encs Címer.svg
+|image_flag = Flag of Encs.svg
+|image_skyline = Encs - Temple.jpg
+|image_caption = Encs Church
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Encs
+|pushpin_mapsize        =
+
+|official_name=Encs
+|map=<!--<div style="position: relative">[[File:HU county Borsod Abauj Zemplen.svg|275px]]<div style="position: absolute; left: 195px; top: 19px">[[File:Red_Dot.gif]]</div></div>-->
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Borsod-Abaúj-Zemplén County|Borsod-Abaúj-Zemplén]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Encs District|Encs]]
+|area_total_km2=31.13
+|population_total=7052
+|population_footnotes=
+|population_as_of=2001
+|population_density_km2=226.53
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=3860
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 46
+|website= {{URL|http://www.encs.hu/}}
+|coordinates            = {{coord|48.33068|21.12188|region:HU|display=inline,title}}
+}}

@@ -1,0 +1,87 @@
+{{Infobox settlement
+| official_name                   = Peekskill, New York
+| settlement_type                 = [[City]]
+| motto                           = <!-- Images -->
+| image_skyline                   = File:Division and Park, Peekskill, NY.jpg
+| imagesize                       = 300px
+| image_caption                   = Downtown Peekskill
+| image_flag                      = 
+| image_seal                      = 
+
+<!-- Maps -->
+| image_map                       = Westchester County New York incorporated and unincorporated areas Peekskill highlighted.svg
+| mapsize                         = 
+| map_caption                     = Location in Westchester County, and the state of New York
+|pushpin_map             = New York#USA
+|pushpin_map_alt         = 
+|pushpin_map_caption     = location of Peekskill in New York State##Location of Peeskill in the US
+|pushpin_label_position  =
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| government_footnotes            = 
+| government_type                 = [[council-manager government|Council-Manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Andre K. Rainey ([[United States Democratic Party|D]])
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Richard A. Leins
+| leader_title2                   = [[City Council|Common Council]]
+| leader_name2                    = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Kathleen E. Talbot ([[United States Democratic Party|D]]) Deputy Mayor
+ |2           = • Vivian McKenzie ([[United States Democratic Party|D]])
+ |3           = • Vanessa B. Agudelo ([[United States Republican Party|D]])
+ |4           = • Colin D. Smith ([[United States Democratic Party|D]])
+ |5           = • Ramon A. Fernandez ([[United States Republican Party|D]])
+}}
+| established_title               = [[Incorporation (municipal government)|Incorporated]]
+| established_date                = 1816 (village)<br/>1940 (city)
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 14.43
+| area_land_km2                   = 11.25
+| area_water_km2                  = 3.18
+| area_total_sq_mi                = 5.57
+| area_land_sq_mi                 = 4.34
+| area_water_sq_mi                = 1.23
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 23,583
+| population_density_km2          = 2159.34
+| population_density_sq_mi        = 5592.77
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 39
+| elevation_ft                    = 128
+| coordinates                     = {{coord|41|17|N|73|55|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 10566
+| area_code                       = [[Area code 914|914]]
+; Exchanges: 734, 736, 737, 739, 788
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-56979
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0960097
+| website                         = {{URL|http://www.cityofpeekskill.com/ }}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 24295
+| name                            = 
+}}

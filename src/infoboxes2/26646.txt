@@ -1,0 +1,38 @@
+{{Infobox Australian place
+| type     = town
+| name     = Glen Innes
+| state    = nsw
+| image    = Glen Innes (6).JPG
+| caption  = Grey Street, Glen Innes
+| coordinates = {{coord|29|45|00|S|151|44|10|E|display=inline,title}}
+| pushpin_label_position = left
+| lga      = Glen Innes Severn Shire Council
+| county   = [[Gough County, New South Wales|Gough]]
+| postcode = 2370
+| est      =  1852
+| timezone     = [[Australian Eastern Standard Time|AEST]]
+| utc          = +10
+| timezone-dst = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst      = +11
+| pop      = 6155
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016 />
+| elevation= 1062
+| maxtemp  = 20.2
+| mintemp  = 7.3
+| rainfall = 856.5
+| stategov = [[Electoral district of Northern Tablelands|Northern Tablelands]]
+| fedgov   = [[Division of New England|New England]]
+| dist1    = 608
+| dir1     = N
+| location1= [[Sydney]]
+| dist2    = 367
+| dir2     = SW
+| location2= [[Brisbane]]
+| dist3    = 161
+| dir3     = W
+| location3= [[Grafton, New South Wales|Grafton]]
+| dist4    = 100
+| dir4     = N
+| location4= [[Armidale, New South Wales|Armidale]]
+}}

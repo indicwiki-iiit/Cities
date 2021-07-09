@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Greenburgh, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Westchester County New York incorporated and unincorporated areas Greenburgh highlighted.svg
+|map_caption              = Location of Greenburgh, New York
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Westchester County, New York|Westchester]]
+|government_footnotes     = 
+|government_type          = Manager-Council
+|leader_title             = Town Supervisor
+|leader_name              = Paul J. Feiner ([[Democratic Party (United States)|D]])
+|leader_title1            = Town Council
+|leader_name1             = {{Collapsible list
+ |title       = Members
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Ken Jones (D)
+ |2           = • Diana Juettner (D)
+ |3           = • Kevin Morgan (D)
+ |4           = • Francis Sheehan (D)
+}}
+|established_title        = Founded
+|established_date         = 1788<ref>{{cite web|url=http://www.greenburghny.com/|title=Home Page - Town of Greenburgh|website=www.greenburghny.com}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 93.54
+|area_land_km2            = 78.50
+|area_water_km2           = 15.03
+|area_total_sq_mi         = 36.11
+|area_land_sq_mi          = 30.31
+|area_water_sq_mi         = 5.80
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 88400
+|population_density_km2   = 1176.00
+|population_density_sq_mi = 3045.83
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 52
+|elevation_ft             = 171
+|coordinates              = {{coord|41|1|55|N|73|49|59|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 10603, 10607, 10530, others
+|area_code                = [[Area code 914|914]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-30367
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979017
+|website                  = {{URL|www.greenburghny.com}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 92316
+}}

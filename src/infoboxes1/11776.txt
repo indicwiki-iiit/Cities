@@ -1,0 +1,97 @@
+{{Infobox country
+| conventional_long_name = Republic of Moldova
+| common_name = Moldova
+| native_name = {{native name|ro|Republica Moldova}}
+| image_flag = Flag of Moldova.svg
+| image_coat = Coat of arms of Moldova.svg
+| national_anthem = "[[Limba noastră]]"<br />({{Lang-en|"Our language"}})<br /><center>[[File:Imnul Republicii Moldova US NAVY.ogg]]</center>
+| image_map = Location Moldova Europe.png
+| map_caption = {{nowrap|Location of Moldova in Europe (green)<br />and its uncontrolled territory of [[Transnistria]] (light green)}}
+| image_map2 = 
+| capital = [[Chișinău]]
+| coordinates = {{Coord|47|0|N|28|55|E|type:city}}
+| largest_city = capital
+| official_languages = [[Romanian language|Romanian]]<ref name="MCC">{{cite web| url=http://constcourt.md/libview.php?l=en&idc=7&id=512&t=/Overview/Press-Service/News/The-text-of-the-Declaration-of-Independence-prevails-over-the-text-of-the-Constitution| title=The text of the Declaration of Independence prevails over the text of the Constitution| publisher=Constitutional Court of Moldova| date=5 December 2013| access-date=13 June 2014}}</ref><ref name="congress">{{cite web| url=https://www.loc.gov/law/foreign-news/article/moldova-romanian-recognized-as-the-official-language/| title=Moldova: Romanian Recognized as the Official Language| publisher=[[Law Library of Congress]]| date=23 December 2013| access-date=13 June 2014| last=Roudik| first=Peter}}</ref>
+| languages_type = Recognised minority<br />languages<!--Protected and/or co-official (regional) languages-->
+| languages = {{hlist | [[Bulgarian language|Bulgarian]] | [[Gagauz language|Gagauz]] | [[Russian language|Russian]] | [[Ukrainian language|Ukrainian]]}} <ref>{{cite web |url=https://deschide.md/ro/stiri/politic/78929/Pre%C8%99edintele-CCM-Constitu%C8%9Bia-nu-confer%C4%83-limbii-ruse-un-statut-deosebit-de-cel-al-altor-limbi-minoritare.htm |title= Președintele CCM: Constituția nu conferă limbii ruse un statut deosebit de cel al altor limbi minoritare |publisher=Deschide.md |access-date=22 January 2021}}</ref><ref>{{cite web |url=https://www.moldpres.md/news/2021/01/21/21000400 |title=Chişinău, (21.01.2021) Judecătorii constituționali au decis că limba rusă nu va avea statutul de limbă de comunicare interetnică pe teritoriul Republicii Moldova |publisher=Moldpres.md |access-date=22 January 2021}}</ref><ref>{{cite web |url=https://protv.md/politic/presedintele-cc-domnica-manole-explica-de-ce-a-fost-anulata-legea-cu-privire-la-statutul-special-pentru-limba-rusa-limba-de-stat-a-rm-este-limba-romana-video---2554643.html |title= Președintele CC Domnica Manole, explică de ce a fost anulată legea cu privire la statutul special pentru limbia rusă |publisher=ProTv.md |access-date=22 January 2021}}</ref>
+| ethnic_groups = 75.1% [[Moldovans|Moldovan]]{{efn|There is a [[Controversy over ethnic and linguistic identity in Moldova|controversy]] over whether Moldovans' self-identification constitutes an ethnic group distinct and apart from Romanians, or a subset.}}<br /> 7.0% [[Romanians|Romanian]]<br />6.6% [[Ukrainians|Ukrainian]]<br />4.6% [[Gagauz people|Gagauz]]<br />4.1% [[Russians|Russian]]<br />1.9% [[Bulgarians|Bulgarian]]<br />0.36% [[Romani people|Romani]]<br />0.07% [[Poles]]<br />0.89% Other
+| ethnic_groups_year = 2014; excluding [[Transnistria]]
+| religion               = 91.8% [[Christianity]]<br />—90.1% [[Eastern Orthodoxy in Moldova|Eastern Orthodoxy]]<br />—1.7% Other [[Christians|Christian]]<br />5.5% [[Irreligion|No religion]]<br />2.4% Unspecified<br />0.3% [[Religion in Moldova|Other]]<ref>{{Cite web|url=http://recensamant.statistica.md/en|title=Recensamântul Populației si al Locuințelor 2014|website=recensamant.statistica.md|access-date=2018-08-06}}</ref>
+| religion_year          = 2014; excluding [[Transnistria]]
+| demonym = [[Moldovans|Moldovan]]
+| government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitution]]al [[secular]] [[republic]]
+| leader_title1 = [[President of Moldova|President]]
+| leader_name1 = [[Maia Sandu]] 
+| leader_title2 = [[Prime Minister of Moldova|Prime Minister]]
+| leader_name2 = [[Aureliu Ciocoi]] (acting) 
+| leader_title3 = [[President of the Moldovan Parliament|President of the Parliament]]
+| leader_name3 = Vacant
+| legislature = [[Parliament of the Republic of Moldova|Parliament]]
+| sovereignty_type = [[History of Moldova|Formation]]
+| established_event1 = [[Moldavia|Principality of Moldavia]]
+| established_date1 = 1346
+| established_event2 = [[Bessarabia Governorate]]
+| established_date2 = 1812
+| established_event3 = [[Moldavian Democratic Republic]]
+| established_date3 = 15 December 1917
+| established_event4 = [[Kingdom of Romania|Union with Romania]]
+| established_date4 = 9 April 1918
+| established_event5 = [[Moldavian Autonomous Soviet Socialist Republic|Moldavian ASSR]]
+| established_date5 = 12 October 1924
+| established_event6 = [[Moldavian Soviet Socialist Republic|Moldavian SSR]]
+| established_date6 = 2 August 1940
+| established_event7 = [[Moldovan Declaration of Independence|{{nowrap|Independence from}} the Soviet Union]]
+| established_date7 = 27 August 1991<sup>b</sup>
+| established_event8 = [[United Nations Security Council Resolution 739|Admitted to the]] [[United Nations]]
+| established_date8 = 2 March 1992
+| established_event9 = [[Constitution of Moldova|Constitution]] adopted
+| established_date9 = 29 July 1994
+| area_label = Including [[Transnistria]]
+| area_km2 = 33,843.5<ref>{{Cite web|url=https://moldova.md/ro/content/geografie|title=Republica Moldova - Geografie|website=Moldova.md}}</ref>
+| area_rank = 135th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi = 13,067 <!-- Do not remove per [[WP:MOSNUM]] -->
+| area_label2 = Excluding Transnistria
+| area_data2 = {{convert|30,334|km2|abbr=on}} {{efn|The ''[[de jure]]'' area, accepted by the Moldovan government and the [[Tiraspol]] authorities for [[Transnistria]] is 3,509.6 square kilometers.<ref>{{Cite web|url=https://www.citypopulation.de/en/moldova/transnistria/admin/|title=MOLDOVA: Transnistria (Pridnestrovie)|website=Citypopulation.de}}</ref> The ''[[de facto]]'' area administered by Transnistria is 3,653 square kilometers, while the area claimed by Transnistria is 4,163 square kilometers.}}
+| percent_water = 1.4  {{small|(including Transnistria)}}
+| population_estimate = {{decrease}} 2,597,100 <ref>{{Cite web|url=https://statistica.gov.md/public/files/publicatii_electronice/Moldova_in_cifre/2021/Breviar_2021_rom.pdf|title=Populaţia cu reședință obișnuită, la 1 ianuarie 2021 (pg.12)|publisher=BNS Rep.Moldova|website=Statistica.gov.md}}</ref><br />{{small|(excludes Transnistria)}}
+| population_census =  
+| population_census_year = 
+| population_estimate_year = 1 January 2021
+| population_estimate_rank = 138nd
+| population_density_km2 = 85.5 <ref>[https://statistica.gov.md/public/files/publicatii_electronice/Moldova_in_cifre/2021/Breviar_2021_rom.pdf BNS:Official estimate (pg.8)]</ref>
+| population_density_sq_mi = 234 <!-- Do not remove per [[WP:MOSNUM]] -->
+| population_density_rank = 125th
+|GDP_PPP = {{increase}} $35.906	billion<ref name="IMFWEORO"/>
+|GDP_PPP_year = 2021
+|GDP_PPP_rank = 134st
+|GDP_PPP_per_capita = {{increase}} $13,879<ref name="IMFWEORO"/>
+|GDP_PPP_per_capita_rank = 118th
+|GDP_nominal = {{increase}} $11.998 billion<ref name="IMFWEORO">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2021/April |title=World Economic Outlook Database, April 2021 Edition |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=16 April 2021}}</ref>
+|GDP_nominal_year = 2021
+|GDP_nominal_rank = 144nd
+|GDP_nominal_per_capita = {{increase}} $4,638<ref name="IMFWEORO"/>
+|GDP_nominal_per_capita_rank = 123th
+| Gini = 26.8 <!-- number only -->
+| Gini_year = 2014
+| Gini_change = decrease <!-- increase/decrease/steady -->
+| Gini_ref = <ref name="GINI">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI?locations=MD |title=GINI index (World Bank estimate) |publisher=The World Bank |access-date=9 November 2016}}</ref>
+| Gini_rank = 
+| HDI = 0.750 <!-- number only -->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase <!-- increase/decrease/steady -->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/en/content/2020-human-development-index-ranking|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=15 December 2020|access-date=15 December 2020|format=PDF}}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| HDI_rank = 90th
+| currency = [[Moldovan leu]]
+| currency_code = MDL
+| time_zone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| utc_offset_DST = +3
+| time_zone_DST = [[Eastern European Summer Time|EEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Moldova|+373]]
+| cctld = [[.md]]
+| official_website = {{Official URL}}
+| footnote_a = As determined by the [[Moldovan Declaration of Independence]], which the Constitutional court of Moldova found to take precedence over Article 13 of the [[Constitution of Moldova (1994)|Constitution]], which uses the name "[[Moldovan language|Moldovan]]".<ref name="MCC"/>
+| footnote_b = Date of proclamation. Independence subsequently finalized with the [[Dissolution of the Soviet Union|dissolution of the USSR]] in December 1991.
+| today = 
+}}

@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                    = Saint-Constant
+| official_name           = 
+| settlement_type         = [[City (Quebec)|City]]
+| image_skyline           = Anciens presbytères de Saint-Constant - 6.jpg
+| image_caption           = 
+| image_map               = Saint-Constant Quebec location diagram.PNG
+| map_caption             = Location within Roussillon RCM
+| pushpin_map             = Canada Southern Quebec
+| pushpin_map_caption     = Location in southern Quebec
+| coordinates             = {{coord|region:CA-QC|format=dms|display=inline,title}}<ref name="toponymie"/>
+| subdivision_type        = Country
+| subdivision_name        = [[Canada]]
+| subdivision_type1       = [[Provinces and territories of Canada|Province]]
+| subdivision_name1       = [[Quebec]]
+| subdivision_type2       = [[Region (Quebec)|Region]]
+| subdivision_name2       = [[Montérégie]]
+| subdivision_type3       = [[Regional county municipality|RCM]]
+| subdivision_name3       = [[Roussillon Regional County Municipality|Roussillon]]
+| established_title       = 
+| established_date        = 
+| established_title1      = Constituted
+| established_date1       = July 1, 1855
+| government_footnotes    = <ref name="mamrot">[http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/67035/ Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Saint-Constant]</ref><ref>{{CanRiding|ID=1879|name=Châteauguay&ndash;Saint-Constant, Quebec}}</ref>
+| leader_title            = Mayor
+| leader_name             = Jean-Claude Boyer
+| leader_title1           = [[List of Canadian federal electoral districts|Federal riding]]
+| leader_name1            = [[La Prairie (electoral district)|La Prairie]]
+| leader_title2           = [[List of Quebec provincial electoral districts|Prov. riding]]
+| leader_name2            = [[Sanguinet (provincial electoral district)|Sanguinet]]
+| area_footnotes          = <ref name="mamrot"/><ref name="cp2011"/><!-- defined by template:Canada census -->
+| area_total_km2          = 57.30
+| area_land_km2           = 56.83
+| area_water_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = <ref>http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2467035&Geo2=PR&Code2=35&Data=Count&SearchText=Saint-Constant&SearchType=Begins&SearchPR=01&B1=All&TABID=1</ref>
+| population_total        = 27359
+| population_as_of        = [[Canada 2016 Census|2016]]
+| population_density_km2  = 478.9
+| population_blank1_title = Pop&nbsp;{{small|2011-2016}}
+| population_blank1       = {{increase}} 9.5%
+| population_blank2_title = Dwellings
+| population_blank2       = 10111
+| timezone                = [[Eastern Time Zone|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Time Zone|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        = [[Canadian postal code|Postal code(s)]]
+| postal_code             = [[List of J postal codes of Canada|J5A]]
+| area_code               = [[Area codes 450 and 579|450 and 579]]
+| blank_name              = Highways <br> {{jct|state=QC|A|30}} <br/> {{jct|state=QC|A|730}}
+| blank_info              = <br/> {{jct|state=QC|QC|132}} <br/> {{jct|state=QC|QC|209}}
+| website                 = {{PH wikidata|website}}
+}}

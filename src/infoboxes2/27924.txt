@@ -1,0 +1,83 @@
+{{Infobox settlement
+|name                     = Wappingers Falls, New York
+|settlement_type          = [[Administrative divisions of New York#Village|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Downtown Wappingers Falls, NY.jpg
+|imagesize                = 300px
+|image_caption            = Downtown Wappingers Falls
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+|image_map                = Dutchess County New York incorporated areas Wappingers Falls highlighted.svg
+|mapsize                  = 220px
+|map_caption              = Location of Wappingers Falls, New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Dutchess County, New York|Dutchess]]
+|subdivision_type3        = [[Town (New York)|Towns]]
+|subdivision_name3        = [[Wappinger, New York|Wappinger]], [[Poughkeepsie (town), New York|Poughkeepsie]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = 1871
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 3.11
+|area_land_km2            = 2.90
+|area_water_km2           = 0.20
+|area_total_sq_mi         = 1.20
+|area_land_sq_mi          = 1.12
+|area_water_sq_mi         = 0.08
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5522
+|population_density_km2   = 1909.60
+|population_density_sq_mi = 4945.58
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|elevation_footnotes      = 
+|elevation_m              = 47
+|elevation_ft             = 154
+|coordinates              = {{coord|41|35|57|N|73|55|5|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 12590
+|area_code                = [[Area code 845|845]] Exchanges: 296, 297, 298.
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-78168<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0968775<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.wappingersfallsny.gov}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5544
+}}

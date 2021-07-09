@@ -1,0 +1,31 @@
+{{Infobox spacecraft class
+| name          = Shenzhou spacecraft
+| image         = Post S-7 Shenzhou spacecraft.png
+| caption       = Diagram of the post-Shenzhou 7 spacecraft
+
+| manufacturer  = 
+| country       = China
+| applications  = Crewed spaceflight
+| orbits        = [[Low earth orbit|Low Earth]]
+| operator      = [[CNSA]]
+| lifetime      = 20 days {{Citation needed|date=February 2011}}
+| status        = In service
+| built         = 12
+| orders        = 
+| launched      = 12
+| operational   = 1
+| retired       = 
+| failed        = 0
+| first         = [[Shenzhou 1]], 1999
+| last          = [[Shenzhou 12]], 2021
+| lastretired   =
+
+|autoconvert    = off
+| mass          = 7840 kg
+| volume        = 14.00 m<sup>3</sup>
+| power         = 
+| batteries     = 
+| equipment     = 
+| dimensions    = 9.25 x 2.8 m
+| crew-capacity = 3
+}}

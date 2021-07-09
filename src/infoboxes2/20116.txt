@@ -1,0 +1,37 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name                   = Fót
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|image_skyline          = {{nowrap|[[File:Római katolikus templom (7024. számú műemlék) 2.jpg|250px]]<br/>[[File:Volt Károlyi kastély (7023. számú műemlék).jpg|133px]][[File:Feltámadás angyala-szobor, katolikus templom, Fót.jpg|117px]]}}
+|image_caption          = 
+|image_shield           = HUN Fót Címer.svg
+|image_flag             = Flag of Fót.svg
+|pushpin_map            = Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+|pushpin_map1           = Hungary Pest
+|pushpin_map_caption1   = Location of Fót within Pest County
+|pushpin_mapsize1       = 
+|coordinates            = {{coord|47.61812|19.19032|region:HU|display=inline,title}}
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|subdivision_type1      = [[Counties of Hungary|County]]
+|subdivision_name1      = [[Pest County|Pest]]
+|subdivision_type2      = [[Districts of Hungary|District]]
+|subdivision_name2      = [[Dunakeszi District|Dunakeszi]]
+|area_footnotes         = <ref name="KSH">{{cite web |url=http://www.ksh.hu/apps/!cp.hnt2.telep?nn=32610 |title=Official statistics |publisher=[[Hungarian Central Statistical Office]] |language=hu |access-date=2013-02-06}}</ref>
+|area_total_km2         = 37.42
+|population_footnotes   = <ref name="KSH" />
+|population_total       = 
+|population_as_of       = 2012
+|population_density_km2 = 506.9
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|postal_code_type       = [[Postal codes in Hungary|Postal code]]
+|postal_code            = 2151
+|area_code_type         = [[Telephone numbers in Hungary|Area code]]
+|area_code              = (+36) 27
+|website                = {{URL|http://www.fot.hu/}}
+}}

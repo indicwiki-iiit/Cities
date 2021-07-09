@@ -1,0 +1,35 @@
+{{Infobox settlement
+|name                    =Jimaní
+| image_flag = 
+| image_shield = Escudo del Municipio Jimaní.png
+|mapsize                 =
+|pushpin_map             =Dominican Republic
+|pushpin_relief          = 1
+|coordinates             = {{coord|18|29|24|N|71|51|0|W|region:DO|display=inline}}
+|subdivision_type        =Country
+|subdivision_name        =Dominican Republic
+|subdivision_type1       =[[Provinces of the Dominican Republic|Province]]
+|subdivision_name1       =[[Independencia Province|Independencia]]
+|established_title       =
+|established_date        =
+|established_title2      =Municipality since
+|established_date2       =1945
+|total_type              =Total
+|area_footnotes          =<ref name=listado/>
+|area_total_km2          =472.5
+|elevation_footnotes     =<ref name=Delafuente/>
+|elevation_m             =31
+|population_total        =13752
+|population_as_of        =2012
+|population_footnotes    =<ref name=censo/>
+|population_density_km2  =auto
+|population_urban        =7155
+|population_blank1_title =
+|population_blank1       =
+|blank_name              =Distance to<br />&nbsp;– [[Santo Domingo]]
+|blank_info              =<br />280 km
+|blank1_name             =[[Municipalities of the Dominican Republic|Municipal Districts]]
+|blank1_info             =2
+|blank2_name             = [[Köppen climate classification|Climate]]
+|blank2_info             = [[Tropical savanna climate|Aw]]
+}}

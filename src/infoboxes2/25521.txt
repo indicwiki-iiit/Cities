@@ -1,0 +1,32 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = Country
+|subdivision_name       = {{HUN}}
+|image_skyline = Saint Martin church and Koros river bed, Kunsztmarton hu.jpg
+|image_caption = View of Kunszentmarton's centre with Körös
+|image_shield = HUN Kunszentmárton Címer.svg
+|image_flag = Flag of Kunszentmárton.svg
+|pushpin_label_position = top
+|coordinates={{coord|46|50|28|N|20|17|14|E|region:HU|display=inline,title}}
+|pushpin_map            = Hungary
+|pushpin_map_caption=Location of Kunszentmárton
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Kunszentmárton
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Jász-Nagykun-Szolnok County|Jász-Nagykun-Szolnok]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Kunszentmárton District|Kunszentmárton]]
+|area_total_km2=143.65
+|population_total=8034 
+|population_footnotes=<ref>[https://www.ksh.hu/docs/hun/hnk/hnk_2018.pdf KSH, 2018]</ref>
+|population_as_of=2006
+|population_density_km2=60.34
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=5440
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 56
+|website={{URL|http://www.kunszentmarton.hu/}}
+}}

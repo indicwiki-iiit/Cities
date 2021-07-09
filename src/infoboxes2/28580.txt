@@ -1,0 +1,58 @@
+{{Infobox Australian place
+| type         = town
+| name         = Yulara
+| state        = nt
+| image        = Yulara_from_helicopter_(August_2004).jpg
+| caption      = Yulara from helicopter in August 2004
+| coordinates  = {{coord|25.2069|S|130.971|E|format=dms|display=inline,title}}
+| coord_ref =<ref name="NT-PNR-Town">{{cite web |title=Place Names Register Extract for the "Town of Yulara" |url=https://www.ntlis.nt.gov.au/placenames/view.jsp?id=22471 |website=NT Place Names Register |publisher=Northern Territory Government |access-date=15 June 2019}}</ref>
+
+| pop          = 1099
+| pop_year     = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census">{{Census 2016 AUS|id=SSC70302 |name=Yulara (State Suburb)|access-date=30 August 2018|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License]</ref>
+
+| established              = 10 August 1976 (town)<br/>4 April 2007 (locality)
+| established_footnotes    = <ref name=AGG-1976>{{cite news |last1=Adermann  |first1=Evan  |url=http://nla.gov.au/nla.news-article240843436 |title=THE NORTHERN TERRITORY OF AUSTRALIA Crown Lands Ordinance PROCLAMATION (re the Town of Yulara) |newspaper=[[Australian Government Gazette. General]] |issue=G32 |location=Australia |date=10 August 1976 |access-date=29 April 2019 |page=3 |via=National Library of Australia}}</ref><ref name="NT-PNR-locality">{{cite web |title=Place Names Register Extract for "Yulara" |url=https://www.ntlis.nt.gov.au/placenames/view.jsp?id=22281 |website=NT Place Names Register |publisher=Northern Territory Government |access-date=15 June 2019}}</ref>
+| abolished                = 
+| gazetted                 = 
+| postcode                 = 0872<ref name=postcode>{{cite web|title= Yulara Postcode|url=https://www.postcode-finders.com.au/nt-yulara-postcode |publisher= postcode-finders.com.au |access-date=15 June 2019}}</ref>
+| elevation                =  492
+| elevation_footnotes      = (airport)<ref name="BoM-Yulara"/>
+| area                     = 104
+| area_footnotes           = <ref name=AGG-1976/>
+| timezone = [[UTC9:30|ACST]]
+| utc = +9:30
+
+| dist1        = 1421
+| dir1                     = S
+| location1    = [[Darwin City, Northern Territory|Darwin City]]
+| dist2        = 428 
+| dir2                     = 
+| location2    = [[Alice Springs]]
+| dist3                    = 18
+| dir3                     = 
+| location3                =[[Uluru]]
+
+| lga          =  	Yulara - Ayers Rock Resort <ref>{{cite web |title=Place Names Register Extract for "Connellan Airport" |url=https://www.ntlis.nt.gov.au/placenames/view.jsp?id=21622 |website=NT Place Names Register |publisher=Northern Territory Government |access-date=15 June 2019}}</ref>
+| region = 
+| stategov     = [[Electoral division of Gwoja|Gwoja]]
+| fedgov = [[division of Lingiari|Lingiari]]<ref name=AEC>{{cite web|title=Federal electoral division of Lingiari|url= https://www.aec.gov.au/profiles/nt/lingiari.htm |publisher=Australian Electoral Commission|access-date=16 June 2019}}</ref>
+
+| maxtemp                  = 30.0
+| maxtemp_footnotes        = <ref name="BoM-Yulara"/>
+| mintemp                  = 14.0
+| mintemp_footnotes        = <ref name="BoM-Yulara"/>
+| rainfall                 = 285.2
+| rainfall_footnotes       = <ref name="BoM-Yulara"/>
+
+| near-n                   = [[Petermann, Northern Territory|Petermann]]
+| near-ne                  = [[Petermann, Northern Territory|Petermann]]
+| near-e                   = [[Petermann, Northern Territory|Petermann]]
+| near-se                  = [[Petermann, Northern Territory|Petermann]]
+| near-s                   = [[Petermann, Northern Territory|Petermann]]
+| near-sw                  = [[Petermann, Northern Territory|Petermann]]
+| near-w                   = [[Petermann, Northern Territory|Petermann]]
+| near-nw                  = [[Petermann, Northern Territory|Petermann]]
+| near                     =  
+| footnotes = Locations<ref name=postcode/><ref name=Hema07/><br/>Adjoining localities<ref name="MacDonnell-map">{{cite web |title=McDonnell Shire (sic) Localities (map) |url=https://placenames.nt.gov.au/__data/assets/pdf_file/0009/404775/MacDonnellA3map2_000.pdf |publisher=Northern Territory Government |access-date=17 June 2019|date=29 October 1997}}</ref>
+}}

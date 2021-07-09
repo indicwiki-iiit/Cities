@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = Chowchilla, California
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Central Valley sunset. -chowchilla -railroad -tracks (14841197006).jpg
+|imagesize                = 
+|image_caption            = Railroad tracks passing through Chowchilla
+|image_seal               = 
+|image_map                = File:Madera County California Incorporated and Unincorporated areas Chowchilla Highlighted 0613294.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Chowchilla in Madera County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_name1        = {{flag|California}}
+|subdivision_name2        = {{flagicon image|Flag of Madera County, California.png}} [[Madera County, California|Madera]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = February 7, 1923<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Microsoft Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 11.13
+| area_land_sq_mi         = 11.09
+| area_water_sq_mi        = 0.05
+| area_total_km2          = 28.83
+| area_land_km2           = 28.71
+| area_water_km2          = 0.12
+| area_water_percent      = 0
+| area_note               = 
+|elevation_ft             = 240
+|elevation_m              = 73
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 18720
+|population_metro         = 
+|population_density_km2   = 637.68
+|population_density_sq_mi = 1651.63
+|coordinates              = {{coord|37|7|N|120|16|W|region:US-CA|display=inline,title}}
+|elevation_footnotes      = <ref name=gnis>{{GNIS|277601}}</ref>
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = −8
+|timezone_DST             = PDT
+|utc_offset_DST           = −7
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 93610
+|area_code                = [[Area code 559|559]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|13294}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277601}}, {{GNIS 4|2409459}}
+|website                  = {{URL|https://www.cityofchowchilla.org/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 18310
+}}

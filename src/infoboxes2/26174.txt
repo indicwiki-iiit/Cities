@@ -1,0 +1,27 @@
+{{Infobox Australian place | type = suburb
+|name     = Cannington
+|city     = [[Perth, Western Australia|Perth]]
+|state    = wa
+|image    = kent st weir.jpg
+|caption  = Kent Street Weir.
+|lga      = City of Canning
+| alternative_location_map = Australia Western Australia metropolitan Perth
+|coordinates = {{coord|32.017|S|115.934|E|display=inline,title}}
+|area     = 4.0
+|postcode = 6107
+|pop      = 5,929| pop_year = {{CensusAU|2016}}
+|pop_footnotes = <ref name=abs>{{Census 2016 AUS|id=SSC50245|name=Cannington (State Suburb)|quick=on|accessdate=2020-03-24}}</ref>
+|dist1    = 13
+|location1= [[Perth, Western Australia]]
+|est      = 1882
+|fedgov   = [[Division of Swan|Swan]]
+|stategov = [[Electoral district of Cannington|Cannington]]
+|near-nw = [[Wilson, Western Australia|Wilson]]
+|near-n  = [[Bentley, Western Australia|Bentley]]
+|near-ne = [[Queens Park, Western Australia|Queens Park]]<br/>[[East Cannington, Western Australia|East Cannington]]
+|near-w  = [[Lynwood, Western Australia|Lynwood]]
+|near-e  = [[Welshpool, Western Australia|Welshpool]]<br/>[[East Cannington, Western Australia|East Cannington]]
+|near-sw = [[Langford, Western Australia|Langford]]
+|near-s  = [[Kenwick, Western Australia|Kenwick]]
+|near-se = [[Beckenham, Western Australia|Beckenham]]
+}}

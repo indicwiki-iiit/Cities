@@ -1,0 +1,20 @@
+{{Infobox UK place
+|country =                  England
+|static_image_name =        Market Place, Brigg.jpg
+|static_image_caption =     Brigg Market Place
+|coordinates = {{coord|53.5529|-0.4850|display=inline,title}}
+|official_name =            Brigg
+|population =               5,626
+|population_ref =           ([[United Kingdom Census 2011|2011 census]])
+|unitary_england =          [[North Lincolnshire]]
+|lieutenancy_england =      [[Lincolnshire]]
+|region =                   Yorkshire and the Humber
+|constituency_westminster = [[Brigg and Goole (UK Parliament constituency)|Brigg and Goole]]
+|post_town =                BRIGG
+|postcode_district =        DN20
+|postcode_area =            DN
+|dial_code =                01652
+|os_grid_reference =        TA003073
+| london_distance_mi=       140<!-- straight line per MOS – constant and comparable with other place distances -->
+| london_direction=         S
+}}

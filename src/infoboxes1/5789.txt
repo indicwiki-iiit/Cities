@@ -1,0 +1,128 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                            = {{raise|0.2em|Jincheng}}
+|native_name                     = {{lower|0.1em|晋城市}}
+|native_name_lang = zh-Hans
+|other_name                      = Tsincheng
+|official_name                   = 
+|nickname                        = 
+|settlement_type                 = [[Prefecture-level city]]
+|total_type                      = <!-- to set a non-standard label for total area and population rows -->
+|motto                           = 
+<!-- images and maps  ----------->
+|image_skyline                   = Huangcheng Xiangfu 2.JPG
+|imagesize                       = 
+|image_caption                   = The [[Tower of Rivers and Mountains]] overlooking the [[House of the Huangcheng Chancellor]]
+|image_seal                      = 
+|seal_size                       = 
+|image_shield                    = 
+|shield_size                     = 
+|image_blank_emblem              = 
+|blank_emblem_type               = 
+|blank_emblem_size               = 
+|image_map                       = Location of Jincheng Prefecture within Shanxi (China).png
+|mapsize                         =  
+|map_caption                     = Location of Jincheng City jurisdiction in Shanxi
+|image_map1                      = 
+|mapsize1                        = 
+|map_caption1                    = 
+|image_dot_map                   = 
+|dot_mapsize                     = 
+|dot_map_caption                 = 
+|dot_x                           = 
+|dot_y                           = 
+|pushpin_map            = Shanxi
+|pushpin_map_caption    = Location of the city center in Shanxi
+|pushpin_label_position = right
+|pushpin_mapsize        = 240
+|subdivision_type                = Country
+|subdivision_name                = People's Republic of China
+|subdivision_type1               = [[Province of China|Province]]
+|subdivision_name1               = [[Shanxi]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+|subdivision_name2      = 6
+|seat_type = Municipal seat
+|seat = [[Chengqu, Jincheng|Chengqu]]
+|parts_type                      = 
+|parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                           = <!-- parts text, or header for parts list -->
+|p1                              = 
+|p2                              = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes            = 
+|government_type = [[Prefecture-level city]]
+|leader_title = [[Communist Party of China|CPC]] Jincheng Secretary
+|leader_name = Zhang Jiuping ({{lang|zh-hans|张九萍}})
+|leader_title1 = Mayor
+|leader_name1 = Wang Qingxian ({{lang|zh-hans|王清宪}})
+|leader_title2                   = 
+|leader_name2                    = 
+|leader_title3                   = 
+|leader_name3                    = 
+|leader_title4                   = 
+|leader_name4                    = 
+|established_title               = <!-- Settled -->
+|established_date                = 
+|established_title1              = <!-- Incorporated (town) -->
+|established_date1               = 
+|established_title2              = <!-- Incorporated (city) --> 
+|established_date2               = 
+|established_title3              =  
+|established_date3               = 
+|founder                         = 
+|named_for                       = 
+<!-- Area    --------------------->
+|area_magnitude                  = <!-- use only to set a special wikilink --> 
+|unit_pref                       = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes                  = 
+|area_total_km2                  = 9490<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2                  = 
+|area_water_percent              = 
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 2164.0 
+| area_urban_km2          = 143.00 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+
+<!-- Elevation -------------------------->
+|elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+|elevation_m                     = 
+|elevation_ft                    = 
+|elevation_max_m                 = 
+|elevation_max_ft                = 
+|elevation_min_m                 = 
+|elevation_min_ft                = 
+<!-- Population   ----------------------->
+|population_footnotes            = <ref name="Census2010">{{cite news |language=zh-hans |url=http://www.jconline.cn/Contents/Channel_6917/2011/0513/653508/content_653508.htm |script-title=zh:晋城市第六次人口普查结果公布 |script-work=zh:晋城在线 |trans-work=Jincheng Online |access-date=30 August 2012 |title=Archived copy |archive-url=https://web.archive.org/web/20120625062633/http://www.jconline.cn/Contents/Channel_6917/2011/0513/653508/content_653508.htm |archive-date=25 June 2012 |url-status=dead}}</ref>
+|population_note                 = 
+|population_total                = 2,279,151
+|population_density_km2          = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_density_metro_km2    = 
+|population_density_urban_km2    = auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 1067000
+| population_urban        = 493000
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+
+<!-- General information  --------------->
+|timezone                        = [[China Standard Time|China Standard]]
+|utc_offset                      = +8
+|coor_pinpoint = Jincheng municipal government
+|coordinates                     = {{coord|35.491|N|112.852|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+
+<!-- Location ------------------>
+|postal_code_type                = [[Postal code of China|Postal code]]
+|postal_code                     = 048000
+|area_code                       = 0356
+|blank_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank_info             ={{lang|zh-cn|晋E}}
+|blank1_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank1_info            =140500
+|iso_code = [[ISO 3166-2:CN|CN-SX-05]]
+|website                         = [https://web.archive.org/web/20140523230502/http://www.jconline.cn/english/ www.JCOnline.cn]
+|footnotes              = <center><big>'''City [[tree]]s'''</big><br /> [[Cedrus]] </center>
+<center><big>'''City [[flower]]s'''</big><br /> [[Lagerstroemia indica]]</center>
+}}

@@ -1,0 +1,32 @@
+{{Infobox weapon|is_vehicle=yes| name=ZSU-23-4 "Shilka"
+| image= ЗСУ-23-4_«Шилка»_в_Музее_отечественной_военной_истории.jpg
+| image_size = 250
+|caption=A ZSU-23-4 on display at the Museum of Russian Military History
+|type=[[Self-propelled anti-aircraft weapon|Self-propelled anti-aircraft gun]]
+|origin=Soviet Union
+|service=1960–present
+|used_by=See [[ZSU-23-4#Operators|Operators]]
+|wars=See [[ZSU-23-4#Combat history|Combat history]]
+|designer=
+|design_date=1957–1960
+|production_date=1964–1982
+|manufacturer=[[Mytishchi Machine-Building Plant]] (MMZ)
+|unit_cost={{currency|357000|USD}} (export price to [[Libya]], 1972/73)<ref>{{Cite journal|last=Efrat|first=Moshe|date=1983|title=The Economics of Soviet Arms Transfers to the Third World. A Case Study: Egypt|url=https://www.jstor.org/stable/151253|journal=Soviet Studies|volume=35|issue=4|pages=437–456|issn=0038-5859}}</ref>
+|number=About 6,500<ref name="militaryparitet"/>
+|length={{convert|6.535| m|ftin|abbr=on}}<ref name="otvaga2004">{{cite web |url=http://otvaga2004.narod.ru/otvaga2004/wars1/wars_02.htm |title=Archived copy |access-date=4 May 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071225194735/http://www.otvaga2004.narod.ru/otvaga2004/wars1/wars_02.htm |archive-date=25 December 2007  }} В Боях На</ref>
+|width={{convert|3.125| m|ftin|abbr=on}}<ref name="otvaga2004"/>
+|height={{convert|2.576 |m|ftin|abbr=on}}<br>{{convert|3.572 |m|ftin|abbr=on}} with radar elevated<ref name="Шилка">http://www.army.lv/?s=703&id=65&v=1#info {{webarchive|url=https://web.archive.org/web/20081210170515/http://www.army.lv/?s=703&id=65&v=1 |date=10 December 2008 }} ЗСУ-23-4</ref><ref>{{cite web|url=http://www.svzriu.ru/teh.php?type=shilka|title=СВЗРИУ<!-- Bot generated title -->|access-date=22 May 2017|url-status=dead|archive-url=https://web.archive.org/web/20081208005931/http://www.svzriu.ru/teh.php?type=shilka|archive-date=8 December 2008}}</ref>
+|weight=19 [[tonne]]s<ref name="otvaga2004" /><ref name="Шилка" />
+|suspension=Individual torsion bar <!--with hydraulic shock absorbers of 1st, 5th left and 6th right road wheels -->
+|clearance={{convert|375| mm|in|abbr=on}}<ref name="otvaga2004" />
+|speed={{convert|50| km/h|abbr=on}} road<br>{{convert|30|km/h|abbr=on}} off-road<ref name="http://airbase.ru/hangar/weapons/zsu-23-4/index.htm">[http://airbase.ru/hangar/weapons/zsu-23-4/index.htm ZSU-23-4 'Shilka'<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20081207191658/http://airbase.ru/hangar/weapons/zsu-23-4/index.htm |date=7 December 2008 }}</ref>
+|fuel_capacity= 515 [[Litre|l]]<ref name="pzaku">{{cite web|url=http://pzaku.net/homepage/15/|title=ПВЗРККУ: ЗСУ-23-4|access-date=22 May 2017|url-status=dead|archive-url=https://web.archive.org/web/20100525111446/http://pzaku.net/homepage/15/|archive-date=25 May 2010}}</ref>
+|vehicle_range=450 km (road), 300&nbsp;km (off-road)<ref name="http://airbase.ru/hangar/weapons/zsu-23-4/index.htm"/>
+|primary_armament=4 × 23 mm 2A7 autocannons (AZP-23 "Amur" quad automatic anti-aircraft gun), ammunition 2,000 rounds
+|secondary_armament=
+|armour=Welded steel, {{convert|9.2|mm|abbr=on}} turret, up to 15 mm hull
+|engine=V-6R, 6-cylinder 4-stroke airless-injection water-cooled 20-litre diesel
+|crew=4 (commander, driver, gunner, radar operator)
+|engine_power=280 hp (209 kW) at 2,000&nbsp;rpm<ref name=vif2>{{cite web |url=http://armoured.vif2.ru/zsu-23-4.htm |title=Archived copy |access-date=15 May 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080105065635/http://armoured.vif2.ru/zsu-23-4.htm |archive-date=5 January 2008  }} Зенитная Самоходная Установка ЗСУ-23-4</ref>
+|pw_ratio=14.7&nbsp;hp/tonne (11.0&nbsp;kW/tonne)
+}}

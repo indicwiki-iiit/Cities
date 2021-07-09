@@ -1,0 +1,119 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name = Rivne
+|native_name = {{lang|uk|Рівне}}
+|other_name = 
+|settlement_type        =  [[City of regional significance (Ukraine)|City of regional significance]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage|position=center
+ | photo1a                       = Рівне.Костел..jpg
+ | photo2a                       = Костёл Петра и Павла, задний фасад.JPG
+ | photo2b                       = 2. Воскресенський собор; Рівне.JPG
+ | photo3a                       = Національний університет водного господарства та природокористування (навчальний корпус № 7) Фасад.JPG
+   | size                       = 265
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+|imagesize              = 
+|image_caption          = 
+|image_flag             = Flag of Rivne.svg
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = Coat of arms Rivne.svg
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            =
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Ukraine Rivne Oblast#Ukraine
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = 
+|pushpin_label          =Rivne
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{UKR}}
+|subdivision_type1      = [[Administrative divisions of Ukraine|Oblast]]
+|subdivision_name1      = {{flag|Rivne Oblast}}
+|subdivision_type2      = [[Raions of Ukraine|Raion]]
+|subdivision_name2      = [[Rivne Raion]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            ={{ill|Oleksandr Tretyak|uk|Третяк Олександр Віталійович}}<ref name="TretyakUkraineAlert">[https://www.atlanticcouncil.org/blogs/ukrainealert/young-ukrainian-mayor-offers-hope-of-a-new-politics/ Young Ukrainian mayor offers hope of a new politics] UkraineAlert by [[Brian Mefford]], [[Atlantic Council]] (22 March 2021)</ref>
+|leader_party            = [[European Solidarity]]<ref name="TretyakUkraineAlert"/>
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = First mentioned<!-- Settled -->
+|established_date       = 1283
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           =63.00 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2020
+|population_footnotes           =
+|population_note                =
+|population_total               =246003
+|population_density_km2         =auto
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[Eastern European Time|CET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|CEST]]
+|utc_offset_DST         = +3
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|50|37|N|26|15|E|region:UA|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!--  Postal code -->
+|postal_code            =
+|area_code              =
+|website                = {{URL|city-adm.rv.ua}}
+|blank_name             =<!-- [[License plate|License plate]] -->
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|footnotes              = 
+}}

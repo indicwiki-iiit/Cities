@@ -1,0 +1,42 @@
+{{Infobox settlement
+| background_color=
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+|image_skyline={{Photomontage
+|photo1a=UniversityCity2017.jpg
+|photo1b=UniversityCity82.jpg
+|photo2a=UniversityCityPhiladelphia.jpg
+|photo2b=Cira Centre, Philadelphia-east-2.JPG
+|photo3a=WalnutStreetBridge.jpg
+|size=300
+}}
+|imagesize=250px
+|image_caption=From top left: (1) University City at 40th and Walnut at the northwest corner of the [[University of Pennsylvania]] campus. (2) View of University City from the 34th Street bridge (3) At 40th and Chestnut Street (4) [[Cira Centre]] (5) Walnut Street Bridge
+|image_flag=
+|name=University City<!-- at least one of the first two fields must be filled in -->
+|settlement_type        = [[List of Philadelphia neighborhoods|Neighborhood of Philadelphia]]  <!--such as Town, Village, City, Borough etc.-->
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[United States]]
+|subdivision_type1      = State
+|subdivision_name1      = [[Pennsylvania]]
+|subdivision_type2      = County
+|subdivision_name2      = [[Philadelphia County, Pennsylvania|Philadelphia County]]
+|subdivision_type3      = City
+|subdivision_name3      = [[Philadelphia]]
+<!-- General information --------------->
+| mapsize                = 300px
+| map_caption            = 
+| pushpin_map            = Philadelphia
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| pushpin_mapsize        = 
+|coordinates            = {{coord|39|57|13|N|75|11|55|W|display=inline,title}}
+<!-- Area/postal codes and others -------->
+|postal_code_type=[[ZIP Code]]
+|postal_code= 19104, 19139, and 19143
+|area_code=[[Area codes 215, 267, and 445|215, 267, and 445]]
+|population_as_of=2014
+|population_total=50,967<ref name=pop>{{cite web|url=https://www.point2homes.com/US/Neighborhood/PA/Philadelphia/University-City-Demographics.html|title=University City Population}}</ref>
+}}

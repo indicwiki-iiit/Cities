@@ -1,0 +1,40 @@
+{{Infobox mountain
+<!-- *** Heading *** -->
+| name = Bull Mountains
+| native_name = 
+| other_name = 
+<!-- *** Names **** --> 
+| etymology = 
+<!-- *** Image *** -->
+| photo = 
+| photo_caption =
+| photo_size =
+<!-- *** Country *** -->
+| country = United States
+| state = Montana
+| state1 = 
+| state2 = 
+| state3 = 
+| region = Central Montana
+| district = 
+<!-- *** Family *** -->
+| border =
+| city = 
+<!-- *** Locations *** -->
+| highest = Dunn Mountain
+| highest_location =Yellowstone County 
+| elevation_ft = 4744
+| coordinates = {{coord|46|14|43|N|108|20|32|W|type:mountain_region:US-MT_scale:100000|format=dms|display=inline}}
+| range_coordinates = {{coord|46|19|N|108|19|W|type:mountain_region:US-MT_scale:300000|format=dms|display=inline,title}}
+| length_mi = | length_orientation = 60 miles
+| width_mi = | width_orientation = 12 miles
+| area_mi2 = 
+<!-- *** Features *** -->
+| geology = 
+| orogeny =
+| period =
+| biome =
+<!-- *** Maps *** -->
+| map = USA Montana
+| map_caption = 
+}}

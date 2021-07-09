@@ -1,0 +1,49 @@
+{{Infobox settlement
+| name = Saulkrasti
+| other_name =
+| settlement_type = Town
+| image_shield =Coat_of_Arms_of_Saulkrasti.svg
+| shield_size =
+| image_flag =Flag_of_Saulkrasti.svg
+| flag_size = 150px
+| image_skyline = Saulkrastu pilsētas dome 2000-04-09 - panoramio.jpg
+| imagesize =
+| image_caption = Town hall of Saulkrasti
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| subdivision_type1 = [[Administrative divisions of Latvia|Municipality]]
+| subdivision_name1 = [[Saulkrasti municipality]]
+| established_title = [[Town rights]]
+| established_date = 1991
+| pushpin_map = Latvia
+| pushpin_label_position = above
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|57|15|N|24|25|E|region:LV_type:city|display=inline,title}}
+| nickname =
+| leader_title =
+| leader_name =
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_metro_km2 =
+| area_blank1_title = [[Subdivisions of Latvia|Rural territory]]
+| area_blank1_km2 = 42
+| elevation_m = 12
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_metro =
+| population_density_km2 = auto
+| population_density_metro_km2 =
+| postal_code_type = [[Postal code]]
+| postal_code = LV-2160
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = +371 67
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+| webpage = http://www.saulkrasti.lv/en/
+}}

@@ -1,0 +1,60 @@
+{{Infobox settlement
+| name                    = Bhisho
+| image_skyline           = Bisho Massacre Memorial Site.jpg
+| image_caption           = Bisho Massacre Memorial Site
+| pushpin_map             = South Africa Eastern Cape#South Africa#Africa
+| coordinates             = {{coord|32|50|58|S|27|26|17|E|region:ZA|display=inline,title}}
+| subdivision_type        = [[Country]] 
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]] 
+| subdivision_name1       = [[Eastern Cape]]
+| subdivision_type2       = District
+| subdivision_type3       = [[List of municipalities of South Africa|Municipality]] 
+| subdivision_name3       = [[Buffalo City Metropolitan Municipality|Buffalo City]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/260032 |title = Main Place Bhisho |work=Census 2011}}</ref>
+| area_total_km2          = 8.08
+| elevation_m             = 435
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 11192
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 98.3%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 1.0%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 0.2%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 0.2%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.2%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Xhosa language|Xhosa]]
+| demographics2_info1     = 92.0%
+| demographics2_title2    = [[South African English|English]]
+| demographics2_info2     = 4.0%
+| demographics2_title3    = 
+| demographics2_info3     = 
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Other
+| demographics2_info5     = 4.1%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 5605
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 5605
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 040
+}}

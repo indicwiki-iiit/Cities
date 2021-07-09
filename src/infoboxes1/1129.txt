@@ -1,0 +1,138 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name = Sabratha
+|official_name          = Sabratha or Subrata
+|native_name            = صبراتة
+|native_name_lang       = ar
+|other_name             = 
+|settlement_type        = Town
+|image_skyline          =  Theatre of Sabratha, Libya.jpg
+|imagesize              = 
+|image_caption     = Theater of Sabratha
+|image_flag          = 
+|flag_size             = 
+|image_seal         =
+|seal_size             =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Libya<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize       = 200px
+<!-- Location ------------------>
+|pushpin_map_caption    =Location in Libya
+|coordinates            = {{coord|32|47|32|N|12|29|3|E|region:LY|display=inline}}
+|subdivision_type       = Country
+|subdivision_name      = [[Libya]]
+|subdivision_type1      = Region
+|subdivision_type2      = [[Districts of Libya|District]]
+|subdivision_type3      = 
+|subdivision_type4      = 
+|subdivision_name1      = [[Tripolitania]]
+|subdivision_name2      = [[Zawiya District|Zawiya]]
+|subdivision_name3      = 
+|subdivision_name4      =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+| parts_type            = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_land_sq_mi          =
+|area_water_km2           =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <ref name=wolfram/>
+|elevation_m            = 10
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               =102038
+|population_as_of               =2004
+|population_footnotes           =<ref name=wolfram>[http://www.wolframalpha.com/input/?i=Sabratah Wolfram Alpha]</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+| area_code_type = 24
+|website = [http://www.sabratha.gov.ly/ sabratha.gov.ly]
+|footnotes              = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Archaeological Site of Sabratha
+| includes      = {{Interlanguage link multi|Theater at Sabratha|fr|3=Théâtre antique de Sabratha}}
+| criteria      = {{UNESCO WHS type|(iii)}}(iii)
+| ID            = 184
+| year          = 1982
+| danger        = 2016–...
+| area          = <!-- {{convert|...|ha|sqmi|abbr=on}} or similar with other units recommended -->
+| buffer_zone   = 
+}}
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+|timezone_DST           = 
+|utc_offset_DST         = 
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+}}

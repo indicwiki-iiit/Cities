@@ -1,0 +1,33 @@
+{{Infobox Australian place| type = suburb
+| name     = McMinns Lagoon
+| city     = [[Darwin, Northern Territory|Darwin]]
+| state    = nt
+| image    = 
+| caption  = 
+| coordinates = {{coord|-12.555285|131.068505|display=title,inline}}
+| lga      = Litchfield Municipality
+| postcode = 0822
+| est      = 
+| pop      = 796 | pop_year = {{CensusAU|2016}}
+|pop_footnotes=<ref name="Census2016">{{Census 2016 AUS| id= SSC70181 |name=McMinns Lagoon (State Suburb)| accessdate=28 June 2017|quick=on}}</ref>
+| area     = 
+
+| dist1    = 34
+| location1= [[Darwin, Northern Territory|Darwin]]
+| dist2    = 14.1
+| location2= [[Palmerston, Northern Territory|Palmerston]] 
+
+| stategov = [[Electoral division of Goyder|Goyder]]
+| fedgov   = [[Division of Solomon|Solomon]]
+
+| near-n = [[Coolalinga, Northern Territory|Coolalinga]]<br/>[[Howard Springs, Northern Territory|Howard Springs]]<br/>[[Girraween, Northern Territory| Girraween]]	
+| near-ne = [[Girraween, Northern Territory| Girraween]]		
+| near-e = [[Girraween, Northern Territory| Girraween]]<br/>[[Humpty Doo, Northern Territory|Humpty Doo]]	
+| near-se = [[Humpty Doo, Northern Territory|Humpty Doo]]	
+| near-s = [[Humpty Doo, Northern Territory|Humpty Doo]]
+| near-sw = [[Bees Creek, Northern Territory| Bees Creek]]	
+| near-w =[[Freds Pass, Northern Territory|Freds Pass]]<br/>[[Bees Creek, Northern Territory| Bees Creek]] 	
+| near-nw = [[Coolalinga, Northern Territory|Coolalinga]]		
+| near = McMinns Lagoon	
+| footnotes = Adjoining suburbs<ref name="NT-atlas">{{cite web |title= McMinns Lagoon |url= http://www.ntlis.nt.gov.au/imfPublic/imf.jsp?site=nt_atlas&qhlt=true&qsel=true&qbuf=0.005&qry=PLACE_ID=2063&qlyr=113 |website=NT Atlas and Spatial Data Directory |publisher=Northern Territory Government |accessdate=8 May 2019}}</ref><ref>{{cite web |title=Litchfield Municipality Localities |url=https://placenames.nt.gov.au/__data/assets/pdf_file/0008/404774/LitchfieldA3map.pdf |website=Place Names Committee |publisher=Northern Territory Government |accessdate=8 May 2019 |archive-url=https://web.archive.org/web/20190318101346/https://placenames.nt.gov.au/__data/assets/pdf_file/0008/404774/LitchfieldA3map.pdf |archive-date=18 March 2019 |url-status=dead }}</ref>
+}}

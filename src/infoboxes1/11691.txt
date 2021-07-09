@@ -1,0 +1,44 @@
+{{Infobox settlement
+|settlement_type        = City
+|official_name          = Rafael Castillo
+|image_skyline          = C. Casares y Chavarría - Rafael Castillo 01.jpg
+|imagesize              = 300px
+|image_caption          = Retail hub of Rafael Castillo
+|image_shield           = 
+|image_map              = {{maplink
+|text=<div style="text-align: center;">'''Interactive map of Rafael Castillo'''</div>
+|frame=yes
+|frame-width=260
+|frame-height=240
+|frame-align=center
+|frame-lat=-34.715
+|frame-long=-58.622
+|zoom=12
+|type=shape-inverse
+|stroke-colour=#555555
+|stroke-width=2
+}}
+|pushpin_map            = Argentina Greater Buenos Aires
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in [[Greater Buenos Aires]]
+|pushpin_mapsize        = 240
+|subdivision_type       = Country
+|subdivision_name       = {{ARG}}
+|subdivision_type1      = [[Provinces of Argentina|Province]]
+|subdivision_name1      = [[Image:Bandera de la Provincia de Buenos Aires.svg|24px|link=]]  [[Buenos Aires Province|Buenos Aires]]
+|subdivision_type2      = [[Partidos of Buenos Aires|Partido]]
+|subdivision_name2      = [[Image:Bandera del Partido de La Matanza.svg|24px|link=]] [[La Matanza Partido|La Matanza]]
+|established_title      = Declared a city
+|established_date       = 1974
+|population_as_of       = {{census-ar|2010}}
+|population_total       = 147,965
+|population_density_km2 =
+|coordinates            = {{coord|34|43|S|58|37|W|region:AR|display=inline,title}}
+|elevation_m            =  23
+|area_total_km2         = 14.25
+|area_footnotes         = <ref>{{cite web |title=La Matanza - Localidades |url=http://www.lamatanza.gov.ar/matanza |publisher=Municipality of La Matanza |access-date=29 December 2019 |language=es}}</ref>
+|postal_code_type       =  [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 1755
+|area_code              = +[[Telephone numbers in Argentina|54]] 11
+|website                = 
+}}

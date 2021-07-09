@@ -1,0 +1,23 @@
+{{Infobox UK place
+| country = England
+| official_name = Wallasey
+| type = Town
+| coordinates = {{coord|53.415833|-3.023333|format=dms|display=inline,title}}
+| population = 60,284
+| population_ref = <br />([[United Kingdom Census 2011|2011 Census]])<ref>{{cite web|url=http://www.citypopulation.de/php/uk-england-northwestengland.php?cityid=E35000398|title=Wallasey (Merseyside, North West England, United Kingdom) - Population Statistics and Location in Maps and Charts}}</ref>
+| metropolitan_borough = [[Metropolitan Borough of Wirral|Wirral]]
+| metropolitan_county = [[Merseyside]]
+| region = North West England
+| constituency_westminster = [[Wallasey (UK Parliament constituency)|Wallasey]]
+| post_town = WALLASEY
+| postcode_district = CH44, CH45
+| postcode_area = CH
+| dial_code = 0151
+| os_grid_reference = SJ293923
+| static_image_name = Wallasey Town Hall.jpg
+| static_image_caption = [[Wallasey Town Hall]]
+| london_distance = {{convert|180|mi|km|abbr=on}}<ref>{{cite web|url=http://boulter.com/gps/distance/?from=53.423+-3.065&to=51.507+-0.127&units=m|title=Coordinate Distance Calculator|work=boulter.com|access-date=6 March 2016}}</ref>
+| london_direction = SE
+| iso_code = GB-WRL
+| historic_county = Cheshire
+}}

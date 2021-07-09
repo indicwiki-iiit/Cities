@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = West Lafayette, Indiana
+| nickname                        = West Side
+| settlement_type                 = [[City]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = West Lafayette, Indiana Public Library and urban spread, Autumn.jpg
+| imagesize                       = 
+| image_caption                   = West Lafayette Public Library, with Purdue campus skyline in background
+| image_flag                      = Flag of West Lafayette.png
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = Tippecanoe County Indiana Incorporated and Unincorporated areas West Lafayette Highlighted 1882862.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of West Lafayette in Tippecanoe County, Indiana.
+<!-- Location ------------------>
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Indiana]]
+| subdivision_type2               = [[List of counties in Indiana|County]]
+| subdivision_name2               = [[Tippecanoe County, Indiana|Tippecanoe]]
+| subdivision_type3               = [[List of townships in Indiana|Township]]
+| subdivision_name3               = [[Wabash Township, Tippecanoe County, Indiana|Wabash]]
+<!-- Politics ----------------->
+| government_type                 = 
+| leader_title                    = [[List of mayors of West Lafayette, Indiana|Mayor]]
+| leader_name                     = John Dennis ([[Republican Party (United States)|R]])
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1888
+<!-- Area    --------------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_18.txt|publisher=United States Census Bureau|access-date=July 16, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 35.78
+| area_land_km2                   = 35.18
+| area_water_km2                  = 0.60
+| area_total_sq_mi                = 13.81
+| area_land_sq_mi                 = 13.58
+| area_water_sq_mi                = 0.23
+| area_urban_sq_mi                = 
+| area_metro_sq_mi                = 904.6
+<!-- Population   ----------------------->
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_as_of                = [[2021 United States Census|2021]]
+| population_est                  = 54964
+| pop_est_as_of                   = 2021
+| population_note                 = 
+| population_total                = 54964
+| population_metro                = 182821
+| population_urban                = 
+| population_density_km2          = 1449.59
+| population_density_sq_mi        = 3754.40
+| timezone                        = [[Eastern Time Zone (North America)|EST]]
+| utc_offset                      = −5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = −4
+| coordinates                     = {{coord|40|26|31|N|86|54|45|W|region:US-IN|display=inline,title}}
+| elevation_m                     = 187
+| elevation_ft                    = 614
+| elevation_footnotes             = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+<!-- Area/postal codes & others -------->
+| postal_code_type                = ZIP Code
+| postal_code                     = 47906
+| area_code                       = 765
+| website                         = [https://www.westlafayette.in.gov/ www.westlafayette.in.gov]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 18-82862<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:445775 445775]
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| name                            = 
+}}

@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                            = Garden City, New York
+| official_name                   = Incorporated Village of Garden City
+| settlement_type                 = [[Administrative divisions of New York (state)#Village|Village]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Garden City, New York.jpg
+| imagesize                       = 
+| image_caption                   = Downtown Garden City
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = New York#USA
+| pushpin_label                   = Garden City
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of New York
+| image_map                       = Nassau County New York incorporated and unincorporated areas Garden City highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Nassau County, New York|Nassau County]] and the state of [[New York (state)|New York]]
+
+<!-- Location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Nassau County, New York|Nassau]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 13.86
+| area_land_km2                   = 13.80
+| area_water_km2                  = 0.06
+| area_total_sq_mi                = 5.35
+| area_land_sq_mi                 = 5.33
+| area_water_sq_mi                = 0.03
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 22371
+| population_density_km2          = 1626.98
+| population_density_sq_mi        = 4213.55
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 27
+| elevation_ft                    = 89
+| coordinates                     = {{coord|40|43|37|N|73|38|59|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 11530
+| area_code                       = [[Area code 516|516]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-28178
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0950875
+| website                         = {{URL|www.gardencityny.net}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 22454
+| unit_pref                       = Imperial
+}}

@@ -1,0 +1,28 @@
+{{Infobox German location
+|type                = Stadt
+|image_photo        = Braunlage 04.jpg
+|imagesize          =  
+|image_caption      = Braunlage with the Wurmberg mountain behind
+|image_coa          = Wappen Braunlage.svg
+|Wappengröße        = <!-- Size of COA imageOnly if smaller than 140 -->
+|coordinates        = {{coord|51|43|37|N|10|36|43|E|format=dms|display=inline,title}}
+|image_plan = Braunlage in GS.svg
+|state         = Lower Saxony
+|district          = Goslar
+|elevation               = 560
+|area             = 31.55
+|population          = 4929
+|Stand              = 2007-12-31
+|pop_ref            = <ref>{{cite web|title=Bevölkerungsfortschreibung|url=http://www1.nls.niedersachsen.de/statistik/|author=Niedersächsisches Landesamt für Statistik |language=de}}</ref>
+|postal_code                = 38700
+|area_code            = 05520
+|licence                = GS, BRL, CLZ
+|Gemeindeschlüssel  = 03 1 53 016
+|divisions         = 3 districts
+|Straße             = Herzog-Johann-Albrecht-Str. 2
+|website            = {{url|www.braunlage.org}}
+|mayor      = Wolfgang Langer
+|party             = 
+|year               = <!-- Year founded (not "year of first recorded mention"), no wikilinking.
+                            Give a year, a decade or a century. Places article in "Category: XXXX establishments" -->
+}}

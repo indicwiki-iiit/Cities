@@ -1,0 +1,64 @@
+{{Infobox settlement
+| name                            = Ramapo, New York
+| settlement_type                 = [[Administrative divisions of New York#Town|Town]]
+
+<!-- Images -->| image_skyline                   = Suffern, NY, post office.jpg
+| image_caption                   = U.S. Post Office in Suffern
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Rockland County New York incorporated and unincorporated areas Ramapo highlighted.svg
+| map_caption                     = Location in [[Rockland County, New York|Rockland County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->| coordinates_footnotes           = 
+| coordinates                     = {{coord|41|7|19|N|74|5|0|W|region:US-NY_type:city_source:GNIS|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Rockland County, New York|Rockland]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Supervisor
+| leader_name                     = Michael Specht
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 160.16
+| area_land_km2                   = 158.35
+| area_water_km2                  = 1.80
+| area_total_sq_mi                = 61.84
+| area_land_sq_mi                 = 61.14
+| area_water_sq_mi                = 0.70
+| unit_pref                       = Imperial
+
+<!-- Population -->| population_footnotes            = 
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 126595
+| pop_est_footnotes               = <ref name="City and Town Population Totals: 2010-2019"/>
+| pop_est_as_of                   = 2019
+| population_est                  = 137406
+| population_density_sq_mi        = auto
+
+<!-- Elevation -->| elevation_footnotes             = 
+| elevation_ft                    = 371
+| elevation_m                     = 113
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 10901, 10952, 10977, 10970, 10965, 10974
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 845|845]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-60510
+| blank1_name                     = [[Geographic Names Information System|GNIS ID]]
+| blank1_info                     = 0979406
+| website                         = {{URL|http://www.ramapo.org/|ramapo.org}}
+}}

@@ -1,0 +1,18 @@
+{{Infobox philosopher
+  |region = [[Japanese philosophy]]
+  |era = [[20th-century philosophy]]
+  |image = Kuki Shuzo.jpg
+  |name = Shūzō Kuki
+  |birth_date = {{birth date|1888|2|15}}
+  |birth_place = [[Tokyo Prefecture]], [[Japan]]
+  |death_date = {{death date and age|1941|5|6|1888|2|15}}
+  |death_place = [[Kyoto]], [[Japan]]
+  |nationality = {{flag|JPN|name=Japanese}}
+  |notable_works = ''The Structure of Iki''
+  |school_tradition = [[Kyoto School]]
+  |institutions = [[Kyoto University]]
+  |main_interests = {{cslist| [[Aesthetics]]| [[philosophy of culture]]| [[Contingency (philosophy)|contingency]]| [[existentialism]]}}
+ <!-- |influences = [[Heidegger]], [[Kyoto School]]
+  |influenced = [[Takeo Doi]] -->
+  |notable_ideas =
+}}

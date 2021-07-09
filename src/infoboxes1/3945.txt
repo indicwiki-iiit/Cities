@@ -1,0 +1,82 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Wageningen
+| settlement_type         = [[List of municipalities of the Netherlands|Municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = Wageningenmarketplace05150001.JPG
+| image_alt               = 
+| image_flag              = Wageningen vlag.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Coat of arms of Wageningen.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+| motto                   = City of Life Sciences
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0289 (2009).svg
+| map_alt                 = Highlighted position of Wageningen in a municipal map of Gelderland
+| map_caption             = Location in Gelderland
+| coordinates             = {{coord|51|58|N|5|40|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = Province
+| subdivision_name1       = [[Gelderland]]
+| established_title       = [[City rights in the Low Countries|City right]]
+| established_date        = 12 June 1263<ref name=casteelse />
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url         = http://www.wageningen.nl/Raad_college_en_organisatie/Burgemeester_en_wethouders/College_van_burgemeester_en_wethouders/Burgemeester_Geert_van_Rumund
+ |title       = Burgemeester Geert van Rumund
+ |trans-title = Mayor Geert van Rumund
+ |language    = nl
+ |publisher   = Gemeente Wageningen
+ |access-date  = 21 July 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20140727231808/http://www.wageningen.nl/Raad_college_en_organisatie/Burgemeester_en_wethouders/College_van_burgemeester_en_wethouders/Burgemeester_Geert_van_Rumund
+ |archive-date = 27 July 2014
+}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[Labour Party (Netherlands)|PvdA]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Geert van Rumund]]
+<!-- Geographic information -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Wageningen}}
+| area_land_km2           = {{Dutch municipality land area|Wageningen}}
+| area_water_km2          = {{Dutch municipality water area|Wageningen}}
+| elevation_footnotes     = <ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 6701CZ
+ |language = nl
+ |author = <!--Staff writer(s); no by-line.--> 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |access-date = 21 July 2014}}</ref>
+| elevation_m             = 9
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Wageningen}}
+| population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}}
+| population_density_km2  = {{Dutch municipality population density|Wageningen}} <!-- For automatic calculation: auto-->
+| population_demonym      = Wageninger
+<!-- Other information -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 6700–6709
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 0317
+| website                 = {{URL|1=http://www.wageningen.nl}}
+| footnotes               =
+}}

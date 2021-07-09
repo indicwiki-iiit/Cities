@@ -1,0 +1,23 @@
+{{Infobox UK place
+|country= England
+|official_name= Woodlesford
+|static_image= Image:Woodlesfordschool.jpg
+|static_image_caption= Woodlesford School
+|coordinates = {{coord|53.756710|-1.453030|display=inline,title}}
+|pushpin_map = United Kingdom Leeds
+|population= 21,010
+|population_density_km2= 
+|population_density_sq_mi= 
+|metropolitan_borough= [[City of Leeds]]
+|metropolitan_county= [[West Yorkshire]]
+|region= Yorkshire and the Humber
+|constituency_westminster= [[Elmet and Rothwell (UK Parliament constituency)|Elmet and Rothwell]]
+|historic_county=[[Yorkshire]]
+|post_town= LEEDS
+|postcode_area= LS
+|postcode_district= LS26
+|dial_code= 0113
+|os_grid_reference= SE361290
+| london_distance_mi = 160<!-- straight line per MOS – constant and comparable with other place distances -->
+| london_direction = SSE
+}}

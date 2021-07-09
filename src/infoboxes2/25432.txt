@@ -1,0 +1,78 @@
+{{Infobox settlement
+| official_name                   = Ellsworth, Maine
+| settlement_type                 = [[City]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Bridge atop the Union River in Ellsworth, ME IMG_2396.JPG
+| imagesize                       = 250px
+| image_caption                   = Bridge over the [[Union River (Maine)|Union River]] in downtown Ellsworth
+| image_flag                      = 
+| image_seal                      = Seal of Ellsworth, Maine.jpg
+
+<!-- Maps -->| image_map                       = Map_of_Maine_highlighting_Ellsworth.png
+| mapsize                         = 250px
+| map_caption                     = Location of city of Ellsworth in the state of Maine
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Maine]]
+| subdivision_type2               = [[List of counties in Maine|County]]
+| subdivision_name2               = [[Hancock County, Maine|Hancock]]
+| parts_type                      = Villages
+| parts                           = Ellsworth&nbsp;Falls<br>North&nbsp;Ellsworth<br>West&nbsp;Ellsworth
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[City manager]]
+| leader_name                     = Glenn Moshier<ref>{{cite web|url=https://www.ellsworthmaine.gov/government/city-manager/|title=Ellsworth City Manager - City of Ellsworth, Maine|website=ellsworthmaine.gov|access-date=January 3, 2020}}</ref>
+| leader_title1                   = Chief of Police
+| leader_name1                    = Glenn Moshier
+| established_title               = Settled
+| established_date                = 1763
+| established_title1              = Incorporated (town)
+| established_date1               = February 26, 1800
+| established_title2              = Incorporated (city)
+| established_date2               = February 8, 1869
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_23.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 243.25
+| area_land_km2                   = 205.35
+| area_water_km2                  = 37.90
+| area_total_sq_mi                = 93.92
+| area_land_sq_mi                 = 79.29
+| area_water_sq_mi                = 14.63
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 8180
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 7741
+| population_density_km2          = 39.83
+| population_density_sq_mi        = 103.17
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 33
+| elevation_ft                    = 108
+| coordinates                     = {{coord|44|34|20|N|68|28|34|W|region:US-ME_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 04605
+| area_code                       = [[Area code 207|207]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 23-23200
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0565863
+| website                         = http://ellsworthmaine.gov/
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| name                            = 
+}}

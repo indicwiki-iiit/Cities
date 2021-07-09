@@ -1,0 +1,44 @@
+{{Infobox mountain
+| name = Mount Shasta
+| photo = MtShasta aerial.JPG
+| photo_caption = Aerial view of Mount Shasta from the southwest, with sun low in the west
+| elevation_system = NAVD88
+| elevation = {{convert|14,179|ft|0|abbr=on}}
+| elevation_ref = <ref name=NGS>{{cite ngs|pid=MX1016|name=MT SHASTA|access-date=January 6, 2016}}</ref>
+| prominence = {{convert|9,772|ft|0|abbr=on}}
+| prominence_ref = <ref name=PB>{{cite web|url=http://www.peakbagger.com/peak.aspx?pid=2477|title=Mount Shasta, California|publisher=Peakbagger.com|access-date=January 6, 2016}}</ref>
+| isolation = {{convert|335|mi|0|abbr=on}}
+| isolation_ref = <ref name=PB />
+| parent_peak = [[North Palisade]]<ref name=PB />
+| listing = {{unbulleted list
+|[[List of peaks by prominence|World most prominent peaks]] 96th
+|[[List of the highest major summits of North America|North America highest peaks]] 48th
+|[[List of the most prominent summits of North America|North America prominent peak]] 18th
+|[[List of the most prominent summits of the United States|US most prominent peaks]] 11th
+|[[List of the most isolated major summits of North America|North America isolated peaks]] 28th
+|[[List of the highest major summits of the United States|US highest major peaks]] 34th
+|[[List of highest mountain peaks of California|California highest major peaks]] 5th
+|[[List of California fourteeners|California fourteeners]] 5th
+|[[List of highest points in California by county|California county high points]] 5th
+}}
+| location = [[Shasta–Trinity National Forest]], [[California]], [[United States|U.S.]]
+| map = USA California#USA
+| map_caption = Location in California, U.S.
+| map_size = 220
+| label_position = left
+| range = [[Cascade Range]]
+| coordinates = {{coord|41.409196033|N|122.194888358|W|type:mountain_region:US-CA_scale:100000|format=dms|display=inline,title}}
+| coordinates_ref = <ref name=NGS />
+| range_coordinates =
+| topo = [[United States Geological Survey|USGS]] Mount Shasta
+| type = [[Stratovolcano]]
+| age = About 593,000 years
+| volcanic_arc = [[Cascade Volcanoes|Cascade Volcanic Arc]]
+| last_eruption = 1250<ref name="gvp">{{cite gvp|name=Shasta|vn=323010|access-date=2021-06-28}}</ref>
+| first_ascent = 1854 by E. D. Pearce and party<ref name="selters_zanger" />
+| easiest_route = Avalanche Gulch ("John Muir") route: [[Scree|talus]]/snow climb<ref name="selters_zanger" />
+| embedded = {{designation list | embed = yes
+  | designation1 = NNL
+  | designation1_date = 1976
+  }}
+}}

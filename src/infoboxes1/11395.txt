@@ -1,0 +1,110 @@
+{{Infobox settlement
+|name                   =Ternopil
+|native_name          ={{lang|uk|Тернопіль}}
+|other_name   = 
+|settlement_type        = [[City of regional significance (Ukraine)|City of regional significance]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage|position=center
+ | photo1a                       = UA-TE Ternopil Buran 18-06-16.JPG
+ | photo2a                       = Teatralnyi-maidan4501.jpg
+ | photo2b                       = Faine misto-11.jpg
+ | photo3a                       = Valova-8-14103710.jpg
+ | photo3b                       = Kaplytsia-Mykul-tsvyntar-14071240.jpg
+ | photo4a                       = Церква над ставом.jpg
+   | size                       = 250
+   | spacing                    = 2
+   | color                      = #FFFFFF
+   | border                     = 0
+   }}
+|imagesize              = 
+|image_caption          = 
+|image_flag             = File:Flag of Ternopil.svg
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = Coat of arms of Ternopil.svg
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Ukraine Ternopil Oblast#Ukraine
+|pushpin_label_position =
+|pushpin_map_caption    =Location within Ukraine
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{UKR}}
+|subdivision_type1      = [[Administrative divisions of Ukraine|Oblast]]
+|subdivision_name1      = {{flag|Ternopil Oblast}}
+|subdivision_type2      = [[Raions of Ukraine|Raion]]
+|subdivision_name2      = [[Ternopil Raion]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =[[Serhiy Nadal]]<ref>{{in lang|uk}} [http://www.pravda.com.ua/news/2011/12/28/6872678/ Мер Тернополя продає побачення з собою], [[Ukrayinska Pravda]] (28 December 2011)</ref>
+|leader_party = [[Svoboda (political party)|Svoboda]]
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = Metric 
+|area_footnotes           =
+|area_total_km2           =72 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =27.8
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|elevation_m              = 320
+|elevation_footnotes      = <br/>(mean)
+
+<!-- Population   ----------------------->
+|population_as_of               = 2020
+|population_footnotes           =  <ref name="ua2020estimate"/>
+|population_note                =
+|population_total               =223462
+|population_density_km2         =auto
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[Eastern European Time|CET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|CEST]]
+|utc_offset_DST         = +3
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|49|34|N|25|36|E|region:UA|display=inline,title}}
+|postal_code_type       = <!--  Postal code -->
+|postal_code            =
+|area_code              =+380 352
+|website                = {{URL|rada.te.ua/en}}
+|blank_name             =<!-- [[License plate]] -->
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|footnotes              = 
+}}

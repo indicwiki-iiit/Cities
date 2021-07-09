@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info ---------------->
+| name = San Bruno
+|official_name            = City of San Bruno
+|other_name               = 
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = "City with a Heart"<ref>{{cite news |last=Whiting |first=Sam |title=The Heart of San Bruno / Hidden within an unusually shaped housing tract is Cupid Row |url=http://www.sfgate.com/bayarea/article/The-Heart-of-San-Bruno-Hidden-within-an-2799685.php |newspaper=San Francisco Chronicle |date=8 February 2004 |access-date=9 February 2016 }}<br/>{{cite news |last=Livengood |first=Carolyn |title=Carolyn Livengood: San Bruno honors Glenview residents |url=http://www.mercurynews.com/carolyn-livengood/ci_17161830 |newspaper=Mercury News |location=San Jose, California |date=21 January 2011 |access-date=9 February 2016 }}<br/>{{cite news |last=Clifford |first=Jim |title=San Bruno has a heart every day |url=http://www.smdailyjournal.com/articles/lnews/2016-02-08/san-bruno-has-a-heart-every-day/1776425158073.html |newspaper=San Mateo Daily Journal |date=8 February 2016 |access-date=9 February 2016 }}</ref>
+<!-- images and maps  ----------->
+|image_skyline            = File:SanBruno.jpg
+|imagesize                = 300px
+|image_caption            = San Bruno looking toward San Francisco Bay (2006)
+|image_flag               = 
+|flag_size                = 
+|image_seal               = [[File:Seal of San Bruno, California.png|San Bruno city seal]]
+|seal_size                = 
+|image_map                = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_San_Bruno_Highlighted.svg
+|map_caption              = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief           = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|37|37|31|N|122|25|31|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+----
+|subdivision_type3        = [[List of regions of California|Region]]
+|subdivision_name3        = [[San Francisco Bay Area]]
+|subdivision_type4        = Region
+|subdivision_name4        = [[Northern California]]
+<!-- Politics ----------------->
+|government_type          = [[Council–manager government|Council–manager]]<ref>{{cite web|title=San Bruno - Government|url=https://www.sanbruno.ca.gov/gov/default.htm|publisher=City of San Bruno|access-date=Dec 19, 2019}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = [[Rico E. Medina ]]<ref name=cc>{{Cite web
+ | url = https://www.sanbruno.ca.gov/gov/elected_officials/councilmember_rico_e_medina.htm
+ | title = City Council
+ | publisher = City of San Bruno
+ | access-date = 16 February 2018}}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = December 23, 1914<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+}}</ref>
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 5.49
+|area_land_sq_mi          = 5.49
+|area_water_sq_mi         = 0.00
+|area_total_km2           = 14.22
+|area_land_km2            = 14.22
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref name="gnis">{{Cite GNIS|277616|San Bruno|access-date=January 5, 2015}}</ref>
+|elevation_ft             = 20
+|elevation_m              = 6
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0665028.html|title=San Bruno (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 8, 2015}}</ref>
+|population_total         = 41114
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 42807
+|population_density_sq_mi = 7798.69
+|population_metro         = 
+|population_density_metro_sq_mi = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 94066, 94067, 94096, 94098
+|area_code                = [[Area code 650|650]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|65028}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277616}}, {{GNIS 4|2411778}}
+|website                  = {{URL|sanbruno.ca.gov}}
+|population_density_km2 = 3011.29
+}}

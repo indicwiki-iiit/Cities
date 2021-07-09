@@ -1,0 +1,19 @@
+{{Infobox ski area
+|name=Shemshak
+|logo=
+|picture=Shemshak2016.jpg
+|caption= ''Shemshak'' [[ski resort]]
+|location= [[Shemshak]], [[Iran]]
+|nearest_city=
+|coordinates = {{coord|36|01|01|N|51|49|00|E|type:landmark_scale:50000|display=inline}}
+| pushpin_map             = Iran<!-- the name of a location map as per Template:Location map. Requires coordinates= parameter to display map. -->
+| pushpin_relief = y
+|top_elevation=3050m (10,007 ft)
+|base_elevation=2550m (8,366 ft)
+|skiable_area=
+|number_trails= 4
+|liftsystem=2 [[chairlift]]s<br />3 [[Surface lift]]s
+|snowmaking=No
+|nightskiing=Yes
+|external_link=
+}}

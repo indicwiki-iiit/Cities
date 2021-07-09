@@ -1,0 +1,25 @@
+{{Infobox automobile
+| name = Ford Mustang
+| image = 1969 Ford Mustang Mach 1 (37901276352).jpg
+| caption = 1969 Ford Mustang Mach 1
+| manufacturer = [[Ford Motor Company|Ford]]
+| production = March 1964 – present
+| model_years = 1965–present<!-- The first Mustangs were officially registered as model year 1965. 1964.5 is an unofficial thing. -->
+| designer = {{Unbulleted list
+ | [[John Najjar]]
+ | [[Philip T. Clark]]
+ | [[Joe Oros]]
+ | Gale Halderman
+}}
+| class = {{Unbulleted list
+ | [[Pony car]], [[Muscle car]] ([[America]])
+ | [[S-segment|Roadster sport]] ([[Europe]])<ref>{{cite web |url=https://www.euroncap.com/en/results/ford/mustang/27540 |title=Official Ford Mustang 2017 (reassessment) safety rating |publisher=Euro NCAP |access-date=August 2, 2019}}</ref>
+ }}
+| body_style = {{Unbulleted list
+ | 2-door [[coupé]]<!-- sold as the 'hardtop' -->
+ | 3-door [[hatchback]]
+ | 2-door [[fastback]]
+ | 2-door [[convertible]]
+ }}
+| layout = [[Front-engine, rear-wheel-drive layout|FR layout]]
+}}

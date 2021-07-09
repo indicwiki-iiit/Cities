@@ -1,0 +1,31 @@
+{{Infobox power station
+| name               = Ignalina Nuclear Power Plant
+| name_official      = Ignalinos Atominė Elektrinė
+| image              = Elektrownia Ignalina.jpg
+| image_caption      = Entrance to the Ignalina Nuclear Power Plant
+| image_alt          =
+| coordinates        = {{coord|55|36|16|N|26|33|36|E|region:LT_type:landmark|display=inline,title}}
+| country            = [[Lithuania]]
+| location           = [[Visaginas municipality]]
+| status             =
+| construction_began = 1978
+| commissioned       = 31 December 1983
+| decommissioned     = 31 December 2009
+| cost               =
+| owner              =
+| operator           = Ignalinos Atominė Elektrinė
+| ps_units_uc  =
+| ps_units_planned=
+| ps_units_decommissioned= 2 x 1,300&nbsp;MW
+| np_reactor_type        = [[RBMK]]-1500
+| np_reactor_supplier    = [[Mintyazhmash]]
+| ps_cooling_source      = [[Lake Drūkšiai]]
+| ps_cooling_towers      =
+| ps_units_manu_model    = Kharkiv turbine plant<br/>[[Electrosila]]
+| ps_electrical_capacity = 2,600
+| ps_thermal_capacity    = 2 x {{nowrap|4800 MWt}}
+| ps_annual_generation   = 19,240 GW·h (2004)
+| ps_electrical_cap_fac  = 59.2%<!-- See pris.iaea.org cumulative load (capacity) factors for I1 an I2 53.9% and 64.4% respectively, and 59.2% is average -->
+| website                = [http://www.iae.lt/en/ www.iae.lt]
+| extra                  =
+}}

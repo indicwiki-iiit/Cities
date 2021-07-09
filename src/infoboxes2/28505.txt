@@ -1,0 +1,43 @@
+{{Infobox Australian place
+| type = town
+| name = Charleville
+| state = qld
+| image = Charleville RFDS DSC03284.JPG
+| caption = The [[Royal Flying Doctor Service of Australia|Royal Flying Doctor Service]] visitor centre at Charleville
+| coordinates         = {{coord|-26.4016|146.2383|type:city_region:AU-QLD|display=inline|name=Charleville (town centre)}}
+| pop                 = 3335
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1865
+| postcode            = 4470
+| area                = 613.5
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga                 = [[Shire of Murweh]]
+| stategov            = [[Electoral district of Warrego|Warrego]]
+| fedgov              = [[Division of Maranoa|Maranoa]]
+| elevation           = 293.5
+| maxtemp             = 28.0
+| mintemp             = 13.9
+| rainfall            = 497.4
+| near-n              = [[Gowrie Station, Queensland|Gowrie Station]]
+| near-ne             = [[Gowrie Station, Queensland|Gowrie Station]]
+| near-e              = [[Sommariva, Queensland|Sommariva]]
+| near-se             = [[Riversleigh, Queensland|Riversleigh]]
+| near-s              = [[Bakers Bend, Queensland|Bakers Bend]]
+| near-sw             = [[Bakers Bend, Queensland|Bakers Bend]]
+| near-w              = [[Ward, Queensland|Ward]]
+| near-nw             = [[Ward, Queensland|Ward]]
+}}

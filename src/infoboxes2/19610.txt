@@ -1,0 +1,70 @@
+{{Infobox settlement
+| name                            = Warrensburg, Missouri
+| official_name                   = City of Warrensburg
+| settlement_type                 = [[City]]
+| nickname                        = The Burg
+| motto                           = <!-- Images -->
+| image_skyline                   = File:Johnson County Mo Courthouse.JPG
+| imagesize                       = 250px
+| image_caption                   = Johnson County Courthouse
+| image_flag                      = Flagofwarrensburgmo.jpg
+| image_seal                      = <!-- Maps -->
+| image_map                       = Johnson_County_Missouri_Incorporated_and_Unincorporated_areas_Warrensburg_Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Warrensburg, Missouri
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Nowrap|{{US}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|Missouri|size=23px}}
+| subdivision_type2               = [[List of counties in Missouri|County]]
+| subdivision_name2               = [[Johnson County, Missouri|Johnson]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Bryan Jacobs
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_29.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 24.53
+| area_land_km2                   = 24.36
+| area_water_km2                  = 0.17
+| area_total_sq_mi                = 9.47
+| area_land_sq_mi                 = 9.41
+| area_water_sq_mi                = 0.07
+
+<!-- Population -->| population_as_of                = [[2019 United States Census|2019]]
+| population_est                  = 20139
+| pop_est_as_of                   = 2019
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_total                = 20139
+| population_density_km2          = 838.09
+| population_density_sq_mi        = 2170.74
+
+<!-- General information -->| timezone                        = [[North American Central Time Zone|Central (CST)]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| elevation_footnotes             = 
+| elevation_m                     = 263
+| elevation_ft                    = 863
+| coordinates                     = {{coord|38|45|47|N|93|44|6|W|region:US-MO|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 64093
+| area_code                       = [[Area code 660|660]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 29-77092<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0728362<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = [http://www.warrensburg-mo.com www.warrensburg-mo.com]
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/> 
+| flag_size                       = 250
+| pushpin_map                     = USA
+| timezone1                       = [[Central Standard Time|CST]]
+}}

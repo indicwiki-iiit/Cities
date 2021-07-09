@@ -1,0 +1,67 @@
+{{Infobox settlement
+| name                     = Yorkville
+| settlement_type          = [[Neighborhoods of Manhattan|Neighborhood of Manhattan]]
+| image_skyline            = File:Yorkville NYC from 87th St.jpg
+| image_size               = 300px
+| image_caption            = Yorkville, as seen from a [[highrise]] on East [[87th Street (Manhattan)|87th Street]]
+| image                    = <!-- other image (specify File: or Image: namespace) -->
+| nickname                 = 
+| motto                    = 
+| pushpin_map              = <!--USA New York City#USA New York#USA-->
+| pushpin_label_position   = 
+| pushpin_map_caption      = <!--Location-->
+<!-- location ------------------>
+| image_map                = {{maplink|frame=y|plain=yes|frame-align=center|zoom=12|type=line<!--shape-->|id=Q1189975|stroke-color=#000|stroke-width=1}}<!--{{maplink|frame=y|plain=yes|frame-align=center|frame-lat=40.705|frame-long=-73.975|zoom=9|type=point|coord={{coord|40.776|-73.950}}}}-->
+| map_alt                  = 
+| map_caption              = Location in New York City
+| coordinates              = {{Coord|40.776|-73.950|type:city_region:US-NY|display=inline,title}}
+| coordinates_footnotes    = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New York}}
+| subdivision_type2       = [[City]]
+| subdivision_name2       = [[New York City]]
+| subdivision_type3       = [[Borough (New York City)|Borough]]
+| subdivision_name3       = [[Manhattan]]
+| subdivision_type4       = [[Community boards of Manhattan|Community District]]
+| subdivision_name4       = [[Manhattan Community Board 8|Manhattan 8]]<ref name="NYCPlanning">{{cite web|title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/manhattan/8|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=March 18, 2019}}</ref>
+<!-- area ---------------------->
+| area_footnotes           = <ref name="stats">{{cite web|url=http://www.city-data.com/neighborhood/Yorkville-Manhattan-NY.html|title=Yorkville neighborhood in New York|access-date=August 13, 2018}}{{Dead link|date=February 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| area_total_sq_mi         = 0.492 
+<!-- population ---------------->
+| population_footnotes     = <ref name="stats"/>
+| population_total         = 35,221
+| population_as_of         = 2016
+| population_density_km2   = <!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi = auto
+| population_note          = 
+| population_demonym       =
+<!-- demographics (section 1) -->
+| demographics_type1       = Ethnicity
+| demographics1_footnotes  = 
+| demographics1_title1     = White
+| demographics1_info1      = 
+| demographics1_title2     = Black
+| demographics1_info2      = 
+| demographics1_title3     = Hispanic
+| demographics1_info3      = 
+| demographics1_title4     = Asian
+| demographics1_info4      = 
+| demographics1_title5     = Other
+| demographics1_info5      = 
+<!-- demographics (section 2) -->
+| demographics_type2       = Economics
+| demographics2_footnotes  = 
+| demographics2_title1     = [[Median household income|Median income]]
+| demographics2_info1      = $103,234
+<!-- postal codes, area code --->
+| timezone1               = [[Eastern Time Zone|Eastern]]
+| utc_offset1             = −5
+| timezone1_DST           = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST         = −4
+| postal_code_type        = [[ZIP Code]]s
+| postal_code             = 10028, 10075, 10128
+| area_code_type          = [[Telephone numbering plan|Area code]]
+| area_code               = [[Area codes 212, 646, and 332|212, 332, 646]], and [[Area code 917|917]]
+}}

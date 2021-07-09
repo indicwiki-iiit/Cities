@@ -1,0 +1,37 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Isparta
+|settlement_type = [[Municipality]]
+| image_skyline           = DaglardanIsparta.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey #Europe #Asia #Earth
+|pushpin_relief           = 1
+| coordinates             = {{coord|37|45|53|N|30|33|24|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_type2       = [[Districts of Turkey|District]]
+| subdivision_name1       = [[Isparta Province|Isparta]]
+| subdivision_name2       = Isparta
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Şükrü Başdeğirmen
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Isparta|Isparta}}
+| elevation_m             = 
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Isparta}}
+| population_urban        = {{Turkey district populations|Isparta|Isparta|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Isparta|Isparta|toplam}}
+| population_density_blank1_km2  = auto
+| timezone                = [[Time in Turkey|TRT]]
+| utc_offset              = +3
+| postal_code_type        = Post code
+| postal_code             = 32000
+| website                 = {{URL| www.isparta.bel.tr | www.isparta.bel.tr }}
+}}

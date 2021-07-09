@@ -1,0 +1,33 @@
+{{Infobox German location
+|type                = Stadt
+|image_photo        = Marktkirche Clausthal.JPG
+|image_caption      = Church in 2005
+|image_coa             = Wappen Clausthal-Zellerfeld.png
+|coordinates        = {{coord|51|48|18|N|10|20|08|E|format=dms|display=inline,title}}
+|image_plan = Clausthal-Zellerfeld in GS.svg
+|state         = Lower Saxony
+|district          = Goslar
+|Samtgemeinde       = 
+|elevation               = 560
+|area             = 43.71
+|population          = 15769
+|Stand              = 2013-12-31
+|pop_ref            = <ref>{{cite web|title=Bevölkerungsfortschreibung|url=http://www1.nls.niedersachsen.de/statistik/|author=Niedersächsisches Landesamt für Statistik |language=de}}</ref>
+|postal_code                = 38678
+|area_code            = 05323
+|licence                = GS, BRL, CLZ
+|Gemeindeschlüssel  = 03 1 53 018
+|NUTS               = <!-- NUTS value: DEXXX  - WILL NOT BE DISPLAYED -->
+|LOCODE             = <!-- UN/LOCODE value: "DE XXX"  - WILL NOT BE DISPLAYED -->
+|divisions         = 4 districts
+|Adresse-Verband    = An der Marktkirche 8<br />38678 Clausthal-Zellerfeld
+|website            = [http://www.clausthal-zellerfeld.de/ www.clausthal-zellerfeld.de]
+|mayor      = Britta Schweigel 
+|Bürgermeistertitel = <!-- Only when different from [[Bürgermeister]] -->
+|party             = independent
+|ruling_party1      = <!-- Leading political party currently in power - give abbreviations -->
+|ruling_party2      = <!-- 2nd ruling political party - give abbreviations -->
+|ruling_party3      = <!-- 3rd ruling political party - give abbreviations -->
+|year               = <!-- Year founded (not "year of first recorded mention"), no wikilinking.
+                            Give a year, a decade or a century. Places article in "Category: XXXX establishments" -->
+}}

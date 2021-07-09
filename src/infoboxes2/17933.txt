@@ -1,0 +1,39 @@
+{{Infobox company
+| name                = Nokia Corporation
+| logo                = [[File:Nokia wordmark.svg|250px]]
+| logo_caption = Logo since 1978
+| image               = Midpoint Nokia Karaportti.jpg
+| image_size          = 250px
+| image_caption       = Headquarters in [[Espoo]]<br>since September 2019<ref name="Nokia_headoffice">{{cite web | url = https://www.nokia.com/contact-us/ | title = Contact us | language = en | publisher = Nokia | access-date = 17 September 2019}}</ref>
+| native_name         = Nokia Oyj
+| native_name_lang    = fi
+| type                = [[Osakeyhtiö#Julkinen osakeyhtiö|Julkinen osakeyhtiö]] ([[public company]])
+| traded_as           = {{unbulleted list|{{OMX|HEX24311|NOKIA}}|{{Euronext|NOKIA|FI0009000681|XPAR}}|{{NYSE|NOK}}}}
+| ISIN                = FI0009000681
+| industry            = {{unbulleted list|class=nowrap|[[Telecoms equipment]]|[[Networking equipment]]|[[Consumer electronics]]}}
+| predecessors        = {{unbulleted list|Nokia Aktiebolag|[[Nokian Footwear|Suomen Kumitehdas Oy]]|[[Kaapelitehdas|Suomen Kaapelitehdas Oy]]|<small>(Pre-1967 merger)</small>}}
+| founded             = {{start date and age|df=yes|1865|5|12}} in [[Tampere]], [[Grand Duchy of Finland]]
+| founders            = {{unbulleted list|[[Fredrik Idestam]]|[[Leo Mechelin]]|[[Eduard Polón]]}}
+| hq_location_city    = [[Espoo]]
+| hq_location_country = [[Finland]]
+| area_served         = Worldwide
+| key_people          = {{unbulleted list|[[Sari Baldauf]] (Chairman)|[[Pekka Lundmark]] (President &{{wbr}}&nbsp;CEO)}}
+| products            = [[List of Nokia products]]
+| services            =
+| revenue             = {{decrease}} {{€|23.33|link=yes}} billion<ref name="Nokia_Total_Revenue_2019">{{cite web | url = https://www.nokia.com/system/files/2020-03/Nokia%20in%202019%20annual%20report_1.pdf | title = Nokia Annual Report 2019 | language = en | publisher = Nokia | access-date = 27 June 2020}}</ref>
+| revenue_year        = 2019
+| operating_income    = {{increase}} {{€|485}} million<ref name="Nokia_Total_Revenue_2019"/>
+| income_year         = 2019
+| net_income          = {{increase}} {{€|18}} million<ref name="Nokia_Total_Revenue_2019"/>
+| net_income_year     = 2019
+| assets              = {{increase}} {{€|39.12}} billion<ref name="Nokia_Total_Assets_2006-2020">{{cite web | url = https://www.macrotrends.net/stocks/charts/NOK/nokia/total-assets | title = Contact us | language = en | publisher = Nokia | access-date = 27 June 2020}}</ref>
+| assets_year         = 2019
+| equity              = {{decrease}} {{€|15.4}} billion<ref name="Nokia_Total_Revenue_2019"/>
+| equity_year         = 2019
+| num_employees       = {{decrease}} 98,322<ref name="Nokia_Total_Assets_2006-2020" />
+| num_employees_year  = 2020
+| divisions           = {{unbulleted list|[[Nokia Networks]]|[[Nokia Technologies]]}}
+| subsid              = {{unbulleted list|[[Bell Labs]]|NGP Capital|Nuage Networks|Radio Frequency Systems}}
+| website             = {{URL|https://www.nokia.com}}
+| footnotes           = <ref name="YTJ">{{cite web| url= http://www.ytj.fi/yritystiedot.aspx?yavain=20939&kielikoodi=1&tarkiste=FD3B80E3D3656AD15912547886CEFA0227C1A07F&path=1547;1631;1678| title= Nokia| publisher= YTJ.fi| access-date= 2 March 2013| language= fi| url-status=dead| archive-url= https://web.archive.org/web/20130510091035/http://www.ytj.fi/yritystiedot.aspx?yavain=20939&kielikoodi=1&tarkiste=FD3B80E3D3656AD15912547886CEFA0227C1A07F&path=1547;1631;1678| archive-date= 10 May 2013| df= dmy-all}}</ref><ref name="AR2018">{{cite web|url=https://www.nokia.com/sites/default/files/ec1042891_nokia_ar18_en.pdf|title=Report for Q4 and Full Year 2018|publisher=Nokia Corporation|date=21 March 2019|access-date=28 May 2019|archive-date=27 May 2019|archive-url=https://web.archive.org/web/20190527214919/https://www.nokia.com/sites/default/files/ec1042891_nokia_ar18_en.pdf|url-status=dead}}</ref>
+}}

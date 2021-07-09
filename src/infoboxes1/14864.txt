@@ -1,0 +1,73 @@
+{{Infobox settlement
+| name                            = Hưng Yên Province
+| native_name                     = Tỉnh Hưng Yên
+| native_name_lang                = vi
+| type                            = [[Provinces of Vietnam|Province]]
+| image_skyline                   = {{photomontage
+| spacing = 1
+| color_border = white
+| color = white
+| size = 280
+|photo1a=Văn miếu Xích Đằng 01.JPG
+|photo1b=Văn miếu Xích Đằng 02.JPG
+|photo2a=VG Hung Yen.jpg
+|photo2b=Xuan Quan Van Giang Hung Yen.jpg
+|photo3a=Ecopark Hung Yen.jpg
+|photo3b=PVF Hưng Yên.jpg
+|photo4a=Thành Phố Hưng Yên.jpg
+|photo4b=Phật Quang.jpeg
+}}
+| image_caption                   = 
+| nickname                        = Idyllic Prosperity
+| image_map                       = Hung Yen in Vietnam.svg
+| map_caption                     = Location of Hưng Yên within Vietnam
+| image_map1                      = {{Infobox mapframe|zoom=9|frame-width=280}}
+| coordinates                     = {{coord|20|50|N|106|5|E|region:VN_type:adm1st|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Vietnam}}
+| subdivision_type1               = [[Regions of Vietnam|Region]]
+| subdivision_name1               = [[Red River Delta]]
+| seat_type                       = Capital
+| seat                            = [[Hưng Yên]]
+| government_type                 = [[Provinces of Vietnam|Province]]
+| governing_body                  = Hưng Yên Provincial People's Council
+| parts_type                      = Subdivision
+| parts                           = 1 city, 8 rural districts, one town
+| leader_title1                   = Chairman of People's Council
+| leader_name1                    = Trần Quốc Toản
+| leader_title2                   = Chairman of People's Committee
+| leader_name2                    = Trần Quốc Văn
+| area_footnotes                  = <ref name="area_2018">{{cite act | index=2908/QĐ-BTNMT| title=Phê duyệt và công bố kết quả thống kê diện tích đất đai của cả nước năm 2018|language=Vietnamese|trans-title=Announcements of area statistics for the whole country in 2018|url=http://www.monre.gov.vn/VanBan/Lists/VanBanChiDao/Attachments/2299/QD%202908.rar|legislature = [[Ministry of Natural Resources and Environment (Vietnam)]]|date={{date|2019-11-13|mdy}}}} - the data in the report are in ares, rounded to integers</ref>
+| area_total_km2                  = 930.22
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = <ref name=census>{{cite book
+| author = [[General Statistics Office of Vietnam]]  | year = 2019  | url = https://www.gso.gov.vn/wp-content/uploads/2019/12/Ket-qua-toan-bo-Tong-dieu-tra-dan-so-va-nha-o-2019.pdf  | title = "Completed Results of the 2019 Viet Nam Population and Housing Census"  | publisher = Statistical Publishing House (Vietnam)  | isbn= 978-604-75-1532-5 }}</ref>
+| population_total                = 1,252,731
+| population_urban                = 152,918
+| population_as_of                = 2019
+| population_density_km2          = auto
+| demographics_type1              = [[List of ethnic groups in Vietnam|Ethnic groups]]
+| demographics1_footnotes         = <ref name=census/>
+| demographics1_title1            = [[Vietnamese people|Vietnamese]]{{#tag:ref|Also called Kinh people}}
+| demographics1_info1             = 99.1%
+| demographics1_title2            = [[Tày people|Tày]]
+| demographics1_info2             = 0.2%
+| demographics1_title3            = [[Thai people in Vietnam|Thái]]
+| demographics1_info3             = 0.2%
+| demographics1_title4            = [[Mường people|Mường]]
+| demographics1_info4             = 0.2%
+| demographics1_title5            = Others
+| demographics1_info5             = 0.3%
+| timezone                        = [[Indochina Time|ICT]]
+| utc_offset                      = +07:00
+| area_code_type                  = [[Telephone numbers in Vietnam|Area codes]]
+| area_code                       = 221
+| iso_code                        = [[ISO 3166-2:VN|VN-66]]
+| blank_name_sec2                 = [[Köppen climate classification|Climate]]
+| blank_info_sec2                 = [[Humid subtropical climate|Cwa]]
+| registration_plate_type         = [[Vehicle registration plates of Vietnam|License plate]]
+| registration_plate              = 89
+| website                         = {{URL|http://hungyen.gov.vn/en-us/Pages/Default.aspx|hungyen.gov.vn}}
+| official_name                   = 
+}}

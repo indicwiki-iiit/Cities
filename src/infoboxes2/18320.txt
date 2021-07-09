@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{HUN}}
+|pushpin_map            = Hungary#Europe
+|pushpin_relief         = 1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Gyöngyös
+|image_skyline = Matra-Muzeum1.jpg
+|image_caption = [[Orczy palace]] of [[Orczy]] family
+|image_shield = Coa_Hungary_Town_Gyöngyös.svg
+|image_flag = Flag of Gyöngyös.svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Gyöngyös 
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Heves County|Heves]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Gyöngyös District|Gyöngyös]]
+|area_total_km2=54.1
+|population_as_of=2001
+|population_total=33553
+|population_footnotes=
+|population_density_km2=620
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=3200
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 37
+|website={{URL|http://www.gyongyos.hu/}}
+|coordinates     = {{coord|47.7833|19.9333|region:HU|display=inline}}
+}}

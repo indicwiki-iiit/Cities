@@ -1,0 +1,41 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Coro
+| official_name           = Santa Ana de Coro
+| native_name             = <!-- if different from the English name -->
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name              =
+| coordinates = {{coord|11.417|N|69.67|W|region:VE_type:city|format=dms|display=inline,title}}
+| settlement_type         = [[List of cities in Venezuela|Capital City]]
+| subdivision_type  = [[List of sovereign states|Country]]
+| subdivision_type1 = [[States of Venezuela|State]]
+| subdivision_type2 = [[Municipalities of Venezuela|Municipality]]
+| subdivision_name  = {{flag|Venezuela}}
+| subdivision_name1 = [[Falcón]]
+| subdivision_name2 = Miranda
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Desert climate#Hot desert climates|BWh]]
+| footnotes = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Coro and its Port
+  |ID = 658
+  |Year = 1993
+  |Danger = 2005 - 
+  |Criteria = Cultural: iv, v
+  |Area = 18.4 ha
+  |Buffer_zone = 186.3 ha
+  }}
+| image_skyline           = {{Photomontage
+| photo1a = Casco central Santa Ana de Coro, estado Falcon, Venezuela.jpg
+| photo2a = Estación de Servicio Lara, Coro, Estado Falcón, Venezuela.jpg
+| photo2b = Coro 0035.jpg
+| photo3a = Los Médanos de Coro, Estado Falcón, Venezuela.jpg
+| photo3b = Calle de Coro.JPG
+| size = 260
+| spacing = 
+| color = white
+| border = 2
+| color_border = white
+}}
+}}

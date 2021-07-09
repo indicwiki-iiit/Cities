@@ -1,0 +1,31 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Körfez
+| image_skyline           = File:Nostaljik_gemimiz_©Abdullah_Kiyga_-_panoramio_(1).jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|47|N|29|44|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Kocaeli Province|Kocaeli]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = 
+| leader_title            = <!-- Mayor -->
+| leader_name             = [[Hasan Hüseyin Can]]
+| area_footnotes          = <ref name=area-hgk>{{cite web|title=İl ve İlçe Yüzölçümleri|trans-title=Provincial and District surface area|url=http://www.hgk.msb.gov.tr/urunler/diger/il_ilce_alanlari.pdf|publisher=Harita Genel Komutanlığı|access-date=2013-02-28|language=Turkish}}</ref>{{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Kocaeli|Körfez}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Kocaeli}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Kocaeli|Körfez|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Kocaeli|Körfez|toplam}}
+| population_density_blank1_km2 = auto
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

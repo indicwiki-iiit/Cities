@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = Tarboro, North Carolina
+|official_name            = Town of Tarboro
+|settlement_type          = [[Town]]
+|nickname                 = T-Town
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Tarboro, North Carolina 04.jpg
+|imagesize                = 250x200px
+|image_caption            = Main Street, downtown
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = Tarboronc.png
+|blank_emblem_type        = Seal
+|blank_emblem_size        = 140px
+
+<!-- Maps -->
+|image_map                = Edgecombe County North Carolina incorporated and unincorporated areas Tarboro highlighted.svg
+|mapsize                  = 270px
+|map_caption              = Location in [[Edgecombe County, North Carolina|Edgecombe County]] and the state of [[North Carolina]].
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{US}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|North Carolina}}
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Edgecombe County, North Carolina|Edgecombe]]
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Joe W. Pitt
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = 1760
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 30.03
+|area_land_km2            = 29.94
+|area_water_km2           = 0.10
+|area_total_sq_mi         = 11.60
+|area_land_sq_mi          = 11.56
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 11415
+|population_density_km2   = 357.89
+|population_density_sq_mi = 926.90
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 13
+|elevation_ft             = 43
+|coordinates              = {{coord|35|54|10|N|77|32|45|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 27886
+|area_code                = [[Area code 252|252]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-66700<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1022886<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.tarboro-nc.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 10715
+}}

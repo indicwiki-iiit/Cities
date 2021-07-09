@@ -1,0 +1,33 @@
+{{Infobox settlement
+| name                = Meru 
+| settlement_type     = City
+| pushpin_map         = Kenya
+| coordinates         = {{coord|0|03|N|37|39|E|region:KE|display=inline,title}}
+| subdivision_type    = Country
+| subdivision_name    = {{flag|Kenya}}
+| subdivision_type1   = County
+| subdivision_name1   = [[Meru County]]
+| established_title   = Founded
+| established_date    = 1911
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+| seat_type           = 
+| seat                = 
+| parts_type          = [[List of constituencies of Kenya|Constituencies]]
+| parts_style         = 
+| parts               = 
+| p1                  = [[South Imenti]]
+| leader_title        = [[Governor of Meru|Governor]]
+| leader_name         = H.E. Hon. [[Kiraitu Murungi]]
+| unemployment_rate = 
+| website = http://meru.go.ke/
+| p2                  = [[Central Imenti]]
+| p3                  = [[North Imenti]]
+| p4                  = [[Igembe South]]
+| p5                  = [[Igembe North]]
+| p6                  = [[Igembe Central]]
+| p7                  = [[Tigania East]]
+| p8                  = [[Tigania West]]
+| p9                  = [[Buuri]]
+| timezone            = [[East Africa Time|EAT]]
+| utc_offset          = +3
+}}

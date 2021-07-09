@@ -1,0 +1,35 @@
+{{Infobox settlement
+|settlement_type        = City
+|official_name          =  Berazategui
+|image_shield           =  
+|image_skyline          =
+|imagesize              = 240px
+|image_caption          = 
+|pushpin_map            = Argentina Greater Buenos Aires
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in [[Greater Buenos Aires]]
+|pushpin_mapsize        =240
+|pushpin_map1            =
+|pushpin_label_position1 =
+|pushpin_map_caption1    =
+|pushpin_mapsize1        =
+|subdivision_type        = Country
+|subdivision_name        = {{ARG}}
+|subdivision_name1       = {{flag| Buenos Aires Province}}
+|subdivision_type1      = [[Provinces of Argentina|Province]] 
+|subdivision_type2      = [[Partidos of Buenos Aires|Partido]]
+|subdivision_name2      = [[Berazategui Partido|Berazategui]]
+|established_title      = Founded
+|established_date       = 1856
+|population_as_of               = {{census-ar|2001}}
+|population_total               = 167,498
+|population_density_km2         = 7264
+|coordinates            = {{coord|34|43|S|58|15|W|region:AR|display=inline,title}}
+|elevation_m            =  22
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Humid subtropical climate|Cfa]]
+|postal_code_type       = [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 1880 & [[ISO 3166-2:AR|B]] 1884
+|area_code              = +[[Telephone numbers in Argentina|54]] 11
+|website                =
+}}

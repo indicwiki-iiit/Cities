@@ -1,0 +1,37 @@
+{{Infobox settlement
+|name                    = Novi Iskar
+|native_name             = Нови Искър
+|native_name_lang        = bg
+|settlement_type         = Town
+|image_skyline           = NoviIskarObshtina.jpg
+|image_caption           = 
+|image_flag              = 
+|image_shield            = 
+|image_map               = Sofia-Novi Iskar.png
+|map_caption             = Location of Novi Iskar
+|pushpin_map             = Bulgaria
+|pushpin_map_caption     = Location of Novi Iskar
+|coordinates             = {{coord|42|48|N|23|21|E|region:BG|display=inline,title}}
+|subdivision_type        = Country
+|subdivision_name        = [[Bulgaria]]
+|subdivision_type1       = [[Provinces of Bulgaria|Province]]
+|subdivision_name1       = [[Sofia|Sofia City]]
+|leader_party            = [[GERB]]
+|leader_title            = Mayor
+|leader_name             = Danyela Raicheva
+|unit_pref               = Metric
+|area_total_km2          = 52,80
+|elevation_m             = 509
+|population_as_of        = 2020
+|population_total        = 13,768
+|population_density_km2  = auto
+|timezone1               = [[Eastern European Time|EET]]
+|utc_offset1             = +2
+|timezone1_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset1_DST         = +3
+|postal_code             = 1280
+|area_code               = 02 991
+|blank_name_sec1         = [[Vehicle registration plates of Bulgaria|License plate]]
+|blank_info_sec1         = С, СА, СВ
+|website                 = {{URL|www.novi-iskar.bg}}
+}}

@@ -1,0 +1,34 @@
+{{Infobox settlement
+|official_name          = Växjö
+|image_skyline          = Kronoberg LC0227.jpg
+|image_size             = 275px
+|image_caption          = Ruins of Kronoberg Castle, Växjö
+|image_shield           = Växjö vapen.svg
+|pushpin_map            = Sweden Kronoberg#Sweden
+|pushpin_label_position =
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{SWE}}
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Växjö Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Kronoberg County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Småland]]
+|area_footnotes         = <ref name=scb>{{Cite web |date=14 December 2011 |title=Tätorternas landareal, folkmängd och invånare per km<sup>2</sup> 2005 och 2010 |url=http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |url-status=dead |archive-url=https://web.archive.org/web/20120127055525/http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |archive-date=27 January 2012 |access-date=10 January 2012 |publisher=[[Statistics Sweden]] |language=sv |df=dmy-all}}</ref>
+|area_total_km2         = 30.28
+|population_as_of       = 5 September 2017
+|population_footnotes   = <ref name=scb />
+|population_total       = 66275
+|population_metro       = 90721
+|population_density_km2 = 2011
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|56|52|37|N|14|48|33|E|region:SE|display=inline,title}}
+|elevation_m            = 167
+|postal_code_type       = Postal code
+|postal_code            = 35x xx
+|area_code              = (+46) 470
+|website                = {{URL|www.vaxjo.se}}
+}}

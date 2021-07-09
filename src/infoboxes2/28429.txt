@@ -1,0 +1,43 @@
+{{Infobox mineral
+| name        = Garnet
+| category    = [[Nesosilicate]]
+| boxwidth    =
+| boxbgcolor  = #FF9977
+| boxtextcolor = black
+| image       = Garnet Andradite20.jpg
+| alt         = 
+| caption     = 
+| formula     =  The general formula <!--
+                -->''X''<sub>3</sub>''Y''<sub>2</sub>(SiO<sub>4</sub>)<sub>3</sub>
+| molweight   = 
+| symmetry = Ia3d
+| class = <math>4/m\bar{3} 2/m</math>
+| color       = virtually all colors, blue is very rare
+| habit       = [[Rhombic dodecahedron]] or cubic
+| system      = [[Cubic (crystal system)|Isometric]]
+| twinning    = 
+| cleavage    = Indistinct
+| fracture    = conchoidal to uneven
+| mohs        = 6.5–7.5
+| luster      = vitreous to resinous
+| polish      = vitreous to subadamantine<ref name="GRG"/>
+| refractive  = 1.72–1.94
+| opticalprop = Single refractive, often anomalous double refractive<ref name="GRG"/>
+| birefringence = None
+| pleochroism = None
+| streak      = White
+| gravity     = 3.1–4.3
+| melt        = 
+| fusibility  = 
+| diagnostic  = 
+| solubility  = 
+| diaphaneity = 
+| fluorescence= variable
+| other       = variable magnetic attraction
+| var1 = Pyrope       | var1text = Mg<sub>3</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+| var2 = Almandine    | var2text = Fe<sub>3</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+| var3 = Spessartine  | var3text = Mn<sub>3</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+| var4 = Andradite    | var4text = Ca<sub>3</sub>Fe<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+| var5 = Grossular    | var5text = Ca<sub>3</sub>Al<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+| var6 = Uvarovite    | var6text = Ca<sub>3</sub>Cr<sub>2</sub>Si<sub>3</sub>O<sub>12</sub>
+}}

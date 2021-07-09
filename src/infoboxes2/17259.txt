@@ -1,0 +1,59 @@
+{{Infobox settlement
+|name                   = Sorel-Tracy
+|settlement_type        = [[City (Quebec)|City]]
+|image_skyline          = Soreltracy.png
+|image_caption          = Aerial view of Sorel-Tracy
+|image_map              = Sorel-Tracy Quebec location diagram.PNG
+|map_caption            = Location within Pierre-De Saurel RCM.
+|pushpin_map            = Canada Southern Quebec
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in southern Quebec.
+|coordinates            = {{coord|46|02|N|73|07|W|region:CA-QC|display=inline,title}}
+|coordinates_footnotes  = <ref name=toponymie/>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Montérégie]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[Pierre-De Saurel Regional County Municipality|Pierre-De Saurel]]
+|established_title1     = Constituted
+|established_date1      = March 15, 2000
+|government_footnotes = <ref name=mamrot>[https://www.mamrot.gouv.qc.ca/recherche-avancee/fiche/municipalite/53052/ Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Sorel-Tracy]</ref><ref>[https://lop.parl.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Language=E&Search=Det&rid=1415&Include= Parliament of Canada Federal Riding History: BAS-RICHELIEU--NICOLET--BÉCANCOUR (Quebec)]</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Serge Péloquin
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Bécancour—Nicolet—Saurel]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Richelieu (provincial electoral district)|Richelieu]]
+|area_footnotes         = <ref name="csd2016">[https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2453052&Geo2=CD&Code2=2453&SearchText=Sorel-Tracy&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 Sorel-Tracy, Ville (Census subdivision), Quebec and Pierre-De Saurel, Municipalité régionale de comté (Census division), Quebec]</ref><ref name=mamrot/><ref name="cp2016">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2453052&Geo2=PR&Code2=24&Data=Count&SearchText=Sorel-Tracy&SearchType=Begins&SearchPR=01&B1=All&Custom= 2011 Statistics Canada Census Profile: Sorel-Tracy, Quebec]</ref>
+|area_land_km2          = 57.46
+|area_metro_footnotes   =<ref name="cp2016-CA">[https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=454&Geo2=PR&Code2=47&Data=Count&SearchText=Sorel-Tracy&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=454&TABID=1 2016 Statistics Canada Census Profile: Sorel-Tracy (Census agglomeration), Quebec].  The census agglomeration consists of Sorel-Tracy, [[Contrecoeur, Quebec|Contrecoeur]], [[Saint-Joseph-de-Sorel, Quebec|Saint-Joseph-de-Sorel]], [[Sainte-Anne-de-Sorel, Quebec|Sainte-Anne-de-Sorel]], [[Sainte-Victoire-de-Sorel, Quebec|Sainte-Victoire-de-Sorel]]. In the 2006 census, the census agglomeration had also included [[Saint-Ours, Quebec|Saint-Ours]].</ref>
+|area_metro_km2         = 233.78
+|population_footnotes   = <ref name="csd2016"/>
+|population_total       = 34755
+|population_as_of       = 2016
+|population_density_km2     = 604.9
+|population_urban       =
+|population_density_urban_km2 =
+|population_metro_footnotes   = <ref name="cp2016-CA"/>
+|population_metro       = 47772
+|population_density_metro_km2 = 204.3
+|population_blank1_title        = Pop&nbsp;<small>2011–2016</small>
+|population_blank1              = {{increase}} 0.3%
+|population_blank2_title        = Dwellings
+|population_blank2              = 16737
+|population_note        =
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            =[[List of J postal codes of Canada|J3P-J3R]]
+|area_code              = [[Area codes 450 and 579|450 and 579]]
+|blank_name             = Highways<br/>{{jct|state=QC|A|30}}
+|blank_info             = <br/>{{jct|state=QC|QC|132}}<br/>{{jct|state=QC|QC|133}}<br/>{{jct|state=QC|QC|223}}
+|website                = {{URL|www.ville.sorel-tracy.qc.ca}}
+}}

@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Oskaloosa, Iowa
+|settlement_type          = [[List of cities in Iowa|City]]
+|nickname                 = Osky
+|motto                    = "Note the Difference"
+
+<!-- Images -->
+|image_skyline            = Mahaska County, Iowa Courthouse.jpg
+|imagesize                = 
+|image_caption            = The [[Mahaska County Courthouse]] in Oskaloosa is listed on the [[National Register of Historic Places listings in Mahaska County, Iowa|National Register of Historic Places]]
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Mahaska_County_Iowa_Incorporated_and_Unincorporated_areas_Oskaloosa_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Oskaloosa, Iowa
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = Iowa#USA
+| pushpin_label = Oskaloosa
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Iowa}}
+|subdivision_type2        = [[List of counties in Iowa|County]]
+|subdivision_name2        = [[Mahaska County, Iowa|Mahaska]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        =  [[Municipal corporation|Incorporated]]
+|established_date         = February 4, 1875<ref name="CDOskaloosa">{{cite web
+  | url= http://www.city-data.com/city/Oskaloosa-Iowa.html
+  | title= Oskaloosa, Iowa | publisher=City-Data
+  | access-date=January 21, 2011}}</ref>
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 20.82
+|area_land_km2            = 20.78
+|area_water_km2           = 0.04
+|area_total_sq_mi         = 8.04
+|area_land_sq_mi          = 8.02
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 11506
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 11463
+|population_density_km2   = 553.82
+|population_density_sq_mi = 1434.31
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 256
+|elevation_ft             = 840
+|coordinates              = {{coord|41|17|38|N|92|38|40|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 52577
+|area_code                = [[Area code 641|641]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 19-59925
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0459908
+|website                  = [http://www.oskaloosaiowa.org/ Official City of Oskaloosa website]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

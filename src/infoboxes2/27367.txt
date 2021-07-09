@@ -1,0 +1,72 @@
+{{Infobox settlement
+|official_name            = Ocean Shores
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+<!-- Images ---------------->
+|image_skyline            = Ocean Shores, WA — Main Entrance.jpg
+|imagesize                = 
+|image_caption            = Ocean Shores main entrance
+|image_flag               = 
+|image_seal               = 
+<!-- Maps ------------------>
+|image_map                = Grays_Harbor_County_Washington_Incorporated_and_Unincorporated_areas_Ocean_Shores_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Ocean Shores, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -------------->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[Grays Harbor County, Washington|Grays Harbor]]
+<!-- Government ------------>
+|government_footnotes     = 
+|government_type          = Mayor-Council
+|leader_title             = Mayor
+|leader_name              = Crystal Dingler
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+<!-- Area ------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 35.68
+|area_land_km2            = 22.06
+|area_water_km2           = 13.62
+|area_total_sq_mi         = 13.78
+|area_land_sq_mi          = 8.52
+|area_water_sq_mi         = 5.26
+<!-- Population ------------>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6494
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5569
+|population_density_km2   = 294.32
+|population_density_sq_mi = 762.30
+<!-- General information --->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 7
+|elevation_ft             = 23
+|coordinates              = {{coord|46|58|18|N|124|9|17|W|region:US-WA|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 98569
+|area_code                = [[Area code 360|360]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-50570
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1510681<ref name="GR3">{{cite gnis|id=1510681|name=Ocean Shores}}</ref>
+|website                  = [http://www.osgov.com/ OSgov.com]
+|footnotes                = 
+}}

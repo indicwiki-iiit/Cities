@@ -1,0 +1,35 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Narre Warren North
+| city     = Melbourne
+| state    = vic
+| image    = 
+| caption  = 
+| lga      = City of Casey
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37.982|S|145.314|E|display=inline,title}}
+| postcode = 3804
+| pop      = 7,674
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS | id = SSC21883 | name = Narre Warren North (State Suburb) | accessdate = 17 November 2017 | quick = on}}</ref>
+| area     = 11.5
+| est      = 
+| stategov = [[Electoral district of Narre Warren North|Narre Warren North]]
+| fedgov = [[Division of Bruce|Bruce]]
+| fedgov2 = [[Division of La Trobe|La Trobe]]
+| mintemp  = 6.9
+| maxtemp  = 42.0
+| rainfall = 762.2
+| dist1    = 36
+| location1= Melbourne
+| dist2    = 10
+| location2= [[Dandenong, Victoria|Dandenong]]
+| near-nw  = [[Endeavour Hills, Victoria|Endeavour Hills]]
+| near-n   = [[Lysterfield, Victoria|Lysterfield]]
+| near-ne  = [[Narre Warren East, Victoria|Narre Warren East]]
+| near-w   = [[Hallam, Victoria|Hallam]]
+| near-e   = [[Harkaway, Victoria|Harkaway]]
+| near-sw  = [[Hampton Park, Victoria|Hampton Park]]
+| near-s   = [[Narre Warren, Victoria|Narre Warren]]
+| near-se  = [[Berwick, Victoria|Berwick]]
+}}

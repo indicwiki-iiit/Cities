@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = North Ogden, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = North Ogden Utah City Hall.jpeg
+|imagesize                = 
+|image_caption            = City hall
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Weber County Utah incorporated and unincorporated areas North Ogden highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Weber County, UT|Weber County]] and the state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Weber County, Utah|Weber]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1850
+|named_for                = [[Peter Skene Ogden]]
+|established_title1       = [[Incorporated town|Incorporated]]
+|established_date1        = 1934
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 19.44
+|area_land_km2            = 19.44
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 7.51
+|area_land_sq_mi          = 7.50
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 17357
+|population_density_km2   = 1058.87
+|population_density_sq_mi = 2742.44
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = 
+|elevation_m              = 1372
+|elevation_ft             = 4501
+|coordinates              = {{coord|41|18|36|N|111|57|32|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 84404, 84414
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-55100<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1443962<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{url|https://www.northogdencity.com/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 20582
+}}

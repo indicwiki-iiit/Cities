@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Limón
+| settlement_type         = [[Districts of Costa Rica|District]] and city
+<!-- Images, nickname, motto -->
+| image_skyline           = {{Photomontage|position=center
+| photo1a = Limon Costa Rica - Panoramic view.png
+| photo2a = Vasgas Park in Costa Rica.PNG
+| photo2c = PlayaBonita.JPG
+| photo3a = Limon Costa Rica - Historic Catholic Building.png
+| photo3b = Limon Costa Rica - 2nd Avenue.png
+| photo4a = Limon Costa Rica - MS Zuiderdam.png
+   | size = 260
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = Images, from top down, left to right: Panoramic view of Limón, Vargas Park, Playa Bonita, Historic Building of the Baptist Reverend Heath, Onlook of 2nd Avenue, the [[MS Zuiderdam]] docked at [[Port of Limón|Limón's Port]] terminal.}}
+| image_alt               =
+| image_caption           = 
+| image_flag              = 
+| flag_size               = 
+| flag_alt                =
+| image_shield            = Escudo de Limón.svg
+| shield_size             = 100x80px
+| shield_alt              =
+| nickname                = 
+| motto                   = {{lang|es|Paz y Trabajo}} <br/><small>(Peace and Work)</small>
+| image_map = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape}}
+|mapsize                = 275px
+|map_caption            = Puerto Limón and surrounding area
+|pushpin_map             = Costa Rica
+|pushpin_map_caption     = Location of Puerto Limón within Costa Rica
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{CRI}}
+| subdivision_type1       = [[Provinces of Costa Rica|Province]]
+| subdivision_name1       = [[Limón Province|Limón]]
+| subdivision_type2       = [[Cantons of Costa Rica|Canton]]
+| subdivision_name2       = [[Limón (canton)|Limón]]
+|leader_title                   = Syndic
+|leader_name                    = Roger David Navarro Sevilla
+|leader_title1                  =
+|leader_name1                   =
+|established_title              = Founded
+|established_date               = 1870
+|area_magnitude                 =
+|area_total_sq_mi               =
+|area_total_km2                 = 59.51
+|area_land_sq_mi                =
+|area_land_km2                  =
+|area_water_sq_mi               =
+|area_water_km2                 =
+|area_water_percent             =
+|area_urban_sq_mi               =
+|area_urban_km2                 =
+|area_metro_sq_mi               =
+|area_metro_km2                 =
+| population_total        = 61072
+| population_as_of        = 2011
+| population_density_km2  = auto
+|population_metro               =
+|population_urban               =
+|population_density_sq_km       =
+|population_density_sq_mi       =
+|population_density_metro_sq_km =
+|population_density_metro_sq_mi =
+|population_demonym             = ''limonense''<!-- Spanish demonyms are always displayed in lower-case -->
+|timezone1                      = [[UTC−06:00]]
+|coordinates                    = {{coord|10.0022155|-83.0840367|display=inline,title}}
+|elevation_m                    = 3
+|elevation_ft                   =
+|postal_code_type               = Postal code
+|postal_code                    = 70101
+|area_code                      =
+|blank_name                     = [[Köppen climate classification|Climate]]
+|blank_info                     = [[Tropical rainforest climate|Af]]
+}}

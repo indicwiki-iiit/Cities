@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = Central Saanich
+|official_name          = The Corporation of the District of Central Saanich<ref name=BCmunis>{{cite web|url=http://www.cscd.gov.bc.ca/lgd/infra/library/Name%20Incorp%202011.xls |title=British Columbia Regional Districts, Municipalities, Corporate Name, Date of Incorporation and Postal Address |publisher=British Columbia Ministry of Communities, Sport and Cultural Development |type=[[Microsoft Excel|XLS]] |access-date=November 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140713004716/http://www.cscd.gov.bc.ca/lgd/infra/library/Name%20Incorp%202011.xls |archive-date=July 13, 2014 }}</ref>
+|other_name             =
+|native_name            = 
+|nickname               = 
+|settlement_type        = [[List of district municipalities in British Columbia|District municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = 
+|image_map             = {{Location map+ |CAN BC Capital
+|caption = 
+|float = center
+| places =
+{{Location map~ |CAN BC Capital
+|label = Central Saanich
+|mark = Western Canada Map Assets Town.svg
+|marksize = 6
+|position = top
+|lat_deg = 48.582058
+|lon_deg = -123.418446}}
+}}
+|map_caption           = Location of Central Saanich within the [[Capital Regional District]]
+|image_flag             = Central Saanich flag.png
+|pushpin_map            = Canada British Columbia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = none<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Central Saanich in [[British Columbia]]
+|pushpin_mapsize        = 
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{BC}}
+|subdivision_type2      = [[Regions of Canada#British Columbia|Region]]
+|subdivision_name2      = [[Vancouver Island]]
+|subdivision_type3      = [[Regional districts of British Columbia|Regional district]]
+|subdivision_name3      = [[Capital Regional District, British Columbia|Capital Regional District]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Governing body
+|leader_name            = Central Saanich District Council
+|leader_title1          = Mayor
+|leader_name1           = Ryan Windsor
+|leader_title2          = [[Member of Parliament (Canada)|MP]]
+|leader_name2           = [[Elizabeth May]] ([[Green Party of Canada|Green]])
+|leader_title3          = [[Legislative Assembly of British Columbia|MLA]]
+|leader_name3           = [[Adam Olsen]] ([[Green Party of British Columbia|BC Green]]) 
+|established_title      = <!--Founded-->
+|established_date       = 
+|established_title2     = Incorporated
+|established_date2      = 1950
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = 
+|area_footnotes           = <ref name="Census2016">{{cite web |url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=5917015&Geo2=CD&Code2=5917&Data=Count&SearchText=central%20saanich&SearchType=Begins&SearchPR=01&B1=All&TABID=1 |title=Central Saanich, District municipality [Census subdivision], British Columbia and Capital, Regional district [Census division], British Columbia |publisher=[[Statistics Canada]] |date=January 23, 2017 |access-date=February 8, 2017}}</ref>
+|area_total_km2           = 41.33
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+<!-- Population   ----------------------->
+|population_as_of = [[Canada 2016 Census|2016]]
+|population_footnotes = <ref name="Census2016"/>
+|population_note =
+|population_total = <!--CENSUS 2016 DATA ONLY, DO NOT USE ESTIMATES -->16,814
+|population_density_km2 = 406.8
+|population_density_sq_mi =
+|population_metro = 
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban = 
+|population_density_urban_km2 =
+|population_density_urban_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Pacific Standard Time|PST]]
+|utc_offset             = -8
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|48|30|51|N|123|23|2|W|region:CA-BC|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 100
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of V postal codes of Canada|V8M]] 
+|area_code              = 
+|blank_name             = [[List of British Columbia provincial highways|Highways]]
+|blank_info             = [[British Columbia Highway 17|17]]
+|blank1_name            = Waterways
+|blank1_info            = [[Strait of Juan de Fuca]], [[Saanich Inlet]], [[Tod Inlet]]
+|website                = [http://www.centralsaanich.ca/ District of Central Saanich]
+|footnotes              = 
+}}

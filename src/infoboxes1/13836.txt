@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name = Puyo
+| official_name = Puyo
+| settlement_type = City
+<!-- images and maps  ----------->
+| image_flag = Bandera del Puyo.png
+| image_skyline = Vista del Puyo.JPG
+| image_shield = 
+| image_map = 
+| pushpin_map = Ecuador
+<!-- Location ------------------>
+| subdivision_type  = [[Countries of the world|Country]]
+| subdivision_type1 = [[Provinces of Ecuador|Province]]
+| subdivision_type2 = [[Cantons of Ecuador|Canton]]
+| subdivision_name  = [[Ecuador]]
+| subdivision_name1 = [[Pastaza Province]]
+| subdivision_name2 = [[Pastaza Canton]]
+<!-- Politics ----------------->
+| government_type = Mayor and council
+| leader_party = 
+| leader_title = Governing body
+| leader_name = Municipality of Puyo
+| leader_title1 = [[Mayor]]
+| leader_name1 = German Flores Meza
+| leader_title2 = [[City council]]
+| leader_name2 = {{Collapsible list
+| title       = List of council members
+| title_style = 
+| frame_style = border:none; padding: 0;
+| list_style  = text-align:left;display:none; 
+| 1=Maritza Elizabeth Campos Naula
+| 2=Wilson Heriberto Cañadas Sevilla
+| 3=Jorge Bladimir Ilbay Escobar
+| 4=Henry Fabian Palacios Fernandez
+| 5=Dayanne Marylin Poveda Flores
+| 6=Jimena Carolina Teran Sierra
+| 7=Raul Efren Valverde Gallardo}}
+| established_title = Foundation
+| established_date = November 10, 1899
+| founder = Unnamed Catholic priest
+| named_for = Puyu, meaning "clouds" in [[Quichua]]
+<!-- Elevation -------------------------->
+| elevation_m = 950
+| elevation_ft = 3116
+| area_total_km2 = 87.67
+<!-- Population   ----------------------->
+| population_as_of = 2010 census
+| population_note = 
+| population_total = 36659
+| population_density_km2 = auto
+| population_metro = 62016
+| population_blank1_title = [[Demonym]]
+| population_blank1 = Puyense
+<!-- General information  --------------->
+| timezone = [[Ecuador Time|ECT]]
+| utc_offset = -5
+| postal_code_type = Postal code
+| postal_code = EC160150 
+| area_code = (+593) 4
+| coordinates       = {{coord|01|29|10|S|78|00|10|W|region:EC|display=inline,title}}
+| website = {{URL|http://www.puyo.gob.ec}} {{in lang|es}}
+| blank_name = [[Köppen climate classification|Climate]]
+| blank_info = [[Tropical rainforest climate|Af]]
+}}

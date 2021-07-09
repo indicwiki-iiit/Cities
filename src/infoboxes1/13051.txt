@@ -1,0 +1,85 @@
+{{Infobox settlement
+| name                            = Rye, New York
+| official_name                   = City of Rye
+| settlement_type                 = City
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = The Jay Estate in Rye, NY.jpg
+| imagesize                       = 
+| image_caption                   = [[1838 Peter Augustus Jay House|Jay Estate]] is the childhood home of American Founding Father [[John Jay]].
+| image_flag                      = 
+| image_seal                      = rye-city-seal.jpg
+
+<!-- Maps -->
+| image_map                       = Westchester County New York incorporated and unincorporated areas Rye (city) highlighted.svg
+| mapsize                         = 
+| map_caption                     = Location in Westchester County and the state of New York
+
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| government_footnotes            = 
+| government_type                 = [[council-manager government|Council-Manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Josh Cohn ([[United States Democratic Party|D]])
+| leader_title1                   = [[City Manager|Interim City Manager]]
+| leader_name1                    = Greg Usry
+| leader_title2                   = [[City Council]]
+| leader_name2                    = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Julie N. Souza ([[United States Democratic Party|D]])
+ |2           = • Carolina Johnson ([[United States Democratic Party|D]])
+ |3           = • Pamela Tarlow ([[United States Democratic Party|D]])
+ |4           = • Sara W. Goddard ([[United States Democratic Party|D]])
+ |5           = • Ben Stacks ([[United States Democratic Party|D]])
+ |6           = • Richard J. Mecca ([[United States Republican Party|R]])
+}}
+| established_title               = Incorporated (as a village)
+| established_title2              = Reincorporated (as a city)
+| established_date                = 1904<ref name="Fiscal Profile">{{Cite web |last=Office of the Comptroller |date=2013 |title=Fiscal Profile |url=https://www.osc.state.ny.us/localgov/pubs/fiscalprofiles/rye.pdf |access-date=December 14, 2019}}</ref>
+| established_date2               = 1942<ref name="Fiscal Profile" />
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{Cite web |title=2019 U.S. Gazetteer Files |url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt |access-date=July 27, 2020 |publisher=United States Census Bureau}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 51.86
+| area_land_km2                   = 15.16
+| area_water_km2                  = 36.70
+| area_total_sq_mi                = 20.02
+| area_land_sq_mi                 = 5.85
+| area_water_sq_mi                = 14.17
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 15720
+| population_density_km2          = 1035.43
+| population_density_sq_mi        = 2681.53
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 
+| elevation_ft                    = 
+| coordinates                     = {{coord|40|58|52|N|73|41|02|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 10580
+| area_code                       = [[Area code 914|914]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-64309
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 
+| website                         = http://www.ryeny.gov
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse" />
+| population_est                  = 15695
+}}

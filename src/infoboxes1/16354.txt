@@ -1,0 +1,104 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info ---------------->
+|official_name = City of Woodland
+|name = Woodland, California
+|nickname = City of Trees
+|settlement_type = [[City (California)|City]]
+|motto = <!-- images and maps ----------->
+| image_skyline                   = {{Photomontage
+| photo1a                 = Yolo County Courthouse (cropped).jpg
+| photo2a                 = Hotel Woodland.jpg
+| photo2b                 = Walnut Street School.jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise: [[Yolo County Courthouse]]; Walnut Street School; [[Hotel Woodland]]
+}}
+|image_flag = Flag of Woodland, California.svg
+|image_seal = 
+|seal_size = 
+|image_blank_emblem = Woodlandlogo.png
+|blank_emblem_size = 100px
+|image_map = Yolo_County_California_Incorporated_and_Unincorporated_areas_Woodland_Highlighted.svg
+|mapsize = 250x200px
+|map_caption = Location in [[Yolo County, California|Yolo County]] and the state of [[California]]
+|pushpin_map = California#USA
+|pushpin_label          = Woodland
+|pushpin_label_position = top
+|pushpin_map_caption = Location in the State of California##Location in the contiguous United States
+|coordinates       = {{coord|38|40|43|N|121|46|24|W|type:city_region:US-CA_dim:5000|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Yolo County, California|Yolo]]
+<!-- Politics ----------------->
+|government_type = 
+|leader_title = [[Mayor]]
+|leader_name = Xóchitl Rodríguez<ref name="City Council">{{cite web | url=https://www.dailydemocrat.com/2018/12/05/new-woodland-mayor-says-she-will-serve-the-people/ | title=New Woodland Mayor Says She Will Serve the People | publisher=City of Woodland | access-date=December 5, 2018 | df=mdy-all | date=2018-12-05 }}</ref>
+|leader_title1 = [[Mayor Pro Tempore]]
+|leader_name1 = Rich Lansburgh<ref name="City Council"/>
+|leader_title2 = [[California's 3rd State Senate district|State senator]]
+|leader_name2 = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=January 27, 2015 |df=mdy-all |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title3 = [[California's 4th State Assembly district|Assemblymember]]
+|leader_name3 = {{Representative|caad|4|fmt=sleader}}<ref name=swd/>
+|leader_title4 = [[California's 3rd congressional district|U. S. rep.]]
+|leader_name4 = {{Representative|cacd|3|fmt=usleader}}<ref>{{Cite GovTrack|CA|3|access-date=March 1, 2013}}</ref>
+|established_title = 
+|established_date = 
+|established_title2 = [[Municipal corporation|Incorporated]]
+|established_date2 = February 22, 1871<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ | df = mdy-all
+ }}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 15.31
+| area_land_sq_mi         = 15.31
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 39.67
+| area_land_km2           = 39.67
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+|area_metro_km2 = 
+|area_metro_sq_mi = <!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0686328.html|title=Woodland (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|url-status=dead|archive-url=https://web.archive.org/web/20111225005330/http://quickfacts.census.gov/qfd/states/06/0686328.html|archive-date=December 25, 2011|df=mdy-all}}</ref>
+|population_total = 55468
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 60548
+|population_density_sq_mi = 3953.51
+|population_metro = 
+|population_density_metro_sq_mi = <!-- General information --------------->
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = -8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = -7
+|elevation_footnotes = <ref name="Cite GNIS|1652659|Woodland">{{Cite GNIS|1652659|Woodland}}</ref>
+|elevation_m = 21
+|elevation_ft = 69
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[ZIP code]]s
+|postal_code = 95695, 95776
+|area_code_type = [[North American Numbering Plan|Area code]]
+|area_code = [[Area code 530|530]]
+|blank_name = [[Federal Information Processing Standard|FIPS]] code
+|blank_info = {{FIPS|06|86328}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1652659}}, {{GNIS 4|2412300}}
+|website = {{URL|www.cityofwoodland.org}}
+|population_density_km2 = 1526.48
+}}

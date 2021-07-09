@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = South Bend, Indiana
+|official_name            = City of South Bend
+|settlement_type          = [[City]]
+|motto                    = "Peace"
+|image_skyline            = South-bend-indiana.jpg
+|imagesize                = 250px
+|image_caption            = Aerial view
+|image_flag               = Flag of South Bend, Indiana.svg
+|flag_link                = Flag of South Bend
+|image_seal               = south bend indiana seal.png
+|image_map                = St. Joseph County Indiana Incorporated and Unincorporated areas South Bend Highlighted 1871000.svg
+|mapsize                  = 250px
+|map_caption              = Location of South Bend in St. Joseph County, Indiana.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = USA Indiana#USA
+|pushpin_map_alt          = 
+|pushpin_map_caption      = 
+|pushpin_label            = South Bend
+|pushpin_label_position   = bottom
+|coordinates              = {{coord|41|40|35|N|86|15|01|W|region:US-IN_type:city|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Indiana}}
+|subdivision_type2        = [[List of counties in Indiana|County]]
+|subdivision_name2        = [[St. Joseph County, Indiana|St. Joseph]]
+|established_title        = Incorporated (City)
+|established_date         = 1865
+|government_type          = [[Mayor-council government|Strong Mayor-Council]]
+|leader_title             = [[List of mayors of South Bend, Indiana|Mayor]]
+|leader_name              = [[James Mueller (mayor)|James Mueller]] ([[Democratic Party (United States)|D]])
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_18.txt|publisher=United States Census Bureau|access-date=July 16, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 109.81
+|area_total_sq_mi         = 42.40
+|area_land_km2            = 108.70
+|area_land_sq_mi          = 41.97
+|area_water_km2           = 1.11
+|area_water_sq_mi         = 0.43
+|elevation_footnotes      = <ref name="GR3">{{cite web |url = http://geonames.usgs.gov |access-date = January 31, 2008 |title = US Board on Geographic Names |publisher = [[United States Geological Survey]] |date = October 25, 2007 }}</ref>
+|elevation_m              = 211
+|elevation_ft             = 692
+|population_total         = 101166
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="wwwcensusgov" />
+|population_density_km2   = 938.57
+|population_density_sq_mi = 2430.87
+|population_est           = 102026
+|pop_est_as_of            = 2019
+|population_metro         = 318,586 (US: [[List of Metropolitan Statistical Areas|152nd]])
+|population_blank1_title  = [[Combined statistical area|CSA]]
+|population_blank1        = 721,296 (US: [[List of Combined Statistical Areas|65th]])
+|population_note          = 
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 46601, 46604, 46612–46617, 46619–46620, 46624, 46626, 46628–46629, 46634–46635, 46637, 46660, 46680, 46699
+|area_code                = [[Area code 574|574]]
+|unemployment_rate = 
+|website                  = {{URL|www.southbendin.gov}}
+|footnotes                = 
+|nicknames                = 
+|timezone                 = [[North American Eastern Time Zone|EST]]
+|utc_offset               = −5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = −4
+<!-- Area -->
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 18-71000
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = [http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:452796 452796]
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

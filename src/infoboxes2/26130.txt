@@ -1,0 +1,86 @@
+{{Infobox settlement
+|official_name            = Coeymans
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Alcove Reservoir.jpg
+|imagesize                = 
+|image_caption            = Alcove Reservoir
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                 = Albany County New York incorporated and unincorporated areas Coeymans highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Albany County, New York|Albany County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[Administrative divisions of New York#County|County]]
+|subdivision_name2        = [[Albany County, New York|Albany]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[town supervisor|Supervisor]]
+|leader_name              = [[Philip A. Crandall]]
+|leader_title1            = [[Town Council]]
+|leader_name1             = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Kenneth A. Burns ([[United States Republican Party|R]])
+ |2           = • Thomas E. Dolan ([[United States Democratic Party|D]])
+ |3           = • George E. Langdon ([[United States Republican Party|R]])
+ |4           = • James C. Youmans ([[United States Democratic Party|D]])
+}}
+|established_title        = Settled
+|established_date         = 1639
+|established_title1       = Incorporated
+|established_date1        = 1791
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 4, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 137.70
+|area_land_km2            = 129.83
+|area_water_km2           = 7.87
+|area_total_sq_mi         = 53.17
+|area_land_sq_mi          = 50.13
+|area_water_sq_mi         = 3.04
+|area_water_percent       = 5.50
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7418
+|population_density_km2   = 56.80
+|population_density_sq_mi = 147.10
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 447
+|elevation_ft             = 1467
+|coordinates              = {{coord|42|28|26|N|73|47|32|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12143 ([[Ravena, New York|Ravena]])
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-001-16694
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0978845
+|website                  = [http://www.coeymans.org/ Town of Coeymans] 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 7374
+}}

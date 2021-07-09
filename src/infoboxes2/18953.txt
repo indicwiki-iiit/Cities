@@ -1,0 +1,27 @@
+{{Infobox color
+| title      = Green
+| hex        = 00FF00
+| textcolor  = Black
+| image      = {{photomontage
+|photo1a=Spanish jewellery-Gold and emerald pendant at VAM-01.jpg
+|photo1b=Rotbugara 2010.JPG
+|photo1c=Van Eyck - Arnolfini Portrait.jpg
+|photo2a=First three female Marines graduate Infantry training course 131121-M-JR212-165.jpg
+|photo2b=Limes.jpg
+|photo2c=Billiard table1.JPG
+|photo3a=Champ de blé Côte-d'Or Bourgogne avril 2014.jpg
+|photo3b=
+|photo3C=
+| size = 243
+| color_border = #AAAAAA
+| color =  #F9F9F9
+| caption=
+| foot_montage = }}
+| wavelength = 495{{ndash}}570
+| frequency  = ~575{{ndash}}525
+| r          = 0
+| g          = 255
+| b          = 0
+| rgbspace   = [[sRGB color space|sRGB]]
+| source     = sRGB approximation to {{nobr|NCS S 2060-G}}{{efn|1=The sRGB values are taken by converting the NCS color {{nobr|2060-G}} using the "NCS Navigator" tool at [http://www.ncscolour.com/ the NCS website].}}
+}}

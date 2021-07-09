@@ -1,0 +1,58 @@
+{{Infobox Australian place
+| type     = town
+| name     = Gatton
+| state    = qld
+| image    = Gatton.png
+| caption  = A [[Landsat]] montage of Gatton township
+| coordinates         = {{coord|-27.5611|152.2755|type:city_region:AU-QLD|display=inline|name=Gatton (town centre)}}
+| pop                 = 7101
+| pop_year            = {{CensusAU|2016}} locality
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1855
+| postcode            = 4343
+| area                = 42.8
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1    = 86
+| dir1     = W
+| location1= [[Brisbane]]
+| dist2    = 37
+| dir2     = E
+| location2= [[Toowoomba]]
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| elevation= 94
+|elevation_footnotes=<ref name="bom" >
+{{cite web
+  |  publisher=[[Bureau of Meteorology]]
+  |  title=University of Queensland Gatton
+  |  work=Climate Averages for Australian Sites
+  |  url=http://www.bom.gov.au/climate/averages/tables/cw_040082.shtml
+  |  access-date=27 November 2009
+  |  archive-url=https://web.archive.org/web/20100128014524/http://www.bom.gov.au/climate/averages/tables/cw_040082.shtml
+  |  archive-date=28 January 2010
+  |  url-status=live
+  |  df=dmy-all
+  }}
+</ref>
+| maxtemp  = 26.8
+| mintemp  = 13.0
+| rainfall = 768.6
+| lga      = Lockyer Valley Region
+| stategov = [[Electoral district of Lockyer|Lockyer]]
+| fedgov   = [[Division of Wright|Wright]]
+| county   = [[County of Churchill, Queensland|Churchill]]
+| parish   = Gatton
+| near-n              = [[Adare, Queensland|Adare]]
+| near-ne             = [[Lake Clarendon, Queensland|Lake Clarendon]]
+| near-e              = [[Lawes, Queensland|Lawes]]
+| near-se             = [[Glen Cairn, Queensland|Glen Cairn]]
+| near-s              = [[Woodlands, Queensland|Woodlands]]
+| near-sw             = [[Lower Tenthill, Queensland|Lower Tenthill]]
+| near-w              = [[Grantham, Queensland|Grantham]]<br/>[[Placid Hills, Queensland|Placid Hills]]
+| near-nw             = [[Ringwood, Queensland|Ringwood]]
+}}

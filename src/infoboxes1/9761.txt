@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Chungju}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|충주시}}}}
+| translit_lang1          = Korean 
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|충주시}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|忠州市}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Chungju-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Ch'ungju-si
+| image_skyline           = Korea-Chungju-Mountain-01.jpg
+| imagesize               = 
+| image_caption           = 
+| image_map               = North Chungcheong-Chungju.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = South Korea
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Hoseo]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Chungcheong dialect|Chungcheong]]
+| area_total_km2          = 153.45
+| population_as_of        = May 2021
+| population_total        = 209,483
+| population_density_km2  = 
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 12 ''myeon'', 12 ''dong''
+| coordinates             = {{coord|36|58|N|127|57|E|region:KR-43|display=it}}
+| image_blank_emblem      = Chungju.png
+| blank_emblem_type       = Emblem of Chungju
+}}

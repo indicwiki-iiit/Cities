@@ -1,0 +1,48 @@
+{{Infobox settlement
+| name                   = Ashkelon
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|אַשְׁקְלוֹן}}|rtl=yes}}
+ | {{Lang|ar|عسقلان|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]]
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = ʔašqlon
+| translit_lang1_type2   = Translit.
+| translit_lang1_info2   = Ashkelon
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Ashqelon, Ascalon (unofficial)
+| image_skyline          = Ashkelonskyline.jpg
+| image_flag             = Ashkelon flag.png
+| image_blank_emblem     = [[File:Ashkelon COA.png|60px]]
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel ashkelon#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|40|N|34|34|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Israel]]
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = [[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = {{plainlist|
+*5880 BCE (Neolithic settlement)
+*2000 BCE (Canaanite city)
+*1150 BCE (Philistine rule)
+*6th century BCE (Classical city)
+*15th century CE (Arab village)
+*1953 (Israeli city)}}
+| leader_title           = Mayor
+| leader_name            = [[Tomer Glam]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:47788|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Ashqelon}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = [http://www.ashkelon.muni.il/Pages/default.aspx www.ashkelon.muni.il]
+}}

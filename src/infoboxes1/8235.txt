@@ -1,0 +1,34 @@
+{{Infobox person <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name          = Yukio Mishima
+ | image         = Yukio Mishima cropped.jpg
+ | caption       = Mishima in 1956
+ | native_name   = 三島由紀夫
+ | native_name_lang = ja
+ | birth_name    = Kimitake Hiraoka
+ | birth_date    = {{birth date|1925|1|14}}
+ | birth_place   =  Nagazumi-cho 2-chome, Yotsuya-ku, [[Tokyo City]], [[Tokyo Prefecture]], [[Empire of Japan]]<br />(Current: [[Yotsuya]] 4-chome, [[Shinjuku|Shinjuku-ku]], [[Tokyo]], [[Japan]])<ref name="bio-m1"/>
+ | death_date    = {{death date and age|1970|11|25|1925|1|14}}
+ | death_place   = [[JGSDF]] [[:ja:防衛省市ヶ谷地区|Camp Ichigaya]]<br />[[Ichigaya]] Honmura-chō, Shinjuku, Tokyo, Japan
+ | death_cause   = Suicide by [[Seppuku]]
+ | resting_place = [[Tama Cemetery]], Tokyo
+ | resting_place_coordinates =  <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+ | occupation    = {{hlist||Novelist|playwright|poet|short-story writer|essayist|critic}}
+ | alma_mater    = [[Faculty of Law]], [[University of Tokyo]]
+ | genre         =
+ | notable_works = ''[[Confessions of a Mask]]'', ''[[The Temple of the Golden Pavilion]]'', ''[[The Sea of Fertility]]''
+ | signature     = [[File:Yukio Mishima signature.png|50px]]
+ | module        =  {{Infobox Chinese | child = yes
+ | headercolor   = #4169e1
+ | kanji         = 三島 由紀夫
+ | romaji        = Mishima Yukio
+ | hiragana      = みしま ゆきお
+ | katakana      = ミシマ ユキオ
+}}
+ | module2       =  {{Infobox Chinese | child = yes
+ | headercolor       = #4169e1
+ | kanji             = 平岡 公威
+ | romaji            = Hiraoka Kimitake
+ | hiragana          = ひらおか きみたけ
+ | katakana          = ヒラオカ キミタケ
+}}
+}}

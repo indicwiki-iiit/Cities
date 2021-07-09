@@ -1,0 +1,71 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Erenhot}}
+| official_name           = <!-- Official name in English if different from 'name' -->
+| native_name             = {{lower|0.1em|{{nobold|{{lang|zh-hans|二连浩特市}}}} • {{MongolUnicode|ᠡᠷᠢᠶᠡᠡ}}{{MongolUnicode|ᠬᠣᠲᠠ}}}}
+| other_name              = Erlianhaote, Erh-lien-hao-t'e
+| settlement_type         = [[County-level city|County-level]] & [[Sub-prefecture-level city|Sub-prefectural city]]
+| image_skyline           = Dinosaur-statue-erenhot.jpg 
+| image_alt               =
+| image_caption           = Dinosaur monument at the local park
+| image_flag              =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             =Inner Mongolia
+| pushpin_label_position  =left
+| pushpin_map_alt         =
+| pushpin_map_caption     =Location in Inner Mongolia
+| coordinates             = {{coord|43|39|N|111|59|E|region:CN-15|display=inline,title}}
+| coor_pinpoint           =
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = People's Republic of China
+| subdivision_type1       = [[Autonomous regions of the People's Republic of China|Region]]
+| subdivision_name1       = [[Inner Mongolia]]
+| subdivision_type2       = [[Leagues of China|Leader]]
+| subdivision_name2       = [[Xilingol]]
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- square kilometers -->
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 4015.0 
+| area_urban_km2          = 48.78 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=48 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| elevation_footnotes     =
+| elevation_m             = 963
+| population_footnotes    =
+| population_total        = 74197
+| population_as_of        = 2010
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| population_est        = 77000
+| pop_est_as_of        = 2017
+| population_urban        = 75200
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = +08:00
+| postal_code_type        =[[List of postal codes in China|Postal code]]
+| postal_code             =011100
+| area_code_type          =
+| area_code               =0479
+| iso_code                =
+| website                 = {{URL|elht.gov.cn}}
+| footnotes               =
+}}

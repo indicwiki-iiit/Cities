@@ -1,0 +1,50 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Tema
+| native_name                     = <!-- for cities whose native name is not in English -->
+| other_name                      = 
+| settlement_type                 = City
+<!-- images and maps  ----------->| image_skyline                   = Tema Montage.jpg
+| imagesize                       = 260px
+| image_caption                   = ''First-Left picture'': [[Cargo ship]]s with [[Intermodal container]]s being loaded in the Industrial Tema Harbour • ''First-Top right picture'': [[Petroleum processing and refining|Petroleum Processing and Refining Plant]] and [[Natural-gas processing|Natural-Gas Processing Plant]] in Tema • ''Second-Bottom right picture'': Valco [[Roundabout]] of [[State-owned]] Aluminium Corporation Valco (Volta Aluminum Company) in Tema.
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| image_blank_emblem              = 
+| blank_emblem_size               = 
+| blank_emblem_type               = 
+| blank_emblem_link               = Tema Metropolis District
+| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Ghana#Africa
+| pushpin_label_position          = bottom
+| pushpin_map_caption             = 
+| coordinates                     = {{coord|05|40|N|00|00|W|region:GH|format=dms|display=inline,title}}
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Ghana}}
+| subdivision_type1               = Admin.&nbsp;Region
+| subdivision_name1               = [[Greater Accra Region]]
+| subdivision_type2               = District
+| subdivision_name2               = [[Tema Metropolis District|Tema Metropolitan District]]
+| established_title               = <!-- Settled -->
+| established_date                = 
+| leader_title                    = Mayor
+| leader_name                     = Felix Mensah Nii Anang-La
+| area_total_km2                  = 
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = 1
+<!-- Population   ----------------------->| population_footnotes            = 
+| population_total                = 161,612<ref name="World Gazetteer">{{cite web|url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=Ghana: Die wichtigsten Orte mit Statistiken zu ihrer Bevölkerung |publisher=World Gazetteer |language=de |year=2012 |access-date=9 March 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120111172126/http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |archive-date=11 January 2012 }}</ref>
+| population_as_of                = 2013
+| population_density_km2          = auto
+<!-- General information  --------------->| timezone                        = [[Greenwich Mean Time|GMT]]
+| utc_offset                      = 0
+| timezone_DST                    = [[Greenwich Mean Time|GMT]]
+| utc_offset_DST                  = <!-- Area/postal codes & others -------->
+| postal_code_type                = Postal codes
+| postal_code                     = GT000 - GT345
+| area_code                       = [[Telephone numbers in Ghana|030]]
+| website                         = http://tma.gov.gh
+}}

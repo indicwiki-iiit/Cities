@@ -1,0 +1,96 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| name                            = Sunnyvale, California
+| settlement_type                 = [[City]]
+| official_name                   = City of Sunnyvale
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| motto                           = 
+| image_skyline                   = File:Saturday at Sunnyvale - panoramio (cropped).jpg
+| image_caption                   = Downtown Sunnyvale
+| image_seal                      = Seal of Sunnyvale, California.png
+| image_flag                      = City of Sunnyvale - vertical logo.png
+| image_map                       = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Sunnyvale_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Santa Clara County, California|Santa Clara County]] and the [[California|State of California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location ------------------>| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Santa Clara County, California|Santa Clara]]
+<!-- Politics ----------------->| government_type                 = [[Council–manager government|Council–manager]]<ref name="ca"/>
+| leader_title                    = [[Mayor]]
+| leader_name                     = Larry Klein<ref name="ca">{{cite web
+|url=https://sunnyvale.ca.gov/government/council/default.htm
+|title=City Council
+|publisher=City of Sunnyvale
+|access-date=2020-10-18
+}}</ref>
+| leader_title2                   = [[Vice mayor]]
+| leader_name2                    = Glenn Hendricks<ref name="ca"/>
+| leader_title3                   = [[City Manager]]
+| leader_name3                    = Kent Steffens<ref>{{Cite web
+ |url=https://sunnyvale.ca.gov/news/citymanagerreports/default.htm
+ |title=Office of the City Manager
+ |access-date=2019-07-02
+ |publisher=City of Sunnyvale
+ }}</ref>
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = December 24, 1912<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 22.78
+| area_land_sq_mi                 = 22.06
+| area_water_sq_mi                = 0.72
+| area_total_km2                  = 58.99
+| area_land_km2                   = 57.14
+| area_water_km2                  = 1.86
+| area_water_percent              = 3.09
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1656344|Sunnyvale|access-date=December 16, 2014}}</ref>
+| elevation_ft                    = 125
+| elevation_m                     = 38
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/table/PST045215/0677000,00|title=Sunnyvale (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=August 30, 2016}}</ref>
+| population_total                = 140081
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 152703
+| population_rank                 = [[Santa Clara County, California|2nd]] in Santa Clara County<br />[[List of largest California cities by population|36th]] in California
+| population_density_sq_mi        = 6922.17
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+| coordinates                     = {{coord|37|22|16|N|122|2|15|W|region:US-CA|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 94085–94090
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 408 and 669|408/669]] and [[Area code 650|650]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|77000}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1656344}}, {{GNIS 4|2412009}}
+| website                         = {{URL|sunnyvale.ca.gov}}
+| population_density_km2          = 2672.64
+}}

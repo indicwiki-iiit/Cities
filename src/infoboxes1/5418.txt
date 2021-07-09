@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name            = {{raise|0.2em|Chengde}}
+|native_name     = {{lower|0.1em|承德市}}
+|native_name_lang = zh
+|official_name   = 
+|other_name      = Chengte, Jehol
+|settlement_type        = [[Prefecture-level city]]
+<!-- images and maps  ----------->
+|image_skyline          = {{Photomontage
+| photo1a               = Sledgehammerpeak.JPG
+| photo1b               = Imperial Summer Resort 避暑山庄 (28863805406).jpg
+| photo2a               = Chengde_2018.jpg
+| photo3a               = Phillipvn2.jpg
+| photo3b               = Chengde_view_from_mountain_top.jpg
+| color_border          = white
+| spacing               = 2
+| color                 = white
+| size                  = 280
+| foot_montage          = }}
+|image_caption          = Clockwise from top: Sledgehammer Peak, [[Chengde Mountain Resort|Mountain Resort]], Skyline of Chengde, [[Putuo Zongcheng Temple]], [[Jinshanling]]
+|image_seal             = 
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=6}}
+|image_map1             = Location of Chengde Prefecture within Hebei (China).png
+|mapsize1               = 250px
+|map_caption1           = Location of Chengde City jurisdiction in Hebei
+<!-- Location ------------------>
+|pushpin_map            = China Hebei#China Northern Plain#China
+|pushpin_label_position =
+|pushpin_mapsize        = 225
+|pushpin_map_caption    = Location of the city centre in Hebei
+|subdivision_type       = Country
+|seat_type = Municipal seat
+|seat = [[Shuangqiao District, Chengde|Shuangqiao District]]
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Provinces of China|Province]]
+|subdivision_name1      = [[Hebei]]
+|subdivision_type2      =
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      = Settled
+|established_date       = 1681
+|established_title2     = Established
+|established_date2      = November 15, 1983
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 39519
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1252.7 
+| area_urban_km2          = 724.03 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Population   ----------------------->
+|population_footnotes           =
+|population_note                =
+|population_total               = 3473200
+|population_density_km2         = 91
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 642000
+| population_urban        = 591500
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+|population_density_urban_km2   = auto
+<!-- General information  --------------->
+|coordinates            = {{coord|40.953|N|117.963|E|type:adm2nd_region:CN-13_source:Gaode|format=dms|display=it}}
+|coor_pinpoint = Chengde municipal government
+|elevation_m            = 327
+<!-- Area/postal codes & others -------->
+|postal_code_type       =
+|postal_code            =
+|area_code              = 314
+|iso_code = [[ISO 3166-2:CN|CN-HE-08]]
+|blank1_name            = [[Gross domestic product|GDP]] (2016)
+|blank1_info            = [[Renminbi|CNY]] 14.329 billion
+|website                = http://www.chengde.gov.cn
+|footnotes              = <center>'''City tree'''<br>[[Styphnolobium|Pagoda Tree]]</center>
+<center>'''City flower'''<br/>[[Rosa rugosa|Rugosa Rose]]</center>
+|blank_name             = [[Vehicle registration plates of the People's Republic of China|License Plate Prefix]]
+|blank_info             = {{lang|zh-cn|冀H}}
+}}

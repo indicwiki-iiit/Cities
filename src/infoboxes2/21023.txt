@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Feilding
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Town
+| image_skyline           = Feilding,_NZ.jpg
+| imagesize               = 300px
+| image_alt               =
+| image_caption           = Manchester Square
+| image_flag              =
+| nickname                = 'Friendly' Feilding
+| motto                   =
+| image_map                 = {{infobox mapframe|coord={{coord|40|13|S|175|34|E}}|zoom=9}}
+| pushpin_map             = 
+| pushpin_label_position  = bottom
+| pushpin_map_alt         =
+| pushpin_map_caption     =
+| coordinates             = {{coord|40|13|S|175|34|E|display=inline,title}}
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = New Zealand
+| subdivision_type1       = [[Regions of New Zealand|Region]]
+| subdivision_name1       = [[Manawatū-Whanganui]] region
+| subdivision_type2       = [[Territorial authorities of New Zealand|Territorial authority]]
+| subdivision_name2       = [[Manawatu District]]
+| subdivision_type3       = [[Ward (country subdivision)|Ward]]
+| subdivision_name3       = Feilding
+| established_title       = 
+| established_date        = 1871
+| founder                 =
+| named_for               = Colonel [[William Henry Adelbert Feilding]]
+| seat_type               = Electorate
+| seat                    = Rangitikei
+| government_footnotes    =
+| leader_party            = [[New Zealand National Party|National]]
+| leader_title            = MP
+| leader_name             = [[Ian McKelvie]]
+| leader_title3           = Mayor
+| leader_name3            = Helen Worboys
+| total_type              =
+| unit_pref               =
+| area_magnitude          =
+| area_footnotes          =<ref name="Area"/>
+| area_total_km2          = 23.65
+| area_total_sq_mi        =
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_percent      =
+| area_note               =
+| elevation_footnotes     = <ref>New Zealand Topo50 map BM34: [www.linz.govt.nz]</ref>
+| elevation_m             = 70
+| elevation_ft            = 230
+| population_footnotes    = {{NZ population data 2018||||y}}
+| population_total        = {{NZ population data 2018||y}}
+| population_as_of        = {{NZ population data 2018|||y}}
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_demonym      =
+| population_note         =
+| timezone1               = [[Time in New Zealand|NZST]]
+| utc_offset1             = +12
+| timezone1_DST           = NZDT
+| utc_offset1_DST         = +13
+| postal_code_type        = Postcode
+| postal_code             = 4702
+| area_code_type          = Telephone
+| area_code               = 06
+| website                 = [http://www.feilding.co.nz/ www.feilding.co.nz]
+| footnotes               =
+}}

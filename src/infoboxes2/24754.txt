@@ -1,0 +1,37 @@
+{{Infobox Australian place
+| type     = Suburb
+| name     = Wollert
+| state    = vic
+| image    = Wollert church.JPG
+| caption  = Uniting church
+| lga      = City of Whittlesea
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37.597|S|145.033|E|display=inline,title}}
+| postcode = 3750
+| pop      = 9,060
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs2016">{{Census 2016 AUS | id = SSC22805 | name = Wollert (State Suburb) | accessdate = 2017-07-03 | quick = on}}</ref>
+| est      = 
+| elevation= 100
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Thomastown|Thomastown]]
+| stategov2= [[Electoral district of Mill Park|Mill Park]]
+| fedgov   = [[Division of McEwen|McEwen]]
+| fedgov2  = [[Division of Scullin|Scullin]]
+| dist1    = 27
+| dir1     = N
+| location1= [[Melbourne]]
+| dist2    = 6
+| dir2     = N
+| location2= [[Epping, Victoria|Epping]]
+| near-nw  = [[Craigieburn, Victoria|Craigieburn]]
+| near-n   = [[Beveridge, Victoria|Beveridge]]
+| near-ne  = [[Beveridge, Victoria|Beveridge]]
+| near-w   = [[Craigieburn, Victoria|Craigieburn]]
+| near-e   = [[Mernda, Victoria|Mernda]]
+| near-sw  = [[Epping, Victoria|Epping]]
+| near-s   = [[Epping, Victoria|Epping]]
+| near-se  = [[Mernda, Victoria|Mernda]]
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Elyria 
+|official_name            = City of Elyria
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = [[File:Elyria, OH.jpg|303x360px|Elyria, OH]]
+|imagesize                = 
+|image_caption            = ''clockwise from top left'': Ely Square Gazebo; Western Falls of Cascade; Old Courthouse; Ely Square Cannon; Hickories Museum.
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Lorain County Ohio Elyria highlighted.png
+|mapsize                  = 250px
+|map_caption              = Location of Elyria in Lorain County and state of Ohio
+|pushpin_map = Ohio#USA
+|pushpin_label = Elyria
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|{{US}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Ohio}}
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = {{flagicon image<!-- Commented out: |Lorain County, Ohio Flag.gif -->}} [[Lorain County, Ohio|Lorain]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Mayor - Council
+|leader_title             = [[Mayor]] 
+|leader_name              = Frank Whitfield
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = March 1817
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 53.78
+|area_land_km2            = 53.10
+|area_water_km2           = 0.67
+|area_total_sq_mi         = 20.76
+|area_land_sq_mi          = 20.50
+|area_water_sq_mi         = 0.26
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 53757
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 54533
+|population_density_km2   = 1012.31
+|population_density_sq_mi = 2621.91
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 218
+|elevation_ft             = 715
+|coordinates              = {{coord|41|22|24|N|82|6|6|W|region:US-OH_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 44035, 44036, 44039, 44074
+|area_code                = [[Area code 440|440]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-25256<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1040177<ref name="GR3" />
+|website                  = https://www.cityofelyria.org/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

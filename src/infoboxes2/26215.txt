@@ -1,0 +1,91 @@
+{{Infobox settlement
+|official_name            = Busti, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    = "Progress Since 1823"
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New York
+|pushpin_label            = Busti
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|pushpin_mapsize          = 
+|image_map                = Chautauqua County NY Busti town highlighted.svg
+|mapsize                  = 
+|map_caption              = Location within Chautauqua County and New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Chautauqua County, New York|Chautauqua]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor]]
+|leader_name              = Jesse Robbins ([[United States Republican Party|R]])
+| leader_title1           = [[Town Council]]
+| leader_name1            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Todd M. Hanson ([[United States Republican Party|R]])
+ |2           = • Kenneth J. Lawton ([[United States Republican Party|R]])
+ |3           = • Brett Mucheck ()
+ |4           = • Richard B. Thor ([[United States Republican Party|R]])
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 4, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 123.90
+|area_land_km2            = 123.87
+|area_water_km2           = 0.04
+|area_total_sq_mi         = 47.84
+|area_land_sq_mi          = 47.83
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7351
+|population_density_km2   = 59.16
+|population_density_sq_mi = 153.23
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 446
+|elevation_ft             = 1463
+|coordinates              = {{coord|42|4|N|79|18|W|region:US-NY|display=inline}}
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-013-11451
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0978768
+|website                  = {{URL|www.townofbusti.com}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 7328
+}}

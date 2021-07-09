@@ -1,0 +1,35 @@
+{{Infobox settlement
+|name      = Lypovets
+|native_name   = ''Липовець''
+|image_skyline = File:Lypovets 28.jpg
+|image_caption = Lypovets skyline
+|image_shield = File:Coat_of_Arms_Lypovets.png
+|pushpin_map_caption= Map of Ukraine with Lypovets highlighted
+|pushpin_map    =Ukraine Vinnytsia Oblast#Ukraine
+|pushpin_map1   =
+|subdivision_type=Country
+|subdivision_name={{UKR}}
+|subdivision_type1= [[Administrative divisions of Ukraine|Region]]
+|subdivision_name1= [[Vinnytsia Oblast]]
+|subdivision_type2= Raion
+|subdivision_name2= [[Lypovets Raion]]
+<!--|established_title= First Mentioned
+|established_date=1545 -->
+|unit_pref    =Metric
+|area_total_km2 =10.33
+|population_as_of=2020
+|population_total=8181
+|population_density_km2=auto
+|population_demonym= Lypovets'
+|timezone    =EET
+|utc_offset   =+2
+|timezone_DST  =EEST
+|utc_offset_DST =+3
+|coordinates    = {{coord|49|13|15|N|29|03|25|E|region:UA|display=inline,title}}
+|elevation_m   =242
+|postal_code_type=Postal code
+|postal_code   = 22500-22505
+|area_code    =+380-4358
+|subdivision_type4= Administrative Classification
+|subdivision_name4= KOATUU: 0522210100
+}}

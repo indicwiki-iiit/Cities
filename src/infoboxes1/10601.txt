@@ -1,0 +1,30 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Sarakhs
+|native_name            = سرخس
+|settlement_type        = [[City]]
+|image_skyline          = آرامگاه_لقمان_سرخسی.jpg
+|pushpin_map            = Iran <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{IRN}} 
+|subdivision_type1      = [[Provinces of Iran|Province]]
+|subdivision_name1      = [[Razavi Khorasan Province|Razavi Khorasan]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 =[[Sarakhs County|Sarakhs]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Central District (Sarakhs County)|Central]]
+<!-- Population   ----------------------->
+|population_as_of               = 2016 Census
+|population_total               = 42,179 <ref>https://www.amar.org.ir/english</ref>
+<!-- General information  --------------->
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|36|32|42|N|61|09|28|E|region:IR|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|footnotes              = {{GEOnet2|32FA88093E2F3774E0440003BA962ED3}}
+}}

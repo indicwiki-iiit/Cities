@@ -1,0 +1,25 @@
+{{Infobox Australian place
+| type     = town
+| name     = Alstonville
+| state    = nsw
+| image    = Alstonville_NSW.JPG
+| caption  = Main Street
+| lga      = Ballina Shire
+| postcode = 2477
+| pop      = 5,066
+| pop_year = {{CensusAU|2016}}
+|pop_footnotes=<ref name="abs">{{Census 2016 AUS|id=UCL114001|name=Alstonville (Urban Centre/Locality)|accessdate=26 January 2018|quick=on}}</ref>
+| elevation= 140
+|elevation_footnotes=
+| timezone           = [[Australian Eastern Standard Time|AEST]]
+| utc                = +10
+| timezone-dst       = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst            = +11
+| coordinates = {{coord|28|51|S|153|26|E|display=inline,title}}
+| pushpin_label_position = left
+| maxtemp  = 23.4
+| mintemp  = 15.0
+| rainfall = 1784.9
+| stategov = [[Electoral district of Ballina|Ballina]]
+| fedgov   = [[Division of Page|Page]]
+}}

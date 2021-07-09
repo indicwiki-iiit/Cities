@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name = Moreno Valley, California
+|settlement_type = [[City (California)|City]]
+|official_name = City of Moreno Valley
+<!-- Images and maps ------>
+| image_skyline                   = {{Photomontage
+| photo1a                 = 'M' from RCC (cropped).JPG
+| photo2a                 = Sunnymead Ranch Lake.jpg
+| photo2b                 = Moreno Valley, CA, USA - panoramio (cropped).jpg
+| photo3a                 = Hidden Springs, Moreno Valley (cropped).jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 275
+| foot_montage            = Clockwise: the giant "M" on [[Box Springs Mountain]] for "Moreno Valley"; shops in Moreno Valley; aerial view of Moreno Valley; Sunnymead Ranch Lake.
+}}
+|image_flag = Flag of Moreno Valley, California.png
+|image_seal = Seal of Moreno Valley, California.png
+|motto = "Where Dreams Soar"
+|nickname = "MoVal"<ref>{{cite web|url=http://tsdr.uspto.gov/documentviewer?caseId=sn77232955&docId=81520140829144958#docIndex=2&page=1|title=USPTO TSDR Case Viewer|website=tsdr.uspto.gov}}</ref>
+|image_map = Riverside_County_California_Incorporated_and_Unincorporated_areas_Moreno_Valley_Highlighted.svg
+|map_caption = Location in [[Riverside County, California|Riverside County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+| pushpin_label = Moreno Valley
+<!-- Location ------------->
+|coordinates      = {{coord|33|56|35|N|117|13|42|W|display=inline,title}}<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name  = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Riverside County, California|Riverside]]
+<!-- History -------------->
+|established_title = [[Municipal corporation|Incorporated]]
+|established_date = December 3, 1984<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Government ----------->
+|government_type = [[Council-manager government|Council-Manager]]
+|leader_title = [[City council]]<ref name=cc>{{cite web
+ | url = http://www.moreno-valley.ca.us/city_council/index.shtml
+ | title = City Council Members & Districts
+ | access-date = November 15, 2017}}</ref>
+|leader_name = Yxstian Gutierrez (Mayor)<br />Victoria Baca<br />Carla Thornton<br />David Marquez<br />Ulises Cabrera
+<!-- Area ----------------->
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi = 51.51
+|area_total_km2 = 133.41
+|area_land_sq_mi = 51.30
+|area_land_km2 = 132.86
+|area_water_sq_mi = 0.21
+|area_water_km2 = 0.55
+|area_water_percent = 0.39
+<!-- Elevation ------------>
+|elevation_footnotes = <ref>{{Cite GNIS|1668251|Moreno Valley|access-date=November 5, 2014}}</ref>
+|elevation_ft = 1631
+|elevation_m = 497
+<!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0649270.html|title=Moreno Valley (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120901235251/http://quickfacts.census.gov/qfd/states/06/0649270.html|archive-date=September 1, 2012|df=mdy-all}}</ref>
+|population_total = 193365
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|population_est = 213055
+|population_rank = [[Riverside County, California|2nd]] in Riverside County<br />[[List of largest California cities by population|20th]] in California<br />[[List of United States cities by population|106th]] in the United States
+|population_density_sq_mi = 4153.36
+|population_metro = <!-- Time zone ------------>
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = &minus;8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = &minus;7
+<!-- Codes ---------------->
+|postal_code_type = [[ZIP code]]s<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 30, 2014}}</ref>
+|postal_code = 92551–92557
+|area_code_type = [[North American Numbering Plan|Area codes]]
+|area_code = [[Area code 909|909]], [[Area code 951|951]]
+|blank_name = [[Federal Information Processing Standard|FIPS]] code
+|blank_info = {{FIPS|06|49270}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1668251}}, {{GNIS 4|2411159}}
+|website = {{URL|http://www.moval.org/index.shtml}}
+|population_density_km2 = 1603.62
+}}

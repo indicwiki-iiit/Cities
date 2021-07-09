@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                            = Lào Cai
+| official_name                   = Lào Cai City
+| native_name                     = Thành phố Lào Cai
+| other_name                      = 
+| settlement_type                 = [[Provincial city (Vietnam)|City (Class-2)]]
+| image_skyline                   = Lào Cai.jpg
+| imagesize                       = 280px
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Emblem of Laocai City.png
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = {{Infobox mapframe|frame-width=280}}
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Vietnam <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location in Vietnam
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = [[Vietnam]] <!-- the name of the country -->
+| subdivision_type1               = [[Provinces of Vietnam|Province]]
+| subdivision_name1               = Lào Cai Province
+| subdivision_type2               = 
+| subdivision_name2               = 
+| seat_type                       = 
+| seat                            = <!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = Established city<!-- Settled -->
+| established_date                = 30 November 2004
+<!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes                  = <ref name=NQ896>{{cite web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-896-NQ-UBTVQH14-2020-sap-xep-cac-don-vi-hanh-chinh-cap-huyen-cap-xa-tinh-Lao-Cai-435413.aspx|title=Nghị quyết số 896/NQ-UBTVQH14 năm 2020 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Lào Cai|date=2020-01-11}}</ref>
+| area_total_km2                  = 282.13<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = <!-- Elevation -------------------------->
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = 
+| elevation_max_m                 = 
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = <!-- Population   ----------------------->
+| population_as_of                = 2020
+| population_footnotes            = <ref name=NQ896/>
+| population_note                 = 
+| population_total                = 130,671
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Humid subtropical climate|Cwa]]
+| coordinates                     = {{coord|22|28|50|N|103|58|30|E|region:VN|display=inline,title}}
+}}

@@ -1,0 +1,91 @@
+{{Infobox settlement
+|official_name            = Windham, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = "Land in the Sky",<br/>"The Heart of the Catskills",<br/>"Gem of the Catskills"
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+||pushpin_map             = 
+|pushpin_label_position   = 
+|pushpin_map_caption      = 
+|pushpin_mapsize          = 
+|image_map                = Greene County NY Windham town highlighted.svg
+|mapsize                  = 
+|map_caption              = Location in [[Greene County, New York|Greene County]] and the state of [[New York (state)|New York]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = New York
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Greene County, New York|Greene]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor]]
+|leader_name              = Thomas Hoyt
+| leader_title1           = [[Town Council]]
+| leader_name1            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Thomas Hoyt ([[United States Republican Party|R]])
+ |2           = • Wayne E. Van Valin ([[United States Republican Party|R]])
+ |3           = • Stephen J. Walker ([[United States Republican Party|R]])
+ |4           = • Ian Peters ([[United States Republican Party|R]])
+ |5           = • Kurt Goettsche
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 117.42
+|area_land_km2            = 117.07
+|area_water_km2           = 0.35
+|area_total_sq_mi         = 45.34
+|area_land_sq_mi          = 45.20
+|area_water_sq_mi         = 0.14
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1703
+|population_density_km2   = 14.36
+|population_density_sq_mi = 37.19
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 577
+|elevation_ft             = 1893
+|coordinates              = {{coord|42|18|57|N|74|13|25|W|region:US-NY|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12496
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-039-82480
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979648<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.townofwindhamny.com}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 1681
+}}

@@ -1,0 +1,89 @@
+{{Infobox settlement
+| name = Edmundston
+| official_name = Ville d'Edmundston<br>''City of Edmundston''
+| native_name = 
+| settlement_type = [[List of cities in New Brunswick|City]]
+| image_skyline = Edmundston NB skyline.JPG
+| image_caption = 
+| image_flag = Flag of Edmundston.svg
+| image_seal = 
+| image_shield = 
+| image_map = 
+| map_caption = 
+| pushpin_map = New Brunswick
+| pushpin_label_position = none
+| pushpin_map_caption = Location within New Brunswick
+| coordinates = {{coord|region:CA-NB|format=dms|display=inline,title}}
+| subdivision_type = [[Country]]
+| subdivision_name = Canada
+| subdivision_type1 = [[Provinces and territories of Canada|Province]]
+| subdivision_name1 = [[New Brunswick]]
+| subdivision_type2 = [[County]]
+| subdivision_name2 = [[Madawaska County, New Brunswick|Madawaska]]
+| subdivision_type3 = [[List of parishes in New Brunswick|Parish]]
+| subdivision_name3 = [[Madawaska Parish, New Brunswick|Madawaska]]
+| established_title = Established
+| established_date = 1850
+| established_title2 = City
+| established_date2 = April 1, 1952
+| seat_type = Electoral&nbsp;Districts&nbsp;&nbsp;&nbsp; <br>[[List of Canadian federal ridings|Federal]]
+| seat = <br>[[Madawaska—Restigouche]]
+| parts_type = [[List of New Brunswick provincial electoral districts|Provincial]]
+| parts = [[Edmundston-Madawaska Centre]]<br>[[Madawaska Les Lacs-Edmundston]]
+| government_type = City Council
+| government_footnotes = <ref name="GNB">{{Cite web |url=https://www2.gnb.ca/content/gnb/en/departments/elg/local_government/content/community_profiles/renderer.data.cities.4.html |title=Government of New Brunswick website: Edmundston - Community Profile |access-date=2021-05-21 |archive-url=https://web.archive.org/web/20210521194100/https://www2.gnb.ca/content/gnb/en/departments/elg/local_government/content/community_profiles/renderer.data.cities.4.html |archive-date=2021-05-21 |url-status=live}}</ref>
+| leader_title = Mayor
+| leader_name = Eric Marquis 
+| leader_title1 = Deputy Mayor<ref name="DeputyMayor">{{Cite web |url=https://edmundston.ca/en/l-hotel-de-ville/conseil-municipal |title=Edmundston City website: City council |access-date=2021-05-21 |url-status=live}}</ref>
+| leader_name1 = 
+| leader_title2 = Councillors
+| leader_name2 = 
+{{Collapsible list
+| framestyle = border:none; padding:0;
+| title = List of Members
+| 1 = Sylvie St-Onge Morneau |2= Aldéo Nadeau |3=Denise Landry-Nadeau |4=Eric Desjardins|5=Diane Bélanger Nadeau |6=Boum Morneault |7=Karen Power  |8=Eric McGuire
+}}
+| area_footnotes = 
+| area_total_km2 = 
+| area_land_km2 = 106.85
+| area_water_km2 = 
+| area_urban_km2 = 17.88
+| area_metro_km2 = 1,769.64
+| elevation_m = 
+| elevation_max_m = 264
+| elevation_min_m = 151
+| population_footnotes = <ref name=2016CensusABmunis>{{cite web |title=Census Profile, 2016 Census: Edmundston, New Brunswick |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=1313027&Geo2=CD&Code2=1313&SearchText=edmund&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 |publisher=[[Statistics Canada]] |access-date=August 23, 2019}}</ref>
+<ref name="2016censusPopCtr">{{cite web |title=Census Profile, 2016 Census Edmundston [Population centre], New Brunswick |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=POPC&Code1=0253&Geo2=PR&Code2=13&SearchText=edmund&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 |publisher=Statistics Canada |access-date=August 23, 2019}}</ref>
+|population_note = 
+| population_total = 16,580 <!-- 2016 StatCan population only per [[WP:CANPOP]];  do not replace with latest municipal census population count; this municipal census population count can go in the population_blank1_title and population_blank1 parameters further below and can be noted in the article body (so long as it doesn't replace the 2016 StatCan population in the body). -->
+| population_as_of = 2016
+| population_density_km2 = 155.2
+| population_urban = 12,086
+| population_density_urban_km2 = 675.9
+| population_metro = 23,524
+| population_density_metro_km2 = 13.3
+| population_blank1_title = Change&nbsp;2011-16
+| population_blank1 = {{increase}}3.4%
+| population_blank2_title = Census&nbsp;Ranking
+| population_blank2 = 261 of 4870
+| timezone = [[Atlantic Standard Time Zone|AST]]
+| utc_offset = -4
+| timezone_DST = [[Atlantic Standard Time Zone|ADT]]
+| utc_offset_DST = -3
+| postal_code_type = [[Canadian postal code|Postal code(s)]]
+| postal_code = [[List of E postal codes of Canada|E3V, E7B]]
+| area_code = {{Collapsible list
+| framestyle = border:none; padding:0;
+| title = [[Area code 506|506]]
+| 1 = Area exchanges: |2=253, 733, 735, 736, 737, 739, 740
+}}
+| blank_name = Dwellings
+| blank_info = 8,051
+| blank1_name = Median&nbsp;Income*
+| blank1_info = $51,435 [[Canadian dollar|CDN]]
+| blank2_name = [[National Topographic System|NTS]] Map
+| blank2_info = 021N08
+| blank3_name = [[Geographical Names Board of Canada|GNBC]] Code
+| blank3_info = DALZZ
+| website = {{URL|http://www.edmundston.ca/}}
+}}

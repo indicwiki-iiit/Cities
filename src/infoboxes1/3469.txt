@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Iquitos <!-- at least one of the first two fields must be fillled in -->
+| official_name                   = 
+| other_name                      = San Pablo y San Pedro de Iquitos
+| native_name                     = 
+| nickname                        = {{nowrap|Capital of the [[Peruvian Amazon]]}}, {{nowrap|The Amazonian Island}}
+| settlement_type                 = [[List of cities in Peru|City]]
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = ''Carpent tua poma nepotes'' ([[Latin]]: Your children will harvest your fruits)
+<!-- images and maps  ----------->| image_skyline                   = Collage de Iquitos 2014.jpg
+| imagesize                       = 275px
+| image_caption                   = Clockwise from top: Iquitos cityscape at night; Iron House; minimalist architecture of the school auditorium St. Augustine; the commercial Jiron Prospero; Aquatic Avenue in the famous neighborhood of Bethlehem; Abelardo Quiñones Avenue and the vehicular traffic of motorcycle taxis; and Iquitos Cathedral.
+| image_flag                      = Bandera de Iquitos (II).svg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = Escudo de Iquitos.svg
+| shield_size                     = 70px
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       =
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 =  
+| dot_x                           = 
+| dot_y                           = 
+| coor_type                       = <!-- can be used to specify what the coordinates refer to -->
+| coordinates                     = {{coord|3|44|S|73|15|W|region:PE|display=inline}}
+| pushpin_map                     = Peru Loreto#Peru
+| pushpin_label_position          = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the Loreto Region in Peru
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Peru}}
+| subdivision_type1               = [[Subdivisions of Peru|Region]]
+| subdivision_name1               = [[Loreto Region|Loreto]]
+| subdivision_type2               = [[Provinces of Peru|Province]]
+| subdivision_name2               = [[Maynas Province, Peru|Maynas]]
+| subdivision_type3               = [[Districts of Peru|District]]
+| subdivision_name3               = [[Iquitos District|Iquitos]]
+<!-- established --------------->| established_title               = Settled
+| established_date                = 1624
+| established_title1              = [[Municipal corporation|Incorporated]]
+| established_date1               = 1866
+| established_title2              = <!-- Incorporated (city) -->
+<!-- government type, leaders -->| government_footnotes            = 
+| government_type                 = [[Local government]]
+| governing_body                  = Provincial Municipality of Maynas
+| leader_title                    = Mayor
+| leader_name                     = Francisco Sanjurjo Dávila<br><small>(2019-2022)</small>
+<!-- area ---------------------->| area_footnotes                  = <ref>{{cite web|title=Caracterización del área de influencia de la carretera Iquitos - Nauta|url=http://www.iiap.org.pe/publicaciones/cds/zin/caracterizaci%C3%B3n.htm|access-date=5 June 2013|url-status=dead|archive-url=https://web.archive.org/web/20130527210149/http://www.iiap.org.pe/publicaciones/cds/zin/caracterizaci%C3%B3n.htm|archive-date=27 May 2013|df=dmy-all}}</ref>
+| area_total_sq_mi                = 468.5
+| area_land_sq_mi                 = 302.6
+| area_water_sq_mi                = 132
+| area_metro_sq_mi                = <!-- elevation ----------------->
+| elevation_footnotes             = 
+| elevation_m                     = 104
+<!-- population ---------------->| population_footnotes            = 
+| population_rank                 = [[List of cities in Peru|9th]]
+| population_density_sq_mi        = 
+| pop_est_as_of                   = 2017
+| pop_est_footnotes               = <ref>{{cite report |url=http://proyectos.inei.gob.pe/web/biblioineipub/bancopub/Est/Lib1020/cuadros/c0206.xls |title=Perú: Población estimada al 30 de junio y tasa de crecimiento de las ciudades capitales, por departamento, 2011 y 2015 |work=Perú: Estimaciones y proyecciones de población total por sexo de las principales ciudades, 2012-2015 |publisher=Instituto Nacional de Estadística e Informática |date=March 2012 |access-date=2015-06-03}}</ref>
+| population_est                  = 377609
+| population_metro                = 510000
+| population_demonym              = Iquiteño
+<!-- time zone(s) -------------->| timezone                        = [[Time in Peru|PET]]
+| utc_offset                      = -5
+| postal_code_type                = [[UBIGEO]]
+| postal_code                     = 1601
+| area_code                       = 65
+| iso_code                        = PE-LOR
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Tropical rainforest climate|Af]]
+| website                         = [http://www.munimaynas.gob.pe www.munimaynas.gob.pe]
+}}

@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Fort Edward
+|nickname               = 
+|settlement_type        = [[Administrative divisions of New York#Town|Town]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Houses in Fort Edward, New York.jpg
+|imagesize              = 250px
+|image_caption          = Houses at the edge of Fort Edward, near its border with Kingsbury
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map              = Washington County New York incorporated and unincorporated areas Fort Edward (town) highlighted.svg
+|mapsize                = 260px
+|map_caption            = Location in [[Washington County, New York|Washington County]] and the state of [[New York (state)|New York]].
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = United States
+|subdivision_type1      = State
+|subdivision_name1      = [[New York (state)|New York]]
+|subdivision_type2      = County
+|subdivision_name2      = [[Washington County, New York|Washington]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            =  <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  
+|leader_name1           = 
+|established_title      = Established
+|established_date       = 1818
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = Imperial
+|area_footnotes         = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_total_km2         = 70.99
+<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2          = 68.93
+<!--See table @ Template:Infobox settlement for details on unit conversion-->
+|area_water_km2         = 2.06
+|area_total_sq_mi       = 27.41
+|area_land_sq_mi        = 26.62
+|area_water_sq_mi       = 0.80
+|area_water_percent     = 
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = 
+<!-- Population   ----------------------->
+|population_as_of       = [[2010 United States Census|2010]]
+|population_footnotes   = <ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|population_note        = 
+|population_total       = 6371
+|population_est         = 6149
+|pop_est_as_of          = 2016
+|population_density_km2 = 89.20
+|population_density_sq_mi = 231.03
+<!-- General information  --------------->
+|timezone1              = 
+|utc_offset1            = 
+|timezone1_DST          = 
+|utc_offset1_DST        = 
+|coordinates            = {{coord|43|13|35|N|73|33|33|W|region:US-NY|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[ZIP code]]
+|postal_code            = 12828
+|area_code              = [[Area code 518|518]]
+|website                = [http://www.fortedwardnewyork.net www.fortedwardnewyork.net]
+|footnotes              = 
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 36-115-26781
+}}

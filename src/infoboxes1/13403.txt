@@ -1,0 +1,91 @@
+{{Infobox settlement
+|name                     = Englewood, New Jersey
+|official_name            = City of Englewood
+|settlement_type          = [[City (New Jersey)|City]]
+|nickname                 = 
+|motto                    =
+
+|image_skyline            = Downtown Englewood, NJ.jpg
+|imagesize                = 300x250px
+|image_caption            = Downtown Englewood, New Jersey
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Bergen_County_New_Jersey_Incorporated_and_Unincorporated_areas_Englewood_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Map highlighting Englewood's location within Bergen County. Inset: Bergen County's location within New Jersey
+|image_map1               = Census_Bureau_map_of_Englewood,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of Englewood, New Jersey
+{{maplink|frame=yes|zoom=8|id=Q986210|type=shape|text=Interactive map of Englewood, New Jersey}}
+|pushpin_map              = USA New Jersey Bergen County#USA New Jersey#USA
+|pushpin_label            = Englewood
+|pushpin_map_caption      = Location in Bergen County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_Bergen_County,_New_Jersey.gif}} [[Bergen County, New Jersey|Bergen]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Special Charter (New Jersey)|Special Charter]]
+|governing_body           = City Council
+|leader_title             = [[Mayor]]
+|leader_name              = [[Michael Wildes]] ([[Democratic Party (United States)|D]], term ends December 31, 2022)<ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020.</ref>
+|leader_title1            = [[City manager|Manager]]
+|leader_name1             = Jewel Thompson-Chin (interim)<ref>[http://www.cityofenglewood.org/content/9264/9272/9280/default.aspx City Manager / Administration], City of Englewood. Accessed March 24, 2020.</ref>
+|leader_title2            = [[Municipal clerk]]
+|leader_name2             = Yancy Wazirmas<ref>[http://www.cityofenglewood.org/content/9264/9272/9278/default.aspx Office of the City Clerk], City of Englewood. Accessed March 24, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = March 17, 1899
+|named_for                = Engle family or<br>"English Neighborhood"
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 12.82
+|area_land_km2            = 12.76
+|area_water_km2           =  0.06
+|area_total_sq_mi         =  4.95
+|area_land_sq_mi          =  4.93
+|area_water_sq_mi         =  0.02
+|area_water_percent       =  0.46
+|area_rank                = 279th of 565 in state<br>15th of 70 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[https://archive.today/20200212112701/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3400321480 DP-1 - Profile of General Population and Housing Characteristics: 2010 for Englewood city, Bergen County, New Jersey], [[United States Census Bureau]]. Accessed February 13, 2012.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_ber/englewood1.pdf Table DP-1. Profile of General Demographic Characteristics: 2010 for Englewood city] {{Webarchive|url=https://web.archive.org/web/20140908064113/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_ber/englewood1.pdf |date=2014-09-08 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed February 13, 2012.</ref>
+|population_total         = 27147 
+|population_rank          = 88th of 566 in state<br>6th of 70 in county<ref name=GCTPH1NJ2010>[https://www.census.gov GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] , [[United States Census Bureau]]. Accessed July 10, 2013.</ref> 
+|population_density_km2   = 2133.1
+|population_density_sq_mi = 5524.6
+|population_density_rank  = 96th of 566 in state<br>26th of 70 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 28402
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Cite GNIS|id=885209|name=City of Englewood|access-date=March 5, 2013}}</ref>
+|elevation_m              = 
+|elevation_ft             = 43
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geo/maps-data/data/gazetteer.html U.S. Gazetteer Files for 2000, 2010 and 2012-2016], [[United States Census Bureau]]. Accessed September 4, 2017.</ref>
+|coordinates              = {{coord|40.891197|-73.972515|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 07631<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=englewood&state=NJ Look Up a ZIP Code], [[United States Postal Service]]. Accessed September 15, 2011.</ref><ref>[http://www.state.nj.us/infobank/njzips.htm ZIP Codes], State of [[New Jersey]]. Accessed December 5, 2013.</ref>
+|area_code                = [[Area codes 201 and 551|201]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCounty=Bergen&frmCity=Englewood Area Code Lookup - NPA NXX for Englewood, NJ], Area-Codes.com. Accessed December 5, 2013.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3400321480<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic Codes Lookup for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0885209<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.cityofenglewood.org}}
+|footnotes                = 
+}}

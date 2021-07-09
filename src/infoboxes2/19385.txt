@@ -1,0 +1,45 @@
+{{Infobox Australian place
+| type                = town
+| name                = Cessnock
+| city                =
+| state               = nsw
+| image               = Vincent Street in Cessnock (3).jpg
+| caption             = Vincent Street, the main street of Cessnock
+| image2              = Cessnock.jpg
+| caption2            = Aerial photo of countryside around Cessnock
+| coordinates         = {{coord|32|50|3|S|151|21|19.8|E|display=inline,title}}
+| pop                 = 21725
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name="census">{{Census 2016 AUS|id=UCL112005|name=Cessnock (Urban Centres and Localities)|accessdate=21 October 2018|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| density             =
+| density_footnotes   =
+| est                 =
+| postcode            = 2325
+| elevation           = 80
+| elevation_footnotes =
+| area                =
+| area_footnotes      =
+| timezone            = [[Australian Eastern Standard Time|AEST]]
+| utc                 = +10
+| timezone-dst        = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst             = +11
+| dist1               = 154
+| dir1                = N
+| location1           = Sydney
+| dist2               = 52
+| dir2                = W
+| location2           = [[Newcastle, New South Wales|Newcastle]]
+| dist3               = 27
+| dir3                = SW
+| location3           = [[Maitland, New South Wales|Maitland]]
+| lga                 = City of Cessnock
+| region              = [[Hunter Region|Hunter]]
+| county              = [[Northumberland County, New South Wales|Northumberland]]
+| parish              = Cessnock
+| stategov            = [[Electoral district of Cessnock|Cessnock]]
+| stategov2           = [[Electoral district of Upper Hunter|Upper Hunter]]
+| fedgov              = [[Division of Hunter|Hunter]]
+| maxtemp             = 24.6
+| mintemp             = 11.1
+| rainfall            = 747.5
+}}

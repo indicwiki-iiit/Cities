@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = {{raise|0.2em|Hualien}}
+| official_name                   = Hualien City
+| native_name                     = {{lower|0.1em|{{nobold|{{lang|zh-hant|花蓮市}}}}}}
+| other_name                      = Karenkō
+| nickname                        = Huashi ({{lang|zh|花市}})
+| settlement_type                 = [[County-administered city]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = View looking down on the city of Hualien from Lingding.jpg
+| image_caption                   = Hualien City
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = {{maplink|frame=yes|frame-width=260|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=10}}
+| image_map1                      = Hualien HL.svg
+| map_caption1                    = Hualien City
+| pushpin_map                     = Taiwan
+| pushpin_map_caption             = Location in Taiwan
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = [[Taiwan]]
+| subdivision_type1               = County
+| subdivision_name1               = [[Hualien County]]
+| subdivision_type2               = 
+| subdivision_name2               = <!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = [[County-administered city]]
+| leader_title                    = Mayor
+| leader_name                     = Wei Chia-hsien (KMT)<ref>{{cite web|url=http://www.taipeitimes.com/News/front/archives/2016/08/28/2003654011|title=KMT's Wei wins Hualien by-election - Taipei Times}}</ref>
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 29.41<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = <!-- Population   ----------------------->
+| population_as_of                = December 2014
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 106,368
+| population_density_km2          = auto
+
+<!-- General information  --------------->| timezone                        = [[Chungyuan Standard Time|CST]]
+| utc_offset                      = +8
+| coordinates                     = {{coord|23|58|20|N|121|36|23|E|region:TW|display=it}}
+| elevation_footnotes             = <!--for references: use<ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -------->
+| postal_code_type                = Post code
+| postal_code                     = 970
+| area_code                       = 
+| blank_name                      = Subdivision
+| blank_info                      = 45 Boroughs<ref>{{cite web |url=http://www.hualien.gov.tw/english/report.aspx?v=B073F9013E8A5197 |script-title=zh:花蓮市公所-英文版- |title=Archived copy |access-date=2014-02-17 |archive-url=https://web.archive.org/web/20140222234026/http://www.hualien.gov.tw/english/report.aspx?v=B073F9013E8A5197 |archive-date=2014-02-22 |url-status=dead }}</ref>
+| website                         = {{URL|1=http://www.hualien.gov.tw/content_edit.php?menu=2620&typeid=2620|2=www.hualien.gov.tw}}
+| footnotes                       = 
+}}

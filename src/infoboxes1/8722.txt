@@ -1,0 +1,58 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| name                            = Gaindakot
+| native_name                     = गैँडाकोट नगरपालिका
+| other_name                      = 
+| settlement_type                 = [[Municipality]]
+| image_skyline                   = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = 
+| nickname                        = 
+| motto                           = <!-- images and maps  -->
+| image_map                       = <!-- NepalNawalparasiDistrictmap.png -->
+| mapsize                         = 500px
+| map_caption                     = Map of the village development committees in Nawalpur District
+| pushpin_map                     = Nepal
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Nepal
+<!-- Location -->| coordinates                     = {{coord|27.73|84.39|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Nepal}}
+| subdivision_type1               = [[Provinces of Nepal|Province]]
+| subdivision_type2               = [[Districts of Nepal|District]]
+| subdivision_name1               = [[Gandaki Province]]
+| subdivision_name2               = [[Nawalpur District]]
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Chatra Raj Poudel ([[Nepal Communist Party|NCP]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Bishnu Kumari Kandel ([[Nepali Congress|NC]])
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 159.93
+<!-- Population   -->| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| population_total                = 58,841 <ref>{{cite web|url=http://cbs.gov.np/wp-content/uploads/2012/11/VDC_Municipality.pdf |title=Population statistics of Nepal in the year 2011 A.D |url-status=dead |archive-url=https://web.archive.org/web/20130731124937/http://cbs.gov.np/wp-content/uploads/2012/11/VDC_Municipality.pdf |archive-date=31 July 2013 |df=dmy }}</ref>
+| population_as_of                = 2011
+| population_footnotes            = 
+| population_density_km2          = 367.92
+| population_blank1_title         = Ethnicities
+<!-- General information  -->| population_note                 = 
+| postal_code_type                = [[Postal code]]
+| postal_code                     = 33003
+| area_code                       = 078
+| website                         = [http://www.gaindakotmun.gov.np www.gaindakotmun.gov.np]
+| footnotes                       = |<!-- Politics -->
+| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| blank_name                      = 
+| blank_info                      = 
+| official_name                   = 
+}}

@@ -1,0 +1,116 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                     = Azusa, California
+| settlement_type          = [[City (California)|City]]
+| other_name               = 
+| native_name              = <!-- for cities whose native name is not in English -->
+| nickname                 = "The Canyon City"
+| motto                    = <!-- images and maps  ----------->
+| image_skyline            = Azusa City Hall.jpg
+| imagesize                = 
+| image_caption            = Azusa City Hall
+| image_flag               = 
+| flag_size                = 
+| image_seal               = City seal of Azusa, California.png
+| seal_size                = 
+| image_shield             = 
+| shield_size              = 
+| image_blank_emblem       = Azusa_CA_seal.png
+| blank_emblem_size        = 
+| image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Azusa Highlighted 0603386.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Azusa in Los Angeles County, California
+| pushpin_label = Azusa
+| pushpin_map = California#USA#North America
+| pushpin_map_caption = Location in California
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->
+|established_title        = Founded
+|established_date         = 1887<ref>{{Cite web
+ | url = http://www.ci.azusa.ca.us/index.aspx?nid=569
+ | title = Azusa History
+ | publisher = Azusa, CA
+ | access-date = March 13, 2015}}</ref>
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = December 29, 1898<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Politics ----------------->
+| government_footnotes    = 
+|government_type          = [[Council-manager government|Council-Manager]]
+| leader_title            = [[Mayor]]
+| leader_name             = Robert Gonzales<ref name="cc">{{Cite web
+ | url = http://www.ci.azusa.ca.us/index.aspx?nid=71
+ | title = City Council
+ | publisher = Azusa, CA
+ | access-date = October 20, 2014}}</ref>
+|leader_title1		  = [[Mayor Pro Tem]]
+|leader_name1		  = Jesse Avila<ref name="cc"/>
+|leader_title2            = [[Councilmember]]
+|leader_name2             = Edward J. Alvarez<ref name="cc"/>
+|leader_title3 		  = Councilmember
+|leader_name3		  = Uriel E. Macias<ref name="cc"/>
+|leader_title4            = Councilmember
+|leader_name4             = Andrew N. Mendez<ref name="cc"/>
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = August 14, 1901<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+| area_magnitude           = 
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi         = 9.68
+| area_land_sq_mi          = 9.67
+| area_water_sq_mi         = 0.01
+| area_total_km2           = 25.07
+| area_land_km2            = 25.04
+| area_water_km2           = 0.03
+| area_water_percent       = 0.13
+<!-- Elevation ------------>
+| elevation_footnotes      = <ref>{{Cite GNIS|1652667|Azusa|access-date=March 13, 2015}}</ref>
+| elevation_ft             = 610
+| elevation_m              = 186
+<!-- Population ----------->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0603386.html|title=Azusa (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 13, 2015|archive-url=https://web.archive.org/web/20120703000415/http://quickfacts.census.gov/qfd/states/06/0603386.html|archive-date=July 3, 2012|url-status=dead}}</ref>
+| population_total         = 46361
+| pop_est_as_of            = 2021
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 49974
+| population_density_sq_mi = 5169.55
+| timezone            = [[Pacific Time Zone|Pacific]]
+| utc_offset          = &minus;8
+| timezone_DST        = PDT
+| utc_offset_DST      = &minus;7
+| coordinates              = {{coord|34|7|50|N|117|54|25|W|region:US_type:city|display=inline,title}}
+| postal_code_type    = [[ZIP code]]
+| postal_code         = 91702
+| area_code           = [[Area code 626|626]]
+| blank_name          = [[Federal Information Processing Standard|FIPS code]]
+| blank_info          = {{FIPS|06|03386}}
+| blank1_name         = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info         = {{GNIS 4|1652667}}, {{GNIS 4|2409768}}
+| website             = {{URL|www.ci.azusa.ca.us}}
+|population_density_km2 = 1995.98
+}}

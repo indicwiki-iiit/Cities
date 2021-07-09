@@ -1,0 +1,81 @@
+{{Infobox Nepal municipality
+| name                          = Purchaudi<!--Do not add the word "Municipality" -->
+| nickname                      = 
+| native_name                   = पुर्चौडी
+| native_name_lang              =
+| motto                         =
+<!-- image, map-->
+| image_skyline                 = 
+| imagesize                     =
+| image_alt                     =
+| image_caption                 = 
+| map                           =  
+| mapsize                       =
+| map_alt                       =
+| map_caption                   =
+| map1                          =
+| mapsize1                      =
+| map_alt1                      =
+| map_caption1                  =
+<!--pushpin, coord, geo-->
+| pushpin_province              = Nepal Sudurpashchim Province<!--for a map of province (Nepal map automatically show)-->
+| pushpin_mapsize               =
+| pushpin_map_caption           =
+| pushpin_label_position        =
+| pushpin_relief                =
+| coordinates                   = {{coord|29.62|N|80.70|E|type:adm2nd_region:NP_source:unmaps-enwiki|display=title,inline}}
+| coordinates_footnotes         =
+| province                      = [[Sudurpashchim]]
+| district                      = [[Baitadi District|Baitadi]]
+| ward                          = 10
+<!--established, headquarters-->
+| established                   = 2017
+| incorporated_vdc              = [[Kotila, Baitadi|Kotila]], [[Bhatana]], [[Bhumiraj, Baitadi|Bhumiraj]], [[Kuwakot, Baitadi|Kuwakot]], [[Nwadeu]], [[Mahadevsthan, Baitadi|Mahadevsthan]], [[Hat, Nepal|Hat]], [[Malladehi]], [[Talladehi]] and [[Bijayapur]]
+| incorporated_date             = 2017
+| hq, headquarters or seat      = [[Hat, Nepal|Hat]]
+<!--government-->
+| government_footnotes          =
+| mayor                         =
+| mayor_party                   =
+| deputy_mayor                  =
+| deputy_mayor_party            =
+| parliamentary_constituency    =
+| mp_name                       = <!--mp=Member of parliament-->
+| mp_party                      =
+| provincial_constituency       =
+| mla_name                      = <!--mla=Member of legislative assembly-->
+| mla_party                     =
+<!--area-->
+| area_magnitude                =
+| area_footnotes                =
+| area_total_km2                = 198.52
+| area_note                     =
+| area_rank                     =
+<!--elevation-->
+| elevation_footnotes           =
+| elevation_m                   =
+| elevation_min_m               =
+| elevation_max_m               =
+<!--population-->
+| population_footnotes          =
+| population                    = 39174
+| population_as_of              = 2011
+| population_density_km2        =
+| population_note               =
+| population_rank               =
+| households                    =
+<!--others-->
+| ethnicity                     = <!-- ethnic group-->
+| female_percent                =
+| male_per_100_female           =
+| income                        =
+| poverty                       =
+| literacy                      =
+| life_expectancy               =
+| languages                     =
+| highways                      =
+| postal_code                   =
+| area_code                     =
+| website                       ={{website|http://purchaudimun.gov.np}}
+| footnotes                     = 
+}}

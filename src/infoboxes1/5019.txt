@@ -1,0 +1,32 @@
+{{Infobox Australian place| type = town
+| name     = Benalla (Rose City)
+| state    = vic
+| coordinates = {{coord|36|33|07|S|145|58|54|E|display=inline,title}}
+| pushpin_map_caption = Location in Rural City of Benalla
+| image    = Benalla-aerial.jpg
+| caption  = Aerial view from the east
+| lga      = Rural City of Benalla
+| use_lga_map = yes
+| postcode = 3672
+| pop      = 9,298
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="ABSUCL">{{Census 2016 AUS|id= UCL214002 |name = Benalla (Urban Centre/Locality)|access-date = 23 December 2017|quick=on}}</ref>
+| area          = 25.5
+| area_footnotes=<ref name="ABSUCL" />(ABS Community Profile)
+| est      = 1840s
+| elevation= 169.5
+| maxtemp  = 22.0
+| mintemp  = 8.7
+| rainfall = 670.5
+| stategov = [[Electoral district of Euroa|Euroa]]
+| fedgov   = [[Division of Indi|Indi]]
+| dist1    = 40.5
+| dir1     = SW
+| location1= [[Wangaratta, Victoria|Wangaratta]]
+| dist2    = 212
+| dir2     = NE
+| location2= Melbourne
+| dist3    = 61
+| dir3     = E
+| location3= [[Shepparton, Victoria|Shepparton]]
+}}

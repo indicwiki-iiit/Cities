@@ -1,0 +1,49 @@
+{{Infobox person
+| name               = Hannah Arendt
+| image              = Hannah Arendt 1975 (cropped).jpg
+| caption            = Arendt in 1975
+| alt                = Photo of Hannah Arendt in 1975
+| birth_name         = Johanna Arendt
+| birth_date         = {{Birth date|1906|10|14|df=yes}}
+| birth_place        = [[Linden-Limmer|Linden]], [[Province of Hanover]], [[Kingdom of Prussia]], [[German Empire]]
+| death_date         = {{Death date and age|1975|12|4|1906|10|14|df=yes}}
+| death_place        = [[Manhattan]], [[New York City]], U.S.
+| resting_place      = [[Bard College]], New York, U.S.
+| citizenship        = {{ublist|German (1906–37)|[[Statelessness|Stateless]] (1937–50)|United States (from 1950)}}
+| other_names        = Hannah Arendt Bluecher
+| parents            = {{ublist|Paul Arendt|Martha Cohn}}
+| spouse             = {{marriage|[[Günther Anders]]|1929|1937|end=divorced}}<br />{{marriage|[[Heinrich Blücher]]|1940|1970|end=died}}
+| relatives          = {{ill|Max Arendt|de}} (grandfather)<br />[[Henriette Arendt]] (aunt)
+| signature          = Signature of Hannah Bluecher-Arendt.png
+| module             = <!-- Embeds philosophy infobox here -->
+{{infobox philosopher
+|embed=yes 
+|era=[[20th-century philosophy]]
+|region = [[Western philosophy]]
+|school_tradition =
+{{collapsible list|
+| [[Continental philosophy]]
+| [[Existential phenomenology]]{{sfn|Allen|1982}}
+| [[Philosophy of life]]{{sfn|Bowen-Moore|1989|p=119}}{{sfn|Kristeva|2001b|p=48}}
+| [[Classical republicanism]]{{sfn|Lovett|2018}}}}
+|doctoral_advisor = [[Karl Jaspers]]{{sfn|Grunenberg|2017|p=3}}
+|education        = [[University of Berlin]]<br />[[University of Marburg]]<br />[[University of Freiburg]]<br />[[University of Heidelberg]] (PhD, 1929)
+| notable_works    =
+{{collapsible list
+|''[[The Origins of Totalitarianism]]'' (1951)
+|''[[The Human Condition (book)|The Human Condition]]'' (1958)
+|''[[On Revolution]]'' (1963)
+}}
+|main_interests   = [[Political theory]], theory of [[totalitarianism]], [[philosophy of history]], theory of [[modernity]]
+|notable_ideas    =
+{{collapsible list
+| Humanity as ''[[Homo faber]]''
+| Humanity as ''animal laborans''{{sfn|Yar|2018}}
+| The labor–work distinction
+| [[The banality of evil]]
+| Distinction between ''[[The Human Condition (book)|vita activa]]'' and ''vita contemplativa'' (''[[praxis (process)|praxis]]'' as the highest level of the ''vita activa''){{sfn|Fry|2009}}
+| ''{{lang|la|[[auctoritas#Hannah Arendt|Auctoritas]]}}''
+| Natality{{sfn|d'Entreves|2014}}}}
+| influences       = [[Socrates]], [[Aristotle]], [[Augustine of Hippo|Saint Augustine]], [[Immanuel Kant|Kant]], [[Goethe]], [[Karl Marx]], [[Martin Heidegger|Heidegger]], [[Karl Jaspers]], [[Walter Benjamin]], [[Heinrich Blücher]], [[Rosa Luxemburg]], [[Montesquieu]]
+| influenced       = [[Giorgio Agamben]], [[Seyla Benhabib]], [[Elisabeth Young-Bruehl]], [[Mario Kopić]], [[Emerita S. Quito|Emerita Quito]], [[Jacques Rancière]],{{sfn|Berkowitz|2012b}} [[Claude Lefort]],{{sfn|Lefort|2002}} [[Julia Kristeva]]}}
+}}

@@ -1,0 +1,21 @@
+{{Infobox UK place
+| country                  = England
+| static_image_name        = Dunstable, The Clock Tower and Market Cross - geograph.org.uk - 145452.jpg
+| static_image_width       = 240px
+| static_image_caption     = Clock Tower and Market Cross
+<!-- specified as [[File:filename.jpg|240px]] -->
+|coordinates               = {{coord|51.88603|-0.52102|display=inline,title}}
+| population               = 35,000
+| population_ref           = <ref>[[2001 UK census]]</ref><br>36,253 (2011 Census)<ref>{{cite web|url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=11122871&c=Dunstable&d=16&e=62&g=6403335&i=1001x1003x1032x1004&m=0&r=1&s=1478518850765&enc=1|title=Town population 2011|access-date=7 November 2016|publisher=Office for National Statistics |work=Neighbourhood Statistics}}</ref>
+| official_name            = Dunstable
+| civil_parish          = Dunstable <ref>https://www.dunstable.gov.uk/</ref>
+| unitary_england          = [[Central Bedfordshire]]
+| lieutenancy_england      = [[Bedfordshire]]
+| region                   = East of England
+| constituency_westminster = [[South West Bedfordshire (UK Parliament constituency)|South West Bedfordshire]]
+| post_town                = DUNSTABLE
+| postcode_district        = LU5, LU6
+| postcode_area            = LU
+| dial_code                = 01582
+| os_grid_reference        = TL0121
+}}

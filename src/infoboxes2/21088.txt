@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Lake Wales, Florida
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Bok Tower rear.JPG
+|imagesize                = 
+|image_caption            = 
+|image_flag               = Flag of Lake Wales, Flordia.svg
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_map                = Polk_County_Florida_Incorporated_and_Unincorporated_areas_Lake_Wales_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Polk County, Florida|Polk County]] and the state of [[Florida]]
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          = 
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Florida]]
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = [[Polk County, Florida|Polk]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+<!-- Area    --------------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 52.10
+|area_land_km2            = 48.80
+|area_water_km2           = 3.30
+|area_total_sq_mi         = 20.12
+|area_land_sq_mi          = 18.84
+|area_water_sq_mi         = 1.27
+|area_water_percent       = 
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 14225
+|population_density_km2   = 343.40
+|population_density_sq_mi = 889.40
+<!-- General information  --------------->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|27|54|17|N|81|35|3|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 45
+|elevation_ft             = 148
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 33800-33898
+|area_code                = [[Area code 863|863]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-38950<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0285290<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.cityoflakewales.com City of Lake Wales official site]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 16759
+}}

@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Mascara  
+| native_name =  معسكر 
+ | nickname =   
+|settlement_type        = [[City]] 
+|other_name             =
+<!-- images and maps  ----------->
+|image_skyline          = Ville de Mascara مدينة معسكر - panoramio (1).jpg
+|imagesize              =
+|image_caption          = Mascara City
+|image_flag             = Flag of Mascara.svg
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = DZ-29- Mascara.svg
+|mapsize                = 180
+|map_caption            =
+|pushpin_map            = Algeria
+|pushpin_label_position = above
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location in Algeria
+|pushpin_relief         = 1
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Algeria}}
+|subdivision_type1      = [[Provinces of Algeria|Province]]
+|subdivision_name1      = [[Mascara Province]]
+|subdivision_type2      = District
+|subdivision_name2      = [[Mascara District]]
+|subdivision_type3      =
+|subdivision_name3      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      = Founded
+|established_date       = 1701
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+<!-- Population   ----------------------->
+|population_as_of               = 2008 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 108629
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+<!-- General information  --------------->
+|timezone               = +1
+|utc_offset             = +1
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|35.4|0.133333|region:DZ|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_min_m        = 0
+|elevation_max_m        = 429
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 29000
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              =
+}}

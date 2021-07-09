@@ -1,0 +1,29 @@
+{{Infobox station
+| name = Dunn Loring<br/><small>Merrifield</small>
+| style=WMATA
+| type= {{WMATA type|orange}}
+| image = Dunn Loring station, May 2010.jpg
+| image_size = 
+| image_caption = 
+| address = 2700 Gallows Road, [[Merrifield, Virginia|Merrifield]], [[Virginia]]
+| other = 
+| bus_stands    = 7
+| bus_operators = {{bus icon}} '''[[Metrobus (Washington, D.C.)|Metrobus]]''': [[Wilson Boulevard–Vienna Line|1B]], [[Fair Oaks–Fairfax Boulevard Line|1C]], [[Washington Blvd.–Dunn Loring Line|2A]], 2B<br> {{bus icon}} '''[[Fairfax Connector]]'''
+| platform = 1 [[island platform]]
+| tracks = 2
+| structure = Surface
+| parking = 2,000 spaces
+| bicycle = 40 racks, 34 lockers
+| passengers = 3,688 daily <ref>{{Cite web |url=https://www.wmata.com/about/records/public_docs/upload/2017_historical_rail_ridership.pdf |title=Metrorail Average Weekday Passenger Boardings |date=May 2017 |publisher=[[Washington Metropolitan Area Transit Authority]] |format=PDF |access-date=February 17, 2018}}</ref>
+| pass_year = 2017
+| pass_percent = -8.33
+| opened = {{start date and age|June 7, 1986|mf=yes}}
+| rebuilt = 2020
+| ADA = Yes
+| code = K07
+| owned = [[Washington Metropolitan Area Transit Authority]]
+| former = Dunn Loring (1986–1998, 2011–present)<BR>Dunn Loring–Merrifield (1998–2011)
+| zone = 
+| services = {{Adjacent stations|system=WMATA|line=Orange|left=Vienna|right=West Falls Church}}
+| mpassengers = 
+}}

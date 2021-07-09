@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Bessemer City, North Carolina
+|settlement_type          = [[City]]
+|nickname                 = City with a Heart
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = NC161-NC274-Bessemer City.jpg
+|imagesize                = 
+|image_caption            = Directional signs of [[North Carolina Highway 274|NC&nbsp;274]], at the end of [[North Carolina Highway 161|NC&nbsp;161]], in Bessemer&nbsp;City
+
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = NCMap-doton-BessemerCity.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Bessemer City, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name         = {{USA}}
+|subdivision_name1        = {{flag|North Carolina}}
+|subdivision_name2        = [[Gaston County, North Carolina|Gaston]]
+|government_footnotes     = 
+|government_type          = Council-Manager
+|leader_title             = Mayor
+|leader_name              = Becky Smith
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = March 6, 1893
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 13.57
+|area_land_km2            = 13.47
+|area_water_km2           = 0.10
+|area_total_sq_mi         = 5.24
+|area_land_sq_mi          = 5.20
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5340
+|population_density_km2   = 413.99
+|population_density_sq_mi = 1072.29
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 278
+|elevation_ft             = 978
+|coordinates              = {{coord|35|17|3|N|81|16|58|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 28016
+|area_code                = [[Area code 704|704]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-05220<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0981053<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.bessemercity.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5577
+}}

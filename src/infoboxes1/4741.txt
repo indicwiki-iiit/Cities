@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Caibarién
+|other_name             = 
+|native_name            = 
+|nickname               = La Villa Blanca (The White Town)
+|settlement_type        = [[Municipalities of Cuba|Municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = 1 Caibariengazebo.jpg
+|image_caption          = The ''Glorieta'' of Caibarién
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 120x90px
+|image_map              = Caibarién (Cuban municipal map).png
+|map_caption            = Caibarién municipality (red) within <br> Villa Clara Province (yellow) and Cuba
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Cuba]]
+|subdivision_type1      = [[Provinces of Cuba|Province]]
+|subdivision_name1      = [[Villa Clara Province|Villa Clara]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|established_title      = Founded
+|established_date       = 1832
+|established_title2     = Established
+|established_date2      = 1873 (Village)
+|established_title3     = Municipality
+|established_date3      = 1879
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = 
+|area_footnotes         = <ref name=statoids/>
+|area_total_km2         = 212
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+<!-- Population   ----------------------->
+|population_as_of       = 2009
+|population_footnotes   = <ref>{{cite web|title=Anuario Estadístico|url=http://www.one.cu/aed2009/05Villa%20Clara/Municipios/06%20Caibarien/datos/2.1.xls|work=Caibarién 2009|publisher=Oficina Nacional de Estadísticas|accessdate=2 May 2011}}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|population_note        = 
+|population_total       = 37902
+|population_density_km2 = 88.9
+<!-- General information  --------------->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = -5
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|22|30|57|N|79|28|20|W|region:CU|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 5
+<!-- Area/postal codes & others -------->
+|postal_code_type       = 
+|postal_code            = 
+|area_code              = +53-42
+|website                = 
+|footnotes              = 
+}}

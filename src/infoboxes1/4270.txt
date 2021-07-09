@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name          = Tuxtla Gutiérrez
+|name                   = Tuxtla
+|other_name             = 
+|native_name            = Coyatoc <!-- for cities whose native name is not in English -->
+|native_name_lang       = Zoque
+|nickname               = 
+|settlement_type        = City & municipality
+|total_type             = Municipality
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = SanMarcosTuxtla.JPG
+|imagesize              = 250px
+|image_caption          = St. Mark's Cathedral
+|image_flag             =
+|flag_size              =
+|image_shield           = Escudo Tuxtla.png
+|shield_size            =
+|image_seal             = 
+|pushpin_map            = Mexico
+|pushpin_label_position = above
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in Mexico
+|image_map              = Tuxtla Gutierrez en Chiapas.svg
+|map_caption            = Location in Chiapas
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Mexico}}
+|subdivision_type1      = [[States of Mexico|State]]
+|subdivision_name1      = {{flag|Chiapas}}
+|subdivision_type2      =
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[List of municipal presidents of Tuxtla Gutiérrez|Mayor]]
+|leader_name            = [[Carlos Morales Vázquez]]
+|leader_party           = [[National Regeneration Movement|MORENA]]
+|established_title      = Village of Coyatoc
+|established_date       = 400 BC<ref>{{cite web|url=http://www.colegiomexsur.edu.mx/rz_tg.html|title=Tuxtla Gutiérrez}}</ref>
+|established_title2     = Tōchtlān
+|established_date2      = 1486<ref name="Municipio de Tuxtla Gutiérrez">{{cite web| title = Municipio de Tuxtla Gutiérrez|url=http://www.guiaturisticamexico.com/municipios.php?id_Municipio=00152&nombre=Tuxtla+Guti%C3%A9rrez| publisher = Guía Turística México| access-date =25 May 2013 | language = es}}</ref>
+|established_title3     = San Marcos Tuxtla
+|established_date3      = 1748<ref name="Municipio de Tuxtla Gutiérrez" />
+|established_title4     = Tuxtla Gutiérrez
+|established_date4      = May 31, 1848<ref name="Municipio de Tuxtla Gutiérrez" />
+<!-- Area    -------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 334.90
+<!-- Population   ----------------------->
+|population_as_of               = 2020
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 604147
+|population_density_km2         = 1797.7
+|population_blank1_title        = Seat
+|population_blank1              = 578830<!-- population of seat -->
+|population_blank2_title        = Metro Area
+|population_blank2              = 848274<!-- population of metro area-->
+|population_demonym             = {{Nowrap|Tuxtleco (a)}}<ref name="Municipio de Tuxtla Gutiérrez" />
+<!-- General information  --------------->
+|timezone               = [[Central Standard Time|CST]]
+|utc_offset             = −6
+|timezone_DST           = [[Central Daylight Time|CDT]]
+|utc_offset_DST         = −5
+|coordinates            = {{coord|16|45|10|N|93|07|00|W|region:MX|display=inline,title}}
+|elevation_footnotes    = &nbsp;of seat
+|elevation_m            = 522
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code (of seat) <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 29000 - 29100
+|area_code              = 961
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate]]
+|website                = {{URL|http://www.tuxtla.gob.mx}} {{in lang|es}}
+|footnotes              =
+}}

@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                   = Arad
+| native_name            = {{Lang|he|{{Script/Hebrew|ערד}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] (from 1995)
+| image_skyline          = File:PikiWiki Israel 15985 Arad.jpg
+| imagesize              = 300px
+| image_blank_emblem     = Arad_Israel.png
+| blank_emblem_type      = Emblem of Arad
+| pushpin_map_alt        = 
+| pushpin_map            = Israel north negev#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = right
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|15|21.44|N|35|12|47.36|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 4000 BCE <small>([[Tel Arad]])</small><br />1100 BCE <small>(Israelite city)</small><br />1962 <small>(Israeli city)</small>
+| leader_title           = Mayor
+| leader_name            = [[Nissan Ben Hamo]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:93,140|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Arad}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Named after [[Tel Arad]]
+| website                = {{url|arad.muni.il}}
+}}

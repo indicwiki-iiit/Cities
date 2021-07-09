@@ -1,0 +1,30 @@
+{{Infobox Australian place | type = lga 
+| name     = City of South Perth
+| state    = wa
+| image    = South Perth LGA WA.png
+| caption  = 
+| pop      = 41,989
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA57840 |name=South Perth (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 43554
+| pop2_year          = 2018 est.
+| pop2_footnotes     = <ref name=ABS3218.0>{{cite web|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|title=3218.0 – Regional Population Growth, Australia, 2017-18|publisher=Australian Bureau of Statistics|date=27 March 2019|access-date=31 December 2019}} Estimated resident population (ERP) at 30 June 2018.</ref>
+| area     = 19.8
+| est      = 1892
+| seat     = [[South Perth, Western Australia|South Perth]]
+| mayor    = Greg Milner
+| region   = [[Perth, Western Australia|South Metropolitan Perth]]
+| logo     = CityofSouthPerthlogo.svg
+| logo_upright   = 1.2
+| url      = http://www.southperth.wa.gov.au
+| stategov = [[Electoral district of South Perth|South Perth]]
+| fedgov   = [[Division of Swan|Swan]]
+| near-nw  = [[City of Perth|Perth]]
+| near-n   = [[City of Perth|Perth]]
+| near-ne  = [[Town of Victoria Park|Victoria Park]]
+| near-w   = [[City of Nedlands|Nedlands]]
+| near-e   = [[City of Canning|Canning]]
+| near-sw  = [[City of Melville|Melville]]
+| near-s   = [[City of Melville|Melville]]
+| near-se  = [[City of Canning|Canning]]
+}}

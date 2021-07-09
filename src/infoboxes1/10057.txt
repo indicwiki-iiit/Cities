@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Gölcük
+| image_skyline                   = Gölcük Manzarası.jpg
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey #Europe
+| coordinates                     = {{coord|40|40|00|N|29|50|00|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Kocaeli Province|Kocaeli]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = Municipality mayor
+| leader_name                     = Ali Yıldırım Sezer
+| leader_title1                   = District governor
+| leader_name1                    = Cengiz Karabulut
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Kocaeli|Gölcük}}
+| elevation_m                     = 
+| population_footnotes            = {{Turkey district populations|SOURCE|Kocaeli}}
+| population_urban                = {{Turkey district populations|Kocaeli|Gölcük|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Kocaeli|Gölcük|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 41650
+| website                         = {{URL| www.golcuk.bel.tr | www.golcuk.bel.tr }}
+| official_name                   = 
+}}

@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Diffa
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        =Urban Commune
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            =Niger<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Niger
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Niger}}
+|subdivision_type1      = [[Regions of Niger|Region]]
+|subdivision_name1      = [[Diffa Region]]
+|subdivision_type2      =[[Departments of Niger|Department]]
+|subdivision_name2      = [[Diffa Department]]|
+|subdivision_type3      =[[Communes of Niger|Urban Commune]]
+|subdivision_name3      = Diffa
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               =2011
+|population_footnotes           =<ref>[http://www.citypopulation.de/Niger.html Population figures from citypopulation.de], citing [http://www.stat-niger.org/ (2001) Institut National de la Statistique du Niger].</ref>
+|population_note                =
+|population_total               =48,005
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =[[West Africa Time|WAT]] 
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         =  
+|coordinates            = {{coord|13|18|53|N|12|37|4|E|region:NE|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 285
+|elevation_ft           = 938
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

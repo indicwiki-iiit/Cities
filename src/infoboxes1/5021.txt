@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type         = city
+| name         = Bendigo
+| state        = Vic
+| image        = Central bendigo from botanic gardens.jpg
+| caption      = View of central Bendigo from Camp Hill
+| pop          = 100,632
+| pop_year     = 2021
+| pop_footnotes= <ref name=ABSSUA/>
+| poprank      = 20th
+| mintemp      = 7.5
+| maxtemp      = 20.7
+| rainfall     = 550.7
+| elevation    = 213
+| coordinates  = {{coord|36|45|0|S|144|16|0|E|display=inline,title}}
+| est          = 1851
+| area         = 287.4 <!-- Do not use the LGA area figure here as it is misleading -->
+| area_footnotes = <ref name="ABSSUAProf">{{cite web|title=2016 Census Community Profiles: Bendigo|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/communityprofile/2004|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=26 October 2017}}</ref> (2016 urban)
+| timezone     = [[UTC10|AEST]]
+| utc          = +10
+| timezone-dst = [[UTC11|AEST]]
+| utc-dst      = +11
+| county       = [[County of Bendigo|Bendigo]]
+| postcode     = 3550<ref>[https://auspost.com.au/postcode/3550 Bendigo Postcode] Australia Post</ref>
+| stategov     = [[Bendigo East]]
+| stategov2    = [[Bendigo West]]
+| fedgov       = [[Division of Bendigo|Bendigo]]
+| lga          = [[City of Greater Bendigo]]
+| dist1        = 150 | dir1 = NW | location1 = Melbourne
+| dist2        =  423 | dir2 = SE  | location2 = Mildura
+| dist3        =  98 | dir3 = NE  | location3 = Ballarat 
+}}

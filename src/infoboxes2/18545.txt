@@ -1,0 +1,39 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name           = Nallıhan
+| settlement_type         = District
+| image_skyline           = Nallıhan.jpg
+| imagesize               = 235px
+| image_caption           = Nallıhan district center
+| image_map               = Ankara districts.png
+| map_caption             = Location of Nallıhan within Turkey.
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|11|01|N|31|21|02|E|region:TR|display=inline,title}}
+| subdivision_type        = [[Countries of the world|Country]]
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = Ankara
+| leader_title            = Mayor
+| leader_name             = Ahmet Adnan Okur ([[Nationalist Movement Party|MHP]])
+| leader_title1           = Governor
+| leader_name1            = Ömer Toraman
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Ankara|Nallıhan}}
+| elevation_m             = 625
+| population_footnotes    = {{Turkey district populations|SOURCE|Ankara}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Ankara|Nallıhan|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Ankara|Nallıhan|toplam}}
+| population_density_blank1_km2 = auto
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| postal_code_type        = [[Postal code]]
+| postal_code             = 06920
+| area_code               = 0312
+| blank_name              = [[Turkish car number plates|Licence&nbsp;plate]]
+| blank_info              = 06
+| website = {{URL|http://www.nallihan.gov.tr/}}
+}}

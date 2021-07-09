@@ -1,0 +1,97 @@
+{{Infobox settlement
+| official_name                   = City of Novato
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Novato10.jpg
+| imagesize                       = 
+| image_caption                   = Novato city hall
+| image_seal                      = 
+| image_map                       = Marin County California Incorporated and Unincorporated areas Novato Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Marin County, California|Marin County]] and the state of [[California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|38|06|27|N|122|34|11|W|region:US-CA|display=inline,title}}
+| coordinates_footnotes           = <ref name=gnis />
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{USA}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Marin County, California|Marin]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Pat Eklund<ref>{{Cite web
+ | url = http://novato.org/government/city-council
+ | access-date = April 25, 2021
+ | title = Council Members
+ | publisher = City of Novato}}</ref>
+| leader_title1                   = [[Marin County Board of Supervisors|County Board]]
+| leader_name1                    = Districts 5 & 4<br>[[Judy Arnold]]<br>[[Dennis Rodoni (politician)|Dennis Rodoni]]<ref>{{Cite web |url=https://www.marincounty.org/depts/bs/district-4/home |title=County of Marin District 4 webpage |publisher=[[County of Marin]] |access-date=February 7, 2020 }}</ref>
+| leader_title2                   = [[California's 2nd State Senate district|State Senator]]
+| leader_name2                    = {{Representative|casd|2|fmt=sleader}}<ref name=swd>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = December 5, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+| leader_title3                   = [[California's 10th State Assembly district|Assemblymember]]
+| leader_name3                    = {{Representative|caad|10|fmt=sleader}}<ref name=swd/>
+| leader_title4                   = [[California's 2nd congressional district|U. S. Rep.]]
+| leader_name4                    = {{Representative|cacd|2|fmt=usleader}}<ref name="ReferenceA">{{Cite GovTrack|CA|2|access-date=March 1, 2013}}</ref>
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = January 20, 1960<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = February 21, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 27.99
+| area_land_sq_mi                 = 27.48
+| area_water_sq_mi                = 0.51
+| area_total_km2                  = 72.48
+| area_land_km2                   = 71.16
+| area_water_km2                  = 1.32
+| area_water_percent              = 1.85
+<!-- Elevation ------------>| elevation_footnotes             = <ref name=gnis>{{Cite gnis|277612|Novato}}</ref>
+| elevation_ft                    = 30
+| elevation_m                     = 9
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0652582.html|title=Novato (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 26, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120707035733/http://quickfacts.census.gov/qfd/states/06/0652582.html|archive-date=July 7, 2012|df=mdy-all}}</ref>
+| population_total                = 51904
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 55516
+| population_density_sq_mi        = 2020.60
+| population_metro                = 
+| population_blank2_title         = [[Demonym]]
+| population_blank2               = Novatonian
+<!-- Time zones ----------->| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 94945, 94947–94949, 94998
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| area_code                       = [[Area codes 415 and 628|415/628]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|52582}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|277612}}, {{GNIS 4|2411283}}
+| website                         = {{URL|novato.org}}
+| population_density_km2          = 780.16
+}}

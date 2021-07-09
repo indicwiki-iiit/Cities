@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = College Place, Washington
+|settlement_type          = [[City]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|nickname                 = 
+|motto                    = 
+<!-- Images -->
+|image_map                = Walla_Walla_County_Washington_Incorporated_and_Unincorporated_areas_College_Place_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of College Place, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|coordinates              = {{coord|46|2|42|N|118|22|57|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_name2        = [[Walla Walla County, Washington|Walla Walla]]
+<!-- Government -->
+|established_title        = 
+|established_date         = 
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = Mayor - Council 
+|leader_title             = Mayor 
+|leader_name              = Norma Hernandez
+|leader_title1            = City Administrator 
+|leader_name1             = Mike Rizzitiello 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 7.76
+|area_total_sq_mi         = 3.00
+|area_land_km2            = 7.76
+|area_land_sq_mi          = 3.00
+|area_water_km2           = 0.00
+|area_water_sq_mi         = 0.00
+<!-- Population -->
+|elevation_footnotes      = 
+|elevation_m              = 242
+|elevation_ft             = 794
+|population_total         = 8765
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 9317
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_density_km2   = 1200.42
+|population_density_sq_mi = 3108.78
+<!-- General information -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 99324
+|area_code                = [[Area code 509|509]] 
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-13855
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1512107<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|http://www.cpwa.us/|cpwa.us}}
+|footnotes                = 
+}}

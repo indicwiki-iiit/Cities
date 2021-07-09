@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|name          = El Tocuyo
+|settlement_type        = Shire Town<!--For Town or Village (Leave blank for the default City)-->
+|image_skyline          = Catedral del Tocuyo.jpg
+|image_caption          = El Tocuyo Cathedral (Temple of La Concepcion)
+|image_flag             = Bandera Moran Lara.PNG
+|image_seal             = Moran(Lara-Venezuela)Municipio-ESCUDO.jpg
+|pushpin_map            = Venezuela
+|pushpin_map_caption    =Location in Venezuela
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Venezuela}}
+|subdivision_type1      = [[States of Venezuela|State]]
+|subdivision_name1      = [[Lara, Venezuela|Lara]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Morán Municipality]]
+|subdivision_type3      = [[Demonym]]
+|subdivision_name3      = ''Tocuyano''
+|established_title      = Founded 
+|established_date       = 7 December 1545
+|area_total_km2           = 2231
+|population_as_of               =2001
+|population_total               = 41,327
+|population_demonym     = Tocuyano/a
+|coordinates            = {{coord|9|46|56|N|69|47|35|W|region:VE|display=inline}}
+|elevation_m            = 622
+|postal_code_type       = postal code
+|postal_code            = 3018
+|area_code              = 0253
+|blank1_name            = [[Köppen climate classification|Climate]]
+|blank1_info            = [[Tropical savanna climate|Aw]]
+|website                = 
+|footnotes              = 
+}}

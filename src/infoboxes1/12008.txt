@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                     = Iguala
+| official_name            = Iguala de la Independencia
+| native_name              = <!-- for cities whose native names is not in English -->
+| other_name               = 
+| settlement_type          = [[City]]
+<!-- images and maps  ----------->
+| image_skyline            = IgualaMontage.jpg
+| imagesize                = 270px
+| image_caption            = Above, from left to right: Side, Dome, and part of the Parish of San Francisco de Asís, The monumental flag, Parish of San Juan Bautista, Statue of Francisco de Asís in front of the parish and Panoramic from the flagstick in the Hill the Tehuehue.
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Mexico Guerrero#Mexico <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = top
+| pushpin_mapsize          = 
+| pushpin_map_caption      = Location in Mexico
+<!-- Location ------------------>
+| coordinates              = {{coord|18|21|N|99|32|W|region:MX-GRO|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = Mexico
+| subdivision_type1        = [[Administrative divisions of Mexico|State]]
+| subdivision_name1        = [[Guerrero]]
+| subdivision_type2        = [[Municipalities of Guerrero|Municipality]]
+| subdivision_name2        = [[Iguala de la Independencia (municipality)|Iguala de la Independencia]]
+| established_title        = 
+| established_date         = 
+| leader_title             = 
+| leader_name              = 
+| area_total_km2           = 
+| area_total_sq_mi         = 
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 
+| area_water_km2           = 
+| area_water_sq_mi         = 
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              = 
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 110,390
+| population_as_of         = 2005
+| population_density_km2   = 
+| population_density_sq_mi =
+<!-- General information  --------------->
+| timezone                 = 
+| utc_offset               = 
+| timezone_DST             = 
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              = 
+| area_code                = 
+| website                  = 
+}}

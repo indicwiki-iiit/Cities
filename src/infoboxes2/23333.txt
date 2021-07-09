@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Kastav
+| official_name                   = ''Grad Kastav''<br> Town of Kastav
+| other_name                      = 
+| native_name                     = 
+| nickname                        = 
+| settlement_type                 = [[List of cities and towns in Croatia|Town]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = Zastava Kastva.svg
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| city_logo                       = 
+| citylogo_size                   = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = Croatia
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Kastav within Croatia
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Croatia}}
+| subdivision_type1               = County
+| subdivision_name1               = [[File:Flag of Primorje-Gorski Kotar County.png|border|23px]] [[Primorje-Gorski Kotar County|Primorje-Gorski Kotar]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Matej Mostarac ([[Social Democratic Party of Croatia|SDP]])
+| leader_title1                   = City Council
+| leader_name1                    = {{Collapsible list
+|title                  = 17 members<ref>{{cite web|url=http://www.kastav.hr/sites/default/files/Kona%C4%8Dni%20rezultati%20-%20izbor%20%C4%8Dlanova%20za%20Gradsko%20vije%C4%87e.pdf|title=Konačni rezultati 2017|language=hr|access-date=29 May 2017}}</ref>
+|frame_style            = border: none; padding: 0;
+|list_style             = text-align:left;display:none;
+| {{Color box|{{Social Democratic Party of Croatia/meta/color}}|border=darkgray}} [[Social Democratic Party of Croatia|SDP]]-[[Alliance of Primorje-Gorski Kotar|PGS]]-[[Istrian Democratic Assembly|IDS]]-[[Croatian People's Party – Liberal Democrats|HNS]]-[[Autonomous Regional Party of Croatian Littoral, Gorski Kotar, Islands and Rijeka|ARS]]-[[Croatian Party of Pensioners|HSU]]-[[Croatian Peasants Party|HSS]] (8)
+| _ 
+| {{Color box|{{Youth Action (Croatia)/meta/color}}|border=darkgray}} [[Youth Action (Croatia)|AM]] (4)
+| _ 
+| {{Color box|{{Croatian Democratic Union/meta/color}}|border=darkgray}} [[Croatian Democratic Union|HDZ]]-[[Croatian Christian Democratic Party|HDS]]-[[Croatian Party of Rights|HSP]]-[[Croatian Social Liberal Party|HSLS]] (4)
+| _ 
+| {{Color box|{{People's Party - Reformists/meta/color}}|border=darkgray}} [[People's Party - Reformists|R]] (1)
+}}
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = <!-- Population   ----------------------->
+| population_as_of                = 16.453
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 
+| population_density_km2          = 
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 
+| population_density_urban_km2    = <!-- General information  --------------->
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|45.375|N|14.349|E|region:HR|display=inline}}
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 
+| elevation_ft                    = <!-- Area/postal codes & others -------->
+| postal_code_type                = 
+| postal_code                     = 
+| area_code                       = 051
+| blank_name                      = 
+| blank_info                      = 
+| website                         = [http://www.kastav.hr kastav.hr]
+| footnotes                       = 
+}}

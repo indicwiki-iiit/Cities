@@ -1,0 +1,71 @@
+{{Infobox settlement
+| name                   = Al-Sanamayn
+| official_name          = Al-Sanamein
+| native_name            = ٱلصَّنَمَيْن <!-- for cities whose native name is not in English -->
+| other_name             = Sunamein <br> Sanamain
+| settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+<!-- images and maps  ----------->
+| image_skyline          = Es Sanamein - GAR - 8-01.jpg
+| image_caption          = The remains of the 2nd-century Roman temple of Tyche in al-Sanamayn, 2008
+| image_flag             =
+| image_seal             =
+| image_shield           =
+| nickname               =
+| motto                  =
+| image_map              =
+| map_caption            =
+| pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location in Syria
+<!-- Location ------------------>
+| coordinates            = {{coord|33|04|16|N|36|11|3|E|region:SY|display=inline,title}}
+| grid_position =  260/275  [[Palestine grid|PAL]]  
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Syria}}
+| subdivision_type1      = [[Governorates of Syria|Governorate]]
+| subdivision_name1      = [[Daraa Governorate|Daraa]]
+| subdivision_type2      = [[Districts of Syria|District]]
+| subdivision_name2      = [[Al-Sanamayn District|Al-Sanamayn]]
+| subdivision_type3      = [[Nahiyah|Subdistrict]]
+| subdivision_name3      = Al-Sanamayn
+| subdivision_type4      =
+| subdivision_name4      =
+<!-- Politics ----------------->
+| established_title      = <!-- Settled -->
+| established_date       =
+| government_footnotes   =
+| government_type        =
+| leader_title           =
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi       =
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi        =
+| area_water_km2         =
+| area_water_sq_mi       =
+| area_water_percent     =
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            = 640
+| elevation_ft           =
+<!-- Population   ----------------------->
+| population_footnotes   =
+| population_total       = 26,268
+| population_as_of       = 2004
+| population_density_km2 =
+<!-- General information  --------------->
+| population_note        =
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+| timezone_DST           = +3
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| website                =
+| footnotes              =
+}}

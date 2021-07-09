@@ -1,0 +1,40 @@
+{{Infobox golf facility
+| name                = Bay Hill Club and Lodge..
+| image               =
+| imagesize           = <!-- include units -->
+| caption             = 
+| pushpin_map         = USA#Florida
+| relief              = y<!-- any non-blank value to display relief map, if available -->
+| pushpin_mapsize     = <!-- width of map (e.g., 220 without the px), default is 250 -->
+| pushpin_map_alt     = <!-- alternative text for map, see WP:ALT for details -->
+| pushpin_map_caption = <!-- text displayed below map, overrides default caption -->
+| coordinates         = {{coord|28.458|-81.511|type:landmark|display=inline,title}}
+| elevation           = {{convert|120|ft}}
+| location            = [[Bay Hill, Florida]], U.S.
+| establishment       = 1961, {{Years or months ago|1961}}
+| type                = Private<!-- public/private -->
+| owner               = <!-- name of organization/company -->
+| operator            = <!-- name of organization/company -->
+| holes               = 27 <!-- total number of holes at club/resort -->
+| greens              = <!-- type of grass used -->
+| fairways            = <!-- type of grass used -->
+| tournaments         = {{nowrap|[[Arnold Palmer Invitational]]}}<br>([[1979 PGA Tour|1979]]–present) <!-- notable tournaments held (if any) -->
+| website             = {{url|http://www.bayhill.com}}
+| course1             = Challenger / Champion nines<!-- individual course name, can leave blank if same as article title -->
+| designer1           = [[Dick Wilson (golf course architect)|Dick Wilson]]
+| par1                = 72
+| length1             = {{convert|7381|yd}}
+| rating1             = 75.2
+| slope1              = 138 <ref name=tourslope>{{cite web|url=https://ncrdb.usga.org/NCRDB/courseTeeInfo.aspx?CourseID=26557 |publisher=USGA |title=Course Rating and Slope Database™ - Bay Hill - Challenger/Champion |access-date=March 20, 2019}}</ref>
+| record1             = 
+| course2             = Charger nine
+| designer2           = Bob Simmons
+| par2                = 36
+| length2             = {{convert|3324|yd}}
+| rating2             = 36.0
+| slope2              = 137 <ref name=chaslope>{{cite web|url=https://ncrdb.usga.org/NCRDB/courseTeeInfo.aspx?CourseID=26560 |publisher=USGA |title=Course Rating and Slope Database™ - Bay Hill - Charger nine |access-date=April 18, 2018}}</ref>
+| record2             = 
+| image2              = <!-- a second image -->
+| imagesize2          = 
+| caption2            = 
+}}

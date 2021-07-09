@@ -1,0 +1,31 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = San Juan del Río, Querétaro
+| settlement_type                 = [[City]]
+<!-- images and maps  ----------->| image_skyline                   = Vista de SJR.JPG
+| imagesize                       = 
+| image_caption                   = Partial view of San Juan del Río (taken from "Cerro Gordo" hill).
+| pushpin_map                     = Mexico Querétaro#Mexico
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = [[Mexico]]
+| subdivision_type1               = State
+| subdivision_name1               = [[Querétaro]]
+| subdivision_type2               = Municipality
+| subdivision_name2               = [[San Juan del Río Municipality, Querétaro|San Juan del Río Municipality]]
+<!-- Politics ----------------->| leader_title                    = Municipal president
+| leader_name                     = [[Guillermo Vega Guerrero]] ([[National Action Party (Mexico)|PAN]])
+<!-- Area    --------------------->| area_footnotes                  = (municipality)
+| area_total_km2                  = 799.9
+<!-- Population   ----------------------->| population_as_of                = 2015
+| population_total                = 268,408 (city); 305,000 (municipality)
+<!-- General information  --------------->| utc_offset_DST                  = -6
+| coordinates                     = {{coord|20|23|N|99|59|W|region:MX|display=inline,title}}
+<!-- Area/postal codes & others -------->| blank_name                      = [[Human Development Index|HDI]] (2000)
+| blank_info                      = 0.8035
+| blank1_name                     = [[Gross domestic product|GDP]] ([[per capita]])
+| blank1_info                     = [[United States dollar|US$]]6.980,00<br>2000
+| blank2_name                     = [[WOEID]]
+| blank2_info                     = 143928
+| website                         = [http://www.sanjuandelrio.gob.mx sanjuandelrio.gob.mx]
+}}

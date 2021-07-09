@@ -1,0 +1,86 @@
+{{Infobox settlement
+|official_name            = City of Grand Terrace
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Views of Grand Terrace, CA.png
+|imagesize                = 
+|image_caption            = City of Grand Terrace images from top, left to right - Grand Terrace City Hall, Blue Mountain Trail, Northeast City Entrance, Historical Plaque, Veterans Wall of Freedom
+|image_seal               = City of Grand Terrace, City Seal.png
+|image_map                = File:San Bernardino County California Incorporated and Unincorporated areas Grand Terrace Highlighted 0630658.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Grand Terrace in San Bernardino County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|34|02|02|N|117|18|49|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name="GNIS">{{Cite GNIS|1660692|Grand Terrace|access-date=November 12, 2014}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of San Bernardino County, California.png}} [[San Bernardino County, California|San Bernardino]]
+|government_type          = [[Council–manager government|Council-manager]]<ref name="mgr"/>
+|leader_title             = [[Mayor]]
+|leader_name              = Darcy McNaboe<ref name="cc">{{Cite web
+ | url = https://www.grandterrace-ca.gov/government/elected_officials/city_council
+ | title = City Council
+ | publisher = Grand Terrace, CA
+ | access-date = March 20, 2015}}</ref>
+|leader_title1            = [[City Manager]]
+|leader_name1             = G. Harold Duffey<ref name="mgr">{{Cite web
+ | url = https://www.grandterrace-ca.gov/departments/city_managers_office
+ | title = City Manager
+ | publisher = Grand Terrace, CA
+ | access-date = March 20, 2015}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 30, 1978<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 3.50
+| area_land_sq_mi         = 3.50
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 9.08
+| area_land_km2           = 9.08
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+| area_note               = 
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 1063
+|elevation_m              = 324
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="quif">{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0630658.html|title=Grand Terrace (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|archive-url=https://web.archive.org/web/20150329005157/http://quickfacts.census.gov/qfd/states/06/0630658.html|archive-date=March 29, 2015|url-status=dead}}</ref>
+|population_total         = 12040
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 12584
+|population_density_sq_mi = 3590.30
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92313
+|area_code                = [[Area code 909|909]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|30658}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1660692}}
+|website                  = {{URL|www.grandterrace-ca.gov}}
+|population_density_km2   = 1386.33
+}}

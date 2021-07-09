@@ -1,0 +1,91 @@
+{{Infobox settlement
+| name                            = Tulare County, California
+| official_name                   = County of Tulare
+| native_name                     = 
+| settlement_type                 = [[County (United States)|County]]
+| image_skyline                   = {{photomontage
+   | photo1a = Visalia Acequia Ave..JPG
+   | photo1b = 2009-0725-CA-Allensworth-Hotel.jpg
+   | photo2a = Moro Rock-View from Potwisha.jpg
+   | photo2b = 2006 12 29 - Terminus Dam (3).JPG
+   | spacing = 1
+   | size = 300 | position = center }}
+| image_caption                   = Images, from top down, left to right: Acequia Avenue in [[Visalia, California|Visalia]], Allensworth Hotel in [[Colonel Allensworth State Historic Park]], [[Moro Rock]] in [[Sequoia National Park]], [[Lake Kaweah]]
+| image_flag                      = 
+| image_seal                      = Seal of Tulare County, California.png
+| image_map                       = {{Maplink|frame=yes|plain=yes|frame-width=250|frame-align=center|type=line|fill=#ffffff|fill-opacity=0|stroke-width=3}}
+| map_caption                     = Interactive map of Tulare County
+| image_map1                      = Map of California highlighting Tulare County.svg
+| mapsize1                        = 200px
+| map_caption1                    = Location in the state of California
+| coordinates                     = {{coord|36.23|-118.80|type:adm2nd_region:US-CA_source:UScensus1990|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of regions of California|Regions]]
+| subdivision_name2               = [[San Joaquin Valley]] and [[Sierra Nevada]]
+| subdivision_type3               = [[Metropolitan statistical area|Metro area]]
+| subdivision_name3               = [[Visalia-Porterville Metropolitan Area]]
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1852
+| named_for                       = [[Tulare Lake]], which is named for the [[Schoenoplectus acutus|tule rush]] that lined its shores
+| seat_type                       = [[County seat]]
+| seat                            = [[Visalia, California|Visalia]]
+| seat1_type                      = Largest city
+| seat1                           = Visalia
+| parts_type                      = Incorporated cities
+| parts                           = 8
+| leader_title                    = Administrative Officer
+| leader_name                     = Jason Britt<ref>{{cite web
+ | url = http://www.tularecounty.ca.gov/cao/index.cfm/county-administrative-officer/
+ | title = County Administrative Officer - CAO
+ | publisher = County of Tulare
+ | access-date = February 8, 2015
+ | archive-url = https://web.archive.org/web/20150209054200/http://www.tularecounty.ca.gov/cao/index.cfm/county-administrative-officer/
+ | archive-date = February 9, 2015
+ | url-status = dead
+ }}</ref>
+| leader_title1                   = Board of Supervisors<ref name=sups>{{cite web
+ | url = http://tularecounty.ca.gov/board/
+ | title = Home - Board of Supervisors
+ | publisher = County of Tulare
+ | access-date = March 24, 2017}}</ref>
+| leader_name1                    = {{Collapsible list
+| title               = Supervisors
+| frame_style         = border:none; padding: 0;
+| list_style          = text-align:left;display:none;
+| 1 = Kuyler Crocker
+| 2 = Peter Vander Poel
+| 3 = Amy Shuklian
+| 4 = Eddie Valero
+| 5 = Dennis Townsend
+}}
+| unit_pref                       = US
+| area_total_sq_mi                = 4839
+| area_land_sq_mi                 = 4824
+| area_water_sq_mi                = 14
+<!-- Population ----------->| elevation_max_footnotes         = <ref>{{cite web|url=http://www.peakbagger.com/peak.aspx?pid=2829|title=Mount Whitney|publisher=Peakbagger.com|access-date=February 9, 2015}}</ref>
+| elevation_max_ft                = 14501
+| elevation_min_ft                = 
+| population_footnotes            = <ref name=QF/>
+| population_total                = 442179
+| population_as_of                = [[2010 United States Census|April 1, 2010]]
+| pop_est_footnotes               = <ref name="USCensusEst2018"/>
+| population_est                  = 466195
+| pop_est_as_of                   = 2019
+| population_density_sq_mi        = auto
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+| postal_code_type                = <!--[[ZIP code]]-->
+| postal_code                     = 
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 559|559]], [[Area code 661|661]]
+| blank_name_sec1                 = [[Federal Information Processing Standard|FIPS]] code
+| blank_info_sec1                 = 06-107
+| blank1_name_sec1                = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info_sec1                = {{GNIS 4|277318}}
+| website                         = {{URL|www.co.tulare.ca.us}}
+}}

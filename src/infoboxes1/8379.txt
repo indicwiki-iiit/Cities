@@ -1,0 +1,52 @@
+{{Infobox settlement
+|name                    = Zarqa
+|native_name             = الزرقاء
+|native_name_lang        = ar
+|settlement_type         = City
+|image_skyline           = {{Photomontage
+| photo1a                = Qurtobah, Az-Zarqa, Jordan - panoramio (3).jpg
+| photo2a                = JHR_Az_Zarqa.jpg
+| photo2b                = Zarqa trade center.jpg
+| size                   = 280
+| spacing                = 2
+| color                  = transparent
+| border                 = 0
+}}
+|imagesize               =
+|image_caption           = Clockwise from top:<br /> Jabal Tariq, The Zarqa Chamber of Commerce, view from the train
+|pushpin_map             = Jordan
+|pushpin_label = Zarqa
+|pushpin_map_caption     = 
+|coordinates             = {{coord|32|05|N|36|06|E|display=inline,title}}
+|coor_pinpoint           = 
+|coordinates_footnotes   = 
+|subdivision_type        = Country
+|subdivision_name        = Jordan
+|subdivision_type1       = [[Governorates of Jordan|Governorate]]
+|subdivision_name1       = [[Zarqa Governorate]]
+|established_title       = Settled
+|established_date        = 1902
+|established_title2      = Municipality
+|established_date2       = 1929
+|government_type         = Municipality
+|leader_title            = [[Mayor]]
+|leader_name             = Ali Abu Alsokar
+|area_total_km2          = 60
+|elevation_m             = 619
+|population_footnotes    = 
+|population_total        = 635160
+|population_as_of        = 2015
+|population_density_km2  = auto
+|population_demonym      = 
+|population_note         =
+|timezone1               = +2
+|utc_offset1             =
+|timezone1_DST           = +3
+|utc_offset1_DST         =
+|postal_code_type        = 
+|postal_code             = 
+|area_code_type          = 
+|area_code               = +(962)5
+|iso_code                = 
+|website                 = <!-- {{URL|example.com}} -->
+}}

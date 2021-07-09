@@ -1,0 +1,54 @@
+{{Infobox settlement
+| name                    = Rockaway
+| settlement_type         = [[List of neighborhoods in Queens|Neighborhoods of Queens]]
+| image_skyline           = Rockaway Boardwalk jeh.JPG
+| imagesize               =
+| image_alt               =
+| image_caption           = The [[Rockaway Boardwalk]], a visitor attraction on the peninsula
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| nickname                =
+| motto                   =
+| anthem                  =
+| image_map               = {{maplink|frame=y|plain=y|frame-align=center|frame-lat=40.68|frame-long=-73.975|zoom=9|type=shape|from=Neighbourhoods/New York City/Rockaway.map}}
+| mapsize                 =
+| map_alt                 =
+| map_caption             = Location within New York City
+
+<!-- location ------------------>
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New York}}
+| subdivision_type2       = [[List of cities in New York|City]]
+| subdivision_name2       = {{flag|New York City}}
+| subdivision_type3       = [[List of counties in New York|County]]/[[Borough (New York City)|Borough]]
+| subdivision_name3       = {{Flagicon image|Flag of Queens County, New York.svg}} [[Queens]]
+| subdivision_type4       = [[Community boards of Queens|Community District]]
+| subdivision_name4       = [[Queens Community Board 14|Queens 14]]<ref name="NYCPlanning">{{cite web|title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/queens/14|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=April 7, 2018}}</ref>
+<!-- established --------------->
+| established_title       = <!-- Settled -->
+| established_date        =
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| founder                 =
+| named_for               = Corruption of original [[Lenape language]] name
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        =
+| population_as_of        =
+| population_est          = 130,000
+| pop_est_as_of           = 2007
+| population_density_km2  = <!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi=
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- postal codes, area code --->
+| timezone                = [[Eastern Time Zone (North America)|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        = [[ZIP Code]]s
+| postal_code             = [[List of ZIP Code prefixes#Starts with 1|116xx]]
+| area_code_type          = [[Telephone numbering plan|Area code]]s
+| area_code               = [[Area codes 718, 347, and 929|718, 347, 929]], and [[Area code 917|917]]
+}}

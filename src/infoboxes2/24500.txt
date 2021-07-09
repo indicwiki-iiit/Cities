@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Krichim
+|native_name = Кричим
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Krichim|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Krichim
+|pushpin_mapsize        =
+|image_skyline          = Krichim-Vatcha-river.jpg
+|image_caption          = The [[Vacha River]] passing through Krichim
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|
+subdivision_name1=[[Plovdiv Province|Plovdiv]]|
+population_total=9513|population_footnotes=|
+population_as_of=13.09.2005|
+elevation_m=253|
+postal_code=4220|
+area_code=03145
+|coordinates            = {{coord|42|3|N|24|28|E|region:BG|display=inline,title}}
+|leader_name=Atanas Kalchev|
+}}

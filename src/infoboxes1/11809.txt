@@ -1,0 +1,92 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Arnhem
+| settlement_type         = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|municipality]]
+|image_skyline          = {{Photomontage|position=center
+|photo2a = The Musis Sacrum, late afternoon - panoramio.jpg
+|photo1b = Arnhem centraal station.JPG
+|photo1a = Fanmous W.Diehl architecture at Transvaal district Arnhem city - panoramio.jpg
+|photo3a = John frostbrug 2.jpg
+|photo3b = Huis Sonsbeek te Arnhem.jpg
+   |size = 270
+   |spacing = 2
+   |color = #FFFFFFu
+   |border = 0
+   |foot_montage = Clockwise from top left: building by Willem Diehl, [[Arnhem Centraal railway station]], Musis Sacrum, Villa Sonsbeek, [[John Frost Bridge]]}}
+| image_flag              = VlagArnhem.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Coat of arms of Arnhem.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0202 (2009).svg
+| map_alt                 = Highlighted position of Arnhem in a municipal map of Gelderland
+| map_caption             = Location in Gelderland
+| pushpin_map             = Netherlands
+| pushpin_map_caption     = Location in the Netherlands
+| coordinates             = {{coord|51|59|N|5|55|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[Gelderland]]
+| government_footnotes    = <ref name="mayor_now">{{cite web
+ |url = https://www.arnhem.nl/Bestuur/college_van_b_w/samenstelling_college
+ |title = Ahmed Marcouch (burgemeester)
+ |trans-title = Ahmed Marcouch (mayor)
+ |language = nl
+ |publisher = Gemeente Arnhem
+ |access-date = 10 June 2014
+ |archive-url = https://web.archive.org/web/20160422070353/https://www.arnhem.nl/Bestuur/college_van_b_w/samenstelling_college
+ |archive-date = 22 April 2016
+ |url-status = dead
+ }}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[Labour Party (Netherlands)|PvdA]]
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Ahmed Marcouch]]
+<!-- Geographic information -->
+| total_type              = Municipality
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Arnhem}}
+| area_land_km2           = {{Dutch municipality land area|Arnhem}}
+| area_water_km2          = {{Dutch municipality water area|Arnhem}}
+| elevation_footnotes     = <ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 6811DG
+ |language = nl
+ |author = <!--Staff writer(s); no by-line.--> 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |access-date = 10 June 2014}}</ref>
+| elevation_m             = 13
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Arnhem}}
+| population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_density_km2  = {{Dutch municipality population density|Arnhem}} <!-- For automatic calculation: auto-->
+| population_urban        = {{Dutch municipality population urbanmetro|Arnhem Urban}}
+| population_metro        = {{Dutch municipality population urbanmetro|Arnhem Metro}}
+| population_demonym      = Arnhemmer
+<!-- Other information -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 6800–6846
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 026
+| website                 = {{URL|1=http://www.arnhem.nl}}
+| footnotes               =
+}}

@@ -1,0 +1,97 @@
+{{Infobox settlement
+| official_name                   = Hornell
+| settlement_type                 = [[City]]
+| nickname                        = Maple City,
+| motto                          = <!-- Images -->
+| image_skyline                   = Downtown Hornell.jpg
+| imagesize                       = 
+| image_caption                   = Downtown Hornell
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = New York
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of New York
+| pushpin_mapsize                 = 
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = 
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Steuben County, New York|Steuben]]
+| government_footnotes            = 
+| government_type                 = ([[mayor-council government|Mayor-Council]])
+| leader_title                    = [[Mayor]]
+| leader_name                     = John Buckley ([[United States Republican Party|R]])
+| leader_title1                   = [[City Council]]
+| leader_name1                    = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • W1: Robert Murray ([[United States Republican Party|R]])
+ |2           = • W2: Christopher J. Koehler ([[United States Democratic Party|D]])
+ |3           = • W3: William J. Norton ([[United States Republican Party|R]])
+ |4           = • W4: Angelo P. Sciotti ([[United States Democratic Party|D]])
+ |5           = • W5: Joseph D. Foreman ([[United States Democratic Party|D]])
+ |6           = • W6: Joseph R. Testani ([[United States Democratic Party|D]])
+ |7           = • W7: Loretta J. Shepard ([[United States Democratic Party|D]])
+ |8           = • W8: Glenn J. Hann, Sr. ([[United States Democratic Party|D]])
+ |9           = • W9: John Buckley ([[United States Republican Party|R]])
+ |10          = • W10: John A. Carbone, Jr. ([[United States Democratic Party|D]])
+ |11          = • W11: Tyler N. Hults ([[United States Republican Party|R]])
+ |12          = • W12: Adam J. Sirianni ([[United States Democratic Party|D]])
+
+}}
+| established_title               = First settled
+| established_date                = 1790
+| established_title1              = Incorporated (Town of Hornellsville)
+| established_date1               = 1820
+| established_title2              = Incorporated (Village of Hornellsville)
+| established_date2               = 1852
+| established_title3              = Incorporated (City of Hornellsville/Hornell)
+| established_date3               = 1888/1906
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 8.49
+| area_land_km2                   = 8.49
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 3.28
+| area_land_sq_mi                 = 3.28
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 8563
+| population_density_km2          = 977.68
+| population_density_sq_mi        = 2531.87
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 354
+| elevation_ft                    = 1161
+| coordinates                     = {{coord|42|19|N|77|40|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 14843
+| area_code                       = [[Area code 607|607]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-35672
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0975771
+| website                         = {{URL|https://www.cityofhornell.com/|City website}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 8302
+}}

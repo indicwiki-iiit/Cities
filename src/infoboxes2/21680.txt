@@ -1,0 +1,31 @@
+{{Infobox Australian place | type = city
+| name     = Morwell
+| state    = VIC
+| image    = Morwell.jpg
+| caption  = Corner of Hazelwood and Commercial Roads, Morwell
+| coordinates = {{coord|38|14|S|146|24|E|display=inline,title}}
+| pushpin_label_position =right
+| pushpin_map_caption = Location in City of Latrobe
+| use_lga_map = yes
+| lga      = City of Latrobe
+| postcode = 3840
+| est      = 1870s
+| pop      = 14,026 | pop_year = 2018
+| pop_footnotes =<ref name="abs">{{cite web |title=Morwell (SA2) (205041096) |url=https://itt.abs.gov.au/itt/r.jsp?RegionSummary&region=205041096&dataset=ABS_REGIONAL_ASGS2016&geoconcept=ASGS_2016&measure=MEASURE&datasetASGS=ABS_REGIONAL_ASGS2016&datasetLGA=ABS_REGIONAL_LGA2019&regionLGA=LGA_2019&regionASGS=ASGS_2016 |website=Australian Bureau of Statistics |access-date=25 August 2020}}</ref>
+| elevation= 80
+| maxtemp  =
+| mintemp  =
+| rainfall =
+| stategov = [[Electoral district of Morwell|Morwell]]
+| fedgov   = [[Division of Gippsland|Gippsland]]
+| dist1    = 149
+| location1= Melbourne 59km (36mi) from [[Leongatha]]
+| near-nw  = [[Yallourn North, Victoria|Yallourn North]]
+| near-n   = [[Yallourn North, Victoria|Yallourn North]]
+| near-ne  = [[Traralgon, Victoria|Traralgon]]
+| near-w   = [[Boolarra, Victoria|Boolarra]]
+| near-e   = [[Hazelwood North, Victoria|Hazelwood North]]
+| near-sw  = [[Yinnar, Victoria|Yinnar]]
+| near-s   = [[Churchill, Victoria|Churchill]]
+| near-se  = [[Hazelwood North, Victoria|Hazelwood North]]
+}}

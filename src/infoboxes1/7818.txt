@@ -1,0 +1,96 @@
+{{Infobox settlement
+| name = {{raise|0.2em|Furano}}
+| official_name = 
+| native_name = {{lower|0.1em|{{nobold|{{nobold|{{lang|ja|富良野市}}}}}}}}
+| native_name_lang = ja
+| settlement_type = [[Cities of Japan|City]]
+| other_name = 
+<!-- images, nickname, motto -->
+| image_skyline = Furano Snow Resort view2.JPG
+| imagesize = 
+| image_caption = Kitanomine ski area in Furano
+| image_flag = Flag of Furano, Hokkaido.svg
+| image_seal = Symbol of Furano Hokkaido.svg
+| seal_type = Emblem
+<!-- maps and coordinates -->
+| image_map = Furano in Hokkaido Prefecture Ja.svg
+| map_alt = 
+| map_caption = Location of Furano in [[Kamikawa Subprefecture]], [[Hokkaido]]
+|image_map1 = Indicator map for Kamikawa and Sorachi Subprefecture in Hokkaido Japan.svg
+| map_caption1 = Location of [[Kamikawa Subprefecture]] in [[Hokkaido]]
+| pushpin_map = Japan
+| pushpin_relief = 
+| pushpin_map_caption = Location in Japan
+| coordinates = {{coord|43|21|N|142|23|E|region:JP|display=inline,title}}
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = Japan
+| subdivision_type1 = [[List of regions of Japan|Region]]
+| subdivision_name1 = [[Hokkaido]]
+| subdivision_type2 = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2 = [[Hokkaido]]
+| subdivision_type3 = [[Districts of Japan|District]]
+| subdivision_name3 = 
+<!-- established -->
+| established_title = <!-- Settled -->
+| established_date = 
+| extinct_title = Now part of
+| extinct_date = 
+| founder = 
+| named_for = 
+<!-- seat, smaller parts -->
+| seat_type = <!-- defaults to: Seat -->
+| seat = 
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| leader_party = 
+| leader_title = Mayor
+| leader_name = [[Yoshiaki Noto]]
+| leader_title1 = Vice Mayor
+| leader_name1 = 
+<!-- display settings -->
+| total_type = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref = Metric
+<!-- area -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_footnotes = <!-- for references: use <ref> tags -->
+| area_total_km2 = 600.97
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_note = 
+<!-- elevation -->
+| elevation_footnotes = <!-- for references: use <ref> tags -->
+| elevation_m = 
+<!-- population -->
+| population_footnotes =  <!-- for references: use <ref> tags -->
+| population_total = 22,715
+| population_as_of = September 30th, 2016
+| population_density_km2 = auto
+| population_est = 
+| pop_est_as_of = 
+<!-- time zone(s) -->
+| timezone1 = [[Japan Standard Time|JST]]
+| utc_offset1 = +09:00
+<!-- postal codes, area code -->
+| postal_code_type = 
+| postal_code = 
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = City hall address
+| blank_info_sec1 = 1-1, Yayoicho, Furano-shi, Hokkaido<br />076-8555
+<!-- website, footnotes -->
+| website = {{URL|http://www.city.furano.hokkaido.jp/}}
+| footnotes = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = [[Japanese Yew]] and [[Magnolia obovata|Japanese Bigleaf Magnolia]]
+ | flower = Ezo-murasaki-tsutsuji <small>''([[Rhododendron]] dauricum)''</small>
+ | bird = [[Black woodpecker]]
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = [[Animal]]: [[Red Squirrel]]<small>''([[Sciurus]] vulgaris)''</small>
+}}
+}}

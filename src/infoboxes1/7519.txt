@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                   = Arraba
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|עראבה}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|عرّابة}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Palestine|City]] (from 2016)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = ʕarrabba
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = {{br separated entries|Arrabe (official)| 'Arrabat-Batuf (unofficial) }}
+| image_skyline          = Arabenorth.JPG
+| image_caption          = Entrance to Arraba
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest#Palestine
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|51|2|N|35|20|20|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 181/250 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| leader_title           = Head of Municipality
+| leader_name            = Omar Wakid Nassar
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:8250|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Arrabe}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = The steppe or plateau of the Buttauf<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/124/mode/1up 124]</ref>
+}}

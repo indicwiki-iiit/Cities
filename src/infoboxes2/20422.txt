@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Broadview Heights, Ohio
+|settlement_type          = [[City (Ohio)|City]]
+|image_skyline      = City_of_Broadview_Heights,_Ohio_from_Broadview_Commons_Shopping_Center,_June_2014.jpg
+|imagesize        = 250px
+|image_caption      = Broadview Commons Shopping Center
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Cuyahoga County Ohio incorporated and unincorporated areas Broadview Heights highlighted.svg
+|mapsize = 260px
+|map_caption = Location in [[Cuyahoga County, Ohio|Cuyahoga County]] and the state of [[Ohio]].
+|image_map1 = Ohio in United States (US48).svg
+|map_caption1 = Location of Ohio in the United States
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Cuyahoga County, Ohio|Cuyahoga]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Samuel J. Alai ([[Democratic Party (United States)|D]])<ref>{{cite web|last1=Exner|first1=Rich|title=Democrats outnumber Republicans as mayors in Cuyahoga County, 39-14|url=http://www.cleveland.com/datacentral/index.ssf/2013/11/democrats_outnumber_republican.html|website=[[The Plain Dealer|Cleveland.com]]|access-date=30 January 2016|date=16 November 2013}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 33.81
+|area_land_km2            = 33.76
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 13.06
+|area_land_sq_mi          = 13.03
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 19102
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 19400
+|population_density_km2   = 565.87
+|population_density_sq_mi = 1465.55
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 365
+|elevation_ft             = 1198
+|coordinates              = {{coord|41|19|19|N|81|40|36|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44147
+|area_code                = [[Area code 440|440]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-09064<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1056723<ref name="GR3" />
+|website                  = https://www.broadview-heights.org/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

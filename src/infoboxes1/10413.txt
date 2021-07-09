@@ -1,0 +1,32 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Lapseki
+| image_skyline           = Lapseki havadan.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey#Turkey Marmara#Europe
+| coordinates             = {{coord|40|20|38|N|26|41|01|E|format=dms|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{TUR}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Çanakkale Province|Çanakkale]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Eyüp Yılmaz
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Tahir Şahin
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Çanakkale|Lapseki}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Çanakkale}}
+| population_urban        = {{Turkey district populations|Çanakkale|Lapseki|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Çanakkale|Lapseki|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = 
+| postal_code             = 
+| website                 = {{URL| www.lapseki.bel.tr | www.lapseki.bel.tr }}
+}}

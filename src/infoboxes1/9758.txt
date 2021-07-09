@@ -1,0 +1,39 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Cheonan}}
+| native_name             = {{lower|0.1em|{{lang|ko-Hang|천안시}}}}
+| translit_lang1          = Korean
+| settlement_type         = [[Cities of South Korea|Specific city]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|천|안|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|天|安|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Cheonan-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Ch'ŏnan-si
+| image_skyline           = Cheonan_city_montage.jpg
+| imagesize               =
+| image_caption           = Left to right: Shinbu lanes, Terminal, Namsan Public market, Samgeori Park, Taejeosan Bronze Buddha, Arario Gallery sculpture, Yawoori dream bear
+| image_map               = South Chungcheong-Cheonan.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| coordinates             = {{coord|36|49|N|127|10|E|region:KR-44|format=dms|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Hoseo]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Chungcheong dialect|Chungcheong]]
+| established_title       = Founded
+| establisted_date        = 1963
+| elevation_m             = 22
+| area_total_km2          = 636.25
+| population_as_of        = 2018 May
+| population_total        = 666,417
+| population_density_km2  = 1013.19
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 2 ''gu'', 16 legal ''dong'', 4 ''eup'', 8 ''myeon''
+| image_flag              = Cheonan logo.png
+| blank_emblem_type       = Emblem of Cheonan
+| website                 = [http://www.cheonan.go.kr/EgovPageLink.do?link=/en/index www.cheonan.go.kr]
+}}

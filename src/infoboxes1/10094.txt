@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Nusaybin
+| settlement_type                 = City
+| native_name                     = 
+| image_skyline                   = Nusaybin364.jpg
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|37|04|31.2|N|41|12|56.5|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Mardin Province|Mardin]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = State-appointed caretaker<ref>{{cite web|title=DBP'nin kayyum atanan belediyeleri|url=http://www.bbc.com/turkce/haberler-turkiye-37858813|publisher=BBC Turkish|access-date=13 November 2016|language=tr|date=3 November 2016}}</ref>
+| leader_title                    = Mayor
+| leader_name                     = Ergün Baysal
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Ergün Baysal
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Mardin|Nusaybin}}
+| elevation_m                     = 471
+| elevation_footnotes             = <ref>{{cite book|last1=Darke|first1=Diana|title=Eastern Turkey|date=2014|publisher=Bradt Travel Guides|page=279|url=https://books.google.com/books?id=dLaHAwAAQBAJ&q=nusaybin+altitude&pg=PA279|isbn=9781841624907}}</ref>
+| population_footnotes            = {{Turkey district populations|SOURCE|Mardin}}
+| population_urban                = {{Turkey district populations|Mardin|Nusaybin|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Mardin|Nusaybin|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 47300
+| website                         = {{URL| www.nusaybin.bel.tr | www.nusaybin.bel.tr }}
+| official_name                   = 
+}}

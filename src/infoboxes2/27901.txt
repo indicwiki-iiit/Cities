@@ -1,0 +1,91 @@
+{{Infobox settlement
+|official_name            = Harrietstown, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Saranac Lake - Harrietstown Hall.jpg
+|imagesize                = 
+|image_caption            = Harrietstown Hall in [[Saranac Lake, New York|Saranac Lake]]
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New York
+|pushpin_label            = Harriets-<br>town
+|pushpin_label_position   = bottom<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|pushpin_mapsize          = 
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Franklin County, New York|Franklin]]
+|government_footnotes     = 
+|government_type          = [[Town Council]]
+|leader_title             = [[Town Supervisor]]
+|leader_name              = Larry L. Miller ([[United States Republican Party|R]])
+| leader_title1           = [[Town Council]]
+| leader_name1            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Ronald B. Keough ([[United States Republican Party|R]])
+ |2           = • Barry DeFuria ([[United States Republican Party|R]])
+ |3           = • Robert T. Bevilacqua ([[United States Republican Party|R]])
+ |4           = • James L. Murnane, III ([[United States Republican Party|R]])
+}}
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 553.33
+|area_land_km2            = 510.10
+|area_water_km2           = 43.23
+|area_total_sq_mi         = 213.64
+|area_land_sq_mi          = 196.95
+|area_water_sq_mi         = 16.69
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5709
+|population_density_km2   = 10.93
+|population_density_sq_mi = 28.32
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 478
+|elevation_ft             = 1568
+|coordinates              = {{coord|44|18|13|N|74|11|24|W|region:US-NY|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12983
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-033-32314
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979050
+|website                  = {{URL|www.harrietstown.org}}
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 5577
+}}

@@ -1,0 +1,32 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name          = Rakovski
+|native_name            = Раковски
+|image_skyline          = Rakovski, Military Monument.jpg
+|image_caption          = Military monument
+|image_flag             = Rakovski-flag.png
+|image_shield           = Rakovski-coat-of-arms.jpg
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br/><small>(Oblast)</small>
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST         = +3
+|map_caption            = Location of Rakovski|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Rakovski
+|pushpin_mapsize        =
+|leader_title           = Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|subdivision_name1      =[[Plovdiv Province|Plovdiv]]
+|population_total       =17253
+|population_urban       =26937
+|population_footnotes   =
+|population_as_of       = 2006-09-15
+|elevation_m            = 180
+|postal_code            = 4150
+|area_code              = 03151
+|coordinates            = {{coord|42|18|N|24|58|E|region:BG|display=inline,title}}
+|leader_name            = Pavel Gugzherov
+|}}

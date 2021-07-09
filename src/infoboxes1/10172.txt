@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Silvan
+| image_skyline                   = Farqîn.jpg
+| image_caption                   = 
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|38|08|32|N|41|00|05|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Turkey}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Diyarbakır Province|Diyarbakır]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Peoples' Democratic Party (Turkey)|HDP]]
+| leader_title                    = Elected Mayor
+| leader_name                     = Naşide Toprak
+| leader_title1                   = [[Kaymakam]] and Acting Mayor
+| leader_name1                    = Mehmet Uslu
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Diyarbakır|Silvan}}
+| elevation_m                     = 810
+| elevation_footnotes             = <ref>{{cite web |title=Where is Silvan, Turkey? |url=https://www.worldatlas.com/eu/tr/21/where-is-silvan.html|website=worldatlas.com |publisher=worldatlas |access-date=23 January 2019}}</ref>
+| population_footnotes            = {{Turkey district populations|SOURCE|Diyarbakır}}
+| population_urban                = {{Turkey district populations|Diyarbakır|Silvan|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Diyarbakır|Silvan|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 21640
+| website                         = {{URL| www.silvan.bel.tr | www.silvan.bel.tr }}
+| official_name                   = 
+}}

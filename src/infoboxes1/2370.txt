@@ -1,0 +1,112 @@
+{{Infobox settlement
+| official_name = Aberdeen
+| native_name   = {{unbulleted list| <small>''{{lang|sco|Aiberdeen}}''</small> |<small> ''{{lang|gd|Obar Dheathain}}''</small>}}
+
+<!------- images, nicknames, motto --->
+| settlement_type = [[City status in the United Kingdom|City]] and [[Subdivisions of Scotland#Council areas|council area]]
+| image_skyline   = {{multiple image
+| border                   = infobox
+| total_width              = 280
+| image_style              = border:1;
+| perrow                   = 1/3/2/2
+| image1                   = Aberdeen-Harbour-Skyline.jpg
+| alt1                     = Aberdeen Skyline
+| image2                   = Aberdeen beach - geograph.org.uk - 1248071.jpg
+| alt2                     = Aberdeen Beach 
+| image3                   = Harbour Life - panoramio (1).jpg
+| alt3                     = Aberdeen Harbour 
+| image4                   = Oil Rig Supply Boats at the Aberdeen Anchorage Point , 1st time catching ALP STRIKER (49764503708).jpg
+| alt4                     = Oil rig supply boats
+| image5                   = Rosemount, Aberdeen.jpg
+| alt5                     = Rosemount 
+| image6                   =
+| alt6                     = Aberdeen International Business Park 
+| image7                   = Aberdeen St Nicholas Kirk.jpg
+| alt7                     = St Nicholas Kirk 
+| image8                   = 15th Sep 2012-Abdn Children's Hosp & Emergency Care Centre 10.JPG
+| alt8                     = Royal Aberdeen Children's Hospital 
+}}
+| image_caption   = From top, left to right: Skyline of Aberdeen, Aberdeen Beach, Aberdeen Harbour, [[North Sea]], [[Rosemount, Aberdeen|Rosemount]], Aberdeen International Business Park, [[Kirk of St Nicholas]], [[Royal Aberdeen Children's Hospital]]
+| image_flag      = City_Flag_of_Aberdeen.svg
+| image_shield    = Coat of arms of Aberdeen.svg
+| nicknames        = "Granite City"
+| image_map       = Aberdeen_City_in_Scotland.svg	
+| map_caption     = Location within [[Scotland]]
+
+<!------- maps and coordinates ------>
+| coordinates       = {{coord|57.15|-2.11|type:city_region:GB-ABE|display=inline,title}}
+| pushpin_map       = Scotland#United Kingdom#Europe
+| pushpin_relief    = yes
+| subdivision_type  = [[Sovereign state]]
+| subdivision_name  = {{flagicon|UK}} [[United Kingdom]]
+| subdivision_type1 = [[Countries of the United Kingdom|Country]]
+| subdivision_type2 = [[Subdivisions of Scotland|Council area]]
+| subdivision_type3 = [[Lieutenancy areas of Scotland|Lieutenancy area]]
+| subdivision_name1 = {{flagicon|SCO}} [[Scotland]]
+| subdivision_name2 = Aberdeen City
+| subdivision_name3 = Aberdeen
+
+<!------- established --------------->
+| established_title  = Earliest Charter
+| established_date   = 1179
+| established_title2 = City status
+| established_date2  = 1891
+
+<!------- government type, leaders -->
+| leader_title  = Governing body
+| leader_name   = {{Nowrap|[[Aberdeen City Council]]}}
+| leader_title1 = [[List of Provosts and Lord Provosts of Aberdeen|Lord Provost]]
+| leader_name1  = Barney Crockett (Aberdeen Labour)
+
+<!------- area ---------------->
+| area_total_km2  = 185.7
+
+<!-- elevation ----------------->
+| elevation_footnotes = 
+| elevation_m         =
+
+<!------- population ---------------->
+| population                 = {{Scottish locality populations|name|POP=Aberdeen}}<ref name="NRS Locality">{{Scotland settlement population citation}}</ref>
+| population_as_of           = {{United Kingdom statistics year|ScotSettlement}}
+| population_footnotes       = 
+| population_density_km2     = 3505.7
+| population_urban           = {{Scottish settlement populations|name|POP=Aberdeen}}<ref name="NRS Locality" />
+| population_urban_footnotes = 
+| population_metro           = 489,815<ref name="Eurostat">{{cite web |url=https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en|title=Population on 1 January by age groups and sex - functional urban areas|publisher=[[Eurostat]]|access-date=31 December 2020 |archive-url=https://web.archive.org/web/20201220100106/http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=urb_lpop1&lang=en |archive-date=20 December 2020 |url-status=live }}</ref>
+| population_blank1_title    = Language(s)
+| population_blank1          = [[Scots language|Scots]] ([[Doric dialect (Scotland)|Doric]]), [[Scottish English|English]]
+| population_demonym         = Aberdonians
+
+<!------- postal codes, area code --->
+| postal_code_type = [[Postcodes in the United Kingdom|Postcode areas]]
+| postal_code      = [[AB postcode area|AB10-AB13 (part), AB15, AB16, AB21-AB25]]
+| area_code        = 01224
+| blank_name_sec2  = 
+| blank_info_sec2  = 
+| blank1_name_sec2 = 
+| blank1_info_sec2 =
+
+<!-------- website, footnotes, misc -------->
+| website       = {{URL|https://www.aberdeencity.gov.uk}}
+| name          = 
+| leader_title2 = [[Members of the 5th Scottish Parliament|MSPs]]
+| leader_name2  = {{Collapsible list |title=[[Politics of Aberdeen#Scottish Parliament|3]] |[[Jackie Dunbar]]&nbsp;(SNP)| [[Kevin Stewart (Scottish politician)|Kevin Stewart]]&nbsp;(SNP) | [[Audrey Nicoll]]&nbsp;(SNP)}}
+| leader_title3 = [[Politics of Aberdeen#UK Parliament|MPs]]
+| leader_name3  = {{Collapsible list |title=[[Politics of Aberdeen#UK Parliament|3]] |[[Kirsty Blackman]]&nbsp;(SNP) | [[Richard Thomson (Scottish politician)|Richard Thomson]]&nbsp;(SNP) | [[Stephen Flynn (Scottish politician)|Stephen Flynn]]&nbsp;(SNP)}}
+
+<!------- time zone(s) -------------->
+| timezone       = [[Greenwich Mean Time|GMT]]
+| utc_offset     = ±0
+| timezone_DST   = [[British Summer Time|BST]]
+| utc_offset_DST = +1
+| blank_name     = [[ISO 3166-2:GB|ISO 3166-2]]
+| blank_info     = GB-ABE
+| blank1_name    = [[ONS coding system|ONS code]]
+| blank1_info    = S12000033
+| blank2_name    = [[Ordnance Survey National Grid|OS grid reference]]
+| blank2_info    = {{gbmappingsmall|NJ925065}}
+| blank3_name    = [[Nomenclature of Territorial Units for Statistics|NUTS]] 3
+| blank3_info    = UKM50
+| blank4_name    = Primary Airport
+| blank4_info    = [[Aberdeen Airport]]
+}}

@@ -1,0 +1,50 @@
+{{Infobox UK place
+|country             = Scotland
+|official_name       = Stirling
+|type                = [[City]] and [[administrative centre]]
+|gaelic_name         = Sruighlea
+|scots_name          = Stirlin
+|label_position      = left
+|area_total_km2      = 16.7
+|area_footnotes      = <ref>{{cite web |url=http://www.citypopulation.info/php/uk-scotland.php?cityid=S19001201 |title=Stirling (Stirling, Scotland, United Kingdom) – Population Statistics, Charts, Map, Location, Weather and Web Information |website=www.citypopulation.info |access-date=28 March 2019 |archive-url=https://web.archive.org/web/20190328182122/http://www.citypopulation.info/php/uk-scotland.php%3Fcityid%3DS19001201 |archive-date=28 March 2019 |url-status=live }}</ref>
+| population = {{Scottish locality populations|name|POP=Stirling}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|os_grid_reference   = NS795935
+|civil_parish        = Stirling
+|unitary_scotland    = [[Stirling (council area)|Stirling]]
+|lieutenancy_scotland= [[Stirling and Falkirk]]
+|constituency_westminster= [[Stirling (UK Parliament constituency)|Stirling]]
+|constituency_scottish_parliament= [[Stirling (Scottish Parliament constituency)|Stirling]]
+|historic_county = [[Stirlingshire]]
+|post_town           = STIRLING
+|postcode_district   = FK7–FK9
+|postcode_area       = FK
+|dial_code           = 01786 
+|coordinates         = {{coord|56.1166|-3.9369|display=inline,title}}
+|static_image   = {{multiple image
+| border                   = infobox
+| total_width              = 280
+| image_style              = border:1;
+| perrow                   = 1/3/2/2
+| image1                   = Stirling city from the castle.jpg
+| alt1                     = Skyline of Stirling 
+| image2                   = Stirling - Stirling Bridge.jpg
+| alt2                     = Stirling Bridge  
+| image3                   = Stirling Castle (5456318768).jpg
+| alt3                     = Stirling Castle
+| image4                   = William Wallace Statue.JPG
+| alt4                     = Wallace Statue
+| image5                   = The Wallace Monument, Stirling.JPG
+| alt5                     = Wallace Monument 
+| image6                   = Clock tower and porch with Wallace statue.jpg
+| alt6                     = The Athenaeum
+| image7                   = Stirling Tolbooth - view of clock tower.jpg
+| alt7                     = Stirling Tolbooth
+| image8                   = Balcony view towards Burgh Buildings.jpg
+| alt8                     = Burgh buildings
+}}
+|static_image_width= 
+|static_image_caption= From top, left to right: Skyline of Stirling, [[Stirling Old Bridge]], [[Stirling Castle]], Statue of [[William Wallace]], the [[Wallace Monument]], The Athenaeum, Stirling [[Tolbooth]], View towards Burgh Buildings 
+|edinburgh_distance  = {{convert|43|mi|km|abbr=on}}
+|map_alt             = Stirling is in central Scotland.
+}}

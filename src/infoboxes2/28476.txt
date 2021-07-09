@@ -1,0 +1,31 @@
+{{Infobox Australian place
+|type = town
+| name        = Merimbula
+| state       = NSW
+| image       =
+| caption     = 
+| coordinates = {{coord|36|53|53|S|149|54|04|E|display=inline,title}}
+| pop         = 3,544
+| pop_year    = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census>{{Census 2016 AUS|id=SSC12575|name=Merimbula (state suburb) |accessdate=9 July 2017|quick=on}}</ref>
+| postcode    = 2548
+| dist1    = 458
+| dir1     = S
+| location1= Sydney
+| dist2    = 580
+| dir2     = ENE
+| location2= Melbourne
+| dist3    = 240
+| dir3     = SE
+| location3= Canberra
+| dist4    = 32
+| dir4     = SE
+| location4= [[Bega, New South Wales|Bega]]
+| lga         = [[Bega Valley Shire]]
+| county = [[Auckland County, New South Wales|Auckland]]
+| stategov    = [[Electoral district of Bega|Bega]]
+| fedgov      = [[Division of Eden-Monaro|Eden-Monaro]]
+| maxtemp     = 20.3
+| mintemp     = 10.0
+| rainfall    = 834.6
+}}

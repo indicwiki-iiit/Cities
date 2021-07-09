@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = City of Colusa
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Colusa, California city hall from NW 2.JPG
+|imagesize                = 
+|image_caption            = Colusa City Hall
+|image_seal               = 
+|image_map                = File:Colusa County California Incorporated and Unincorporated areas Colusa Highlighted 0614946.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Colusa in Colusa County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief          = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Colusa County, California|Colusa]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = June 16, 1868<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=March 27, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+|government_type          = 
+|leader_title             = 
+|leader_name              = <!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 3.42
+| area_land_sq_mi         = 3.42
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 8.87
+| area_land_km2           = 8.87
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+| area_note               = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277602|Colusa|access-date=October 23, 2014}}</ref>
+|elevation_ft             = 49
+|elevation_m              = 15
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0614946.html|title=Colusa (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 9, 2015|archive-url=https://web.archive.org/web/20120418220751/http://quickfacts.census.gov/qfd/states/06/0614946.html|archive-date=April 18, 2012|url-status=dead}}</ref>
+|population_total         = 5971
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 6060
+|population_density_sq_mi = 1769.86
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|coordinates              = {{coord|39|12|52|N|122|00|34|W|region:US-CA|display=inline,title}}
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95932
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 530|530]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|14946}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS4|277602}}, {{GNIS4|2410204}}
+|footnotes                = 
+|website                  = {{URL|www.cityofcolusa.com}}
+|population_density_km2   = 683.35
+}}

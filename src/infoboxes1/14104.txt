@@ -1,0 +1,31 @@
+{{Infobox UK place
+ | country                           = Scotland
+ | official_name                     = Carnoustie
+| population = {{Scottish locality populations|name|POP=Carnoustie}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ | os_grid_reference                 = NO561345
+ | coordinates                       = {{coord|56.500516|-2.714722|display=inline,title}}
+ | gaelic_name                       = Càrn Ùstaidh<ref name=Ainmean>{{cite web
+  | url = http://www.gaelicplacenames.org/databasedetails.php?id=1549
+  | access-date = 19 August 2014
+  | work = Ainmean-Àite na h-Alba/Gaelic Place-Names of Scotland
+  | title = Search results: Carnoustie
+  | archive-url = https://web.archive.org/web/20150924020430/http://www.gaelicplacenames.org/databasedetails.php?id=1549
+  | archive-date = 24 September 2015
+  | url-status = dead
+  }}</ref>
+ | scots_name = Carnoustie
+ | unitary_scotland                  = [[Angus, Scotland|Angus]]
+ | lieutenancy_scotland              = [[Angus, Scotland|Angus]]
+ | constituency_westminster          = [[Dundee East (UK Parliament constituency)|Dundee East]]
+ | constituency_scottish_parliament  = [[Angus South (Scottish Parliament constituency)|Angus South]]
+ |historic_county=
+|post_town                         = CARNOUSTIE
+ | postcode_district                 = DD7
+ | postcode_area                     = DD
+ | dial_code                         = 01241
+ | static_image_name                 = Carnoustiehighstreet.JPG
+ | static_image_caption              = Carnoustie High Street
+ | london_distance                   = {{convert|367|mi|km|0|abbr=on}} [[Boxing the compass|SSE]]
+ | edinburgh_distance                ={{convert|42|mi|km|0|abbr=on}} [[Boxing the compass|SSW]]
+}}

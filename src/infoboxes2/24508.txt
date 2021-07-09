@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Amityville, New York
+|official_name            = Village of Amityville
+|settlement_type          = [[Village (New York)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline           = AmityvilleVillageHall.jpg
+|imagesize               = 
+|image_caption           = The Amityville Village Hall in December 2009
+|image_flag              = 
+|image_seal              = 
+
+<!-- Maps -->
+||pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within the state of New York
+|pushpin_mapsize        = 
+|image_map              = Amityville-ny-map.png
+|mapsize                = 250px
+|map_caption            = U.S. Census map
+|pushpin_map            = USA New York Long Island#New York#USA
+|pushpin_label          = Amityville
+<!-- Location -->
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = United States
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = [[New York (state)|New York]]
+|subdivision_type2      = [[List of counties in New York|County]]
+|subdivision_name2      = [[Suffolk County, New York|Suffolk]]
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Dennis M. Siry
+|leader_title1          = 
+|leader_name1           = 
+|established_title      = 
+|established_date       = 
+
+<!-- Area -->
+|unit_pref = Imperial
+|area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude         = 
+|area_total_km2         = 6.40
+|area_land_km2          = 5.31
+|area_water_km2         = 1.08
+|area_total_sq_mi       = 2.47
+|area_land_sq_mi        = 2.05
+|area_water_sq_mi       = 0.42
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 9523
+|population_density_km2   = 1768.91
+|population_density_sq_mi = 4580.41
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 6
+|elevation_ft             = 20
+|coordinates            = {{coord|40|40|18|N|73|24|54|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 11701, 11708
+|area_code                = [[Area code 631|631]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-02044
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0942440
+|website                  = {{URL|amityville.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 9399
+}}

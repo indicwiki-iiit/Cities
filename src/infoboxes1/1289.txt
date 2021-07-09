@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = Quatre Bornes<!-- at least one of the first two fields must be filled in -->
+| official_name          = Quatre Bornes
+| native_name            = La Ville des Fleurs<!-- if different from the English name -->
+| native_name_lang       = "fr"<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name             = 
+| settlement_type        = Town<!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->
+| image_skyline          = 2011-06-25 13-31-51 Mauritius Plaines Wilhems Camp Roches.jpg
+| image_caption          = Aerial view of Quatre Bornes in 2011
+| image_flag             = Flag of Quatre Bornes.svg
+| flag_size              = 150px
+| image_seal             = Coat of arms of Quatre-Bornes.svg
+| seal_size              = 80px
+| image_shield           = 
+| motto                  = "URBS - FLORIDA"<br />([[English language|English]] for "Flowery")
+<!-- maps and coordinates ------>
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Mauritius <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position = right <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label          = Quatre Bornes <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_caption    = Municipal Council location
+| coordinates            = {{coord|20|15|55.29|S|57|28|44.59|E|region:MU|format=dms|display=inline,title}}
+<!-- location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = {{flagicon|Mauritius}} [[Mauritius]]<!-- the name of the country -->
+| subdivision_type1      = [[Districts of Mauritius|District]]
+| subdivision_name1      = [[Plaines Wilhems]]
+| subdivision_type2      = 
+| subdivision_name2      = <!-- etc., subdivision_type6 / subdivision_name6 -->
+<!-- established --------------->
+| established_title      = Settled <!-- Settled -->
+| established_date       = 1721
+| government_type        = [[Municipality]]
+<!-- government type, leaders -->
+| government_footnotes   = <ref name="mem">{{cite journal | url=http://www.gov.mu/portal/site/mlge/menuitem.f9c1c444c628df3cb3347524e2b521ca/#br | publisher=Government of Mauritius | title=Municipal & District Councils in Mauritius | access-date=2011-10-18 | url-status=dead | archive-url=https://web.archive.org/web/20100729235532/http://www.gov.mu/portal/site/mlge/menuitem.f9c1c444c628df3cb3347524e2b521ca/#br | archive-date=29 July 2010}}</ref>
+| leader_party           = 
+| leader_title           = Mayor
+| leader_name            = Nagen Mootoosamy
+| leader_title1          = Deputy Mayor
+| leader_name1           = Dooshiant Ramluckhun
+| leader_name2           = {{Collapsible list
+| title                  = Members' List
+| frame_style            = border:none; padding: 0;
+| title_style            = <!-- (optional) -->
+| list_style             = text-align:left;display:none;
+| 1 = •
+| 2 = •
+}}
+| area_total_km2         = 25.45 <!-- Calculated as per official figure of population and density -->
+| area_land_km2          = 
+| area_water_km2         =
+<!-- elevation ----------------->
+| elevation_footnotes    = 
+| elevation_m            = 
+| elevation_ft           = 1027
+| elevation_max_m        = 
+| elevation_min_m        = 
+<!-- population ---------------->
+| population_footnotes   = <ref name="stats2018">{{cite journal|url=http://statsmauritius.govmu.org/English/StatsbySubj/Documents/Digest/Demography/Digest_Demo_Yr18.pdf|publisher=Government of Mauritius|title=DIGEST OF DEMOGRAPHIC STATISTICS 2018|page=33|author=Statistics Mauritius: Demography Unit|version=Dec|year=2018|access-date=21 May 2020}}</ref>
+| population_total       = 77,308
+| population_as_of       = 2018
+| population_rank        = 5th in Mauritius
+| population_density_km2 = auto <!-- for automatic calculation of any density field, use: auto -->
+<!-- time zone(s) -------------->
+| timezone1              = [[Mauritius Time|MUT]]
+| utc_offset1            = +4
+| timezone1_DST          = 
+| utc_offset1_DST        =
+<!-- postal codes, area code --->
+| postal_code_type       = [[Postal codes in Mauritius|Post Code]]
+| postal_code            = 72249
+| area_code_type         = <!-- defaults to: Area code(s) -->
+| area_code              =
+<!-- blank fields -->
+| blank_name             = Airport
+| blank_info             = [[Sir Seewoosagur Ramgoolam International Airport|Plaisance Airport]] (distanced approximately 29&nbsp;km)
+| blank1_name            = [[Köppen climate classification|Climate]]
+| blank1_info            = [[Tropical monsoon climate|Am]]
+<!-- website, footnotes -------->
+| website                = {{URL|http://www.qb.mu|Municipal Council Website}}
+}}

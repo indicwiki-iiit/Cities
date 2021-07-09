@@ -1,0 +1,50 @@
+{{Infobox islands
+| name              = Cozumel
+| image             = Isla cozumel April17-2001-crop.jpg
+| image_caption     = Satellite image of Cozumel Island in 2001
+| image_size        = 
+| image_map         = Cozumel en Quintana Roo.svg
+| image_map_caption = Location of Cozumel in Quintana Roo State
+| native_name       = 
+| native_name_link  = 
+| nickname          = 
+| location          = [[Caribbean Sea]]
+| pushpin_map            = Mexico
+| pushpin_label          = 
+| pushpin_label_position = left
+| pushpin_map_width      = 240
+| pushpin_relief         = 1
+| pushpin_map_caption    = 
+| coordinates   = {{Coord|format=dms|region:MX-ROO_type:isle_scale:500000|display=inline,title}}
+| archipelago   = 
+| total_islands = 2
+| major_islands = 
+| area_km2      = 647.33
+| highest_mount = 14m
+| elevation_m   = 
+| country                         = {{MEX}}
+| country_admin_divisions_title   = [[List of states of Mexico|State]]
+| country_admin_divisions         = [[Quintana Roo]]
+| country_admin_divisions_title_1 = [[Municipalities of Quintana Roo|Municipality]]
+| country_admin_divisions_1       = Cozumel
+| country_largest_city            = [[San Miguel de Cozumel]]
+| country_largest_city_population = 77,236
+| country_leader_title            = ''[[Presidente municipal]]'' (Municipal president)
+| country_leader_name             = Pedro Joaquín Delbouis ([[Institutional Revolutionary Party|PRI]])
+| population_as_of = 2011
+| population       = 100,000
+| density_km2      = {{#expr: 100000/647.33 round 1}}
+| ethnic_groups    = [[Maya peoples|Maya]]
+| website          = [https://cozumel.gob.mx/ cozumel.gob.mx]
+| timezone1        = [[UTC−05:00]]
+| module           = {{Designation list
+| embed = yes
+| designation1 = Ramsar
+| designation1_offname = Parque Nacional Arrecifes de Cozumel
+| designation1_date = 2 February 2005
+| designation1_number = 1449<ref>{{Cite web|title=Parque Nacional Arrecifes de Cozumel|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/1449|access-date=25 April 2018|archive-url=https://web.archive.org/web/20180613234750/https://rsis.ramsar.org/ris/1449|archive-date=June 13, 2018|url-status=live}}</ref>
+| designation2 = Ramsar
+| designation2_offname = Manglares y Humedales del Norte de Isla Cozumel
+| designation2_date = 2 February 2009
+| designation2_number = 1921<ref>{{Cite web|title=Manglares y Humedales del Norte de Isla Cozumel|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/1921|access-date=25 April 2018|archive-url=https://web.archive.org/web/20180718174457/https://rsis.ramsar.org/ris/1921|archive-date=July 18, 2018|url-status=live}}</ref>}}
+}}

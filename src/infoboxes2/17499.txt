@@ -1,0 +1,112 @@
+{{Infobox settlement
+|official_name            = Pacifica, California
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|settlement_type          = [[City (California)|City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Pacifica California aerial view.jpg
+|image_caption            = Aerial view of Linda Mar District in Pacifica
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 100
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = Pacifica-logo.png
+|blank_emblem_type        = Seal
+|blank_emblem_size        = 100px
+|image_map                = File:San Mateo County California Incorporated and Unincorporated areas Pacifica Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[San Mateo County, California|San Mateo County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in the state of [[California]]##Location in the [[United States]]
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Sue Beckmeyer
+|leader_title1            = Mayor Pro Tempore
+|leader_name1             = Mary Bier
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 22, 1957<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 12.59
+| area_land_sq_mi         = 12.58
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 32.61
+| area_land_km2           = 32.59
+| area_water_km2          = 0.02
+| area_water_percent      = 0.01
+| area_note               = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277613|Pacifica|access-date=January 9, 2015}}</ref>
+|elevation_ft             = 82
+|elevation_m              = 25
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 37234
+|population_density_km2   = 1182.78
+|population_density_sq_mi = 3063.34
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|37|22|N|122|29|8|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94044, 94045
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 650|650]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|54806}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277613}}, {{GNIS 4|2411351}}
+|website                  = {{URL|www.cityofpacifica.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 38546
+}}

@@ -1,0 +1,87 @@
+{{Infobox settlement
+| name                    = Godawari
+| native_name             = गोदावरी
+| nickname                = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+
+| settlement_type         = [[List of cities in Nepal|Municipality]]
+| motto                   =
+
+| image_skyline           = 
+| imagesize               = 
+| image_alt               = 
+| image_caption           =
+
+| image_map               = 
+| mapsize                 = 
+| map_alt                 = 
+| map_caption             =
+
+| pushpin_map             = Nepal Sudurpashchim Province#Nepal
+| pushpin_mapsize         = 
+| pushpin_map_caption     = 
+| pushpin_label_position  = 
+| pushpin_relief          = 
+| coordinates             = {{coord|28|54|36|N|80|35|24|E|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| coordinates_footnotes   =
+
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Nepal]]
+| subdivision_type1       = [[Provinces of Nepal|Province]]
+| subdivision_name1       = [[Sudurpashchim Pradesh|Sudurpaschim]]
+| subdivision_type2       = [[Districts of Nepal|District]]
+| subdivision_name2       = [[Kailali District|Kailali]]
+| subdivision_type3       = No. of wards
+| subdivision_name3       = 12
+
+| established_title       = Established
+| established_date        = 18 May 2014
+| established_title1      = Incorporated ([[Village development committee (Nepal)|VDC]])
+| established_date1       = [[Attariya Municipality|Attariya]], [[Malakheti]], [[Sripur, Seti|Sripur]], [[Geta, Nepal|Geta]] and Godawari
+| established_title2      = Incorporated (date)
+| established_date2       =
+
+| seat_type               = Admin HQ.
+| seat                    = Attariya Bazar
+
+| government_footnotes    = 
+| government_type         = [[Mayor–council government|Mayor–council]]
+| governing_body          = Godawari Municipality
+| leader_title            = [[Mayor]]
+| leader_name             = Mr. Harisingh Saud
+| leader_party            = [[Nepal Communist Party|NCP]]
+| leader_title1           = [[Deputy Mayor]]
+| leader_name1            = Mrs. Ratna Kadayat ([[Nepal Communist Party|NCP]])
+| leader_title2           = {{#if:Kailali 4|[[Member of Parliament|MP]] & [[Parliamentary Constituencies of Nepal|Constituency]]}}
+| leader_name2            = Kailali 4<br/> [[Lekh Raj Bhatta]] {{#if:[[Nepal Communist Party|NCP]]|([[Nepal Communist Party|NCP]])}}
+| leader_title3           = [[Member of legislative assembly|MLA]] & [[Provincial Constituencies of Nepal|Constituency]]
+| leader_name3            = Kailali 4(B)<br/> Krishna Raj Subedi {{#if:[[Nepal Communist Party|NCP]]|([[Nepal Communist Party|NCP]])}}
+
+| area_magnitude          = 
+| area_footnotes          = 
+| area_total_km2          = 308.63
+| area_note               = 
+| area_rank               =
+
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_min_m         = 
+| elevation_max_m         =
+
+| population_footnotes    = 
+| population_total        = 78018
+| population_as_of        = 2011
+| population_density_km2  = 
+| population_note         = 
+| population_rank         =
+
+| timezone1               = [[Nepal Time|NPT]]
+| utc_offset1             = +05:45
+
+| postal_code_type        = Postal Codes
+| postal_code             = 
+| area_code_type          = Telephone Code
+| area_code               = 
+| website                 = {{URL|godawarimunkailali.gov.np/en}}
+| footnotes               = 
+}}

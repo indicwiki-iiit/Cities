@@ -1,0 +1,36 @@
+{{Infobox settlement
+ | name                   = {{raise|0.2em|Yangchun}}
+ | official_name          = <!-- Official name in English if different from 'name' -->
+ | native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hans|阳春市}}}}}}
+ | other_name             = Yeungchun
+ | pushpin_map            = China Guangdong
+ | settlement_type        = [[County-level city|County-level]] & [[Sub-prefecture-level city|Sub-prefectural city]]
+ | image_skyline          = Tanshui Trip 3 - (3).jpg
+ | image_map = Administrative Division Yangjiang.png
+ | map_caption = Yangchun is the northernmost division on this map of Yangjiang
+
+ | subdivision_type  = Country
+ | subdivision_name = [[China|People's Republic of China]]
+
+ |subdivision_type1 = [[Provinces of China|Province]]
+ | subdivision_name1 = [[Guangdong]]
+
+ |subdivision_type2 = [[Prefecture-level city]]
+ | subdivision_name2 = [[Yangjiang]]
+
+ | area_total_km2         = 4055
+ | population_total       = 849504
+ | population_as_of       = 2010 census
+ | population_density_km2 = auto
+ | coordinates            = {{coord|22.1704|N|111.7916|E|format=dms|type:adm3rd_region:CN-44_source:Gaode|display=it}}
+ | elevation_ft           =
+ | elevation_m            =
+ | timezone               = [[China Standard Time|China Standard]]
+ | utc_offset             = +8
+ | postal_code_type = [[Postal code of China|Postal code]]
+ | postal_code            = 529600
+ | area_code              = 662
+ | website                = {{official_website|http://www.yangchun.gov.cn}}
+ | blank_name             = [[Vehicle registration plates of China|Licence plates]]
+ | blank_info             = {{lang|zh-cn|粤QX}}, {{lang|zh-cn|粤QY}}
+}}

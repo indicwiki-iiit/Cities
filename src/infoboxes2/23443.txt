@@ -1,0 +1,84 @@
+{{Infobox settlement
+|name                     = Hillsdale, Michigan
+|official_name            = City of Hillsdale
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = Hillsdale County Courthouse.jpg
+|image_size               = 275
+|image_caption            = [[Hillsdale County Courthouse]]
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map            = Michigan
+|pushpin_label_position = top<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label          = Hillsdale
+|pushpin_map_caption    = Location within the state of Michigan
+|pushpin_mapsize        = 
+|image_map                = Hillsdale, MI location.png
+|mapsize                  = 250
+|map_caption              = Location within [[Hillsdale County, Michigan|Hillsdale County]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Michigan]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name2        = [[Hillsdale County, Michigan|Hillsdale]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Adam Stockford 
+|leader_title1            = [[Municipal clerk|Clerk]]
+|leader_name1             = Katy Price 
+|leader_title2            = [[City manager|Manager]]
+|leader_name2             = David Mackie 
+|established_title        = Settled
+|established_date         = 1834
+|established_title1       = Incorporated
+|established_date1        = 1869
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 15.86
+|area_land_km2            = 14.75
+|area_water_km2           = 1.12
+|area_total_sq_mi         = 6.13
+|area_land_sq_mi          = 5.69
+|area_water_sq_mi         = 0.43
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 8003
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov" />
+|population_total         = 8305
+|population_density_km2   = 542.68
+|population_density_sq_mi = 1405.51
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 341
+|elevation_ft             = 1119
+|coordinates              = {{coord|41|55|10|N|84|38|00|W|region:US-MI|display=inline,title}}
+|postal_code_type         = [[ZIP Code|ZIP code(s)]]
+|postal_code              = 49242
+|area_code                = [[Area code 517|517]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-38460<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0628321<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.cityofhillsdale.org|Official website}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

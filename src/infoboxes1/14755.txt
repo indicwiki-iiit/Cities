@@ -1,0 +1,36 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{LTU}}
+|name = Zarasai
+|nickname = 
+|settlement_type= City
+|pushpin_map            =Lithuania 
+|pushpin_label_position =bottom<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Zarasai
+|image_skyline= Zarasai.jpg
+|image_flag = Flag of Zarasai.gif
+|image_shield = Coat of arms of Zarasai.svg
+|coordinates       = {{coord|55|44|0|N|26|15|0|E|region:LT_type:city(8000)|display=inline,title}}
+|
+|subdivision_type1 = [[Regions of Lithuania|Ethnographic&nbsp;region]]
+|subdivision_name1 = [[Aukštaitija]]
+|subdivision_type2 = [[Counties of Lithuania|County]]
+|subdivision_name2 = [[Image:Utena County COA.png|17px]] [[Utena County]]
+|subdivision_type3 = [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3 = [[Zarasai District Municipality]]
+|subdivision_type4 = [[Elderships of Lithuania|Eldership]]
+|subdivision_name4 = [[Zarasai city eldership]]
+|subdivision_type6 = [[Capital (political)|Capital of]]
+|subdivision_name6 = [[Zarasai District Municipality]] <br> Zarasai city eldership <br> Zarasai rural eldership
+|established_date  = 1506
+|established_title = First mentioned
+|established_date2 = 1843
+|established_title2= Granted city rights
+|population_total  = 6,051
+|population_as_of  = 2020
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|website=http://www.zarasai.lt
+}}

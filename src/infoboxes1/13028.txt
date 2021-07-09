@@ -1,0 +1,103 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+|name                     = Covina, California
+|official_name            = City of Covina
+|settlement_type          = [[City (California)|City]]
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = "One Mile Square and All There", "Where Friendship is Traditional" (1965)
+|image_skyline            = Covina Downtown.jpg
+|imagesize                = 
+|image_caption            = Downtown Covina
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Seal_covina_ca.png
+|seal_size                = 95px
+|image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Covina Highlighted 0616742.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Covina in Los Angeles County, California
+|pushpin_map = USA
+|pushpin_map_caption = Location in the United States
+|pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name		  = Jorge Marquez<ref name=cc>{{Cite web
+ | url = http://www.ci.covina.ca.us/city-council
+ | title = City Council
+ | publisher = City of Covina
+ | access-date = April 11, 2017
+ | archive-url = https://web.archive.org/web/20160121062602/http://www.ci.covina.ca.us/city-council
+ | archive-date = January 21, 2016
+ | url-status = dead
+ }}</ref>
+|leader_title1		  = [[Mayor Pro Tem]]
+|leader_name1		  = Patricia Cortez<ref name=cc/>
+|leader_title2            = [[Councilmember]]
+|leader_name2             = Walter Allen III<ref name=cc/>
+|leader_title3 		  = Councilmember
+|leader_name3		  = Victor Linares<ref name=cc/>
+|leader_title4            = Councilmember
+|leader_name4             = John King<ref name=cc/>
+|established_title        = Founded
+|established_date         = 1882{{Citation needed|date=September 2014}}
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = August 14, 1901<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 7.05
+| area_land_sq_mi         = 7.03
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 18.25
+| area_land_km2           = 18.22
+| area_water_km2          = 0.03
+| area_water_percent      = 0.22
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1652693|Covina|access-date=November 3, 2014}}</ref>
+|elevation_ft             = 558
+|elevation_m              = 170
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0616742.html|title=Covina (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 9, 2015|archive-url=https://web.archive.org/web/20150413032705/http://quickfacts.census.gov/qfd/states/06/0616742.html|archive-date=April 13, 2015|url-status=dead}}</ref>
+|population_total         = 47796
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 47450
+|population_density_sq_mi = 6745.81
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+|population_demonym       = Covinan
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|coordinates              = {{coord|34|5|30|N|117|52|45|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 91722–91724<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Covina | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results|publisher=Zip4.usps.com | access-date = 2007-01-18}}</ref>
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 626|626]]<ref>{{cite web| url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Covina| title = Number Administration System - NPA and City/Town Search Results| publisher = Nanpa.com| access-date = 2007-01-18| archive-url = https://web.archive.org/web/20070929091625/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Covina| archive-date = September 29, 2007| url-status = dead}}</ref>
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|16742}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652693}}, {{GNIS 4|2410251}}
+|website                  = {{URL|http://www.covinaca.gov/|Covina, California}}
+|population_density_km2 = 2604.70
+}}

@@ -1,0 +1,60 @@
+{{Infobox settlement
+| name                            = Tulbagh
+| image_skyline                   = Tulbagh Collage.png
+| image_caption                   = Tulbagh, Western Cape
+| pushpin_map                     = South Africa Western Cape#South Africa
+| coordinates                     = {{coord|33|17|6|S|19|8|16|E|region:ZA|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[South Africa]]
+| subdivision_type1               = Province
+| subdivision_name1               = [[Western Cape]]
+| subdivision_type2               = District
+| subdivision_name2               = [[Cape Winelands District Municipality|Cape Winelands]]
+| subdivision_type3               = Municipality
+| subdivision_name3               = [[Witzenberg Local Municipality|Witzenberg]]
+| subdivision_type4               = Main Place
+| established_title               = Established
+| established_date                = 1795<ref name=established>{{cite web|title=Chronological order of town establishment in South Africa based on Floyd (1960:20-26)|url=http://upetd.up.ac.za/thesis/available/etd-07212011-123414/unrestricted/05back.pdf|pages=xlv–lii}}</ref>
+| leader_title                    = Councillor
+| area_footnotes                  = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/165004 |title = Main Place Tulbagh |work=Census 2011}}</ref>
+| area_total_km2                  = 3.81
+| elevation_m                     = 180
+| population_footnotes            = <ref name="census2011" />
+| population_total                = 8969
+| population_as_of                = 2011
+| population_density_km2          = auto
+<!-- demographics (section 1) -->| demographics_type1              = Racial makeup (2011)
+| demographics1_footnotes         = <ref name="census2011" />
+| demographics1_title1            = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1             = 22.7%
+| demographics1_title2            = [[Coloureds|Coloured]]
+| demographics1_info2             = 69.3%
+| demographics1_title3            = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3             = 0.2%
+| demographics1_title4            = [[White South African|White]]
+| demographics1_info4             = 6.9%
+| demographics1_title5            = Other
+| demographics1_info5             = 0.8%
+<!-- demographics (section 2) -->| demographics_type2              = [[First language]]s (2011)
+| demographics2_footnotes         = <ref name="census2011" />
+| demographics2_title1            = [[Afrikaans]]
+| demographics2_info1             = 74.4%
+| demographics2_title2            = [[Xhosa language|Xhosa]]
+| demographics2_info2             = 18.3%
+| demographics2_title3            = [[South African English|English]]
+| demographics2_info3             = 3.6%
+| demographics2_title4            = [[Sotho language|Sotho]]
+| demographics2_info4             = 2.0%
+| demographics2_title5            = Other
+| demographics2_info5             = 1.7%
+<!-- blank fields (section 2) -->
+<!-- Other information -->| timezone1                       = [[South African Standard Time|SAST]]
+| utc_offset1                     = +2
+| postal_code_type                = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code                     = 6820
+| postal2_code_type               = [[Post-office box|PO box]]
+| postal2_code                    = 6820
+| area_code_type                  = [[Telephone numbers in South Africa|Area code]]
+| area_code                       = 023
+| official_name                   = 
+}}

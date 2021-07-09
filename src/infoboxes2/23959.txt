@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name = Fuller Heights, Florida
+|settlement_type = [[Census-designated place]] 
+|nickname = 
+|motto =
+
+<!-- Images -->
+|image_skyline = 
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal =
+
+<!-- Maps -->
+|image_map = 
+|mapsize = 
+|map_caption = 
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|pushpin_map=Florida#USA
+|pushpin_label = Fuller Heights
+
+<!-- Location -->
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Florida]]
+|subdivision_type2 = [[List of counties in Florida|County]]
+|subdivision_name2 = [[Polk County, Florida|Polk]]
+
+<!-- Government -->
+|government_footnotes = 
+|government_type = 
+|leader_title = 
+|leader_name = 
+|leader_title1 = 
+|leader_name1 = 
+|established_title = 
+|established_date =
+
+<!-- Area -->
+|unit_pref  =  
+|area_footnotes = <ref name=FL>{{cite web|title=2010 Census Gazetteer Files - Places: Florida|url=http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_12.txt|publisher=[[U.S. Census Bureau]]|accessdate=March 26, 2017}}</ref>
+|area_magnitude = 
+|area_total_km2 = 
+|area_land_km2 = 
+|area_water_km2 = 
+|area_total_sq_mi = 5.243
+|area_land_sq_mi = 4.866
+|area_water_sq_mi = 0.377
+
+<!-- Population -->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=FL/>
+|population_total = 8758
+|population_density_km2 = 
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = -5
+|timezone_DST = EDT
+|utc_offset_DST = -4
+|elevation_footnotes = 
+|elevation_m = 
+|elevation_ft = 112
+|coordinates   = {{coord|27|54|33|N|81|59|53|W|region:US-FL|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type = 
+|postal_code = 
+|area_code = [[Area code 863|863]]
+|blank_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info = 282852<ref name="gnis">{{cite gnis|282852|Fuller Heights}}</ref>
+|blank1_name =
+|blank1_info = 
+|website = 
+|footnotes = 
+}}

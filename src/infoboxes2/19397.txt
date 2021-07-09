@@ -1,0 +1,36 @@
+{{Infobox settlement
+| name                   = Sderot
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|שְׂדֵרוֹת}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|سديروت}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1996)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Śderot
+| image_skyline          = File:שדרות, רחוב הרב בן-נון , הוא רחוב ניר-עם, הוא רחוב הגדוד השני. - panoramio.jpg
+| image_blank_emblem     = Coat of arms of Sderot.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest negev#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|31|22|N|34|35|43|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1951
+| leader_title           = Mayor
+| leader_name            = Alon Davidi
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:4472|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Sederot}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Boulevards/avenues
+}}

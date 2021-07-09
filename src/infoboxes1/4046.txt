@@ -1,0 +1,103 @@
+{{Infobox settlement <!--See the table at Template:Infobox settlement for all fields and descriptions of their usage-->
+<!-- Basic info ---------------->
+| name = Modesto, California
+| settlement_type = [[List of cities and towns in California|City]]
+| official_name = City of Modesto
+| other_name = 
+| native_name = <!-- for cities whose native name is not in English -->
+<!-- images and maps ----------->
+| image_skyline                   = {{Photomontage
+| photo1a                 = Modesto Arch (cropped).JPG
+| photo2a                 = Gallo Center for the Arts Modesto (cropped).JPG
+| photo2b                 = Hotel Covell NRHP 94001501 Stanislaus County, CA.jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 275
+| foot_montage            = Clockwise: [[Modesto Arch]]; Hotel Covell; [[Gallo Center for the Arts]]
+}}
+| image_flag = 
+| flag_size = 
+| image_seal = Seal of Modesto, California.png
+| nickname = 
+| motto = Water Wealth Contentment Health<ref>{{cite web |url=https://www.modestogov.com/newsroom/releases/city/prdetail.asp?id=1184 |title=Newsroom – Press Releases |publisher=City of Modesto |date=February 21, 2012 |access-date=December 10, 2014 |archive-url=https://web.archive.org/web/20160312085441/http://www.modestogov.com/newsroom/releases/city/prdetail.asp?id=1184 |archive-date=March 12, 2016 |url-status=dead }}</ref>
+<!-- Maps ---------------------->
+| image_map = Stanislaus_County_California_Incorporated_and_Unincorporated_areas_Modesto_Highlighted.svg
+| mapsize = 250x250px
+| map_caption = Location in [[Stanislaus County, California|Stanislaus County]] and the state of California
+| image_map1 = 
+| mapsize1 = 
+| map_caption1 = 
+|pushpin_map              = California#USA
+|pushpin_label            = Modesto
+|pushpin_map_caption      = Location in the United States
+<!-- Coordinates --------------->
+| coordinates       = {{coord|37|39|41|N|120|59|40|W|region:US-CA|display=inline,title}}
+| coordinates_footnotes = 
+| subdivision_type  = Country
+| subdivision_name  = United States
+| subdivision_type1 = State
+| subdivision_name1 = [[California]]
+| subdivision_type2 = [[List of counties in California|County]]
+| subdivision_name2 = [[Stanislaus County, California|Stanislaus]]
+----
+| subdivision_type3 = [[List of regions of California|Region]]
+| subdivision_name3 = [[San Joaquin Valley]]
+<!-- Politics ----------------->
+| established_title = Founded
+| established_date = November 8, 1870
+| established_title2 = [[Municipal corporation|Incorporated]]
+| established_date2 = August 6, 1884<ref>{{cite web |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc |title=California Cities by Incorporation Date |format=Word |publisher=California Association of [[Local Agency Formation Commission]]s |access-date=August 25, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date=October 17, 2013  }}</ref>
+| named_for = The modesty of [[William Chapman Ralston]]
+| government_footnotes = 
+| government_type = [[Council–manager government|Council-manager]]<ref name=form>{{cite web |url=https://www.municode.com/library/ca/modesto/codes/code_of_ordinances?nodeId=CHTR_ARTIVFOGO |title=Modesto, CA Code of Ordinances [codes] – ARTICLE IV. – Form of Government |publisher=Municipal Code Corporation |access-date=December 30, 2014}}</ref>
+| leader_title = Mayor
+| leader_name = Sue Zwahlen
+| leader_title4 = [[City manager]]
+| leader_name4 = Joseph Lopez
+<!-- Area----------------------->
+| unit_pref = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi = 44.80
+| area_land_sq_mi = 42.97
+| area_water_sq_mi = 1.83
+| area_total_km2 = 116.04
+| area_land_km2 = 111.30
+| area_water_km2 = 4.74
+| area_water_percent = 0.61
+| area_metro_sq_mi = 15,15
+<!-- Elevation ----------------->
+| elevation_footnotes = <ref name="GNIS"/>
+| elevation_ft = 52
+| elevation_m = 27
+<!-- Population ----------->
+| population_as_of = [[2010 United States Census|2010]]
+| population_footnotes = <ref name="2010 Census Gazetteer">{{Cite US Gazetteer|2010|places|CA}}</ref>
+| population_total = 201165
+| pop_est_as_of = 2019
+| pop_est_footnotes = <ref name="USCensusEst2019"/>
+| population_est = 215196
+| population_rank = [[Stanislaus County, California|1st]] in Stanislaus County<br />[[List of largest California cities by population|18th]] in California<br />[[List of United States cities by population|103rd]] in the United States
+| population_density_sq_mi = 5007.59
+| population_metro = 514453
+| population_density_metro_sq_mi = auto
+<!-- General information --------------->
+| timezone = [[Pacific Time Zone|Pacific]]
+| utc_offset = −8
+| timezone_DST = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST = −7
+<!-- Area/postal codes ----------------->
+| postal_code_type = [[ZIP code]]s<ref>{{cite web |url=https://tools.usps.com/go/ZipLookupAction!input.action |title=ZIP Code(tm) Lookup |publisher=[[United States Postal Service]] |access-date=November 24, 2014}}</ref>
+| postal_code = 95350–95358, 95397
+| area_code_type = [[North American Numbering Plan|Area code]]
+| area_code = [[Area code 209|209]]
+<!-- Other ----------------------------->
+| blank_name = [[Geographic Names Information System|GNIS]] IDs<ref name="GNIS">{{Cite GNIS|277609|Modesto|access-date=May 12, 2014}}</ref><ref name="FIPS55">{{cite web |url=http://geonames.usgs.gov/fips55/CAfips55_delim.txt |archive-url=https://web.archive.org/web/20060618155602/http://geonames.usgs.gov/fips55/CAfips55_delim.txt |archive-date=June 18, 2006 |title=FIPS55 Data: California |work=FIPS55 Data |publisher=[[United States Geological Survey]] |date=February 23, 2006 |access-date=May 12, 2014}}</ref>
+| blank_info = {{GNIS4|277609}}, {{GNIS4|2411130}}
+| blank1_name = [[Federal Information Processing Standard|FIPS]] code<ref name="GNIS"/><ref name="FIPS55"/>
+| blank1_info = {{FIPS|06|48354}}
+| website  = {{URL|www.modestogov.com}}
+| footnotes = 
+| population_density_km2 = 1933.45
+}}

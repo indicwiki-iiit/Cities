@@ -1,0 +1,38 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name= Yozgat
+|settlement_type = [[Municipality]]
+| image_skyline           = Ormancıların_Emekleri_Burada_-_panoramio.jpg
+| image_caption           = View of the city center
+| image_shield            = 
+| image_blank_emblem=Yozgat (Stadt) Wappen 2013-11-30 16-03.jpg
+| blank_emblem_type=Emblem of Yozgat Municipality
+| blank_emblem_size=110px
+| pushpin_map=Turkey
+| pushpin_map_caption=Location in Turkey
+| pushpin_map_alt=
+| pushpin_mapsize=300px
+| coordinates             = {{coord|39|49|15|N|34|48|30|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Yozgat Province|Yozgat]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_title            = Mayor
+| leader_name             = Celal Köse
+
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Yozgat|Yozgat}}
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Yozgat}}
+| population_urban        = {{Turkey district populations|Yozgat|Yozgat|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Yozgat|Yozgat|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = 
+| postal_code             = 
+| website                 = {{URL| http://www.yozgat.gov.tr | www.yozgat.gov.tr}}
+}}

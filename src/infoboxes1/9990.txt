@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = City of Rangsit<br>เทศบาลนครรังสิต
+| native_name            = {{lang|th|รังสิต}}
+| other_name             = 
+| settlement_type        = [[List of cities in Thailand|City Municipality]]
+<!-- images and maps  ----------->
+| image_skyline          = Zpell rangsit.jpg
+| imagesize              = 
+| image_caption          = Zpell, a part of [[Future Park Rangsit]]
+| image_flag             = 
+| image_seal             = Seal of Rangsit.gif
+| image_shield           = 
+| nickname               = 
+| motto                  = 
+| image_map              = 
+| mapsize                = 
+| map_caption            = Location within [[Pathum Thani Province|Pathum Thani]]
+| pushpin_map            = Bangkok Metropolitan Region
+| pushpin_label_position = right
+| pushpin_map_caption    = Location in [[Thailand]]
+<!-- Location ------------------>
+| coordinates            = {{coord|13|59|0|N|100|37|0|E|region:TH|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = [[Thailand]]
+| subdivision_type1      = [[Provinces of Thailand|Province]]
+| subdivision_name1      = [[Pathum Thani Province|Pathum Thani]]
+| subdivision_type2      = [[Districts of Thailand|District]]
+| subdivision_name2      = [[Thanyaburi District|Thanyaburi]]
+| established_title      = <!-- Settled -->
+| established_date       = 
+| government_type        = City Municipality
+<!-- Politics ----------------->
+| government_footnotes   = 
+| leader_title           = Mayor
+| leader_name            = Treelup Thupkrachang
+<!-- Area    --------------------->
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = 
+| area_total_km2         = 20.80
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 
+| elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+| elevation_m            =
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 79319
+| population_as_of       = 2014
+| population_density_km2 = 3813.41
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Time in Thailand|ICT]]
+| utc_offset             = +7
+| timezone_DST           = 
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[Postal codes in Thailand|Postcode]]
+| postal_code            = 12130
+| area_code              = (+66) 2
+| website                = {{url|rangsit.org}}
+| footnotes              = 
+| name                   = Rangsit
+| leader_title1          = Vice Mayor
+| leader_name1           = 
+| area_code_type         = [[Telephone numbers in Thailand|Area code]]
+}}

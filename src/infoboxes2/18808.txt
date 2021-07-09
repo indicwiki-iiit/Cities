@@ -1,0 +1,42 @@
+{{Infobox Australian place | type = city
+| name     = Traralgon
+| state    = vic
+| image    = Traralgon_urban_area_viewed_from_Tyers_lookout.jpg
+| caption  = View south over the Traralgon urban area from Tyers lookout
+| coordinates = {{coord|38|11|45|S|146|32|25|E|display=inline,title}}
+| pushpin_label_position =left
+| pushpin_map_caption = Location in City of Latrobe
+| use_lga_map = yes
+| lga      = City of Latrobe
+| postcode = 3844
+| est      = 1840s
+| pop      = 25,485
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABSCensusUCL">{{Census 2016 AUS|name=Traralgon|id=UCL212004 |quick=on|accessdate=2 November 2017}}</ref>
+| pop2     = 27958
+| pop2_year = 2018 
+| pop2_footnotes = <ref name=ABSSA2/>   
+| area = 23.9
+| elevation = 60
+| elevation_footnotes = (45-75m)
+| maxtemp  = 
+| mintemp  =
+| rainfall =
+| county = Australia 
+| stategov = [[Electoral district of Morwell|Morwell]]
+| fedgov   = [[Division of Gippsland|Gippsland]]
+| dist1    = 161
+| location1= Melbourne
+| dist2    = 55
+| location2= [[Sale, Victoria|Sale]]
+| dist3    = 121
+| location3= Bairnsdale
+| near-nw  = [[Tyers, Victoria|Tyers]]
+| near-n   = [[Glengarry, Victoria|Glengarry]]
+| near-ne  = [[Traralgon East, Victoria|Traralgon East]]
+| near-w   = [[Yallourn North, Victoria|Yallourn North]]
+| near-e   = [[Traralgon East, Victoria|Traralgon East]]
+| near-sw  = [[Morwell, Victoria|Morwell]]
+| near-s   = [[Hazelwood North, Victoria|Hazelwood North]]
+| near-se  = [[Hazelwood North, Victoria|Hazelwood North]]
+}}

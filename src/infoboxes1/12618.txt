@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Tecate
+|native_name            =  <!-- for cities whose native name is not in English they speak their naive language  Tecatense-->
+<!-- images and maps  ----------->
+|image_skyline          = Tecate 003.jpg
+|image_caption          = Tecate, aerial view (2005)
+|pushpin_map            = Mexico <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Mexico
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Mexico}}
+|subdivision_type1      = [[Administrative divisions of Mexico|State]]
+|subdivision_name1      = {{flagicon|Baja California}} [[Baja California]]
+|subdivision_type2      = Municipality
+|subdivision_name2      = [[Tecate (municipality)|Tecate]]
+<!-- Politics ----------------->
+|government_type        = [[Ayuntamiento]] or [[Municipal council|Council]]
+|leader_title           = [[Municipal president of Tecate|Municipal President]]
+|leader_name            = Nereida Fuentes González 
+|leader_title1          =  
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|established_title      = Founded
+|established_date       = October 12, 1892<ref>[http://www.baja-web.com/tecate/ Tecate on Baja-Web]</ref>
+|established_title2     =
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|area_magnitude         =
+|unit_pref              = Metric
+|area_footnotes         =
+|area_total_km2         = 
+|area_total_sq_mi       =
+|area_land_km2          =
+|area_land_sq_mi        =
+|area_water_km2         =
+|area_water_sq_mi       =
+|area_water_percent     =
+|area_urban_km2         =
+|area_urban_sq_mi       =
+|area_metro_km2         =
+|area_metro_sq_mi       =
+<!-- Population   ----------------------->
+|population_demonym     = Tecatense
+|population_as_of =  2019
+|population_total =  108,860<ref name="inegi.org.mx">{{cite web|url=http://www.cuentame.inegi.org.mx/monografias/informacion/bc/territorio/div_municipal.aspx?tema=me&e=02|title=División municipal. Baja California|website=www.cuentame.inegi.org.mx|access-date=13 April 2018}}</ref>
+|population_blank1_title = Ethnicities
+|population_blank2_title = Religions
+|population_density_km2 = 
+|population_density_sq_mi =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban       = 
+|population_metro       = 132,406<ref name="inegi.org.mx"/>
+<!-- General information  --------------->
+|timezone               = [[Pacific Standard Time|PST]]
+|utc_offset             = &minus;8
+|timezone_DST           = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST         = &minus;7
+|coordinates            = {{coord|32|34|20|N|116|38|25|W|region:MX|display=inline,title}}
+|elevation_m            = 540
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 21400–21499
+|area_code              = 665<ref>{{cite web|url=http://www.bajarealestategroup.net/Mexican_Area_Codes/|title=Mexican Area codes and Baja California Area Codes - Baja Real Estate Group|website=www.bajarealestategroup.net|access-date=13 April 2018}}</ref>
+|website                = [http://www.tecate.gob.mx www.tecate.gob.mx]
+|footnotes              =
+}}

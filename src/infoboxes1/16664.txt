@@ -1,0 +1,162 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = Caldas da Rainha<!-- at least one of the first two fields must be filled in -->
+| official_name = 
+| settlement_type =[[Municipalities of Portugal|Municipality]]
+<!-- images, nickname, motto --->
+| image_skyline           = {{Photomontage
+| photo1a                 = Baía de S. Martinho do Porto - Portugal (278646477) (cropped).jpg
+| photo2a                 = Praça da República - Caldas da Rainha - Portugal (7107093923).jpg
+| photo2b                 = Caldas da Rainha Pavilhões do Parque (cropped).jpg
+| photo3a                 = Museu hosp termal 1.jpg
+| photo3b                 = Hospital Termal Caldas da Rainha (cropped).png
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = 
+}}
+| image = <!-- other image (specify File: or Image: namespace) -->
+| image_flag = Pt-cld1.png
+| flag_size = 101px
+| flag_alt = Image of the flag of Caldas da Rainha
+| flag_border = no
+| flag_link = 
+| image_shield = CLD.png
+| shield_size = 
+| shield_alt = Image of the coat of arms of Caldas da Rainha
+| shield_link = 
+| blank_emblem_type = <!-- defaults to Logo -->
+| blank_emblem_size = 
+| blank_emblem_alt = Logo of the Câmara Municipal of Caldas da Rainha
+| blank_emblem_link = 
+| nickname = Caldas
+| motto = 
+| anthem = 
+<!-- maps and coordinates ------>
+| image_map = LocalCaldasDaRainha.svg
+| mapsize = 
+| map_alt = Map showing the location of the municipality of Caldas da Rainha within Portugal
+| map_caption = Municipality of Caldas da Rainha within Portugal
+| coordinates = {{coord|39|24|26|N|9|8|9|W|type:city_region:PT_scale:10000|format=dms|display=inline,title}}
+| coor_pinpoint = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type = Country
+| subdivision_name = [[Portugal]] {{flagicon|PRT}}<!-- the name of the country -->
+| subdivision_type1 = Intermunicipal entity
+| subdivision_name1 = [[Comunidade Intermunicipal do Oeste]]
+| subdivision_type2 = [[Nomenclature of Territorial Units for Statistics|NUTS]] I statistical division
+| subdivision_name2 = [[Continental Portugal|Continente]]
+| subdivision_type3 = NUTS II statistical region
+| subdivision_name3 = [[Centro Region, Portugal|Centro]]<!-- etc., subdivision_type6 / subdivision_name6 -->
+| subdivision_type4 = NUTS III statistical subregion
+| subdivision_name4 = [[Oeste Subregion|Oeste]]
+| subdivision_type5 = [[Districts of Portugal|District]]
+| subdivision_name5 = [[Leiria District|Leiria]]
+| subdivision_type6 = Historical [[Provinces of Portugal|province]]
+| subdivision_name6 = [[Estremadura Province (1936-1976)|Estremadura]]
+<!-- established --------------->
+| established_title = Founded
+| established_date = 1484
+| established_title1 = ''[[List of towns in Portugal|Vila]]'' (town) status
+| established_date1 = 1511
+| established_title2 = ''[[List of municipalities of Portugal|Concelho/Município]]'' ([[Municipality]])
+| established_date2 = 1821
+| established_title3 = ''[[List of cities in Portugal|Cidade]]'' ([[city]]) status
+| established_date3 = 1927
+| founder = [[Eleanor of Viseu|Queen Leonor]]<ref name=murray_handbook>{{cite book|title=A Handbook for Travellers in Portugal: A Complete Guide for Lisbon...the Caldas...&c|year=1875|publisher=John Murray|location=London|pages=116–117|url=https://books.google.com/books?id=YA4NAAAAYAAJ&q=%22Caldas+da+Rainha%22&pg=PA116|edition=Third|access-date=1 May 2014|format=Google Books}}</ref>
+| named_for = [[Eleanor of Viseu|Queen Leonor]]
+<!-- seat, smaller parts ------->
+| parts_type =  ''[[Freguesia (Portugal)|Freguesias]]'' (civil [[Parish (administrative division)|parishes]])
+| parts_style = coll<!-- list, coll (collapsed list), para (paragraph format) -->
+| parts = 12<!-- parts text, or header for parts list -->
+| p1 = • [[A dos Francos]]
+| p2 = • [[Alvorninha]]
+| p3 = • União das Freguesias de [[Caldas da Rainha — Nossa Senhora do Pópulo, Coto e São Gregório]]
+| p4 = • União das Freguesias de [[Caldas da Rainha — Santo Onofre e Serra do Bouro]]
+| p5 = • [[Carvalhal Benfeito]]
+| p6 = • [[Foz do Arelho]]
+| p7 = • [[Landal]]
+| p8 = • [[Nadadouro]]
+| p9 = • [[Salir de Matos]]
+| p10 = • [[Santa Catarina (Caldas da Rainha)|Santa Catarina]]
+| p11 = • União das Freguesias de [[Tornada e Salir do Porto]]
+| p12 = • [[Vidais]]<!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| government_type = Municipality (''Município'', or ''concelho'')
+| governing_body = [[Câmara Municipal]] (executive)<br/>[[Assembleia Municipal]] (deliberative)
+| leader_party = ''[[Social Democratic Party (Portugal)|PSD]]''
+| leader_title = '' Mayor
+| leader_name = Fernando Manuel Tinta Ferreira<!-- add &nbsp; (no-break space) to disable automatic links -->
+| leader_title1 = ''President of the Municipal Assembly''
+| leader_name1 = Luís Manuel Pereira Monteiro Ribeiro<!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings --------->
+| total_type = Municipality<!-- to set a non-standard label for total area and population rows -->
+<!-- area ---------------------->
+| area_footnotes = <ref name=ine_area>{{cite web|title=Area (km<sup>2</sup>) of national territory by Geographic localization (Administrative division); Annual–2012|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0007444&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=18 October 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Leiria.)</ref><!-- for references: use <ref> tags -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_total_km2 = 255.69<!-- ALL fields with measurements have automatic unit conversion --><!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_urban_footnotes = <!-- for references: use <ref> tags -->
+| area_urban_km2 = 
+| area_rural_footnotes = <!-- for references: use <ref> tags -->
+| area_rural_km2 = 
+| area_rank = 
+| area_note = 
+<!-- dimensions ----------------->
+| dimensions_footnotes = <ref name=ine_dim_length>{{cite web|title=Maximum length North/ South (km) of territorial units by Geographic localization (NUTS - 2002); Annual–2012|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000350&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=23 October 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><ref name=ine_dim_width>{{cite web|title=Maximum length East/ West (km) of territorial units by Geographic localization (NUTS - 2002); Annual–2012|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000349&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=23 October 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><!-- for references: use <ref> tags -->
+| length_km = 24
+| width_km = 22
+<!-- elevation ----------------->
+| elevation_max_footnotes = <ref name=ine_elev_max>{{cite web|title=Maximum height (m) of territorial units by Geographic localization (NUTS - 2002); Annual–2012|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000342&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=23 October 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><!-- for references: use <ref> tags -->
+| elevation_max_m = 255
+| elevation_min_footnotes = <ref name=ine_elev_min>{{cite web|title=Minimum height (m) of territorial units by Geographic localization (NUTS - 2002); Annual–2012|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000346&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=23 October 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><!-- for references: use <ref> tags -->
+| elevation_min_m = 0
+<!-- population ---------------->
+| population_footnotes = <ref name=censos_2011_res_def>{{cite web|title=Censos 2011 Resultados Definitivos|url=http://www.ine.pt/scripts/flex_definitivos/Main.html|publisher=Instituto Nacional de Estatística (Statistics Portugal)|language=pt|trans-title=2011 Census Definitive Results|access-date=28 April 2014|archive-url=https://web.archive.org/web/20121127184227/http://www.ine.pt/scripts/flex_definitivos/Main.html|archive-date=27 November 2012|url-status=dead}} (In the "NUTS ou Distrito ou Município" field, enter "Caldas da Rainha", then click the magnifying glass icon.)</ref><ref name=ine_pop_2011>{{cite web|title=Resident population (No.) by Place of residence and Sex; Decennial–2011|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0005889&selTab=tab0&xlang=en|publisher=Insitituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=20 November 2012}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><ref name=ine_city_pop>{{cite web|title=Resident population in statistical cities (No.) by Place of residence; Annual–2011|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000348&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=18 April 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><ref name=ine_pop_dens_2011>{{cite web|title=Population's density (No./ km<sup>2</sup>) by Place of residence (at the date of Census 2011) and Sex; Decennial–2011|url=http://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0006044&contexto=bd&selTab=tab2&xlang=en|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=28 April 2014|date=16 February 2013}} (Click "Change selection conditions" to choose Caldas da Rainha under Portugal > Continente > Centro > Oeste.)</ref><!-- for references: use <ref> tags -->
+| population_total = 51,729
+| population_as_of = 2011
+| population_rank = 
+| population_density_km2 = 202.3<!-- for automatic calculation of any density field, use: auto -->
+| population_est = 
+| pop_est_as_of = 
+| population_urban_footnotes = 
+| population_urban = 
+| population_density_urban_km2 = 
+| population_rural_footnotes = 
+| population_rural = 
+| population_density_rural_km2 = 
+| population_density = 
+| population_density_rank = 
+| population_blank1_title = Statistical city
+| population_blank1 = 30,343
+| population_density_blank1_km2 = 
+| population_blank2_title = 
+| population_blank2 = 
+| population_density_blank2_km2 = 
+| population_demonym = Caldense<!-- demonym, e.g. Liverpudlian for someone from Liverpool -->
+| population_note = {{refn|group=note|name=stat_city|The "statistical city" of Caldas da Rainha contains the entirety of the civil parish of Santo Onofre, most of the civil parish of Nossa Senhora do Pópulo (excluding Lagoa Parceira, Imaginário, and Casal do Tanqueirão) and the southernmost portion of the civil parish of Tornada.<ref name=stat_city_ref>{{cite web|title=INE - Censos 2011 Resultados Definitivos|url=http://mapas.ine.pt/map.phtml?dg=Municipios,Freguesias,Arruamentos,Ortofotomapas&me=-95404.579346771,-31196.9621725,-79019.18316034,-24925.4200275&language=en&config=default&|publisher=Instituto Nacional de Estatística (Statistics Portugal)|access-date=13 April 2014}} (In the "Search for" drop-down menu, select "Lugar INE", enter "Caldas da Rainha", and click "Search".)</ref>}}
+<!-- time zone(s) -------------->
+| timezone1 = [[Western European Time]]<ref name=time_zone>{{cite web|author=Assembleia da República|author-link=Assembly of the Republic (Portugal)|title=Decreto-Lei n.º 17/96|url=https://dre.pt/application/dir/pdf1sdip/1996/03/058a00/04690469.PDF|publisher=Imprensa Nacional-Casa da Moeda, E. P.|access-date=11 October 2014|page=469|language=pt|trans-title=Decree-Law No. 17/96|date=8 March 1996}}</ref>
+| utc_offset1 = ±00:00
+| timezone1_DST = [[Western European Summer Time]]<ref name=time_zone/>
+| utc_offset1_DST = +01:00
+<!-- postal codes, area code --->
+| postal_code_type = Postal code (''código postal'')<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code = 2500
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 262
+| geocode = 
+| iso_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = Municipal holiday
+| blank_info_sec1 = 15 May<ref>{{cite web|title=Informação do Concelho|url=http://www.cm-caldas-rainha.pt/portal/page/portal/PORTAL_MCR/MUNICIPIO/INFORMACAO_CONCELHO|publisher=Município das Caldas da Rainha|access-date=11 October 2014|language=pt|trans-title=Municipal Information|archive-url=https://web.archive.org/web/20141016062422/http://www.cm-caldas-rainha.pt/portal/page/portal/PORTAL_MCR/MUNICIPIO/INFORMACAO_CONCELHO|archive-date=2014-10-16|url-status=dead}}</ref>
+<!-- website, footnotes -------->
+| website = http://www.cm-caldas-rainha.pt/<!-- {{URL|example.com}} -->
+| footnotes = 
+}}

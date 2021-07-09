@@ -1,0 +1,48 @@
+{{Infobox university
+| name = University of Virginia
+| image_name = University of Virginia seal.svg 
+| image_upright = 0.7
+| founder = [[Thomas Jefferson]]
+| established = {{start date and age|January 25, 1819}}<ref>{{cite web |title = History |url = https://bicentennial.virginia.edu/history |website = University of Virginia Bicentennial |publisher = Rector and Visitors of the University of Virginia |access-date = March 3, 2020 |archive-date = March 3, 2020 |archive-url = https://web.archive.org/web/20200303182031/https://bicentennial.virginia.edu/history |url-status = dead }}</ref>
+| type = [[Public university#United States|Public]] [[Flagship university|flagship]] [[research university]]
+| academic_affiliations = {{hlist
+|[[Association of American Universities|AAU]]
+|[[Oak Ridge Associated Universities|ORAU]]
+|[[Universities Research Association|URA]]
+|[[Southeastern Universities Research Association|SURA]]
+|[[National Sea Grant College Program|Sea-grant]]
+|[[National Space Grant College and Fellowship Program|Space-grant]]
+}}
+| endowment = $7.26 billion (2020)<ref name=endowment>As of June 30, 2020. {{cite report |url=https://www.nacubo.org/-/media/Documents/Research/2020-NTSE-Public-Tables--Endowment-Market-Values--FINAL-FEBRUARY-19-2021.ashx |title=U.S. and Canadian Institutions Listed by Fiscal Year 2020 Endowment Market Value and Change in Endowment Market Value from FY19 to FY20 |publisher=National Association of College and University Business Officers and [[TIAA]] |date=February 19, 2021 |access-date=February 19, 2021}}</ref>
+| budget = $1.91 billion (FY 2019-20)<ref name = "Budget">{{cite web |title = 2019-2020 University Operating Budget |url = https://financialplanning.vpfinance.virginia.edu/sites/financialplanning.virginia.edu/files/FY2020%20Final%20Operating%20Budget%20060419.pdf |website = Financial Planning and Analysis, UVA |publisher = Rector and Visitors of the University of Virginia |access-date = February 25, 2020}}</ref>{{NoteTag|This figure refers to the Academic Division operating budget. The consolidated operating budget for the University of Virginia, including the [[University of Virginia Health System#Components|Medical Center]] and the [[University of Virginia's College at Wise|College at Wise]], totals $3.72 billion.<ref name = "Budget" />}}
+| president = [[James E. Ryan (educator)|James E. Ryan]]
+| provost = [[M. Elizabeth Magill]]
+| students = 25,018 (Fall 2019)<ref name="Enrollment">{{cite web |title = CDS 2019–20 |url = https://ira.virginia.edu/cds-2019-20 |website = Institutional Research and Analytics, U.Va. |publisher = Rector and Visitors of the University of Virginia |access-date = August 23, 2020}}</ref>
+| undergrad = 17,011 (Fall 2019)<ref name="Enrollment" />
+| postgrad = 8,007 (Fall 2019)<ref name="Enrollment" />
+| faculty = Total: 3,265 (Fall 2019)<ref name="Employee Data">{{cite web |title = Employees |url = https://ira.virginia.edu/university-stats-facts/employees |website = Institutional Research and Analytics, U.Va. |publisher = Rector and Visitors of the University of Virginia |access-date = February 26, 2020}}</ref><br />{{Bulleted list |3,083 full-time |182 part-time}}
+| staff = Total: 6,292 (Fall 2019)<ref name="Employee Data" />{{NoteTag|The total number of administrative staff listed here represents the total number of Classified Staff and University Staff.<ref name="Employee Data" />}}<br />{{Bulleted list |6,149 full-time |143 part-time}}
+| city = [[Charlottesville, Virginia|Charlottesville]]
+| state = [[Virginia]]
+| country = United States
+| campus = [[Suburban]], [[college town]]<br />{{convert|1135|acre|ha|}}<ref name = "Campus">{{cite web |url = https://www.officearchitect.virginia.edu/pdfs/PrecinctPlanWeb.pdf |title = Precinct Plans (2011) |website = U.Va. Office of the Architect for the University |access-date = March 4, 2020 |archive-url = https://web.archive.org/web/20200305102813/https://www.officearchitect.virginia.edu/pdfs/PrecinctPlanWeb.pdf |archive-date = March 5, 2020 |url-status = dead }}</ref><br />[[World Heritage Site]]
+| free_label = Newspaper
+| free = ''[[The Cavalier Daily]]''
+| coordinates = {{coord|38|02|08|N|78|30|12|W|region:US_type:edu|display=inline,title}}
+| colors = Orange and blue<ref name="colors">{{cite manual |title = Colors &#124; University of Virginia |url = https://brand.virginia.edu/brand-essentials/colors |date=October 17, 2017 |access-date=November 14, 2017 }}</ref><br />{{color box|#E57200}}&nbsp;{{color box|#232D4B}}
+| nickname = [[Virginia Cavaliers|Cavaliers]]<br />[[Wahoos]]
+| mascot = [[Cavalier]]
+| sporting_affiliations = [[NCAA Division I]] – [[Atlantic Coast Conference|ACC]]
+| website = {{url|virginia.edu}}
+| embedded = {{designation list | embed = yes
+   | designation1 = WHS
+   | designation1_offname = [[Monticello]] and the '''University of Virginia''' in Charlottesville
+   | designation1_type = Cultural
+   | designation1_criteria = i, iv, vi
+   | designation1_date = 1987 <small>(11th [[World Heritage Committee|session]])</small>
+   | designation1_number = [https://whc.unesco.org/en/list/442 442]
+   | designation1_free1name = Region
+   | designation1_free1value = [[List of World Heritage Sites in North America|Europe and North America]]
+}}
+| logo = [[File:University of Virginia Rotunda logo.svg|75px]]&nbsp;&nbsp;[[File:University of Virginia logo.svg|150px]]
+}}

@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Yangju}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|양주시}}}}
+| translit_lang1          = Korean 
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|양|주|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|楊|州|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Yangju-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Yangju-si
+| image_skyline           = [[File:Yangju City Hall.JPG|250px]]
+| imagesize               = 
+| image_caption           = 
+| image_map               = Gyeonggi-Yangju.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Seoul National Capital Area|Sudogwon]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| area_total_km2          = 310.1
+| population_as_of        = 2009 Dec
+| population_total        = 189,492
+| population_density_km2  = 611.1
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 4 ''myeon'', 6 ''dong''
+| image_flag              = Yangju logo.png
+| blank_emblem_type       = Emblem of Yangju
+}}

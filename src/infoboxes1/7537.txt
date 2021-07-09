@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                   = Holon
+| native_name            = {{Lang|he|{{Script/Hebrew|חוֹלוֹן}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] (from 1950)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Ḥolon
+| image_skyline          = HOLON.png
+| image_caption          = 
+| image_flag             = Flag of Holon Version3.svg
+| image_blank_emblem     = Holon COA.png
+| blank_emblem_type      = Coat of Arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 250
+| pushpin_label_position = right
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|01|N|34|46|E|region:IL|format=dms|display=it}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Tel Aviv District|name=Tel Aviv}}
+| established_title      = Founded
+| established_date       = 1936
+| leader_title           = Mayor
+| leader_name            = [[Moti Sasson]] ([[Israeli Labor Party|Labor]])
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:18927|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Holon}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = (Little) sand
+| website                = {{url|www.holon.muni.il}}
+}}

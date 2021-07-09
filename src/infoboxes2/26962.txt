@@ -1,0 +1,65 @@
+{{Infobox settlement
+| official_name            = Eliot, Maine
+| settlement_type          = [[New England town|Town]]
+<!-- Images -->
+| image_skyline            = Welcome_to_Eliot,_Maine,_Settled_1623,_clipper_Nightengale.jpg
+| image_caption            = Welcome to Historic Eliot sign on ME Rt. 103 in South Eliot
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+| motto                    =
+<!-- Maps -->
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Maine
+| pushpin_label            = Eliot
+<!-- Location -->
+| coordinates              = {{coord|43|8|8|N|70|47|37|W|region:US-ME|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Maine]]
+| subdivision_type2        = [[List of counties in Maine|County]]
+| subdivision_name2        = [[York County, Maine|York]]
+| established_title        = Incorporated
+| established_date         = 1810
+| government_type          = Town Meeting
+| government_footnotes     = 
+| leader_title             = Board of Selectmen
+| leader_name              = Robert Pomerleau(2018)<br>Rebecca Davis(2017)<br>Stephen Beckert  (2018)<br>John Murphy(2016)<br>Roland Fernald(2017)
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name ="Gazetteer files"/>
+| area_total_km2           = 55.22
+| area_total_sq_mi         = 21.32
+| area_land_km2            = 51.23
+| area_land_sq_mi          = 19.78
+| area_water_km2           = 3.99
+| area_water_sq_mi         = 1.54
+| elevation_footnotes      = 
+| elevation_m              = 6
+| elevation_ft             = 20
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 6204
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 6243
+| pop_est_as_of            = 2012<ref name="2012 Pop Estimate">{{cite web |title=Population Estimates |url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |publisher=[[United States Census Bureau]] |access-date=2013-07-06 |url-status=dead |archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |archive-date=2013-06-11 }}</ref>
+| population_density_km2   = 121.1
+| population_density_sq_mi = 313.7
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 03903
+| area_code                = [[Area code 207|207]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 23-22955
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0582464
+| website                  = {{URL|http://www.eliotmaine.org/}}
+| footnotes                = 
+}}

@@ -1,0 +1,24 @@
+{{Infobox Australian place | type = town
+| name     =  Wagin
+| state    =  wa
+| image    =  Wagin Town Hall.jpg
+| caption  =  Wagin Town Hall
+| lga      =  Shire of Wagin
+| coordinates = {{coord|33|19|00|S|117|21|00|E|display=inline,title}}
+| postcode =  6315
+| pop      =  1,824 | pop_year = {2018}
+| pop_footnotes = <ref>{{Census 2016 AUS | id = UCL515033| name = Wagin (Urban Centre/Locality) | quick = on | access-date = 30 October 2019}}</ref>
+| est      =  1890s
+| stategov =  [[Electoral district of Roe|Roe]]
+| fedgov   =  [[Division of O'Connor|O'Connor]]
+| dist1    =  228
+| location1=  [[Perth]]
+| dist2    =  50
+| location2=  [[Narrogin, Western Australia|Narrogin]]
+| dist3    =  53
+| location3=  [[Katanning, Western Australia|Katanning]]
+| maxtemp  =  22.8
+| mintemp  =  9.7
+| rainfall =  436.1
+| elevation = 303
+}}

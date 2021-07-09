@@ -1,0 +1,74 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for other parameters or usage-->
+<!-- Basic info ----------------->
+| official_name            = Douglasville, Georgia
+| native_name              = <!--if native name is not in English-->
+| other_name               = 
+| settlement_type          = [[City]]
+<!-- images and maps ------------>
+| image_skyline            = File:USA-Georgia-Douglasville County Courthouse.jpg
+| image_caption            = Douglas County Courthouse
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = "New Growth, Old Charm, Always Home"<ref>{{cite web|url= http://www.douglasvillega.gov/|title= City of Douglasville Georgia| publisher= City of Douglasville| access-date= September 6, 2012}}</ref>
+| image_map                = Douglas_County_Georgia_Incorporated_and_Unincorporated_areas_Douglasville_Highlighted.svg
+| mapsize                  = 250px
+| map_caption              = Location in [[Douglas County, Georgia|Douglas County]] and the state of [[Georgia (U.S. state)|Georgia]]
+| pushpin_map              = Metro Atlanta
+| pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label            = Douglasville
+| pushpin_map_caption      = Location of Douglasville in [[Metro Atlanta]]
+| coordinates              = {{coord|33|44|59|N|84|43|23|W|region:US-GA}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Georgia (U.S. state)|Georgia]]
+| subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+| subdivision_name2        = [[Douglas County, Georgia|Douglas]]
+| established_title        = <!-- Settled -->
+| established_date         = 
+| government_type          = 
+| government_footnotes     = 
+| leader_title             = Mayor
+| leader_name              = Rochelle Robinson
+| leader_title1            = City Manager
+| leader_name1             = Marcia Hampton
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_magnitude           = 1 E9
+| area_total_km2           = 58.70
+| area_land_km2            = 58.42
+| area_water_km2           = 0.28
+| area_water_percent       = 
+| elevation_footnotes      = 
+| elevation_m              = 366
+| elevation_ft             = 1201
+| population_footnotes     = <ref name="Census 2010"/>
+| population_total         = 30961
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 33992
+| pop_est_as_of            = 2019
+| population_density_km2   = 581.83
+<!--2018 pop estimate-->
+| population_density_sq_mi = 1506.94
+<!-- General information ---------------->
+| timezone                 = [[North American Eastern Time Zone|EST]]
+| utc_offset               = -5
+| timezone_DST             = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 30122, 30133-30135. 30154
+| area_code                = [[Area code 770|770]]/[[Area codes 678 and 470|678/470]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 13-23900<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0355535<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                  = {{URL|www.douglasvillega.gov}}
+|area_total_sq_mi = 22.66
+|area_land_sq_mi = 22.56
+|area_water_sq_mi = 0.11
+}}

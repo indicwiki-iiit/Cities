@@ -1,0 +1,24 @@
+{{Infobox UK place
+|country =                 England
+|type    =                 [[City status in the United Kingdom|City]] 
+|static_image_name=        Chapel Street, Salford.png
+|static_image_caption=     
+|london_distance=          {{convert|164|mi|km|0|abbr=on}}&nbsp;[[Boxing the compass|SE]]
+|coordinates = {{coord|53.4830|-2.2931|display=inline,title}}
+|official_name=            Salford
+|population =              103,886 
+|population_ref =          ([[United Kingdom Census 2011|2011&nbsp;Census]])<ref name ="Salford">{{NOMIS2011|id=11119884030|title=Salford|fewer-links=y|access-date=23 March 2018}}</ref>
+|population_density=       {{convert|8981|/sqmi|/km2|abbr=on}}
+|population_demonym=       Salfordian
+|metropolitan_borough=     [[City of Salford]]
+|metropolitan_county=      [[Greater Manchester]]
+|region=                   North West England
+|constituency_westminster= [[Salford and Eccles (UK Parliament constituency)|Salford and Eccles]]
+|historic_county = Lancashire
+|post_town=                SALFORD
+|postcode_district =       M3, M5–M7, M50
+|postcode_area=            M
+|dial_code=                0161
+|os_grid_reference=        SJ805985
+|area_total_sq_mi=         8.1
+}}

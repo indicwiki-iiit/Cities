@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Ivins, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Ivins UT.JPG
+|image_caption            = Looking north along South 200 West in Ivins, May 2013
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Washington County Utah incorporated and unincorporated areas Ivins highlighted.svg
+|map_caption              = Location in [[Washington County, UT|Washington County]] and the state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Washington County, Utah|Washington]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Incorporated town|Incorporated]]
+|established_date         = 1935
+|established_title1       = Became a city
+|established_date1        = January 1, 1998
+|named_for                = [[Anthony W. Ivins]]
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 24.56
+|area_land_km2            = 24.43
+|area_water_km2           = 0.13
+|area_total_sq_mi         = 9.48
+|area_land_sq_mi          = 9.43
+|area_water_sq_mi         = 0.05
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6753
+|population_density_km2   = 376.21
+|population_density_sq_mi = 974.35
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = 
+|elevation_m              = 939
+|elevation_ft             = 3081
+|coordinates              = {{coord|37|10|3|N|113|40|51|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84738
+|area_code                = [[Area code 435|435]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-38710<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1429067<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = http://www.ivins.com/
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 9192
+}}

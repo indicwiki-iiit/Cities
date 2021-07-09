@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|name                   = Grootfontein
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town
+|motto                  = Fons Vitæ
+<!-- images and maps  ----------->
+|image_skyline          = Grootfontein grass.jpg
+|imagesize              = 300px
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = Grootfontein COA.svg
+|shield_size            = 200px
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Namibia <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Namibia
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Namibia}}
+|subdivision_type1      = [[Regions of Namibia|Region]]
+|subdivision_name1      = [[Otjozondjupa Region]]
+|subdivision_type2      = [[Constituencies of Namibia|Constituency]]
+|subdivision_name2      = [[Grootfontein constituency]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Haimene<ref>{{cite news
+|url=http://www.namibian.com.na/indexx.php?id=7078&page_type=story_detail&category_id=1
+|title=Four towns re-elect mayors
+|date=9 December 2013
+|work=[[The Namibian]]
+|publisher=[[NAMPA]]}}</ref>
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  Established<!-- Settled -->
+|established_date       = 1885
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+<!-- Population   ----------------------->
+|population_as_of               = 2011
+|population_footnotes           = <ref name=nsa>{{cite web | title=Table 4.2.2 Urban population by Census years (2001 and 2011) | url=http://cms.my.na/assets/documents/p19dmn58guram30ttun89rdrp1.pdf | work=Namibia 2011 - Population and Housing Census Main Report | publisher=Namibia Statistics Agency | access-date=24 August 2016 | page=39}}</ref>
+|population_note                =
+|population_total               = 23793
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+| timezone                = [[South African Standard Time|SAST]]
+| utc_offset              = +2
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|19|34|S|18|7|E|region:NA|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|blank_name_sec1        = [[Köppen climate classification|Climate]]
+|blank_info_sec1        = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 067
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = http://www.grootfonteinmun.com.na/
+|footnotes              = 
+}}

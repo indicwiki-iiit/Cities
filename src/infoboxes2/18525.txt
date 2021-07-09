@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of usage-->
+|official_name            = City of Benicia
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City]]
+|motto                    = "It's better in Benicia!"
+<!-- images and maps  ----------->
+|image_skyline            = Benicia Capitol.jpg
+|imagesize                = 
+|image_caption            = California's [[Benicia Capitol State Historic Park|third capitol]] at Benicia. The [[California State Senate|Senate]] chambers on first floor, and the [[California State Assembly|Assembly]] chambers above.
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = File:Solano County California Incorporated and Unincorporated areas Benicia Highlighted 0605290.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Benicia in Solano County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Solano County, California|Solano]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Steve Young<ref>{{Cite web
+ | url = https://www.ci.benicia.ca.us/citycouncil#628B0680-462B-4586-9E23-F936796F1F19
+ | title = City Council
+ | publisher = City of Benicia
+ | access-date = September 20, 2014}}</ref>
+|leader_title1            = [[California's 3rd State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = December 5, 2014
+ }}</ref>
+|leader_title2            = [[California's 14th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|14|fmt=sleader}}<ref name=swd/>
+|leader_title3            = [[California's 5th congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|5|fmt=usleader}}<ref>{{Cite GovTrack|CA|5}}</ref>
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = March 27, 1850<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 14.15
+| area_land_sq_mi         = 12.86
+| area_water_sq_mi        = 1.29
+| area_total_km2          = 36.65
+| area_land_km2           = 33.32
+| area_water_km2          = 3.33
+| area_water_percent      = 17.75
+| area_note               = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277472|Benicia|access-date=October 20, 2014}}</ref>
+|elevation_ft             = 26
+|elevation_m              = 8
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0605290.html|title=Benicia (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 15, 2015|archive-url=https://web.archive.org/web/20150323004202/http://quickfacts.census.gov/qfd/states/06/0605290.html|archive-date=March 23, 2015|url-status=dead}}</ref>
+|population_total         = 26997
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 28240
+|population_density_sq_mi = 2195.44
+|population_metro         = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|coordinates              = {{coord|38|3|48|N|122|9|22|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 94510
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|05290}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|0277472}}, {{GNIS 4|2409833}}
+|website                  = {{URL|www.ci.benicia.ca.us}}
+|population_density_km2 = 847.63
+}}

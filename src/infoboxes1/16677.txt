@@ -1,0 +1,80 @@
+{{Infobox settlement
+| name                            = Glendora, California
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Glendora_Village.jpg
+| image_caption                   = Glendora Village with its famous Ficus trees
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Seal_glendora_ca.png
+| nickname                        = 
+| motto                           = Pride of the Foothills
+| image_map                       = File:Los Angeles County California Incorporated and Unincorporated areas Glendora Highlighted 0630014.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Glendora in Los Angeles County, California.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|34|8|10|N|117|51|55|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = November 13, 1911<ref>{{cite web | url = http://www.ci.glendora.ca.us/departments-services/library/about-us/history-of-glendora/incorporation |  title = History of Glendora - Incorporation 1911-1950 | access-date = 2014-08-14}}</ref>
+| named_for                       = Leadora Bennett Whitcomb
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Karen K. Davis
+| leader_title1                   = [[Mayor Pro Tem]]
+| leader_name1                    = Gary Boyer
+| leader_title2                   = [[Councilmember]]
+| leader_name2                    = David Fredendall <br/> Michael Allawos <br/> Mendell Thompson
+
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 50.92
+| area_total_sq_mi                = 19.66
+| area_land_km2                   = 50.52
+| area_land_sq_mi                 = 19.51
+| area_water_km2                  = 0.40
+| area_water_sq_mi                = 0.15
+| area_water_percent              = 0.84
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1652713|Glendora|access-date = October 10, 2014}}</ref>
+| elevation_m                     = 236
+<!-- Population------------>
+| elevation_ft                    = 774
+| population_total                = 50073
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/table/PST045215/0630014|title=Glendora (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 19, 2015}}</ref>
+| population_density_sq_mi        = 2642.20
+| population_est                  = 51544
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 91740 and 91741<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Glendora | title = USPS – ZIP Code Lookup – Find a ZIP+ 4 Code By City Results | access-date = 2007-01-19}}</ref>
+| area_code                       = [[Area code 626|626]], [[Area code 909|909]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Glendora | title = Number Administration System – NPA and City/Town Search Results | access-date = 2007-01-19 | archive-url = https://web.archive.org/web/20070926212140/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Glendora | archive-date = September 26, 2007 | url-status = dead | df = mdy-all }}</ref>
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| website                         = {{URL|www.ci.glendora.ca.us}}
+| footnotes                       = 
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = −8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = −7
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|30014}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS 4|1652713}}
+| population_density_km2          = 1020.18
+| official_name                   = 
+}}

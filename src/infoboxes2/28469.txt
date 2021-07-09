@@ -1,0 +1,25 @@
+{{Infobox Australian place | type = town 
+| name     =  Narrogin
+| state    =  wa
+| image    =  Narrogin gnangarra 02.JPG
+| caption  =  Soldier memorial institute
+| lga      =  Shire of Narrogin
+| coordinates = {{coord|32.936|S|117.178|E|display=inline,title}}
+|pushpin_label_position = right
+| postcode =  6312
+| pop      =  4,274 | pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref>{{Census 2016 AUS | id =UCL515026 | name = Narrogin (Urban Centre/Locality) | quick = on | accessdate = 29 October 2019}}</ref>
+| est      =  1890s
+| stategov =  [[Electoral district of Roe|Roe]]
+| fedgov   =  [[Division of O'Connor|O'Connor]]
+| dist1    =  192 
+| location1=  [[Perth, Western Australia|Perth]]
+| dist2    =  50  
+| location2=  [[Wagin, Western Australia|Wagin]]
+| dist3    =  103  
+| location3=  [[Katanning, Western Australia|Katanning]]
+| maxtemp  =  22.4
+| mintemp  =  9.8
+| rainfall =  499.6
+| elevation=  192
+}}

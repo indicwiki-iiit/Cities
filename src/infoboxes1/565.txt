@@ -1,0 +1,62 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                     = Dimbokro
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = Town, [[sub-prefectures of Ivory Coast|sub-prefecture]], and [[Communes of Ivory Coast|commune]]
+| image_skyline            = Pont Colonial créé depuis 1910.JPG
+| image_caption            = Railway bridge at Dimbokro
+| nickname                 = 
+| motto                    =
+<!-- images and maps  ----------->
+| pushpin_map              = Ivory Coast<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = bottom
+| pushpin_mapsize          = 300
+| pushpin_map_caption      = Location in Ivory Coast
+<!-- Location ------------------>
+| coordinates              = {{coord|6|39|N|4|42|W|region:CI|display=inline,title}}
+| coordinates_footnotes    = <ref>{{cite web |url=http://www.sphereinfo.com/longitude~latitude/ivory_coast |title=Ivory Coast Cities Longitude & Latitude |publisher=sphereinfo.com |accessdate=19 November 2010 |archive-url=https://web.archive.org/web/20120913021146/http://www.sphereinfo.com/longitude~latitude/ivory_coast |archive-date=13 September 2012 |url-status=dead }}</ref>
+| subdivision_type         = Country
+| subdivision_name         = {{flag|Ivory Coast}}
+| subdivision_type1        = [[Districts of Ivory Coast|District]]
+| subdivision_name1        = [[Lacs District|Lacs]]
+| subdivision_type2        = [[Regions of Ivory Coast|Region]]
+| subdivision_name2        = [[N'Zi Region|N'Zi]]
+| subdivision_type3        = [[Departments of Ivory Coast|Department]]
+| subdivision_name3        = [[Dimbokro Department|Dimbokro]]
+<!-- Politics ----------------->
+| established_title        = <!-- Settled -->
+| established_date         = 
+| government_type          =
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| leader_title1            = for places with, say, both a mayor and a city manager
+| leader_name1             =
+<!-- Area    --------------------->
+| unit_pref                = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes           = 
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              = 
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_footnotes     = <ref name=geohive>{{cite web|title=Côte d'Ivoire |url=http://www.geohive.com/cntry/coteivoire_ext.aspx |website=geohive.com |accessdate=5 December 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20151124030037/http://www.geohive.com/cntry/coteivoire_ext.aspx |archivedate=24 November 2015 }}</ref>
+| population_total         = 64,957
+| population_as_of         = 2014
+| population_density_km2   = 
+| population_density_sq_mi = 
+| population_note          =
+<!-- General information  --------------->
+| timezone                 = [[GMT]]
+| utc_offset               = +0
+| timezone_DST             = 
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              = 
+| area_code                = 
+| website                  = 
+}}

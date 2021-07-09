@@ -1,0 +1,90 @@
+{{Infobox settlement
+|name                     = Little Ferry, New Jersey
+|official_name            = Borough of Little Ferry
+|settlement_type          = [[Borough (New Jersey)|Borough]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Winant Avenue Bridge 20070720.jpg
+|imagesize                = 250x200px
+|image_caption            = [[Winant Avenue Bridge]]
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Bergen_County_New_Jersey_Incorporated_and_Unincorporated_areas_Little_Ferry_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Map highlighting Little Ferry's location within Bergen County. Inset: Bergen County's location within New Jersey
+|image_map1               = Census_Bureau_map_of_Little_Ferry,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of Little Ferry, New Jersey
+|pushpin_map              = USA New Jersey Bergen County#USA New Jersey#USA
+|pushpin_label            = Little Ferry
+|pushpin_map_caption      = Location in Bergen County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_name2        = {{flagicon image|Flag_of_Bergen_County,_New_Jersey.gif}} [[Bergen County, New Jersey|Bergen]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Borough (New Jersey)|Borough]]
+|governing_body           = Borough Council
+|leader_title             = [[Mayor]]
+|leader_name              = Mauro D. Raguseo ([[Democratic Party (United States)|D]], term ends December 31, 2023)<ref name=Officials/><ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020.</ref>
+|leader_title1            = [[City manager|Administrator]]
+|leader_name1             = Paula Cozzarelli<ref>[http://www.littleferrynj.org/content/121/133/default.aspx Administration], Borough of Little Ferry. Accessed May 6, 2020.</ref>
+|leader_title2            = [[Municipal clerk]]
+|leader_name2             = Barbara Maldonado<ref>[http://www.littleferrynj.org/content/121/135/default.aspx Borough Clerk], Borough of Little Ferry. Accessed May 6, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = September 18, 1894
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           =  4.32
+|area_land_km2            =  3.83
+|area_water_km2           =  0.50
+|area_total_sq_mi         =  1.67
+|area_land_sq_mi          =  1.48
+|area_water_sq_mi         =  0.19
+|area_water_percent       = 11.44
+|area_rank                = 433rd of 565 in state<br>55th of 70 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3400340680 DP-1 - Profile of General Population and Housing Characteristics: 2010 for Little Ferry borough, Bergen County, New Jersey] {{Webarchive|url=https://archive.today/20200212112828/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3400340680 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed December 17, 2011.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_ber/littleferry1.pdf Table DP-1. Profile of General Demographic Characteristics: 2010 for Little Ferry borough] {{Webarchive|url=https://web.archive.org/web/20130731191847/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_ber/littleferry1.pdf |date=2013-07-31 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed December 17, 2011.</ref>
+|population_total         = 10626 
+|population_rank          = 230th of 566 in state<br>34th of 70 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=2020-02-12 }}, [[United States Census Bureau]]. Accessed August 5, 2013.</ref>
+|population_density_km2   = 2780.0
+|population_density_sq_mi = 7200.1
+|population_density_rank  = 57th of 566 in state<br>17th of 70 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 10739
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Gnis|885281|Borough of Little Ferry}}, [[Geographic Names Information System]]. Accessed March 7, 2013.</ref>
+|elevation_m              = 
+|elevation_ft             = 3
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.843431|-74.034239|region:US-NJ_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 07643<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=little%20ferry&state=NJ Look Up a ZIP Code for Little Ferry, NJ], [[United States Postal Service]]. Accessed December 17, 2011.</ref><ref>[http://www.state.nj.us/infobank/njzips.htm Zip Codes], State of [[New Jersey]]. Accessed August 28, 2013.</ref>
+|area_code                = [[Area codes 201 and 551|201]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCity=Little+Ferry Area Code Lookup - NPA NXX for Little Ferry, NJ], Area-Codes.com. Accessed August 28, 2013.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3400340680<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed September 1, 2019.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0885281<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.littleferrynj.org}}
+|footnotes                =
+}}

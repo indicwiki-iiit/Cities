@@ -1,0 +1,74 @@
+{{Infobox settlement
+| official_name                   = Greer, South Carolina
+| settlement_type                 = City
+| nickname                        = 
+| motto                           = "A Great Place to Live, Work, and Play"
+
+<!-- Images -->| image_skyline                   = Greer_2.jpg
+| imagesize                       = 250px
+| image_caption                   = Downtown Greer
+| image_flag                      = 
+| image_blank_emblem              = City of Greer logo.jpg
+
+<!-- Maps -->| image_map                       = SCMap-doton-Greer.PNG
+| mapsize                         = 250px
+| map_caption                     = Location of Greer, South Carolina
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[South Carolina]]
+| subdivision_type2               = [[List of counties in South Carolina|Counties]]
+| subdivision_name2               = [[Greenville County, South Carolina|Greenville]]
+
+<!-- Government -->| government_footnotes            = 
+| government_type                 = Council (weak mayor)
+| leader_title                    = Mayor
+| leader_name                     = Rick Danner
+| leader_title1                   = City Administrator
+| leader_name1                    = Andy Merriman
+| leader_title2                   = Number of City Council members
+| leader_name2                    = 6
+| established_title               = Founded
+| established_date                = 1876
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 66.10
+| area_land_km2                   = 60.63
+| area_water_km2                  = 5.47
+| area_total_sq_mi                = 25.52
+| area_land_sq_mi                 = 23.41
+| area_water_sq_mi                = 2.11
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 25515
+| pop_est_as_of                   = 2019
+| population_est                  = 33373
+| population_density_km2          = 550.44
+<!--for 2018 pop est.-->| population_density_sq_mi        = 1425.65
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 312
+| elevation_ft                    = 1024
+| coordinates                     = {{coord|34|55|49|N|82|13|30|W|region:US-SC_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 29650-29652
+| area_code                       = [[Area code 864|864]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 45-30985<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website |df=mdy-all }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1245847<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = {{URL|www.cityofgreer.org}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| name                            = 
+}}

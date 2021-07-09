@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Yazd
+| native_name                     = {{lang|fa|یزد}}
+| settlement_type                 = City
+| other_name                      =
+| image_skyline                   = {{Photomontage
+                              | photo3a = مسجد جامع یزد، محسن سالاری.jpg
+                              | photo2a = Zoroastrian Fire Temple (8906007289).jpg
+                              | photo2b = نمایی از حوض باغ دولت آباد.jpg
+                              | photo1a = Iran - Yazd - Amir Chakmaq Complex.jpg
+                              | photo3b = Yazd-Mohsen salari- 20.jpg
+                              | photo4b = Tomb of Seyed Roknildin -Negin Mohamadi Fard.jpg
+                              | photo4a = Malekzadeh House (Yazd Art House) 02.jpg
+                              | spacing = 2
+                              | size = 266
+                              | foot_montage = Top to bottom, left to right: Jame Mosque Rotunda, Zoroastrian Fire Temple, Dowlatabad Garden, Markar Squire, Jame Yazd Mosque, Tomb of Seyyed Ruknaldin, Malekzadeh House.
+                             }}
+| image_caption                   =
+| image_seal                      =  Yazd government logo.svg
+| image_shield                    =
+| nickname                        =
+| motto                           = <!-- images and maps  ----------->
+| image_map                       =
+| map_caption                     =
+| pushpin_map                     = Iran
+| pushpin_label_position          =
+| pushpin_map_caption             = <!-- Location ------------------>
+| coordinates                     = {{coord|31|53|50|N|54|22|4|E|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{IRN}}
+| subdivision_type1               = [[Provinces of Iran|Province]]
+| subdivision_type2               = [[Counties of Iran|County]]
+| subdivision_type3               = [[Bakhsh]]
+| subdivision_name1               = [[Yazd Province|Yazd]]
+| subdivision_name2               = [[Yazd County|Yazd]]
+| subdivision_name3               = [[Central District (Yazd County)|Central]]
+| established_title               = <!-- Settled -->
+| established_date                =
+| government_footnotes            =
+| government_type                 = <!-- Politics ----------------->
+| leader_title                    = [[List of mayors of Yazd|Mayor]]
+| leader_name                     = [[Mehdi Jamalinejad]]<ref name="auto">{{cite web |url= http://yazd.ir/شهردار-یزد|language=fa |title=  شهـردار يــزد |trans-title= Mayor |publisher=Municipality of Yazd |access-date= 18 February 2017 }}</ref>
+| leader_title1                   = City Council Chairman
+| leader_name1                    = Gholam Ali Sefid
+<!-- Area    --------------------->| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  =
+| area_total_km2                  =
+| area_land_km2                   =
+| area_water_km2                  =
+| area_water_percent              =
+| elevation_footnotes             =
+| elevation_m                     = 1216
+<!-- Population   ----------------------->| population_urban                = 529,673 <ref>https://www.amar.org.ir/english</ref>
+| population_metro                =
+| population_as_of                = 2016 Census
+| population_est                  =
+| population_est_as_of            =
+| population_footnotes            =
+| population_density_km2          = auto
+| population_demonym              = Yazdi&nbsp;([[English language|en]])
+<!-- General information  --------------->| population_note                 =
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     =
+| area_code                       = 035
+| website                         = {{URL|https://yazd.ir/}}
+| timezone                        = [[Iran Standard Time|IRST]]
+| utc_offset                      = +3:30
+| timezone_DST                    = [[Iran Daylight Time|IRDT]]
+| utc_offset_DST                  = +4:30
+<!-- Area/postal codes & others -------->| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Desert climate#Hot desert climates|BWh]]
+| footnotes                       = {{designation list | embed=yes
+  | designation1 = WHS
+  | designation1_offname = Historic City of Yazd
+  | designation1_date = 2017 <small>(41st [[World Heritage Committee|session]])</small>
+  | designation1_type =  Cultural
+  | designation1_criteria = iii, v
+  | designation1_number = [https://whc.unesco.org/en/list/1544 1544]
+  | designation1_free1name = State Party
+  | designation1_free1value = Iran
+  | designation1_free2name = Region
+  | designation1_free2value = [[List of World Heritage Sites in Asia and Australasia|Asia and the Pacific]]
+  }}
+| name                            =
+}}

@@ -1,0 +1,83 @@
+{{Infobox settlement
+|official_name            = Rhinebeck, New York
+|settlement_type          = [[Village (United States)|Village]]
+|image_skyline            = Beekman Arms Oldest Inn Rhinebeck 2007 02.jpg
+|imagesize                = 
+|image_caption            = [[Beekman Arms Inn]], the oldest continually operating inn in America.
+|image_seal               = Seal of the Village of Rhinebeck, New York.jpg
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+|image_map                = Dutchess County New York incorporated areas Village of Rhinebeck highlighted.svg
+|mapsize                  = 220px
+|map_caption              = Location of Rhinebeck, New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Dutchess County, New York|Dutchess]]
+|subdivision_type3        = [[Town (New York)|Town]]
+|subdivision_name3        = [[Rhinebeck (town), New York|Rhinebeck]]
+|government_footnotes     = 
+|government_type          = [[Board of Trustees]]
+|leader_title             = Mayor
+|leader_name              = Gary Bassett ([[United States Democratic Party|D]])
+| leader_title1           = [[Trustee]]
+| leader_name1            = {{Collapsible list
+ |title       = Members' List
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Richard Lewit ([[United States Democratic Party|D]])
+ |2           = • Howard Traudt ([[Republican Party (United States)|R]])
+ |3           = • Brant Neuneker (D)
+ |4           = • Open Seat 
+ }}
+|established_title        = Incorporated
+|established_date         = 1834
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 3.95
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 1.53
+|area_land_sq_mi          = 1.51
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2657
+|population_density_km2   = 657.17
+|population_density_sq_mi = 1701.86
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 61
+|elevation_ft             = 200
+|coordinates              = {{coord|41|55|39|N|73|54|32|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12572
+|area_code                = [[Area code 845|845]] Exchanges: 871,876
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-61346
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0962436
+|website                  = {{url|www.rhinebecknyvillage.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 2563
+|area_total_km2 = 3.95
+|area_land_km2 = 3.90
+}}

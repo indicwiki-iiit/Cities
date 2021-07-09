@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                     = Palm Coast, Florida
+| official_name            = 
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[City]]
+<!-- images and maps ------------>
+| image_skyline            = Princessplace.jpg
+| imagesize                = 250x200px
+| image_caption            = Princess Place Preserve
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = Flagler_County_Florida_Incorporated_and_Unincorporated_areas_Palm_Coast_Highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location in [[Flagler County, Florida|Flagler County]] and the state of [[Florida]]
+| pushpin_map              = USA
+<!-- Location ------------------>
+| coordinates              = {{coord|29|32|17|N|81|13|24|W|region:US-FL|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{flag|United States}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|Florida}}
+| subdivision_type2        = [[List of counties in Florida|County]]
+| subdivision_name2        = {{noflag|[[Flagler County, Florida|Flagler]]}}
+| established_title        = Developed
+| established_date         = 1969
+| established_title3       = Incorporated (city)
+| established_date3        = 31 December 1999
+| government_type          = [[Council-Manager]]
+| leader_title             = Mayor
+| leader_name              = Eddie Branquinho (interim)<ref>{{Cite web|date=18 May 2021|title=Milissa Holland Resigns, Adding to Palm Coast Council’s Convulsions and Uncertain Future; Special Election Will Be Set|url=https://flaglerlive.com/163499/milissa-holland-resigns/|url-status=live|access-date=20 May 2021|website=FlaglerLive.com}}</ref>
+| leader_title1            = City Manager
+| leader_name1             = Matthew Morton
+<!-- Area ------------------------>
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2           = 249.32
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 96.26
+| area_land_km2            = 246.20
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 95.06
+| area_water_km2           = 3.12
+| area_water_sq_mi         = 1.20
+| elevation_footnotes      = <ref>Elevation at coordinates given in {{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US1254200| title=Geographic Identifiers: 2010 Census Summary File 1 (G001), Palm Coast city, Florida| publisher=U.S. Census Bureau| work=American FactFinder| access-date=April 25, 2016| archive-url=https://archive.today/20200213041347/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/G001/1600000US1254200| archive-date=February 13, 2020| url-status=dead}}</ref>
+| elevation_m              = 
+| elevation_ft             = 31
+<!-- Population   ----------------------->
+| population_footnotes     = <ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2014-09-11}}</ref>
+| population_total         = 75180
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 89800
+| pop_est_as_of            = 2019
+| population_density_km2   = 364.74
+<!--For 2014 pop estimate-->
+| population_density_sq_mi = 944.68
+| population_urban         = 349064 (US: [[List of United States urban areas|109th]])
+| population_metro         = 99956
+<!-- General information ---------------->
+| timezone                 = Eastern (EST)
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type         = ZIP code
+| postal_code              = 32135, 32137, 32142, 32164
+| area_code                = 386
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 12-54200<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0295049<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                  = {{URL|www.palmcoastgov.com}}
+}}

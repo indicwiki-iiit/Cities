@@ -1,0 +1,35 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Mount Eliza
+| city     = Melbourne
+| state    = vic
+| image    = 
+| caption  = 
+| lga      = Shire of Mornington Peninsula
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|38.189|S|145.092|E|display=inline,title}}
+| pushpin_map_caption = Location in metropolitan Melbourne
+| postcode = 3930
+| pop      = 17888
+| pop_year = 2016
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS|id=SSC21781|name=Mount Eliza (State Suburb)|accessdate=27 June 2017|quick=on}}</ref>
+| area     = 23
+| timezone = [[Australian Eastern Standard Time|AEST]]
+| utc      = +10
+| est      =  1836
+| stategov = [[Electoral district of Mornington|Mornington]]
+| fedgov   = [[Division of Dunkley|Dunkley]]
+| fedgov2  = [[Division of Flinders|Flinders]]
+| dist1    = 50
+| location1= [[Melbourne city centre]]
+| dist2    = 7
+| location2= [[Frankston, Victoria|Frankston]]
+| near-nw  = 
+| near-n   = 
+| near-ne  = [[Frankston South, Victoria|Frankston South]]
+| near-w   = 
+| near-e   = [[Baxter, Victoria|Baxter]]
+| near-sw  = [[Mornington, Victoria|Mornington]]
+| near-s   = [[Mornington, Victoria|Mornington]]
+| near-se  = [[Moorooduc, Victoria|Moorooduc]]
+}}

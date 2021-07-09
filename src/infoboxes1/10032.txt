@@ -1,0 +1,37 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Manisa
+| settlement_type                 = [[Metropolitan municipalities in Turkey|Metropolitan municipality]]
+| image_skyline                   = Ulu Cami önünden Manisa'nın görünüşü 2010.jpg
+| image_caption                   = Manisa's view from the Ulu Mosque
+| image_shield                    = 
+| pushpin_map                     = Turkey #Europe
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|38|37|50|N|27|25|20|E|format=dms|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{TUR}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Manisa Province|Manisa]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| timezone                        = [[Time in Turkey|TRT]]
+| utc_offset                      = +3
+| leader_party                    = [[Nationalist Movement Party|MHP]]
+| leader_title                    = Mayor
+| leader_name                     = Cengiz Ergün
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = 13339
+| elevation_m                     = 71
+| population_footnotes            = 
+| population_urban                = 
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Manisa|Manisa|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL|www.manisa.bel.tr}}
+| official_name                   = 
+| image_blank_emblem              = Manisa city emblem.png
+| blank_emblem_type               = Emblem of Manisa Metropolitan Municipality
+}}

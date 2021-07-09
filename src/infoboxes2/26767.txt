@@ -1,0 +1,34 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Lysterfield
+| city     = Melbourne
+| state    = vic
+| image    =
+| caption  =
+| lga      = City of Knox
+| lga2     = Shire of Yarra Ranges
+| alternative_location_map = Australia Victoria metropolitan Melbourne
+| coordinates = {{coord|37.930|S|145.301|E|display=inline,title}}
+| postcode = 3156
+| pop      = 6663
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS | id = SSC21548 | name = Lysterfield (State Suburb) | accessdate = 31 July 2017  | quick = on}}</ref>
+| area     = 2.1
+| est      =
+| stategov = [[Electoral district of Monbulk|Monbulk]]
+| stategov2 = [[Electoral district of Rowville|Rowville]]
+| fedgov = [[Division of Aston|Aston]]
+| fedgov2 = [[Division of Casey|Casey]]
+| dist1    = 32
+| location1= [[Melbourne city centre|Melbourne]]
+| dist2    = 10
+| location2= [[Dandenong, Victoria|Dandenong]]
+| near-nw  = [[Ferntree Gully, Victoria|Ferntree Gully]]
+| near-n   = [[Upper Ferntree Gully, Victoria|Upper Ferntree Gully]]
+| near-ne  = [[Upwey, Victoria|Upwey]]
+| near-w   = [[Rowville, Victoria|Rowville]]
+| near-e   = [[Belgrave South, Victoria|Belgrave South]]
+| near-sw  = [[Lysterfield South, Victoria|Lysterfield South]]
+| near-s   = [[Narre Warren North, Victoria|Narre Warren North]]
+| near-se  = [[Narre Warren East, Victoria|Narre Warren East]]
+}}

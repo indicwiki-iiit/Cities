@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Westbrook, Maine
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Westbrook,_Maine_sign_and_gazebo.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Seal of Westbrook, Maine.jpg
+
+<!-- Maps -->
+|image_map                = Cumberland County Maine incorporated and unincorporated areas Westbrook highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Cumberland County, Maine|Cumberland County]] and the state of [[Maine]].
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = [[United States of America|United States]]
+|subdivision_type1 = State
+|subdivision_name1        = [[Maine]]
+|subdivision_type2        = [[List of counties in Maine|County]]
+|subdivision_name2        = [[Cumberland County, Maine|Cumberland]]
+|government_footnotes     = 
+|government_type          = Strong Mayor
+|leader_title             = Mayor
+|leader_name              = Michael T. Foley
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = 1814
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_23.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 44.96
+|area_land_km2            = 44.52
+|area_water_km2           = 0.44
+|area_total_sq_mi         = 17.36
+|area_land_sq_mi          = 17.19
+|area_water_sq_mi         = 0.17
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 19074
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 17494
+|population_density_km2   = 428.44
+|population_density_sq_mi = 1109.66
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|elevation_footnotes      = 
+|elevation_m              = 23
+|elevation_ft             = 75
+|coordinates              = {{coord|43|41|7|N|70|21|26|W|region:US-ME_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 04092, 04098
+|area_code                = [[Area code 207|207]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 23-82105
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0578237
+|website                  = [http://www.westbrookmaine.com/ www.westbrookmaine.com]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

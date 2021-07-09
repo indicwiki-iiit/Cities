@@ -1,0 +1,58 @@
+{{Infobox settlement
+| name                    =  Hradec Králové
+| native_name             = 
+| other_name              = 
+| settlement_type         = [[Statutory city (Czech Republic)|Statutory city]]
+<!-- images, nickname, motto -->
+| image_skyline           = Hradec Králové (Königgrätz) - Velké náměstí.jpg
+| image_caption           = Market square
+| image_flag              = Flag of Hradec Kralove.svg
+| image_shield            = Hradec_Kralove_CoA_CZ.svg
+| nickname                = The Salon of the Republic
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Hradec Králové Region|Hradec Králové]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Hradec Králové District|Hradec Králové]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|50|12|33|N|15|49|56|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Alexandr Hrabálek
+<!-- established -->
+| established_title       = Founded
+| established_date        = 1225
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 105.69
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 235
+<!-- population -->
+| population_as_of        = 2021-01-01
+| population_footnotes    = <ref>{{cite web |title=Population of Municipalities – 1 January 2021|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2021|publisher=[[Czech Statistical Office]]|date=2021-04-30}}</ref>
+| population_total        = 92683
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 500 XX, 503 XX
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|https://www.hradeckralove.org/}}
+| footnotes               = 
+}}

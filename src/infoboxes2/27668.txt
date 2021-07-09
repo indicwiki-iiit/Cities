@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+|name                     = Aptos
+|settlement_type          = [[Unincorporated community]]<br>[[Census designated place]]
+|other_name               = 
+|nickname                 = 
+<!-- Images and maps ------>
+|image_skyline            = Seacliff at sunset.jpg
+|image_caption            = Sunset at [[Seacliff State Beach]] in Aptos, California.
+|image_map                = Santa_Cruz_County_California_Incorporated_and_Unincorporated_areas_Aptos_Highlighted.svg
+|map_caption              = Location in [[Santa Cruz County, California|Santa Cruz County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------->
+|coordinates              = {{coord|36|58|53|N|121|54|27|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+<!-- History -------------->
+|established_title        = [[Rancho Aptos]]
+|established_date         = 1833
+<!-- Area ----------------->
+|total_type               = [[Census designated place|CDP]]
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=[[United States Census Bureau]]|access-date=Jul 19, 2017}}</ref>
+|area_total_sq_mi         = 6.43
+|area_total_km2           = 16.66
+|area_land_sq_mi          = 6.43
+|area_land_km2            = 16.66
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0
+|area_metro_sq_mi         = 
+|area_metro_km2           = 
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1657939|Aptos|access-date=January 4, 2015}}</ref>
+|elevation_ft             = 108
+|elevation_m              = 33
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=aptos>{{cite web
+ | url = https://www.census.gov/quickfacts/fact/table/aptoscdpcalifornia/PST045216
+ | title = Aptos CDP QuickFacts
+ | publisher = US Census Bureau
+ | access-date = July 19, 2017}}</ref>
+|population_total         = 6220
+|population_density_sq_mi = NaN
+|population_urban_footnotes = <ref name=chamber/>
+|population_urban         = 21000
+|population_metro         = 
+|population_density_metro_sq_mi = 
+<!-- Time zone ------------>
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95001, 95003
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 831|831]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|02378}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1657939}}, {{GNIS 4|2407750}}
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|access-date=June 9, 2017}}</ref>
+|population_est = N/A
+|population_density_km2 = NaN
+}}

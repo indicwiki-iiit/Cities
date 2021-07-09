@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Manthali
+|other_name             =
+|native_name            = मन्थली 
+|nickname               =
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          =
+|image_caption          =
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Ramechhap District]]
+|<!-- Politics -->
+|government_footnotes   =
+|government_type         =  [[Mayor–council government|Mayor–council]]
+|governing_body          = 
+|leader_title      = [[Mayor]]
+|leader_name       = Mr. Ramesh Basnet 
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Mrs. Maya Karki
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                = 
+|area_footnotes           =
+|area_total_km2           = 100.7 
+<!-- Population   -->
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 45,416
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|27.38|86.07|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = [http://www.manthalimun.gov.np www.manthalimun.gov.np]
+|footnotes              = Sources: MuAN<ref>{{cite web|title= Municipal Association of Nepal (MuAN)|url= http://www.muannepal.org.np/profiles.html|access-date= 2018-05-27|archive-url= https://web.archive.org/web/20140107011819/http://www.muannepal.org.np/profiles.html|archive-date= 2014-01-07|url-status= dead}}</ref>
+}}

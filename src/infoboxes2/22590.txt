@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|image_shield = Coa_Hungary_Town_Gyomaendrőd.svg
+|image_flag = Flag of Gyomaendrőd.svg
+|image_skyline = Gyoma járási hivatal.JPG
+|image_caption = Town hall
+|settlement_type = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name = {{HUN}}
+|coordinates      = {{coord|46|56|10|N|20|49|25|E|region:HU_type:city|display=inline,title}}
+<!--If coordinates are filled in above remove ed notes from "Hungary" in pushpin_map field to display map-->
+|pushpin_map            = Hungary
+|pushpin_label_position = left 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Gyomaendrőd
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Békés County|Békés]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Gyomaendrőd District|Gyomaendrőd]]
+|area_total_km2=303.98
+|population_as_of=2011
+|population_total=13680
+|population_footnotes=
+|population_density_km2=49.66
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=5500, 5502
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 66
+|website= {{URL|http://www.gyomaendrod.hu/}}
+}}

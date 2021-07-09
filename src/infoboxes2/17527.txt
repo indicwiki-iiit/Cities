@@ -1,0 +1,67 @@
+{{Infobox settlement
+|official_name            = Huber Heights, Ohio
+|settlement_type          = [[City]]
+|nickname                 = Brick City, Huber, The Heights, 
+|motto                    = Come Grow With us!
+<!-- Images -->
+|image_skyline            = Huber Heights welcome sign.JPG
+|imagesize                = 250px
+|image_caption            = Huber Heights welcome sign with the phrase, "Come Grow With Us!"
+|image_flag               = 
+|image_seal               = The Seal of Huber Heights, Ohio.jpg
+<!-- Maps -->
+|image_map                = Montgomery County Ohio incorporated and unincorporated areas Huber Heights highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Montgomery County, Ohio|Montgomery County]] and the state of [[Ohio]].
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|Counties]]
+|subdivision_name2        = [[Montgomery County, Ohio|Montgomery]], [[Miami County, Ohio|Miami]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Jeff Gore ([[Republican Party (United States)|R]])
+|leader_title1            = [[City manager]]
+|leader_name1             =  Scott Falkowski
+|established_title        = Incorporated 
+|established_date         = January 23, 1981
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_sq_mi         = 22.37
+|area_land_sq_mi          = 22.20
+|area_water_sq_mi         = 0.17
+<!-- Population -->
+|population_as_of         = [[2020 United States Census|2020]]
+|population_est           = 40006
+|pop_est_as_of            = 2020
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 40006
+|population_density_sq_mi = 1718.57
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_ft             = 932
+|coordinates              = {{coord|39|51|3|N|84|7|39|W|region:US-OH|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 45424
+|area_code                = [[Area codes 937 and 326|937, 326]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-36610<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1048856<ref name="GR3" />
+|website                  = {{URL|https://www.hhoh.org/}}
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|area_total_km2 = 57.94
+|area_land_km2 = 57.50
+|area_water_km2 = 0.44
+|population_density_km2 = 663.53
+}}

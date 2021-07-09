@@ -1,0 +1,22 @@
+{{Infobox UK place
+|country =                  England
+|coordinates = {{coord|52.6717|-0.29955|display=inline,title}}
+|label_position =           top
+|official_name =            Deeping&nbsp;St&nbsp;James <!--non-breaking spaces required for pin label-->
+|population =               6,923
+|population_ref =           <ref>{{cite web|url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&b=796425&c=PE6+8HD&d=16&e=15&g=468620&i=1001x1003x1004&o=1&m=0&r=0&s=1250544881371&enc=1&dsFamilyId=779|title=Area: Deeping St James CP|publisher=Office for National Statistics|date=28 April 2004|access-date=26 October 2013}}</ref>
+|civil_parish =             Deeping St James
+|shire_district=            [[South Kesteven]]
+|shire_county =             [[Lincolnshire]]
+|region =                   East Midlands
+|constituency_westminster = [[South Holland and The Deepings (UK Parliament constituency)|South Holland and The Deepings]]
+|post_town =                PETERBOROUGH
+|postcode_district =        PE6
+|postcode_area =            PE
+|dial_code =                01778
+|os_grid_reference =        TF150095
+|static_image_name =        UK Deeping St James.jpg
+|static_image_caption =     Signpost in Deeping St James
+|london_distance_mi=        80<!-- straight line per MOS – constant and comparable with other place distances -->
+|london_direction=          S
+}}

@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                            = Pazin
+| native_name                     = 
+| native_name_lang                = 
+| official_name                   = {{lang|hr|Grad Pazin}}<br/>Town of Pazin
+| settlement_type                 = [[List of cities and towns in Croatia|Town]]
+<!-- images and maps  ----------->
+| image_skyline                   = Pazin 2004 panorama.jpg
+| image_caption                   = Panorama
+| image_shield                    = Coat of Arms of Pazina.svg
+| image_flag                      = Zastava Pazina.svg
+| shield_size                     = 
+| pushpin_map                     = Croatia
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Pazin within Croatia
+| pushpin_mapsize                 = 
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{CRO}}
+| subdivision_type1               = [[Counties of Croatia|County]]
+| subdivision_name1               = [[File:Zastava Istarske županije.svg|border|23px]] [[Istria County|Istria]]
+| subdivision_type2               = 
+| subdivision_name2               =
+<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Suzana Jašić([[We Can! – Political Platform|We Can! (Croatia]])
+| leader_title1                   = Town Council
+| leader_name1                    = {{Collapsible list
+ |title   = 12 members
+ |frame_style= border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Istrian Democratic Assembly|IDS]]-[[Croatian People's Party – Liberal Democrats|HNS]]-[[Croatian Party of Pensioners|HSU]] (6)
+ |2     =• [[Social Democratic Party of Croatia|SDP]] (3)
+ |3     =• [[Croatian Democratic Union|HDZ]] (2)
+ |4     =• [[Independent (politician)|Independents]] (1)
+}}
+<!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 134.87
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+<!-- Population   ----------------------->
+| population_as_of                = 2011
+| population_footnotes            = <ref>{{Croatian Census 2011|S|18|3212}}</ref>
+| population_note                 = 
+| population_total                = 8638
+| population_urban                = 4386
+| population_density_km2          = auto
+<!-- General information  --------------->
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|45|14|25|N|13|56|12|E|region:HR|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 277
+<!-- Area/postal codes & others -------->
+| postal_code_type                = Postal code
+| postal_code                     = 52 000
+| area_code                       = 052
+| registration_plate              = PU
+| website                         = {{url|http://www.pazin.hr}}
+| footnotes                       = 
+}}

@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Amargadhi
+|other_name             =
+|native_name            = अमरगढी
+|nickname               =
+|settlement_type        = [[Municipality]]
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = File:Amaragadhi_killa_1000.png
+|image_caption          = [[Amar Singh Thapa|Amar Singh Thapa's]] statue at Amaragadhi Fort
+|image_flag             =
+|image_seal             =
+|image_map              = <!-- NepalDadeldhuraDistrictmap.png -->
+|mapsize                = 300px
+|map_caption            = Map of the village development committees in Dadeldhura District
+|pushpin_map            = Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Sudurpashchim Pradesh]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Dadeldhura District]]
+|<!-- Politics -->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Bisheshwar Prasad Ojha
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Sangeeta Bhandari 
+|established_title      = Incorporated
+|established_date       = January 24, 1997{{citation needed|date=October 2018}}
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+<!-- Population   -->
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 21,245
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               = [[Nepal Time]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|29|18|00|N|80|34|47|E|region:NP_type:city(18390)_source:kolossus-euwiki|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1848 
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]]
+|postal_code            = 10300
+|area_code              = 096
+|blank_name             =
+|blank_info             =
+|website                = [http://amargadhimun.gov.np/]
+|footnotes              = 
+}}

@@ -1,0 +1,19 @@
+{{Infobox river
+ | name              = Podkamennaya Tunguska
+ | image             = Россия,Подкаменная Тунгуска. - panoramio.jpg
+ | image_caption     = 
+ | map               = Podkamennaya Tunguska.png
+ | map_alt           = 
+ | map_caption       = Map of the Podkamennaya Tunguska basin
+ | source1_location  = 
+| mouth             = [[Yenisey]]
+| mouth_location    = 
+| mouth_coordinates = {{coord|61.5944|N|90.1333|E|source:kolossus-ruwiki|display=it}}
+| progression       = {{RYenisey}}
+ | subdivision_type1 = Country
+ | subdivision_name1 = Russia
+ | length            = {{convert|1,865|km|mi|abbr=on}}
+ | source1_elevation = 
+ | discharge1_avg    = {{convert|1,750|m3/s|cuft/s|abbr=on}}
+ | basin_size        = {{convert|240,000|km2|sqmi|abbr=on}}
+}}

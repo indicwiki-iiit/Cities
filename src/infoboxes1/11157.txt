@@ -1,0 +1,36 @@
+{{Infobox OS version
+| name = macOS Mojave
+| title = macOS Mojave
+| logo = MacOS Mojave wordmark.svg
+| logo alt = macOS Mojave wordmark
+| screenshot = File:Mojave desktop marzipan.jpg
+| caption = The macOS Mojave desktop, showing the Dark Mode interface and the Stocks and Voice Memos applications ported from iOS
+| screenshot_size = 310px
+| screenshot_alt = A screenshot of the desktop
+| collapsible = 
+| version of = [[macOS]]
+| developer = [[Apple Inc.]]
+| family = {{flat list|
+* [[Macintosh operating systems|Macintosh]]
+* [[Unix]]
+}}
+| working state = 
+| source model = [[Proprietary software|Closed]], with [[open-source software|open source]] components
+| released = {{start date and age|2018|9|24}}<ref name="release-date">{{cite web|url=https://www.macrumors.com/2018/09/24/apple-releases-macos-mojave/|title=Apple Releases macOS Mojave With Dark Mode, Stacks, Dynamic Desktop and More|first=Juli|last=Clover|website=[[MacRumors]]|date=September 24, 2018|access-date=September 24, 2018}}</ref>
+| discontinued = 
+| RTM date = 
+| GA date = 
+| marketing target = 
+| programmed in = 
+| update model = [[Software Update]]
+| package manager = 
+| supported platforms = [[x86-64]]
+| kernel type = [[Hybrid kernel|Hybrid]] ([[XNU]])
+| userland = 
+| ui = 
+| license = [[Apple Public Source License|APSL]] and Apple [[Software license agreement|EULA]]
+| preceded by = [[macOS High Sierra|macOS High Sierra]]
+| succeeded by = [[macOS Catalina|macOS Catalina]]
+| website = {{webarchive|url=https://web.archive.org/web/20190901002230/https://www.apple.com/macos/mojave/|date=September 1, 2019|title=https://www.apple.com/macos/mojave/}}
+| support status = Supported
+}}

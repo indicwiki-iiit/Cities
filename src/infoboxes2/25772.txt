@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Cheraw, South Carolina
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = CherawSC.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = SCMap-doton-Cheraw.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Cheraw, South Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[South Carolina]]
+|subdivision_type2        = [[List of counties in South Carolina|Counties]]
+|subdivision_name2        = [[Chesterfield County, South Carolina|Chesterfield]], [[Marlboro County, South Carolina|Marlboro]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Mayor-Council
+|leader_title             = Mayor
+|leader_name              = Andrew Ingram
+|leader_title1            = Mayor Pro Tempore
+|leader_name1             = Jacqueline Ellerbe-Shannon
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 15.53
+|area_land_km2            = 15.42
+|area_water_km2           = 0.11
+|area_total_sq_mi         = 5.99
+|area_land_sq_mi          = 5.95
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5851
+|population_density_km2   = 360.72
+|population_density_sq_mi = 934.32
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 51
+|elevation_ft             = 167
+|coordinates              = {{coord|34|41|48|N|79|53|42|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 29520
+|area_code                = [[Area codes 843 and 854|843, 854]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 45-13600<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1247267<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.cheraw.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5562
+}}

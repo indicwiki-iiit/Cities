@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Yayladağı
+| image_skyline           = Yayladagi6.JPG
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|35|54|09|N|36|03|38|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Hatay Province|Hatay]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Nationalist Movement Party|MHP]]
+| leader_title            = Mayor
+| leader_name             = Mustafa Kemal Dağıstanlı
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Tolga Polat
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Hatay|Yayladağı}}
+| elevation_m             = 450
+| population_footnotes    = {{Turkey district populations|SOURCE|Hatay}}
+| population_urban        = {{Turkey district populations|Hatay|Yayladağı|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Hatay|Yayladağı|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 31550
+| website                 = {{URL| www.yayladagi.bel.tr | www.yayladagi.bel.tr }}
+}}

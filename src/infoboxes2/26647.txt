@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                    = Kostenets
+| native_name             = Костенец
+| settlement_type         = Village
+| image_skyline           = Selo Kostenets 003.jpg
+| image_caption           = Kostenets and the Rila mountain
+| pushpin_map             = Bulgaria
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location of Kostenets within Bulgaria
+| coordinates             = {{coord|42|16|N|23|49|E|type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Bulgaria]]
+| subdivision_type1       = [[Provinces of Bulgaria|Province]]
+| subdivision_name1       = [[Sofia Province|Sofia]]
+| subdivision_type2       = [[Municipalities of Bulgaria|Municipality]]
+| subdivision_name2       = [[Kostenets Municipality|Kostenets]]
+| leader_party            = [[National Movement for Stability and Progress|NDSV]]
+| leader_title            = Mayor
+| leader_name             = Georgi Anchin
+| unit_pref               = Metric
+| area_total_km2          = 109,381
+| elevation_m             = 689
+| population_footnotes    = <ref name="grao.bg">{{in lang|bg}} [http://grao.bg/tna/tab02.txt Population Chart as of 15 March 2009] from [http://grao.bg/ Directorate General: Civil Registration and Administrative Services]</ref>
+| population_as_of        = 2015
+| population_total        = 3617
+| population_density_km2  = auto
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code             = 2042
+| area_code               = 07144
+}}

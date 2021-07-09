@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|official_name          = Kirtipur 
+|native_name            = कीर्तिपूर
+|other_name             =
+|settlement_type        = [[Municipality]]
+|image_skyline          = Kirtipur, 1950 - 1955.jpg
+|image_caption          = Kirtipur with the Himalayas in the background
+|image_flag             =
+|image_seal             =
+|nickname               =
+|motto                  =
+
+<!-- images and maps  -->
+|image_map              =
+|mapsize                =300px
+|map_caption            =
+|pushpin_map            = Nepal Bagmati Province#Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|coordinates            = {{coord|27|40|41|N|85|16|37|E|region:NP_type:city_source:GNS-enwiki|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name1      = [[Bagmati Pradesh]]
+|subdivision_name2      = [[Kathmandu District|Kathmandu]]
+<!-- Politics -->
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|government_footnotes   =
+|government_type        =
+|leader_title      = [[Mayor]]
+|leader_name       = Ramesh Maharjan ([[Nepal Communist Party|NCP]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Saraswoti Khadka ([[Nepal Communist Party|NCP]])
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|population_total               = 67,171
+|population_as_of               = 2011
+|population_footnotes           =
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicity
+|population_blank2_title        = Religions
+<!-- General information  -->
+|population_note                =
+|postal_code_type       = [[Postal code]]
+|postal_code            = 44618
+|area_code              = 01
+|website                = [http://www.kirtipurmun.gov.np www.kirtipurmun.gov.np]
+|footnotes              = 
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|blank_name             =
+|blank_info             =
+}}

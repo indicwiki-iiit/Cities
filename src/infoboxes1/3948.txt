@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Brownsweg
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town and Resort
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = File:View from the top of Brownsberg (33408895771).jpg
+|image_caption          = View from the Brownsberg
+|image_flag             = 
+|image_seal             = 
+|image_shield           = 
+|image_map              = Brokopondo resorts.png
+|mapsize                = 300px
+|map_caption            = Map showing the resorts of Brokopondo District.{{legend|#ffa0a0|Brownsweg}}
+|pushpin_map            = <!-- Suriname -->
+|pushpin_label_position = left
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in Suriname
+<!-- Location ------------------>
+|subdivision_type       = [[Country]]
+|subdivision_name       = {{flag|Suriname}}
+|subdivision_type1      = [[Districts of Suriname|District]]
+|subdivision_name1      = [[Brokopondo District|Brokopondo]]
+|subdivision_type2      = [[Resorts of Suriname|Resort (municipality)]]
+|subdivision_name2      = Brownsweg
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 731<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 1 January 2012
+|population_footnotes           = <ref name="census">{{Cite web|url=https://spangstaging.com/2019/abs/wp-content/uploads/2019/02/census8etn.pdf|title=Resorts in Suriname Census 2012|access-date=12 May 2020}}</ref>
+|population_note                =
+|population_total               = 4,793
+|population_density_km2         = auto
+<!-- General information  --------------->
+|timezone               = AST 
+|utc_offset             = -3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|5|00|15|N|55|09|11|W|region:SR|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = 
+|website                = 
+|footnotes              = 
+}}

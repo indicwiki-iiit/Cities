@@ -1,0 +1,44 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = Te Puke
+| image_skyline           = Kiwi360 Yellow.JPG
+| image_alt               = 
+| image_caption           = The giant kiwifruit in Te Puke
+| image_map = {{infobox mapframe|coord={{coord|37|46|S|176|19|E}}|zoom=9}}
+|pushpin_map=
+|pushpin_label_position=left
+|coordinates            = {{coord|37|46|S|176|19|E|region:NZ|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = New Zealand
+|subdivision_type1      = [[Regions of New Zealand|Region]]
+|subdivision_name1      = [[Bay of Plenty]]
+|subdivision_type2      = [[Territorial authorities of New Zealand|Territorial authority]]
+|subdivision_name2      = [[Western Bay of Plenty District]]
+|subdivision_type3      = [[Ward (country subdivision)|Ward]]
+|subdivision_name3      = Te Puke
+|established_date= pre-European
+|established_title=Settled
+|established_date1=1880
+|established_title1=Founded
+|seat_type=Electorate
+|seat=[[Rotorua (New Zealand electorate)|Rotorua]]
+|leader_party= [[New Zealand National Party|National]]
+|leader_name= [[Todd McClay]]
+|leader_title=[[Member of Parliament|MP]]
+|leader_title1= Mayor
+|leader_name1= Garry Webber
+|population_as_of = {{NZ population data 2018|Te Puke||y}}
+|population_footnotes = {{NZ population data 2018|Te Puke|||y}}
+|population_total       = {{NZ population data 2018|Te Puke|y}}
+<!-- General information  --------------->
+|timezone               = NZST
+|utc_offset             = +12
+|timezone_DST           = NZDT
+|utc_offset_DST         = +13
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postcode
+|postal_code            = 3119
+|area_code              = 07
+|website          =https://www.tepukegoodnessgrowshere.co.nz/
+}}

@@ -1,0 +1,22 @@
+{{Infobox mountain
+ | name = Shiprock
+ | other_name = {{spell-nv|Tsé Bitʼaʼí|italic=yes}}
+ | photo = Shiprock.snodgrass3.jpg
+ | photo_caption = Shiprock
+ | elevation_ft = 7177
+ | elevation_ref = 
+ | prominence_ft = 1583
+ | prominence_ref = 
+ | location = [[San Juan County, New Mexico|San Juan County]], [[New Mexico|New Mexico, US]]
+ | map = New Mexico
+ | map_caption = New Mexico
+ | range_coordinates = 
+ | map_size = 225
+ | coordinates = {{coord|36|41|15|N|108|50|11|W|type:mountain_region:US-NM_scale:100000|format=dms|display=inline,title}}
+ | coordinates_ref =<ref>{{cite gnis |id=915902 |name=Ship Rock |accessdate=November 30, 2008}}</ref>
+ | topo = [[United States Geological Survey|USGS]] Ship Rock Quadrangle
+ | type = [[Breccia#Volcanic|Volcanic breccia]] and [[Lamprophyre|minette]]
+ | age = 27 million years
+ | first_ascent = (First documented) 1939 by [[David R. Brower|David Brower]], Raffi Bedayn, [[Bestor Robinson]] and John Dyer<ref name="salkeld">Audrey Salkeld, editor, ''World Mountaineering'', Bulfinch, 1998.</ref><ref name="ungnade">Herbert E. Ungnade, ''Guide to the New Mexico Mountains'', Sage Books, 1965, pp. 170–172.</ref>
+ | embedded = {{designation list |embed=yes |designation1=NNL |designation1_date=1975}}
+}}

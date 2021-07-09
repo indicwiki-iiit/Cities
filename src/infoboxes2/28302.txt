@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Obetz, Ohio
+|settlement_type          = [[Village (United States)|Village]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = File:Obetz Administrative Offices 1.jpg
+|imagesize                = 
+|image_caption            = Obetz Government Center
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Obetz.png
+|mapsize                  = 250x200px
+|map_caption              = Location of Obetz within Ohio
+|image_map1               = Map of Franklin County Ohio With Obetz labeled.png
+|mapsize1                 = 250x200px
+|map_caption1             = Location of Obetz within Franklin County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Franklin County, Ohio|Franklin]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 15.47
+|area_land_km2            = 15.09
+|area_water_km2           = 0.39
+|area_total_sq_mi         = 5.97
+|area_land_sq_mi          = 5.83
+|area_water_sq_mi         = 0.15
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5196
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 4532
+|population_density_km2   = 344.42
+|population_density_sq_mi = 892.02
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 228
+|elevation_ft             = 800
+|coordinates              = {{coord|39|52|36|N|82|56|30|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 43207
+|area_code                = [[Area code 614|614]] and [[Area code 380|380]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-57862<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1065189<ref name="GR3" />
+|website                  = [http://www.obetz.oh.us Village of Obetz, Ohio] 
+|footnotes                = 
+|image_blank_emblem       = Obetz Logo-Circle.jpg
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

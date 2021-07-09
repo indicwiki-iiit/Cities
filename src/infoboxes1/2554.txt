@@ -1,0 +1,61 @@
+{{Infobox settlement
+| name                    = Bloemhof
+| image_skyline           = Station Bloemhof.JPG
+| image_caption           = Bloemhof railway station
+| pushpin_map             = South Africa North West#South Africa
+| coordinates             = {{coord|27|39|0|S|25|35|24|E|region:ZA|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = Province
+| subdivision_name1       = [[North West (South African province)|North West]]
+| subdivision_type2       = District
+| subdivision_name2       = [[Dr Ruth Segomotsi Mompati District Municipality|Dr Ruth Segomotsi Mompati]]
+| subdivision_type3       = Municipality
+| subdivision_name3       = [[Lekwa-Teemane Local Municipality|Lekwa-Teemane]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1864<ref name=established>{{cite web|title=Chronological order of town establishment in South Africa based on Floyd (1960:20-26)|url=http://upetd.up.ac.za/thesis/available/etd-07212011-123414/unrestricted/05back.pdf|pages=xlv-lii}}</ref>
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/673002 |title = Main Place Bloemhof |work=Census 2011}}</ref>
+| area_total_km2          = 47.33
+| population_footnotes    = <ref name="census2011" /><ref name="c2011">[https://census2011.adrianfrith.com/place/673002001 Bloemhof SP] from Census 2011.</ref>
+| population_total        = 2339
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" /><ref name="c2011" />
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 26.5%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 7.0%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 4.2%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 61.9%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.4%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 72.1%
+| demographics2_title2    = [[Tswana language|Tswana]]
+| demographics2_info2     = 7.4%
+| demographics2_title3    = [[South African English|English]]
+| demographics2_info3     = 7.3%
+| demographics2_title4    = [[Sotho language|Sotho]]
+| demographics2_info4     = 4.1%
+| demographics2_title5    = Other
+| demographics2_info5     = 8.9%
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 2660
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 2660
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 053
+}}

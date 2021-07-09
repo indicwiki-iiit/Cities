@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = New Philadelphia, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = New Philadelphia Ohio.jpg
+|imagesize                = 250px
+|image_caption            = West High Avenue in downtown New Philadelphia
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OHMap-doton-New_Philadelphia.png
+|mapsize                  = 250px
+|map_caption              = Location of New Philadelphia, Ohio
+|image_map1               = Map of Tuscarawas County Ohio Highlighting New Philadelphia City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of New Philadelphia in Tuscarawas County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Tuscarawas County, Ohio|Tuscarawas]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Joel Day<ref>{{cite web | url=http://www.newphilaoh.com/html/admin.htm | title=Officials | publisher=City of New Philadelphia, OH | access-date=3 January 2016}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = February 12, 1833<ref>{{cite web|url=http://www.newphilaoh.com/html/history+3.htm|title=Home page|website=www.newphilaoh.com|access-date=18 April 2018}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 21.74
+|area_land_km2            = 21.29
+|area_water_km2           = 0.45
+|area_total_sq_mi         = 8.40
+|area_land_sq_mi          = 8.22
+|area_water_sq_mi         = 0.17
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 17410
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 17288
+|population_density_km2   = 817.73
+|population_density_sq_mi = 2118.00
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 276
+|elevation_ft             = 906
+|coordinates              = {{coord|40|29|22|N|81|26|50|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44663
+|area_code                = [[Area code 330|330]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-55216<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1065105<ref name="GR3" />
+|website                  = http://www.newphilaoh.com/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

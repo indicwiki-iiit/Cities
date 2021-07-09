@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                    = Loanga
+| settlement_type         = 
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| etymology               = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Republic of the Congo
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in the Republic of the Congo
+| coordinates             = {{Coord|-4.630659| 11.835668|display=it}} 
+| subdivision_type        = Country
+| subdivision_name        = [[Republic of the Congo]]
+|subdivision_type1      = [[Regions of the Republic of the Congo|Region]] 
+|subdivision_name1      = [[Kouilou Department]]
+|subdivision_type2      = [[Districts of the Republic of the Congo|District]]
+|subdivision_name2      = Pointe-Noire District
+
+| elevation_m             = 
+| population_as_of        = 
+| population_footnotes    = 
+| population_total        = 
+| population_density_km2  = auto
+| population_note         = 
+| population_demonym      = 
+| timezone1               = [[UTC+01:00]]
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

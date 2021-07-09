@@ -1,0 +1,24 @@
+{{Infobox Australian place
+| type     =  town
+| name     = Ivanhoe
+| state    = nsw
+| image    = Cobb Highway in Ivanhoe.jpg
+| caption  = [[Cobb Highway]] in Ivanhoe
+| coordinates = {{coord|32|54|59|S|144|17|58|E|display=inline,title}}
+| pop      = 196
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census>{{Census 2016 AUS|id=UCL122071|name=Ivanhoe (L) (Urban Centre/Locality)|accessdate=19 July 2019|quick=on}}[[File:CC-BY icon.svg|50px]] Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref> 
+| postcode = 2878
+| elevation= 90.0
+| dist1    = 800
+| location1= [[Sydney]]
+| dist2    = 209
+| location2= [[Hay, New South Wales|Hay]]
+| dist3    = 317
+| location3= [[Broken Hill, New South Wales|Broken Hill]]
+| lga      = [[Central Darling Shire]]
+| county = [[Manara County, New South Wales|Manara]]
+| stategov = [[Electoral district of Barwon|Barwon]]
+| fedgov   = [[Division of Parkes|Parkes]]<ref>{{cite web |url=http://www.aec.gov.au/profiles/nsw/parkes.htm |title=Profile of the electoral division of Parkes (NSW) |publisher=[[Australian Electoral Commission]] |date=25 February 2016 |access-date=12 July 2016}}</ref>
+| est      = 
+}}

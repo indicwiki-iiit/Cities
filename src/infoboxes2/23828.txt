@@ -1,0 +1,125 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info -->
+| name                            = Morro Bay
+| official_name                   = City of Morro Bay
+| settlement_type                 = [[City (California)|City]]
+| other_name                      = 
+| nickname                        = 
+| motto                           = 
+<!-- images and maps -->
+| image_skyline                   = Morro_harbor.jpg
+
+| imagesize                       = 
+| image_caption                   = Harbor in Morro Bay
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Morro-Bay-City-Seal.gif
+| seal_size                       = 
+| image_map                       = San_Luis_Obispo_County_California_Incorporated_and_Unincorporated_areas_Morro_Bay_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[San Luis Obispo County, California|San Luis Obispo County]] and the state of [[California]]
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the [[United States]]
+| pushpin_relief                  = yes
+| named_for                       = Morro Rock
+<!-- Location -->
+| subdivision_type                = Country
+| subdivision_name                = {{flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Luis Obispo County, California|San Luis Obispo]]
+| established_title               = Founded
+| established_date                = 1870
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = July 17, 1964<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+<!-- Politics -->
+| government_type                 = [[Council–manager government|Council–manager]]<ref name=MBCC>{{cite web
+ |url         = https://www.morro-bay.ca.us/267/Mayor-City-Council
+ |title       = Mayor & City Council
+ |publisher   = City of Morro Bay
+ |access-date = November 2, 2018}}</ref>
+| governing_body                  = Morro Bay City Council
+| leader_title                    = [[Mayor]]
+| leader_name                     = John Headding<ref name=MBCC />
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Scott Collins<ref>{{cite web
+ |url         = https://www.morro-bay.ca.us/176/City-Manager
+ |title       = City Manager
+ |publisher   = City of Morro Bay
+ |access-date = November 2, 2018}}</ref>
+| leader_title2                   = Council Members<ref name=MBCC />
+| leader_name2                    = {{Collapsible list
+ |title       =
+ |frame_style = border:none; padding: 0;
+ |title_style = <!-- (optional) -->
+ |list_style  = text-align:left;display:none;
+ |1           = • Matt Makowetski
+ |2           = • John Headding
+ |3           = • Marlys McPherson
+ |4           = • Robert Davis}}
+| leader_title3                   = [[California's 35th State Assembly district|Assemblymember]]
+| leader_name3                    = {{Representative|caad|35|fmt=sleader}}<ref name=swd>{{cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = November 18, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+| leader_title4                   = [[California's 17th State Senate district|State Senator]]
+| leader_name4                    = {{Representative|casd|17|fmt=sleader}}<ref name=swd/>
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 10.32
+| area_land_sq_mi                 = 5.33
+| area_water_sq_mi                = 5.00
+| area_total_km2                  = 26.74
+| area_land_km2                   = 13.80
+| area_water_km2                  = 12.94
+| area_water_percent              = 48.63
+| area_note                       = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1661062|Morro Bay|access-date=October 21, 2014}}</ref>
+| elevation_ft                    = 62
+| elevation_m                     = 19
+<!-- Population ----------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0649362.html|title=Morro Bay (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 17, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120518101649/http://quickfacts.census.gov/qfd/states/06/0649362.html|archive-date=May 18, 2012}}</ref>
+| population_total                = 10234
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 10543
+| population_density_sq_mi        = 1979.16
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+<!-- General information -->
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = −8
+| timezone_DST                    = [[Pacific Daylight Time]]
+| utc_offset_DST                  = −7
+| coordinates                     = {{coord|35|21|57|N|120|51|00|W|type:city_region:US-CA|display=it}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 93442–93443
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 805|805]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|49362}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS 4|1661062}}
+| website                         = {{URL|www.morro-bay.ca.us}}
+| population_density_km2          = 764.13
+}}

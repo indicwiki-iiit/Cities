@@ -1,0 +1,19 @@
+{{Infobox company
+| name          = Snowflake Inc.
+| logo          = Snowflake Logo.svg
+| image         = 
+| type          = [[Public company]]
+| traded_as     = {{NYSE|SNOW}}
+| founded       = {{start date and age|2012|07|23}}
+| founder       = Benoit Dageville<BR>Thierry Cruanes<BR>Marcin Żukowski
+| hq_location   = [[Bozeman, Montana]]
+| key_people    = Frank Slootman, [[Chairperson]] & [[CEO]]<BR>Benoit Dageville, President<BR>Thierry Cruanes, CTO
+| services      = Cloud Data Platform
+| revenue       = {{increase}} $592 million (2020)
+| net_income    = {{increase}} -$539 million (2020)
+| assets        = {{increase}} $5.921 billion (2020)
+| equity        = {{increase}} $4.936 billion (2020)
+| num_employees = 
+| website       = {{URL|https://www.snowflake.com/}}
+| footnotes     = <ref>{{cite web | url=https://www.businesswire.com/news/home/20210303005871/en/Snowflake-Reports-Financial-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2021 | title=Snowflake Reports Financial Results for the Fourth Quarter and Full Year of Fiscal 2021 | publisher=[[Business Wire]] | date=March 3, 2021}}</ref>
+}}

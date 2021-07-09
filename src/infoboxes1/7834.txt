@@ -1,0 +1,94 @@
+{{Infobox settlement
+| name = {{raise|0.2em|Itami}}
+| official_name = 
+| native_name = {{lower|0.1em|{{nobold|{{nobold|{{lang|ja|伊丹市}}}}}}}}
+| native_name_lang = ja
+| settlement_type = [[Cities of Japan|City]]
+| other_name = 
+<!-- images, nickname, motto -->
+| image_skyline = 
+| imagesize = 
+| image_caption = 
+| image_flag = Flag of Itami, Hyogo.svg
+| image_seal = Itami Hyogo chapter.JPG
+| seal_type = Chapter
+<!-- maps and coordinates -->
+| image_map = Itami in Hyogo Prefecture Ja.svg
+| map_alt = 
+| map_caption = Location of Itami in [[Hyōgo Prefecture]]
+| pushpin_map = Japan
+| pushpin_relief = 
+| pushpin_map_caption = Location in Japan
+| coordinates = {{coord|34|47|N|135|24|E|region:JP|display=inline,title}}<ref name="SakeAndItami" />
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = Japan
+| subdivision_type1 = [[List of regions of Japan|Region]]
+| subdivision_name1 = [[Kansai region|Kansai]]
+| subdivision_type2 = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2 = [[Hyōgo Prefecture]]
+| subdivision_type3 = [[Districts of Japan|District]]
+| subdivision_name3 = 
+<!-- established -->
+| established_title = <!-- Settled -->
+| established_date = 
+| extinct_title = Now part of
+| extinct_date = 
+| founder = 
+| named_for = 
+<!-- seat, smaller parts -->
+| seat_type = <!-- defaults to: Seat -->
+| seat = 
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| leader_party = 
+| leader_title = Mayor
+| leader_name = [[Yasuyuki Fujiwara]]
+| leader_title1 = Vice Mayor
+| leader_name1 = 
+<!-- display settings -->
+| total_type = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref = Metric
+<!-- area -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_footnotes = <!-- for references: use <ref> tags -->
+| area_total_km2 = 25.09
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_note = 
+<!-- elevation -->
+| elevation_footnotes = <!-- for references: use <ref> tags -->
+| elevation_m = 
+<!-- population -->
+| population_footnotes =  <!-- for references: use <ref> tags -->
+| population_total = 197,335<ref name="ItamiData">{{Cite web|url=http://www.city.itami.lg.jp/SOSIKI/SOMU/SSOMU/ITAMISI_TOKEI/index.html|title=伊丹市の統計|trans-title=Statistics of Itami City|date=1 May 2018|publisher=Itami City|language=ja|archive-url=https://web.archive.org/web/20180512071624/http://www.city.itami.lg.jp/SOSIKI/SOMU/SSOMU/ITAMISI_TOKEI/index.html|archive-date=12 May 2018|url-status=live|access-date=12 May 2018}}</ref>
+| population_as_of = 1 May 2018
+| population_density_km2 = 7,865
+| population_est = 
+| pop_est_as_of = 
+<!-- time zone(s) -->
+| timezone1 = [[Japan Standard Time|JST]]
+| utc_offset1 = +09:00
+<!-- postal codes, area code -->
+| postal_code_type = 
+| postal_code = 
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = City hall address
+| blank_info_sec1 = 1-1 Senzo, Itami-shi, Hyōgo-ken<br />664-8503
+<!-- website, footnotes -->
+| website = {{URL|http://www.city.itami.lg.jp/}}
+| footnotes = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = 
+ | flower = [[Azalea]]
+ | bird = [[Mallard]] (male)<ref>{{Cite web|url=http://www.city.itami.lg.jp/shokai/tamimaru/1446528380660.html|title=伊丹市マスコットキャラクター「たみまる」の紹介|trans-title=Introduction of Itami City mascot character "Tamimaru"|publisher=Itami City|language=ja|archive-url=https://web.archive.org/web/20180512075419/http://www.city.itami.lg.jp/shokai/tamimaru/1446528380660.html|archive-date=12 May 2018|url-status=live|access-date=12 May 2018|quote=たみまるの特徴・設定[：] カモ科の水鳥「マガモ」の雄がモチーフ。 [Characteristics and setting of Tamimaru: The motif of the male of the water bird 'Mallard' of the duck family.]}}</ref>
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = 
+}}
+}}

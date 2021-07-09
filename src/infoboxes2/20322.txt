@@ -1,0 +1,115 @@
+{{Infobox settlement
+<!-- See the Table at Infobox Settlement for all fields and descriptions of usage -->
+<!-- Basic info -->
+|name                   = Squamish
+|official_name = District of Squamish<ref name=BCmunis>{{cite web|url=http://www.cscd.gov.bc.ca/lgd/infra/library/Name%20Incorp%202011.xls|title=British Columbia Regional Districts, Municipalities, Corporate Name, Date of Incorporation and Postal Address|publisher=British Columbia Ministry of Communities, Sport and Cultural Development|type=[[Microsoft Excel|XLS]]|access-date=November 2, 2014}}</ref>
+|other_name             = Newport 
+|native_name            =
+|nickname               = Squampton<ref>{{Cite web|url=https://www.squamishchief.com/news/local-news/about-that-squampton-saying-1.24168385|title=About that 'Squampton' saying|first=Jennifer|last=Thuncher|website=Squamish Chief}}</ref>
+|settlement_type        = [[List of district municipalities in British Columbia|District municipality]]
+|motto                  =
+<!-- images and maps -->
+|image_skyline          = SquamishMain.jpg
+|imagesize              =
+|image_caption          = Cleveland Avenue in Squamish with [[Mount Garibaldi]] looming in the background
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     = Squamish-logo.png
+|blank_emblem_size      =
+|image_map =
+|mapsize =
+|map_caption =
+|pushpin_map = Canada British Columbia#Canada<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption =Location of Squamish in [[British Columbia]]
+|pushpin_mapsize =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = Canada
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = [[British Columbia]]
+|subdivision_type2      = [[Regions of Canada#British Columbia|Region]]
+|subdivision_name2      = [[Howe Sound]]/[[Sea to Sky Country]]
+|subdivision_type3      = [[Regional districts of British Columbia|Regional District]]
+|subdivision_name3      = [[Squamish-Lillooet Regional District]]
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = Elected council
+|leader_title           = Mayor
+|leader_name            = Karen Elliott
+|leader_title1          = [[Local government|Governing&nbsp;body]]
+|leader_name1           = Squamish Council
+|leader_title2          = [[Current members of the Canadian House of Commons|MP]]
+|leader_name2           = [[Patrick Weiler]]
+|leader_title3          = [[Legislative Assembly of British Columbia|MLA]]
+|leader_name3           = [[Jordan Sturdy]]
+|leader_title4          =
+|leader_name4           =
+|established_title      = <!--[[Municipal corporation|Incorporated]]-->
+|established_date       =
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =
+|area_total_km2           = 104.88
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2016
+|population_footnotes           = <ref>[https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=5931006&Geo2=PR&Code2=59&Data=Count&SearchText=Squamish&SearchType=Begins&SearchPR=01&B1=All&wbdisable=true Census Profile, 2016 Census - Squamish, District municipality Census subdivision, British Columbia and British Columbia Province]</ref>
+|population_note                =
+|population_total               = 19,512
+|population_density_km2         = 186.1
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+|population_demonym = Squamite,
+Squamishite, Squamolian<ref>{{cite web |last1=Wittenburg |first1=Wolfgang |title=Squamisher or Squamolean ? |url=https://www.squamishreporter.com/2013/02/02/squamisher-or-squamloean/ |website=The Squamish Reporter |access-date=9 March 2021 |date=2 February 2013}}</ref>
+<!-- General information  --------------->
+|timezone               = [[Pacific Time Zone]]
+|utc_offset             = -8
+|timezone_DST           = Pacific Daylight Time
+|utc_offset_DST         = -7
+|coordinates            = {{coord|49|42|06|N|123|09|32|W|type:city_region:CA-BC|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 5
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of V postal codes of Canada|V8B]]
+|area_code              = [[Area code 604|604]]
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = [http://squamish.ca/ District of Squamish]
+|footnotes              =
+}}

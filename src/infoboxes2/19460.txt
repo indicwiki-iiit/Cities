@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info -->| name                            = Siwa Oasis
+| native_name                     = Isiwan / {{lang|ar|واحة سيوة}}
+| settlement_type                 = [[List of cities and towns in Egypt|City]]
+| image_skyline                   = {{Photomontage
+| photo1a = يوم جديد.jpg
+| photo2a = Siwa lake.jpg
+| photo2b = بيوت.jpg
+| photo3a = Siwa oasis - Egypt.jpg
+| photo3b = Lake Aftnas in Siwa.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_caption                   = '''Clockwise from top:''' <br> Shali Mountain village, Ruins of the Old Siwa, Lake Aftnas, Pigeon Towers, oasis near Siwa.
+<!-- images and maps -->
+| image_map                       = Qattara depression map.png
+| map_alt                         = 
+| map_caption                     = Location within [[Qattara Depression]]
+| pushpin_map                     = Egypt
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Egypt
+<!-- Location -->| coordinates                     = {{coord|29|12|19|N|25|31|10|E|region:EG|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Egypt}}
+| subdivision_type1               = [[Governorates of Egypt|Governorate]]
+| subdivision_name1               = [[Matrouh Governorate|Matrouh]]
+<!-- Area -->| unit_pref                       = Imperial
+<!-- Area/postal codes & others -->| population_total                = 32741|<!-- Politics -->
+| timezone                        = [[Egypt Standard Time|EST]]
+| utc_offset                      = +2
+| official_name                   = 
+}}

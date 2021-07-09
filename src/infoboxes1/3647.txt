@@ -1,0 +1,82 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Cerro Navia
+| native_name             =
+| native_name_lang        = es
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = 
+| imagesize               = 175px
+| image_alt               =
+| image_caption           =
+| image_flag              = Flag of Cerro Navia, Chile.svg
+| flag_alt                = Flag
+| image_shield            = Coat of Arms of Cerro Navia.svg
+| shield_alt              = Coat of arms
+| image_map               = Comuna de Cerro Navia.svg
+| map_alt                 = Map of the Cerro Navia commune within Greater Santiago
+| map_caption             = Map of the Cerro Navia commune within Greater Santiago
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = Location in Chile
+| pushpin_map_caption     = Location in Chile
+| coordinates             = {{coord|33|25|12|S|70|44|00|W|region:CL-RM|display=inline,title}}
+| coor_pinpoint           = city
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Chile]]
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = [[Santiago Metropolitan Region|Santiago Metro.]]
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[Santiago Province, Chile|Santiago]]
+| established_title       = Founded
+| established_date        = 17 March 1981
+| founder                 =
+| named_for               =
+| seat_type               = 
+| seat                    =
+| government_footnotes = <ref name="Munitel">{{Cite web |url = http://www.cerronavia.com |title=Asociación Chilena de Municipalidades | accessdate=27 January 2011|language=es}}</ref>
+<ref name="Official">{{Cite web |url = http://www.cerronavia.com |title=Municipality of Cerro Navia | accessdate=27 January 2011|language=es}}</ref>
+| government_type         = [[Municipality]]
+| leader_title            = [[Alcalde]]
+| leader_party = [[Citizen Left|IC]]
+| leader_name = [[Mauro Tamayo Rozas]]
+| unit_pref               = Metric
+| area_footnotes          = <ref name="INE">{{Cite web |url= http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title= National Statistics Institute |accessdate=13 December 2010|language=es}}</ref>
+| area_total_km2          = 11.1
+| elevation_footnotes     = 
+| elevation_m             =
+| population_footnotes    = <ref name="INE"/>
+| population_total        = 148312
+| population_as_of        = 2002 Census
+| population_density_km2  = auto
+| population_demonym      = 
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 148312
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 0
+| demographics_type1      = Sex
+| demographics1_footnotes = <ref name="INE"/> 
+| demographics1_title1    = Men
+| demographics1_info1     = 72,921
+| demographics1_title2    = Women
+| demographics1_info2     = 75,391
+| timezone = [[Time in Chile|CLT]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate=13 September 2010 |title=Chile Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20070911130719/http://www.world-time-zones.org/zones/chile-time.htm |archivedate=11 September 2007 }}</ref>
+| utc_offset = -4
+| timezone_DST = [[Time in Chile|CLST]]<ref>{{cite web
+ |url=http://www.world-time-zones.org/zones/chile-summer-time.htm 
+ |accessdate=13 September 2010 
+ |title=Chile Summer Time 
+ |publisher=WorldTimeZones.org 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm 
+ |archivedate=11 September 2007 
+}}</ref>
+| utc_offset_DST = -3
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               = 56 + 
+| website                 = [http://www.cerronavia.cl/ Municipality of Cerro Navia]
+| footnotes               =
+}}

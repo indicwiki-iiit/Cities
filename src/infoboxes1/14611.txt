@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                    = Sorø
+| official_name           =
+| settlement_type         = Town
+| image_skyline           = Sorø Akademi1.jpg
+| imagesize               =
+| image_alt               =
+| image_caption           = Sorø Academy
+| image                   = 
+| image_flag              =
+| image_shield            = Coat of arms of Sorø.svg
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| motto                   = "''Skolebyen Sorø''"
+| coordinates             = {{Coord|55|26|N|11|34|E|region:DK_type:city|display=inline,title}}
+| pushpin_map             = Denmark
+| mapsize                 =
+| map_alt                 =
+| map_caption             = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Denmark}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Region Zealand]]
+| subdivision_type2       = Municipality
+| subdivision_name2       = [[Sorø Municipality]]
+| established_title       = Founded
+| established_date        = 1100s
+| leader_title            = Mayor
+| leader_name             = [[Gert Jørgensen]]
+| area_urban_km2          = 5.43
+| population_as_of        = 2021
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_urban        = 8,035
+| population_density_urban_km2  = auto
+| population_demonym      = Soraner
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = Postal code
+| postal_code             = 4180
+| website                 = {{URL|soroe.dk}}
+}}

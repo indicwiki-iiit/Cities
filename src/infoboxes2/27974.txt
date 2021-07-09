@@ -1,0 +1,55 @@
+{{Infobox settlement
+| name                    = Saint-Philippe
+| settlement_type         = City
+| image_skyline           = St-Philippe QC 1.JPG
+| image_caption           = 
+| image_flag              = 
+| image_map               = Saint-Philippe Quebec location diagram.PNG
+| map_caption             = Location within Roussillon RCM
+| pushpin_map             = Canada Southern Quebec
+| pushpin_map_caption     = Location in southern Quebec
+| coordinates             = {{coord|region:CA-QC|format=dms|display=inline,title}}<ref name="toponymie"/>
+| subdivision_type        = Country
+| subdivision_name        = {{CAN}}
+| subdivision_type1       = [[Provinces and territories of Canada|Province]]
+| subdivision_name1       = {{QC}}
+| subdivision_type2       = [[Region (Quebec)|Region]]
+| subdivision_name2       = [[Montérégie]]
+| subdivision_type3       = [[Regional county municipality|RCM]]
+| subdivision_name3       = [[Roussillon Regional County Municipality|Roussillon]]
+| established_title       = 
+| established_date        = 
+| established_title1      = Constituted
+| established_date1       = July 1, 1855
+| government_footnotes    = <ref name="mamrot">[http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/67010/ Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Saint-Philippe]</ref><ref>{{CanRiding|ID=1260|name=Brossard--La Prairie (Quebec)}}</ref>
+| leader_title            = Mayor
+| leader_name             = Johanne Beaulac
+| leader_title1           = [[List of Canadian federal electoral districts|Federal riding]]
+| leader_name1            = [[La Prairie (electoral district)|La Prairie]]
+| leader_title2           = [[List of Quebec provincial electoral districts|Prov. riding]]
+| leader_name2            = [[La Prairie (provincial electoral district)|La Prairie]]
+| area_footnotes          = <ref name="mamrot"/><ref name="cp2011a">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2467010&Geo2=PR&Code2=24&Data=Count&SearchText=Saint-Philippe&SearchType=Begins&SearchPR=01&B1=All&Custom= 2011 Statistics Canada Census Profile: Saint-Philippe, Quebec]</ref>
+| area_total_km2          = 62.10
+| area_land_km2           = 62.07
+| area_water_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = <ref name="cp2011a"/>
+| population_total        = 5495
+| population_as_of        = 2011
+| population_density_km2  = 88.5
+| population_blank1_title = Pop&nbsp;{{small|2006-2011}}
+| population_blank1       = {{increase}} 7.3%
+| population_blank2_title = Dwellings
+| population_blank2       = 2129
+| timezone                = [[Eastern Time Zone|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        = [[Canadian postal code|Postal code(s)]]
+| postal_code             = [[List of J postal codes of Canada|J0L 2K0]]
+| area_code               = [[Area codes 450 and 579|450 and 579]]
+| blank_name              = Highways <br>{{jct|state=QC|A|30}}
+| blank_info              = <br> {{jct|state=QC|QC|217}}
+| website                 = {{official URL}}
+}}

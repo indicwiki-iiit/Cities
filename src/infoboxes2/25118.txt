@@ -1,0 +1,29 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Aksakovo
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Aksakovo|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Aksakovo
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+native_name=Аксаково|
+|
+subdivision_name1=[[Varna Province|Varna]]|
+population_total=7,897|population_footnotes=<ref name="statistika"/>|
+population_as_of=December 2009|
+elevation_m=99|
+postal_code=9154|
+area_code=052|
+blank_info=B|blank_name= [[Bulgarian car number plates|License plate]]|
+|coordinates            = {{coord|43|15|N|27|49|E|region:BG|display=inline,title}}
+|leader_name=Atanas Stoilov|
+}}

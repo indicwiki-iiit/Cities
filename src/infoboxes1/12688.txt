@@ -1,0 +1,76 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Assen
+| settlement_type         = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|Municipality]]
+<!-- Images, nickname, motto -->
+| image_skyline           = Drents Museum.jpg
+| image_alt               = 
+| image_caption           = [[Drents Museum]] in Assen
+| image_flag              = Flag of Assen.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Assen wapen.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0106 (2009).svg
+| map_alt                 = Highlighted position of Assen in a municipal map of Drenthe
+| map_caption             = Location in Drenthe
+| coordinates             = {{coord|53|0|N|6|34|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = Province
+| subdivision_name1       = [[Drenthe]]
+| government_footnotes    = <ref name="mayor_now">{{cite web 
+ |url = http://www.assen.nl/Raad_en_college/College_van_B_W/Burgemeester
+ |title = Burgemeester
+ |trans-title=Mayor
+ |language = nl
+ |publisher = Gemeente Assen
+ |access-date = 5 October 2013}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = 
+| leader_title            = [[Burgemeester|Mayor]]
+| leader_name             = [[Marco Out]]
+<!-- Geographic information -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = <ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Assen}}
+| area_land_km2           = {{Dutch municipality land area|Assen}}
+| area_water_km2          = {{Dutch municipality water area|Assen}}
+| elevation_footnotes     = <ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 9401JW
+ |language = nl
+ |author = <!--Staff writer(s); no by-line.--> 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |access-date = 5 October 2013}}</ref>
+| elevation_m             = 10
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    = <ref>{{Dutch municipality population|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Assen}}
+| population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}}
+| population_density_km2  = {{Dutch municipality population density|Assen}} <!-- For automatic calculation: auto-->
+| population_demonyms      = Assenaar, Asser
+<!-- Other information -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 9400–9409, 9486–9489, 9492
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 0592
+| website                 = {{URL|1=http://www.assen.nl}}
+| footnotes               =
+}}

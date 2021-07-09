@@ -1,0 +1,54 @@
+{{Infobox settlement
+| name                   = Chakwal
+| native_name            = {{Nastaliq|چکوال}}
+| official_name          = 
+| settlement_type        = [[List of cities in Punjab (Pakistan)|City]]
+| image_skyline          ={{Photomontage
+| photo1a = Babe Chakwal.jpg
+| photo2a = Chakwal, Pakistan - panoramio.jpg
+| photo2b =Chakwal college.JPG
+| photo3a = OLD CHAKWAL CITY.JPG
+| size = 270
+| position = center
+| spacing = Number indicating width of spacing between the images (default: 1)
+| color  =black
+| border = Number indicating width of border surrounding the montage (default: 1)
+| color_border = Color of border surrounding the montage (default: black)
+| text =
+| text_background = Color of background behind text (default: #F8F8FF)
+| foot_montage =
+}}
+| image_caption          = 
+| image_map              = Map of Chakwal City.JPG
+| map_caption            = Map of Chakwal city
+| pushpin_map_caption    = Location of Chakwal
+| pushpin_map            = Punjab Pakistan#Pakistan
+| pushpin_label_position = bottom
+| coordinates            = {{Coord|32|55|49|N|72|51|20|E|type:city_region:PK|display=inline,title}}
+| subdivision_type       = [[Country]]
+| subdivision_name       = {{PAK}}
+| subdivision_type1      = [[Subdivisions of Pakistan|Province]]
+| subdivision_name1      = {{flagicon|Punjab, Pakistan}} [[Punjab (Pakistani province)|Punjab]]
+| subdivision_type2               = [[Divisions of Pakistan|Division]]
+| subdivision_name2               = [[Rawalpindi Division|Rawalpindi]]
+| subdivision_type3      = [[Districts of Pakistan#Punjab|District]]
+| subdivision_name3      = [[Chakwal District|Chakwal]]
+| area_total_km2         = 
+| elevation_m            = 498
+| population_footnotes   = <ref>{{cite web |title=PAKISTAN: Provinces and Major Cities |url=http://www.citypopulation.de/Pakistan-100T.html |website=PAKISTAN: Provinces and Major Cities |publisher=citypopulation.de |access-date=4 May 2020}}</ref>
+| population_total      =138,146
+| total_type=City
+| population_as_of       =[[2017 Census of Pakistan|2017]]
+| population_rank=[[List of largest cities in Pakistan|65th, Pakistan]]
+| population_density_km2 =auto 
+| timezone1              = [[Pakistan Standard Time|PKT]]
+| utc_offset1            = +5
+| postal_code_type       = [[Postal codes in Pakistan|Postal code]]
+| postal_code            = 48800
+| area_code_type         = [[Dialling codes in Pakistan|Dialling code]]
+| area_code              = 0543
+| blank_name_sec2        = Number of [[Union councils of Pakistan|Union councils]]
+| blank_info_sec2        = 5
+| website                = 
+| footnotes              = 
+}}

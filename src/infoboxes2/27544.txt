@@ -1,0 +1,25 @@
+{{Infobox Australian place | type = town
+| name     = Dunsborough
+| state    = wa
+| lga      = [[City of Busselton]]
+| postcode = 6281
+| est      = 1879
+| pop      = 5320| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=SSC50440|name=Dunsborough (State Suburb)|accessdate=17 August 2019}}</ref>
+| elevation= 10
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Vasse|Vasse]]
+| fedgov   = [[Division of Forrest|Forrest]]
+| coordinates = {{coord|33|37|0|S|115|6|0|E|display=inline,title}}
+| dist1    = 245
+| dir1     = south west
+| location1= [[Perth, Western Australia|Perth]]
+| dist2    = 24
+| dir2     = west
+| location2= [[Busselton, Western Australia|Busselton]]
+| dist3    = 37
+| dir3     = north
+| location3= [[Margaret River, Western Australia|Margaret River]]
+}}

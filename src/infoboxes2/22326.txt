@@ -1,0 +1,59 @@
+{{Infobox settlement
+|official_name = Town of Middleburg
+|name            = Middleburg, Virginia
+|image_skyline            = Middleburg, Virginia (6044577732).jpg
+|imagesize                = 
+|image_caption            = Aerial view of Middleburg
+|image_seal               = 
+|settlement_type          = [[Town]]
+|motto                    = "Semel et Semper"
+
+<!-- Maps -->
+|pushpin_map              = USA Virginia Northern#USA Virginia#USA
+|pushpin_label            = Middleburg
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+
+|established = Founded
+|established_date         = 1787
+|map_caption              = 
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Virginia|size=23px}}
+|subdivision_type2        = [[List of counties in Virginia|County]]
+|subdivision_name2        = {{flagicon image|Flag of Loudoun County, Virginia.svg|size=23px}} [[Loudoun County, Virginia|Loudoun]]
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Bridge Littleton
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_51.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_sq_mi         = 1.04
+|area_land_sq_mi          = 1.04
+|area_water_sq_mi         = 0.00
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 673
+|population_density_sq_mi = 804.24
+|elevation_ft             = 486
+|coordinates              = {{coord|38|58|6|N|77|44|15|W|region:US-VA_type:city|display=inline,title}}
+|timezone                 = [[Eastern Time Zone]] (ET)
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 20117–20118
+|area_code                = [[Area code 540|540]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 51-51448<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1470422<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|footnotes                = 
+|website                  = [http://www.middleburgva.gov/ www.middleburgva.gov]
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 834
+|area_total_km2 = 2.70
+|area_land_km2 = 2.69
+|area_water_km2 = 0.01
+|population_density_km2 = 310.49
+}}

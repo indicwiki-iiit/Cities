@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name                   = Louiseville
+|official_name          = 
+|native_name            = 
+|other_name             = 
+|settlement_type        = [[City (Quebec)|City]]
+<!-- images, nickname, motto --->
+|image_skyline          = Hôtel de ville Louiseville.JPG
+|image_caption          = City hall
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|nickname               = 
+|motto                  = ''Excellence et Harmonie''<br>("Excellence and Harmony")
+|image_map              = Louiseville Quebec location diagram.png
+|map_caption            = Location within Maskinongé RCM. 
+|pushpin_map            = Canada Central Quebec
+|pushpin_label_position = left
+|pushpin_label          = 
+|pushpin_map_caption    = Location in central Quebec.
+|coordinates            = {{coord|46|15|N|72|57|W|region:CA-QC|display=inline,title}}
+|coor_pinpoint          = 
+|coordinates_footnotes  = <ref name="toponymie"/>
+<!-- location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Mauricie]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = [[Maskinongé Regional County Municipality|Maskinongé]]
+|established_title      = Settled
+|established_date       = 1714
+|established_title1     = Constituted
+|established_date1      = December 31, 1988
+|established_title2     = 
+|established_date2      = 
+|established_title3     = 
+|established_date3      =
+<!-- government type, leaders -->
+|government_footnotes   = <ref name="mamrot"/>
+|government_type        = 
+|leader_title           = Mayor
+|leader_name            = Yvon  Deshaies 
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Berthier—Maskinongé]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Maskinongé (provincial electoral district)|Maskinongé]]
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+<!-- area ---------------------->
+|area_footnotes           = <ref name="mamrot"/><ref name="cp2011"/>
+|area_magnitude         = 
+|area_total_km2           = 63.40
+|area_land_km2            = 62.59
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+<!-- population ---------------->
+|population_footnotes           = <ref name="cp2011"/>
+|population_total               = 7517
+|population_as_of               = 2011
+|population_density_km2         = 120.1
+|population_urban               =
+|population_density_urban_km2   =
+|population_blank1_title        = Pop&nbsp;<small>2006-2011</small>
+|population_blank1              = {{increase}} 1.1%
+|population_density_blank1_km2 =   
+|population_blank2_title= Dwellings
+|population_blank2      = 3694
+|population_note                =
+<!-- time zone(s) -------------->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+<!-- postal codes, area code --->
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of J postal codes of Canada|J5V]]
+|area_code              = [[Area code 819|819]]
+|blank_name             = Highways <br>{{jct|state=QC|A|40}}
+|blank_info             = <br> {{jct|state=QC|QC|138}} <br> {{jct|state=QC|QC|348}} <br> {{jct|state=QC|QC|349}}
+|blank1_name            =
+|blank1_info            =
+|website                = {{URL|www.ville.louiseville.qc.ca|www.ville<br>.louiseville.qc.ca}}
+|footnotes              = 
+}}

@@ -1,0 +1,42 @@
+{{Infobox Australian place | type = suburb
+| name     = Smithfield
+| city     = Sydney
+| state    = nsw
+| image    = Smithfieldtown.jpg
+| caption  = Smithfield Town Centre
+| image2   ={{maplink
+|frame=yes
+|frame-width=260
+|frame-height=280
+|frame-align=center
+|zoom=13
+|type=shape
+|stroke-colour=#C60C30
+|stroke-width=3
+}}
+| lga      = [[City of Fairfield]]
+| lga2     = [[Cumberland Council, New South Wales|Cumberland Council]]
+| postcode = 2164<ref name=postcode>[https://auspost.com.au/postcode/2164 Smithfield/Smithfield West Postcode] Australia Post</ref>
+| est      = 1836
+| pop      = 11,972
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=census>{{Census 2016 AUS|id=SSC13559|name=Smithfield (State Suburb)|accessdate=27 June 2017|quick=on}}</ref>
+| area     = 
+| stategov = [[Electoral district of Prospect|Prospect]]
+| stategov2 = [[Electoral district of Fairfield|Fairfield]]
+| fedgov   = [[Division of McMahon|McMahon]]
+| near-nw  = [[Pemulwuy, New South Wales|Pemulwuy]]
+| near-n   = [[Greystanes, New South Wales|Greystanes]]
+| near-ne  = [[Merrylands West, New South Wales|Merrylands West]]
+| near-e   = [[Woodpark, New South Wales|Woodpark]]
+| near-se  = [[Guildford West, New South Wales|Guildford West]]
+| near-s   = [[Fairfield Heights, New South Wales|Fairfield Heights]]
+| near-sw  = [[Fairfield West, New South Wales|Fairfield West]]
+| near-w   = [[Wetherill Park, New South Wales|Wetherill Park]]/[[Smithfield West]]
+| dist1    = <!--25-->
+| dir1    = <!--west-->
+| location1= <!--Smithfield-->
+| maxtemp = 23.1
+| mintemp = 12.2
+| rainfall = 870.6
+}}

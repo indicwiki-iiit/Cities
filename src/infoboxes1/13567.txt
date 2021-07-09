@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name                   = Kuala Belait
+| settlement_type        = [[Municipalities of Brunei|Municipality]] and [[Villages of Brunei|village]]
+| image_skyline          = File:Kuala Belait at Night (18623608099).jpg
+| image_caption          = View of Kuala Belait at night
+| pushpin_map            = Brunei
+| pushpin_label_position = none
+| pushpin_map_caption    = Location in Brunei
+| coordinates            = {{coord|4.582835|114.191783|region:BN_type:city|display=inline,title|format=dms}}
+| subdivision_type       = Country
+| subdivision_name       = [[Brunei]]
+| subdivision_type1      = [[Districts of Brunei|District]]
+| subdivision_type2      = [[Mukims of Brunei|Mukim]]
+| subdivision_name1      = [[Belait District|Belait]]
+| subdivision_name2      = [[Mukim Kuala Belait|Kuala Belait]]
+<!-- established -->
+|established_title       = Established
+|established_date        = 
+<!-- magnitude -->
+|unit_pref               = Metric
+|area_footnotes          = 
+|area_note               = 
+|area_water_percent      = 
+|area_rank               = 
+|area_total_km2          = 
+|area_total_ha           = 
+|length_km               = 
+|width_km                = 
+|dimensions_footnotes    = 
+|elevation_footnotes     = 
+|elevation_m             = 
+<!-- population -->
+|population_footnotes    = <ref name="population 2016" />
+|population_as_of        = 2016
+|population_total        = 4,259
+|population_density_km2  = auto
+<!-- miscellaneous -->
+|timezone                = [[Brunei Darussalam Time|BNT]]
+|utc_offset1             = +8
+|postal_code_type        = [[List of postcodes in Brunei|Postcode]]
+|postal_code             = KA1131
+|website                 = {{URL|http://bandaran-kb.gov.bn}}
+|footnotes               = 
+}}

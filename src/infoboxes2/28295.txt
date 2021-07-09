@@ -1,0 +1,39 @@
+{{Infobox Australian place
+| type     = town
+| name     = Tannum Sands
+| state    = qld
+| image    = Beach at Tannum Sands, 2014.JPG
+| caption  = Beach at Tannum Sands, 2014
+| coordinates         = {{coord|-23.9474|151.3675|type:city_region:AU-QLD|display=inline,title}}
+| pushpin_label_position = right
+| lga      = [[Gladstone Region]]
+| postcode = 4680
+| area     = 92.7
+| est      = 
+| pop      = 5145
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC31579 |name=Tannum Sands (State Suburb) |accessdate=17 April 2018|quick=on}}</ref>
+| elevation= 
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| stategov = [[Electoral district of Gladstone|Gladstone]]
+| fedgov   = [[Division of Flynn|Flynn]]
+| dist1    = 518
+| dir1     = NW
+| location1= [[Brisbane]]
+| dist2    = 26
+| dir2     = SE
+| location2= [[Gladstone, Queensland|Gladstone]]
+| dist3    = 3
+| dir3     = E
+| location3= [[Boyne Island, Queensland|Boyne Island]]
+| near-n              = ''[[Coral Sea]]''
+| near-ne             = ''[[Coral Sea]]''
+| near-e              = [[Foreshores, Queensland|Foreshores]]
+| near-se             = [[Iveragh, Queensland|Iveragh]]
+| near-s              = [[Iveragh, Queensland|Iveragh]]
+| near-sw             = [[Benaraby, Queensland|Benaraby]]
+| near-w              = [[Wurdong Heights, Queensland|Wurdong Heights]]
+| near-nw             = [[Boyne Island, Queensland|Boyne Island]]
+}}

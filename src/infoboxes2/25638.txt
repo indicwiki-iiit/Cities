@@ -1,0 +1,31 @@
+{{Infobox person
+
+| honorific_prefix   = [[Sir]]
+| name               = Alfred Hitchcock
+| honorific_suffix   = {{post-nominals|country=GBR|KBE|size=100%}}
+| image              = Hitchcock, Alfred 02.jpg
+| image_upright      = 1.1
+| caption            =
+| alt                =
+| birth_name         = Alfred Joseph Hitchcock
+| birth_date         = {{birth date|df=y|1899|8|13}}
+| birth_place        = [[Leytonstone]], Essex, England
+| death_date         = {{death date and age|df=y|1980|4|29|1899|8|13}}
+| death_place        = [[Bel Air, Los Angeles|Bel Air]], Los Angeles, California, U.S.
+| citizenship        = British<br />American (from 1955)
+| occupation         = {{flatlist|
+* Film director
+* film producer
+* screenwriter
+* film editor
+* actor
+}}
+| years_active       = 1919–1980
+| spouse             = {{marriage|[[Alma Reville]]|1926}}
+| education          = [[Salesian College, Battersea]]
+| alma_mater         = [[St Ignatius' College]], London
+| children           = [[Pat Hitchcock|Patricia Hitchcock]]
+| awards             = [[List of awards and nominations received by Alfred Hitchcock]]
+| website            = {{Official website|name=alfredhitchcock.com}}
+| signature          = Alfred Hitchcock Signature.svg
+}}

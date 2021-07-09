@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Valley Falls, New York
+|settlement_type          = [[Village (United States)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map            = New York
+|pushpin_label_position = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within the state of New York
+|pushpin_mapsize        = 
+|image_map                = Rensselaer County New York incorporated and unincorporated areas Valley Falls highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Rensselaer County, New York|Rensselaer County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Rensselaer County, New York|Rensselaer]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Valley Falls
+|established_date         = 1904
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 1.27
+|area_land_km2            = 1.20
+|area_water_km2           = 0.06
+|area_total_sq_mi         = 0.49
+|area_land_sq_mi          = 0.46
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 466
+|population_density_km2   = 379.07
+|population_density_sq_mi = 982.72
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 102
+|elevation_ft             = 335
+|coordinates              = {{coord|42|54|3|N|73|33|45|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 12185
+|area_code                = [[Area code 518|518]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-76672
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0968358
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 455
+}}

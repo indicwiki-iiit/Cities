@@ -1,0 +1,34 @@
+{{Infobox station
+ | name=Langford
+ | style = Via Rail
+ | image= 
+ | image_caption=
+ | address=Station and Goldstream Avenues<br>Langford, BC<br>
+ | country = Canada
+ | coordinates={{coord|48.4471|-123.4964|type:railwaystation_region:CA|display=inline,title}}
+ | line = <!-- line information is detailed under "services" -->
+ | other=
+ | structure=
+ | platform=
+ | tracks=
+ | parking=
+ | bicycle=
+ | baggage_check=
+ | passengers=
+ | pass_year=
+ | pass_percent=
+ | pass_system=
+ | opened=
+ | closed=
+ | rebuilt=
+ | electrified=
+ | ADA=
+ | code=
+ | owned=
+ | zone=
+ | former=
+ | services=
+ | other_services_header = Former services
+ | other_services = {{Adjacent stations|system=Via Rail|line=Victoria-Courtenay|left=Palmer|right=Malahat}}
+ | mpassengers=
+}}

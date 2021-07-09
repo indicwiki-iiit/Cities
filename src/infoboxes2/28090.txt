@@ -1,0 +1,23 @@
+{{Infobox UK place 
+|country = Scotland
+|official_name= Kinross
+|gaelic_name= Ceann Rois
+|static_image_name=Kinross High Street. - geograph.org.uk - 92123.jpg
+|static_image_caption=High Street, Kinross
+|area_total_km2	= 2.00
+|area_footnotes	= <ref name="one">{{cite web |url=https://www.citypopulation.de/php/uk-scotland.php?cityid=S19000984 |title=Kinross (Perth and Kinross, Scotland, United Kingdom) - Population Statistics, Charts, Map, Location, Weather and Web Information |website=www.citypopulation.de |access-date=30 March 2019}}</ref>
+| population = {{Scottish locality populations|name|POP=Kinross}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>|edinburgh_distance = {{convert|20|mi|km|abbr=on}}
+|london_distance_mi = 351
+|os_grid_reference= NO1102
+|coordinates = {{coord|56.205|-3.423|display=inline,title}}
+|unitary_scotland= [[Perth and Kinross]]
+|lieutenancy_scotland= [[Perth and Kinross]]
+|constituency_westminster= [[Ochil and South Perthshire (UK Parliament constituency)|Ochil and South Perthshire]]
+|constituency_scottish_parliament= [[Perthshire South and Kinross-shire (Scottish Parliament constituency)|Perthshire South and Kinross-shire]]
+|historic_county = [[Kinross-shire]]
+|post_town= KINROSS
+|postcode_district = KY13
+|postcode_area= KY
+|dial_code= 01577
+}}

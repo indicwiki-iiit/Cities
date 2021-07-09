@@ -1,0 +1,31 @@
+{{Infobox Australian place | type = town
+| name     = Mudgee
+| state    = NSW
+| image    = Mudgee Roundabout.jpg
+| caption  = View of the town centre, showing War Memorial Clock Tower
+| pop           = 12410
+| pop_year      = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| est           = 
+| postcode      = 2850
+| elevation     = 454
+| maxtemp   = 23.0
+| mintemp   = 8.3
+| rainfall  = 673.9
+| county    = [[Wellington County, New South Wales|Wellington]]
+| lga       = Mid-Western Regional Council
+| stategov  = [[Electoral district of Dubbo|Dubbo]]
+| fedgov    = [[Division of Calare|Calare]]
+| dist1     = 270
+| dir1      = NW
+| location1 = [[Sydney]]
+| dist2     = 128
+| dir2      = ESE
+| location2 = [[Dubbo]]
+| dist3     = 192
+| dir3      = N
+| location3 = {{NSWcity|Orange}}
+| dist4     = 201
+| dir4      = W
+| location4 = {{NSWcity|Muswellbrook}}
+}}

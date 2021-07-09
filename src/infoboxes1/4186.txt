@@ -1,0 +1,21 @@
+{{Infobox UK place
+|country              = England
+|region               = London
+|official_name        = Westminster
+|coordinates          = {{coord|51|29|41|N|00|08|07|W|display=inline,title}}
+|london_borough       = Westminster
+|constituency_westminster = [[Cities of London and Westminster (UK Parliament constituency)|Cities of London and Westminster]]
+|historic_county      = Middlesex
+|post_town            = London
+|postcode_area        = SW
+|postcode_district    = SW1
+|dial_code            = 020
+|os_grid_reference    = TQ295795
+|static_image_name    = Hdr parliament.jpg 
+|static_image_caption = The [[Palace of Westminster]]
+|static_image_2_name  = Westminster Abbey St Peter.jpg
+|static_image_2_caption 
+                      = Western facade of [[Westminster Abbey]]
+|charingX_distance_mi = 0.58
+|charingX_direction   = NEbE
+}}

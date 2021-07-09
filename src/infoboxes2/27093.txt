@@ -1,0 +1,36 @@
+{{Infobox airport
+| name = Heathrow Airport
+| nativename = 
+| image = Heathrow Logo 2013.svg
+| image-width = 250
+| image2 = London - Heathrow_(LHR - EGLL) AN1572653.jpg
+| image2-width = 250
+| IATA = LHR
+| ICAO = EGLL
+| WMO = 03772
+| city-served = [[London]]
+| location = [[London Borough of Hillingdon|Hillingdon]], London, England
+| hub = [[British Airways]]
+| focus_city = [[Virgin Atlantic]]
+| r1-surface = Grooved [[Asphalt concrete|asphalt]]
+| metric-rwy = yes
+| coordinates = {{coord|51|28|39|N|000|27|41|W|region:GB-HIL|display=it}}
+| pushpin_label = '''LHR'''/'''EGLL'''
+| pushpin_map = Greater London#United Kingdom#Europe
+| type = Public
+| owner = [[Heathrow Airport Holdings]]
+| operator = Heathrow Airport Limited
+| elevation-f = 83
+| website = {{url|https://www.heathrow.com}}
+| r1-number = 09L/27R
+| r1-length-m = 3,902
+| r2-number = 09R/27L
+| r2-length-m = 3,660
+| r2-surface = Grooved [[Asphalt concrete|asphalt]]
+| stat-year = 2020
+| stat1-header = Passengers
+| stat1-data = 22,109,550
+| stat2-header = Aircraft movements
+| stat2-data = 207,070
+| footnotes = Sources:<br />Statistics from the [[Civil Aviation Authority (United Kingdom)|CAA]] and Heathrow Airport Limited<ref name=stats>{{cite web|url=http://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/|title=Aircraft and passenger traffic data from UK airports|publisher=[[Civil Aviation Authority (United Kingdom)|UK Civil Aviation Authority]]|date=3 March 2018|access-date=30 July 2019|archive-url=https://web.archive.org/web/20170211070518/http://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/|archive-date=11 February 2017|url-status=live}}</ref><ref>{{cite web|url=https://www.heathrow.com/company/investor-centre/reports/traffic-statistics|title=Traffic Statistics {{!}} Heathrow|website=Heathrow Airport|language=en-GB|access-date=22 January 2020}}</ref>
+}}

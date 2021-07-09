@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                    = Štrpce
+| native_name             = Штрпце{{native name|sr|/Štrpce}}<br>''Shtërpca'' or {{native name|sq|Shtërpcë}}
+| native_name_lang        = 
+| other_name              = 
+| settlement_type         = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|Municipality]]
+| official_name           = 
+<!-- images and maps  ----------->
+| image_skyline          = Pogled na Strpce.jpg
+| imagesize              = 250px
+| image_caption          = Ski resort Brezovica and city of Štrpce
+| image_flag             = Flag of Štrpce.png
+| flag_size              = 
+| image_seal             = 
+| seal_size              = 
+| image_shield           = 
+| shield_size            =
+| image_blank_emblem     = Stema e Komunës Shtërpcë.svg
+| blank_emblem_type      = Emblem
+| blank_emblem_size      =
+| image_map              = File:Municipalities of Kosovo Štrpce.svg
+| mapsize                =
+| map_caption            = Location of the municipality of Štrpce within Kosovo
+| pushpin_map            = 
+| pushpin_label_position = 
+| pushpin_mapsize        = 
+| pushpin_map_caption    = 
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = [[Kosovo]]{{efn|name=status}}
+| subdivision_type1      = [[Districts of Kosovo|District]]
+| subdivision_name1      = [[District of Ferizaj]]
+| subdivision_type2      = Settlements
+| subdivision_name2      = 17
+<!-- Politics ----------------->
+| government_footnotes   =
+| government_type        =
+| leader_title           = Provisional president
+| leader_name            = [[Bratislav Nikolić]]
+| leader_party           = [[Serb List (Kosovo)|SL]]
+| established_title      =
+| established_date       =
+<!-- Area    --------------------->
+| area_magnitude         =
+| unit_pref                =
+| area_footnotes           =
+| area_total_km2           = 247.36
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2           =
+| area_total_sq_mi         =
+| area_land_sq_mi          =
+| area_water_sq_mi         =
+| area_water_percent       =
+| area_metro_km2           =
+| area_metro_sq_mi         =
+<!-- Population   ----------------------->
+| population_as_of               = 2015
+| population_footnotes           = 
+| population_note                = est.
+| population_total               = 13,630
+| population_density_km2         = auto
+| population_density_sq_mi       =
+| population_metro               =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_urban               =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| coordinates            = {{coord|42|14|N|21|01|E|region:RS_type:city(12712)|display=inline,title}}
+| elevation_footnotes    =  <!--for references: use  tags-->
+| elevation_m            = 975
+| elevation_ft           =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = Postal code
+| postal_code            = 73000
+| area_code              = +383(0)290
+| blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+| blank_info             = 05
+| blank1_name            =
+| blank1_info            =
+| website                = {{URL|https://kk.rks-gov.net/shterpce/}}
+| footnotes              =
+}}

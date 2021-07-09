@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|coordinates            = {{coord|47|21|3|N|21|17|3|E|display=inline}}
+|pushpin_map            = Hungary
+|pushpin_label_position = right
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|image_seal = Coa Hungary Town Kaba.svg
+|image_flag = Flag of Kaba (vertical).svg
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|official_name=Kaba
+|subdivision_type1=[[Counties of Hungary|County]]
+|subdivision_name1=[[Hajdú-Bihar County|Hajdú-Bihar]]
+|subdivision_type2=[[Districts of Hungary|District]]
+|subdivision_name2=[[Püspökladány District|Püspökladány]]
+|area_total_km2=95.03
+|population_as_of=2015
+|population_total=5878<ref name="HunStat2015">''[http://www.ksh.hu/apps/shop.kiadvany?p_kiadvany_id=81322&p_temakor_kod=KSH&p_session_id=800051036609396&p_lang=EN Gazetteer of Hungary, 1st January 2015]''. Hungarian Central Statistical Office.</ref>
+|population_density_km2=auto
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=4183
+|area_code_type=[[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 54
+|KSH code=02307
+|website={{URL|http://www.kaba.hu/}}
+}}

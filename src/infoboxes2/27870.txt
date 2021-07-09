@@ -1,0 +1,63 @@
+{{Infobox settlement
+|official_name            = Salton City
+|settlement_type          = [[Census designated place]]
+|image_skyline            =
+|imagesize                =
+|image_caption            =
+|image_seal               =
+|image_map                = Imperial_County_California_Incorporated_and_Unincorporated_areas_Salton_City_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Imperial County, California|Imperial County]] and the state of [[California]]
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+|pushpin_map              = USA California Southern#California#USA
+| pushpin_map_caption = Location in Southern California##Location in California##Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Imperial County, California|Imperial]]
+|government_type          =
+|leader_title             =
+|leader_name              =
+|established_date         =
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               = US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 21.431
+| area_land_sq_mi         = 21.431
+| area_water_sq_mi        = 0
+| area_total_km2          = 55.506
+| area_land_km2           = 55.506
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               =
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|1853413|Salton City}}</ref>
+|elevation_ft             = -125
+|elevation_m              = -38
+|population_as_of         = [[2010 United States Census|April 1, 2010]]
+|population_footnotes     =
+|population_total         = 3763
+|population_metro         =
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|coordinates_footnotes    = <ref name=gnis/>
+|coordinates              = {{coord|33|17|55|N|115|57|22|W|region:US-CA|display=inline,title}}
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92275
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|64294}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1853413}}, {{GNIS 4|2409242}}
+|footnotes                =
+|website                  =
+}}

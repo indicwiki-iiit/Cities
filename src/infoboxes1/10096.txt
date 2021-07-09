@@ -1,0 +1,32 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Çayırova
+| image_skyline           =Beylik-dağından-çayırova-995x498.jpg
+| image_caption           =
+| image_shield            =
+| image_map               = Kocaeli location Çayırova.svg
+| map_caption             = Location of Çayırova district in Kocaeli province
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|48|N|29|25|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Kocaeli Province|Kocaeli]]
+| subdivision_type2       =
+| subdivision_name2       =
+| leader_party            =
+| leader_title            = <!-- Mayor -->
+| leader_name             =
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_total_km2          =
+| elevation_m             =
+| population_footnotes    = {{Turkey district populations|SOURCE|Kocaeli}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Kocaeli|Çayırova|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Kocaeli|Çayırova|toplam}}
+| population_density_blank1_km2 = auto
+| postal_code_type = <!-- Post code -->
+| postal_code      =
+| website          = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

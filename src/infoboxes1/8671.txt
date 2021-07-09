@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Birendranagar
+|other_name             = dovanchaur
+|native_name            = वीरेन्द्रनगर
+|nickname               =
+|settlement_type        = Sub-Metropolitan City
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          = Ghantaghar@surkhet.JPG
+|image_caption          = Surkhet Ghantaghar
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal Karnali Province#Nepal <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in province
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = Nepal
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Karnali Province]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Surkhet District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type         =  
+|leader_title           = [[Mayor]]
+|leader_name            = Dev Kumar Subedi ([[Nepali Congress|NC]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Mohanmaya Dhakal ([[Nepal Communist Party|NCP]])
+|established_title      =  Established<!-- Settled -->
+|established_date       = 2033 [[Bikram Samvat|BS]] (1976 AD)
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               =2011
+|population_footnotes           =
+|population_note                =
+|population_total               =100, 458
+|population_density_km2         = auto
+|population_blank1_title  = Ethnicities
+|population_blank2_title  =
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|28|36|N|81|38|E|region:NP_type:city_source:GNS-enwiki|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]]
+|postal_code            = 21700
+|area_code              = 083
+|blank_name             =
+|blank_info             =
+|website                = [http://birendranagarmun.gov.np birendranagarmun.gov.np]
+|footnotes              =
+}}

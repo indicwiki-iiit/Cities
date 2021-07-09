@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Tömük
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Town
+| image_skyline           = Tömük, Mersin Province, Turkey.JPG
+| image_alt               = 
+| image_caption           = 
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Turkey
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| coordinates             = {{coord|36|40|N|34|23|E|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[List of regions of Turkey|Region]]
+| subdivision_name1       = [[Mediterranean Region|Mediterranean]]
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = [[Mersin Province|Mersin]]
+| subdivision_type3       = [[Districts of Turkey|District]]
+| subdivision_name3       = [[Erdemli]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = [[Justice and Development Party (Turkey)|Justice and Development Party]], AKP
+| leader_title            = [[Mayor]]
+| leader_name             = Derviş Yıldırım
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = 
+| population_total        = 10,907
+| population_as_of        = 2012
+| population_density_km2  = auto
+| population_demonym      = 
+| population_note         =
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[Postal codes in Turkey|Postal code]]
+| postal_code             = 33350
+| area_code_type          = [[Telephone numbers in Turkey|Area code]]
+| area_code               = 0-324
+| iso_code                = 
+| website                 = [http://www.yerelnet.org.tr/belediyeler/belediye.php?belediyeid=128568 www.yerelnet.org.tr]
+| footnotes               = 
+}}

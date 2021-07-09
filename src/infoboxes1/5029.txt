@@ -1,0 +1,45 @@
+{{Infobox Australian place
+| type          = city
+| name          = Shepparton
+| state         = vic
+| image         = Shepparton cow parade.jpg
+| caption       = Shepparton CBD, communications tower and "Mooving Art" display from Monash Park
+| coordinates   = {{coord|36|23|S|145|24|E|display=inline,title}}
+| pushpin_map_caption = Location in Victoria
+| pop           = 51631
+| pop_year      = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| poprank       = 28th
+| density       =
+| established   = {{start date|1860|09|24|df=yes}}
+| gazetted      = 28 September 1860
+| area          = 248.9
+| area_footnotes = <ref name="ABSSUAProf">{{cite web|title=2011 Census Community Profiles: Shepparton Mooroopna|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/2017|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=15 September 2016}}</ref> (2011 urban)
+| timezone      = [[Australian Eastern Standard Time|AEST]]
+| utc           = +10
+| timezone-dst  = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst       = +11
+| dist1         = 184
+| dir1          = NNE
+| location1     = [[Melbourne]]
+| dist2         = 123
+| dir2          = NE
+| location2     = [[Bendigo]]
+| dist3         = 185
+| dir3          = SW
+| location3     = [[Albury, New South Wales|Albury]]
+| dist4         = 61
+| dir4          = W
+| location4     = [[Benalla]]
+| dist5         = 4
+| dir5          = E
+| location5     = [[Mooroopna]]
+| lga           = [[City of Greater Shepparton]]
+| county = [[County of Moira|Moira]]
+| stategov      = [[Electoral district of Shepparton|Shepparton]]
+| fedgov        = [[Division of Nicholls|Nicholls]]
+| maxtemp       = 22.4
+| mintemp       = 8.6
+| rainfall      = 441.6
+| established_footnotes = <ref name="town-est"/>
+}}

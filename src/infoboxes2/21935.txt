@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Chippewa Falls, Wisconsin
+|settlement_type          = [[City]]
+|image_skyline            = File:Chippewa Falls Area Chamber Building.png
+|imagesize                = 
+|image_caption            = Chippewa Falls Chamber Building Downtown
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = Chippewa Falls, Wisconsin, logo.png
+|blank_emblem_type        = Chippewa Falls logo
+
+<!-- Maps -->
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_map                = File:Chippewa County Wisconsin Incorporated and Unincorporated areas Chippewa Falls Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Chippewa Falls in Chippewa County, Wisconsin.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|coordinates              = {{coord|44|56|N|91|24|W|region:US-WI|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_name2        = [[Chippewa County, Wisconsin|Chippewa]]
+
+<!-- Government -->
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Greg Hoffman<ref>{{Cite web|url=http://www.chippewafalls-wi.gov/your-government/mayor-and-city-council/mayor-and-city-council-members|title=Mayor and City Council Members &#124; City of Chippewa Falls, WI|website=www.chippewafalls-wi.gov}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 30.72
+|area_total_sq_mi         = 11.86
+|area_land_km2            = 29.31
+|area_land_sq_mi          = 11.32
+|area_water_km2           = 1.41
+|area_water_sq_mi         = 0.54
+
+<!-- Population -->
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 256
+|elevation_ft             = 840
+|population_total         = 13661
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_density_km2   = 490.12
+|population_density_sq_mi = 1269.42
+
+<!-- General information -->
+|population_est           = 14366
+|pop_est_as_of            = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|postal_code_type         = [[Zip code]]
+|postal_code              = 54729, 54774 (companies/organisations)
+|area_code                = [[Area codes 715 and 534|715 & 534]]  
+|website                  = [http://www.ci.chippewa-falls.wi.us ci.chippewa-falls.wi.us]
+|footnotes                = 
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 55-14575<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1563041<ref name="GR3" />
+}}

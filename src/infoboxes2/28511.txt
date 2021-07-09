@@ -1,0 +1,53 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Karungu
+|other_name             = Karungu Station, Karunga
+|settlement_type        = village
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Karungu-Kenya-huts-about-1910.png
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Kenya
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in Kenya
+|subdivision_type       = Country
+|subdivision_name       = Kenya
+|subdivision_type1      = [[Counties of Kenya|County]]
+|subdivision_name1      = [[Migori County]]
+|subdivision_type2      = 
+|subdivision_name2      =
+|subdivision_type3      = [[Divisions of Kenya|Division]]
+|subdivision_name3      = Karungu 
+|subdivision_type4      = Location
+|subdivision_name4      = Karungu
+<!-- Population   ----------------------->
+|population_as_of       = 
+|population_footnotes   =
+|population_note        =
+|population_total       = 
+|population_density_km2 =
+<!-- General information  --------------->
+|timezone               = [[East Africa Time|EAT]]
+|utc_offset             = +3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|00|50|47|S|34|09|17|E|region:KE|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 1200
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal Code
+|postal_code            = 
+|area_code              = 
+|website                = 
+|footnotes              = 
+}}

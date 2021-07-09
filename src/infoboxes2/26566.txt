@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Lake Mills, Wisconsin
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Bandshelter.jpg
+|image_caption = Franklin Else Bandstand in Commons Park
+|imagesize                = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|pushpin_map              = USA Wisconsin
+|pushpin_mapsize          = 250px
+|pushpin_map_caption      = Location of Lake Mills within Wisconsin
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name2        = [[Jefferson County, Wisconsin|Jefferson]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = City Council
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|accessdate=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 11.61
+|area_land_km2            = 10.81
+|area_water_km2           = 0.80
+|area_total_sq_mi         = 4.48
+|area_land_sq_mi          = 4.17
+|area_water_sq_mi         = 0.31
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5983
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5708
+|population_density_km2   = 553.69
+|population_density_sq_mi = 1434.08
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = {{coord|43|4|48|N|88|54|33|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[Zip Code]]
+|postal_code              = 53551
+|area_code                = [[Area code 920|920]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 55-41675
+|blank1_name              = 
+|blank1_info              = 
+|website                  = {{URL|www.ci.lake-mills.wi.us}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|image_map = File:Jefferson County Wisconsin Incorporated and Unincorporated areas Lake Mills Highlighted.svg
+|map_caption = Location of Lake Mills in Jefferson County, Wisconsin.
+}}

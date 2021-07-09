@@ -1,0 +1,29 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kilinochchi
+|native_name            = {{lang|ta|கிளிநொச்சி}}<br>{{lang|si|ගිරානික}}
+|settlement_type        = [[Town]]
+|image_skyline          = Kilinochchi court of de-facto State Tamil Eelam.jpg
+|image_size             = 300px
+|image_caption          = Kilinochchi courthouse
+|pushpin_map            = Sri Lanka Northern Province
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Sri Lanka]]
+|subdivision_type1      = [[Provinces of Sri Lanka|Province]]
+|subdivision_name1      = [[Northern Province (Sri Lanka)|Northern]]
+|subdivision_type2      = [[Districts of Sri Lanka|District]]
+|subdivision_name2      = [[Kilinochchi District|Kilinochchi]]
+|subdivision_type4 = [[Divisional Secretariats of Sri Lanka|DS Division]]
+|subdivision_name4 = Karachchi 
+| population_as_of =
+| population_footnotes = 
+| population_note = 
+| population_total =
+|timezone = [[Time zone#UTC .2B 6.2C F|Sri Lanka Standard Time Zone]]
+|utc_offset = +5:30
+|timezone_DST = 
+|utc_offset_DST = 
+|coordinates            = {{coord|9|23|N|80|24|E|region:LK|display=inline,title}}
+}}

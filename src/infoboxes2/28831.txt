@@ -1,0 +1,22 @@
+{{Infobox UK place 
+  |country =                          Scotland
+  |official_name=                     Holytown
+  |scots_name=                        Holytown
+  |gaelic_name=                       Baile a' Chuilinn
+  | population = {{Scottish locality populations|name|POP=Holytown}}
+  | population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+  |os_grid_reference=                 NS766606
+  |map_type=                          Scotland
+  |area_total_km2=                    5.35
+  |area_footnotes=                    <ref name=city2018>[https://www.citypopulation.de/en/uk/scotland/north_lanarkshire/S19000934__holytown/ Holytown (2018 estimate)], City Population</ref>
+  |coordinates = {{coord|55.82288|-3.97013|display=inline,title}}
+  |unitary_scotland=                  [[North Lanarkshire]]
+  |lieutenancy_scotland=              [[Lanarkshire]]
+  |constituency_westminster=          [[Airdrie and Shotts (UK Parliament constituency)|Airdrie and Shotts]]
+  |constituency_scottish_parliament=  [[Uddingston and Bellshill (Scottish Parliament constituency)|Uddingston and Bellshill]]
+  |historic_county = [[Lanarkshire]]
+|post_town=                         [[Motherwell, North Lanarkshire|Motherwell]]
+  |postcode_area=                      ML
+  |postcode_district=                  ML1 4
+  |dial_code=                          01698   
+}}

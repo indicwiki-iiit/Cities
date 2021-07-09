@@ -1,0 +1,79 @@
+{{Infobox settlement
+| name                            = Paradise, California
+| settlement_type                 = [[Town (California)|Town]]<!-- NOTE - even if it burns, it is still legally a town -->
+|official_name = Town of Paradise
+<!-- Images --------------->
+| image_skyline                   = Welcome to Paradise, CA.JPG
+| image_caption                   = Welcome to Paradise sign in 2011
+| image_flag                      = Flag of Paradise, California.png
+| image_seal                      = Seal of Paradise, California.svg
+
+<!-- Maps ----------------->
+| image_map                       = Butte_County_California_Incorporated_and_Unincorporated_areas_Paradise_Highlighted.svg
+| map_caption                     = Location within [[Butte County, California|Butte County]] and [[California]]
+| image_map1                      = 
+| map_caption1                    = <!-- Location ------------->
+| coordinates_footnotes           = <ref name="GNIS">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:277573|title=GNIS Detail - Paradise|website=geonames.usgs.gov}}</ref>
+| coordinates                     = {{coord|39|45|35|N|121|37|19|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Butte County, California|Butte]]
+
+<!-- Established ---------->
+| established_title               = Founded
+| established_date                = 
+| established_title1              = [[Platted]]
+| established_date1               = 
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = November 27, 1979<ref>{{cite web |url= http://www.calafco.org/docs/Cities_by_incorp_date.doc |title= California Cities by Incorporation Date |format= Word |publisher= California Association of [[Local Agency Formation Commission]]s |access-date= March 27, 2013 |url-status= dead |archive-url= https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date= October 17, 2013 }}</ref>
+| named_for                       = <!-- Government ----------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Greg Bolin<ref>{{cite web |url=http://www.townofparadise.com/index.php/our-government/town-council |title=Town Council |access-date=May 10, 2015 |publisher=Town of Paradise}}</ref>
+
+<!-- Area------------------>
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 18.33
+| area_land_sq_mi                 = 18.32
+| area_water_sq_mi                = 0.01
+| area_total_km2                  = 47.47
+| area_land_km2                   = 47.44
+| area_water_km2                  = 0.03
+| area_water_percent              = 0.08
+| unit_pref                       = Imperial
+
+<!-- Elevation ------------>| elevation_footnotes             = <ref name="GNIS"/>
+| elevation_ft                    = 1778
+
+<!-- Population ----------->
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0655520.html|title=Paradise (Town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=May 10, 2015|archive-url=https://web.archive.org/web/20150417222305/http://quickfacts.census.gov/qfd/states/06/0655520.html|archive-date=April 17, 2015|url-status=dead}}</ref>
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 26218
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| pop_est_as_of                   = 2019
+| population_est                  = 4476
+| population_density_sq_mi        = 244.38
+<!-- Set value back to "auto" once 2020 census data is available. -->
+
+
+
+
+<!-- General information -->| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 95967, 95969
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 530|530]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|55520}} <ref name="GNIS"/>
+| blank1_name                     = [[Geographic Names Information System|GNIS ID]]
+| blank1_info                     = {{GNIS 4|277573}} <ref name="GNIS"/>
+| website                         = {{URL|townofparadise.com}}
+|population_density_km2 = 94.35
+}}

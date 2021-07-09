@@ -1,0 +1,48 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type   = District
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_name  = {{TUR}}
+|timezone          = [[Eastern European Time|EET]]
+|utc_offset        = +2
+|map_caption       = Location of Gelibolu within Çanakkale Province.
+|timezone_DST      = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST    = +3
+|official_name     = Gelibolu
+|image_skyline     = Gelibolu - panoramio (11).jpg
+|image_caption     = The port of Gelibolu on the [[Dardanelles]] strait
+|image_blank_emblem =
+|blank_emblem_type  =
+|image_map          = Çanakkale location Gelibolu.svg
+|subdivision_type1  = [[Regions of Turkey|Region]]
+|subdivision_name1  = [[Marmara Region|Marmara]]
+|subdivision_type2  = [[Provinces of Turkey|Province]]
+|subdivision_name2  = [[Çanakkale Province|Çanakkale]]
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Çanakkale|Gelibolu}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Çanakkale}}
+| population_urban        = {{Turkey district populations|Çanakkale|Gelibolu|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Çanakkale|Gelibolu|toplam}}
+| population_density_blank1_km2  = auto
+|elevation_m             = 0
+|pushpin_map             = Turkey#Turkey Marmara#Europe
+|pushpin_label_position  = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption     = Location of Gelibolu
+|pushpin_mapsize         = 
+|coordinates             = {{coord|40|24|50|N|26|40|13|E|region:TR|display=inline,title}}
+|postal_code_type  = [[Postal code]]
+|postal_code      = 17500
+|blank_info     = 17
+|blank_name     = [[Turkish car number plates|Licence&nbsp;plate]]
+|area_code      = 286
+|leader_title   = Mayor
+|leader_name    = M. Mustafa Özacar ([[Republican People's Party (Turkey)|CHP]])
+|leader_title1  = Governor
+|leader_name1   = Hakan Kılınçkaya
+|website        = {{plainlist|
+* {{URL|www.gelibolu.bel.tr}}
+* {{URL|www.gelibolu.gov.tr}}
+}}
+}}

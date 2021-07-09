@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Eleşkirt
+| image_skyline                   = Zêdka (Eleşkirt), Agirî.jpg
+| image_caption                   = General view of Eleşkirt
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|39|47|53|N|42|40|28|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Turkey}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Ağrı Province|Ağrı]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Felicity Party]]
+| leader_title                    = Mayor
+| leader_name                     = Ramazan Yakut
+| leader_title1                   = 
+| leader_name1                    = 
+| elevation_m                     = 
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Ağrı|Eleşkirt}}
+| population_footnotes            = {{Turkey district populations|SOURCE|Ağrı}}
+| population_urban                = {{Turkey district populations|Ağrı|Eleşkirt|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Ağrı|Eleşkirt|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.eleskirt.bel.tr | www.eleskirt.bel.tr }}
+| official_name                   = 
+}}

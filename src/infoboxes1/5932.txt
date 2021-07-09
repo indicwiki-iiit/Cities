@@ -1,0 +1,42 @@
+{{Infobox settlement
+| name                            = Paphos
+| native_name                     = {{native name|el|Πάφος|italics=off}}<br/>{{native name|tr|Baf|italics=off}}
+| image_skyline                   = Paphos city collage.jpg
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = Paphos municipality.png
+| pushpin_map                     = Cyprus #Europe
+| pushpin_mapsize                 = 300
+| coordinates                     = {{coord|34|46|N|32|25|E|region:CY|display=inline}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Cyprus}}
+| subdivision_type1               = [[Districts of Cyprus|District]]
+| subdivision_name1               = [[Paphos District]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Phedonas Phedonos<ref>https://www.themayor.eu/en/cyprus/paphos/mayor/phedonas-phedonos</ref>
+| area_total_km2                  = 
+| elevation_m                     = 75
+| elevation_ft                    = 236
+| population_total                = 35,961
+| population_as_of                = 2018
+| population_footnotes            = <ref>{{cite web|title=Population of Cities in Cyprus (2018)|url=http://worldpopulationreview.com/countries/cyprus-population/cities/|website=World population review 2018 |access-date=19 July 2018}}</ref>
+| population_urban                = 63600
+| population_metro                = 90200
+| population_demonym              = Pafitis
+| postal_code_type                = Post code
+| postal_code                     = 8000–8999
+| website                         = {{URL|http://pafos.org.cy/}}
+| footnotes                       = {{Infobox UNESCO World Heritage Site
+ |child = yes
+ |ID = 79
+ |Year = 1980
+ |Criteria = Cultural: iii, vi
+ |Area = 162.0171 ha
+ }}
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[European Summer Time|EST]]
+| utc_offset_DST                  = +3
+| official_name                   = 
+}}

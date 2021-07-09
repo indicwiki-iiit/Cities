@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| name                   = Lock Haven, Pennsylvania
+| native_name            = <!-- for cities whose native name is not in English -->
+| settlement_type        = [[List of cities in Pennsylvania|City]]
+<!-- images and maps ----------->
+<!-- | image_skyline          = Clinton County Pennsylvania Courthouse 2 crop.jpg
+| image_alt              = A formal building with arched windows and two domed towers is on a street corner near other less formal buildings. A car is parked in front of the formal building. Diagonally opposite are a stop sign and a small stone sculpture or monument.
+| image_caption          = Clinton County Courthouse, Lock Haven (1869), [[Samuel Sloan (architect)|Samuel Sloan]] and [[Addison Hutton]], architects{{sfn|Wagner|1979|p=6}} -->
+| image_size            = 300
+| image_flag             = 
+| image_seal             = 
+| image_shield           = 
+| image_map              = Clinton County Pennsylvania incorporated and unincorporated areas Lock Haven highlighted.svg
+| mapsize                = 300
+| map_caption            = Location within Clinton County
+| pushpin_map            = Pennsylvania#USA
+| pushpin_map_caption    = Location within Pennsylvania##Location within the United States
+| pushpin_label          = Lock Haven
+| pushpin_relief         = 1
+<!-- Location ------------------>
+| coordinates            = {{coord|41|08|16|N|77|27|03|W|region:US-PA_type:city|display=inline,title}}
+| coordinates_footnotes  = <ref name="gnis"/>
+| subdivision_type       = [[Country]]
+| subdivision_name       = [[United States]]
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = [[Pennsylvania]]
+| subdivision_type2      = County
+| subdivision_name2      = [[Clinton County, Pennsylvania|Clinton County]]
+| established_title      = Settled
+| established_date       = 1769
+| established_title2     = Incorporated (borough)
+| established_date2      = 1844
+| established_title3     = Incorporated (city)
+| established_date3      = 1870
+| government_type        = Council-Manager
+| leader_title          = Mayor <!-- for places with, say, both a mayor and a city manager -->
+| leader_name           = Joel Long
+| leader_title1          = Manager
+| leader_name1           = Gregory J. Wilson
+<!-- Area --------------------->
+| unit_pref              = Imperial
+| area_total_km2         = 6.91
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = 6.47
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         = 0.44
+| area_water_percent     = 6.44
+| elevation_footnotes    = <ref name="gnis">{{cite web | work = [[Geographic Names Information System]] (GNIS) | publisher = United States Geological Survey | date =  August 30, 1990 | url ={{Gnis3|1215116}} | title = City of Lock Haven | access-date = November 9, 2009}}</ref>
+| elevation_ft           = 561
+<!-- Population ----------------------->
+| population_footnotes   = <ref name="Census QuickFacts">{{cite web|title=State and County QuickFacts: Lock Haven (city), Pennsylvania|url=http://quickfacts.census.gov/qfd/states/42/4244128.html|publisher=U.S. Census Bureau|date=March 31, 2015|access-date=April 19, 2015|archive-url=https://web.archive.org/web/20151222085206/http://quickfacts.census.gov/qfd/states/42/4244128.html|archive-date=December 22, 2015|url-status=dead}}</ref>
+| population_total       = 9772
+| population_as_of       = [[2010 United States Census|2010]]
+| population_est         = 9083
+| pop_est_as_of          = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_density_km2 = 1404.80
+<!-- General information --------------->
+| timezone               = [[Eastern Standard Time Zone|EST]]
+| utc_offset             = -5
+| timezone_DST           = [[Eastern Daylight Time Zone|EDT]]
+| utc_offset_DST         = -4
+<!-- Area/postal codes & others -------->
+| postal_code_type       = [[ZIP Code]]<!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 17745
+| area_code              = [[Area codes 570 and 272|570 and 272]] (570 Exchanges: 484,488,893)
+| website                = {{URL|http://lockhavenpa.gov}}
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-44128
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_total_sq_mi = 2.67
+|area_land_sq_mi = 2.50
+|area_water_sq_mi = 0.17
+|population_density_sq_mi = 3639.02
+}}

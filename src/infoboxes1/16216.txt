@@ -1,0 +1,93 @@
+{{Infobox settlement
+|name                     = Great Falls
+|settlement_type          = [[Cities of the United States|City]] and [[County seat]]
+|nickname                 = The Electric City
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Central Ave and Civic Center 1.JPG
+|imagesize                = 250px
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Great Falls Montana Seal.png
+
+<!-- Maps -->
+|image_map                = Cascade_County_Montana_Incorporated_and_Unincorporated_areas_Great_Falls_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location within [[Cascade County, Montana|Cascade County]] and [[Montana]]
+|image_map1               = 
+|mapsize1                 = L
+|map_caption1             = 
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the U.S.
+|pushpin_label            = Great Falls, Montana
+|pushpin_label_position   = right
+|pushpin_relief           = yes
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|47|30|13|N|111|17|11|W|region:US-MT_type:city|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Montana]]
+|subdivision_type2        = [[List of counties in Montana|County]]
+|subdivision_name2        = [[Cascade County, Montana|Cascade]]
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1888
+|named_for                = [[Great Falls (Missouri River)|Great Falls of the Missouri River]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = Bob Kelly
+|leader_title1            = <!-- City Administrator or City Clerk -->
+|leader_name1             = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_30.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_total_sq_mi         = 23.45
+|area_land_sq_mi          = 22.97
+|area_water_sq_mi         = 0.48
+|area_total_km2           = 60.74
+|area_land_km2            = 59.50
+|area_water_km2           = 1.24
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|802113|Great Falls}}</ref>
+|elevation_ft             = 3330
+|elevation_m              = 
+
+<!-- Population -->
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 58505
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 58434
+|population_density_sq_mi = 2543.59
+|population_rank          = US: 617th
+|population_metro         = 82,278 (US: [[List of Metropolitan Statistical Areas|374th]])
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|MST]]
+|utc_offset = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST = &minus;6
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 59401-59406
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 406|406]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|30|32800}}
+|blank1_name              = [[Geographic Names Information System|GNIS ID]] = {{GNIS 4|802113}}
+|website                  = {{URL|https://greatfallsmt.net/|greatfallsmt.net}}
+|population_density_km2 = 982.09
+}}

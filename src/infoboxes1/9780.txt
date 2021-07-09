@@ -1,0 +1,35 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Gwangmyeong}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|광명시}}}}
+| translit_lang1          = Korean
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|광|명|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|光|明|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Gwangmyeong-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Kwangmyŏng-si
+| image_skyline           = GwangmyeongCityHall.jpg
+| imagesize               = 
+| image_caption           = 
+| image_map               = Gyeonggi-Gwangmyeong.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| coordinates = {{coord|37.476|N|126.866|E|type:city_region:KR-41|format=dms|display=it}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|South Korea}}
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Seoul National Capital Area|Sudogwon]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Seoul dialect|Seoul]]
+| area_total_km2          = 38.5
+| population_as_of        = 2002
+| population_total        = 341671
+| population_density_km2  = 8874.6
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 18 villages
+| image_flag              = Gwangmyeong logo.png
+| blank_emblem_type       = Emblem of Gwangmyeong
+}}

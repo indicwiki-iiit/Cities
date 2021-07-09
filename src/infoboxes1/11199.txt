@@ -1,0 +1,45 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Thái Nguyên
+| official_name                   = Thái Nguyên City
+| other_name                      = 
+| native_name                     = Thành phố Thái Nguyên
+| nickname                        = 
+| settlement_type                 = [[Provincial city (Vietnam)|City (Class-1)]]<!-- e.g. Town, Village, City, etc.-->
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   =
+| imagesize                       = 300
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = Emblem of Thainguyen City.png
+| image_shield                    = 
+| image_map                       = {{Infobox mapframe|frame-width=280}}
+| map_caption                     = 
+| pushpin_map                     = Vietnam <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of in Vietnam
+| pushpin_mapsize                 = 300
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Vietnam}}
+| subdivision_type1               = [[Provinces of Vietnam|Province]]
+| subdivision_name1               = [[Thái Nguyên Province]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| seat_type                       = 
+| seat                            = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = <!--Enter: Imperial, to display imperial  before metric-->
+| area_footnotes                  = 
+| area_total_km2                  = 170.7
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| population_as_of                = 2018
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 420,000
+| population_density_km2          = 1860
+| coordinates                     = {{coord|21|36|N|105|51|E|region:VN|display=inline,title}}
+}}

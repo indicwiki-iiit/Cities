@@ -1,0 +1,85 @@
+{{Infobox settlement
+| name                    = Perris
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Perris_community_building_1_long_view.jpg
+|imagesize                = 
+|image_caption            = Perris Civic Center
+|image_seal               = File:Seal of City of Perris (Vector).png
+|image_map                = Riverside_County_California_Incorporated_and_Unincorporated_areas_Perris_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Riverside County, California|Riverside County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|33|47|48|N|117|13|28|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[Riverside County, California|Riverside]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 26, 1911<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = February 21, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+|government_type          = [[Council–manager government|Council-manager]]
+|leader_title             = [[Mayor]]
+
+[[City Council]]
+|leader_name              = Michael M. Vargas<ref>{{cite web
+ | url = http://www.cityofperris.org/city-gov/council.html
+ | title = Council Members
+ | publisher = City of Perris
+ | access-date = February 15, 2017}}</ref>
+
+David Starr Rabb<br />Rita Rogers<br />Tonya Burke<br />Malcolm Corona
+<!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 82.04
+| area_total_sq_mi        = 31.68
+| area_land_km2           = 81.76
+| area_land_sq_mi         = 31.57
+| area_water_km2          = 0.28
+| area_water_sq_mi        = 0.11
+| area_water_percent      = 0.35
+|elevation_footnotes      = <ref>{{Cite GNIS|1652772|Perris|access-date=November 2, 2014}}</ref>
+|elevation_m              = 443
+<!-- Population ----------->
+|elevation_ft             = 1453
+|population_total         = 68386
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0656700.html|title=Perris (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150417222310/http://quickfacts.census.gov/qfd/states/06/0656700.html|archive-date=April 17, 2015|df=mdy-all}}</ref>
+|population_density_sq_mi = 2511.75
+|population_est           = 79291
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 92570–92572, 92599
+|area_code                = [[Area code 951|951]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.cityofperris.org}}
+| pushpin_label = Perris
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|56700}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652772}}, {{GNIS 4|2411403}}
+|population_density_km2 = 969.79
+}}

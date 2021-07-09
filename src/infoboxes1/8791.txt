@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Gurbhakot
+|native_name            = गुर्भाकोट नगरपालिका
+|native_name_lang       = ne 
+|official_name          =
+|other_name             =
+|nickname               =
+|settlement_type        = [[List of cities in Nepal|Municipality]]
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 300px
+|image_caption          = 
+|image_flag             =
+|image_seal             =
+|mapsize                = 300px
+|map_caption            =
+| pushpin_map        = Nepal
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        = 300
+<!-- Location ------------------>
+|pushpin_map_caption    = Location in Nepal
+|pushpin_relief         = 1
+|coordinates         = {{coord|28.439042|N|81.852828|E|region:NP-BR|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Provinces of Nepal|Province]]
+|subdivision_name1      = [[Karnali Pradesh|Karnali]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name2      = [[Surkhet District|Surkhet]]
+|subdivision_type3      = Total Wards
+|subdivision_name3      = 14
+<!-- Politics -->
+|established_title      = Established
+|established_date       = 1 October 2015
+|established_title2     = Established as
+|established_date2      = Shubhaghat Gangamala
+|government_footnotes   =
+|government_type   = 
+|governing_body    = 
+|leader_title      = [[Mayor]]
+|leader_name       = Mr. Hasta Pun ([[Nepali Congress|NC]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Mrs. Maina BK ([[Nepali Congress|NC]])
+|leader_title3     = [[Executive Officer]]
+|leader_name3      =
+|established_title3     = <!-- Incorporated  (town) --> 
+|established_date3      = 
+|established_title4     = <!-- Incorporated  (city) -->
+|established_date4      =
+<!-- Area    -->
+|unit_pref         = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes    =&nbsp;of Municipality
+|area_total_km2    = 228.62
+|area_note         = 
+<!-- Population   -->
+|population_total       = 43765
+|population_as_of       = 2011
+|population_footnotes   =
+|population_density_km2 =
+|population_municipality   = 
+|population_density_municipality_km2   =
+|population_blank1_title        = Ethnicities
+|population_blank1_info = 
+|demographics_type1     = Languages
+|demographics1_title1   = Local
+|demographics1_info1    =
+|demographics1_title2   = Official
+|demographics1_info2    = [[Nepali language|Nepali]]
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_max_m            = 
+|elevation_min_m = 
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]]
+|postal_code            = 
+|area_code              = 
+|blank_name             =
+|blank_info             =
+|website                = [http://gurbhakotmun.gov.np official website]
+|footnotes              = 
+}}

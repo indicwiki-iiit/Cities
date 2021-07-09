@@ -1,0 +1,48 @@
+{{Infobox settlement
+| name                    = Seria
+| native_name             = Pekan Seria
+| native_name_lang        = ms
+| settlement_type         = [[Municipalities of Brunei|Municipality]] and [[villages of Brunei|village]]
+| image_skyline           = {{Photomontage
+| photo1a                 = Seria Town.jpg
+| photo1b                 = I LOVE SERIA at Oil and Gas Discovery Centre.jpg
+| photo2a                 = Seria Oil Refinery.jpg
+| photo2b                 = Seria Energy Lab.jpg
+| spacing                 = 1
+| color_border            = white
+| color                   = white
+| size                    = 250
+| foot_montage            = Clockwise from top left: Seria Town, "I Love Seria" sign, Seria Energy Lab, Seria Oil Refinery
+}}
+<!-- map(s) and coordinates -->
+| image_map               =
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Brunei
+| pushpin_label_position  = none
+| pushpin_map_caption     = Location in Brunei
+| coordinates             = {{coord|4.614132|114.330246|region:BN_type:city|display=inline,title|format=dms}}
+| subdivision_type        = Country
+| subdivision_name        = [[Brunei]]
+| subdivision_type1       = [[Districts of Brunei|District]]
+| subdivision_type2       = [[Mukims of Brunei|Mukim]]
+| subdivision_name1       = [[Belait District|Belait]]
+| subdivision_name2       = [[Mukim Seria|Seria]]
+| governing_body          = Kuala Belait and Seria{{break}}Municipal Board
+<!-- magnitude -->
+| unit_pref               = Metric
+| area_footnotes          = <ref name="municipal area" />
+| area_note               = 
+| area_rank               = 
+| area_blank1_title       = Municipality
+| area_blank1_km2         = 1.56
+| area_total_ha           = 
+| length_km               = 
+| width_km                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| postal_code_type        = [[List of postcodes in Brunei|Postcodes]]
+| postal_code             = KB1133, KB1233
+| website                 = {{URL|http://bandaran-kb.gov.bn}}
+}}

@@ -1,0 +1,41 @@
+{{Infobox ancient site
+ |name = Great Zimbabwe
+ |native_name =
+ |image = Conical Tower - Great Enclosure III (33736918448).jpg
+ |alt =
+ |caption = Tower in the Great Enclosure, Great Zimbabwe
+ |map_type = Zimbabwe#Africa
+ |map_alt =
+ |coordinates = {{coord|20|16|S|30|56|E|display=inline,title}}
+ |location = [[Masvingo Province]], [[Zimbabwe]]
+ |type = Settlement
+ |part_of = [[Kingdom of Zimbabwe]]
+ |length =
+ |width =
+ |area = {{convert|7.22|km2|acre|abbr=off}}
+ |height =
+ |builder =
+ |material = [[Granite]]
+ |built = 11th century AD
+ |abandoned = 15th century AD
+ |epochs = Late [[Iron Age]]
+ |cultures = Kingdom of Zimbabwe
+ |dependency_of =
+ |occupants =
+ |event =
+ |excavations =
+ |archaeologists =
+ |condition =
+ |ownership =
+ |management =
+ |public_access =
+ |website = <!-- {{URL|example.com}} -->
+ |notes = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Great Zimbabwe National Monument
+  |ID = 364
+  |Year = 1986
+  |Criteria = Cultural: i, iii, vi
+  }}
+}}

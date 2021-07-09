@@ -1,0 +1,37 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Svishtov
+| native_name                     = Свищов
+| image_shield                    = Svishtov-coat-of-arms.svg
+| image_skyline                   = Sveta Troitca Svistov.jpg
+| image_caption                   = [[Church of the Holy Trinity, Svishtov|Church of the Holy Trinity]] (1867) designed by [[Kolyo Ficheto]]
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br/><small>(Oblast)</small>
+| subdivision_name1               = [[Veliko Tarnovo Province|Veliko Tarnovo]]
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| map_caption                     = Location of Svishtov|
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Svishtov
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| area_total_km2                  = 110.721
+| population_density_km2          = auto
+| population_demonym              = Svishtovian
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| website                         = {{URL|http://svishtov.bg/index_en.php}}
+| population_total                = 30157
+| population_urban                = 44359
+| population_footnotes            = <ref name="statistika"/><ref name="population"/><ref name="pop-stat"/>
+| population_as_of                = 2011
+| elevation_m                     = 88
+| postal_code                     = 5250
+| area_code                       = 0631
+| coordinates                     = {{coord|43|37|N|25|21|E|region:BG|display=inline,title}}
+| leader_name                     = Gencho Bozhinov Genchev|
+| name                            = 
+| settlement_type                 = Town
+}}

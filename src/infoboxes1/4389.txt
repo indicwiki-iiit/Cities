@@ -1,0 +1,24 @@
+{{Infobox settlement|
+<!-- Name  ---------------->
+|name                   = Willowdale
+|settlement_type        = Neighbourhood
+|image_skyline          = DowntownNorthYork20150914.jpg
+|image_caption          = View of Willowdale looking north from North York Boulevard and [[Yonge Street]]
+|image_map              = Willowdale map.PNG
+|pushpin_map            = Canada Toronto
+|coordinates            = {{coord|43|47|14|N|79|25|46|W|region:CA-ON_type:city_scale:50000|display=title, inline}}
+|pushpin_map_caption    = 
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = Province
+|subdivision_name1      = {{ON}}
+|subdivision_type2      = City
+|subdivision_name2      = {{Flagicon|Toronto}} [[Toronto]]
+|subdivision_type3      = Community
+|subdivision_name3      = [[North York, Toronto|North York]]
+<!-- History  ---------------->
+|established_title      =
+|established_date       =
+|established_title1     = Changed Municipality
+|established_date1      = 1998 [[Toronto]] from [[North York, Toronto|North York]]
+}}

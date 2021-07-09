@@ -1,0 +1,64 @@
+{{Infobox settlement
+| official_name            = Fort Dodge, Iowa
+| settlement_type          = City
+| image_skyline            = Fort Dodge Iowa.jpg
+| image_caption            = Central Avenue
+| image_flag               = Fort Dodge Flag.gif
+| image_seal               = FortDodgeSeal.png
+| image_blank_emblem      = Fort Dodge, Iowa logo.GIF
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       = 145px
+| blank_emblem_alt        = 
+| nickname                 = 
+| motto                    = Frontier of the Future
+| image_map                = Webster_County_Iowa_Incorporated_and_Unincorporated_areas_Fort_Dodge_Highlighted.svg
+| mapsize                  = 250px
+| map_caption              = Location in the State of [[Iowa]]
+| coordinates              = {{coord|42|30|24|N|94|10|49|W|region:US-IA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|Iowa}}
+| subdivision_type2        = [[List of counties in Iowa|County]]
+| subdivision_name2        = [[Webster County, Iowa|Webster]]
+| established_title        = [[Municipal corporation|Incorporated]]
+| established_date         = 1869
+| government_type          = 
+| leader_title             = [[Mayor]]
+| leader_name              = Matt Bemrich
+| leader_title1            = [[City Manager]]
+| leader_name1             = David Fierke
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+| area_total_km2           = 42.24
+| area_total_sq_mi         = 16.31
+| area_land_km2            = 41.55
+| area_land_sq_mi          = 16.04
+| area_water_km2           = 0.69
+| area_water_sq_mi         = 0.27
+| elevation_m              = 352
+| elevation_ft             = 1155
+<!-- Population -->
+| population_footnotes     = <ref name="wwwcensusgov"/>
+| population_total         = 25206
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 23888
+| pop_est_as_of            = 2019
+| population_density_km2   = 574.87
+| population_density_sq_mi = 1488.91
+| timezone                 = [[North American Central Time Zone|CST]]
+|utc_offset = &minus;6
+| timezone_DST             = [[North American Central Time Zone|CDT]]
+|utc_offset_DST = &minus;5
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 50501
+| area_code                = [[Area code 515|515]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 19-28515
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0456686
+| website                  = {{URL|http://www.fortdodgeiowa.org/}}
+| footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

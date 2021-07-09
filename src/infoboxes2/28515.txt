@@ -1,0 +1,24 @@
+{{Infobox Australian place | type = town
+| name     = Merredin
+| state    = wa
+| image    = Barrack Street, Merredin, 2013.JPG
+| caption  = Barrack Street, Merredin, 2013.
+| lga      = [[Shire of Merredin]]
+| coordinates = {{coord|31.482|S|118.279|E|display=inline,title}}
+| postcode = 6415
+| est      = 1890s
+| pop      = 2,850| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref>{{Census 2016 AUS|id=SSC50928|name=Merredin ( State Suburb)|quick=on|accessdate=20 September 2017}}</ref>
+| elevation= 318
+| maxtemp  = 24.7
+| mintemp  = 10.7
+| rainfall = 314.4
+| stategov = [[Electoral district of Central Wheatbelt|Central Wheatbelt]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 256
+| dir1     = east
+| location1= [[Perth]]
+| dist2    = 326
+| dir2     = west
+| location2= [[Kalgoorlie, Western Australia|Kalgoorlie]]
+}}

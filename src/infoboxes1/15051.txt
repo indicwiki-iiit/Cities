@@ -1,0 +1,31 @@
+{{Infobox settlement
+| settlement_type        = Town
+| name                   = Nenagh
+| native_name            = {{Pad top italic|An tAonach / Aonach Urmhumhan}}
+| image_skyline          = Centre of Nenagh - panoramio.jpg
+| image_caption          = Nenagh town centre
+| pushpin_map            = Ireland
+| pushpin_label_position = left
+| pushpin_map_caption    = Location in Ireland
+| coordinates            = {{coord|52.8632|-8.1995|dim:5000_region:IE|display=inline,title}}
+| blank_name_sec1        = Irish Grid Reference
+| blank_info_sec1        = {{iem4ibx|R865787}}
+| unit_pref              = Metric
+| elevation_m            = 72
+| subdivision_type       = Country
+| subdivision_name       = Ireland
+| subdivision_type1      = [[Provinces of Ireland|Province]]
+| subdivision_name1      = [[Munster]]
+| subdivision_type2      = [[Counties of Ireland|County]]
+| subdivision_name2      = [[County Tipperary|Tipperary]]
+| subdivision_type3      = [[Municipal District]]
+| subdivision_name3      = [[Nenagh Municipal District|Nenagh]]
+| population_as_of       = 2016
+| population_footnotes   = <ref name=cso2016>{{cite web | url = http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=EC0BF1F2-383B-4F19-8954-BAF0D598D388 | title = Census 2016 Sapmap Area: Settlements Nenagh | publisher = [[Central Statistics Office (Ireland)]] | access-date = 22 April 2019}}</ref>
+| population_total       = 8968
+| website                = {{URL|www.nenagh.ie}}
+| area_code_type         = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code              = 067
+| postal_code_type       = [[Eircode]]
+| postal_code            = E45
+}}

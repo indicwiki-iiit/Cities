@@ -1,0 +1,12 @@
+{{Infobox station
+|code = กร.
+|address = National Highway No.3459, Mu 7 (Ban Krut), Thongchai Subdistrict, Bang Saphan District, Prachuap Khiri Khan
+|name = Ban Krut railway station
+|native_name_lang = th
+|native_name = สถานีรถไฟบ้านกรูด
+|owned = [[State Railway of Thailand]]
+|platform = 1
+|services = {{s-rail|title=SRT}}
+{{s-line|system=SRT|line=Southern|previous=Khok Ta Hom Halt|next=Nong Mongkhon Halt|type=North|type2=South}}
+|tracks = 3
+}}

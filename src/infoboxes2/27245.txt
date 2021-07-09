@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Nephi, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Nephi city 2007.jpg
+|imagesize                = 
+|image_caption            = City sign
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Juab County Utah incorporated and unincorporated areas Nephi highlighted.svg
+|mapsize                  = 300px
+|map_caption              = Location in [[Juab County, Utah|Juab County]] and state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Juab County, Utah|Juab]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1851
+|named_for                = [[Nephi, son of Lehi|Nephi]]
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 12.31
+|area_land_km2            = 12.31
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 4.75
+|area_land_sq_mi          = 4.75
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 5389
+|pop_est_as_of            = 2019
+|population_est           = 6378
+|population_density_km2   = 518.11
+<!-- 2018 est. -->
+|population_density_sq_mi = 1341.89
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1563
+|elevation_ft             = 5128
+|coordinates              = {{coord|39|42|33|N|111|49|53|W|type:city_region:US-UT|display=it}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84648
+|area_code                = [[Area code 435|435]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-54220<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1443793<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|nephi.utah.gov}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

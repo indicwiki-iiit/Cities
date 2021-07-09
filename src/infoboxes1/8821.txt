@@ -1,0 +1,62 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+| name                    = Pyuthan
+| native_name             = प्यूठान नगरपालिका
+| other_name              = Pyuthan Khalanga
+| settlement_type         = [[Municipalities of Nepal|Municipality]]
+<!-- images and maps  -->
+| image_skyline           =
+| image_caption           =
+| image_flag              =
+| image_seal              =
+| nickname                =
+| image_map               =
+| map_caption             =
+| pushpin_map             = Nepal Lumbini Province#Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position  = bottom
+| pushpin_mapsize         = 300
+| pushpin_map_caption     = Location in Nepal
+<!-- Location -->
+| coordinates             = {{coord|28|06|N|82|52|E|region:NP_type:city_source:enwiki-GNS|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Nepal}}
+| subdivision_type1       = [[Provinces of Nepal|Province]]
+| subdivision_name1       = [[Lumbini Province]]
+| subdivision_type2       = [[Districts of Nepal|District]]
+| subdivision_name2       = [[Pyuthan District]]
+| subdivision_type3       = [[List of parliamentary constituencies of Nepal|Parliamentary constituency]]
+| subdivision_name3      = [[Pyuthan 1]]
+| subdivision_type4       = [[Provincial Assembly of Lumbini Province|Provincial constituencies]]
+| subdivision_name4       =[[Pyuthan 1|Pyuthan 1(A)]], [[Pyuthan 1|Pyuthan 1(B)]]
+| established_title       = Established<!-- Settled -->
+| established_date        =2014
+| government_footnotes    =
+| government_type         =[[Mayor-council]]
+|leader_title             = [[Mayor]]
+|leader_name              = Arjun Kumar Kachyapati
+|leader_title1            = [[Deputy Mayor]]
+|leader_name1             = Shanta Acharya 
+<!-- Area    --------------------->
+|area_magnitude         =
+| unit_pref               = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes          =
+| area_total_km2          = 128.96<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi        =
+| elevation_footnotes     = <!--for references: use<ref> </ref>  tags-->
+| elevation_m             =
+| population_footnotes    =
+| population_total        = 38,449
+| population_as_of        = 2011 <ref name="pyu">{{cite web |url= http://103.69.124.141/ |title= स्थानीय तहहरुको विवरण |trans-title =Details of the local level bodies |language =Nepali |access-date= 17 July 2018 |website= www.mofald.gov.np/en |publisher=[[Ministry of Federal Affairs and Local Development (Nepal)|Ministry of Federal Affairs and Local Development]]}}</ref> 
+| population_density_km2  = auto
+| population_note         = 
+| timezone                = [[Nepal Standard Time|NST]]
+| utc_offset              = +5:45
+| timezone_DST            =
+| utc_offset_DST          =
+| postal_code_type        = [[Postal code]]
+| postal_code             = 22300
+| area_code               = 086
+| website                 = {{url|pyuthanmun.gov.np}}
+| footnotes               = 
+}}

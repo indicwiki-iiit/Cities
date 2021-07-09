@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Turhal
+| image_skyline           = Turhal bridge.JPG
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|23|24|N|36|05|24|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Tokat Province|Tokat]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Yılmaz Bekler
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Mehmet Ünlü
+| elevation_m             = 493
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Tokat|Turhal}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Tokat}}
+| population_urban        = {{Turkey district populations|Tokat|Turhal|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Tokat|Turhal|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 60 300
+| website                 = {{URL| www.turhal.bel.tr | www.turhal.bel.tr }}
+}}

@@ -1,0 +1,97 @@
+{{Infobox settlement
+|official_name            = Town of Tiburon
+|settlement_type          = [[Town (California)|Town in California]]
+|image_skyline            = TiburonDowntown.jpg
+|image_caption            = View of Downtown Tiburon near the Ferry Docks
+|image_seal               = 
+|image_map                = Marin County California Incorporated and Unincorporated areas Tiburon Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Marin County, California|Marin County]] and the state of California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|37|52|25|N|122|27|24|W|region:US-CA_type:city(9000)|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[Marin County, California|Marin]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = June 23, 1964<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+|government_type          = 
+|leader_title             = [[Marin County Board of Supervisors|Supervisor]]
+|leader_name              = District 3<br />[[Kate Sears]]
+|leader_title1            = [[California's 2nd State Senate district|State Senator]]
+|leader_name1             = {{Representative|casd|2|fmt=sleader}}<ref name=swd/>
+|total_type                  = Total
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 34.23
+| area_total_sq_mi        = 13.22
+| area_land_km2           = 11.60
+| area_land_sq_mi         = 4.48
+| area_water_km2          = 22.63
+| area_water_sq_mi        = 8.74
+| area_water_percent      = 66.27
+| area_note               = 
+|elevation_footnotes      = <ref name=gnis>{{Cite gnis|1659998|Tiburon}}</ref>
+|elevation_m              = 4
+<!-- Population ----------->
+|elevation_ft             = 13
+|population_total         = 8962
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0678666.html|title=Tiburon (town) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 11, 2015|archive-url=https://web.archive.org/web/20150923124725/http://quickfacts.census.gov/qfd/states/06/0678666.html|archive-date=September 23, 2015|url-status=dead}}</ref>
+|population_density_sq_mi = 2027.68
+|population_est           = 9084
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|population_density_metro_km2 = <!-- Time zones ----------->
+|population_density_metro_sq_mi = 
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 94920<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 23, 2014}}</ref>
+|area_code                = [[Area codes 415 and 628|415/628]]
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|website                  = {{URL|townoftiburon.org}}
+|footnotes                = 
+|leader_title2            = [[California's 10th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|10|fmt=sleader}}<ref name=swd>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = October 12, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+|leader_title3            = [[California's 2nd congressional district|U.S. Rep.]]
+|leader_name3             = {{Representative|cacd|2|fmt=usleader}}<ref>{{Cite GovTrack|CA|2|access-date=March 8, 2013}}</ref>
+<!-- Area------------------>
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|78666}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1659998}}, {{GNIS 4|2413389}}
+|population_density_km2 = 782.85
+}}

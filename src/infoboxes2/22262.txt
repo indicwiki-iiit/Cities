@@ -1,0 +1,41 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Drøbak <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             =
+|native_name            = <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = Unincorporated&nbsp;city <br/>Former&nbsp;municipality 
+|image_skyline          = Drøbak, 2019 (01).jpg
+|imagesize              = 
+|image_caption          = Drøbak seen from the [[Oslofjord]]
+|image_map              = 
+|mapsize                = 
+|pushpin_map            = Norway South#Norway<!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within Norway
+|map_caption            =
+|subdivision_type       = Country
+|subdivision_name       = [[Norway]]
+|subdivision_type1      = [[Counties of Norway|County]] 
+|subdivision_name1      = [[Viken (county)|Viken]]
+|subdivision_type2      = [[Districts of Norway|District]]
+|subdivision_name2      = [[Follo, Norway|Follo]] 
+|subdivision_type3      = [[Municipalities of Norway|Municipality]] 
+|subdivision_name3      = [[Frogn]] 
+|leader_title           = 
+|leader_name            =
+|established_title      = [[List of cities in Norway|City status (regained)]]
+|established_date       = 13 February 2006
+|population_as_of       = 2017
+|population_note        = 
+|population_total       = 13,409 
+|population_density_km2     = 2,429
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|59|40|N|10|38|E|region:NO|display=inline}}
+}}

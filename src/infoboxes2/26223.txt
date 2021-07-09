@@ -1,0 +1,70 @@
+{{Infobox settlement
+| official_name            = Wauseon, Ohio
+| settlement_type          = [[City]]
+<!-- Images -->
+| image_skyline            = Downtown Wauseon, Ohio.jpg
+| imagesize                = 250px
+| image_caption            = Buildings in downtown Wauseon
+| image_flag               = 
+| image_seal               = 
+| motto                    = ''A City You'll Take To Heart''
+<!-- Maps -->
+|image_map                = OHMap-doton-Wauseon.png
+|mapsize                  = 250px
+|map_caption              = Location of Wauseon, Ohio
+|image_map1               = Map of Fulton County Ohio Highlighting Wauseon City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Wauseon in Fulton County
+<!-- Location -->
+| coordinates              = {{coord|41|33|8|N|84|8|21|W|region:US|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{flag|USA}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|Ohio}}
+| subdivision_type2        = [[List of counties in Ohio|County]]
+| subdivision_name2        = [[Fulton County, Ohio|Fulton]]
+| subdivision_type3        = [[List of townships in Ohio|Township]]
+| subdivision_name3        = [[Clinton Township, Fulton County, Ohio|Clinton]]
+| established_title        = 
+| established_date         = 
+| government_type          = 
+<!-- Government -->
+| government_footnotes     = 
+| leader_title             = [[Mayor]]
+| leader_name              = Kathy Huner<ref>{{cite web | url=http://www.cityofwauseon.com/page/mayors-office | title=MAYOR'S OFFICE | publisher=City of Wauseon, OH | access-date=22 December 2015}}</ref>
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+| area_total_km2           = 13.85
+| area_total_sq_mi         = 5.35
+| area_land_km2            = 13.78
+| area_land_sq_mi          = 5.32
+| area_water_km2           = 0.07
+| area_water_sq_mi         = 0.03
+| elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_m              = 235
+| elevation_ft             = 771
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 7332
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 7410
+| pop_est_as_of            = 2019
+| population_density_km2   = 537.81
+| population_density_sq_mi = 1392.86
+<!-- General information -->
+| timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 43567
+| area_code                = [[Area codes 419 and 567|419 and 567]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 39-81928<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 1047628<ref name="GR3" />
+| website                  = {{URL|http://www.cityofwauseon.com/}}
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

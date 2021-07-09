@@ -1,0 +1,58 @@
+{{Infobox settlement
+|official_name            = Muscoy
+|settlement_type          = [[Census-designated place]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_map                = San_Bernardino_County_California_Incorporated_and_Unincorporated_areas_Muscoy_Highlighted.svg
+|mapsize                  = 300x200px
+|map_caption              = Location in [[San Bernardino County, California|San Bernardino County]] and the state of [[California]]
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|coordinates              = {{coord|34|09|15|N|117|20|39|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS>{{Cite GNIS|1652756|Muscoy|access-date=November 12, 2014}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Bernardino County, California|San Bernardino]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|established_date         =
+
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 3.147
+| area_land_sq_mi         = 3.143
+| area_water_sq_mi        = 0.004
+| area_total_km2          = 8.150
+| area_land_km2           = 8.140
+| area_water_km2          = 0.010
+| area_water_percent      = 0.13
+
+|elevation_footnotes      = <ref name=GNIS/>
+|elevation_ft             = 1388
+|elevation_m              = 423
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 10644
+|population_metro         = 
+|population_density_sq_mi = auto
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 92407
+|area_code                = [[Area code 909|909]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|50132}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1652756}}
+|footnotes                = 
+|website                  = 
+}}

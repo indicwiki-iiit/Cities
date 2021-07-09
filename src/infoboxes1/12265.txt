@@ -1,0 +1,50 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| name                            = Arden-Arcade
+| other_name                      = 
+| nickname                        = 
+| settlement_type                 = [[census-designated place]]
+<!-- images and maps  ----------->| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_map                       = Sacramento_County_California_Incorporated_and_Unincorporated_areas_Arden-Arcade_Highlighted.svg
+| map_caption                     = Location in [[Sacramento County, California|Sacramento County]] and the state of [[California]]
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Sacramento County, California|Sacramento]]
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+| area_total_sq_mi                = 17.92
+| area_land_sq_mi                 = 17.83
+| area_water_sq_mi                = 0.09
+| area_water_percent              = 0.50
+| area_metro_km2                  = 
+| area_metro_sq_mi                = <!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 92,186
+| population_density_sq_mi        = auto
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| coordinates                     = {{coord|38|36|19|N|121|22|47|W|region:US-CA|display=inline,title}}
+| elevation_footnotes             = <ref>{{gnis|2407756}}</ref>
+| elevation_ft                    = 56
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code|ZIP code(s)]]
+| postal_code                     = 95821, 95825, 95864
+| area_codes                      = [[Area codes 916 and 279|916, 279]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 06-02553
+| official_name                   = 
+}}

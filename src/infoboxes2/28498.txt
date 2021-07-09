@@ -1,0 +1,45 @@
+{{Infobox Australian place 
+| type = town
+| name     = Port Douglas
+| state    = QLD
+| image    = port_douglas_qld_australia.jpg
+| caption  = Four Mile Beach
+| coordinates         = {{coord|-16.4834|145.4652|type:city_region:AU-QLD|display=inline,title}}
+| pop                 = 3504
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| postcode            = 4877
+| area                = 18.0
+| established         = 
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| elevation= 4
+| dist1               = 21
+| dir1                = SE
+| location1           = [[Mossman, Queensland|Mossman]]
+| dist2               = 68
+| dir2                = NNW
+| location2           = [[Cairns]]
+| dist3               = 412
+| dir3                = NNW
+| location3           = [[Townsville]]
+| dist4               = 1746
+| dir4                = NNW
+| location4           = [[Brisbane]]
+| lga      = [[Shire of Douglas]]
+| county = [[County of Solander|Solander]]
+| stategov = [[Electoral district of Cook|Cook]]
+| fedgov   = [[Division of Leichhardt|Leichhardt]]
+| maxtemp  = 27.9
+| mintemp  = 20.6
+| rainfall = 2032.4
+| est      = 1877
+| near-n              = ''[[Coral Sea]]''
+| near-ne             = ''[[Coral Sea]]''
+| near-e              = ''[[Coral Sea]]''
+| near-se             = [[Craiglie, Queensland|Craiglie]]
+| near-s              = [[Craiglie, Queensland|Craiglie]]
+| near-sw             = [[Craiglie, Queensland|Craiglie]]
+| near-w              = [[Killaloe, Queensland|Killaloe]]
+| near-nw             = [[Killaloe, Queensland|Killaloe]]
+}}

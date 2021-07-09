@@ -1,0 +1,31 @@
+{{Infobox UK place
+| official_name = Ripon
+| type = [[City status in the United Kingdom|City]]
+| country = England
+| region = Yorkshire and the Humber
+| static_image_name = Ripon, The Minster, seen from Kirkgate - geograph.org.uk - 1879079.jpg
+| static_image_width = 250px
+| static_image_caption = The Minster from Kirkgate
+| area_footnotes = 
+| area_total_sq_mi = 
+| area_total_km2 = 
+| population = 16,702
+| population_ref = ([[United Kingdom Census 2011|2011 census]])<ref name="2011 census"/>
+| population_density = 
+| os_grid_reference = SE312714
+| coordinates = {{coord|54.138|-1.524|type:city_region:GB-NYK|display=inline,title}}
+| label_position = bottom
+| historic_county = [[Yorkshire]]
+|post_town = RIPON
+| postcode_area = HG
+| postcode_district = HG4
+| dial_code = 01765
+| constituency_westminster = [[Skipton and Ripon (UK Parliament constituency)|Skipton & Ripon]]
+| civil_parish = Ripon
+ <!-- you can use the template {{mi to km|(enter data)|precision=0}}  to help convert miles to km automatically; both are displayed -->||
+| london_distance_mi = 227
+| london_direction = SSE
+| shire_district = [[Harrogate (borough)|Harrogate]]
+| shire_county = [[North Yorkshire]]
+| website = [http://www.ripon.org/ www.ripon.org]
+}}

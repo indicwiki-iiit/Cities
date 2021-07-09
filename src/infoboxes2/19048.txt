@@ -1,0 +1,12 @@
+{{Infobox company
+| name          = Rosemount
+| type          = Division
+| foundation    = 1956
+| revenue       = 2.7$ billion dollars
+| num_employees = 8500
+| location_city = [[Shakopee, MN]]|
+| industry      = Oil & Gas, Life Sciences, Chemical, Pharmaceutical, Marine, Power, Water & Wastewater, Packaging, Metals & Mining, Refining, Petrochem
+| products      = Measurement Instrumentation: Pressure, temperature, marine, level, and DP flow. Analytical instrumentation for gas analysis, liquid analysis, flame and gas detection, and analytical systems
+| parent        = [[Emerson Electric Co.]]
+| homepage      = {{URL|https://www.emerson.com/en-us/automation/rosemount|Emerson.com/Rosemount}}
+}}

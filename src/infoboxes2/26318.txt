@@ -1,0 +1,39 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Granville
+| city     = Sydney
+| state    = NSW
+| image    = Granville-NSW-TownHall.jpg
+| caption  = Granville Town Hall and public library (right)
+| image2   ={{maplink
+|frame=yes
+|frame-width=260
+|frame-height=280
+|frame-align=center
+|zoom=13
+|type=shape
+|stroke-colour=#C60C30
+|stroke-width=3
+}}
+| lga      = [[Cumberland City Council]]
+| lga2     = [[City of Parramatta]]
+| postcode = 2142
+| est      = 1855
+| pop      = 15332
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name=census>{{Census 2016 AUS|id=SSC11738|name=Granville (State Suburb)|accessdate=21 December 2017|quick=on}}</ref>
+| area     = 3.3
+| stategov = [[Electoral district of Granville|Granville]]
+| fedgov   = [[Division of Parramatta|Parramatta]]
+| near-nw  = [[Harris Park, New South Wales|Harris Park]]
+| near-n   = [[Rosehill, New South Wales|Rosehill]]
+| near-ne  = [[Silverwater, New South Wales|Silverwater]]
+| near-w   = [[Merrylands, New South Wales|Merrylands]] [[Parramatta, New South Wales|Parramatta]]
+| near-e   = [[Auburn, New South Wales|Auburn]]
+| near-sw  = [[Guildford, New South Wales|Guildford]]
+| near-s   = [[South Granville, New South Wales|South Granville]]
+| near-se  = [[Auburn, New South Wales|Auburn]]
+| dist1    = 18
+| dir1     = W
+| location1= Sydney CBD
+}}

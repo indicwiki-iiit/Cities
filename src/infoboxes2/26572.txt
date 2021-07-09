@@ -1,0 +1,39 @@
+{{Infobox Australian place
+| type     = town
+| name     = Stawell
+| state    = vic
+| image    = View over Stawell Victoria from Big Hill Lookout.png
+| caption  = View south over Stawell toward the Grampians National Park from Big Hill lookout
+| image2   = Stawell Main Street 001.JPG 
+| caption2  = Main street, Stawell
+| coordinates = {{coord|37|03|0|S|142|46|0|E|display=inline,title}}
+| use_lga_map =yes
+| pop      = 6032
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="abs">{{Census 2016 AUS |id=SSC22343|name=Stawell (State Suburb)|accessdate=2 June 2019| quick = on}}</ref>
+| postcode = 3380
+| elevation= 231
+| dist1    = 237
+| dir1     = WNW
+| location1= [[Melbourne]]
+| dist2    = 124
+| dir2     = WNW
+| location2= [[Ballarat, Victoria|Ballarat]]
+| dist3    = 68
+| dir3     = SE
+| location3= [[Horsham, Victoria|Horsham]]
+| dist4    = 31
+| dir4     = NW
+| location4= [[Ararat, Victoria|Ararat]]
+| dist5    = 28
+| dir5     = NE
+| location5= [[Halls Gap, Victoria|Halls Gap]]
+| lga      = Shire of Northern Grampians
+| county = [[County of Borung|Borung]]
+| stategov = [[Electoral district of Ripon|Ripon]]
+| fedgov   = [[Division of Wannon|Wannon]]
+| maxtemp  = 20.1
+| mintemp  = 8.5
+| rainfall = 533.4
+| est      = 1853
+}}

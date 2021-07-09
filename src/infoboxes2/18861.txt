@@ -1,0 +1,121 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Lake City, Florida
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = The Gateway to Florida
+|settlement_type          = [[City]] <!--For Town or Village-->
+|motto                    = 
+<!-- images and maps  ----------->
+|image_skyline            = LakeCityFLCollage.png
+|imagesize                = 340px
+|image_caption            = Top, left to right: Downtown Lake City, [[Columbia County Courthouse (Florida)|Columbia County Courthouse]], Lake Isabella, Lake Montgomery, Lake DeSoto, Marion Street, [[Hotel Blanche]], [[T. G. Henderson House]]
+|image_flag               = 
+|flag_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Columbia_County_Florida_Incorporated_and_Unincorporated_areas_Lake_City_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location in [[Columbia County, Florida|Columbia County]] and the state of [[Florida]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = Florida#USA
+|pushpin_label            = Lake City
+|pushpin_label_position   = 
+|pushpin_map_caption      = 
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type                = [[List of sovereign states|Country]]
+|subdivision_name                = {{USA}}
+|subdivision_type1               = [[U.S. state|State]]
+|subdivision_name1               = {{flag|Florida}}
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = [[Columbia County, Florida|Columbia]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council-Manager]]
+|leader_title             = Mayor
+|leader_name              = Stephen M. Witt
+|leader_title1            = City Manager
+|leader_name1             = Grayson Cason (interim)
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = Settled
+|established_date         = 1821
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = Incorporated
+|established_date3        = 1859
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 31.73
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = 30.69
+<!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2           = 1.04
+|area_total_sq_mi         = 12.25
+|area_land_sq_mi          = 11.85
+|area_water_sq_mi         = 0.40
+|area_water_percent       = 3.20
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=censuspop>{{cite web|url=http://censusviewer.com/city/FL/Lake%20City |title=Lake City, FL Population - Census 2010 and 2000 Interactive Map, Demographics, Statistics, Quick Facts |publisher=CensusViewer |access-date=August 2, 2014}}</ref>
+|population_note          = 
+|population_total         = 12046
+|population_density_km2   = 402.54
+|population_density_sq_mi = 1042.54
+|population_metro         = 67531
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[Eastern Time Zone (North America)|EST]]
+|utc_offset               = &minus;5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST           = &minus;4
+|coordinates              = {{coord|30|11|N|82|38|W|region:US-FL|display=inline,title}}
+|elevation_footnotes      = 
+|elevation_m              = 57
+|elevation_ft             = 188
+<!-- Area/postal codes & others -------->
+|postal_code_type         = ZIP code
+|postal_code              = 32024-32025, 32055-32056
+|area_code                = 386
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-37775<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008 |title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0305917<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008 |title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|www.lcfla.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 12352
+}}

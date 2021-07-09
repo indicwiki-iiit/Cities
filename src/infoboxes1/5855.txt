@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                            = {{raise|0.2em|Karamay}}
+| official_name                   = <!-- Official name in English if different from 'name' -->
+| native_name                     = {{lower|0.1em|{{lang|zh-hans|克拉玛依市}}<br/>{{lang|ug|قاراماي شەھىرى}}}}
+| other_name                      = Karamai
+| settlement_type                 = [[Prefecture-level city]]
+<!-- images and maps  ----------->| image_skyline                   = Karamay river.jpg
+| image_caption                   = Karamay River running through the middle of Karamay
+| image_seal                      = 
+| image_shield                    = 
+| nickname                        = 
+| motto                           = 
+| image_map                       = Location of Karamay Prefecture within Xinjiang (China).png
+| map_caption                     = Location of Karamay City jurisdiction in Xinjiang
+| pushpin_map                     = Xinjiang
+| pushpin_label_position          = 
+| pushpin_map_caption             = Location of the city centre in Xinjiang
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = People's Republic of China
+| subdivision_type1               = [[Autonomous regions of China|Region]]
+| subdivision_name1               = [[Xinjiang]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| seat_type                       = Municipal seat
+| seat                            = [[Karamay District]]
+| parts_type                      = Subdivisions
+| total_type                      = <!-- to set a non-standard label for total area and population rows -->
+| parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format) Default is list if up to 5 items, coll if more than 5-->
+| parts                           = [[District (PRC)|Districts]]<!-- parts text, or header for parts list -->
+| p1                              = [[Karamay District|Karamay]]
+| p2                              = [[Baijiantan District|Baijiantan]]
+| p3                              = [[Dushanzi District|Dushanzi]]
+| p4                              = [[Urho District|Uroho]] <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| established_title               = <!-- Settled -->
+| leader_name                     = 
+| established_date                = 
+| founder                         = 
+| named_for                       = <!-- Area    --------------------->
+| area_footnotes                  = 
+| area_total_km2                  = 7,734<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2                  = <!-- Elevation -------------------------->
+| elevation_footnotes             = 
+| elevation_m                     = 354
+| elevation_max_m                 = 
+| elevation_min_m                 = <!-- Population   ----------------------->
+| population_as_of                = 2019
+| population_footnotes            = <ref>{{Cite web|date=25 April 2021|title=克拉玛依市2019年国民经济和社会发展统计公报|url=http://www.tjcn.org/tjgb/31xj/36390_4.html|url-status=live|access-date=12 March 2021|language=zh}}</ref>
+| population_note                 = 
+| population_total                = 462,347
+| population_density_km2          = auto <!--For automatic calculation, any density field may contain: auto -->
+| population_blank1_title         = Major [[Nationalities of China|Nationalities]]
+| population_blank1               = [[Han Chinese|Han]] - 74.8%
+<!-- General information  --------------->| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+| coor_pinpoint = Karamay municipal government
+| coordinates                     = {{coord|45.5799|N|84.8892|E|type:adm2nd_region:CN-65_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->| postal_code_type                = [[Postal code of China|Postal code]]
+| postal_code                     = 834000
+| area_code                       = 0990
+| iso_code                        = [[ISO 3166-2:CN|CN-XJ-02]]
+| blank_name                     = [[Gross domestic product|GDP]] (2019)<ref>{{Cite web|date=25 April 2021|title=克拉玛依市2019年国民经济和社会发展统计公报|url=http://www.tjcn.org/tjgb/31xj/36390.html|url-status=live|access-date=12 March 2021|language=zh}}</ref>
+| blank_info                     = [[Renminbi|CNY]]￥ 97.29 billion <br/> US $14.1 billion
+| blank1_name                     = GDP per capita
+| blank1_info                     = [[Renminbi|CNY]] ￥210,426 <br/> US $30,452
+| blank2_name                     = &nbsp;- Growth
+| blank2_info                     = {{increase}} 6.1%
+| blank3_name                     = [[Licence plates of the People's Republic of China|License Plate]] Prefix
+| blank3_info                     = {{lang|zh-cn|新J}}
+| website                         = {{URL|http://www.klmy.gov.cn/Pages/default.aspx}}
+}}

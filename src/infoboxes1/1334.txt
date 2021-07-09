@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                            = Belle Terre, New York
+| official_name                   = Incorporated Village of Belle Terre
+| settlement_type                 = [[Village (New York)|Village]]
+| nickname                        = 
+| motto                           = <!-- Images -->
+| image_skyline                   = Belle Terre, Long Island, New York (4283279584).jpg
+| imagesize                       = 
+| image_caption                   = The Belle Terre Gatehouse, a beaux arts structure dating to the first decade of the 1900s
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| pushpin_map                     = New York
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within the state of New York
+| pushpin_mapsize                 = 
+| image_map                       = Belle-terre-map.png
+| mapsize                         = 250px
+| map_caption                     = U.S. Census Map
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Suffolk County, New York|Suffolk]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = Incorporated
+| established_date                = 1931
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 2.29
+| area_land_km2                   = 2.29
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 0.89
+| area_land_sq_mi                 = 0.89
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 792
+| population_density_km2          = 342.98
+| population_density_sq_mi        = 888.14
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 49
+| elevation_ft                    = 161
+| coordinates                     = {{coord|40|57|37|N|73|4|5|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 11777
+| area_code                       = [[Area codes 631 and 934|631, 934]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-05672
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0943606
+| website                         = {{URL|www.belleterre.us}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 786
+}}

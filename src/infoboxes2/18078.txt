@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name = Placerville, California
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = 2009-0724-ElDoradoCtyCrt.jpg
+|imagesize                = 275px
+|image_caption            = El Dorado County Courthouse
+|image_seal               = Seal of Placerville, California.png
+|nickname                 = Hangtown<ref name=GNIS/>
+|image_map                = El_Dorado_County_California_Incorporated_and_Unincorporated_areas_Placerville_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Placerville in California
+| pushpin_map = USA California Northern#California#USA
+| pushpin_map_caption = Location of Placerville in Northern California##Location of Placerville in California##Location of Placerville in the United States
+| pushpin_label = Placerville
+|coordinates              = {{coord|38|43|47|N|120|47|55|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_El_Dorado County,_California.png}} [[El Dorado County, California|El Dorado]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 13, 1854<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = April 5, 2013
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+ |df          = mdy-all
+}}</ref>
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = John Clerici<ref>{{Cite web
+ |url=http://www.cityofplacerville.org/depts/council/mayor_wilkins/default.asp
+ |title=Mayor Wilkins
+ |access-date=February 26, 2015
+ |publisher=City of Placerville, CA}}</ref>
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 5.84
+|area_total_km2           = 15.13
+|area_land_sq_mi          = 5.84
+|area_land_km2            = 15.13
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.00
+|area_water_percent       = 0.01
+|elevation_footnotes      = <ref name=GNIS>{{Cite GNIS|277577|Placerville}}</ref>
+|elevation_ft             = 1867
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 10389
+|population_density_sq_mi = 1913.53
+|timezone                 = [[Pacific Standard Time|PST]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95667<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 23, 2014}}</ref>
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 530|530]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 06-57540
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277577}}, {{GNIS 4|2411433}}
+|website                  = {{URL|www.cityofplacerville.org}}
+|footnotes                = {{Designation list|embed=yes|designation1=California|designation1_number=701<ref name=CHL/>}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11175
+|population_density_km2 = 738.79
+}}

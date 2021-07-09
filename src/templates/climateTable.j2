@@ -1,0 +1,290 @@
+{| class="wikitable" 
+! colspan="14" style="text-align:center;" | వాతావరణ సమాచారం
+|-
+! నెల
+! జనవరి
+! ఫిబ్రవరి
+! మార్చి
+! ఏప్రిల్
+! మే
+! జూన్
+! జూలై
+! ఆగస్టు
+! సెప్టెంబర్
+! అక్టోబర్
+! నవంబర్
+! డిసెంబర్
+! పూర్తి సంవత్సరానికి 
+{%- if Record_high_F != [] %}
+|- style="text-align:center;"
+! అధిక రికార్డ్ ° F
+{% for i in range(Record_high_F|length - 1) -%}
+| {{Record_high_F[i]}}|
+{%- endfor -%}
+| {{Record_high_F[-1]}}
+{%- endif %}
+{%- if Mean_maximum_F != [] %}
+|- style="text-align:center;"
+! గరిష్ట  ° F
+{% for i in range(Mean_maximum_F|length - 1) -%}
+| {{Mean_maximum_F[i]}}|
+{%- endfor -%}
+| {{Mean_maximum_F[-1]}}
+{%- endif %}
+{%- if Average_high_F != [] %}
+|- style="text-align:center;"
+! సగటు అధిక ° F
+{% for i in range(Average_high_F|length - 1) -%}
+| {{Average_high_F[i]}}|
+{%- endfor -%}
+| {{Average_high_F[-1]}}
+{%- endif %}
+{%- if Daily_mean_F != [] %}
+|- style="text-align:center;"
+! రోజువారీ సగటు ° F
+{% for i in range(Daily_mean_F|length - 1) -%}
+| {{Daily_mean_F[i]}}|
+{%- endfor -%}
+| {{Daily_mean_F[-1]}}
+{%- endif %}
+{%- if Average_low_F != [] %}
+|- style="text-align:center;"
+! సగటు తక్కువ ° F
+{% for i in range(Average_low_F|length - 1) -%}
+| {{Average_low_F[i]}}|
+{%- endfor -%}
+| {{Average_low_F[-1]}}
+{%- endif %}
+{%- if Mean_maximum_F != [] %}
+|- style="text-align:center;"
+! కనీస ° F
+{% for i in range(Mean_maximum_F|length - 1) -%}
+| {{Mean_maximum_F[i]}}|
+{%- endfor -%}
+| {{Mean_maximum_F[-1]}}
+{%- endif %}
+{%- if Record_low_F != [] %}
+|- style="text-align:center;"
+! తక్కువ రికార్డ్ ° F
+{% for i in range(Record_low_F|length - 1) -%}
+| {{Record_low_F[i]}}|
+{%- endfor -%}
+| {{Record_low_F[-1]}}
+{%- endif %}
+{%- if Average_precipitation_inches != [] %}
+|- style="text-align:center;"
+! సగటు అవపాతం (అంగుళాలు)
+{% for i in range(Average_precipitation_inches|length - 1) -%}
+| {{Average_precipitation_inches[i]}}|
+{%- endfor -%}
+| {{Average_precipitation_inches[-1]}}
+{%- endif %}
+{%- if Average_rainfall_inches != [] %}
+|- style="text-align:center;"
+! సగటు వర్షపాతం (అంగుళాలు)
+{% for i in range(Average_rainfall_inches|length - 1) -%}
+| {{Average_rainfall_inches[i]}}|
+{%- endfor -%}
+| {{Average_rainfall_inches[-1]}}
+{%- endif %}
+{%- if Average_snowfall_inches!= [] %}
+|- style="text-align:center;"
+! సగటు హిమపాతం (అంగుళాలు)
+{% for i in range(Average_snowfall_inches|length - 1) -%}
+| {{Average_snowfall_inches[i]}}|
+{%- endfor -%}
+| {{Average_snowfall_inches[-1]}}
+{%- endif %}
+{%- if Average_extreme_snow_depth_inches != [] %}
+|- style="text-align:center;"
+! సగటు విపరీతమైన మంచు లోతు అంగుళాలు
+{% for i in range(Average_extreme_snow_depth_inches|length - 1) -%}
+| {{Average_extreme_snow_depth_inches[i]}}|
+{%- endfor -%}
+| {{Average_extreme_snow_depth_inches[-1]}}
+{%- endif %}
+{%- if Humidex != [] %}
+|- style="text-align:center;"
+! హ్యూమిడెక్స్
+{% for i in range(Humidex|length - 1) -%}
+| {{Humidex[i]}}|
+{%- endfor -%}
+| {{Humidex[-1]}}
+{%- endif %}
+{%- if Record_high_C != [] %}
+|- style="text-align:center;"
+! అధిక రికార్డ్ ° C
+{% for i in range(Record_high_C|length - 1) -%}
+| {{Record_high_C[i]}}|
+{%- endfor -%}
+| {{Record_high_C[-1]}}
+{%- endif %}
+{%- if Average_high_C != [] %}
+|- style="text-align:center;"
+! సగటు అధిక  ° C
+{% for i in range(Average_high_C|length - 1) -%}
+| {{Average_high_C[i]}}|
+{%- endfor -%}
+| {{Average_high_C[-1]}}
+{%- endif %}
+{%- if Daily_mean_C != [] %}
+|- style="text-align:center;"
+! రోజువారీ సగటు ° C
+{% for i in range(Daily_mean_C|length - 1) -%}
+| {{Daily_mean_C[i]}}|
+{%- endfor -%}
+| {{Daily_mean_C[-1]}}
+{%- endif %}
+{%-if Average_low_C != [] %}
+|- style="text-align:center;"
+! సగటు తక్కువ ° C
+{% for i in range(Average_low_C|length - 1) -%}
+| {{Average_low_C[i]}}|
+{%- endfor -%}
+| {{Average_low_C[-1]}}
+{%- endif %}
+{%- if Record_low_C != [] %}
+|- style="text-align:center;"
+! తక్కువ రికార్డ్ ° C
+{% for i in range(Record_low_C|length - 1) -%}
+| {{Record_low_C[i]}}|
+{%- endfor -%}
+| {{Record_low_C[-1]}}
+{%- endif %}
+{%- if Wind_chill != [] %}
+|- style="text-align:center;"
+! గాలి చల్లదనం
+{% for i in range(Wind_chill|length - 1) -%}
+| {{Wind_chill[i]}}|
+{%- endfor -%}
+| {{Wind_chill[-1]}}
+{%- endif %}
+{%- if Average_precipitation_mm != [] %}
+|- style="text-align:center;"
+! సగటు అవపాతం (మి.మీ)
+{% for i in range(Average_precipitation_mm|length - 1) -%}
+| {{Average_precipitation_mm[i]}}|
+{%- endfor -%}
+| {{Average_precipitation_mm[-1]}}
+{%- endif %}
+{%- if Average_rainfall_mm != [] %}
+|- style="text-align:center;"
+! సగటు వర్షపాతం (మి.మీ)
+{% for i in range(Average_rainfall_mm|length - 1) -%}
+| {{Average_rainfall_mm[i]}}|
+{%- endfor -%}
+| {{Average_rainfall_mm[-1]}}
+{%- endif %}
+{%- if Average_snowfall_cm != [] %}
+|- style="text-align:center;"
+! సగటు హిమపాతం (సెం.మీ)
+{% for i in range(Average_snowfall_cm|length - 1) -%}
+| {{Average_snowfall_cm[i]}}|
+{%- endfor -%}
+| {{Average_snowfall_cm[-1]}}
+{%- endif %}
+{%- if Average_extreme_snow_depth_cm != [] %}
+|- style="text-align:center;"
+! సగటు విపరీతమైన మంచు లోతు (సెం.మీ)
+{% for i in range(Average_extreme_snow_depth_cm|length - 1) -%}
+| {{Average_extreme_snow_depth_cm[i]}}|
+{%- endfor -%}
+| {{Average_extreme_snow_depth_cm[-1]}}
+{%- endif %}
+{%- if Average_precipitation_days != [] %}
+|- style="text-align:center;"
+! సగటు అవపాత రోజులు
+{% for i in range(Average_precipitation_days|length - 1) -%}
+| {{Average_precipitation_days[i]}}|
+{%- endfor -%}
+| {{Average_precipitation_days[-1]}}
+{%- endif %}
+{%- if Average_rainy_days != [] %}
+|- style="text-align:center;"
+! సగటు వర్షపు రోజులు
+{% for i in range(Average_rainy_days|length - 1) -%}
+| {{Average_rainy_days[i]}}|
+{%- endfor -%}
+| {{Average_rainy_days[-1]}}
+{%- endif %}
+{%- if Average_snowy_days != [] %}
+|- style="text-align:center;"
+! సగటు మంచు రోజులు
+{% for i in range(Average_snowy_days|length - 1) -%}
+| {{Average_snowy_days[i]}}|
+{%- endfor -%}
+| {{Average_snowy_days[-1]}}
+{%- endif %}
+{%- if Average_relative_humidity != [] %}
+|- style="text-align:center;"
+! సగటు సాపేక్ష తేమ (%)
+{% for i in range(Average_relative_humidity|length - 1) -%}
+| {{Average_relative_humidity[i]}}|
+{%- endfor -%}
+| {{Average_relative_humidity[-1]}}
+{%- endif %}
+{%- if Average_afternoon_relative_humidity != [] %}
+|- style="text-align:center;"
+! సగటు మధ్యాహ్నం సాపేక్ష తేమ (%)
+{% for i in range(Average_afternoon_relative_humidity|length - 1) -%}
+| {{Average_afternoon_relative_humidity[i]}}|
+{%- endfor -%}
+| {{Average_afternoon_relative_humidity[-1]}}
+{%- endif %}
+{%- if Average_dew_point_F!= [] %}
+|- style="text-align:center;"
+! సగటు మంచు బిందువు °F
+{% for i in range(Average_dew_point_F|length - 1) -%}
+| {{Average_dew_point_F[i]}}|
+{%- endfor -%}
+| {{Average_dew_point_F[-1]}}
+{%- endif %}
+{%- if Average_dew_point_C != [] %}
+|- style="text-align:center;"
+! సగటు మంచు బిందువు °C
+{% for i in range(Average_dew_point_C|length - 1) -%}
+| {{Average_dew_point_C[i]}}|
+{%- endfor -%}
+| {{Average_dew_point_C[-1]}}
+{%- endif %}
+{%- if Mean_monthly_sunshine_hours != [] %}
+|- style="text-align:center;"
+! సగటు నెలవారీ సూర్యరశ్మి గంటలు 
+{% for i in range(Mean_monthly_sunshine_hours|length - 1) -%}
+| {{Mean_monthly_sunshine_hours[i]}}|
+{%- endfor -%}
+| {{Mean_monthly_sunshine_hours[-1]}}
+{%- endif %}
+{%- if Mean_daily_sunshine_hours != [] %}
+|- style="text-align:center;"
+! సగటు రోజువారీ సూర్యరశ్మి గంటలు
+{% for i in range(Mean_daily_sunshine_hours|length - 1) -%}
+| {{Mean_daily_sunshine_hours[i]}}|
+{%- endfor -%}
+| {{Mean_daily_sunshine_hours[-1]}}
+{%- endif %}
+{%- if Mean_daily_daylight_hours != [] %}
+|- style="text-align:center;"
+! రోజువారీ పగటి గంటలు
+{% for i in range(Mean_daily_daylight_hours|length - 1) -%}
+| {{Mean_daily_daylight_hours[i]}}|
+{%- endfor -%}
+| {{Mean_daily_daylight_hours[-1]}}
+{%- endif %}
+{%- if Percent_possible_sunshine != [] %}
+|- style="text-align:center;"
+! సంభావ్య సూర్యరశ్మి శాతం
+{% for i in range(Percent_possible_sunshine|length - 1) -%}
+| {{Percent_possible_sunshine[i]}}|
+{%- endfor -%}
+| {{Percent_possible_sunshine[-1]}}
+{%- endif %}
+{%- if Average_ultraviolet_index != [] %}
+|- style="text-align:center;"
+! సగటు అతినీలలోహిత సూచిక
+{% for i in range(Average_ultraviolet_index|length - 1) -%}
+| {{Average_ultraviolet_index[i]}}|
+{%- endfor -%}
+| {{Average_ultraviolet_index[-1]}}
+{%- endif %}
+|}

@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+|official_name            = Boyes Hot Springs
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nicwkname                 = Boyes Springs
+|settlement_type          = [[Census designated place]]
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_map                = Sonoma_County_California_Incorporated_and_Unincorporated_areas_Boyes_Hot_Springs_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Sonoma County, California|Sonoma County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sonoma County, California|Sonoma]]
+|established_title        = <!-- Settled -->
+|established_date         = 
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=Jul 19, 2017}}</ref>
+| area_total_sq_mi        = 1.06
+| area_land_sq_mi         = 1.06
+| area_water_sq_mi        = 0.00
+| area_total_km2          = 2.75
+| area_land_km2           = 2.75
+| area_water_km2          = 0.00
+| area_water_percent      = 0
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1658122|Boyes Hot Springs|access-date=April 6, 2015}}</ref>
+|elevation_ft             = 135
+|elevation_m              = 41
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 4923
+|population_density_sq_mi = NaN
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+
+|coordinates              = {{coord|38|18|40|N|122|29|2|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95416 (PO boxes), 95476 (Street addresses)
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|07848}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1658122}}
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2016.html|title=Population and Housing Unit Estimates|access-date=June 9, 2017}}</ref>
+|population_est = N/A
+|population_density_km2 = NaN
+}}

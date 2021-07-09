@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = Dumas, Texas
+|official_name            = City of Dumas 
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = Dumas, TX collage in 2015
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = TXMap-doton-Dumas.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Dumas, Texas
+|image_map1               = Moore County Dumas.svg
+|mapsize1                 = 250px
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Texas}}
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Moore County, Texas|Moore]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Commission-Manager]]
+|leader_title             = Mayor
+|leader_name              = Pat Sims
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 14.36
+|area_land_km2            = 14.31
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 5.54
+|area_land_sq_mi          = 5.53
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="GR8">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2011-05-14 |title=U.S. Census website }}</ref>
+|population_total         = 14691
+|population_density_sq_mi = 2502.62
+|population_density_km2   = 966.19
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = –6
+|timezone_DST             = CDT
+|utc_offset_DST           = –5
+|elevation_footnotes      = 
+|elevation_m              = 1116
+|elevation_ft             = 3661
+|coordinates              = {{coord|35|51|45|N|101|58|1|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 79029
+|area_code                = [[Area code 806|806]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-21556<ref name="GR8" />
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1356433<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.ci.dumas.tx.us/ City Website]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 13827
+}}

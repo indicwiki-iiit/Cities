@@ -1,0 +1,23 @@
+{{Infobox UK place
+ | static_image_name                = Carluke - geograph.org.uk - 122432.jpg
+ | static_image_caption             = Carluke Market Square, next to the Town Centre
+ | official_name =                    Carluke
+ | country =                          Scotland
+| population = {{Scottish locality populations|name|POP=Carluke}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ | os_grid_reference =                NS848504
+ | map_type =                         Scotland
+ | coordinates    = {{coord|55.734|-03.834|display=inline,title}}
+ |historic_county=
+|post_town =                        CARLUKE
+ | postcode_district =                ML8
+ | postcode_area =                    ML
+ | dial_code =                        01555
+ | constituency_westminster =         [[Lanark and Hamilton East (UK Parliament constituency)|Lanark and Hamilton East]]
+ | london_distance =                  {{convert|329.39|mi|km|abbr=on}} 
+ | edinburgh_distance =               {{convert|29.5|mi|km|abbr=on}} 
+ | gaelic_name =                      Cathair MoLuaig
+ | unitary_scotland =                 [[South Lanarkshire]]
+ | lieutenancy_scotland =             [[Lanarkshire]]
+ | constituency_scottish_parliament = [[Clydesdale (Scottish Parliament constituency)|Clydesdale]]
+ }}

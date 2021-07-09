@@ -1,0 +1,112 @@
+{{Infobox settlement
+|name                   =Baniyas
+|settlement_type        =<!--For Town or Village (Leave blank for the default City)-->
+|official_name          =
+|other_name             =
+|native_name            = بَانِيَاس <!-- for cities whose native name is not in English -->
+|nickname               =
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Baniyas-1.jpg
+|imagesize              =
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Syria
+|pushpin_mapsize        =250
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Tartus Governorate|Tartous]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[Baniyas District|Baniyas]]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_name3      = Baniyas
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2009 est.
+|population_footnotes           =
+|population_note                =
+|population_total               =43,000
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             = +2
+|timezone_DST           = +3
+|utc_offset_DST         =
+|coordinates            = {{coord|35|10|56|N|35|56|25|E|region:SY|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 25
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 43
+|geocode                = C5360
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              =
+}}

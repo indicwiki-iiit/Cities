@@ -1,0 +1,36 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Niğde
+| settlement_type                 = [[Municipality]]
+| image_skyline                   = Nigde Kale 1228.jpg
+| image_caption                   = Niğde
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| pushpin_relief                  = 1
+| pushpin_mapsize                 = 280
+| coordinates                     = {{coord|37|58|00|N|34|40|45|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Niğde Province|Niğde]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = Mayor
+| leader_name                     = Emrah Özdemir
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = 
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Niğde|Niğde}}
+| elevation_m                     = 1229
+| population_footnotes            = https://www.nufusu.com/il/nigde-nufusu
+| population_urban                = 133,74
+| population_as_of                = 2019
+| population_blank1_title         = District
+| population_blank1               = 229.121
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.nigde.bel.tr | www.nigde.bel.tr }}
+| official_name                   = 
+}}

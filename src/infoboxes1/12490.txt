@@ -1,0 +1,79 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                    = Esbjerg
+| native_name             = <!-- for cities whose native name is not in English -->
+| other_name              = 
+| settlement_type         = <!--For Town or Village (Leave blank for the default City)-->
+| image_skyline           = Esbjerg harbour (8563661696).jpg
+| imagesize               = 
+| image_caption           = 
+| image_flag              = 
+| flag_size               = 
+| image_seal              = 
+| seal_size               = 
+| image_shield            = Esbjerg Kommune coa.svg 
+| shield_size             = 
+| nickname                = 
+| motto                   = 
+<!-- images and maps  ----------->
+| image_map               = Esbjerg fra oven.jpg
+| mapsize                 = 
+| map_caption             = Aerial view of Esbjerg
+| pushpin_map             = Denmark Region of Southern Denmark#Denmark<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_mapsize         = 
+| pushpin_relief          = 1
+<!-- Location ------------------>
+| pushpin_map_caption     = Location in Denmark
+| coordinates             = {{coord|55|29|N|08|27|E|region:DK|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Denmark]]
+| subdivision_type1       = [[Regions of Denmark|Region]]
+| subdivision_type2       = [[Municipalities of Denmark|Municipality]]
+| subdivision_name1       = [[Region of Southern Denmark|Southern Denmark (''Syddanmark'')]]
+| subdivision_name2       = [[Esbjerg Municipality|Esbjerg]]
+<!-- Politics ----------------->
+| established_title       = Established
+| established_date        = 1868
+| established_title2      = City charter
+| established_date2       = 1899
+| established_title3      = Current municipality
+| established_date3       = 1 January 2007
+<!-- Area    --------------------->
+| government_footnotes    = 
+| government_type         = 
+| leader_title            = Mayor
+| leader_name             = [[Jesper Frost Rasmussen]]
+| area_footnotes          = 
+| area_total_km2          =
+| area_land_km2           = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2          = 
+| area_urban_km2          = 43.6
+<!-- Population   ----------------------->
+| elevation_footnotes     = <!--for references: use <ref> </ref> tags-->
+| elevation_m             = 11
+| elevation_ft            = 
+<!-- Area/postal codes & others -------->
+| population_urban        = 72,044
+| population_density_urban_km2 = auto
+| population_as_of        = 1 January 2021
+| population_footnotes    = <ref name=pop/>
+| population_density_km2  = auto
+| population_blank1_title = Municipal 
+| population_blank1       = 115,748
+| population_blank2_title = Gender
+<ref>[https://m.statbank.dk/TableInfo/BY1?lang=en BY1: Population 1. January by urban areas, age and sex] The Mobile Statbank from [[Statistics Denmark]]</ref>
+| population_blank2      = 36042 males and 36002 females
+| population_demonym     = Esbjergenser
+<!-- General information  --------------->
+| population_note         = 
+| postal_code_type        = Postal code
+| postal_code             = 6700-6715
+| area_code               = (+45) 7
+| website                 = [http://www.esbjerg.dk/ www.esbjerg.dk]
+| footnotes               = 
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+}}

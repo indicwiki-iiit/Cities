@@ -1,0 +1,68 @@
+{{Infobox settlement
+| name                            = Prague
+| official_name                   = <small>Capital City of Prague<br>''{{lang|cs|Hlavní město Praha}}''</small>
+| native_name                     = Praha
+| native_name_lang                = cs:
+| settlement_type                 = [[Capital city]]
+| image_skyline                   = File:Prague collage 2018.jpg
+| imagesize                       = 275px
+| image_caption                   = Clockwise from top: panorama with [[Prague Castle]], [[Malá Strana]] and [[Charles Bridge]]; [[Pankrác]] district with high-rise buildings; street view in Malá Strana; [[Old Town Square]] panorama; gatehouse tower of the Charles Bridge; [[National Theatre (Prague)|National Theatre]]
+| image_flag                      = Flag of Prague.svg
+| image_shield                    = Prague CoA CZ.svg
+| image_map                       = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape|fill=#ffffff|fill-opacity=0|stroke-width=2|frame-width=250}}
+| motto                           = {{native phrase|la|"Praga Caput Rei publicae"|italics=off}}<ref name=Vojtisek/><br />{{small|"Prague, Head of the Republic"}}
+{{collapsible list
+| nickname                = ''Brussels of the East''
+| title                   = ''{{nobold|other historical mottos &nbsp;}}''
+| titlestyle              = background:transparent;text-align:center;line-height:1.15em;
+| liststyle               = text-align:center;white-space:nowrap;
+| {{native phrase|la|"Praga mater urbium"|italics=off}}<br /><!--
+ -->{{native phrase|cs|"Praha matka měst"|italics=off}}<ref name=Vojtisek/><br />{{small|"Prague, Mother of Cities"}}
+| {{native phrase|la|"Praga Caput Regni"|italics=off}}<ref name=Duchacek>Milan Ducháček, ''[https://books.google.com/books?id=9REvBQAAQBAJ&lpg=PA198&ots=wFM5CRciAW&dq=praga%20caput%20regni%20historiografie&hl=cs&pg=PA64#v=onepage&q&f=false Václav Chaloupecký: Hledání československých dějin]'' (2014), cited after [http://abicko.avcr.cz/archiv/2001/7/obsah/vaclav-chaloupecky-12.-5.-1882--22.-11.-1951-.html abicko.avcr.cz].</ref><br />{{small|"Prague, Head of the Kingdom"}}
+}}
+| mapsize                         = 230px
+| pushpin_map_caption             = Location within the Czech Republic##Location within Europe
+| pushpin_map                     = Czech Republic#Europe
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|50|5|N|14|25|E|region:CZ|display=it}}
+| subdivision_type                = Country
+| subdivision_name                = {{CZE}}
+| established_title               = Founded
+| established_date                = 5th century
+| leader_party                    = [[Czech Pirate Party|Pirates]]
+| leader_title                    = [[Mayor of Prague|Mayor]]
+| leader_name                     = [[Zdeněk Hřib]]
+| area_footnotes                  = <ref>{{cite web|url=http://www.demographia.com/db-worldua.pdf |title=Demographia World Urban Areas |publisher=Demographia.com |access-date=18 November 2013}}</ref>
+| area_total_km2                  = 496
+| area_urban_km2                  = 298
+| elevation_footnotes             = 
+| elevation_min_m                 = 177
+| population_blank2_title         = Nationality<ref>https://www.czso.cz/documents/10180/20551765/170223-14.pdf</ref>
+| population_blank2               = 64.3% [[Czechs|Czech]]<br>8.8% other nationalities<br>1.6% dual nationality<br>25.3% nationality not declared
+| population_total                = 1335084
+| population_as_of                = 2021-01-01
+| population_footnotes            = <ref name="pop">{{cite web |title=Population of Municipalities – 1 January 2021|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2021|publisher=[[Czech Statistical Office]]|date=2021-04-30}}</ref>
+| population_density_km2          = auto
+| population_metro                = 2677964<ref name="eceur">{{cite web|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjangrp3&lang=en|title=Population on 1 January by five-year age group, sex and metropolitan regions|publisher=Eurostat|access-date=21 February 2020}}</ref>
+| population_demonym              = Praguer
+| postal_code_type                = Postal codes
+| postal_code                     = 100 00 – 199 00
+| area_code                       = 
+| area_code_type                  = [[ISO 3166-2:CZ|ISO 3166-2]]
+| iso_code                        = CZ-10
+| registration_plate              = A, AA – AZ
+| website                         = [http://www.praha.eu/jnp/en/index.html www.praha.eu]
+| elevation_max_m                 = 399
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| blank_name                      = [[Gross regional product|GRP]] (nominal)<ref>{{cite web|url=https://ec.europa.eu/eurostat/web/regions/data/database|title=GDP Report |date=28 February 2018 |website=ec.europa.eu}}</ref>
+| blank_info                      = 2019
+| blank1_name                     = &nbsp;– Total
+| blank1_info                     = €60 billion <br/>(${{To USD|60|EUR|year=2019|round=yes}}B)
+| blank2_name                     = &nbsp;– Per capita
+| blank2_info                     = €46,400 <br/>(${{To USD|46400|EUR|year=2019|round=yes}})
+| blank3_name                     = [[Human Development Index|HDI]] (2018)
+| blank3_info                     = 0.961<ref>{{Cite web | url=https://hdi.globaldatalab.org/areadata/shdi/ |title = Sub-national HDI - Subnational HDI - Global Data Lab}}</ref> – <span style="color:#090;">very high</span> · [[List of Czech regions by Human Development Index|1st]]
+}}

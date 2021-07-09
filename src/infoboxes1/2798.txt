@@ -1,0 +1,59 @@
+{{Infobox settlement
+|official_name            = Kairouan
+|native_name              = {{lang|ar|ٱلْقَيْرَوَان}}
+|settlement_type          = [[List of cities in Tunisia|City]]
+|image_skyline            = Montage ville de Kairouan.png
+|imagesize                = 275px
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+|image_map                = 
+|map_caption              = 
+|pushpin_map              = Tunisia#Middle East#Africa
+|pushpin_map_caption      = Location in Tunisia
+|subdivision_type         = Country
+|subdivision_type1        = Governorate
+|subdivision_name         = Tunisia
+|subdivision_name1        = [[Kairouan Governorate|Kairouan]]
+|subdivision_type2        =
+|subdivision_name2        =
+|established_title        = Founded<!-- Settled -->
+|established_date         = 670 [[Common Era|CE]]
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+|founder                  = [[Uqba ibn Nafi]]
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|area_magnitude           = 
+|area_total_sq_mi         = 
+|area_total_km2           = 
+|population_as_of         = 2014
+|population_footnotes     =
+|population_total         = 187,000
+|population_density_sq_mi =
+|population_density_km2   = auto
+|timezone                 =
+|utc_offset               =
+|timezone_DST             =
+|utc_offset_DST           =
+|coordinates              = {{coord|35|40|38|N|10|06|03|E|region:TN|display=inline,title}}
+|elevation_footnotes      =
+|elevation_m              = 68
+|elevation_ft             =
+|postal_code_type         =
+|postal_code              = 3100
+|area_code                =
+|footnotes                = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |ID = 499
+  |Year = 1988
+  |Criteria = Cultural: i, ii, iii, v, vi
+  |Area = 68.02 ha
+  |Buffer_zone = 154.36 ha
+  }}
+|website                  = {{Official website|http://www.commune-kairouan.gov.tn/}}
+}}

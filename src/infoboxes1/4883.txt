@@ -1,0 +1,30 @@
+{{Infobox settlement
+| name                    = San Juan
+| settlement_type         = [[Districts of Costa Rica|District]]
+| pushpin_map             = Costa Rica
+| pushpin_map_alt         = San Juan district location in Costa Rica
+| pushpin_map_caption     = San Juan district location in Costa Rica
+| coordinates             = {{coord|9.9609348|-84.0730993|display=inline,title}}
+| image_map = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape|title=San Juan district}}
+| map_alt = San Juan district
+| map_caption = San Juan district
+| image_skyline =
+| image_alt =
+| image_caption =
+| established_title       = Creation
+| established_date        = 
+| subdivision_type        = Country
+| subdivision_name        = {{CRI}}
+| subdivision_type1       = Province
+| subdivision_name1       = [[San José Province|San José]]
+| subdivision_type2       = Canton
+| subdivision_name2       = [[Tibás]]
+| area_total_km2          = 3.56
+| elevation_m             = 1162
+| population_total        = 21745
+| population_as_of        = 2011
+| population_density_km2  = auto
+| timezone1               = [[UTC−06:00]]
+| postal_code_type        = Postal code
+| postal_code             = 11301
+}}

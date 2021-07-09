@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Dori<!-- at least one of the first two fields must be filled in -->
+| official_name          =
+| native_name            = <!-- if different from the English name -->
+| other_name             =
+| settlement_type        = <!--such as Town, Village, City, Borough etc.-->
+<!-- images and maps  ----------->
+| image_skyline          = Burkina Faso Dori.JPG
+| imagesize              = 300px
+| image_caption          = A farmer on the streets of Dori
+| image_flag             =
+| image_seal             =
+| image_shield           =
+| nickname               =
+| motto                  =
+| image_map              =
+| map_caption            =
+| pushpin_map            = Burkina Faso <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location within Burkina Faso, [[French West Africa]]
+| coordinates            = {{coord|14.03|-0.03|region:BF|display=inline,title}}
+| coor_type              = <!-- can be used to specify what the coordinates refer to -->
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = {{BUR}}
+| subdivision_type1      = [[Regions of Burkina Faso|Region]]
+| subdivision_name1      = [[Sahel Region]]
+| subdivision_type2      = [[Provinces of Burkina Faso|Province]]
+| subdivision_name2      = [[Séno Province]]
+| subdivision_type3      = [[Departments of Burkina Faso|Department]]
+| subdivision_name3      =
+| established_title      = <!-- Settled -->
+| established_date       =
+| founder                =
+| named_for              =
+| seat_type              =
+| seat                   =
+| government_type        =
+<!-- Politics ----------------->
+| government_footnotes   =
+| leader_title           =
+| leader_name            =
+| total_type             = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref              = <!--Enter: Imperial, to display imperial before metric-->
+| area_footnotes         =
+<!-- Area    --------------------->
+| area_magnitude         = <!-- use only to set a special wikilink -->
+| area_total_km2         = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2         =
+| area_water_percent     =
+<!-- Elevation -------------------------->
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            =286
+| elevation_max_m        =
+| elevation_min_m        =
+<!-- Population   ----------------------->
+| population_footnotes   = <ref name=pop>[https://www.citypopulation.de/en/burkinafaso/cities/ Citypopulation.de] Population of cities & urban localities in Burkina Faso</ref>
+| population_total       = 46521
+| population_as_of       = 2019 census
+| population_density_km2 = <!--For automatic calculation, any density field may contain: auto -->
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Greenwich Mean Time|GMT]]
+| utc_offset             = +0
+| timezone_DST           =
+| utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| website                =
+| footnotes              =
+}}

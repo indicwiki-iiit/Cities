@@ -1,0 +1,35 @@
+{{Infobox Australian place| type = city
+| name     = Griffith
+| state    = nsw
+| image    = GriffithCourtHouse.JPG
+| caption  = Griffith Court House
+| coordinates = {{coord|34|17|24|S|146|2|24|E|display=inline,title}}
+| lga      = [[City of Griffith]]
+| postcode = 2680
+| pop      = 27321
+| pop_year = 2020
+| pop_footnotes =<ref name=ABSSUA/>
+| est      = 4 August 1916<ref>{{cite book|last=Kelly|first=Bryan Morris|title=From wilderness to eden : a history of the City of Griffith, its region and its people|year=1988|publisher=City of Griffith Council|location=Griffith, N.S.W.|isbn=0-7316-3994-4|page=18}}</ref> 
+| elevation= 129.2 
+| maxtemp  = 24.0 
+| mintemp  = 10.1
+| rainfall = 397.6
+| county   = [[Cooper County, New South Wales|Cooper]]
+| stategov = [[Electoral district of Murray|Murray]] 
+| fedgov   = [[Division of Farrer|Farrer]]
+| timezone = [[Australian Eastern Standard Time|AEST]]
+| utc      = +10
+| timezone-dst= [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst  = +11
+| dist1    = 191
+| location1= [[Wagga Wagga, New South Wales|Wagga Wagga]]
+| dist2    = 358
+| location2= [[Canberra]]
+| dist3   = 512
+| location3= [[Melbourne, Victoria|Melbourne]]
+| dist4   = 568 
+| dir4  = south-west
+| location4= Sydney
+| dist5   = 803
+| location5= [[Adelaide]]
+}}

@@ -1,0 +1,58 @@
+{{Infobox river
+| name                = Shenango River
+| name_native         = 
+| name_native_lang    = 
+| name_other          = Tributary to Beaver River
+| name_etymology      = 
+<!---------------------- IMAGE & MAP -->
+| image               = Shenango River.jpg
+| image_caption       = The Shenango River, flowing from the dam of Shenango River Lake in [[South Pymatuning Township, Pennsylvania|South Pymatuning Township]], [[Mercer County, Pennsylvania]]
+| map                 = [[File:Beaverriverpamap.png|250px|center]]
+| map_size            = 
+| map_caption         = 
+| pushpin_map         = 
+| pushpin_map_size    = 
+| pushpin_map_caption = 
+<!---------------------- LOCATION -->
+| subdivision_type1   = Country
+| subdivision_name1   = [[United States]]
+| subdivision_type2   = State
+| subdivision_name2   = [[Pennsylvania]]<br />[[Ohio]]
+| subdivision_type3   = Counties
+| subdivision_name3   = [[Ashtabula County, Ohio|Ashtabula (OH)]]<br />[[Crawford County, Pennsylvania|Crawford]] (PA)<br />[[Lawrence County, Pennsylvania|Lawrence]] (PA)<br />[[Mercer County, Pennsylvania|Mercer]] (PA)
+| subdivision_type4   = 
+| subdivision_name4   = 
+| subdivision_type5   = 
+| subdivision_name5   = 
+<!---------------------- PHYSICALCHARACTERISTICS -->
+| length              = {{convert|82.66|mi|km|abbr=on}}<ref>{{cite web |title=ArcGIS Web Application |url=https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=ada349b90c26496ea52aab66a092593b |website=epa.maps.arcgis.com |publisher=US EPA |accessdate=28 July 2019}}</ref>
+| width_min           = 
+| width_avg           = 
+| width_max           = 
+| depth_min           = 
+| depth_avg           = 
+| depth_max           = 
+| discharge1_location = Beaver River
+| discharge1_min      = 
+| discharge1_avg      = {{convert|1,381.73|cuft/s|m3/s|abbr=on}} at mouth with Beaver River<ref>{{cite web |title=Shenango River Watershed Report |url=https://watersgeo.epa.gov/watershedreport/?comid=12999836 |website=Waters Geoviewer |publisher=US EPA |accessdate=28 July 2019}}</ref>
+| discharge1_max      = 
+<!---------------------- BASIN FEATURES -->
+| source1             = Pymatuning Swamp (divide between Shenango River and French Creek)
+| source1_location    = Sadsbury Township, Pennsylvania<ref>{{cite web |title=New Castle Topo Map, Lawrence County PA (New Castle North Area) |url=https://www.topozone.com/pennsylvania/lawrence-pa/city/new-castle-11/ |website=TopoZone |publisher=Locality, LLC |language=en}}</ref>
+| source1_coordinates = {{coord|41|33|21|N|080|25|41|W|display=inline}}<ref name="GNIS Detail - Shenango River">{{cite web |title=GNIS Detail - Shenango River |url=https://geonames.usgs.gov/apex/f?p=138:3:0::NO:3:P3_FID,P3_TITLE:1046180,Shenango%20River |website=geonames.usgs.gov |publisher=US Geological Survey |accessdate=28 July 2019}}</ref>
+| source1_elevation   = {{convert|1,010|ft|abbr=on}}<ref name="Locality, LLC">{{cite web |title=New Castle Topo Map, Lawrence County PA (New Castle North Area) |url=https://www.topozone.com/pennsylvania/lawrence-pa/city/new-castle-11/ |website=TopoZone |publisher=Locality, LLC |accessdate=28 July 2019 |language=en}}</ref>
+| mouth               = Beaver River
+| mouth_location      = New Castle, Pennsylvania<ref name="Locality, LLC">{{cite web |title=New Castle Topo Map, Lawrence County PA (New Castle North Area) |url=https://www.topozone.com/pennsylvania/lawrence-pa/city/new-castle-11/ |website=TopoZone |publisher=Locality, LLC |accessdate=28 July 2019 |language=en}}</ref>
+| mouth_coordinates   = {{coord|40|57|29|N|080|22|43|W|display=inline,title}}<ref name="GNIS Detail - Shenango River">{{cite web |title=GNIS Detail - Shenango River |url=https://geonames.usgs.gov/apex/f?p=138:3:0::NO:3:P3_FID,P3_TITLE:1046180,Shenango%20River |website=geonames.usgs.gov |publisher=US Geological Survey |accessdate=28 July 2019}}</ref>
+| mouth_elevation     = {{convert|760|ft|abbr=on}}<ref name="Locality, LLC">{{cite web |title=New Castle Topo Map, Lawrence County PA (New Castle North Area) |url=https://www.topozone.com/pennsylvania/lawrence-pa/city/new-castle-11/ |website=TopoZone |publisher=Locality, LLC |accessdate=28 July 2019 |language=en}}</ref>
+| progression         = South
+| river_system        = Beaver River
+| basin_size          = {{convert|1,065.33|sqmi}}
+| basin_population    = 
+| tributaries_left    = Little Shenango River<br />Mathay Run<br />Lawango Run<br />Lackawannock Creek<br />Daley Run<br />Magargee Run<br />Pine Hollow Run<br />Thornton Run<br />Pine Run<br />Buchanon Run<br />Neshannock Creek<br />Big Run
+| tributaries_right   = [[Linesville Creek (Shenango River tributary)|Linesville Creek]]<br />Ashtabula River<br />Gravel Run<br />Black Creek<br />McMichaels Creek<br />Sugar Run<br />Big Run<br />Brush Run<br />Chestnut Run<br />[[Pymatuning Creek (Shenango River tributary)|Pymatuning Creek]]<br />McCullough Run<br />Big Run<br />Yankee Run<br />Turkey Run<br />Deer Creek
+| waterbodies         = Pymatuning Lake<br />Shenango Lake
+| custom_label        = 
+| custom_data         = 
+| extra               = 
+}}

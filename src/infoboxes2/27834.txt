@@ -1,0 +1,56 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+|official_name            = Yosemite Lakes
+|settlement_type          = [[Census-designated place]]
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_map                = Madera_County_California_Incorporated_and_Unincorporated_areas_Yosemite_Lakes_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Madera County, California|Madera County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|coordinates              = {{coord|37|11|28|N|119|46|22|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Madera County, California|Madera]]
+|established_date         = 
+<!-- Area------------------>
+|unit_pref                = US
+|area_footnotes           = <ref>{{Cite web
+ | url = http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_06.txt
+ | publisher = [[United States Census Bureau]]
+ | access-date = March 26, 2015
+ | title = 2010 Census Gazetteer Files - Places - California}}</ref>
+|area_total_sq_mi         = 20.999
+|area_total_km2           = 54.387
+|area_land_sq_mi          = 20.902
+|area_land_km2            = 54.136
+|area_water_sq_mi         = 0.097
+|area_water_km2           = 0.251
+|area_water_percent       = 0.46
+
+|elevation_footnotes      = <ref name=gnis>{{Cite GNIS|1867075|Yosemite Lakes|access-date=February 3, 2015}}</ref>
+|elevation_ft             = 1263
+|elevation_m              = 385
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 4952
+|population_density_sq_mi = auto
+|population_metro         = 
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 93614
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 559|559]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|86878}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1867075}}, {{GNIS 4|2409637}}
+}}

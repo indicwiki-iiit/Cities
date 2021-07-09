@@ -1,0 +1,54 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name = Blagoevgrad
+| image_skyline = {{Photomontage|position=center
+|photo1a = Blagoevgrad.Downtown.jpg
+|photo2a = Благоевград - panoramio (25).jpg
+|photo2b = Благоевград - panoramio (28).jpg
+|photo3a = Благоевград - panoramio (26).jpg
+|photo3b = The Presentation of Virgin Mary.jpg
+|photo4a = Благоевград - panoramio (35).jpg
+|photo4b = Struma Winter.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+|foot_montage = }}
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = [[Bulgaria]]
+| subdivision_type1 = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| subdivision_name1 = [[Blagoevgrad Province|Blagoevgrad]]
+| subdivision_type2 = [[Municipalities of Bulgaria|Municipality]]
+| subdivision_name2 = [[Blagoevgrad Municipality|Blagoevgrad]]
+| timezone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| timezone_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST = +3
+| map_caption = Location of Blagoevgrad
+| pushpin_map = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption = Location of Blagoevgrad
+| pushpin_mapsize = 
+| area_total_km2 = 28.909
+| population_density_km2 = auto
+| leader_title = Mayor
+| website = [http://www.blgmun.com/?lang=en Official website]
+| postal_code_type = [[List of postal codes in Bulgaria|Postal Code]]
+| image_map = 
+| image_shield = Emblem of Blagoevgrad.svg
+| native_name = {{native name|bg|Благоевград|italics=off}}
+| population_total = 70,252
+| population_urban = 81978
+| population_footnotes = <ref name="Census 2011">[http://www.nsi.bg/ORPDOCS/Census2011_1.pop_by_age.xls Census 2011] {{webarchive |url=https://web.archive.org/web/20130908134107/http://www.nsi.bg/ORPDOCS/Census2011_1.pop_by_age.xls |date=September 8, 2013 }}</ref>
+| population_as_of = Census February 2011
+| elevation_m = 410
+| postal_code = 2700
+| area_code = 073
+| registration_plate_type = License plate
+| registration_plate = E
+| coordinates = {{coord|42|00|43|N|23|05|23|E|region:BG|display=inline,title}}
+| leader_name = Rumen Tomov ([[Citizens for European Development of Bulgaria|Independent supported by BSP]])
+| blank_name = [[Köppen climate classification|Climate]]
+| blank_info = [[Humid subtropical climate|Cfa]]|
+| name = 
+| settlement_type = [[List of cities and towns in Bulgaria|Town]]
+}}

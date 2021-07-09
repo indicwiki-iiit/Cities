@@ -1,0 +1,31 @@
+{{Infobox kommune
+| name               = Notodden
+| native_name        = 
+| native_name_lang   = 
+| other_name         = 
+| official_name      = 
+| idnumber           = 3808
+| image_skyline      = Notodden dark.jpg
+| county             = Vestfold og Telemark
+| district           = Aust-Telemark
+| capital            = Notodden
+| language           = [[Norwegian language|Neutral]]
+| coatofarms         = Notodden komm.svg
+| demonym            = Notodding
+| munwebpage         = www.notodden.kommune.no
+| mayor              = Gry Bløchlinger
+| mayor_party        = [[Arbeiderpartiet|Ap]]
+| mayor_as_of        = 2015
+| area_rank          = 120
+| area_total_km2     = 914
+| area_land_km2      = 852
+| area_water_percent = 0.28
+| population_as_of   = 2005
+| population_rank    = 90
+| population_total   = 12359
+| populationpercent  = 0.27
+| population_density_km2 = 14
+| population_increase    = 0.5
+| coordinates        = {{coord|59|37|46|N|9|11|29|E|region:NO|display=inline,title}}
+| utm_zone = 32V | utm_northing = 6610172 | utm_easting = 0510809 | geo_cat = adm2nd
+}}

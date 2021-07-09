@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                     = Sandpoint, Idaho
+| other_name               = 
+| settlement_type          = [[City]]
+<!-- images and maps  ----------->
+|image_skyline           = {{Photomontage
+|photo1a      = Sandpoint Banner.JPG{{!}}Cedar Street Bridge Public Market
+|photo2a      = Sandpoint Idaho from Schweitzer.jpg{{!}}Sandpoint from Schweitzer Mountain
+|photo2b      = Sandpoint id city beach.jpg{{!}}City Beach
+|photo3a      = Sandpoint station.jpg{{!}}Sandpoint Amtrak Station
+|photo3b      = Sandpoint, ID.jpg{{!}}Downtown Sandpoint
+
+|size         = 250
+|border       = 1
+|spacing      = 2
+|color_border = white
+|color        = white
+|foot_montage = '''Top row:''' Cedar Street Bridge Public Market; '''2nd row:''' Sandpoint from [[Schweitzer Mountain]]; City Beach; '''3rd row:''' [[Sandpoint station|Sandpoint Amtrak Station]]; Downtown Sandpoint
+}}
+| image_caption            =
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = 
+| image_map                = File:Bonner County Idaho Incorporated and Unincorporated areas Sandpoint Highlighted 1672100.svg
+| mapsize                  = 250px
+| map_caption              = Location of Sandpoint in Bonner County, Idaho.
+| coordinates              = {{coord|48|16|N|116|34|W|region:US_type:city|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|County]]
+| subdivision_name2        = [[Bonner County, Idaho|Bonner]]
+| established_title        = Incorporation
+| established_date         = [[1898 in rail transport|1898]]
+| government_type          = 
+<!-- Politics ----------------->
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+<!-- Area -->
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_sq_mi         = 4.56
+| area_land_sq_mi          = 4.26
+| area_water_sq_mi         = 0.30
+| area_water_percent       = 
+| elevation_footnotes      = 
+| elevation_ft             = 2096
+<!-- Population -->
+| population_footnotes     = <ref name="wwwcensusgov"/>
+| population_total         = 7365
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 8931
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 2094.02
+| population_note          = 
+<!-- General information  --------------->
+|population_demonym      = Sandpointer
+| timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+| utc_offset               = -8
+| timezone_DST             = PDT
+| utc_offset_DST           = -7
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP Code]]
+| postal_code              = 83864
+| area_code                = [[Area codes 208 and 986|208, 986]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-72100
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0398095
+| website                  = {{URL|http://www.cityofsandpoint.com/}}
+|area_total_km2 = 11.81
+|area_land_km2 = 11.05
+|area_water_km2 = 0.77
+|population_density_km2 = 808.46
+}}

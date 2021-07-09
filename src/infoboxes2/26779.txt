@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Church Hill, Maryland
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Queen_Anne's_County_Maryland_Incorporated_and_Unincorporated_areas_Church_Hill_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Church Hill, Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Maryland]]
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = [[Queen Anne's County, Maryland|Queen Anne's]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1876<ref>{{cite web|title=Church Hill|url=http://msa.maryland.gov/msa/mdmanual/37mun/churchhill/html/c.html|website=Maryland Manual|accessdate=27 June 2017}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|accessdate=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 1.86
+|area_land_km2            = 1.86
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 0.72
+|area_land_sq_mi          = 0.72
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 753
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 745
+|population_density_km2   = 404.77
+|population_density_sq_mi = 1048.75
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 12
+|elevation_ft             = 39
+|coordinates              = {{coord|39|8|40|N|75|59|6|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 21623, 21656
+|area_code                = [[Area code 410|410]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-17100
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0597247
+|website                  = {{URL|http://churchhillmd.com/}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

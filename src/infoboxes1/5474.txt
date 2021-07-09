@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Wuchang}}
+| native_name                     = {{lower|0.1em|{{nobold|{{lang|zh-hans|武昌区}}}}}}
+| official_name                   = 
+| other_name                      = Wu-Chang
+| settlement_type                 = [[District (China)|District]]
+| postal_code_type                = [[Postal code of China|Postal code]]
+| image_skyline                   = 东湖远眺武昌 - panoramio.jpg
+| image_caption                   = East Lake overlooking Wuchang
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=10}}
+| pushpin_map                     = China Hubei
+| pushpin_label                   = Wuchang
+| pushpin_map_caption             = Location in Hubei
+| subdivision_type                = Country
+| subdivision_name                = People's Republic of China
+| subdivision_type1               = [[Provinces of China|Province]]
+| subdivision_name1               = [[Hubei]]
+| subdivision_type2               = [[Sub-provincial city]]
+| subdivision_name2               = [[Wuhan]]
+| subdivision_type3               = Subdivisions
+| subdivision_name3               = 
+| area_footnotes                  = <ref name="stats yearbook">{{cite web|title=Wuhan Statistical Yearbook 2010|url=http://www.whtj.gov.cn/documents/tjnj2010.pdf|publisher=Wuhan Statistics Bureau|access-date=2011-07-30|format=[[Portable Document Format|PDF]]|page=15}}</ref>
+| area_total_km2                  = 87.42
+| population_footnotes            = <ref name="census2010">{{cite web |script-title=zh:武汉市2010年第六次全国人口普查主要数据公报|url=http://www.whtj.gov.cn/Article/ShowArticle.aspx?id=6417|publisher=Wuhan Statistics Bureau |language=zh-hans |date=2011-05-11|archive-url=https://web.archive.org/web/20111025103716/http://www.whtj.gov.cn/Article/ShowArticle.aspx?id=6417|archive-date=2011-10-25}} Retrieved 2011-06-11.</ref>
+| population_total                = 1199127
+| population_as_of                = 2010
+| population_density_km2          = 13717
+| coordinates_footnotes           = <ref>{{Google maps|url=https://www.google.com/maps/place/Wuchang,+Wuhan,+Hubei/@30.561934,114.3403674,12z/data=!3m1!4b1!4m2!3m1!1s0x342eaf978840440d:0x2109edeb11bec27e|title=Wuchang|access-date=2014-07-02}}</ref>
+| coordinates                     = {{coord|30.5619|N|114.3404|E|type:adm3rd_region:CN-42|format=dms|display=it}}
+| elevation_ft                    = 
+| elevation_m                     = 
+| timezone                        = [[China Standard Time|China Standard]]
+| utc_offset                      = +8
+| website                         = {{URL|www.wuchang.gov.cn|武昌区政府门户网站 (translation: Wuchang District Government Web Portal}} (in Simplified Chinese)
+| blank_name_sec1                 = Wuhan district map
+| blank_info_sec1                 = {{Wuhan districts}}
+}}

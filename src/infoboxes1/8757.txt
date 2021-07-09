@@ -1,0 +1,65 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Mirchaiya
+|native_name            = मिर्चैया नगरपालिका
+|other_name             =
+|settlement_type        = [[Municipality]]
+|image_skyline          =
+|image_caption          =
+|image_flag             =
+|image_seal             =
+|nickname               = रामनगर मिर्चैया
+|motto                  =
+<!-- images and maps  -->
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|coordinates            = {{coord|26.84|86.25|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Zones of Nepal|Zone]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name1      = [[Sagarmatha Zone]]
+|subdivision_name2      = [[Siraha District]]
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|government_footnotes   =
+|government_type        = 
+|leader_title      = [[Mayor]]
+|leader_name       = Shrawan Yadav ([[Nepal Communist Party|NCP]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Jivachi Devi Sah ([[Nepal Communist Party|NCP]])
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+<!-- Population   -->
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|population_total               = 52000
+|population_as_of               = 2017
+|population_footnotes           =24771 Voter (2017)
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =  56515
+|area_code              =  +977-33
+|website                = [http://www.mirchaiyamun.gov.np www.mirchaiyamun.gov.np]
+|footnotes              = 
+|<!-- Politics -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|blank_name             =
+|blank_info             =
+}}

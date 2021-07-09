@@ -1,0 +1,76 @@
+{{Infobox military installation
+| name = Offutt Air Force Base
+| ensign = 
+| ensign_size =
+| native_name = 
+| partof = <!-- for elements within a larger site -->
+| location = [[Omaha, Nebraska|Omaha]], [[Nebraska]]
+| nearest_town = <!-- used in military test site infobox -->
+| country = the United States
+| image = Offutt AFB at 1000 ft.JPG
+| alt = An aerial view of Offutt AFB during 2007.
+| caption = An aerial view of Offutt AFB during 2007.
+| image2 = [[File:Air Combat Command.png|100px]]
+| alt2 = 
+| caption2 = 
+| type = U.S. Air Force Base
+| coordinates = {{coord|41|07|10|N|095|54|31|W|display=inline,title}}
+| gridref = 
+| image_map = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map = USA Nebraska # USA
+| pushpin_mapsize = 
+| pushpin_map_alt = 
+| pushpin_map_caption = 
+| pushpin_relief = 
+| pushpin_image = 
+| pushpin_label = Offutt AFB
+| pushpin_label_position = top
+| pushpin_mark = airplane_silhouette.svg
+| pushpin_marksize = 
+| ownership = [[United States Department of Defense|Department of Defense]]
+| operator = [[United States Air Force]]
+| controlledby = [[Air Combat Command]] (ACC)
+| open_to_public = <!-- for out of use sites/sites with museums etc. -->
+| site_other_label = <!-- for renaming "Other facilities" in infobox -->
+| site_other = <!-- for other sorts of facilities – radar types etc. -->  
+| site_area = <!-- area of site m2, km2 square mile etc. -->
+| code = <!--facility/installation code, applies to US -->
+| built = {{Start date|1921}} (as part of Fort Crook)
+| used = 1921 – present <!--{{End date|1946}} -->
+| builder = 
+| materials = 
+| height = <!-- height of tallest part, not above sea level -->
+| length = <!-- for border fences or other DMZs -->
+| fate = <!--changed from demolished parameter-->
+| condition = Operational
+| battles = 
+| events = 
+| current_commander = [[Colonel (United States)|Colonel]] Gavin P. Marks
+| past_commanders = <!-- past notable commander(s) -->
+| garrison = [[55th Wing]] (Host Wing)
+| occupants = <!-- squadrons only -->
+| designations = 
+| website = [http://www.offutt.af.mil/ www.offutt.af.mil]
+<!-- begin airfield information  -->
+| IATA = OFF
+| ICAO = KOFF
+| FAA = OFF
+| TC = 
+| LID = 
+| GPS = 
+| WMO = 725540
+| elevation = {{Convert|319.7|m|0}}
+| r1-number = 12/30
+| r1-length = {{Convert|3567|m|0}}
+| r1-surface = Concrete
+| h1-number = 
+| h1-length = <!-- {{Convert| |m|0}} -->
+| h1-surface = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->
+| footnotes = '''Source:''' [[Federal Aviation Administration]]<ref>{{cite web|url=https://aeronav.faa.gov/d-tpp/1909/00544ad.pdf#nameddest=(OFF)|title=Airport Diagram – Offutt AFB (KOFF)|date=15 August 2019|website=Federal Aviation Administration|access-date=10 September 2019}}</ref>
+}}

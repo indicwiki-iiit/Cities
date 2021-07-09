@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                    = Parteš
+| native_name             = Партеш{{native name|sr|/Parteš}}<br>''Partesh'' or {{native name|sq|Parteshi}}
+| native_name_lang        = sr
+| other_name              = 
+| official_name           = 
+| settlement_type        = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|municipality]]
+<!-- images and maps  ----------->
+| image_skyline          = Church of Holy Trinity in Parteš.jpg
+| imagesize              = 
+| image_caption          = Church of the Holy Trinity in Parteš
+| image_seal             = 
+| seal_size              =
+|image_blank_emblem      = Stema e Komunës Partesh.svg
+|blank_emblem_type       = Emblem
+| image_map              = File:Partesh in Kosovo.svg
+| mapsize                = 
+| map_caption            = Location of the municipality of Parteš within Kosovo
+| pushpin_map            = 
+| pushpin_label_position = 
+| pushpin_mapsize        =
+| pushpin_map_caption    = 
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = Kosovo{{efn|name=status}}
+| subdivision_type1      = [[Districts of Kosovo|District]]
+| subdivision_name1      = [[District of Gjilan]]
+| subdivision_type2      = Settlements
+| subdivision_name2      = 3
+<!-- Politics ----------------->
+| government_footnotes   =
+| government_type        = 
+| leader_title           = Provisional president
+| leader_name            = Dragan Petković
+| leader_party           = [[Serb List (Kosovo)|GIS]]
+| established_title      = Municipality status
+| established_date       = 19 August 2010
+<!-- Area    --------------------->
+| area_magnitude         = 
+| unit_pref                = 
+| area_footnotes           =
+| area_total_km2           = 18.3
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2           =
+| area_total_sq_mi         =
+| area_land_sq_mi          =
+| area_water_sq_mi         =
+| area_water_percent       =
+| area_metro_km2           =
+| area_metro_sq_mi         =
+<!-- Population   ----------------------->
+| population_as_of               = 2013 ({{estimation}})
+| population_footnotes           =
+| population_note                = 
+| population_total               = 5300
+| population_density_km2         = auto
+| population_density_sq_mi       = 
+| population_metro               =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_urban               =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| coordinates            = {{coord|42|24|07|N|21|26|01|E|type:city(50000)_region:CS|display=inline,title}}
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 473
+| elevation_ft           =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = Postal code
+| postal_code            = 38251
+| area_code              = 
+| blank_name             = 
+| blank_info             = 
+| blank1_name            =
+| blank1_info            =
+| website                = {{url|https://kk.rks-gov.net/partesh/sr/}}
+| footnotes              =
+}}

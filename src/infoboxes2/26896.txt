@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type      = town
+| name      = Scone
+| state     = nsw
+| image     = Mare & foal.JPG
+| caption   = Mare and foal, Scone
+| coordinates = {{coord|32|05|S|150|51|E|display=inline,title}}
+| pop       = 5624
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016>{{Census 2016 AUS|id=SSC13503|name=Scone (State Suburb) |accessdate=25 January 2018|quick=on}}</ref>
+| postcode  = 2337
+| elevation = 216
+| dist1     = 271
+| dir1      = N
+| location1 = Sydney
+| dist2     = 153
+| dir2      = NW
+| location2 = [[Newcastle, New South Wales|Newcastle]]
+| dist3     = 27
+| dir3      = N
+| location3 = [[Muswellbrook, New South Wales|Muswellbrook]]
+| dist4     = 40
+| dir4      = S
+| location4 = [[Murrurundi, New South Wales|Murrurundi]]
+| lga       = Upper Hunter Shire
+| stategov  = [[Electoral district of Upper Hunter|Upper Hunter]]
+| fedgov    = [[Division of New England|New England]]
+| maxtemp   = 24.0
+| mintemp   = 11.0
+| rainfall  = 645.0
+| est       = 
+}}

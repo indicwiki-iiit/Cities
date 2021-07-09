@@ -1,0 +1,39 @@
+{{Infobox Australian place
+|type    = town
+|name    = Ballarat
+|state   = vic
+|image   = Aerialviewgardens.jpg
+|caption = Aerial view of [[Ballarat Central]] with Mt. Warrenheip on the horizon
+|pop                 = 109,553
+|pop_footnotes       = <ref name=ABSSUA/>
+|pop_year            = 2020
+|poprank             = 19th
+|elevation           = 435-630 <!--1427&amp;nbsp;ft-->
+|elevation_footnotes = &nbsp;[[Australian Height Datum|AHD]]
+|coordinates  = {{coord|37|33|39|S|143|50|51|E|type:city(110000)_region:AU-VIC|display=inline,title}}
+|est          = 1838
+|area         = 343.6
+|area_footnotes = <ref name="ABSSUAProf">{{cite web|title=2016 Census Community Profiles: Ballarat|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/communityprofile/2003|work=ABS Census|publisher=Australian Bureau of Statistics|access-date=15 September 2016}}</ref> (2016 census – SUA)
+|timezone     = [[UTC10|AEST]]
+|utc          = +10
+|timezone-dst = [[UTC11|AEDT]]
+|utc-dst      = +11
+|postcode     = 3350
+|stategov     = [[Electoral district of Buninyong|Buninyong]]
+|stategov2    = [[Electoral district of Ripon|Ripon]]
+|stategov3    = [[Electoral district of Wendouree|Wendouree]]
+|fedgov       = [[Division of Ballarat|Ballarat]]
+|lga          = [[City of Ballarat]]
+|maxtemp = 17.7
+|mintemp = 6.6
+|rainfall = 689.4
+|dist1 = 110
+|dir1 = NW
+|location1 = Melbourne
+|dist2 = 82
+|dir2 = NW
+|location2 = [[Geelong]]
+|dist3 = 95
+|dir3 = SW
+|location3 = [[Bendigo]]
+|mayor=Cr. Ben Taylor}}

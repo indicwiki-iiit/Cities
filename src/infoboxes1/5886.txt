@@ -1,0 +1,25 @@
+{{Infobox unit
+| bgcolor      = 
+| name         = mile
+| image        = Milestone, Knightsbridge, London - geograph.org.uk - 1590514.jpg
+| caption      = A [[milestone]] in [[Westminster]]<!-- not 'London'; see talk page --> showing the distance from Kensington Road to [[Hounslow]] and [[Hyde Park Corner]] in miles
+| standard     = [[Imperial units|British imperial]]/[[US customary units|US customary]]
+| quantity     = length
+| symbol       = mi. or mi
+| symbol2      = ''(rarely)'' m
+| namedafter   = 
+| extralabel   = 
+| extradata    = 
+| units1       = [[SI units]]
+| inunits1     = {{val|1609.344|ul=m}}
+| units2       = [[imperial units|imperial]]/[[US customary units|US]]&nbsp;units
+| inunits2     = {{ubl|{{val|63360|ul=inches}}|{{val|5280|ul=feet}}|{{val|1760|ul=yards}}|80 [[chain (unit)|ch]]|8 [[furlong|fur]]}}
+| units3       = U.S. survey mile
+| inunits3     = 0.999998 [[#U.S. survey mile|survey mile]]
+| units4       = nautical&nbsp;units
+| inunits4     = {{convert|1|mi|nmi|disp=out|lk=on|sigfig=5|comma=gaps}}
+| units5       = 
+| inunits5     = 
+| units6       = 
+| inunits6     = 
+}}

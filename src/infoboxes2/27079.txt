@@ -1,0 +1,27 @@
+{{Infobox Australian place
+| type     = town
+| name     = Woolgoolga
+| state    = nsw
+| image    = Woopifromheadland.JPG
+| caption  = Looking down to Woolgoolga from the headland
+| lga      = City of Coffs Harbour
+| coordinates = {{coord|30|07|S|153|12|E|display=inline,title}}
+| pushpin_label_position = left
+| dist1              = 550
+| dir1               = NE
+| location1          = [[Sydney]]
+| dist2              = 365
+| dir2               = S
+| location2          = [[Brisbane]]
+| postcode = 2456
+| county = [[Fitzroy County, New South Wales|Fitzroy]]
+| timezone           = [[Australian Eastern Standard Time|AEST]]
+| utc                = +10
+| timezone-dst       = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst            = +11
+| pop      = 	5,290 
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census">{{Census 2016 AUS|id=SSC14402|name=Woolgoolga (State Suburb)|access-date=23 March 2018|quick=on}}</ref>
+| stategov = [[Electoral district of Coffs Harbour|Coffs Harbour]]
+| fedgov   = [[Division of Page|Page]] 
+}}

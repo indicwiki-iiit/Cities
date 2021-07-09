@@ -1,0 +1,39 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name            = Mosonmagyaróvár
+| other_name               = {{lang|de|Wieselburg-Ungarisch Altenburg}} {{in lang|de}}<br>{{lang|la|Ad Flexum}} {{in lang|la}}
+| settlement_type          = [[List of cities and towns of Hungary|Town]]
+| image_skyline            = Mosonmagyaróvár - Castle.jpg
+| image_caption            = Castle
+| image_shield             = HUN Mosonmagyaróvár Címer.svg
+| image_flag               = Flag of Mosonmagyaróvár.svg
+| pushpin_map              = Hungary Győr-Moson-Sopron#Hungary
+| pushpin_relief           = 
+| pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption      = Location of Mosonmagyaróvár
+| pushpin_mapsize          = 
+| coordinates              = {{coord|47.87371|17.26873|region:HU|display=inline,title}}
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = {{HUN}}
+|subdivision_type1 = [[Counties of Hungary|County]]
+|subdivision_name1 = [[Győr-Moson-Sopron County|Győr-Moson-Sopron]]
+|subdivision_type2 = [[Districts of Hungary|District]]
+|subdivision_name2 = [[Mosonmagyaróvár District|Mosonmagyaróvár]]
+| area_total_km2           = 83.78
+| population_as_of         = 1 Jan 2019
+| population_total         = 33954
+| population_footnotes    = <ref>{{cite web | url=http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=04783 | title=Mosonmagyaróvár, KSH | publisher=Hungarian Central Statistical Office | access-date=26 January 2019}}</ref>
+| population_density_km2   = auto
+| postal_code_type         = [[Postal codes in Hungary|Postal code]]
+| postal_code              = 9200
+| area_code_type           = [[Telephone numbers in Hungary|Area code]]
+| area_code                = (+36) 96
+| website                  = {{URL|http://www.mosonmagyarovar.hu/}}
+| timezone                 = [[Central European Time|CET]]
+| utc_offset               = +1
+| timezone_DST             = [[Central European Summer Time|20CEST]]
+| utc_offset_DST           = +2
+| blank_name             = Motorways
+| blank_info             = [[M1 motorway (Hungary)|M1]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|162|km|abbr=on}} Southeast
+}}

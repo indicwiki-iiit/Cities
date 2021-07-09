@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name              = Puerto La Cruz 
+| settlement_type   = City  
+|image_skyline={{Photomontage  
+| photo1a = Vista_aérea_de_Las_Villas.jpg
+| photo2a = Playa_Paseo_Colón_Puerto_La_Cruz_Venezuela.JPG
+| photo2b = Playa_el_saco_Puerto_La_cruz_3.jpg
+| photo3a = PuertoLaCruzSkyline.jpg
+| size = 270
+| spacing = 1
+| color = white
+| border = 1   
+| color_border = white
+}}
+| image_caption  = '''Top''':Panorama view of Lecheria and Las Villes area, '''Middle''':Paseo Colon Beach (Playa del Paseo Colon), El Saco Beach, (Playa del El Saco), '''Bottom''':Panoramic view of downtown Urbani Sacion, from El Saco Beach (all item from left to right) 
+| pushpin_map            = Venezuela
+|coordinates             = {{coord|10|12|0|N|64|38|0|W|type:city|display=inline,title}}
+| image_flag          = {{#property:P41}}
+| image_seal          = {{#property:P94}}
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_type1 = [[States of Venezuela|State]]
+|subdivision_type2 = [[Municipalities of Venezuela|Municipality]]
+|subdivision_name = {{flagicon|Venezuela}}[[Venezuela]]
+|subdivision_name1 = [[Anzoátegui]]
+|subdivision_name2 = [[Juan Antonio Sotillo Municipality]]
+|established_title = Founded
+|established_date = 1862
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 244
+| elevation_m             = 10
+| population_footnotes    =
+| population_total        = 454,312
+| population_as_of        =
+| population_density_km2  = auto
+| population_demonym      = Portocruzano/a
+| population_note         =
+| timezone1               = [[Venezuelan Standard Time Zone|VET]]
+| utc_offset1             = &minus;4
+| postal_code_type        = Postal code
+| postal_code             = 6023
+| area_code_type          = Area code
+| area_code               = 0281
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}

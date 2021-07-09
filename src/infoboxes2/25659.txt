@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+|official_name=Sándorfalva
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|image_shield =HUN Sándorfalva Címer.svg
+|image_flag = Flag of Sándorfalva.svg
+| pushpin_map            = Hungary Csongrád#Hungary
+|pushpin_relief = 1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        = 280
+|coordinates            = {{coord|46.36836|20.11438|region:HU_type:city|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{HUN}}
+| subdivision_type1               = [[Counties of Hungary|County]]
+| subdivision_name1               = [[Csongrád-Csanád County|Csongrád-Csanád]]
+| subdivision_type2               = [[Districts of Hungary|District]]
+| subdivision_name2               = [[Szeged District|Szeged]]
+|area_total_km2=55.77
+|population_as_of=2013
+|population_total=7918
+|population_density_km2=auto
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|postal_code_type=[[Postal codes in Hungary|Postal code]]
+|postal_code=6762
+|area_code_type= [[Telephone numbers in Hungary|Area code]]
+|area_code=(+36) 62
+|website={{URL|http://sandorfalva.hu/}}
+}}

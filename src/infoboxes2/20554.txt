@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                            = Moultrie
+| official_name                   = Moultrie, Georgia
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = The City of Southern Living
+| settlement_type                 = [[City]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Moultrie Municipal Building.JPG
+| imagesize                       = 
+| image_caption                   = Moultrie Municipal Building (City Hall)
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| image_map                       = Colquitt_County_Georgia_Incorporated_and_Unincorporated_areas_Moultrie_Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location in [[Colquitt County, Georgia|Colquitt County]] and the state of [[Georgia (U.S. state)|Georgia]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+USA
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location in the United States
+| pushpin_mapsize                 = 
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Georgia (U.S. state)|Georgia]]
+| subdivision_type2               = [[List of counties in Georgia (U.S. state)|County]]
+| subdivision_name2               = [[Colquitt County, Georgia|Colquitt]]
+| subdivision_type3               = 
+| subdivision_name3               = 
+| subdivision_type4               = 
+| subdivision_name4               = 
+<!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = William M. McIntosh (1983&ndash;present)<ref>http://www.moultriega.com/government/mayor/</ref>
+| leader_title1                   = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1                    = 
+| established_title               = Established
+| established_date                = {{start date|1879|12|13}}<ref>{{cite web|title=Moultrie history|url=http://www.moultriega.com/?page_id=28|website=moultriega.com|access-date=September 16, 2015|archive-url=https://web.archive.org/web/20151207003241/http://www.moultriega.com/?page_id=28|archive-date=December 7, 2015|url-status=dead|df=mdy-all}}</ref>
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = 
+<!-- Area    --------------------->
+| area_magnitude                  = 1 E9
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_km2                  = 43.60
+| area_land_km2                   = 43.17
+| area_water_km2                  = 0.42
+| area_total_sq_mi                = 16.83
+| area_land_sq_mi                 = 16.67
+| area_water_sq_mi                = 0.16
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = 
+<!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 14268
+| population_density_km2          = 329.16
+| population_density_sq_mi        = 852.49
+<!-- General information  --------------->
+| timezone                        = [[North American Eastern Time Zone|EST]]
+| utc_offset                      = -5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = -4
+| coordinates                     = {{coord|31|10|N|83|47|W|region:US-GA_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 97
+| elevation_ft                    = 318
+<!-- Area/postal codes & others -------->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 31768, 31776, 31788
+| area_code                       = [[Area code 229|229]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 13-53060<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=United States Census Bureau|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0332427<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = http://www.moultriega.com/
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 14211
+}}

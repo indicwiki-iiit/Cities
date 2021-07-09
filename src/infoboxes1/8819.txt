@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Hansapur
+|other_name             = 
+|native_name            = हंसपुर 
+|nickname               = 
+|settlement_type        = Village Development Committee
+|motto                  =
+<!-- images and maps  -->
+|image_skyline          =
+|image_caption          =
+|image_flag             =
+|image_seal             =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Regions of Nepal|Region]]
+|subdivision_name1      = [[Mid-Western Region, Nepal|Mid-Western]]
+|subdivision_type2      = [[Zones of Nepal|Zone]]
+|subdivision_name2      = [[Rapti Zone]]
+|subdivision_type3      = [[Districts of Nepal|District]]
+|subdivision_name3      = [[Pyuthan District]]
+|subdivision_type4      = [[Village development committee (Nepal)|VDC]]
+|subdivision_name4      = Hansapur
+|subdivision_type5      = Wards
+|subdivision_name5      = 
+<!-- Politics -->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of               = 2001 Census<ref>{{Cite web| url=http://www.digitalhimalaya.com/collections/nepalcensus/form.php?selection=1|title=Nepal Census 2001|work=Nepal's Village Development Committees|publisher=[[Digital Himalaya]]|accessdate=21 September 2008}}</ref>
+|population_footnotes           =
+|population_note                = 495 households 
+|population_total               = 3008
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+|population_blank2_title        = Religions
+<!-- General information  -->
+|timezone               = [[Nepal Time]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|27.93|82.90|type:city_region:NP|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                =
+|footnotes              = 
+}}

@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Terme
+| image_skyline           = Üstgecitten görünüm , terme , samsun , turkey - panoramio.jpg
+| image_caption           =  A view of Terme
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|41|12|33|N|36|58|26|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Samsun Province|Samsun]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = 
+| leader_title            = <!-- Mayor -->
+| leader_name             = 
+| leader_title1           = <!-- [[Kaymakam]] -->
+| leader_name1            = 
+| area_blank1_title       = 
+| area_blank1_km2         = 
+| elevation_m             = 
+| population_footnotes    = {{Turkey district populations|SOURCE|Samsun}}
+| population_urban        = {{Turkey district populations|Samsun|Terme|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Samsun|Terme|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Humid subtropical climate|Cfa]]
+| postal_code_type        = <!-- Post code -->
+| postal_code             = 
+| website                 = <!-- {{URL|XXXXXXX|XXXXXX}} -->
+}}

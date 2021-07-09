@@ -1,0 +1,48 @@
+{{Infobox Australian place
+| type = town
+| name     = Pine Creek
+| state    = nt
+| coordinates = {{coord|13.8235|S|131.8262|E|format=dms|display=inline,title}}
+| coord_ref                = <ref name="NTplacenames">{{cite web |title=Place Names Register Extract re "Pine Creek" |url=https://www.ntlis.nt.gov.au/placenames/view.jsp?id=22383 |website=NT Place Names Register |publisher=Northern Territory Government |access-date=24 March 2019}}</ref>
+ 
+| pop      = 328
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC70224 |name=Pine Creek (State Suburb) |accessdate=18 December 2017 |quick=on}}</ref>
+
+| established              = 24 January 1889 (town)<br/>3 April 2007 (locality)
+| established_footnotes    = <ref name="SAGG-1889">{{cite web |title=Untitled proclamation re the "Town of Playford" |url=http://www6.austlii.edu.au/au/other/sa_gazette/1889/4/164.pdf |website=The South Australian Government Gazette |publisher=Government of South Australia |access-date=24 March 2019 |page=164 |date=24 January 1889}}</ref>
+ 
+| postcode                 = 0847
+| elevation                = 
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone                 = 
+| utc =
+
+| dist1    = 226
+| location1= [[Darwin, Northern Territory|Darwin]]
+| dist2    = 90
+| location2= [[Katherine, Northern Territory|Katherine]]
+
+| lga      = [[Victoria Daly Region]]
+| stategov = [[Electoral division of Daly|Daly]]
+| fedgov   = [[Division of Lingiari|Lingiari]]
+
+| maxtemp                  = 
+| maxtemp_footnotes        = 
+| mintemp                  = 
+| mintemp_footnotes        = 
+| rainfall                 = 
+| rainfall_footnotes       = 
+| near-n                   = 
+| near-ne                  = 
+| near-e                   = 
+| near-se                  = 
+| near-s                   = 
+| near-sw                  = 
+| near-w                   = 
+| near-nw                  = 
+| near                     = 
+| footnotes                = 
+}}

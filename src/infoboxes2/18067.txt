@@ -1,0 +1,31 @@
+{{Infobox airport
+| name         = El Golea Airport
+| nativename   = 
+| image        =
+| IATA         = ELG
+| ICAO         = DAUE
+| pushpin_map            = Algeria
+| pushpin_map_caption    = Location of airport in Algeria
+| pushpin_label          = ELG
+| pushpin_label_position = right
+| type         = Public
+| owner        = 
+| operator     = 
+| city-served  = [[El Goléa]], [[Algeria]]
+| location     = 
+| metric-elev  = y
+| elevation-m  = 398
+| elevation-f  = 1,306
+| coordinates  = {{coord|30|34|39|N|2|51|51|E|region:DZ_type:airport|name=El Goléa International Airport (El Goléa)|display=inline,title}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 18/36
+| r1-length-m  = 3,500
+| r1-length-f  = 11,482
+| r1-surface   = [[Asphalt]]
+| r2-number    = 10/28
+| r2-length-m  = 1,800
+| r2-length-f  = 5,906
+| r2-surface   = [[Asphalt]]
+| footnotes    = Sources: Algerian [[Aeronautical Information Publication|AIP]],<ref name="AIP">[http://www.sia-enna.dz/PDF/AIP/AD/AD2/DAUE/DAUE.pdf AIP] and [http://www.sia-enna.dz/PDF/AIP/AD/AD2/DAUE/DAUE7.pdf Chart] {{webarchive|url=https://web.archive.org/web/20070926225444/http://www.sia-enna.dz/PDF/AIP/AD/AD2/DAUE/DAUE7.pdf |date=2007-09-26 }} from ''Service d'Information Aéronautique - Algerie'' {{in lang|fr}}</ref> Landings.com<ref name="Landings">{{cite web|url=http://aerobaticsweb.org/cgi-bin/search_apt?DAUE|title=DAUE @ aerobaticsweb.org|publisher= Landings.com|access-date=2013-08-01}}</ref>
+}}

@@ -1,0 +1,52 @@
+{{Infobox Australian place
+| type                = town<!-- As much as some people may want it to be, Tweed Heads is NOT a city. It is officially a town! -->
+| name                = Tweed Heads
+| city                = 
+| state               = nsw
+| image               = {{photomontage
+   | photo1a = Tweed Heads Twin Towns.jpg
+   | photo2a = Tweed Heads marina view.jpg
+   | spacing                 = 2
+   | position                = center
+   | color_border            = black
+   | color                   = white
+   | size = 270
+ }}
+| caption             = From top: Twin Towns, Tweed Heads Marina
+| pop                 = 8176
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=ABS2016>{{Census 2016 AUS|id=SSC13984 |name=Tweed Heads (State Suburb) |accessdate=6 February 2018|quick=on|map=on}}</ref>
+| density             = 
+| coordinates         = {{coord|28|11|0|S|153|33|0|E|display=inline,title}}
+| pushpin_label_position = left
+| density_footnotes   = 
+| est                 = 1844
+| postcode            = 2485
+| elevation           = 1
+| elevation_footnotes = 
+| area                = 
+| area_footnotes      = 
+| timezone            = [[Australian Eastern Standard Time|AEST]]
+| utc                 = +10
+| timezone-dst        = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst             = +11
+| dist1               = 102
+| dir1                = SSE
+| location1           = [[Brisbane]]
+| dist2               = 830
+| dir2                = N
+| location2           = Sydney
+| dist3               = 25
+| dir3                = SSE
+| location3           = [[Surfers Paradise]]
+| lga                 = Tweed Shire
+| region              = 
+| county              = [[Rous County, New South Wales|Rous]]<ref name=gnbtown>{{NSW GNR|id=SXjLXttLGH|title=Tweed Heads|access-date=1 April 2019}}</ref>
+| parish              = Terranora<ref name=gnbtown />
+| stategov            = [[Electoral district of Tweed|Tweed]]
+| fedgov              = [[Division of Richmond|Richmond]]
+| maxtemp             = 25.8
+| maxtemp_footnotes = <ref>{{cite web| publisher=[[Bureau of Meteorology]] | title=Murwillumbuh (Bray Park)| work=Climate Averages for Australian Sites| url = http://www.bom.gov.au/climate/averages/tables/cw_058158.shtml| access-date =25 March 2008}}</ref>
+| mintemp             = 14.4
+| rainfall            = 1581.5
+}}

@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = Lovington, New Mexico
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Lovington New Mexico Public Library.jpg
+|image_caption            = Lovington Public Library
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Lea_County_New_Mexico_Incorporated_and_Unincorporated_areas_Lovington_Highlighted.svg
+|map_caption              = Location of Lovington, New Mexico
+|image_map1               = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New Mexico]]
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Lea County, New Mexico|Lea]]
+
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 29.50
+|area_land_km2            = 29.42
+|area_water_km2           = 0.08
+|area_total_sq_mi         = 11.39
+|area_land_sq_mi          = 11.36
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 11009
+|population_density_km2   = 390.45
+|population_density_sq_mi = 1011.27
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST           = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1192
+|elevation_ft             = 3911
+|coordinates              = {{coord|32|56|47|N|103|21|13|W|region:US-NM_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 88260
+|area_code                = [[Area code 575|575]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-44490
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0899742
+|website                  = {{URL|lovington.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11489
+}}

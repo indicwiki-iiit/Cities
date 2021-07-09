@@ -1,0 +1,123 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                     = Foster City, California
+|settlement_type          = [[City (California)|City]]
+|official_name            = City of Foster City
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Foster City aerial view, February 2018.JPG
+|imagesize                = 
+|image_caption            = Aerial view of Foster City and the [[San Mateo Bridge]]
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Seal of Foster City, California.svg
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = File:San Mateo County California Incorporated and Unincorporated areas Foster City Highlighted 0625338.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Foster City in San Mateo County, California
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = San Francisco Bay Area#USA California Northern#California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+| pushpin_label = Foster City
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Sanjay Gehani<ref>{{Cite web
+ |url          = https://www.fostercity.org/citycouncil
+ |title        = City Council
+ |publisher    = City of Foster City
+ |access-date   = December 17, 2020
+ |archive-url  = https://web.archive.org/web/20150211062619/http://fostercity.org/citygovernment/citycouncil.cfm
+ |archive-date = February 11, 2015
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref>
+|leader_title1            = [[City manager]]
+|leader_name1             = Dr. Peter Pirnejad<ref>{{Cite web
+ |url          = http://www.fostercity.org/departmentsanddivisions/citymanager/index.cfm
+ |title        = City Manager's Department
+ |publisher    = City of Foster City
+ |access-date   = January 23, 2015
+ |archive-url  = https://web.archive.org/web/20150211062835/http://fostercity.org/departmentsanddivisions/citymanager/index.cfm
+ |archive-date = February 11, 2015
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = April 27, 1971<ref name="CAC">{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area    --------------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 19.83
+| area_land_sq_mi         = 3.79
+| area_water_sq_mi        = 16.05
+| area_total_km2          = 51.37
+| area_land_km2           = 9.81
+| area_water_km2          = 41.56
+| area_water_percent      = 81.07
+| area_note               = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1659723|Foster City|access-date=April 15, 2015}}</ref>
+|elevation_ft             = 7
+|elevation_m              = 2
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="2010 Census (City)">{{cite web|title=2010 Census Redistricting Data (Public Law 94-171) Summary File |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table |work=American FactFinder |publisher=[[United States Census Bureau]] |access-date=May 15, 2012 |df=mdy }}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref>
+|population_note          = 
+|population_total         = 30567
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 33901
+|population_density_sq_mi = 8947.22
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|33|5|N|122|15|59|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 94404
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 650|650]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|25338}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1659723}}, {{GNIS 4|2410534}}
+|website                  = {{URL|www.fostercity.org}}
+|footnotes                = 
+|population_density_km2 = 3454.27
+}}
+<!-- Infobox ends -->
+[[File:Aerial view of Silicon Valley.jpg|thumb|An aerial photograph of Foster City in 2013]]

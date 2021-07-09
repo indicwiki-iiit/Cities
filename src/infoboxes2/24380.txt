@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| official_name                   = St. Pete Beach, Florida
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[City]]
+| motto                           = The Sunset Capital of Florida
+<!-- images and maps  ----------->| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = Pinellas County Florida Incorporated and Unincorporated areas St. Pete Beach Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Pinellas County, Florida|Pinellas County]] and the state of [[Florida]]
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|Florida}}
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name2               = {{noflag|[[Pinellas County, Florida|Pinellas]]}}
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = [[Mayor-council government|Strong Mayor-Commission]]
+| leader_title                    = Mayor
+| leader_name                     = Alan Johnson <ref>{{cite web|url=https://www.stpetebeach.org/223/Alan-Johnson|title=Alan Johnson|access-date=February 1, 2021}}</ref>
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2                  = 18.04
+| area_land_km2                   = 5.51
+| area_water_km2                  = 12.53
+| area_total_sq_mi                = 6.96
+| area_land_sq_mi                 = 2.13
+| area_water_sq_mi                = 4.84
+<!-- Population   ----------------------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 9346
+| population_density_km2          = 1740.89
+<!-- General information  --------------->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| coordinates                     = {{coord|27|43|29|N|82|44|31|W|region:US_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = 
+| elevation_ft                    = 6
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP Code]]
+| postal_code                     = 33706
+| area_code                       = 
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-62885<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0290376<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+<!-- tax information -->
+| blank_name_sec1                     = [[Sales Tax]]
+| blank_info_sec1                     = 7% <ref>{{cite web|url=http://www.sale-tax.com/SaintPeteBeachFL|title=Saint Pete Beach, FL Sales Tax Rate|access-date=2021-02-01}}</ref>
+| blank1_name_sec1                = [[Property Tax]]
+| blank1_info_sec1                = 3.1500 City (17.0318 Total) <ref>cite web|url=https://taxcollect.com/wp-content/uploads/2020/10/2020-Millage-Form.pdf|title=PINELLAS COUNTY TAX COLLECTOR MILLAGE RATES|access-date=2021-02-01</ref>
+| website                         = {{URL|www.stpetebeach.org}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 9587
+| population_density_sq_mi        = 4509.41
+| name                            = 
+}}

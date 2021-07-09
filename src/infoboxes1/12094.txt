@@ -1,0 +1,88 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptioans -->
+<!-- Name and transliteration -->
+| name                    = Zwolle
+| settlement_type         = [[List of cities in the Netherlands by province|City]] and [[Municipalities of the Netherlands|municipality]]
+<!-- Images, nickname, motto -->
+| image_alt               = 
+| image_skyline           = {{Photomontage|position=center
+| photo1a = Sassenstraat 1-15, Zwolle.jpg
+| photo1b = Diezerstraat - Grote Markt, Zwolle - BB - 1.jpg
+| photo2a = Museum de Fundatie Panorama.png
+| photo3a = Luttekestraat 12-16, Zwolle - BB.jpg
+| photo3b = City Centre, 8011 Zwolle, Netherlands - panoramio (12).jpg
+   | size = 270
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = {{nobreak|Images, from top down, left to right: Sassenstraat,}}<br>{{nobreak|Grote Markt, [[Museum de Fundatie]], Luttekestraat,}}<br>{{nobreak| and the Binnenstad}}}}
+| image_flag              = Flag_of_Zwolle.svg
+| flag_size               = 100x67px
+| flag_alt                = 
+| image_shield            = Zwolle wapen HRvA.svg
+| shield_size             = 100x80px
+| shield_alt              = 
+<!-- Maps, coordinates -->
+| image_map               = Map - NL - Municipality code 0193 (2009).svg
+| map_alt                 = Highlighted position of Zwolle in a municipal map of Overijssel
+| map_caption             = Location in Overijssel
+| coordinates             = {{coord|52|31|N|6|6|E|region:NL|display=inline,title}}
+| coordinates_footnotes   = 
+| subdivision_type        = [[Country]]
+| subdivision_name        = [[Netherlands]]
+| subdivision_type1       = [[Provinces of the Netherlands|Province]]
+| subdivision_name1       = [[Overijssel]]
+| government_footnotes    =<ref name="mayor_now">{{cite web 
+ |url = https://www.zwolle.nl/bestuur/college-burgemeester-en-wethouders/samenstelling-college/peter-snijders
+ |title = Portefeuille burgemeester Peter Snijders
+ |trans-title = Tasks of mayor Peter Snijders
+ |language = nl
+ |publisher = Gemeente Zwolle
+ |access-date = 6 October 2019}}</ref>
+| governing_body          = [[Municipal council (Netherlands)|Municipal council]]
+| leader_party            = [[People's Party for Freedom and Democracy|VVD]]
+| leader_title            = [[Burgomaster|Mayor]]
+| leader_name             = Peter Snijders
+<!-- Geographic information -->
+| total_type              = Municipality<!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          =<ref>{{Dutch municipality total area|dataref}}</ref>
+<!-- square kilometers -->
+| area_total_km2          = {{Dutch municipality total area|Zwolle}}
+| area_land_km2           = {{Dutch municipality land area|Zwolle}}
+| area_water_km2          = {{Dutch municipality water area|Zwolle}}
+| elevation_footnotes     =<ref name="AHN">{{cite web 
+ |url = http://www.ahn.nl/postcodetool
+ |title = Postcodetool for 8011PK
+ |language = nl
+ |author = <!--Staff writer(s); no by-line.--> 
+ |work = Actueel Hoogtebestand Nederland
+ |publisher = Het Waterschapshuis
+ |access-date = 25 March 2014}}</ref>
+| elevation_m             = 4
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- Population, demographics -->
+| population_footnotes    =<ref>{{Dutch municipality population|dataref}}</ref><ref>{{Dutch municipality population urbanmetro|dataref}}</ref>
+| population_total        = {{Dutch municipality population|Zwolle}}
+| population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}
+| population_density_km2  = {{Dutch municipality population density|Zwolle}} <!-- For automatic calculation: auto-->
+| population_urban        = {{Dutch municipality population urbanmetro|Zwolle Urban}}
+| population_metro        = {{Dutch municipality population urbanmetro|Zwolle Metro}}
+| population_demonym      = Zwollenaar
+<!-- Other information -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in the Netherlands|Postcode]]
+| postal_code             = 8000–8049
+| area_code_type          = [[Telephone numbers in the Netherlands|Area code]]
+| area_code               = 038
+| website                 = {{URL|1=http://www.zwolle.nl}}
+| footnotes               =
+}}

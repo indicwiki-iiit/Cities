@@ -1,0 +1,64 @@
+{{Infobox settlement
+|official_name = Lewisburg, Pennsylvania
+|settlement_type = [[Borough (Pennsylvania)|Borough]]
+<!-- images and maps ----------->
+|image_skyline = Lewisburg, Pennsylvania.jpg
+|image_caption = Lewisburg
+|image_blank_emblem = Lewisburg, PA Keystone Marker.jpg
+|blank_emblem_type = Keystone marker
+|blank_emblem_size = 250px
+|blank_emblem_link = Keystone markers
+|mapsize = 250x200px
+|pushpin_map = Pennsylvania#USA
+|pushpin_label = Lewisburg
+|pushpin_label_position = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption = Location within the U.S. state of Pennsylvania
+<!-- Location ------------------>
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[Pennsylvania]]
+|subdivision_type2 = [[List of counties in Pennsylvania|County]]
+|subdivision_name2 = [[Union County, Pennsylvania|Union]]
+|leader_title = Mayor
+|leader_name = Judy Wagner
+|established_title = Settled
+|established_date = 1784
+|established_title2 = Incorporated (borough)
+|established_date2 = 1812
+<!-- Area --------------------->
+|unit_pref = Imperial
+|area_total_km2 = 2.52
+|area_total_sq_mi = 0.97
+<!-- Population ----------------------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_total = 5792
+|population_density_km2 = 2264.56
+|population_density_sq_mi = 5866.39
+|population_density_metro_km2 = 
+|population_density_metro_sq_mi = 
+|population_density_urban_km2 = 
+|population_density_urban_sq_mi = 
+<!-- General information --------------->
+|timezone = [[Eastern Time Zone|Eastern (EST)]]
+|timezone_DST = EDT
+|coordinates       = {{coord|40|57|50|N|76|53|17|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes = <!--for references: use tags-->
+<!-- Area/postal codes & others -------->
+|postal_code_type = [[Zip code]]
+|postal_code = 17837
+|area_code = [[Area code 570|570]]
+|website = {{URL|http://www.lewisburgborough.org/}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5708
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 42-42976
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_42.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_land_km2 = 2.52
+|area_water_km2 = 0.00
+|area_land_sq_mi = 0.97
+|area_water_sq_mi = 0.00
+|image_map = File:Union County Pennsylvania Incorporated and Unincorporated areas Lewisburg Highlighted.svg
+|map_caption = Location of Lewisburg in Union County, Pennsylvania.
+}}

@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = <!-- at least one of the first two fields must be filled in -->
+|official_name          =Kočani
+|other_name             =
+|native_name            ={{native name|mk|Кочани|italics=off}}
+|nickname               = 
+|settlement_type        = <!-- e.g. Town, Village, City, etc.-->
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =City of rice and geothermal water
+<!-- images and maps  ----------->
+|image_skyline          = Кочани аериал.JPG
+|imagesize              = 
+|image_caption          = 
+|image_flag             = Flag of Kocani Municipality.svg
+|flag_size              =
+|image_seal             = Coat of arms of Kočani Municipality.svg
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = North Macedonia
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within North Macedonia
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{NMK}}
+|subdivision_type1      = [[Statistical Regions of North Macedonia|Region]]
+|subdivision_name1      = [[File:Logo of Eastern Region, North Macedonia.svg|15px]] [[Eastern Statistical Region|Eastern]]
+|subdivision_type2      = [[Municipalities of North Macedonia|Municipality]]
+|subdivision_name2      = [[File:Coat of arms of Kočani Municipality.svg|15px]] [[Municipality of Kočani|Kočani]]
+|subdivision_type3      = Geoname
+|subdivision_name3      = [http://www.geonames.org/789403/kochani.html 789403]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =Council
+|seat                   = [[SDSM]] - 10, [[VMRO-DPMNE]] - 8, Independent - 1
+|parts_type             = 
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Mayor
+|leader_name            =Nikolco Ilijev ([[SDSM]])
+|leader_title1          =  
+|leader_name1           =
+|established_title      =Founded
+|established_date       = 1337 <ref name="history">{{cite web
+ | url=http://rtvkocani.tripod.com/welcome/kocani.html
+ | title="Kočani" (history)
+ | language=Macedonian
+ }}</ref>
+<!-- Area    --------------------->
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           = 
+|area_total_km2           =18.6 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 420
+|elevation_max_ft           =
+|elevation_min_m            = 350
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2002
+|population_footnotes           =
+|population_note                =
+|population_total               =28,330
+|population_density_km2         =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]] 
+|utc_offset_DST         = +2
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|41|55|N|22|25|E|region:MK|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =2300
+|area_code              =(++389) 33
+|website                = [http://www.kocani.gov.mk/ www.kocani.gov.mk]
+|blank_name             =[[Car plates]]
+|blank_info             =KO
+|blank1_name            =Official language
+|blank1_info            =[[Macedonian language|Macedonian]]
+|blank2_name            =Geothermal water temperature
+|blank2_info            =78°C
+|blank3_name            =Settlements
+|blank3_info            =28
+|blank4_name            = [[Köppen climate classification|Climate]]
+|blank4_info            = [[Humid subtropical climate|Cfa]]
+|footnotes              = 
+}}

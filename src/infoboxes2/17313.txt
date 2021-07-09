@@ -1,0 +1,71 @@
+{{Infobox settlement
+| official_name                   = Spanish Fork, Utah
+| settlement_type                 = [[City]]
+| image_skyline                   = City Offices.jpg
+| imagesize                       = 
+| image_caption                   = Spanish Fork city offices
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| nickname                        = Pride and Progress
+| motto                           = <!-- Images -->
+| image_map                       = Utah County Utah incorporated and unincorporated areas Spanish Fork highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in [[Utah County, UT|Utah County]] and the state of [[Utah]]
+
+<!-- Location -->
+| coordinates                     = {{coord|40|6|54|N|111|39|18|W|region:US-UT_type:city|display=inline,title}}<ref name=gnis/>
+| subdivision_type                = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Utah|County]]
+| subdivision_name1               = [[Utah]]
+| subdivision_name2               = [[Utah County, Utah|Utah]]
+
+<!-- Government -->
+| established_title               = Settled
+| established_date                = 1851
+| established_title1              = [[Incorporated town|Incorporated]]
+| established_date1               = January 17, 1855
+| named_for                       = [[Spanish Fork (river)|Spanish Fork]] (river)
+
+<!-- Area -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = 
+| leader_name                     = 
+| leader_title1                   = 
+| leader_name1                    = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 41.98
+| area_total_sq_mi                = 16.21
+| area_land_km2                   = 41.98
+| area_land_sq_mi                 = 16.21
+| area_water_km2                  = 0.00
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| elevation_footnotes             = <ref name=gnis/>
+| elevation_m                     = 
+| elevation_ft                    = 4577
+| population_total                = 34691
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_density_km2          = 974.48
+| population_density_sq_mi        = 2523.94
+<!-- General information -->
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 84660
+| area_code                       = [[Area codes 385 and 801|385, 801]]
+| website                         = [http://www.spanishfork.org www.spanishfork.org]
+| timezone                        = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset                      = &minus;7
+| timezone_DST                    = MDT
+| utc_offset_DST                  = &minus;6
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 49-71290<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID= 1445945<ref name=gnis>{{GNIS|1445945}}</ref>
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 40913
+}}

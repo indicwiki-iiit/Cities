@@ -1,0 +1,42 @@
+{{Infobox language
+| name             = Telugu
+| nativename       = {{lang|te|తెలుగు}}
+| pronunciation    = {{IPA-te|teluɡu|}}
+| states           = [[India]]
+| region           = <!--Sort by population-->[[Andhra Pradesh]], [[Telangana]]
+| ethnicity        = [[Telugu people]]
+| speakers         = {{sigfig|83|2}} million
+| date             = 2011
+| ref              = <ref name="Ethnologue_tel">{{e22|tel}}</ref><ref>{{cite web |url=http://www.censusindia.gov.in/2011Census/Language_MTs.html |title=Statement 1: Abstract of speakers' strength of languages and mother tongues - 2011 |publisher=Office of the Registrar General & Census Commissioner, India |website=www.censusindia.gov.in |access-date=2018-07-07}}</ref>
+| speakers2        = [[Second language|L2 speakers]]: {{sigfig|11|2}} million<ref name="Ethnologue_tel"/>
+| familycolor      = Dravidian
+| fam2             = South-Central
+| fam3             = Proto-Telugu
+| ancestor         = Old Telugu
+| script           = [[Telugu alphabet]]<br />[[Telugu Braille]]
+| nation           = {{flag|India}}
+*[[Andhra Pradesh]]
+*[[Telangana]]
+*[[Puducherry (union territory)|Puducherry]] ([[Yanam]])
+*[[West Bengal]] (additional)<ref>{{Cite web|last=|first=|date=2020-12-24|title=West Bengal shows 'Mamata' to Telugus|url=https://www.thehansindia.com/andhra-pradesh/west-bengal-shows-mamata-to-telugus-663381|access-date=2020-12-31|website=[[The Hans India]]|language=en}}</ref>
+| minority         = {{flag|South Africa}} {{small|(protected language)}}<ref>{{cite web|title=Constitution of the Republic of South Africa, 1996 - Chapter 1: Founding Provisions|url=http://www.gov.za/documents/constitution/chapter-1-founding-provisions|website=www.gov.za|access-date=6 December 2014}}</ref>
+| iso1             = te
+| iso2             = tel
+| iso3             = tel
+| lc1              = wbq
+| ld1              = [[Waddar language|Waddar]] (Vadari)
+| lingua           = 49-DBA-aa
+| image            = Telugu.svg
+| imagesize        = 200px
+| map              = Idioma telugu.png
+| mapsize          = 220px
+| mapcaption       = Telugu is native to<!--Sort by population--> [[Andhra Pradesh]] and [[Telangana]]
+| notice           = IPA
+| glotto           = telu1262
+| glottoname       = Telugu
+| glotto2          = oldt1249
+| glottoname2      = Old Telugu
+| sign             = [[Indian Signing System|Signed Telugu]]
+| dia1             = see [[Telugu languages]]
+| linglist         = tel
+}}

@@ -1,0 +1,34 @@
+{{Infobox mountain
+| name = Mount St. Helens
+| etymology = [[Alleyne Fitzherbert, 1st Baron St Helens|Lord St&nbsp;Helens]]
+| native_name  = {{plainlist|
+*{{native_name|cow|Lawetlat'la}}
+*{{lang|yak|Loowit}} {{small|([[Sahaptin language|Klickitat]])}}
+*{{lang|yak|Louwala-Clough}} {{small|([[Sahaptin language|Klickitat]])}}
+}}
+| photo = MSH82 st helens plume from harrys ridge 05-19-82.jpg
+| photo_caption = 3,000 ft (1&nbsp;km) high steam plume on May 19, 1982, two years after the major eruption
+| elevation_ft = 8363
+| elevation_ref = 
+| prominence_ft = 4605
+| prominence_ref = 
+| listing = {{unbulleted list
+|[[List of mountain peaks of Washington (state)#Most prominent summits|Washington prominent peaks]] 11th
+|[[List of mountain peaks of Washington (state)#Most isolated major summits|Washington isolated peaks]] 11th
+|[[List of Highest Mountains in Washington State|Washington highest peaks]] 35th}}
+| location = Location in Washington state
+| range = [[Cascade Range]]
+| map = USA Washington
+| map_caption =
+| label_position = right
+| coordinates = {{coord|46.1912000|N|122.1944000|W|type:mountain_region:US-WA_scale:100000_source:gnis|format=dms|display=inline,title}}
+| range_coordinates = 
+| coordinates_ref = <ref name="gnis">{{cite gnis|1525360|Mount Saint Helens}}</ref>
+| topo = [[United States Geological Survey|USGS]] Mount St.&nbsp;Helens
+| type = Active [[stratovolcano]] ([[Subduction zone]])
+| volcanic_arc = [[Cascade Volcanoes|Cascade Volcanic Arc]]
+| age = &lt; 40,000 yrs
+| last_eruption = 2004–2008
+| first_ascent = 1853 by [[Thomas J. Dryer]]
+| easiest_route = Hike via south slope of volcano (closest area near eruption site)
+}}

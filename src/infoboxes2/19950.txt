@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Suwanee, Georgia
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = "Crossroads of Past & Future"
+<!-- images and maps  ----------->
+|image_skyline            = Suwanee Georgia City Hall.JPG
+|imagesize                = 
+|image_caption            = Suwanee City Hall
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Gwinnett_County_Georgia_Incorporated_and_Unincorporated_areas_Suwanee_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Gwinnett County, Georgia|Gwinnett County]] and the state of [[Georgia (U.S. state)|Georgia]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = Metro Atlanta
+|pushpin_label            = Suwanee
+|pushpin_label_position   = 
+|pushpin_map_caption      = Location of Suwanee in [[Metro Atlanta]]
+|pushpin_mapsize          = <!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Georgia (U.S. state)|Georgia]]
+|subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+|subdivision_name2        = [[Gwinnett County, Georgia|Gwinnett]]
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+|area_total_km2           = 28.37
+|area_land_km2            = 28.17
+|area_water_km2           = 0.20
+|area_total_sq_mi         = 10.95
+|area_land_sq_mi          = 10.88
+|area_water_sq_mi         = 0.08
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 15355
+|pop_est_as_of            = 2019
+|population_est           = 20907
+|population_density_km2   = 742.20
+<!-- As of 2018 pop estimate -->
+|population_density_sq_mi = 1922.31
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|34|3|5|N|84|4|22|W|region:US-GA|display=inline}}
+|elevation_footnotes      = <!--for references: use <ref> tags-->
+|elevation_m              = 305
+|elevation_ft             = 1001
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 30024
+|area_code                = [[Area code 770|770]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 13-74936<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0323788<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.suwanee.com}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

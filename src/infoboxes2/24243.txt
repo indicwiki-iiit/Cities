@@ -1,0 +1,85 @@
+{{Infobox settlement
+|name                     = Coffeyville, Kansas
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = File:Welcome Sign Sunrise.jpg
+|thumb|Sunrise City of Coffeyville Welcome Sign
+|image_caption            = Sign at the west entrance (2016)
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Montgomery_County_Kansas_Incorporated_and_Unincorporated_areas_Coffeyville_Highlighted.svg
+|map_caption              = Location within [[Montgomery County, Kansas|Montgomery County]] and [[Kansas]]
+|image_map1               = Map of Montgomery Co, Ks, USA.png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Montgomery County, Kansas|Montgomery County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = <ref name="GNIS">{{cite web|url=http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:469230|title=GNIS Detail - Coffeyville|website=geonames.usgs.gov}}</ref>
+|coordinates              = {{coord|37|2|16|N|95|37|35|W|region:US-KS_type:city_source:GNIS|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name         = United States
+|subdivision_name1        = [[Kansas]]
+|subdivision_name2        = [[Montgomery County, Kansas|Montgomery]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        = 
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1869
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1873<ref name="hist"/>
+|named_for                = James Coffey
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = Ann Marie Vannoster
+|leader_title1            = <!-- City Manager or City Clerk -->
+|leader_name1             = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 9.47
+|area_land_sq_mi          = 9.47
+|area_water_sq_mi         = 0.00
+|area_total_km2           = 24.52
+|area_land_km2            = 24.52
+|area_water_km2           = 0.00
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 738
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 10295
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 9275
+|population_density_sq_mi = 979.51
+|population_density_km2   = 378.19
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 67337
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 620|620]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-14600 <ref name="GNIS"/>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0469230 <ref name="GNIS"/>
+|website                  = {{URL|https://www.coffeyville.com/|coffeyville.com}}
+}}

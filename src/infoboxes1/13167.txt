@@ -1,0 +1,33 @@
+{{Infobox settlement
+| name                    = Razgrad
+| native_name             = Разград
+| image_skyline           = Collage of views of Razgrad.png
+| image_flag              = Razgrad flag.png
+| image_shield            = Emblem of Razgrad.png
+| pushpin_map             = Bulgaria
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location of Razgrad
+| coordinates             = {{coord|43|32|N|26|31|E|type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Bulgaria]]
+| subdivision_type1       = [[Provinces of Bulgaria|Province]]
+| subdivision_name1       = [[Razgrad Province|Razgrad]]
+| leader_party            = [[Bulgarian Socialist Party|BSP]]
+| leader_title            = Mayor
+| leader_name             = Dencho Boyadzhiev
+| area_total_km2          = 92.845
+| elevation_m             = 270
+| population_footnotes    = <ref name="cities 2012"/>
+| population_as_of        = 2015
+| population_total        = 35,049
+| population_density_km2  = auto
+| population_urban        = 50,457
+| timezone1               = [[Eastern European Time|EET]]
+| utc_offset1             = +2
+| timezone1_DST           = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST         = +3
+| postal_code_type        = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code             = 7200
+| area_code               = 084
+| website                 = {{URL|www.razgrad.bg}}
+}}

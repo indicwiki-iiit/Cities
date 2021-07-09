@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Needles, California
+|settlement_type          = [[City (California)|City in California]]
+|nickname                 = 
+|motto                    = <!-- Images -->
+|image_skyline            = NeedlesCAsignflowersJan09.jpg
+|image_caption            = City sign
+|image_flag               = 
+|image_seal               = 
+|image_map = San Bernardino County California Incorporated and Unincorporated areas Needles Highlighted.svg
+|mapsize = 250px
+|map_caption = Location in [[San Bernardino County, California|San Bernardino County]] and the state of [[California]]
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|coordinates              = {{coord|34|50|53|N|114|36|51|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes = <ref name=GNIS>{{Cite GNIS|1652757|Needles|access-date=November 12, 2014}}</ref>
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = [[United States]]
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[San Bernardino County, California|San Bernardino County]]
+|government_type = 
+|leader_title = [[City manager]]
+|leader_name = Rick Daniels
+|established_title = [[Municipal corporation|Incorporated]]
+|established_date = October 30, 1913<ref name=calafco>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ }}</ref>
+<!-- Area------------------>
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi = 31.08
+|area_land_sq_mi = 30.58
+|area_water_sq_mi = 0.50
+|area_total_km2 = 80.49
+|area_land_km2 = 79.20
+|area_water_km2 = 1.29
+|area_water_percent = 1.49
+<!-- Elevation ------------>
+|elevation_footnotes = <ref name=GNIS/>
+|elevation_ft = 495
+|elevation_m = 151
+<!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = 
+|population_total = 4844
+|population_metro = 
+|population_density_km2 = 62.83
+|population_density_sq_mi = 162.73
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = &minus;8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = &minus;7
+<!-- Codes ---------------->
+|postal_code_type = [[ZIP code]]
+|postal_code = 92363
+|area_code_type = [[North American Numbering Plan|Area codes]]
+|area_code = [[Area codes 442 and 760|442/760]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = {{FIPS|06|50734}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1652757}}, {{GNIS 4|2411220}}
+|website = {{URL|www.cityofneedles.com}}
+|footnotes = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4976
+}}

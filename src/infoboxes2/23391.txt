@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Etropole
+|native_name =Етрополе
+|image_skyline  =EtropoleCenter.jpg
+|image_caption  =Etropole Town-hall
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br/><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Etropole|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Etropole
+|pushpin_mapsize        =
+|leader_title = Mayor
+|leader_name=Milcho Tsatsov 
+|leader_party = [[NMSII]]
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|
+image_shield=BUL Етрополе COA.png|
+subdivision_name1=[[Sofia Province|Sofia]]|
+population_total=12218|population_footnotes=|
+population_as_of=13.09.2005|
+elevation_m=618|
+postal_code=2180|
+area_code=0720
+|coordinates            = {{coord|42|50|N|24|0|E|region:BG|display=inline,title}}
+
+}}

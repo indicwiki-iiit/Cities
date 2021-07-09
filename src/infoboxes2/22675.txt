@@ -1,0 +1,37 @@
+{{Infobox building
+| name = White House
+| image = White House north and south sides.jpg
+| image_size = 250px
+| caption = Top: the northern facade with a columned portico facing [[Lafayette Square, Washington, D.C.|Lafayette Square]]<br /> Bottom: the southern facade with a semi-circular portico facing the [[South Lawn]] and [[The Ellipse]]
+| map_type = United States Washington, D.C. central#United States Washington, D.C.#USA
+| map_caption = Location in Central Washington, D.C.##Location in Washington, D.C.##Location in United States
+| coordinates = {{coord|38.8977|N|77.0365|W|type:landmark_region:US-DC|format=dms|display=inline,title}}
+| address = 1600 [[Pennsylvania Avenue]] [[Northwest, Washington, D.C.|NW]]<br />[[Washington, D.C.]] 20500<br />U.S.
+| current_tenants = [[Joe Biden]], President of the United States and the [[Family of Joe Biden|First Family]]
+| architect = [[James Hoban]]
+| floor_area = {{convert|55000|sqft|abbr=on}}
+| website = {{url|whitehouse.gov}}
+| client = 
+| engineer = 
+| start_date = {{Start date and age|1792|10|13}}
+| completion_date = {{Start date and age|1800|11|1}}{{r|jYAHg}}
+| structural_system = 
+| style = [[Neoclassical architecture|Neoclassical]], [[Palladian architecture|Palladian]]
+| size = 
+| module = {{Infobox NRHP
+  | embed = yes
+  | name = 
+  | nrhp_type = NHL
+  | image = 
+  | caption = 
+  | location= 
+  | locmapin = 
+  | built = 
+  | architect OR builder = 
+  | architecture = 
+  | added = 
+  | area = 
+  | designated_nrhp_type = December 19, 1960
+  | refnum = 19600001{{r|nris}}<!--This building has no refnum, since it is not listed on the National Register; this number is a pseudo-refnum used by the Park Service.-->
+}}
+}}

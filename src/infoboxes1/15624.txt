@@ -1,0 +1,52 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = 
+| settlement_type                 = [[List of cities in Montenegro|Town]] and [[Municipalities of Montenegro|municipality]]
+| pushpin_map                     = Montenegro
+| pushpin_label_position          = right<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within Montenegro
+| pushpin_mapsize                 =
+<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{MNE}}
+| subdivision_type1               = [[Municipalities of Montenegro|Municipality]]
+| subdivision_name1               = [[File:Zabljak-badge.png|20px]] [[Žabljak Municipality|Žabljak]]
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| image_skyline                   = Žabljak, Montenegro - main square.jpg
+| image_size                      = 300px
+| image_caption                   = Main square of Žabljak
+| map_caption                     = Location of Žabljak Montenegro.
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| population_as_of                = 2011 census
+| name                            = Žabljak
+| native_name                     = Жабљак
+| leader_title                    = Mayor
+| leader_name                     = Isailo Šljivančanin ([[Democratic Party of Socialists of Montenegro|DPS]])
+| leader_name1                    = 
+| leader_title1                   = Ruling&nbsp;party
+| area_total_km2                  = 445
+| population_footnotes            = 
+| population_blank1               = 3,569
+| population_blank1_title         = Municipality
+| population_density_km2          = 9
+| population_urban                = 1,723
+| population_rural                = 1,846
+| parts                           = 28
+| parts_type                      = Settlements
+| established_date                = 1871
+| established_title               = Founded|
+| coordinates                     = {{coord|43.155011|19.120846|region:ME|display=inline,title}}|
+| area_code_type                  = [[Telephone numbers in Montenegro|Area code]]
+| area_code                       = +382&nbsp;52
+| blank1_info_sec1                = ŽB
+| blank1_name_sec1                = [[Vehicle registration plates of Montenegro|Car&nbsp;plates]]||
+| postal_code_type                = [[List of postal codes in Montenegro|Postal code]]
+| postal_code                     = 84220
+| blank_info_sec1                 = ME-21
+| blank_name_sec1                 = [[ISO 3166-2:ME|ISO 3166-2&nbsp;code]]|
+| blank_name_sec2                 = [[Köppen climate classification|Climate]]
+| blank_info_sec2                 = [[Humid continental climate#Mild/cool summer subtype|Dfb]]
+| website                         = http://www.zabljak.me/|
+| image_shield                    = Amblem of Zabljak.png
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+| name                            = Colton, California
+| settlement_type                 = [[City (California)|City]]
+| image_skyline                   = Colton_junction.jpg
+| imagesize                       = 
+| image_caption                   = Colton Junction
+| image_seal                      = Seal of Colton, California.png
+| image_map                       = File:San Bernardino County California Incorporated and Unincorporated areas Colton Highlighted 0614890.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Colton in San Bernardino County, California.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_label                   = Colton
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|34|04|26|N|117|18|49|W|region:US-CA|display=inline,title}}
+| coordinates_footnotes           = <ref name=GNIS/>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = {{Flagicon image|Flag of San Bernardino County, California.png}} [[San Bernardino County, California|San Bernardino]]
+|George Jackson. Jr
+| leader_title                    = [[Mayor]]
+| leader_name                     = Frank J. Navarro
+| established_date                = July 11, 1887<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 16.06
+| area_land_sq_mi                 = 15.55
+| area_water_sq_mi                = 0.51
+| area_total_km2                  = 41.58
+| area_land_km2                   = 40.26
+| area_water_km2                  = 1.32
+| area_water_percent              = 4.46
+| area_note                       = 
+| elevation_footnotes             = <ref name=GNIS>{{Cite GNIS|1652688|Colton|access-date=October 23, 2014}}</ref>
+| elevation_ft                    = 1004
+| elevation_m                     = 306
+<!-- Population ----------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0614890.html|title=Colton (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 20, 2015|archive-url=https://web.archive.org/web/20150323011427/http://quickfacts.census.gov/qfd/states/06/0614890.html|archive-date=2015-03-23|url-status=dead}}</ref>
+| population_total                = 52154
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 54824
+| population_density_sq_mi        = 3526.57
+| population_metro                = 
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 92313, 92324
+| area_code                       = [[Area code 909|909]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|14890}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652688}}, {{GNIS 4|2410200}}
+| website                         = {{URL|www.ci.colton.ca.us}}
+| footnotes                       = 
+| population_density_km2          = 1361.66
+| official_name                   = 
+}}

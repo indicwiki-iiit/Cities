@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Simraungadh
+|native_name            = सिम्रौनगढ
+|other_name             =
+|settlement_type        = Municipality
+|image_skyline          = {{Photomontage|position=center
+   | photo1a = Simroungarh Toran Dwar Statue.jpg
+   | photo2a = Pillar at Simroungarh.jpg
+   | photo2b = Statue of Brahma from Simroungarh at National Museum Kathmandu.jpg
+   | photo3a = 12th century Stone Inscription from Simroungarh in Tirhuta script.jpg
+   | size = 280
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = From top down, left to right: Toran Dwar Statue, Pillar of the Rajabhavan, [[Brahma]] statue and Stone inscription in [[Tirhuta]] script.}}
+|image_caption          = 
+|image_flag             = 
+|image_seal             = 
+|nickname               = 
+| image_map             = {{mapframe|plain=yes|frame=yes|type=point|frame-align=center|zoom=9|marker=marker|marker-color=0050d0}}
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Nepal#Nepal Province2
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|coordinates            = {{coord|26|53|22|N|85|7|1|E|type:city_region:NP|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[Nepal]]
+|subdivision_type1      = [[Nepalese Federal States|Province]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name1      = [[Province No. 2]]
+|subdivision_name2      = [[Bara District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Bijaya Shankar Yadav ([[Nepali Congress|NC]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Rima Devi ([[Rastriya Janata Party Nepal|RJPN]])
+|unit_pref              = metric
+|area_footnotes         =
+|area_total_km2         = 42.65
+|area_total_sq_mi       =
+<!-- Population   -->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+<!-- Area/postal codes & others -->
+|population_total       = 49939
+|population_as_of       = 2011
+|population_footnotes   = 
+|population_density_km2 = auto !-- General information  -->
+|population_note        = 
+|postal_code_type       = [[Postal code]]
+|postal_code            = 
+|area_code              = 
+|website                = [http://www.simraungadhmun.gov.np www.simraungadhmun.gov.np]
+|footnotes              = 
+|timezone               = [[Nepal Standard Time|NST]] 
+|utc_offset             = +5:45
+|timezone_DST           = 
+|utc_offset_DST         = 
+|blank_name             =
+|blank_info             =
+}}

@@ -1,0 +1,83 @@
+{{Infobox settlement
+|name                     = Bonner Springs, Kansas
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = 2017 Bonner Springs City logo FINAL COLOR.png
+
+<!-- Maps -->
+|image_map                = Wyandotte_County_Kansas_Incorporated_and_Unincorporated_areas_Bonner_Springs_Highlighted.svg
+|map_caption              = Location within [[Wyandotte County, Kansas|Wyandotte County]] and [[Kansas]]
+|image_map1               = 
+|map_caption1             =
+
+<!-- Location -->
+|coordinates_footnotes    = <ref name="GNIS">[http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:478865 Geographic Names Information System (GNIS) details for Bonner Springs, Kansas; United States Geological Survey (USGS); October 13, 1978.]</ref>
+|coordinates              = {{coord|39|3|35|N|94|53|1|W|region:US-KS_type:city_source:GNIS|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|Counties]]
+|subdivision_name2        = [[Wyandotte County, Kansas|Wyandotte]], [[Johnson County, Kansas|Johnson]], [[Leavenworth County, Kansas|Leavenworth]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        =
+
+<!-- Established -->
+|established_title        = Settled
+|established_date         = 1812
+|established_title1       = [[Platted]]
+|established_date1        = 1855
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1898
+|named_for                = [[Robert E. Bonner]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              =
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 16.00
+|area_land_sq_mi          = 15.63
+|area_water_sq_mi         = 0.37
+|area_total_km2           = 41.43
+|area_land_km2            = 40.48
+|area_water_km2           = 0.95
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = <ref name="GNIS"/>
+|elevation_ft             = 873
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 7314
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 7906
+|population_density_sq_mi = 505.85
+|population_density_km2   = 195.31
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 66012
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 913|913]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-07975<ref name="GNIS"/>
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0478865<ref name="GNIS"/><ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|http://bonnersprings.org/|bonnersprings.org}}
+}}

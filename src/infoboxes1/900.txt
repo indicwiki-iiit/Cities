@@ -1,0 +1,56 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Winneba
+|other_name            = Simpa
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = [[Town]] <!--For Town or Village (Leave blank for the default City)-->
+|motto  =
+<!-- images and maps  ----------->
+|image_skyline          = University of Education, Winneba (UEW) North Campus.jpg
+|imagesize              = 250px
+|image_caption          = North Campus of University of Education, Winneba
+|image_blank_emblem     = 
+|blank_emblem_type      = Seal
+|blank_emblem_link      = Seal (emblem)
+|blank_emblem_size      = 130px
+|image_map              = Winneba-location.PNG
+|mapsize                =	 	
+|map_caption       = Winneba is located {{convert|35|mi|km|order=flip|abbr=on}} west of [[Accra]] and {{convert|90|mi|km|order=flip|abbr=on}} east of [[Cape Coast]]
+|image_map1 =
+|mapsize1=
+|pushpin_map            = Ghana<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->	
+|pushpin_label_position =bottom	
+|pushpin_map_caption    =Location of Winneba in [[Central Region, Ghana|Central region]], South Ghana
+<!-- Location ------------------>	
+|subdivision_type = Country
+|subdivision_name = [[Ghana]]
+|subdivision_type1    = Region
+|subdivision_name1   = [[Central Region, Ghana|Central Region]]
+|subdivision_type2      = District
+|subdivision_name2      = [[Effutu Municipal District]]
+|subdivision_type3      =
+|subdivision_name3  =
+|area_blank1_sq_mi =	
+<!-- Population   ----------------------->
+|population_as_of  = 2013
+|population_footnotes  =
+|population_note  =
+|population_total = 55,331<ref name="World Gazetteer">{{cite web |url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com }}</ref>
+|population_density_km2   =
+|population_density_sq_mi   =
+|population_density_urban_km2   =	
+|population_density_urban_sq_mi =
+|population_blank1_title = Ethnicities
+|population_blank1 = 
+|population_blank2_title= Religions
+|population_blank2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone = [[Greenwich Mean Time|GMT]]
+|utc_offset  =
+|timezone_DST = [[Greenwich Mean Time|GMT]]
+|utc_offset_DST =	
+|coordinates            = {{coord|5|21|00|N|0|37|30|W|region:GH|display=inline,title}}
+}}

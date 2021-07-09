@@ -1,0 +1,107 @@
+{{Infobox settlement
+| name                            = {{PH wikidata|name}}
+| official_name                   = {{PH wikidata|official_name}} <!-- only one language on official seal -->
+| settlement_type                 = {{PH wikidata|settlement_type}}
+<!-- images and maps  -------------------->
+| image_skyline                   = Robinsons Place Bacolod.jpg
+| image_caption                   = Skyline of urban Bacolod
+| image_flag                      = Flag of Bacolod.png
+| flag_size                       = 120x80px
+| image_seal                      = File:Bacolod.png
+| seal_size                       = 100x80px
+| nickname                        = The City of Smiles<ref name="PIAGovPH-Milestones">{{cite news |last1=Guadalquiver |first1=Nanette |title=Bacolod City celebrates milestones, triumphs in 2018 |url=http://www.pna.gov.ph/articles/1056949 |access-date=19 April 2019 |work=Philippine News Agency|date=19 December 2018 |archive-url=https://web.archive.org/web/20190419150049/https://www.pna.gov.ph/articles/1056949 |archive-date=19 April 2019 |language=en}}</ref><ref name="PanayNews-WhenIs">{{cite news |last1=Lasafin |first1=Daryl |last2=Amio |first2=Jonel |title=When was Bacolod City born, really? |url=https://www.panaynews.net/when-was-bacolod-city-born-really/ |access-date=19 April 2019 |work=Panay News |date=28 October 2018 |archive-url=https://web.archive.org/web/20181028081339/https://www.panaynews.net/when-was-bacolod-city-born-really/ |archive-date=28 October 2018}}</ref>
+| image_map                       = {{PH wikidata|image_map}}
+| map_caption                     = Map of Negros Occidental with Bacolod highlighted
+| image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| pushpin_map                     = Philippines
+| pushpin_label                   = Bacolod
+| pushpin_map_caption             = Location within the {{PH wikidata|country}}
+<!-- Location --------------------------->
+| coordinates                     = {{PH wikidata|coordinates}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{PH wikidata|country}}
+| subdivision_type1               = [[Regions of the Philippines|Region]]
+| subdivision_name1               = {{PH wikidata|region}}
+| subdivision_type2               = [[Provinces of the Philippines|Province]]
+| subdivision_name2               = [[Negros Occidental]] {{small|(geographically only)}}
+| subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]]
+| subdivision_name3               = {{PH legislative district}}
+| established_title               = [[Date of establishment|Founded]]
+| established_date                = 1755 or 1756 (town)
+| established_title1              = Cityhood
+| established_date1               = 18 June 1938 {{small|(de jure)}} <br /> 19 October 1938 {{small|(de facto)}}
+| established_title2              = Highly urbanized city
+| established_date2               = 27 September 1984
+| parts_type                      = [[Barangay]]s
+| parts_style                     = para
+| p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]])
+| government_footnotes            = {{thinsp}}<ref>{{DILG detail}}</ref>
+<!-- Politics -------------------------->
+| leader_title                    = [[Mayor of Bacolod|Mayor]]
+| leader_name                     = [[Evelio Leonardia|Evelio "Bing" R. Leonardía]]
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = El Cid M. Familiaran
+| leader_title2                   = [[Legislative district of Bacolod City|Representative]]
+| leader_name2                    = Greg G. Gasataya
+| leader_title3          = [[Sangguniang Panlungsod|City Council]]
+| leader_name3            = {{PH Town Council
+ | 1 = <div style="border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps;"></div>
+ | 2=Cindy T. Rojas
+ | 3=Renecito S. Novero
+ | 4=Simplicia Z. Distrito
+ | 5=Carlos Jose V. Lopez
+ | 6=Al Victor A. Espino
+ | 7=Archie S. Baribar
+ | 8=Israel P. Salanga
+ | 9=Dindo C. Ramos
+ | 10=Bartolome N. Orola Sr.
+ | 11=Ana Marie V. Palermo
+ | 12=Elmer T. Sy
+ | 13=Wilson C. Gamboa Jr.
+}}
+| leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]]
+| leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]])
+<!-- Area / Population --------------->
+| total_type                      = City
+| area_footnotes                  = {{PSGC detail|area}}
+| area_total_km2                  = {{PH wikidata|area}}
+| area_metro_km2                  = 578.65 <!-- total of Bacolod + Silay + Talisay -->
+| elevation_footnotes             = {{PH wikidata|elevation_footnotes}}<ref>{{cite news | title =NATURAL AND PHYSICAL CHARACTERISTICS | url =http://www.bacolodcity.gov.ph/profilea2.htm | access-date =2010-06-19 | archive-url =https://web.archive.org/web/20101013070120/http://www.bacolodcity.gov.ph/profilea2.htm | archive-date =2010-10-13 | url-status =dead }}</ref>
+| elevation_m                     = {{PH wikidata|elevation_m}}
+| elevation_max_m                 = 1461
+| elevation_min_m                 = 0
+| population_footnotes            = {{PH census|current|NIR}}
+| population_total                = {{PH wikidata|population_total}}
+| population_as_of                = {{PH wikidata|population_as_of}}
+| population_density_km2          = auto
+| population_metro                = 791019 <!-- total of Bacolod + Silay + Talisay 2015 census amounts -->
+| population_density_metro_km2    = auto
+| population_blank1_title         = [[Household]]s
+| population_blank1               = {{PH wikidata|household}} 
+| population_demonyms             = [[Hiligaynon language|Hiligaynon (Ilonggo)]]: Bacolodnon <br>[[Philippine English|English]]: Bacolodian <br>[[Philippine Spanish|Spanish]]: Bacoleño (masculine)/Bacoleña (feminine)
+<!-- General information --------------->
+| timezone                        = [[Philippine Standard Time|PST]]
+| utc_offset                      = +8
+| postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code                     = {{PH wikidata|postal_code}}
+| postal2_code_type               = {{PSGCstyle}}
+| postal2_code                    = {{PSGC detail}}
+| area_code_type                  = {{areacodestyle}}
+| area_code                       = {{PH wikidata|area_code}}
+| demographics_type1              = Economy
+| demographics1_title1            = {{PH wikidata|income_class_title}}
+| demographics1_info1             = {{PH wikidata|income_class}}
+| demographics1_title2            = [[Measuring poverty|Poverty incidence]]
+| demographics1_info2             = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}}
+| demographics1_title3            = [[Revenue]]
+| demographics1_info3             = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}} 
+| demographics_type2              = Service provider
+| demographics2_title1            = Electricity
+| demographics2_info1             = {{PH electricity distribution | {{wikidata|label|raw}} }} 
+| blank_name_sec1                 = {{PH wikidata|climate_title}}
+| blank_info_sec1                 = {{PH wikidata|climate_type}}
+| blank_name_sec2                 = [[Languages of the Philippines|Languages]]
+| blank_info_sec2                 = {{PH wikidata|language}}
+| website                         = {{PH wikidata|website}}
+| short_description               = City of the Philippines and capital of the province of Negros Occidental
+}}

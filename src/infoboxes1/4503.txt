@@ -1,0 +1,27 @@
+{{Infobox mountain
+| name = Mount Royal
+| native_name = Mont Royal
+| language = French
+| photo = Mtroyal.jpg
+| photo_caption = Mount Royal's eastern slope.
+| elevation_m = 233
+| elevation_ref = 
+| prominence_m = 
+| prominence_ref = 
+| map = Canada Quebec
+| map_caption = 
+| map_size = 200
+| label_position = left
+| listing = 
+| location = [[Montréal]], Quebec, Canada
+| range = [[Monteregian Hills]]
+<!--%%-->
+| coordinates = {{coord|45|30|23|N|73|35|20|W|type:mountain_region:CA-QC_scale:100000|format=dms|display=inline,title}}
+| range_coordinates = 
+| coordinates_ref = 
+| topo = [[National Topographic System|NTS]] 31H
+| type = [[Intrusive rock|Intrusive]] [[stock (geology)|stock]]
+| age = [[Early Cretaceous]]
+| first_ascent =  [[Jacques Cartier]], 1535<br>(first European)
+| easiest_route = [[Hiking]] or Cycling
+}}

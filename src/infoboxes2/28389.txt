@@ -1,0 +1,27 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Bozhurishte
+|native_name = {{lang|bg| Божурище}}
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name       = {{BUL}}
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br/><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Bozhurishte|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Bozhurishte 
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|subdivision_name1=[[Sofia Province]]
+|population_total=4814
+|population_footnotes=
+|population_as_of=2004-12-15|
+elevation_m=573|
+postal_code=2227|
+area_code=07112
+|coordinates            = {{coord|42|45|45|N|23|11|59|E|type:landmark_region:BG|display=inline,title}}
+|leader_name=Asparuh Asenov Asparuhov|
+}}

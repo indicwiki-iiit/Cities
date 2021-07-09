@@ -1,0 +1,120 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Jōetsu}}
+| official_name           = 
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|上越市}}}}}}
+| settlement_type         = [[Special cities of Japan|Special city]]
+| image_skyline           = {{Photomontage
+| photo1a = Takada Castle Cherry Blossom Festival.jpg
+| photo2a = Joetsu Aquarium Umigatari.jpg
+| photo2b = 6 Motoshirochō, Jōetsu-shi, Niigata-ken 943-0835, Japan - panoramio.jpg
+| photo3a = Linsenji 1.jpg
+| photo3b = Takada_Daishi_Bank.jpg
+| size = 280
+| color_border = ffffff
+| color = cccccc
+| position =  center
+}}
+| imagesize               = 
+| image_alt               = 
+| image_caption           = <table style="width:280px;margin:2px auto; border-collapse: collapse">
+<tr><td colspan="2">[[Takada Castle]] Park and sakura</tr>
+<tr><td>Joetsu_Aquarium_Umigatari<td>Gokuraku Bridge at Takada Castle</tr>
+<tr><td>Rinsen-ji<td>former No.139 National Bank Building</tr>
+</table>
+| image_flag              = Flag of Joetsu, Niigata.svg
+| flag_alt                = 
+| image_seal              = Symbol of Joetsu Niigata.svg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map= Joetsu in Niigata Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Jōetsu in Niigata
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|37|8|52.3|N|138|14|9.9|E|region:JP-15|display=it}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name        = Japan
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Kōshin'etsu region|Kōshin'etsu]]) ([[Hokuriku region|Hokuriku]])
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Niigata Prefecture|Niigata]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+<!-- established -->
+| established_title    = First official recorded 
+| established_date     = 702 AD
+| established_title2   = Takada city established 
+| established_date2    = September 1, 1911
+| established_title3   = Naoetsu city established
+| established_date3    = June 1, 1954
+| established_title4   = Two cities merged and current name date 
+| established_date4    = April 30, 1971
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Hideyuki Murayama
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 973.81
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 189430
+| population_as_of        = December 1, 2020
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = • Tree
+| blank1_info_sec1        = [[Sakura]]
+| blank2_name_sec1        = • Flower
+| blank2_info_sec1        = [[Camellia]]
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 025-526-5111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-1-3 Kida, Jōetsu-shi, Niigata-ken 943-8601
+| website = {{Official|1=http://www.city.joetsu.niigata.jp}}
+}}

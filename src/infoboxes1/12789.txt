@@ -1,0 +1,92 @@
+{{Infobox settlement
+| name                    = La Union
+| official_name           = Province of La Union
+| other_name              = 
+| settlement_type         = {{PH wikidata|settlement_type}}
+| image_skyline           = FvfSudipenTagudin5010 36.JPG
+| image_caption           = Welcome arch at the {{nowrap|La Union-Ilocos Sur}} border
+| image_flag              = {{PH wikidata|image_flag}}
+| flag_size               = 120x80px
+| image_seal              = {{PH wikidata|image_seal}}
+| seal_size               = 100x80px
+| image_shield            = 
+| motto                   = "Love, Union, Concord"
+| anthem                  = [[La Union Hymn]]
+| image_map               = {{PH wikidata|image_map}}
+| map_caption             = Location in the Philippines
+| image_map1             = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}}
+| coordinates             = {{PH wikidata|coordinates}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{PH wikidata|country}}
+| subdivision_type1       = [[Regions of the Philippines|Region]]
+| subdivision_name1       = {{PH wikidata|region}}
+| established_title       = [[Date of establishment|Founded]]
+| established_date        = March 2, 1850
+| seat_type               = Capital
+| seat                    = {{PH wikidata|seat}}
+| government_type         = {{PH wikidata|government_type}}
+| leader_party            = 
+| leader_title            = [[Governor]]
+| leader_name             = Francisco Emmanuel R. Ortega, III ([[PDP–Laban]])
+| leader_title2           = [[Vice Governor]]
+| leader_name2            = Mario Eduardo C. Ortega ([[National Unity Party (Philippines)|NUP]])
+| area_footnotes          = <ref name=nscblist>{{cite web|title=List of Provinces |url=http://www.nscb.gov.ph/activestats/psgc/listprov.asp |work=PSGC Interactive |publisher=National Statistical Coordination Board |access-date=30 July 2013 |location=Makati City, Philippines |url-status=dead |archive-url=https://web.archive.org/web/20130111015112/http://www.nscb.gov.ph/activestats/psgc/listprov.asp |archive-date=11 January 2013 }}</ref>
+| area_total_km2          = {{PH wikidata|area}}
+| area_rank               = 69th out of 81
+| elevation_max_point     = [[Mount Talalang]]
+| elevation_max_ft         = 4,990
+| elevation_max_point     [[Mount Talalang]]
+| population_footnotes    = {{PH census|current|01}}
+| population_total        = {{PH wikidata|population_total}}
+| population_as_of        = {{PH wikidata|population_as_of}}
+| population_rank         = 36th out of 81
+| population_density_km2  = auto
+| population_density_rank = 9th out of 81
+| demographics_type1      = Divisions
+| demographics1_title1    = [[Cities of the Philippines#Independent cities|Independent&nbsp;cities]]
+| demographics1_info1     = 0
+| demographics1_title2    = [[Cities of the Philippines|Component cities]]
+| demographics1_info2     = {{Collapsible list
+| titlestyle              = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+| title                   = 1
+ | [[San Fernando, La Union|San Fernando]]
+}}
+| demographics1_title3    = [[Municipalities of the Philippines|Municipalities]]
+| demographics1_info3     = {{Collapsible list
+| titlestyle              = font-weight:normal;text-align:left;background-color:WhiteSmoke;
+| title                   = 19
+ | [[Agoo]]
+ | [[Aringay]]
+ | [[Bacnotan]]
+ | [[Bagulin]]
+ | [[Balaoan]]
+ | [[Bangar, La Union|Bangar]]
+ | [[Bauang]]
+ | [[Burgos, La Union|Burgos]]
+ | [[Caba, La Union|Caba]]
+ | [[Luna, La Union|Luna]]
+ | [[Naguilian, La Union|Naguilian]]
+ | [[Pugo, La Union|Pugo]]
+ | [[Rosario, La Union|Rosario]]
+ | [[San Gabriel, La Union|San Gabriel]]
+ | [[San Juan, La Union|San Juan]]
+ | [[Santo Tomas, La Union|Santo Tomas]]
+ | [[Santol, La Union|Santol]]
+ | [[Sudipen]]
+ | [[Tubao]]
+}}
+| demographics1_title4    = [[Barangay]]s
+| demographics1_info4     = [[List of barangays in La Union|576]]
+| demographics1_title5    = [[House of Representatives of the Philippines|Districts]]
+| demographics1_info5     = [[Legislative districts of La Union|1st and 2nd districts of La Union]]
+| timezone                = [[Philippine Standard Time|PHT]]
+| utc_offset              = +8
+| postal_code_type        = [[List of ZIP codes in the Philippines|ZIP code]]
+| postal_code             = {{PH wikidata|postal_code}}
+| area_code_type          = {{areacodestyle}}
+| area_code               = {{PH wikidata|area_code}}
+| iso_code                = {{PH wikidata|iso_code}}
+| blank1_name_sec1        = Languages
+| blank1_info_sec1        = {{hlist | [[Ilocano language|Ilocano]] | [[Pangasinan language|Pangasinan]] | [[Kankanaey language|Kankanaey]] | [[Ibaloi language|Ibaloi]] | [[Tagalog language|Tagalog]] | [[English language|English]] }}
+| website                 = {{Official URL}}
+}}

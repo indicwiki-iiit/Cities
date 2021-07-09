@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          =Katsina
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =KT
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Gobarau Minaret Katsina.JPG
+|imagesize              = 250px
+|image_caption          = Gobarau Minaret
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Nigeria<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Nigeria
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Nigeria.svg|25px]] [[Nigeria]]
+|subdivision_type1      = [[States of Nigeria|State]]
+|subdivision_name1      = [[Image:Flag of Katsina State.svg|25px]] [[Katsina State]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =Chairman
+|leader_name            =  Hamisu Gambo 
+|leader_title1           =Emir
+|leader_name1            = [[Abdulmumini Kabir Usman]]
+|established_title      =  
+|established_date       =
+
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =Metric
+|area_footnotes           =
+|area_total_km2           = 142
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2006
+|population_footnotes           =
+|population_note                =
+|population_total               =318,459
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =  
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               =
+|utc_offset             =
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|12|59|20|N|07|36|03|E|region:NG-KT_type:city|display=inline,title}}
+|elevation_footnotes    = 
+|elevation_m            =
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = 3-digit postal code prefix
+|postal_code            = 820
+|area_code              =
+|iso_code               = NG.KT.KA
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Semi-arid climate#Hot semi-arid climates|BSh]]
+|website                =
+|footnotes              =
+}}

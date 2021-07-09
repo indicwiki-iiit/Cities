@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Karakoçan
+| image_skyline           = Karakocan.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|38|57|N|40|02|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Elazığ Province|Elazığ]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title            = Mayor
+| leader_name             = Ayhan Akbaba
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Nebi Çanga
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Elazığ|Karakoçan}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Elazığ}}
+| population_urban        = {{Turkey district populations|Elazığ|Karakoçan|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Elazığ|Karakoçan|toplam}}
+| population_density_blank1_km2  = auto
+| blank1_name             = [[Köppen climate classification|Climate]]
+| blank1_info             = [[Mediterranean climate#Hot-summer Mediterranean climate|Csa]]
+| postal_code_type        = Post code
+| postal_code             = 23600
+| website                 = {{URL| www.karakocan.bel.tr | www.karakocan.bel.tr }}
+}}

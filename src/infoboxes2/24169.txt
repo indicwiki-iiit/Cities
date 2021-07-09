@@ -1,0 +1,28 @@
+{{Infobox UK place
+ |country = Scotland
+ |type = [[Town]] and [[administrative centre]]
+ |official_name= Haddington
+ |scots_name= Haidintoun
+ |gaelic_name= Baile Adainn
+ |population = {{Scottish locality populations|name|POP=Haddington}}
+ |population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ |coordinates = {{coord|55.958|-2.774|display=inline,title}}
+ |os_grid_reference= NT511739
+ |pushpin_map = Scotland East Lothian#United Kingdom
+ |unitary_scotland= [[East Lothian Council]]
+ |lieutenancy_scotland= [[East Lothian]]
+ |constituency_westminster= [[East Lothian (UK Parliament constituency)|East Lothian]]
+ |constituency_scottish_parliament= [[East Lothian (Scottish Parliament constituency)|East Lothian]]
+ |historic_county=
+|post_town= HADDINGTON
+ |postcode_district = EH41
+ |postcode_area= EH
+ |dial_code= 01620
+ |static_image_name= Haddington.jpg
+ |static_image_caption= A view of Haddington
+|static_image_2_name              = East Lothian towns.png
+  
+  |static_image_2_caption           = Administrative Centre for [[East Lothian]] 
+ |london_distance={{cvt|393|mi|km}}
+ |edinburgh_distance={{cvt|17|mi|km}}
+}}

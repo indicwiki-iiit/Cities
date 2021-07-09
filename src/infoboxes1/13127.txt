@@ -1,0 +1,19 @@
+{{Infobox UK place
+|country                  = England
+|coordinates              = {{coord|51.248|-0.758|display=inline,title}}
+|label_position           = left
+|population               = 37,226
+|population_ref           = ([[Rushmoor|Rushmoor Borough Council]] data)
+|shire_district           = [[Rushmoor]]
+|shire_county             = [[Hampshire]]
+|region                   = South East England
+|constituency_westminster = [[Aldershot (UK Parliament constituency)|Aldershot]]
+|post_town                = ALDERSHOT
+|postcode_area            = GU
+|postcode_district        = GU11, GU12
+|dial_code                = 01252
+|os_grid_reference        = SU865505
+|london_distance          = {{convert|31.8|mi|km}}
+|static_image_name        = Wellingtonstatue.jpg
+|static_image_caption     = Statue of the [[Duke of Wellington]]
+}}

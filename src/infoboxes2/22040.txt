@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|image_skyline = Walla mansion.JPG
+|image_caption = Walla Mansion
+|image_shield= HUN_Törökbálint_Címer.svg
+|image_flag = Flag of Törökbálint.svg
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Törökbálint|
+map=[[File:PestMegye.png|center|thumb|275px|Location of Pest county in Hungary]]|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Pest county|Pest]]|
+area_total_km2=29.4|
+population_total=12023|
+population_as_of=2004|
+population_density_km2=408.94|
+postal_code_type=[[Postal code]]|
+postal_code=2045|
+area_code=23|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Törökbálint
+|pushpin_mapsize        =
+|coordinates            = {{coord|47.43668|18.91224|region:HU|display=inline,title}}
+| blank_name             = Motorways
+| blank_info             = [[M1 motorway (Hungary)|M0]], [[M1 motorway (Hungary)|M1]], [[M7 motorway (Hungary)|M7]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|16.2|km|abbr=on}} Northeast
+}}

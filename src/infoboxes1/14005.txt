@@ -1,0 +1,44 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Telšiai
+|image_skyline=Telse_view.jpg
+|image_caption= Left to right:[[Telšiai Cathedral]], Curia of the [[Roman Catholic Diocese of Telšiai]], tourism center, [[Church of the Assumption of the Blessed Virgin Mary into Heaven, Telšiai]], Telšiai tower 
+|nickname =
+|settlement_type = City
+|pushpin_map            = Lithuania#Europe
+|pushpin_relief=1
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Telšiai
+|image_flag = Flag of Telsiai.gif
+|image_shield = Telšiai COA great.svg
+|coordinates       = {{coord|55|59|0|N|22|15|0|E|region:LT_type:city(31500)|display=inline,title}}
+|
+|subdivision_type  = [[List of sovereign states|Country]]
+|subdivision_name  = {{LIT}}
+|subdivision_type1 = [[Regions of Lithuania|Ethnographic&nbsp;region]]
+|subdivision_name1 = Samogitia
+|subdivision_type2 = [[Counties of Lithuania|County]]
+|subdivision_name2 = [[Telšiai County]]
+|subdivision_type3 = [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3 = [[Telšiai district municipality]]
+|subdivision_type4 = [[Elderships of Lithuania|Eldership]]
+|subdivision_name4 = Telšiai town eldership
+|subdivision_type6 = [[Capital (political)|Capital of]]
+|subdivision_name6 = [[Samogitia]] (unofficial)<br /> [[Telšiai County]]<br /> [[Telšiai district municipality]] <br /> Telšiai town eldership <br /> Telšiai rural eldership
+|established_date  = 1450
+|established_title = First mentioned
+|established_date2 = 1791
+|established_title2= Granted [[Magdeburg rights|city rights]]
+|area_total_km2    = 17.5
+|elevation_m       = 128
+|population_total  = 21294
+|population_as_of  = 2020
+|population_density_km2 = auto
+|population_metro  = 45474
+|postal_code_type  = Postal code
+|postal_code       = 87xxx
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|website           = {{URL|telsiai.lt}}
+}}

@@ -1,0 +1,81 @@
+{{Infobox dependency
+| name=Madeira
+| native_name=
+| settlement_type=[[Autonomous Regions of Portugal|Autonomous Region]]
+| official_name={{raise|0.2em|Autonomous Region of Madeira }}<br/>{{native name|pt|Região Autónoma da Madeira}}
+| image_flag=Flag_of_Madeira.svg
+| flag_size=125px
+| flag_alt=Blue-gold-blue vertical triband with a red-bordered white Cross of Christ.
+| flag_link=Flag of Madeira|image_seal=Coat of arms of Madeira.svg
+| seal_size=85px|seal_alt=Blue a pale or charged with the Cross of Christ
+| seal_type=Coat of Arms
+| seal_link=Coat of arms of Madeira
+| etymology = ''madeira'', Portuguese word for wood
+| nickname = Pearl of the Atlantic
+| motto ={{lang|pt|Das Ilhas as Mais Belas e Livres}}<br /><small>(English: Of all islands, the most beautiful and free)</small>
+| anthem = "{{lang|pt|[[A Portuguesa]]}}"<br /><div style="display:inline-block;margin-top:0.4em;">[[File:Hino Nacional da Republica Portuguesa.ogg]]</div>
+| song = [[Hino da Região Autónoma da Madeira|Anthem of the Autonomous Region of Madeira]]
+| song_type = Regional anthem
+| image_map=EU-Portugal_with_Madeira_circled.svg
+| map_alt=Location of Madeira|map_caption=Location of Madeira
+| mapsize=290px
+| subdivision_type=[[Sovereign state]]
+| subdivision_name=[[Portugal]]
+| established_title=[[Portuguese discoveries|Discovery]]
+| established_date=1418-1419
+| established_title2=Settlement
+| established_date2=c. 1425
+| established_title3=[[Autonomous Regions of Portugal|Political Autonomy]]
+| established_date3=30 April 1976
+| official_languages=[[European Portuguese|Portuguese]]
+| demonym={{lang|pt|Madeirense}}<br /><small>(English: Madeiran)</small>
+| capital_type=[[Administrative centre|Capital]]
+| capital = [[Funchal]]
+| government_type=[[Autonomous Regions of Portugal|Autonomous Region]]
+| leader_title1=[[Representative of the Republic of Madeira|Representative of the Republic]]
+| leader_name1=Irineu Barreto
+| leader_title2=[[Presidents of the Regional Government of Madeira|President of the Regional Government of Madeira]]
+| leader_name2=[[Miguel Albuquerque]]
+| leader_title3=President of the [[Legislative Assembly of Madeira|Legislative Assembly of the Autonomous Region of Madeira]]
+| leader_name3=José Manuel Rodrigues
+| leader_title4=Vice-President of the Regional Government of Madeira
+| leader_name4=Pedro Calado|legislature=[[Legislative Assembly of Madeira|Legislative Assembly of the Autonomous Region of Madeira]]
+{{infobox|child=yes|headerstyle=text-align:left;|labelstyle=font-weight:normal;
+ | header1 = National and European Representation
+ | rowclass2 = mergedrow
+ | label2 = <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&nbsp;[[Assembly of the Republic (Portugal)|Assembly of the Republic]]</div>
+ | data2 = 6 [[Member of parliament#Portugal|Deputies]]
+ | rowclass3 = mergedrow
+ | label3 = <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&nbsp;[[European Parliament]]</div>
+ | data3 = 2 [[Member of the European Parliament|MEPs]]}}
+| area_km2=801
+| elevation_max_m=1,861
+| elevation_max_point=[[Pico Ruivo]]
+| elevation_min_m=0
+| elevation_min_point=[[Atlantic Ocean]]
+| population_estimate=289,000
+| population_census=267 785|population_estimate_year=2016
+| population_census_year=2011
+| population_density_km2=334
+| GDP_PPP={{increase}} €4.6077 billion
+| GDP_PPP_year=2017
+| GDP_PPP_per_capita={{increase}} €18,096
+| GDP_nominal={{increase}}4.5364 billion
+| GDP_nominal_year=2017
+| GDP_nominal_per_capita={{increase}} €18,100<ref>{{Cite web |url=https://estatistica.madeira.gov.pt/download-now/multitematicas-pt/mutitematicas-anuario-pt/multitematicas-anuario-publicacoes-pt/finish/196-anuario-publicacoes/10603-anuario-estatistico-da-ram-2017.html |title=Anuário Estatísito da Região Autónoma da Madeira |date=2018 |website=Direção Regional de Estatística da Região Autónoma da Madeira |access-date=15 November 2019 |archive-date=15 November 2019 |archive-url=https://web.archive.org/web/20191115003301/https://estatistica.madeira.gov.pt/download-now/multitematicas-pt/mutitematicas-anuario-pt/multitematicas-anuario-publicacoes-pt/finish/196-anuario-publicacoes/10603-anuario-estatistico-da-ram-2017.html |url-status=live }}</ref>
+| GDP_nominal_per_capita_rank=
+| currency=[[EUR]] (€)
+| currency_code=EUR
+| timezone=[[Western European Time|WET]]
+| utc_offset=±0{{!}}UTC
+| timezone_DST=[[Western European Summer Time|WEST]]
+| utc_offset_DST =+1
+| date_format=dd/mm/yyyy ([[Common Era|CE]])
+| drives_on=right
+| calling_code=[[Telephone numbers in Portugal|+351 (291)]]
+| iso_code =PT-30
+| website =[https://www.madeira.gov.pt/ www.madeira.gov.pt]
+| blank7_name_sec1=Usual abbreviation
+| blank7_info_sec1=RAM
+|cctld={{hlist|[[.pt]]}}
+}}

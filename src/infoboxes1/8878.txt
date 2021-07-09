@@ -1,0 +1,81 @@
+{{Infobox Nepal municipality
+| name                          = Dhunibeshi <!--Do not add the word "Municipality" -->
+| nickname                      = 
+| native_name                   = धुनीबेशी नगरपालिका
+| native_name_lang              = ne
+| motto                         =
+<!-- image, map-->
+| image_skyline                 = 
+| imagesize                     =
+| image_alt                     =
+| image_caption                 = 
+| map                           =  
+| mapsize                       =
+| map_alt                       =
+| map_caption                   =
+| map1                          =
+| mapsize1                      =
+| map_alt1                      =
+| map_caption1                  =
+<!--pushpin, coord, geo-->
+| pushpin_province              = Nepal Bagmati Province<!--for a map of province (Nepal map automatically show)-->
+| pushpin_mapsize               = 300
+| pushpin_map_caption           = Location of Municipality
+| pushpin_label_position        =
+| pushpin_relief                = 1
+| coordinates                   = {{coord|27.43|85.09|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| coordinates_footnotes         =
+| province                      = [[Bagmati Province|Bagmati]]
+| district                      = [[Dhading District|Dhading]]
+| ward                          = 9
+<!--established, headquarters-->
+| established                   = 10 March 2017
+| incorporated_vdc              = [[Naubise]], [[Chhatre Dyaurali]], [[Jiwanpur]]
+| incorporated_date             =
+| hq, headquarters or seat      = [[Naubise]]
+<!--government-->
+| government_footnotes          =
+| mayor                         = Balkrishna Acharya
+| mayor_party                   =
+| deputy_mayor                  =  Niru Kharel
+| deputy_mayor_party            =
+| parliamentary_constituency    = Dhading 1
+| mp_name                       = <!--mp=Member of parliament-->
+| mp_party                      =
+| provincial_constituency       = Dhading 1(A)
+| mla_name                      = Rajendra Prasad Pandey <!--mla=Member of legislative assembly-->
+| mla_party                     = [[Nepal Communist Party (United)|NCP]]
+<!--area-->
+| area_magnitude                =
+| area_footnotes                =
+| area_total_km2                = 96.30
+| area_note                     =
+| area_rank                     =
+<!--elevation-->
+| elevation_footnotes           =
+| elevation_m                   =
+| elevation_min_m               =
+| elevation_max_m               =
+<!--population-->
+| population_footnotes          =
+| population                    =31,029
+| population_as_of              = 2011
+| population_density_km2        =
+| population_note               =
+| population_rank               =
+| households                    =
+<!--others-->
+| ethnicity                     = <!-- ethnic group-->
+| female_percent                =
+| male_per_100_female           =
+| income                        =
+| poverty                       =
+| literacy                      =
+| life_expectancy               =
+| languages                     =
+| highways                      =
+| postal_code                   =
+| area_code                     =
+| website                       = {{url|dhunibeshimun.gov.np}}
+| footnotes                     =
+}}

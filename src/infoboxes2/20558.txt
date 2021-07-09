@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Pardes Hanna-Karkur
+| native_name            = {{Lang|he|{{Script/Hebrew|פַּרְדֵּס חַנָּה-כַּרְכּוּר}}|rtl=yes}}
+| settlement_type        = [[Local council (Israel)|Local council]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Pardes Ḥanna - Karkur
+| image_skyline          = WikiAir Flight IL-13-09 070.jpg
+| image_blank_emblem     = Logo F.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = top
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|28|16|N|34|58|03|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Haifa District|name=Haifa}}
+| established_title      = Founded
+| established_date       = 1969
+| leader_title           = Head of Municipality
+| leader_name            = Hagar Peri Yagur
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:22596|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Pardes Hanna-karkur}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

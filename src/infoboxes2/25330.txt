@@ -1,0 +1,45 @@
+{{Infobox Australian place
+| type     = town
+| name     = Yarrawonga
+| state    = vic
+| image    = 
+YarrawongaStreetscape.JPG
+| caption  = Belmore street
+| use_lga_map = yes
+| coordinates = {{coord|36|01|0|S|146|0|0|E|display=inline,title}}
+| lga      = Shire of Moira
+| postcode = 3730
+| pop      = 7,930
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABS2016">{{cite web |title=2016 Census QuickStats Yarrawonga |url=http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC22904 |website=Australian Bureau of Statistics |access-date=24 January 2019}}</ref>
+| est      =
+| elevation= 128.9
+| maxtemp  = 22.5
+| mintemp  = 8.7
+| rainfall = 502.4 
+| stategov = [[Electoral district of Benambra|Benambra]]
+| fedgov   = [[Division of Nicholls|Nicholls]]
+| dist1    = 268
+| dir1     = N
+| location1=[[Melbourne]]
+| dist2    = 92
+| dir2     = W
+| location2=[[Albury, New South Wales|Albury]] ([[New South Wales|NSW]])
+| dist3    = 81
+| dir3     = NE
+| location3=[[Shepparton, Victoria|Shepparton]]
+| dist4    = 89
+| dir4     = W
+| location4=[[Wodonga, Victoria|Wodonga]]
+| dist5    = 433
+| dir5     = SW
+| location5=[[Canberra, Australian Capital Territory|Canberra]]
+| near-nw  = [[Burramine, Victoria|Burramine]]
+| near-n   = ''[[New South Wales]]''
+| near-ne  = ''[[New South Wales]]''
+| near-w   = [[Burramine, Victoria|Burramine]]
+| near-e   = [[Bathumi, Victoria|Bathumi]]
+| near-sw  = [[Telford, Victoria|Telford]]
+| near-s   = [[Yarrawonga South, Victoria|Yarrawonga South]]
+| near-se  = [[Bundalong, Victoria|Bundalong]]
+}}

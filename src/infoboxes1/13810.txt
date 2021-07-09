@@ -1,0 +1,47 @@
+{{Infobox settlement
+| name                   = Szczytno
+| image_skyline          = {{Photomontage
+  |color=#ffffff
+  | photo1a = Szczytno widziane z wieży ratuszowej.jpg
+  | photo2a = Pozostałości zamku w Szczytnie.jpg
+  | photo2b = Szczytno - sąd rejonowy (01).jpg
+  | spacing = 2
+  | border = 0
+  | size = 266
+}}
+| image_caption          = {{hlist|From top, left to right: Town center|Ruins of the castle beside the Town Hall|District court}}
+| imagesize              = 250px
+| image_flag             = POL Szczytno flag.svg
+| image_shield           = POL Szczytno COA.svg
+| pushpin_map            = Poland#Poland Warmian-Masurian Voivodeship
+| pushpin_label_position = bottom
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{POL}}
+| subdivision_type1       = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1       = {{flag|Warmian-Masurian Voivodeship|name=Warmian-Masurian}}
+| subdivision_type2      = [[Powiat|County]]
+| subdivision_name2      = [[Szczytno County]]
+| subdivision_type3      = [[Gmina]]
+| subdivision_name3      = Szczytno <small>(urban gmina)</small>
+| leader_title           = Mayor
+| leader_name            = Krzysztof Mańkowski
+| established_title      = Established
+| established_date       = 1359
+| established_title3     = Town rights
+| established_date3      = 1723
+| area_total_km2         = 9.96
+| population_as_of       = 2007
+| population_total       = 27013
+| population_density_km2 = auto
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| coordinates            = {{coord|53|33|46|N|20|59|7|E|region:PL|display=inline}}
+| postal_code_type       = Postal code
+| postal_code            = 12-100 to 12-102
+| area_code              = +48 89
+| blank_name             = [[Polish car number plates|Car plates]]
+| blank_info             = NSZ
+| website                = http://miastoszczytno.pl/
+}}

@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Kozármisleny
+| other_name             = {{lang|de|Mischlen}} {{in lang|de}}
+| settlement_type        = [[List of cities and towns of Hungary|Town]]
+| image_flag             = Flag of Kozármisleny.svg
+| image_shield           = HUN Kozármisleny COA.svg
+| pushpin_map            = Hungary
+| pushpin_label_position = top
+| pushpin_map_caption    = Location of Kozármisleny
+| coordinates            = {{coord|46.028|18.292|region:HU|display=inline,title}}
+| subdivision_type       = [[Countries of the world|Country]]
+| subdivision_name       = {{HUN}}
+| subdivision_type1      = [[Counties of Hungary|County]]
+| subdivision_name1      = [[Baranya County|Baranya]]
+| subdivision_type2      = [[Districts of Hungary|District]]
+| subdivision_name2      = [[Pécs District|Pécs]]
+| area_total_km2         = 14.45
+| population_total       = 5802
+| population_as_of       = 2009
+| population_density_km2 = 392.35
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| postal_code_type       = [[Postal codes in Hungary|Postal code]]
+| postal_code            = 7761
+| area_code_type         = [[Telephone numbers in Hungary|Area code]]
+| area_code              = (+36) 72
+| website                = {{URL|http://www.kozarmisleny.hu/}}
+}}

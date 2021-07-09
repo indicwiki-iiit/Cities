@@ -1,0 +1,25 @@
+{{Infobox Australian place
+| type     = town
+| name     = Meekatharra
+| state    = wa
+| image    = Meekatharra, Western Australia.jpg
+| caption  = View of Meekatharra from the local lookout
+| lga      = Shire of Meekatharra
+| postcode = 6642
+| est      = 
+| pop      = 708
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS| id=SSC50916  |name=Meekatharra (State Suburb)| accessdate=5 January 2018|quick=on}}</ref>| coordinates = {{coord|26|35|37|S|118|29|43|E|display=inline,title}}
+| elevation= 517
+| maxtemp  = 29.0
+| mintemp  = 15.9
+| rainfall = 237.9
+| stategov = [[Electoral district of North West|North West]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    = 771  | dir1 = NNE
+| location1= [[Perth]]
+| dist2    = 538  | dir2 = NE
+| location2= [[Geraldton, Western Australia|Geraldton]]
+| dist3    = 645  | dir3 = ESE
+| location3= [[Carnarvon, Western Australia|Carnarvon]]
+}}

@@ -1,0 +1,71 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| official_name            = Chubbuck, Idaho
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[City]]
+<!-- images and maps  ----------->
+| image_skyline            = Chubbuck, Idaho entrance.jpg
+| image_caption            = Chubbuck, Idaho entrance, off I-86.
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = 
+| image_map                = File:Bannock County Idaho Incorporated and Unincorporated areas Chubbuck Highlighted 1614680.svg
+| map_caption              = Location of Chubbuck in Bannock County, Idaho.
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the United States
+| coordinates              = {{coord|42|55|18|N|112|28|3|W|region:US-ID_type:city|display=inline,title}}
+<!-- Location ------------------>
+| subdivision_type = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|County]]
+| subdivision_name2        = [[Bannock County, Idaho|Bannock]]
+| established_title        = 
+| established_date         = 
+| government_type          = 
+<!-- Politics ----------------->
+| government_footnotes     = 
+| leader_title             = Mayor
+| leader_name              = Kevin B. England
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_sq_mi         = 5.91
+| area_land_sq_mi          = 5.90
+| area_water_sq_mi         = 0.01
+| elevation_footnotes      = 
+| elevation_ft             = 4472
+<!-- Population   ----------------------->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 13922
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 15588
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 2642.48
+| population_note          = 
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+|utc_offset_DST = &minus;6
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 83202
+| area_code                = [[Area codes 208 and 986|208, 986]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-14680
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0396285
+|blank2_name            = [[Interstate Highway System|Interstate]]
+|blank2_info        = [[File:I-86.svg|32px|link=Interstate 86 in Idaho]]
+|blank3_name            = [[U.S. Route]]
+|blank3_info            = [[File:US 91.svg|32px|link = U.S. Route 91]]
+| website                  = {{URL|http://www.cityofchubbuck.us}}
+|area_total_km2 = 15.30
+|area_land_km2 = 15.28
+|area_water_km2 = 0.03
+|population_density_km2 = 1020.21
+}}

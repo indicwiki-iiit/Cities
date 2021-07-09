@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Brevard, North Carolina
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+|named_for                = Ephriam Brevard<ref name=gazetteer>{{cite web |url=https://ncpedia.org/gazetteer/search/brevard/0 |title=North Carolina Gazetteer |access-date= December 25, 2020}}</ref>
+<!-- Images -->
+|image_skyline            = Brevard, North Carolina - Transylvania Co. Courthouse.JPG
+|imagesize                = 
+|image_caption            = Transylvania County Courthouse
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = NCMap-doton-Brevard.PNG
+|mapsize                  = 250x200px
+|map_caption              = Location of Brevard, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Transylvania County, North Carolina|Transylvania]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Jimmy Harris
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = 1861<ref name=gazetteer/>
+|established_title1       = Incorporated
+|established_date1        = 1889<ref name=gazetteer/>
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 13.86
+|area_land_km2            = 13.85
+|area_water_km2           = 0.01
+|area_total_sq_mi         = 5.35
+|area_land_sq_mi          = 5.35
+|area_water_sq_mi         = 0.00
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 7609
+|population_density_km2   = 572.07
+|population_density_sq_mi = 1481.77
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 680
+|elevation_ft             = 2231
+|coordinates              = {{coord|35|14|30|N|82|43|43|W|region:US-NC_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 28712
+|area_code                = [[Area code 828|828]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-07720<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1009587<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.cityofbrevard.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7926
+}}

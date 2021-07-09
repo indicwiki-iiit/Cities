@@ -1,0 +1,85 @@
+{{Infobox settlement
+|name                     = Lemon Grove, California
+|official_name            = City of Lemon Grove
+|native_name              = <!-- for cities whose native name is not in English -->
+|other_name               = 
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Lemon grove monument.jpg
+|imagesize                = 200px
+|image_caption            = Lemon Grove Monument
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = 
+|motto                    = Best Climate on Earth
+|image_map                = File:San Diego County California Incorporated and Unincorporated areas Lemon Grove Highlighted 0641124.svg
+|map_caption              = Location of Lemon Grove in San Diego County, California.
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|32|44|29|N|117|01|54|W|region:US_type:city|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_name2        = [[San Diego County, California|San Diego]]
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = July 1, 1977<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=February 21, 2013 
+}}</ref>
+<!-- Area------------------>
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Racquel Vasquez<ref>{{Cite web|url=http://www.lemongrove.ca.gov/departments/government/mayor-council|title=Mayor & Council|publisher=City of Lemon Grove|access-date=February 24, 2015}}</ref>
+|leader_title1            = [[City manager]]
+|leader_name1             = Lydia Romero<ref>{{Cite web|url=https://www.lemongrove.ca.gov/departments/city-manager|title=City Manager|publisher=City of Lemon Grove|access-date=February 24, 2015}}</ref>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2          = 10.05
+| area_total_sq_mi        = 3.88
+| area_land_km2           = 10.05
+| area_land_sq_mi         = 3.88
+| area_water_km2          = 0.00
+| area_water_sq_mi        = 0.00
+| area_water_percent      = 0
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1660902|Lemon Grove|access-date=February 24, 2015}}</ref>
+|elevation_m              = 136
+|elevation_ft             = 446
+|population_total         = 25320
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_density_sq_mi = 6911.83
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 91945
+|area_code                = [[Area code 619|619]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.lemongrove.ca.gov}}
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|41124}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660902}}, {{GNIS 4|2410818}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 26811
+|population_density_km2 = 2668.97
+}}

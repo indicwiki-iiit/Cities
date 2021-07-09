@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Mount Sterling, Kentucky
+|settlement_type          = [[list of Ky cities|City]]
+|named_for                = 
+|nickname                 = 
+|motto                    = "Ringing with Unity and Pride"
+
+<!-- Images -->
+|image_skyline            = Downtown Mount Sterling, Kentucky.JPG
+|imagesize                = 250px
+|image_caption            = Downtown Mt. Sterling
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = File:Montgomery County Kentucky Incorporated and Unincorporated areas Mount Sterling Highlighted 2154084.svg
+|mapsize                  = 250px
+|map_caption              = Location of Mount Sterling in Montgomery County, Kentucky.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kentucky]]
+|subdivision_type2        = [[List of counties in Kentucky|County]]
+|subdivision_name2        = [[Montgomery County, Kentucky|Montgomery]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Established
+|established_date         = 1792<ref name=sos>Commonwealth of Kentucky. Office of the Secretary of State. Land Office. "Mt. Sterling, Kentucky". Accessed 26 August 2013.</ref>
+|established_title2        = Incorporated
+|established_date2         = 1852<ref name=sos/>
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_21.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 11.68
+|area_land_km2            = 11.62
+|area_water_km2           = 0.06
+|area_total_sq_mi         = 4.51
+|area_land_sq_mi          = 4.49
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6895
+|population_density_km2   = 622.06
+|population_density_sq_mi = 1611.19
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 297
+|elevation_ft             = 974
+|coordinates              = {{coord|38|3|24|N|83|56|40|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 40353
+|area_code                = [[Area code 859|859]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 21-54084
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0498865
+|website                  = {{URL|http://mtsterling.ky.gov/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7231
+}}

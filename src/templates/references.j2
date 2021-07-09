@@ -1,0 +1,18 @@
+
+{%- macro references() -%}
+        {{ '==మూలాలు==' }}
+    {{- '\n' -}}
+    {{- "{{Reflist}}" -}}
+{%- endmacro -%}
+
+{{-references()}}
+
+[[వర్గం:తెవికి నగరాలు]]
+[[వర్గం:నగరాలు]]
+{%- if country_name != "None" -%} 
+[[వర్గం:{{country_name}} లోని  నగరాలు]]
+{%- endif -%}  
+{%- if state_name != "None" -%}
+[[వర్గం:{{state_name}} లోని నగరాలు]]  
+{%- endif -%}
+

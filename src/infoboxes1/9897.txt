@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                     = Bosra
+| official_name            = Busra al-Sham
+| native_name              = {{lang|ar|بُصْرَىٰ}}<br />{{lang|ar|بُصْرَىٰ ٱلشَّام}}
+| other_name               =
+| settlement_type          = Town
+<!-- images and maps  ----------->
+| image_skyline            = Bosra square.jpg
+| imagesize                = 300px
+| image_caption            = The centre of Bosra
+| image_flag               =
+| image_seal               =
+| image_shield             =
+| nickname                 =
+| motto                    =
+| image_map                =
+| map_caption              =
+| pushpin_map              = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = top
+| pushpin_mapsize          = 250
+| pushpin_map_caption      = Location in Syria
+| pushpin_relief            = 1
+<!-- Location ------------------>
+| coordinates              = {{coord|32|31|N|36|29|E|region:SY|display=inline,title}}
+| grid_position            =  289/214   
+| subdivision_type         = Country
+| subdivision_name         = {{Flag|Syria}}
+| subdivision_type1        = [[Governorates of Syria|Governorate]]
+| subdivision_name1        = [[Daraa Governorate|Daraa]]
+| subdivision_type2        = [[Districts of Syria|District]]
+| subdivision_name2        = [[Daraa District|Daraa]]
+| subdivision_type3        = [[Nahiyah|Subdistrict]]
+| subdivision_name3        = Bosra
+| subdivision_type4        =
+| subdivision_name4        =
+| parts_type               = 
+| parts_style              = para
+| p1                       =
+| established_title        = <!-- Settled -->
+| established_date         =
+<!-- Politics ----------------->
+| government_type          =
+| government_footnotes     =
+| leader_title             =
+| leader_name              =
+<!-- Area    --------------------->
+| unit_pref                = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes           =
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2           =
+| area_water_percent       =
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              =
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_footnotes     =
+| population_total         = 19,683
+| population_as_of         = 2004
+| population_density_km2   =
+| population_density_sq_mi =
+| population_blank2_title  = Religions
+| population_blank2        = [[Sunni Muslim]] <br> [[Shia]] (minority)
+| population_note          =
+<!-- General information  --------------->
+| timezone                 =
+| utc_offset               =
+| timezone_DST             =
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              =
+| area_code                = 15
+| website                  =
+| footnotes                = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Ancient City of Bosra
+  |ID = 22
+  |Year = 1980
+  |Criteria = Cultural: i, iii, vi
+  |Area = 116.2 ha
+  |Buffer_zone = 200.4 ha
+  }}
+}}

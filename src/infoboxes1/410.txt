@@ -1,0 +1,42 @@
+{{Infobox software
+| name = Siri
+| logo = AppleSiriIcon2017.png
+| logo caption = 
+| screenshot = Siri on iOS.png
+| screenshot_size = 280px<!--Native resolution but smaller than the standard res-->
+| caption = Siri dictates the next game for the [[Seattle Seahawks]] upon the user's request on a [[iPhone SE (1st generation)|first-generation iPhone SE]] running [[iOS 11]]
+| developer = [[Apple Inc.|Apple]]
+| released = {{start date and age|2011|10|4}}
+| operating system = [[iOS 5]] onward, [[macOS Sierra]] onward, [[tvOS]] (all versions), [[watchOS]] (all versions), [[iPadOS]]
+| platform = {{plainlist|
+* [[iPhone]]
+* [[iPad]]
+* [[iPod Touch]]
+* [[Macintosh|Mac]]
+* [[Apple TV]]
+* [[Apple Watch]]
+* [[HomePod]]}}
+| language = {{flatlist|
+* [[Arabic language|Arabic]]
+* [[Chinese language|Chinese]]: [[Cantonese]], [[Simplified Chinese characters|Simplified Chinese]], [[Traditional Chinese characters|Traditional Chinese]]
+* [[Danish language|Danish]]
+* [[Dutch language|Dutch]]
+* [[English language|English]]
+* [[Finnish language|Finnish]]
+* [[French language|French]]
+* [[German language|German]]
+* [[Hebrew language|Hebrew]]
+* [[Italian language|Italian]]
+* [[Japanese language|Japanese]]
+* [[Korean language|Korean]]
+* [[Malay language|Malay]]
+* [[Norwegian language|Norwegian]]
+* [[Portuguese language|Portuguese]]
+* [[Russian language|Russian]]
+* [[Spanish language|Spanish]]
+* [[Swedish language|Swedish]]
+* [[Thai language|Thai]]
+* [[Turkish language|Turkish]]
+}}
+| genre = [[Intelligent personal assistant]]
+}}

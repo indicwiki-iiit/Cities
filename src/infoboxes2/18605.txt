@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                     = Ruston, Louisiana
+| official_name            = City of Ruston
+| native_name              = Ville de Ruston de Louisiane
+| native_name_lang         = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name               =
+| named_for                = [[Robert Edwin Russ]]
+
+| settlement_type          = [[City (Louisiana)|City]]
+<!-- images, nickname, motto --->
+| image_skyline            = Ruston, LA, City Hall IMG 3793.JPG
+| imagesize                = 250px
+| image_caption            = Ruston City Hall
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+|nickname                 = Louisiana's College Town; The Peach City; Rus Vegas
+<!-- maps and coordinates ------>
+| image_map                = File:Lincoln Parish Louisiana Incorporated and Unincorporated areas Ruston Highlighted.svg
+| map_caption              = Location of Ruston in Lincoln Parish, Louisiana.
+| pushpin_map              = Louisiana#USA<!-- name of a location map as per Template:Location_map -->
+| coordinates              = {{coord|32|31|47|N|92|38|26|W|format=dms|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = {{flag|United States}}
+| subdivision_type1        = State
+| subdivision_name1        = {{flag|Louisiana}}
+| subdivision_type2        = Parish
+| subdivision_name2        = [[Lincoln Parish, Louisiana|Lincoln]]
+<!-- established --------------->
+| established_title        = <!-- Settled -->
+| established_date         = 
+| established_title1       = Incorporated
+| established_date1        = 1885
+| government_type          = [[Mayor–council government|Mayor-Council]]
+| leader_party             = [[Republican Party (United States)|R]]
+| leader_title             = Mayor
+| leader_name              = Ronny Walker
+| area_total_km2           = 54.92
+<!-- ALL fields with measurements have automatic unit conversion -->
+| area_total_sq_mi         = 21.21
+<!-- see table @ Template:Infobox settlement for details -->
+| area_land_km2            = 54.75
+| area_land_sq_mi          = 21.14
+| area_water_km2           = 0.18
+| area_water_sq_mi         = 0.07
+| elevation_m              = 
+| elevation_ft             = 331
+<!-- population ---------------->
+| population_footnotes     = 
+| population_total         = 21859
+| population_as_of         = [[2010 United States Census|2010]]
+| population_est           = 21854
+| pop_est_as_of            = 2019
+| population_density_km2   = 399.16
+<!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi = 1033.82
+| population_blank1_title        = [[Lincoln Parish, Louisiana|µSA]] (2016)
+| population_blank1              = 47,745 (US: [[List of micropolitan statistical areas|229th]])
+| population_blank2_title        = [[Monroe-Ruston-Bastrop Combined Statistical Area|CSA]] (2016)
+| population_blank2              = 253,286 (US: [[List of United States combined statistical areas|117th]])
+| population_demonym       = Rustonian, Rustonite
+<!-- time zone(s) -------------->
+| timezone1                = [[Central Time Zone|CST]]
+| utc_offset1              = -6
+| timezone1_DST            = [[Central Daylight Time|CDT]]
+| utc_offset1_DST          = -5
+<!-- postal codes, area code --->
+| postal_code_type         = ZIP code
+| postal_code              = 71270, 71272, 71273
+| area_code_type           = <!-- defaults to: Area code(s) -->
+| area_code                = 318
+<!-- blank fields (section 1) -->
+| blank_name_sec1          = Interstate
+| blank_info_sec1          = [[File:I-20.svg|30px|link=Interstate 20]]
+| blank1_name_sec1         = U.S.
+| blank1_info_sec1         = [[File:US 80.svg|30px|link=U.S. Route 80]] [[File:US 167.svg|30px|link=U.S. Route 167]]
+| blank2_name_sec1         = Louisiana
+| blank2_info_sec1         = [[File:Louisiana 146.svg|30px|link=Louisiana Route 146]] [[File:Louisiana 150.svg|30px|link=Louisiana Route 150]] [[File:Louisiana 544.svg|30px|link=Louisiana Route 544]] [[File:Louisiana 818.svg|30px|link=Louisiana Route 818]] [[File:Louisiana 3012.svg|30px|link=Louisiana Route 3012]] [[File:Louisiana 3061.svg|30px|link=Louisiana Route 3061]]
+<!-- blank fields (section 2) -->
+| blank_name_sec2          = Parish Road
+| blank1_name_sec2         = Airport
+| blank1_info_sec2         = [[Ruston Regional Airport]]
+<!-- website, footnotes -------->
+| website                  = {{URL|ruston.org}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|unit_pref = Imperial
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 22-66655
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_22.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+}}

@@ -1,0 +1,14 @@
+{{Infobox glacier
+|name = Perito Moreno Glacier
+|photo=Perito Moreno Glacier Patagonia Argentina Luca Galuzzi 2005.JPG
+|photo_caption=The terminus of the glacier in [[Lago Argentino]]
+|map=Argentina
+|map_relief=1
+|coords={{Coord|50|30|S|73|08|W|type:glacier_region:AR|display=inline,title}}
+|area={{convert|250|km2|sqmi|0|abbr=on}}
+|length={{convert|30|km|mi|abbr=on}}
+|width={{convert|5|km|mi|0|abbr=on}}
+|thickness={{convert|170|m|ft|abbr=on}}
+|terminus= Lago Argentino
+|status=Advancing
+}}

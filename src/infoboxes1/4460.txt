@@ -1,0 +1,57 @@
+{{Infobox settlement <!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name                   = Pointe-Claire
+|settlement_type        = [[City (Quebec)|City]]
+|named_for              = Point of land with a clear view over [[Lake Saint-Louis]]
+<!-- image --->
+|image_skyline          = Moulin à vent Pointe-Claire-7947.jpg
+|image_caption          = [[Pointe-Claire Windmill]]
+<!-- maps and coordinates ------>|
+|image_map = {{Maplink|frame=yes|plain=y|frame-width=250|frame-height=250|zoom=11|frame-lat=45.45|frame-long=-73.816667|type=shape-inverse|id=Q142271|title=Pointe-Claire}}
+|map_caption            = Interactive map outlining Pointe-Claire
+|pushpin_map            = Canada Southern Quebec
+|pushpin_label          = {{nowrap|Pointe-Claire}}
+|pushpin_map_caption = Location in southern Quebec
+|coordinates            = {{coord|45|27|N|73|49|W|region:CA-QC|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces and territories of Canada|Province]]
+|subdivision_name1      = {{QC}}
+|subdivision_type2      = [[Region (Quebec)|Region]]
+|subdivision_name2      = [[Montréal (region)|Montréal]]
+|subdivision_type3      = [[Regional county municipality|RCM]]
+|subdivision_name3      = None
+|established_title      = Founded
+|established_date       = 1698
+|established_title1     = Constituted
+|established_date1      = 1 January 2006
+|government_footnotes = <ref name="mamrot">{{Cite web |url=http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/66097/ |title=Ministère des Affaires municipales, des Régions et de l'Occupation du territoire: Pointe-Claire |access-date=2012-03-11 |archive-url=https://web.archive.org/web/20120501172450/http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/66097/ |archive-date=2012-05-01 |url-status=dead }}</ref><ref>[http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&Search=Det&Include=Y&rid=1022 Parliament of Canada Federal Riding History: LAC-SAINT-LOUIS (Quebec)] {{Webarchive|url=https://archive.today/20121208213211/http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&Search=Det&Include=Y&rid=1022 |date=2012-12-08 }}<br />[http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&Search=Det&Include=Y&rid=1035 Parliament of Canada Federal Riding History: NOTRE-DAME-DE-GRÂCE--LACHINE (Quebec)] {{Webarchive|url=https://wayback.archive-it.org/all/20121006085921/http://www.parl.gc.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Include=Y&Language=E&rid=1035&Search=Det |date=2012-10-06 }}</ref>
+|leader_title           = Mayor
+|leader_name            = John Belvedere
+|leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+|leader_name1           = [[Lac-Saint-Louis (electoral district)|Lac-Saint-Louis]]
+|leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+|leader_name2           = [[Jacques-Cartier (provincial electoral district)|Jacques-Cartier]]
+|area_footnotes         = <ref name="mamrot"/><ref name="cp2011">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2466097&Geo2=PR&Code2=24&Data=Count&SearchText=Pointe-Claire&SearchType=Begins&SearchPR=01&B1=All&Custom= 2011 Statistics Canada Census Profile: Pointe-Claire, Quebec]</ref>
+|area_magnitude         = 1 E8
+|area_total_km2         = 
+|area_land_km2          = 18.8
+|population_footnotes   = <ref name="census-2016">{{cite web|title=Census Profile, 2016 Census: Pointe-Claire, Ville [Census subdivision], Quebec and Quebec [Province]|url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2466097&Geo2=PR&Code2=24&Data=Count&SearchText=Pointe-Claire&SearchType=Begins&SearchPR=01&B1=All&Custom=|publisher=Statistics Canada|access-date=9 February 2017}}</ref>
+|population_total       = 31380
+|population_as_of       = [[2016 Canadian Census|2016]]
+|population_density_km2 = 1665.6
+|population_density_metro_km2 =
+|population_blank1_title = Pop&nbsp;<small>2011-2016</small>
+|population_blank1       = {{increase}} 1.9%
+|population_blank2_title = Dwellings
+|population_blank2       = 12375
+|timezone = [[Eastern Time Zone|EST]]
+|utc_offset             = −5
+|timezone_DST           = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST         = −4
+|postal_code_type       = [[Canadian postal code|Postal code(s)]]
+|postal_code            = [[List of H postal codes of Canada|H9R, H9S]]
+|area_code              = [[Area codes 514 and 438|514 and 438]]
+|blank_name             = Highways <br /> {{jct|state=QC|A|20}}
+|blank_info             =  <br /> '''{{jct|state=QC|TCH|40}}'''
+|website                = {{Official URL}}
+}}

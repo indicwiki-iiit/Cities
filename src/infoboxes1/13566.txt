@@ -1,0 +1,21 @@
+{{Infobox person <!-- For individuals; see Wikipedia:WikiProject_Musicians -->
+| name = Kazunari Ninomiya 
+| native_name         = 二宮 和也
+| native_name_lang    = ja
+| image = [[File:Kazunari Ninomiya.jpg]]
+| caption = Ninomiya in November 2019
+| other_names = Nino
+| birth_date = {{Birth date and age|1983|06|17}}
+| birth_place = [[Katsushika, Tokyo]], Japan
+| nationality = Japanese
+| occupation = {{hlist|Singer|actor|television presenter}}
+| years_active = 1996–present
+| website =
+| module = {{Infobox musical artist|embed=yes<!-- See Wikipedia:WikiProject Musicians -->
+| background = solo_singer
+| genre = [[J-pop]]
+| instrument = {{hlist|Vocals|guitar|piano}}
+| label = {{hlist|[[Pony Canyon]]|[[J Storm]]}}
+| associated_acts = [[Arashi]]
+}}
+}}

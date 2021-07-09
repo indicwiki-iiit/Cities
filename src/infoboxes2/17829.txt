@@ -1,0 +1,95 @@
+{{Infobox settlement
+|name = Arcata
+|native_name = Oket'oh
+|settlement_type = [[City (California)|City in California]]
+|nickname = 
+|motto = 
+|image_skyline = Arcata McKinley Statue Wide.jpg
+|image_caption = Arcata Plaza
+|image_flag = 
+|image_seal = Seal of the City of Arcata, California.jpg
+|image_shield = 
+|image_map = File:Humboldt County California Incorporated and Unincorporated areas Arcata Highlighted 0602476.svg
+|map_caption = Location within [[Humboldt County, California|Humboldt County]] in [[California]]
+|mapsize = 250x200px
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|pushpin_label            = Arcata
+|pushpin_map              = California#USA
+|pushpin_map_caption      = Location in California##Location in the [[United States]]
+|pushpin_relief = 1
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = [[United States]]
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Humboldt County, California|Humboldt]]
+<!-- History -------------->
+|established_title2 = [[Municipal corporation|Incorporated]]
+|established_date2 = February 2, 1858<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=April 7, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Government ----------->
+|government_type = [[Council–manager government|Council-Manager]]<ref name=govt>{{Cite web|url=http://www.cityofarcata.org/government |title=Government |publisher=City of Arcata |access-date=March 13, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150402181126/http://www.cityofarcata.org/government |archive-date=April 2, 2015 }}</ref>
+|leader_title = [[Mayor]]
+|leader_name = Sofia Pereira<ref>{{Cite web
+ |url=https://www.cityofarcata.org/433/Mayor-Sofia-Pereira
+ |access-date=June 16, 2021
+ |title=City Council
+ |publisher=City of Arcata}}</ref>
+|leader_title1 = [[City manager]]
+|leader_name1 = Karen Diemer<ref>{{Cite web
+ |url=http://www.cityofarcata.org/departments/city-manager 
+ |access-date=December 30, 2014 
+ |title=City Manager 
+ |publisher=City of Arcata 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20150109014743/http://www.cityofarcata.org/departments/city-manager 
+ |archive-date=January 9, 2015 
+}}</ref>
+|leader_title2 = 
+|leader_name2 = <!-- Area ----------------->
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 11.44
+| area_land_sq_mi         = 9.37
+| area_water_sq_mi        = 2.07
+| area_total_km2          = 29.63
+| area_land_km2           = 24.26
+| area_water_km2          = 5.37
+| area_water_percent      = 17.25
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0602476.html|title=Arcata (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 19, 2015|archive-url=https://web.archive.org/web/20160115144223/http://quickfacts.census.gov/qfd/states/06/0602476.html|archive-date=January 15, 2016|url-status=dead}}</ref>
+|population_total = 17231
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 18431
+|population_density_sq_mi = 1967.44
+|timezone = [[Pacific Time Zone]]
+|utc_offset = −8
+|timezone_DST = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST = −7
+|coordinates             = {{coord|40|52|5|N|124|5|26|W|region:US-CA|display=inline,title}}
+|elevation_footnotes = <ref>{{Cite GNIS|277471|Arcata}}</ref>
+|elevation_ft = 23
+|postal_code_type = [[ZIP code]]s
+|postal_code = 95518, 95521
+|area_code_type = [[North American Numbering Plan|Area code]]
+|area_code = [[Area code 707|707]]
+|website = {{URL|www.cityofarcata.org}}
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = {{FIPS|06|02476}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|277471}}, {{GNIS 4|2409723}}
+|footnotes = 
+|population_density_km2 = 759.67
+}}

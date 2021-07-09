@@ -1,0 +1,24 @@
+{{Infobox UK place
+|official_name = Aylesbury
+|country = England
+|region= South East England
+|static_image_name = Kingsbury Square Aylesbury Bucks.jpg
+|static_image_caption=Kingsbury, Aylesbury
+|static_image_2_name =	Aylesbury Clocktower.JPG
+|static_image_2_caption= [[Aylesbury Clock Tower]]
+| population = 58,740
+| population_ref =(2011)<ref name="census2011">{{NOMIS2011|id=1170212172|title=Aylesbury Parish|access-date=18 February 2018}}</ref><br /><br />
+Urban area 71,997<ref name="BUA">{{NOMIS2011|id=1119884987|title=Aylesbury Built-up area|access-date=18 February 2018}}</ref>
+(Former) Aylesbury Vale district 174,137<ref>{{NOMIS2011|id=1946157291|title=Aylesbury Vale Local Authority|access-date=18 February 2018}}</ref>
+|os_grid_reference = SP818138
+|coordinates = {{coord|51.8168|-0.8124|display=inline,title}}
+|post_town = AYLESBURY
+|postcode_area = HP
+|postcode_district = HP18-HP21
+|dial_code = 01296
+|constituency_westminster = [[Aylesbury (UK Parliament constituency)|Aylesbury]]
+|civil_parish = Aylesbury
+|london_distance = {{convert|36|mi}}
+|unitary_england     = [[Buckinghamshire Council|Buckinghamshire]]
+|lieutenancy_england = [[Buckinghamshire]]
+}}

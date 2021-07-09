@@ -1,0 +1,80 @@
+{{Infobox settlement
+|official_name            = Chestertown, Maryland
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "Historic colonial town on the Chester River"<ref>{{cite web|url= http://www.chestertown.com/|title=Chestertown, Maryland|publisher= Chestertown, Maryland |access-date=August 25, 2012}}</ref>
+
+<!-- Images -->
+|image_skyline            = HighSt ChestertownMD.jpg
+|imagesize                = 250px
+|image_caption            = High Street in Chestertown
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Kent_County_Maryland_Incorporated_and_Unincorporated_areas_Chestertown_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in Kent County and the U.S. state of Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map             = Maryland#USA
+| pushpin_label_position  = 
+| pushpin_label           = Chestertown
+| pushpin_map_caption     = Location within the U.S. state of Maryland
+
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Kent County, Maryland.gif}} [[Kent County, Maryland|Kent]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Christopher Cerino 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1805<ref>{{cite web|title=Chestertown|url=http://msa.maryland.gov/msa/mdmanual/37mun/chestertown/html/c.html|website=Maryland Manual|access-date=26 June 2017}}</ref>
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.51
+|area_land_km2            = 7.56
+|area_water_km2           = 0.95
+|area_total_sq_mi         = 3.29
+|area_land_sq_mi          = 2.92
+|area_water_sq_mi         = 0.37
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 5051
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 5252
+|population_density_km2   = 668.33
+|population_density_sq_mi = 1730.98
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 6
+|elevation_ft             = 20
+|coordinates              = {{coord|39|13|10|N|76|4|6|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 21620, 21690
+|area_code                = [[Area code 410|410]] and [[Area code 443|443]] (410 Exchanges: 556,778,810)
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-16225
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0589954
+|website                  = [http://www.chestertown.com/ Chestertown, Maryland]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

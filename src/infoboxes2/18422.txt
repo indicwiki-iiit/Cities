@@ -1,0 +1,52 @@
+{{Infobox airport
+| name = Seattle–Tacoma International Airport
+| image = FlySEA logo.svg
+| image-width = 
+| image2 = Seattle-Tacoma_Airport_Breidenstein-1.jpg
+| image2-width = 260
+| caption2 = Sea–Tac Airport in August 2012, looking north
+| IATA = SEA
+| ICAO = KSEA
+| FAA = SEA
+| WMO = 72793
+| type = Public
+| owner-oper = [[Port of Seattle]]
+| city-served = [[Seattle metropolitan area]]
+| location = [[SeaTac, Washington]], U.S.
+| opened = {{start date and age|df=y|1944}}
+| hub = *[[Alaska Airlines]]
+*[[Delta Air Lines]]
+<!-- Do not add Horizon Air and/or SkyWest here, they are flying under the Alaska brand -->
+| elevation-f = 433
+| elevation-m =<!--132-->
+| coordinates = {{coord|47|26|56|N|122|18|34|W|region:US-WA|display=inline,title}}
+| website = {{URL|http://flysea.org/|flysea.org}}
+| image_map = 00582AD.svg
+| image_mapsize = 220
+| image_map_caption = FAA diagram
+| pushpin_map = USA Washington#USA#North America
+| pushpin_mapsize = 250
+| pushpin_relief = yes
+| pushpin_label = '''SEA'''
+| pushpin_map_caption = Location in [[Washington (state)|Washington]]##Location in the [[United States]]##Location in [[North America]]
+| r1-number = 16L/34R
+| r1-length-f = 11,901
+| r1-length-m = 3,627
+| r1-surface = [[Concrete]]
+| r2-number = 16C/34C
+| r2-length-f = 9,426
+| r2-length-m = 2,873
+| r2-surface = [[Concrete]]
+| r3-number = 16R/34L
+| r3-length-f = 8,500
+| r3-length-m = 2,591
+| r3-surface = [[Concrete]]
+| stat-year = 2020
+| stat1-header = Passengers
+| stat1-data = 20,061,507
+| stat2-header = Aircraft movements
+| stat2-data = 296,048
+| stat3-header = Air cargo (metric tons)
+| stat3-data = 454,584
+| footnotes = Sources: [[Federal Aviation Administration|FAA]]<ref name=FAA>{{FAA-airport|ID=SEA|use=PU|own=PU|site=26395.*A}}, effective July 5, 2007.</ref> and airport website<ref>{{cite web | url = https://www.portseattle.org/Sea-Tac/Pages/default.aspx | title = Sea–Tac international airport | publisher = [[Port of Seattle]] | access-date = October 18, 2015 | archive-url = https://web.archive.org/web/20151017193044/http://www.portseattle.org/Sea-Tac/Pages/default.aspx | archive-date = October 17, 2015 | url-status = live }} (official site)</ref>
+}}

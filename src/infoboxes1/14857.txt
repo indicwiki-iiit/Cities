@@ -1,0 +1,48 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name                   = Punta Gorda 
+|official_name          = Punta Gorda Town
+|settlement_type        = Town
+|nickname               = P.G.
+|motto                  = 
+|image_skyline          = PGTOWNSQUARE.JPG
+|image_caption          = Punta Gorda Town Square
+|image_flag             = 
+|image_seal             = 
+|pushpin_map            = Belize
+|map_caption            = 
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{Flag|Belize}}
+|subdivision_type1      = [[Districts of Belize|District]]
+|subdivision_name1      = [[Toledo District|Toledo]]
+|subdivision_type2      = [[Constituencies of Belize|Constituency]]
+|subdivision_name2      = [[Toledo East]]
+|leader_title           = [[Mayor]]
+|leader_name            = Ashton Mckenzie [[United Democratic Party (Belize)|(UDP)]]
+|established_title      = Founded
+|established_date       = 1802
+|area_magnitude         = 
+|area_total_km2         = 
+|area_land_km2          = 
+|area_water_km2         = 
+|area_water_percent     = 
+|area_urban_km2         = 
+|population_as_of       = 2010
+|population_footnotes   = <ref name="census2010">{{cite web|title=Belize Population and Housing Census 2010|url=http://www.sib.org.bz/Portals/0/docs/publications/census/2010_Census_Report.pdf|publisher=Statistical Institute of Belize|date=2013|access-date=14 May 2016|url-status=dead|archive-url=https://web.archive.org/web/20160127084833/http://www.sib.org.bz/Portals/0/docs/publications/census/2010_Census_Report.pdf|archive-date=27 January 2016}}</ref>
+|population_total       = 5351
+|pop_est_as_of           =2016
+|pop_est_footnotes       =<ref name="est2015">{{cite web|title=Mid-Year Population Estimates by Area and Sex 2008 - 2015|url=http://www.sib.org.bz/Portals/0/Docs/Statistics/Population/Population-Estimates/Population%20Estimates%20by%20Major%20Administrative%20Areas%20and%20Sex,%202008%20to%202015.xlsx|publisher=Statistical Institute of Belize|access-date=14 May 2016}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|population_est          =6027
+|population_density_km2 = auto
+|population_urban       = 
+|timezone               = [[Central Time zone|Central]]
+|utc_offset             = -6
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|16.1005|N|88.8074|W|region:BZ|display=inline,title}}
+|elevation_m            = 4.5
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical rainforest climate|Af]]
+|website                = {{URL|{{#property:P856}}}}
+|footnotes              = 
+}}

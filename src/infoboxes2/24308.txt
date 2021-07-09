@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = East Aurora, New York
+|settlement_type          = [[Village (United States)|Village]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Aurora Town Hall - former Roycroft Chapel - Dec 2008 - 02.jpg
+|imagesize                = 
+|image_caption            = The former townhall of East Aurora's historic Roycroft campus
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Erie County New York incorporated and unincorporated areas East Aurora highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Erie County, New York|Erie County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Erie County, New York|Erie]]
+|subdivision_type3        = [[Town (New York)|Town]]
+|subdivision_name3        = [[Aurora, Erie County, New York|Aurora]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 6.53
+|area_land_km2            = 6.50
+|area_water_km2           = 0.03
+|area_total_sq_mi         = 2.52
+|area_land_sq_mi          = 2.51
+|area_water_sq_mi         = 0.01
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 6236
+|population_density_km2   = 947.05
+|population_density_sq_mi = 2453.21
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 280
+|elevation_ft             = 919
+|coordinates              = {{coord|42|46|1|N|78|37|2|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 14052
+|area_code                = [[Area code 716|716]], [[Area code 585|585]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-21589
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0948967
+|website                  = {{URL|www.east-aurora.ny.us}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 6160
+}}

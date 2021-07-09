@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+| name               = Newport Beach, California
+| settlement_type    = [[City (California)|City in California]]
+<!-- Images and maps ------>
+| image_skyline      = The City of Newport Beach July 2014 photo D Ramey Logan.jpg
+| image_caption      = Aerial view of Newport Beach in July 2014
+| image_flag         = Flag of Newport Beach, California.PNG
+| image_seal         = Seal of Newport Beach, California.png
+| image_map          = Orange_County_California_Incorporated_and_Unincorporated_areas_Newport_Beach_Highlighted.svg
+| mapsize            = 250x200px
+| map_caption        = Location within [[California]] and [[Orange County, California|Orange County]]
+<!-- Location ------------->
+| coordinates        = {{coord|33|37|0|N|117|53|51|W|region:US-CA|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = United States
+| subdivision_type1  = [[U.S. state|State]]
+| subdivision_name1  = [[California]]
+| subdivision_type2  = [[List of counties in California|County]]
+| subdivision_name2  = [[Orange County, California|Orange]]
+<!-- History -------------->
+| established_title  = [[Municipal corporation|Incorporated]]
+| established_date   = September 1, 1906<ref name="cityweb">{{cite web |url=http://www.city.newport-beach.ca.us/pio/citystats.asp |title=About the City of Newport Beach |publisher=City of Newport Beach, CA |access-date=July 29, 2008 |archive-url=https://web.archive.org/web/20080927050235/http://www.city.newport-beach.ca.us/pio/citystats.asp |archive-date=September 27, 2008}}</ref><ref name="felton">{{cite web |url=http://www.newport-beach.ca.us/nbpl/AboutNBPL/newport_beach_time_line.htm |title=Newport Beach Chronological Timeline |last=Felton |first=James P. |year=1988 |work=Newport Beach: The First Century, 1888–1988 |publisher=Newport Beach Historical Society |access-date=July 29, 2008 |archive-date=June 29, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090629202423/http://www.city.newport-beach.ca.us/nbpl/AboutNBPL/newport_beach_time_line.htm}} From a portion of that work reproduced on the City's Public Library web site.</ref>
+<!-- Government ----------->
+| government_type    = [[Mayor–council government|Mayor–council]]<ref name=manual/>
+| governing_body     = City of Newport Beach City Council
+| leader_title       = [[Mayor]]
+| leader_name        = Brad Avery<ref>{{cite web
+ | url = http://www.newportbeachca.gov/index.aspx?page=74
+ | title = City Council
+ | publisher = City of Newport Beach
+ | access-date = December 17, 2014}}</ref>
+<!-- Area ----------------->
+| unit_pref          = Imperial
+| area_footnotes     = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi   = 52.92
+| area_total_km2     = 137.07
+| area_land_sq_mi    = 23.79
+| area_land_km2      = 61.62
+| area_water_sq_mi   = 29.13
+| area_water_km2     = 75.45
+| area_water_percent = 55.07
+<!-- Elevation ------------>
+| elevation_footnotes = <ref>{{Cite GNIS|1661104|Newport Beach|access-date=November 7, 2014}}</ref>
+| elevation_ft             = 10
+| elevation_m              = 3
+<!-- Population ----------->
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0651182.html|title=Newport Beach (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 25, 2015|archive-url=https://www.webcitation.org/6ABLtZlUH?url=http://quickfacts.census.gov/qfd/states/06/0651182.html|archive-date=August 25, 2012|url-status=dead}}</ref>
+| population_total         = 85186
+| pop_est_as_of            = 2019
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 84534
+| population_rank          = [[List of largest California cities by population|98th]] in California
+| population_density_sq_mi = 3553.04
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = &minus;8
+| timezone_DST             = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+| postal_code_type = [[ZIP Code]]s
+| postal_code      = 92657–92663<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 7, 2014}}</ref>
+| area_code_type   = [[North American Numbering Plan|Area code]]
+| area_code        = [[Area code 949|949]]
+| blank_name       = [[Federal Information Processing Standard|FIPS]] code
+| blank_info       = {{FIPS|06|51182}}
+| blank1_name      = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info      = {{GNIS 4|1661104}}, {{GNIS 4|2411250}}
+| website          = {{URL|www.newportbeachca.gov|newportbeachca.gov}}
+| module                          = {{Infobox place symbols| embedded=yes
+ | region = Newport Beach
+ | tree   = [[Coral tree]]
+ | flower = [[Bougainvillea]]
+ }}
+|population_density_km2 = 1371.86
+}}

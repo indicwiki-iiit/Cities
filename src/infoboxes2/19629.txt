@@ -1,0 +1,86 @@
+{{Infobox country
+| conventional_long_name = Syrian Arab Republic
+| common_name = Syria
+| native_name = {{native name|ar|ٱلْجُمْهُورِيَّةُ ٱلْعَرَبِيَّةُ ٱلسُّورِيَّةُ}}
+| image_flag = Flag of Syria.svg
+| image_coat = Coat of arms of Syria.svg
+| national_anthem = حُمَاةَ الدِّيَارِ<br />''[[Humat ad-Diyar|Ḥumāt ad-Diyār]]''<br />{{small|("Guardians of the Homeland")}}<div style="display:inline-block;margin-top:0.4em;">{{center|[[File:National Anthem of Syria.ogg]]}}</div>
+| national_motto = وَحْدَةٌ ، حُرِّيَّةٌ ، اِشْتِرَاكِيَّةٌ<br />''[[List of national mottos#S|Waḥdah, Ḥurrīyah, Ishtirākīyah]]''<br />{{small|("Unity, Freedom, Socialism")}}
+| image_map = {{Switcher|[[File:Syria (orthographic projection).svg|frameless]]<br /> {{map caption |location_color=green}}|Show globe|[[File:Syria - Location Map (2013) - SYR - UNOCHA.svg|upright=1.15|frameless]]|Show map of Syria|default=1}}
+| capital = [[Damascus]]
+| coordinates = {{Coord|33|30|N|36|18|E|type:city}}
+| largest_city = [[Damascus]]
+| official_languages = [[Modern Standard Arabic|Arabic]]<ref>{{cite web |title=Constitution of the Syrian Arab Republic - 2012 |url=https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/91436/106031/F-931434246/constitution2.pdf |website=International Labour Organization |publisher=International Labour Organization |access-date=31 August 2020}}</ref>
+| ethnic_groups = 90% [[Arabs|Arab]]<br>10% [[Demographics of Syria|Other]]
+| religion = 87% [[Islam in Syria|Islam]]<br />10% [[Christianity in Syria|Christianity]]<ref name=CIA>{{cite web | url=https://www.cia.gov/the-world-factbook/countries/syria/ | title=Syria | work=The World Factbook |publisher=Central Intelligence Agency | access-date=7 April 2021}}</ref><br />3% [[Druze in Syria|Druze]]<ref>{{Cite web|url=http://gulf2000.columbia.edu/images/maps/Syria_Ethnic_Shift_2010-2018_lg.png|year=2018|title=Syria: Ethnic Shift, 2010–mid 2018|website=gulf2000.columbia.edu|publisher=Columbia University Gulf2000|access-date=2 June 2019}}</ref>
+| government_type = <!-- NOTICE: Please don't change it to a single-party state, because in 2012 a new Constitution was approved, allowing more parties to participate in elections and other events. -->{{nowrap|[[Unitary state|Unitary]] [[dominant-party system|dominant-party]]}} [[Semi-presidential system|semi-presidential]] [[Ba'athism|Ba’athist]] [[republic]] under an [[authoritarian]] [[hereditary dictatorship]]  <ref>{{cite web |url=https://www.scribd.com/doc/81771718/Qordoba-Translation-of-the-Syrian-Constitution-Modifications-15-2-2012 |title=Constitution of Syria 2012 |publisher=Scribd |date=15 February 2012 |access-date=25 January 2013 }}</ref>
+| leader_title1 = [[President of Syria|President]]
+| leader_name1 = [[Bashar al-Assad]]
+| leader_title2 = [[Prime Minister of Syria|Prime Minister]]
+| leader_name2 = [[Hussein Arnous]]
+| leader_title3 = [[Vice President of Syria|Vice Presidents]]
+| leader_name3 = {{vunblist|class=nowrap|[[Farouk al-Sharaa]]|[[Najah al-Attar]]}}
+| leader_title4 = [[Speaker of the People's Council of Syria|Speaker of the People's Council]]
+| leader_name4 = [[Hammouda Sabbagh]]
+| legislature = [[People's Council of Syria|People's Council]]
+| established_event1 = [[Arab Kingdom of Syria]]
+| established_date1 = 8 March 1920
+| established_event2 = [[State of Syria]] under [[Mandate for Syria and the Lebanon|French mandate]]
+| established_date2 = 1 December 1924
+| established_event3 = [[Mandatory Syrian Republic|Syrian Republic]]
+| established_date3 = 14 May 1930
+| established_event4 = ''De jure'' Independence
+| established_date4 = 24 October 1945
+| established_event5 = ''De facto'' [[Independent First Syrian Republic|Independence]]
+| established_date5 = 17 April 1946
+| established_event6 = Left the [[United Arab Republic]]
+| established_date6 = {{nowrap|28 September 1961}}
+| established_event7 = {{nowrap|[[Ba'ath party]] [[1963 Syrian coup d'état|takes power]]}}
+| established_date7 = 8 March 1963
+| established_event8 = [[Constitution of Syria|Current constitution]]
+| established_date8 = 27 February 2012
+| area_km2 = 185180<ref>{{cite web |url=http://www.mofa.gov.sy/cweb/MOEX_NEW/syria/Overview.htm|archive-url=https://web.archive.org/web/20120511155611/http://mofa.gov.sy/cweb/MOEX_NEW/syria/Overview.htm|url-status=dead|archive-date=2012-05-11|title= Syrian ministry of foreign affairs}}</ref>
+| area_rank = 87th <!-- Area rank should match [[List of countries and dependencies by area]]-->
+| area_sq_mi = 71479 <!-- Do not remove per [[WP:MOSNUM]] -->
+| percent_water = 1.1
+| population_estimate = 17,500,657
+| population_census = 21,018,834
+| population_estimate_year = 2020
+| population_estimate_rank = 66th
+| population_census_year = 2010
+| population_density_km2 = 118.3
+| population_density_sq_mi = 306.5 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 70th
+| GDP_PPP = {{nowrap|$50.28 billion<ref name=CIA /><!--end nowrap:-->}}
+| GDP_PPP_year = 2015
+| GDP_PPP_rank = 
+| GDP_PPP_per_capita = $2,900<ref name="CIA" />
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal = {{nowrap|$24.6 billion<ref name="CIA" />}}
+| GDP_nominal_year = 2014
+| GDP_nominal_rank = 167
+| GDP_nominal_per_capita = $831<ref name="CIA" />
+| GDP_nominal_per_capita_rank = 
+| Gini = 55.8 <!-- number only -->
+| Gini_year = 2014
+| Gini_change = <! --increase/decrease/steady -->
+| Gini_ref = <ref>{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=World Bank GINI index |publisher= World Bank |access-date=22 January 2013}}</ref>
+| Gini_rank = 
+| HDI = 0.567 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year -->
+| HDI_change = increase <!-- increase/decrease/steady -->
+| HDI_ref = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 151st
+| currency = [[Syrian pound]]
+| currency_code = SYP
+| time_zone = [[Eastern European Time|EET]]
+| utc_offset = +2
+| utc_offset_DST = +3
+| time_zone_DST = [[Eastern European Summer Time|EEST]]
+| drives_on = right
+| calling_code = [[Telephone numbers in Syria|+963]]
+| iso3166code = SY
+| cctld = [[.sy]]<br />[[سوريا.]]
+| demonym = Syrian
+| today = 
+|ethnic_groups_year=2014<ref>https://web.archive.org/web/20140624032324/https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</ref>}}

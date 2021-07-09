@@ -1,0 +1,58 @@
+{{Infobox settlement
+| name                    = Moravský Krumlov
+| native_name             = 
+| other_name              = 
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Moravský Krumlov - panorama od kaple svatého Floriána obr1.jpg
+| image_caption           = Historical centre
+| image_flag              = Moravský Krumlov - vlajka.jpg
+| image_shield            = Coat of Arms of Moravský Krumlov.jpg
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[South Moravian Region|South Moravian]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Znojmo District|Znojmo]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic 
+| coordinates             = {{coord|49|2|40|N|16|18|35|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Tomáš Třetina
+| leader_party            = [[TOP 09]]
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1289
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 49.56 
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 255
+<!-- population -->
+| population_as_of        = 2020-01-01<ref>{{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=2020-04-30}}</ref>
+| population_footnotes    = 
+| population_total        = 5715
+| population_density_km2  = auto 
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 672 01
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|https://www.mkrumlov.cz/}}
+| footnotes               = 
+}}

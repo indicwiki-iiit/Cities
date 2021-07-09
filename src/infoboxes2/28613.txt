@@ -1,0 +1,38 @@
+{{Infobox Australian place | type = town
+| name     = Boulia
+| state    = qld
+| image    = Boulia-outback-queensland-australia.jpg
+| caption  = Entry into Boulia
+| lga      = [[Shire of Boulia|Boulia]]
+| postcode = 4829
+| est      = 1879
+| elevation= 161.8
+| coordinates         = {{coord|-22.9097|139.9066|type:city_region:AU-QLD|display=inline,title}}
+| pop                 = 301
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| area                = 155.1
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| maxtemp  = 31.7
+| mintemp  = 16.6
+| rainfall = 264.3
+| stategov = [[Electoral district of Gregory|Gregory]]
+| fedgov   = [[Division of Kennedy|Kennedy]]
+| dist1    = 1721
+| location1= [[Brisbane]]
+| dist2    = 289
+| location2= [[Mount Isa]]
+| dist3    = 363
+| location3= [[Winton, Queensland|Winton]]
+| dist4    = 812
+| location4= [[Alice Springs]], ([[Northern Territory|N.T.]])
+| near-n              = [[Wills, Queensland|Wills]]
+| near-ne             = [[Wills, Queensland|Wills]]
+| near-e              = [[Wills, Queensland|Wills]]
+| near-se             = [[Wills, Queensland|Wills]]
+| near-s              = [[Wills, Queensland|Wills]]
+| near-sw             = [[Wills, Queensland|Wills]]
+| near-w              = [[Wills, Queensland|Wills]]
+| near-nw             = [[Wills, Queensland|Wills]]
+}}

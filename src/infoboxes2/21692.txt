@@ -1,0 +1,27 @@
+{{Infobox settlement
+|official_name          = Mariestad
+|image_skyline          = Mariestadskyline.JPG
+|image_caption          = Mariestad
+|pushpin_map            = Sweden Västra Götaland#Sweden
+|pushpin_label_position = 
+|subdivision_type       = [[Country]]
+|subdivision_name       = [[Sweden]]
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Mariestad Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Västra Götaland County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Västergötland]]
+|area_footnotes         = <ref name=scb>{{cite web |url=https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0810__MI0810A/LandarealTatortN/ |title=Folkmängd och landareal i tätorter, per tätort. Vart femte år 1960 - 2019 |date=24 March 2020 |publisher=[[Statistics Sweden]] |language=sv  |access-date=13 December 2020}}</ref>
+|area_total_km2         = 11.76
+|population_as_of       = 31 December 2019
+|population_footnotes   = <ref name=scb />
+|population_total       = 16,611 <!-- This is the official figure from Statistics Sweden (Statistiska centralbyrån). -->
+|population_density_km2 = 1,413
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|58|42|N|13|49|E|region:SE|display=inline,title}}
+|website                = 
+}}

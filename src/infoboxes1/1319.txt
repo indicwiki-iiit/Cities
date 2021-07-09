@@ -1,0 +1,55 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| official_name                   = Réunion
+| native_name                     = {{native name|fr|La Réunion|}}
+| native_name_lang                = fr
+| settlement_type                 = [[Overseas France|Overseas]] [[department of France|department]] and [[region of France|region]]
+| image_skyline                   = Saint-Denis @ La Réunion.jpg
+| image_caption                   = Capital of [[Saint-Denis, Réunion|Saint-Denis]]
+| image_flag                      = 
+| flag_size                       = 120px
+| image_shield                    = Armoiries Réunion.svg
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_size               = 75px
+| image_map                       = Département 974 in France (zoom).svg
+| map_caption                     = 
+| motto                           = ''[[Florebo quocumque ferar]]''<br/>(''I will flourish wherever I am brought'')
+| anthem                          = 
+| coordinates                     = {{Coord|21|06|52|S|55|31|57|E|region:RE_type:adm1st_scale:500000|display=ti}}
+| subdivision_type                = Country
+| subdivision_name                = {{flagu|France}}
+| seat_type                       = [[Prefectures in France|Prefecture]]
+| seat                            = [[Saint-Denis, Réunion|Saint-Denis]]
+| parts_type                      = [[Departments of France|Departments]]
+| parts_style                     = list
+| parts                           = 1
+| leader_party                    = 
+| leader_title                    = [[List of Presidents of the Regional Council of Réunion|President of Regional Council]]
+| leader_name                     = [[Didier Robert]] ([[The Republicans (France)|LR]])
+| area_footnotes                  = 
+| area_total_km2                  = 2511
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_rank                       = 15th region
+| population_footnotes            = <ref name=pop>{{cite web| url=https://www.insee.fr/fr/statistiques/fichier/1893198/estim-pop-nreg-sexe-gca-1975-2021.xls | title=Estimation de population par région, sexe et grande classe d'âge – Années 1975 à 2021| author=INSEE| access-date=2021-03-22|language=fr| author-link=INSEE}}</ref>
+| population_total                = 858,450
+| population_as_of                = January 2021
+| population_density_km2          = auto
+| population_demonym              = Réunionese
+| timezone1                       = RET
+| utc_offset1                     = +04:00
+| timezone1_DST                   = 
+| utc_offset1_DST                 = 
+| blank_name_sec1                 = [[Gross domestic product|GDP]] ([[nominal GDP|nominal]])&nbsp;(2019)<ref name="GDP">{{cite web | url=https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=nama_10r_2gdp&lang=en | title=Gross domestic product (GDP) at current market prices by NUTS 2 regions | publisher=[[Eurostat]]|access-date=2021-03-22}}</ref>
+| blank_info_sec1                 = [[List of French regions and overseas collectivities by GDP|Ranked 13th]]
+| blank1_name_sec1                = Total
+| blank1_info_sec1                = €19.7 billion (US$22.0 bn)
+| blank2_name_sec1                = Per capita
+| blank2_info_sec1                = €22,970 (US$25,720)
+| blank_name_sec2                 = [[First level NUTS of the European Union#France|NUTS Region]]
+| blank_info_sec2                 = FRY4
+| website                         = [http://www.reunion.pref.gouv.fr/ Prefecture]<br/>[http://www.regionreunion.com Regional Council]<br/>[http://www.cg974.fr/ Departmental Council]
+| iso_code                        = {{hlist|[[ISO 3166-2:RE|RE]]|[[ISO 3166-2:FR|FR-RE]]}}
+| footnotes                       = 
+| name                            = 
+}}

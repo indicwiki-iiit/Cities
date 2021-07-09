@@ -1,0 +1,120 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                     = West Melbourne, Florida
+|official_name            = City of West Melbourne
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = "Creating New Horizons"<ref name=Inviting_Citizens>City of West Melbourne.  "Inviting All Citizens", ''The Sun Newsletter'', Vol. 4, Issue 1, First Quarter 2008, 2.  West Melbourne received the motto "Creating New Horizons" in 1987.</ref>
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = Flag of West Melbourne, Florida.png
+|flag_size                = 
+|image_seal               = Seal of West Melbourne, Florida.png
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Brevard_County_Florida_Incorporated_and_Unincorporated_areas_West_Melbourne_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Brevard County, Florida|Brevard County]] and the U.S. state of [[Florida]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States of America}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Florida}}
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = {{flagicon image|Flag of Brevard County, Florida.png}} [[Brevard County, Florida|Brevard]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = <!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = Hal J. Rose
+|leader_title1            = [[City Manager]]
+|leader_name1             = <nowiki>Scott Morgan</nowiki>
+|leader_title2            = [[Deputy Mayor]]
+|leader_name2             = John Dittmore
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = Created
+|established_date3        = September 11, 1959<ref name=Inviting_Citizens/>
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 28.03
+|area_land_km2            = 27.50
+|area_water_km2           = 0.53
+|area_total_sq_mi         = 10.82
+|area_land_sq_mi          = 10.62
+|area_water_sq_mi         = 0.20
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010">{{Cite web| url=https://www.census.gov| title=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data (DP-1): West Melbourne city, Florida| publisher=[[United States Census Bureau]]| access-date=January 30, 2012}}</ref>
+|population_note          = [[United States Census Bureau|Census Bureau estimate]]
+|population_total         = 18355
+|population_density_km2   = 882.20
+|population_density_sq_mi = 2284.92
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = <!-- General information  --------------->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|28|4|40|N|80|39|55|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 9
+|elevation_ft             = 30
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 32904, 32912
+|area_code                = [[Area code 321|321]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-76500<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0293092<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.westmelbourne.org/|www.WestMelbourne.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 24259
+}}

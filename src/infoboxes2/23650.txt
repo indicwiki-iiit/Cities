@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+  | name                     = Soquel
+  | settlement_type          = [[Census-designated place]]
+  | other_name               = 
+  | native_name              = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->
+  | image_skyline            = Soquel, California January 5, 2007.jpg
+  | image_caption            = Soquel as seen from a hilltop in [[Anna Jean Cummings Park]]
+  | nickname                 = 
+  | image_map                = Santa_Cruz_County_California_Incorporated_and_Unincorporated_areas_Soquel_Highlighted.svg
+  | mapsize                  = 250x200px
+  | map_caption              = Location in [[Santa Cruz County, California|Santa Cruz County]] and the state of [[California]]
+  | pushpin_map              = USA
+  | pushpin_map_caption      = Location in the United States
+  | pushpin_relief           = 1
+<!-- Location ------------------>
+  | coordinates              = {{coord|36|59|13|N|121|56|44|W|region:US_type:city|display=inline,title}}
+  | subdivision_type         = [[List of sovereign states|Country]]
+  | subdivision_name         = United States
+  | subdivision_type1        = [[U.S. state|State]]
+  | subdivision_name1        = [[California]]
+  | subdivision_type2        = [[List of counties in California|County]]
+  | subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+<!-- Politics ----------------->
+  | government_type          = 
+  | leader_title             = 
+  | leader_name              = 
+  | leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+  | leader_name1             = 
+  | established_title        = <!-- Founded -->
+  | established_date         = 
+<!-- Area------------------>
+  | unit_pref                = US
+  | area_footnotes           = <ref>{{Cite web
+    | url = http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_06.txt
+    | publisher = [[United States Census Bureau]]
+    | access-date = March 26, 2015
+    | title = 2010 Census Gazetteer Files – Places – California}}</ref>
+  | area_total_sq_mi         = 4.598
+  | area_total_km2           = 11.909
+  | area_land_sq_mi          = 4.598
+  | area_land_km2            = 11.909
+  | area_water_sq_mi         = 0
+  | area_water_km2           = 0
+  | area_water_percent       = 0
+  | area_metro_km2           = 
+  | area_metro_sq_mi         =
+  | elevation_footnotes      = <ref>{{Cite GNIS|1659817|Soquel|accessdate=January 12, 2015}}</ref>
+  | elevation_ft             = 33
+  | elevation_m              = 10
+<!-- Population   ----------------------->
+  | population_as_of         = 2010
+  | population_footnotes     = 
+  | population_total         = 9644
+  | population_density_sq_mi = auto
+  | population_metro         = 
+  | population_density_metro_sq_mi   = 
+  | population_density_metro_km2     = 
+<!-- General information  --------------->
+  | timezone                 = [[Pacific Time Zone|Pacific]]
+  | utc_offset               = -8
+  | timezone_DST             = [[Pacific Daylight Time|PDT]]
+  | utc_offset_DST           = -7
+<!-- Area/postal codes & others -------->
+  | postal_code_type         = [[ZIP code]]
+  | postal_code              = 95073
+  | area_code_type           = [[North American Numbering Plan|Area code]]
+  | area_code                = [[Area code 831|831]]
+  | blank_name               = [[Federal Information Processing Standard|FIPS]] code
+  | blank_info               = {{FIPS|06|72688}}
+  | blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+  | blank1_info              = {{GNIS 4|1659817}}, {{GNIS 4|2408757}}
+}}

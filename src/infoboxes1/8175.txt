@@ -1,0 +1,29 @@
+{{Infobox station
+| name        ={{SBSN|SI|26|size=50}}<br />Hannō Station
+| native_name = 飯能駅
+| native_name_lang = ja
+| type        = 
+| image       = Hanno-Sta-S.JPG
+| alt         = 
+| caption     = Hannō Station south exit in June 2010
+| other_name  = 
+| address     = 11-21 Nakachō, Hannō-shi, Saitama-ken 357-0035
+| country     = Japan
+| coordinates = {{coord|35.8515|N|139.3184|E|type:railwaystation_region:JP|display=inline, title|format=dms}}
+| operator    = [[File:SeibuRailway mark.svg|18px]] [[Seibu Railway]]
+| line        = [[File:SeibuIkebukuro.svg|18px|SI]] [[Seibu Ikebukuro Line]]
+| distance    = 43.7 km from {{STN|Ikebukuro}}
+| platforms   =  1 side + 2 island platforms
+| tracks      = 
+| connections = Bus stop
+| structure   = 
+| code        = SI26
+| opened      = 15 April 1915
+| closed      = 
+| former      =  
+| passengers  = 32,929 daily
+| pass_year   = FY2019
+| map_type    = Japan Saitama Prefecture
+| map_dot_label = Hannō Station
+| services    = 
+}}

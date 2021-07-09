@@ -1,0 +1,59 @@
+{{Infobox settlement
+| official_name            = Rexburg, Idaho
+| settlement_type          = [[City]]
+<!-- Images -->
+| image_flag               = 
+| image_seal               = 
+| nickname                 = 
+| motto                    = "America's Family Community"<ref>{{cite web|url= http://www.rexburg.org/ |title= City of Rexburg, Idaho|publisher= City of Rexburg, Idaho|access-date= September 2, 2012}}</ref>
+| image_map                = File:Madison County Idaho Incorporated and Unincorporated areas Rexburg Highlighted 1667420.svg
+| mapsize                  = 250px
+| map_caption              = Location of Rexburg in Madison County, Idaho.
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the United States
+| coordinates              = {{coord|43|49|34|N|111|47|02|W|region:US-ID_type:city|display=inline,title}}
+<!-- Location -->
+| subdivision_type = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|County]]
+| subdivision_name2        = [[Madison County, Idaho|Madison]]
+| established_title        = 
+| established_date         = 
+| government_type          = 
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_sq_mi         = 10.10
+| area_land_sq_mi          = 10.01
+| area_water_sq_mi         = 0.09
+| elevation_footnotes      = 
+| elevation_ft             = 4865
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 25484
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 29400
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 2937.06
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+|utc_offset_DST = &minus;6
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 83440, 83441, 83460
+| area_code                = [[Area codes 208 and 986|208, 986]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-67420
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0374648
+| website                  = {{URL|http://www.rexburg.org}}
+|area_total_km2 = 26.15
+|area_land_km2 = 25.93
+|area_water_km2 = 0.23
+|population_density_km2 = 1134.01
+}}

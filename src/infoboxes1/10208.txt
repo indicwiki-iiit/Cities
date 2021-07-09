@@ -1,0 +1,39 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type = District 
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{Flag|Turkey}}
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|map_caption =Location of Kumluca within Turkey.
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+
+ |official_name = Kumluca
+ |image_skyline = Kumluca.JPG
+ |image_caption = Aerial view
+ |image_blank_emblem = 
+ |blank_emblem_type = 
+ |image_map = Antalya districts.png
+ |
+ subdivision_type1=[[Regions of Turkey|Region]]|
+subdivision_name1 = Mediterranean
+ |subdivision_type2=[[Provinces of Turkey|Province]]|
+subdivision_name2 = Antalya
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Antalya|Kumluca}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Antalya}}
+| population_urban        = {{Turkey district populations|Antalya|Kumluca|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Antalya|Kumluca|toplam}}
+| population_density_blank1_km2  = auto
+|elevation_m = 15
+| pushpin_map             = Turkey
+|coordinates             = {{coord|36|22|N|30|17|E|region:TR|display=inline,title}}
+|area_code = +90 242
+ |postal_code = 07350
+ |leader_title = Mayor
+ |leader_name = Mustafa Köleoğlu ([[Republican People's Party (Turkey)|CHP]]) 
+ |website = http://www.kumluca-bld.gov.tr/
+}}

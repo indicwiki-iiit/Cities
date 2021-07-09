@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Uzunköprü
+| image_skyline                   = Uzunköprü (2).jpg
+| image_caption                   = Market place (Çarşı meydanı) in Uzunköprü.
+| image_shield                    = 
+| pushpin_map                     = Turkey#Turkey Marmara#Europe
+| coordinates                     = {{coord|41|16|01|N|26|41|15|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{Flag|Turkey}}
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Edirne Province|Edirne]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Republican People's Party (Turkey)|CHP]]
+| leader_title                    = Mayor
+| leader_name                     = Enis İşbilen
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Kemal Yıldız
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Edirne|Uzunköprü}}
+| elevation_m                     = 10
+| population_urban                = 19.230
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = 42.255
+| population_density_blank1_km2   = auto
+| postal_code_type                = 
+| postal_code                     = 22300
+| website                         = {{URL| www.uzunkopru.bel.tr | www.uzunkopru.bel.tr }}
+| population_total                = 61.485
+| official_name                   = 
+}}

@@ -1,0 +1,23 @@
+{{Infobox UK place 
+|country                  = Scotland
+|official_name            = Nairn
+|gaelic_name              = Inbhir Narann
+|unitary_scotland         = [[Highland (council area)|Highland]]
+|lieutenancy_scotland     = [[Nairn (boundaries)|Nairn]]    
+|coordinates              = {{coord|57.586|-3.869|display=inline,title}}
+| population = {{Scottish locality populations|name|POP=Nairn}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|constituency_westminster = [[Inverness, Nairn, Badenoch and Strathspey (UK Parliament constituency)|Inverness, Nairn, Badenoch and Strathspey]]
+|constituency_scottish_parliament= [[Inverness and Nairn (Scottish Parliament constituency)|Inverness and Nairn]]
+|historic_county = [[Nairnshire]]
+|post_town                = NAIRN
+|map_type=Scotland Inverness area
+|postcode_area            = IV
+|postcode_district        = IV12
+|dial_code                = 01667
+|os_grid_reference        = NH887563 
+|static_image_name        = Scotland Nairn Church.jpg
+|static_image_caption     = St Ninian's Church in Nairn
+|edinburgh_distance_mi    = 116
+|london_distance_mi       = 446
+}}

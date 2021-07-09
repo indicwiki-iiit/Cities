@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Concón
+| native_name             = 
+| native_name_lang        = es
+| settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]]
+| image_skyline           = Playa Concón.JPG
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Flag of Concón, Chile.svg
+| flag_alt                = Flag
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = Escudo de Concón.svg
+| shield_alt              = Coat of arms
+| image_map               = Comuna de Concón.svg
+| map_alt                 = Map of the Concón commune in the Valparaíso Region
+| map_caption             = 
+| pushpin_map             = Chile
+| pushpin_map_narrow = yes
+| pushpin_label_position  =
+| pushpin_map_alt         = location Chile
+| pushpin_map_caption     = Location in Chile
+| coor_pinpoint           = city
+| coordinates_footnotes   =
+| coordinates             = {{coord|32|55|S|71|31|W|region:CL-VL|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Chile]]
+| subdivision_type1       = [[Regions of Chile|Region]]
+| subdivision_name1       = [[Valparaíso Region|Valparaíso]]
+| subdivision_type2       = [[Provinces of Chile|Province]]
+| subdivision_name2       = [[Valparaíso Province|Valparaíso]]
+| established_title       = Founded
+| established_date        = 28 December 1995
+| founder                 = 
+| named_for               = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = <ref name="Official">{{Citation |url=http://www.e-casablanca.cl/webcb/ |title=Municipality of Concón |accessdate=15 November 2010 |language=es |url-status=dead |archiveurl=https://web.archive.org/web/20100912000303/http://www.e-casablanca.cl/webcb/ |archivedate=12 September 2010 }}</ref>
+| government_type         = [[Municipality]]
+| leader_party            = [[Independent politician|Ind]]
+| leader_title            = [[Alcalde]]
+| leader_name             = Óscar Sumonte González
+| area_as_of              = 
+| unit_pref               = Metric
+| area_footnotes          = <ref name="INE">{{Cite web |url= http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title= National Statistics Institute |accessdate=1 May 2010|language=es}}</ref>
+| area_total_km2          = 76.0
+| area_note               = 
+| elevation_footnotes     = 
+| elevation_m             = 27
+| population_footnotes    = <ref name="INE"/>
+| population_total        = 37169
+| population_as_of        = 2012 Census
+| population_density_km2  = auto
+| population_demonym      = ''Conconino''
+| population_note         = 
+| population_blank1_title = [[Urban area|Urban]]
+| population_blank1       = 31558
+| population_blank2_title = [[Rural area|Rural]]
+| population_blank2       = 715
+| demographics_type1      = Sex
+| demographics1_footnotes = <ref name="INE"/>
+| demographics1_title1    = Men
+| demographics1_info1     = 15,713
+| demographics1_title2    = Women
+| demographics1_info2     = 16,560
+| timezone = [[Time in Chile|CLT]]<ref>{{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate=6 August 2010 |title=Chile Time |publisher=WorldTimeZones.org |url-status=dead |archiveurl=https://web.archive.org/web/20070911130719/http://www.world-time-zones.org/zones/chile-time.htm |archivedate=11 September 2007 }}</ref>
+| utc_offset = -4
+| timezone_DST = [[Time in Chile|CLST]]<ref>{{cite web
+ |url=http://www.world-time-zones.org/zones/chile-summer-time.htm 
+ |accessdate=6 August 2010 
+ |title=Chile Summer Time 
+ |publisher=WorldTimeZones.org 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm 
+ |archivedate=11 September 2007 
+}}</ref>
+| utc_offset_DST = -3
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = ''country'' 56 + ''city'' 32
+| website                 = [http://www.concon.cl Official website] {{in lang|es}}
+| footnotes               = 
+}}

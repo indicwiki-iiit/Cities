@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = West Puente Valley
+|settlement_type          = [[census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas West Puente Valley highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of West Puente Valley in [[Los Angeles County, California|Los Angeles County]], [[California]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|area_magnitude           =
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 1.762
+| area_land_sq_mi         = 1.761
+| area_water_sq_mi        = 0.001
+| area_total_km2          = 4.564
+| area_land_km2           = 4.562
+| area_water_km2          = 0.002
+| area_water_percent      = 0.05
+| area_note               =
+
+<!-- Population -->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 22636
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 98
+|elevation_ft             = 322
+|coordinates              = {{coord|34|3|3|N|117|58|11|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 91746
+|area_code                = [[Area code 626|626]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-84774
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1867073
+|website                  = 
+|footnotes                = 
+}}

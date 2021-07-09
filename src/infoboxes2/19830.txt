@@ -1,0 +1,71 @@
+{{Infobox settlement
+|name                   = Easley, South Carolina
+|official_name          = City of Easley
+|settlement_type        = [[City]]
+|other_name             = 
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|motto                  = Time Well Spent
+|image_skyline          = EasleySCMon.png
+|imagesize             = 300px
+|image_caption          = Top, left to right: Downtown Easley, [[Norfolk Southern Railway]], [[Easley Mill]], Easley water tower, Easley City Hall
+|image_seal             = Easleyseal.png
+|image_map              = 
+|map_caption            = 
+|pushpin_map            = South Carolina<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Easley in South Carolina
+| subdivision_type = Country
+|subdivision_name       = {{flag|United States}}
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = {{flag|South Carolina}}
+|subdivision_type2      = [[List of counties in South Carolina|Counties]]
+|subdivision_name2      = [[Pickens County, South Carolina|Pickens]], partially [[Anderson County, South Carolina|Anderson]] 
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = Mayor<ref name="mayorandothers">{{cite web|url=http://upstatelife.com/easley/reps.htm|date=2007-05-06|title=Your Government Representatives|access-date=2007-05-06|archive-url=https://web.archive.org/web/20070813152206/http://www.upstatelife.com/easley/reps.htm|archive-date=2007-08-13|url-status=dead}}</ref>
+|leader_name            = Butch Womack
+|leader_title1          = Police Chief
+|leader_name1           = Tim Tollison
+|leader_title2          = Fire Chief
+|leader_name2           = Butch Womack
+|established_title      = Established
+|established_date       = 1874
+|established_title2     = Incorporated
+|established_date2      = 1901
+|area_magnitude         = 
+|unit_pref              = Imperial
+|area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+|area_total_km2         = 32.83
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2          = 32.78
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 0.05
+|area_water_percent     = 
+|population_as_of       = [[2010 United States Census|2010]]
+|population_total       = 19993
+|population_density_km2 = 651.77
+|timezone               = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST           = EDT
+|utc_offset_DST = &minus;4
+|coordinates            = {{coord|34|49|24|N|82|35|25|W|region:US-SC_type:city|display=inline,title}}
+|elevation_footnotes    = <!--for references: use<ref> </ref>  tags-->
+|elevation_ft           = 1079
+|postal_code_type       = [[ZIP code]]s
+|postal_code            = 29640-29642
+|area_code              = [[Area code 864|864]]
+|blank_name             = [[Federal Information Processing Standard|FIPS code]]
+|blank_info             = 45-21985
+|blank1_name            = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info            = 1247594<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                = {{URL|http://www.cityofeasley.com}}
+|footnotes              = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 21364
+|area_total_sq_mi = 12.68
+|area_land_sq_mi = 12.66
+|area_water_sq_mi = 0.02
+|population_density_sq_mi = 1688.05
+}}

@@ -1,0 +1,77 @@
+{{Infobox settlement
+|name                     = Portales, New Mexico
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = Roosevelt County Court House.jpg
+|imagesize                = 
+|image_caption            = [[Roosevelt County Courthouse (New Mexico)|Roosevelt County Courthouse]] in Portales
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = Roosevelt_County_New_Mexico_Incorporated_and_Unincorporated_areas_Portales_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Portales, New Mexico
+|image_map1               = 
+|mapsize1                 =  
+|map_caption1             = 
+| pushpin_map = New Mexico#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_label           = Portales
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Mexico}}
+|subdivision_type2        = [[List of counties in New Mexico|County]]
+|subdivision_name2        = [[Roosevelt County, New Mexico|Roosevelt]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_35.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 20.58
+|area_land_km2            = 20.57
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 7.95
+|area_land_sq_mi          = 7.94
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 12280
+|population_density_km2   = 564.29
+|population_density_sq_mi = 1461.48
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = −07:00
+|timezone_DST             = MDT
+| utc_offset_DST = −06:00
+|elevation_footnotes      = 
+|elevation_m              = 1221
+|elevation_ft             = 4006
+|coordinates              = {{coord|34|10|56|N|103|20|19|W|region:US-NM_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 88123, 88130
+|area_code                = [[Area code 575|575]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 35-59260
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0893416
+|website                  = [http://www.portalesnm.org portalesnm.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11610
+}}

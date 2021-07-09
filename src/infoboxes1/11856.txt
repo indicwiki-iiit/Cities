@@ -1,0 +1,126 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Jinotega
+|settlement_type       = City
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|motto                  = 
+<!-- images and maps  ----------->
+
+|image_skyline          = PEÑA DE LA CRUZ, JINOTEGA, NICARAGUA.png
+|image_caption          = Jinotega, Nicaragua
+|image_flag             = Flag of Jinotega.gif
+|flag_size              =
+|image_seal             = Seal of Jinotega.jpg
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|pushpin_map            = Nicaragua<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 250
+|pushpin_map_caption    = Location in Nicaragua
+
+<!-- Location ------------------>
+
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nicaragua}}
+|subdivision_type1      = [[Departments of Nicaragua|Department]]
+|subdivision_name1      = Jinotega
+|subdivision_type2      = [[Municipalities of Nicaragua|Municipality]]
+|subdivision_name2      = Jinotega
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+
+<!-- Politics ----------------->
+
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Leónidas Centeno Rivera [[File:Flag of the FSLN.png|25px]] 
+|leader_title1          = [[Vice Mayor]]
+|leader_name1           = Rosalpina Pineda Zeledón [[File:Flag of the FSLN.png|25px]]
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = 1891
+|established_title2     =  
+|established_date2      = 
+|established_title3     =
+|established_date3      =
+
+<!-- Area    --------------------->
+
+|area_magnitude           = 
+|unit_pref                =
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = 
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+
+<!-- Population   ----------------------->
+
+|population_as_of               = 2019 estimate
+|population_footnotes           = <ref name= pop>[https://www.citypopulation.de/en/nicaragua/cities/ Citypopulation.de] Population of cities in Nicaragua {{better|date=January 2021}}</ref><ref>[https://www.citypopulation.de/en/nicaragua/admin/ Citypopulation.de] Population of departments and municipalities in Nicaragua{{better|date=January 2021}}</ref>
+|population_note                =
+|population_total               = 54.633
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_metro               =  
+|population_city                = 
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        = [[Demonym]]
+|population_blank1              = Jinotegano/a
+|population_blank2_title        = Municipality
+|population_blank2              = 141743
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+
+<!-- General information  --------------->
+
+|timezone               =
+|utc_offset             = GMT-6
+|timezone_DST           = 
+|utc_offset_DST         =
+
+|coordinates            = {{coord|13|5|18.207|N|85|59|57.838|W|region:NI|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1,000
+|elevation_ft           =
+
+<!-- Area/postal codes & others -------->
+
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = Ni-Ji
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|blank1_name            =
+|blank1_info            =
+|website                = http://www.alcaldiajinotega.gob.ni/ (in Spanish)
+|footnotes              = 
+}}

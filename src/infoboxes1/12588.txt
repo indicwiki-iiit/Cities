@@ -1,0 +1,36 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+| official_name                   = Vratsa
+| image_skyline                   = Vratsa001.png
+| motto                           = Vratsa, city like the Balkan - ancient and young. ''(Враца, град като Балкана - древен и млад.)''
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| image_shield                    = Vratsa-coat-of-arms.svg|20px|right|Coat of arms of Vratsa
+| map_caption                     = Location of Vratsa
+| pushpin_map                     = Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Vratsa
+| leader_title                    = Mayor
+| area_total_km2                  = 212
+| population_density_km2          = auto
+| website                         = [http://www.vratza.com/ Official website]
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| subdivision_name1               = [[Vratsa Province|Vratsa]]
+| native_name                     = Враца
+| population_total                = {{decrease}} 52617
+| population_urban                = 73,894
+| population_footnotes            = <ref name="cities census 2011"/>
+| elevation_m                     = 344
+| postal_code                     = 3000
+| area_code                       = 092
+| ProvinceCode                    = BP
+| coordinates                     = {{coord|43|12|N|23|33|E|region:BG|display=inline,title}}
+| leader_name                     = Kalin Kamenov
+| settlement_type                 = Town
+| leader_party                    = [[GERB]]
+| name                            = 
+}}

@@ -1,0 +1,47 @@
+{{Infobox settlement
+| name                   = Karmiel
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|כַּרְמִיאֵל}}|rtl=yes}}
+ | {{Lang|ar|كَرْمِيئِيل|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1986)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Karmiˀel
+| translit_lang1_type2   = Translit.
+| translit_lang1_info2   = Karmi'el
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Carmiel (unofficial)
+| image_skyline          = Karmiel - Israel 2008.jpg
+| imagesize              = 250px
+| image_flag             = Flag of Karmiel.svg
+| image_blank_emblem     = Karmiel COA.svg
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|54|49|N|35|17|46|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flagcountry|ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1964
+| leader_title           = Mayor
+| leader_name            = Moshe Kuninski
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:19188|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Karmi'el}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = God's vineyards
+| website                = https://www.karmiel.muni.il/
+}}

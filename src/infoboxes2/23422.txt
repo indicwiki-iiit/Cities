@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name            = Tamalpais-Homestead Valley
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[census-designated place]]
+<!-- images and maps  ----------->
+| image_skyline            = 
+| image_caption            = 
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = Marin_County_California_Incorporated_and_Unincorporated_areas_Tamalpais-Homestead_Valley_Highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location in [[Marin County, California|Marin County]] and the state of [[California]]
+| pushpin_map = San Francisco Bay Area#California#USA
+| pushpin_map_caption = Location in the United States
+| pushpin_label = Tamalpais-Homestead_Valley
+| coordinates              = {{coord|37.89620|-122.54318|format=dms|region:US-CA|display=inline,title}} 
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = {{USA}}
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = {{flag|California}}
+| subdivision_type2        = [[List of counties in California|County]]
+| subdivision_name2        = [[Marin County, California|Marin]]
+| established_title        = <!-- Settled -->
+| established_date         = 
+| leader_title             = [[Marin County Board of Supervisors|County Board]]
+| leader_name              = District 3<br>[[Kate Sears (politician)|Kate Sears]]
+| leader_title1            = [[California's 3rd State Senate district|State Senate]]
+| leader_name1             = [[Mark Leno]] ([[California Democratic Party|D]])
+| leader_title2            = [[California's 10th State Assembly district|Assembly]]
+| leader_name2             = {{Representative|caad|10|fmt=sleader}}
+| leader_title3            = [[California's 2nd congressional district|U. S. Congress]]
+| leader_name3             = {{Representative|cacd|2|fmt=usleader}}<ref>{{Cite GovTrack|CA|2|access-date=March 8, 2013}}</ref>
+<!-- Area------------------>
+| unit_pref                = US
+| area_footnotes           = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{Webarchive|url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-07-02 }}</ref>
+| area_total_km2           = 12.049
+| area_total_sq_mi         = 4.652
+| area_land_km2            = 12.010
+| area_land_sq_mi          = 4.637
+| area_water_km2           = 0.039
+| area_water_sq_mi         = 0.015
+| area_water_percent       = 0.32
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              =
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 10735
+| population_as_of         = 2010
+| population_density_km2   = auto
+| population_density_sq_mi = auto
+<!-- General information  --------------->
+| timezone                 = [[Pacific Time Zone|PST]]
+| utc_offset               = -8
+| timezone_DST             = PDT
+| utc_offset_DST           = -7
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 94941
+| area_code_type           = [[North American Numbering Plan|Area codes]]
+| area_code                = [[Area codes 415 and 628|415/628]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 06-77805
+| website                  = 
+}}

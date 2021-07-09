@@ -1,0 +1,36 @@
+{{Infobox German location
+|type = Stadt
+|image_photo = Rgbg-dom und rathaus.jpg
+|imagesize = 
+|image_caption = 
+|image_flag = Flagge Regensburg.svg
+|image_coa = Wappen Regensburg.svg
+|coordinates = {{coord|49|1|N|12|5|E|format=dms|display=inline,title}}
+|image_plan =
+|plantext = Panorama
+|state = Bavaria
+|district = [[Urban districts of Germany|Urban district]]
+|elevation = <!-- 326–471 -->
+|area = 80.76
+|population = 130080
+|Stand = 2006-9-30
+|postal_code = 93001–93059
+|area_code = 0941
+|licence = R
+|Gemeindeschlüssel = 09 3 62 000
+|divisions = 18 districts
+|website = [https://www.regensburg.de/ www.regensburg.de]
+|mayor = Gertrud Maltz-Schwarzfischer
+|Bürgermeistertitel = Oberbürgermeister
+|party = SPD
+|footnotes = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Official_name = Old town of Regensburg with Stadtamhof
+  |ID = 1155
+  |Year = 2006
+  |Criteria = Cultural: ii, iii, iv
+  |Area = 182.8 ha
+  |Buffer_zone = 775.6 ha 
+  }}
+}}

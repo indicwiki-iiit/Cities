@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Millcreek, Utah
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = WGUUtah.jpg
+|imagesize                = 
+|image_caption            = Western Governors University in Millcreek
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Salt Lake County Utah incorporated and unincorporated areas Millcreek highlighted.svg
+|map_caption              = Location in [[Salt Lake County, Utah|Salt Lake County]] and the state of [[Utah]].
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Salt Lake County, Utah|Salt Lake]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Jeff Silvestrini
+|leader_title1            = Councilman - Dist. 1
+|leader_name1             = Silvia Catten
+|leader_title2            = Councilman - Dist. 2
+|leader_name2             = Dwight Marchant
+|leader_title3            = Councilman - Dist. 3
+|leader_name3             = Cheri M. Jackson
+|leader_title4            = Councilman - Dist. 4
+|leader_name4             = Bev Uipi
+|established_title        = Incorporated
+|established_date         = December 28, 2016
+|named_for                = Mill Creek
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 33.07
+|area_land_km2            = 33.07
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 12.77
+|area_land_sq_mi          = 12.77
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 62139
+|population_density_km2   = 1857.96
+|population_density_sq_mi = 4812.06
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1306
+|elevation_ft             = 4285
+|coordinates              = {{coord|40|41|10|N|111|51|50|W|region:US-UT_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 84106, 84107, 84109, 84117, 84124
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-50150<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1867579<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{url|https://millcreek.us/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 61450
+}}

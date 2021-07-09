@@ -1,0 +1,86 @@
+{{Infobox settlement
+|official_name            = Beeville, Texas
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+<!-- Images -->
+|image_skyline            = Downtown Beeville IMG 0983.JPG
+|imagesize                = 250px
+|image_caption            = <span style="font-size:100%;">[[Historic]] downtown Beeville showing the Rialto Theater</span>
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map               = Bee Beeville.svg
+|mapsize                 = 250px
+|map_caption             = Location of Beeville, Texas
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Texas}}
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Bee County, Texas|Bee]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Francisco (Frank) Dominguez Jr.
+|
+|leader_title1            = [[Mayor Pro Tem]]
+|leader_name1             = Benny Puente
+|leader_title2            = [[Councilman]]
+|leader_name2             = Eric Holland
+|leader_title3           = [[Councilman]]
+|leader_name3             = Brian Watson
+|leader_title4            = [[Councilman]]
+|leader_name4             = Ford Patton
+|established_title  = Settled
+|established_date   = 1859
+|established_title2 = Incorporated
+|established_date2  = 1890
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 16.52
+|area_land_km2            = 16.52
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 6.38
+|area_land_sq_mi          = 6.38
+|area_water_sq_mi         = 0.00
+|population_blank1_title = [[Demonym]]
+|population_blank1 = Beevillian
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=CensusQF>{{cite web|title=State and County Quick Facts|url=http://quickfacts.census.gov/qfd/states/48/4807192.html|publisher=[[United States Census Bureau]]|access-date=March 4, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150327010050/http://quickfacts.census.gov/qfd/states/48/4807192.html|archive-date=March 27, 2015}}</ref>
+|population_total         = 12863
+|population_est = 12793
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|date=May 24, 2020|title=Population and Housing Unit Estimates|publisher=United States Census Bureau|access-date=May 27, 2020}}</ref>
+|population_density_km2   = 774.58
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 
+|elevation_ft             = 210
+|coordinates              = {{coord|28|24|20|N|97|45|3|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 78102, 78104
+|area_code                = [[Area code 361|361]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-07192<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1330346<ref name=gnis>{{GNIS|1330346}}</ref>
+|website                  = http://www.beevilletx.org/
+|footnotes                = 
+|population_density_sq_mi = 2006.12
+}}

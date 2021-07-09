@@ -1,0 +1,35 @@
+{{Infobox Australian place
+| type     = town
+| name     = Wynyard
+| state    = tas
+| image    = Table Cape by dusk.JPG
+| caption  = [[Table Cape]] as seen at dusk
+| coordinates = {{coord|40|59|2|S|145|43|4|E|display=inline,title}}
+| region   = North West Tasmania
+| pushpin_label_position = right
+| lga      = Waratah-Wynyard
+| postcode = 7325
+| est      = 
+| pop      = 5061
+| pop_year = {{CensusAU|2011}}
+| pop_footnotes=<ref name="ABS-urban"/>
+| elevation= 12
+| elevation_footnotes=<ref>[http://www.bom.gov.au/climate/averages/tables/cw_091107.shtml Bureau of Meteorology]. Retrieved on 2007-11-17.</ref>
+| maxtemp  = 17.0
+| mintemp  = 7.1
+| rainfall = 975.4
+| stategov = [[Division of Braddon (state)|Braddon]]
+| fedgov   = [[Division of Braddon|Braddon]]
+| dist1    = 317
+| dir1     = NW
+| location1= [[Hobart]]
+| dist2    = 163
+| dir2     = NW
+| location2= [[Launceston, Tasmania|Launceston]]
+| dist3    = 66
+| dir3     = NW
+| location3= [[Devonport, Tasmania|Devonport]]
+| dist4    = 18
+| dir4     = NW
+| location4= [[Burnie, Tasmania|Burnie]]
+}}

@@ -1,0 +1,47 @@
+{{Infobox Australian place
+| type                     = town
+| name                     = Andamooka
+| state                    = SA
+| image                    = 
+| caption                  = 
+| relief                   = 1
+| coordinates              = {{coord|30.448524|S|137.165126|E|format=dms|display=inline,title}}
+| coord_ref = <ref name="LMV">{{cite web|title=Search results for "Andamooka, LOCB" with the following datasets selected - 'Suburbs and localities', 'Government Towns', 'Local Government Areas', 'SA Government Regions' and 'Gazetteer'|url= http://location.sa.gov.au/viewer/?map=roads&x=137.18003&y=-30.45381&z=14&uids=19,115,11,20,105&pinx=137.166440&piny=-30.447060&pinTitle=Location&pinText=Andamooka,+Locb|website=Location SA Map Viewer|publisher=South Australian Government|accessdate=10 June 2019}}</ref>	
+| pop                      = 316
+| pop_year                 = {{CensusAU|2016}}
+| pop_footnotes            = <ref name=Census2016>{{Census 2016 AUS| id=SSC40023 |name=Andamooka (State Suburb)| accessdate=31 January 2018|quick=on}}</ref>
+| density                  = 
+| density_footnotes        = 
+| established = 1930s (mining settlement)<br/>16 December 1976 (Government Town)<br/> 8 February 2001 (locality)
+| established_footnotes    = <ref name="LMV"/><ref name="SAGG-1976">{{cite web |last1=Banfield |first1=D.H. |title=CROWN LANDS ACT, 1929-1975: CONSTITUTION OF THE TOWN OF ANDAMOOKA |url=http://www8.austlii.edu.au/au/other/sa_gazette/1976/57/2253.pdf |website=The South Australian Government Gazette |publisher=Government of South Australia |accessdate=10 June 2019 |page=2253 |date=16 December 1976}}</ref><ref name="SAGG-2001">{{cite web |last1=Lawson |first1=Robert |title=GEOGRAPHICAL NAMES ACT 1991 Notice to Assign Names and Boundaries to Places |url=https://governmentgazette.sa.gov.au/sites/default/files/public/documents/gazette/2001/February/2001_013.pdf |website=The South Australian Government Gazette |publisher=Government of South Australia |accessdate=10 June 2019 |page=516 |date=8 February 2001|quote = DO HEREBY assign the boundaries LYNDHURST, LEIGH CREEK, COPLEY, PARACHILNA, MARLA, NEPABUNNA, OODNADATTA, ANDAMOOKA, PENONG, COORABIE and FOWLERS BAY to those areas shown numbered 1 to 11 respectively on Rack Plan 857}}</ref>
+| postcode                 = 5722
+| elevation                = 76
+| elevation_footnotes      = <ref name=climate/>
+| area                     = 
+| area_footnotes           = 
+| timezone                 = 
+| utc                      = 
+| dist1                    = 600
+| dir1                     = N
+| location1                = [[Adelaide city centre|Adelaide]]
+| lga                      = [[Pastoral Unincorporated Area]]
+| region                   = [[Far North (South Australia)|Far North]]<ref name=FN>{{cite web|title=Far North SA government region|url=http://www.sa.gov.au/__data/assets/pdf_file/0020/6905/Far_North_SA_Government_region.pdf|publisher=The Government of South Australia|accessdate=16 August 2015}}</ref>
+| county                   = 
+| stategov                 = [[Electoral district of Giles|Giles]]<ref name=Giles>{{cite web|title=District of Giles Background Profile|url= http://www.ecsa.sa.gov.au/component/edocman/?task=document.download&id=500&Itemid=0 |publisher=ELECTORAL COMMISSION SA|accessdate=20 August 2015}}</ref>
+| fedgov                   = [[Division of Grey|Grey]]<ref name=AEC>{{cite web|title=Federal electoral division of Grey, boundary gazetted 16 December 2011|url= http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-grey.pdf |publisher=Australian Electoral Commission|accessdate=20 August 2015}}</ref>
+| maxtemp                  = 27.5
+| maxtemp_footnotes        = <ref name=climate/>
+| mintemp                  = 13.7
+| mintemp_footnotes        = <ref name=climate/>
+| rainfall                 = 160
+| rainfall_footnotes       = <ref name=climate/>
+| near-n                   = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-ne                  = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-e                   = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-se                  = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-s                   = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-sw                  = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-w                   = [[Andamooka Station, South Australia|Andamooka Station]]
+| near-nw                  = [[Andamooka Station, South Australia|Andamooka Station]]
+|footnotes=Adjoining localities<ref name="LMV"/>
+}}

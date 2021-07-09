@@ -1,0 +1,60 @@
+{{Infobox settlement
+| name                     = Azaz
+| official_name            = 
+| native_name              = أَعْزَاز<!-- for cities whose native name is not in English -->
+| native_name_lang         = ar
+| other_name               = 
+| settlement_type          = <!--For Town or Village (Leave blank for the default City)-->
+<!-- images and maps  ----------->
+| image_skyline            = Mosque_in_A'zaz.jpg
+| imagesize                = 180px
+| image_caption            = 
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = bottom
+| pushpin_mapsize          = 250
+| pushpin_map_caption      = Location in Syria
+<!-- Location ------------------>
+| coordinates              = {{coord|region:SY|format=dms|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = {{flag|Syria}}
+| subdivision_type1        = [[Governorates of Syria|Governorate]]
+| subdivision_name1        = [[Aleppo Governorate|Aleppo]]
+| subdivision_type2        = [[Districts of Syria|District]]
+| subdivision_name2        = [[A'zaz District|Azaz]]
+| subdivision_type3        = [[Nahiyah|Subdistrict]]
+| subdivision_name3        = [[Nahiya Azaz|Azaz]] 
+| established_title        = <!-- Settled -->
+| established_date         = 
+| leader_title             = 
+| leader_name              =
+<!-- Area    --------------------->
+| unit_pref                = Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2           = 
+| elevation_footnotes      = <!--for references: use<ref> </ref>  tags-->
+| elevation_m              = 560
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 31,623
+| population_as_of         = 2004
+| population_density_km2   = 
+<!-- General information  --------------->
+| timezone                 = [[Eastern European Time|EET]]
+| utc_offset               = +2
+| timezone_DST             = +3
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code           = 
+| parts_type            = [[Turkish occupation of northern Syria|Control]]
+| parts_style           = para
+| p1                    = {{TUR}}<br>{{flagicon|Syrian opposition}} [[Syrian Interim Government]]
+| area_code                = 
+| website                  = 
+}}

@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = Cold Spring, New York
+|nickname               = 
+|settlement_type        = Village
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = Main Street, Cold Spring NY.jpg 
+|imagesize              = 250px
+|image_caption          = Cold Spring's Main Street, part of the [[Cold Spring Historic District|federally recognized]] [[historic district]] in the village
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_blank_emblem     = 
+|blank_emblem_type      = 
+|blank_emblem_size      = 
+|image_map              = Putnam County New York incorporated and unincorporated areas Cold Spring highlighted.svg
+|mapsize                = 260px
+|map_caption            = Location in [[Putnam County, New York|Putnam County]] and the state of [[New York (state)|New York]].
+<!-- Location ------------------>
+|subdivision_type       = Country<!--Country-->
+|subdivision_name       = United States<!--the name of the country-->
+|subdivision_type1      = [[U.S. state|State]]
+|subdivision_name1      = New York
+|subdivision_type2      = [[Administrative divisions of New York#County|County]]
+|subdivision_name2      = [[Putnam County, New York|Putnam]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            =  <!--add   (no-break space) to leader names to disable automatic links-->
+|leader_title1          =  Mayor
+|leader_name1           = Dave Merandy
+|established_title      = Incorporated <!-- Settled -->
+|established_date       = 1846
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = Imperial
+<!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes         = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_total_km2         = 1.55
+<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2          = 1.54
+<!--See table @ Template:Infobox settlement for details on unit conversion-->
+|area_water_km2         = 0.01
+|area_total_sq_mi       = 0.60
+|area_land_sq_mi        = 0.59
+|area_water_sq_mi       = 0.01
+|area_water_percent     = 0.91
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = 108
+<!-- Population   ----------------------->
+|population_as_of               = [[2010 United States Census|2010]]
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 2013
+|population_est                 = 1947
+|pop_est_as_of                  = 2019
+|population_density_km2         = 1266.15
+<!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       = 3277.78
+<!-- General information  --------------->
+|timezone1               = 
+|utc_offset1             = 
+|timezone1_DST           = 
+|utc_offset1_DST         = 
+|coordinates            = {{coord|41|25|8|N|73|57|16|W|region:US_type:city|display=inline,title}}
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 10516
+|area_code              = [[Area code 845|845]] Exchange: 265
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = 36-16936
+|website                = {{URL|coldspringny.gov}}
+|footnotes              = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

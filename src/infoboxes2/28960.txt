@@ -1,0 +1,16 @@
+{{Infobox river
+| name              = Omolon
+| image             =
+| image_caption     =
+| source1           = 
+| source1_coordinates = {{Coord|62.7186|157.5191|type:waterbody_region:RU}}
+| mouth             = [[Kolyma (river)|Kolyma]]
+| mouth_location    = 
+| mouth_coordinates = {{Coord|68.7042|158.6972|type:waterbody_region:RU|display=it}}
+| progression       = {{RKolyma}}
+| subdivision_type1 = Country
+| subdivision_name1 = [[Russia]]
+| length            = {{convert|1114|km|abbr=on}}
+| discharge1_avg    = 
+| basin_size        = {{convert|113000|km2|abbr=on}}
+}}

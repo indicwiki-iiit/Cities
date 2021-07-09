@@ -1,0 +1,28 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name      = Balchik
+| native_name        = Балчик
+|image_shield= BUL Балчик COA.gif
+| subdivision_type   = [[Countries of the world|Country]]
+| subdivision_name   = [[Bulgaria]]
+| subdivision_type1  = [[Provinces of Bulgaria|Province]] <small>(Oblast)</small>
+| subdivision_name1  = [[Dobrich Province|Dobrich]]
+| leader_title       = Mayor
+| timezone           = [[Eastern European Time|EET]]
+| utc_offset         = +2
+| timezone_DST       = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST     = +3
+| map_caption        = Location of Balchik
+| pushpin_map        = Bulgaria
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption= Location of Balchik
+| pushpin_mapsize    =
+| postal_code_type   = [[List of postal codes in Bulgaria|Postal Code]]
+|population_total = 11,052|population_urban=19331
+|population_footnotes=<ref name="statistika">{{in lang|en}} http://www.nsi.bg/en/content/6704/population-districts-municipalities-place-residence-and-sex#contBulgarian National Statistical Institute – towns in 2018] {{Webarchive|url=https://web.archive.org/web/20190705153246/http://nsi.bg/en/content/6704/population-districts-municipalities-place-residence-and-sex#cont |date=July 5, 2019 }}</ref><ref name="population">{{in lang|en}} [http://www.citypopulation.de/Bulgaria-Cities.html „WorldCityPopulation“]</ref><ref name="pop-stat">{{cite web|url=http://pop-stat.mashke.org/bulgaria-cities.htm|title=pop-stat.mashke.org|website=mashke.org|access-date=9 April 2018}}</ref>
+| population_as_of = 2018-12-31  
+| elevation_m        = 199
+| postal_code        = 9600
+| area_code          = 0579
+| coordinates        = {{coord|43|25|37|N|28|09|42|E|region:BG|display=inline,title}}
+| leader_name        = Nikolay Angelov
+}}

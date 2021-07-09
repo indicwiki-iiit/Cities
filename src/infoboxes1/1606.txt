@@ -1,0 +1,52 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| official_name                   = Asaba
+| native_name                     = Asaba
+| other_name                      = Asaba
+| settlement_type                 = [[City]]
+<!-- images and maps  ----------->| image_skyline                   = File:Summit road, Asaba.jpeg
+| imagesize                       = 300px
+| image_caption                   = A street in Asaba
+| image_flag                      = 
+| image_seal                      = 
+| image_shield                    = 
+| nickname                        = Ani Mmili
+| image_map                       = 
+| map_caption                     = Location of Asaba in Nigeria
+| pushpin_map                     = Nigeria#Africa#Earth
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|6|11|N|6|44|E|region:NG|display=inline,title}}
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{flag|Nigeria}}
+| subdivision_type1               = [[States of Nigeria|State]]
+| subdivision_name1               = [[Delta State]]
+| subdivision_type2               = [[Local Government Areas of Nigeria|LGA]]
+| subdivision_name2               = [[Oshimili South]].
+| established_title               = <!-- Settled -->
+| established_date                = 
+| leader_title                    = '''Asagba'''
+| leader_name                     = <!-- Area    --------------------->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_total_km2                  = 268<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = <!-- Population   ----------------------->
+| population_footnotes            = <ref>{{cite web|url=http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |title=FEDERAL REPUBLIC OF NIGERIA : 2006 Population Census |access-date=25 July 2016 |archive-url=https://web.archive.org/web/20120305101910/http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |archive-date=5 March 2012 |url-status=dead }}</ref>
+| population_total                = 149603
+| population_as_of                = 2006 census
+| population_est                  = 176,060<ref>{{cite web | url=http://www.citypopulation.de/php/nigeria-admin.php?adm1id=NGA010 | title=Delta (state, Nigeria) | publisher=population.de | access-date=25 July 2016}}</ref>
+| pop_est_as_of                   = 2011
+| population_density_km2          = auto
+<!-- General information  --------------->| timezone                        = 
+| utc_offset                      = 
+| timezone_DST                    = 
+| utc_offset_DST                  = <!-- Area/postal codes & others -------->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Tropical savanna climate|Aw]]
+| website                         = {{URL|Asaba.com}}
+| name                            = 
+}}

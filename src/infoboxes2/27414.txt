@@ -1,0 +1,19 @@
+{{Infobox mountain
+| name = Rib Mountain
+| photo = RibMountain.jpg
+| photo_caption = Rib Mountain, as seen from downtown [[Wausau, Wisconsin|Wausau]]
+| location = [[Marathon County, Wisconsin|Marathon County]], [[Wisconsin]], [[United States|U.S.]]
+| coordinates = {{coord|44.920796725|N|89.695204669|W|type:mountain_region:US-WI_scale:100000_source:NGS|format=dms|display=inline,title}}
+| elevation_ft = 1942
+| elevation_ref = {{NAVD88}}<ref name="ngs">{{cite ngs |id=PN1159 |name=Rib |accessdate=2011-04-05}}</ref>
+| prominence_ft = 741
+| prominence_ref = <ref>{{cite peakbagger |pid=6419 |name=Rib Mountain, Wisconsin |accessdate=2011-04-05}}</ref>
+| range =
+| topo = [[United States Geological Survey|USGS]] Wausau West
+| range_coordinates = 
+| type = [[monadnock]]
+| age = 1.5B years
+| volcanic_arc/belt =
+| first_ascent =
+| easiest_route =
+}}

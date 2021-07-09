@@ -1,0 +1,21 @@
+{{Infobox mountain
+| name = Ben Lomond
+|other_name = ''Beinn Laomainn''
+| photo = Loch Lomond Lomond Mountain.jpg
+| photo_caption = Ben Lomond from [[Loch Lomond]]
+| elevation_m   = 974
+| elevation_ref = <ref>{{cite web |url=http://www.hill-bagging.co.uk/mountaindetails.php?qu=M&rf=32 |title=Ben Lomond |author=<!--Staff writer(s); no by-line.--> |year=2019 |publisher=Hill Bagging - the online version of the Database of British and Irish Hills (DoBIH) |access-date=19 June 2019}}</ref>
+| prominence_m  = 820
+| prominence_ref= [[List of mountains of the British Isles by relative height|Ranked 30th]] in [[British Isles]]
+| parent_peak = [[Beinn Ime]]
+| listing = [[Munro]], [[Marilyn (hill)|Marilyn]], [[List of Scottish counties by highest point|County top]] ([[Stirlingshire]])
+| translation = Beacon mountain | language =
+| pronunciation = {{IPA-gd|peɲˈl̪ˠɯːmɪɲ|lang|beinnlaomainn.ogg}}
+| location = <center>[[Loch Lomond]], Scotland</center>
+| range = [[Grampian Mountains]]
+| map = UK Scotland
+| range_coordinates = 
+| coordinates   = {{coord|56.19063|N|4.63317|W|type:mountain_region:GB_scale:100000_source:enwiki-osgb36(NN367029)|format=dms|display=inline,title}}
+| coordinates_ref = | grid_ref_UK = NN367029
+| topo = [[Ordnance Survey|OS]] ''Landranger'' 56 and ''Explorer'' 364
+}}

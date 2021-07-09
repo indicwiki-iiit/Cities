@@ -1,0 +1,79 @@
+{{Infobox settlement
+| official_name            = Sari
+| native_name              = {{lang|fa|ساری}}
+| other_name               = Zadracarta
+| settlement_type          = City
+|image_skyline          = {{Photomontage
+|photo1a = Kolbadi house.jpg
+|photo2a = قلعه‌ی کنگلو.jpg
+|photo2b = Pa Sa'at 1.jpg
+|photo3a = Jameh Mosque of Sari.jpg
+|photo3b = برج رسکت خشتی میان جنگل.jpg
+|photo4a =
+|photo4b = Melal Park, Sari 2019-11-05.jpg
+|size    = 240
+|border  = 0
+|color   = 
+|foot_montage = }}
+| imagesize                = 
+| image_caption            = 
+| image_seal               = Sari government logo.svg
+| nickname                 =
+| motto                    =
+<!-- images and maps  ----------->
+| image_map                =
+| map_caption              =
+| pushpin_map              = Iran <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = left <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption      =
+<!-- Location ------------------>
+| coordinates              = {{coord|36|33|48|N|53|03|36|E|region:IR|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = {{flag|Iran}}
+| subdivision_type1        = [[Provinces of Iran|Province]]
+| subdivision_type2        = [[Counties of Iran|County]]
+| subdivision_type3        = [[Bakhsh]]
+| subdivision_name1        = [[Mazandaran Province|Mazandaran]]
+| subdivision_name2        = [[Sari County|Sari]]
+| subdivision_name3        = [[Central District (Sari County)|Central]]
+<!-- Politics ----------------->
+| established_title3       = Founded
+| established_date3        = By Farrukhan, Daboyan Dynasty of [[Tapuria]]
+<!-- Area    --------------------->
+| government_footnotes     =
+| government_type          =
+| leader_title             = Mayor
+| leader_name              = Abbas Rajabi
+| unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes           =
+| area_magnitude           =
+| area_total_km2           =
+| area_land_km2            =
+| area_water_km2           =
+| area_water_percent       =
+<!-- Population   ----------------------->
+| elevation_footnotes = <!--for references: use<ref> </ref> tags-->
+| elevation_m         = 5 northwest up to 50 in southeast
+| elevation_ft        = 15 – 150
+<!-- Area/postal codes & others -------->
+| population_urban     = 347,402 <ref>https://www.amar.org.ir/english</ref>
+| population_metro     =
+| population_as_of         = 2016 Census
+| population_est      =
+| population_est_as_of  =
+| population_footnotes     =
+| population_density_km2   =
+<!-- General information  --------------->
+| postal_code_type    = Postal Code
+| postal_code         = 48xxx-xxxxx
+| area_code           = 011
+| website             = [http://www.sari.ir/ www.sari.ir] [http://esaricity.ir esarycity.ir] [http://www.saricity.ir www.sarycity.ir]
+| footnotes           =
+| timezone            = [[Iran Standard Time|IRST]]
+| utc_offset          = +3:30
+| timezone_DST        = [[Iran Standard Time|IRDT]]
+| utc_offset_DST      = +4:30
+| car_code            = IRAN 62
+| blank_name          = Vehicle Plate
+| blank_info          = IRAN 62
+}}

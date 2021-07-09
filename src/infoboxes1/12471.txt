@@ -1,0 +1,84 @@
+{{Infobox settlement
+| name                            = New Rochelle
+| settlement_type                 = [[City]]
+| nickname                        = Queen City of the Sound
+| motto                           = ''Nunquam Retrorsum''<br/><small>(Never Backward)</small>
+<!-- Images -->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = New Rochelle Skyline and Waterfront. Hudson Park Road
+| image_flag                      = 
+| image_seal                      = New Rochelle, New York (town seal).jpg
+<!-- Maps -->
+| image_map                       = Westchester County New York incorporated and unincorporated areas New Rochelle highlighted.svg
+| mapsize                         = 
+| map_caption                     = Location within Westchester County and the state of New York
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| government_footnotes            = 
+| government_type                 = [[Council–manager government|Council-Manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[Noam Bramson]] ([[United States Democratic Party|D]])
+| leader_title1                   = [[City council|City Council]]
+| leader_name1                    = {{Collapsible list
+| title                           = Members' List
+| frame_style = border:none; padding: 0;
+| title_style = <!-- (optional) -->
+| list_style  = text-align:left;display:none;
+| 1                               = District 1:
+| 2                               = • Martha Lopez-Hanratty ([[Democratic Party (United States)|D]])
+| 3                               = District 2:
+| 4                               = • Albert Tarantino ([[Republican Party (United States)|R]])
+| 5                               = District 3:
+| 6                               = • Yadira Ramos-Herbert ([[Democratic Party (United States)|D]])
+| 7                               = District 4:
+| 8                               = • Ivar Hyden ([[Democratic Party (United States)|D]])
+| 9                               = District 5:
+| 10                              = • Sara Kaye ([[Democratic Party (United States)|D]])
+| 11                              = District 6:
+| 12                              = • Liz Fried ([[Democratic Party (United States)|D]])
+}}
+| established_title               = Incorporated (city)
+| established_date                = 1899
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 34.05
+| area_land_km2                   = 26.64
+| area_water_km2                  = 7.40
+| area_total_sq_mi                = 13.14
+| area_land_sq_mi                 = 10.29
+| area_water_sq_mi                = 2.86
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 77062
+| population_density_km2          = 2948.74
+| population_density_sq_mi        = 7637.27
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = −5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = −4
+| elevation_footnotes             = 
+| elevation_m                     = 26
+| elevation_ft                    = 85
+| coordinates                     = {{coord|40|54|31|N|73|46|55|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 10538, 10583, 10801–10802, 10804–10805
+| area_code                       = [[Area code 914|914]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-50617
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 958451<ref name=GNIS1>{{Cite GNIS|958451|New Rochelle}}</ref>
+| website                         = {{Official website|http://www.newrochelleny.com/}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 78557
+| official_name                   = 
+}}

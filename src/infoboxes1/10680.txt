@@ -1,0 +1,51 @@
+{{Infobox settlement
+| name = Shahrisabz
+| native_name = Шаҳрисабз
+| settlement_type = City
+| image_skyline           = {{Photomontage
+| photo1a = 30 Shakhrisabz Ak Seraj (7).JPG
+| photo2a = Jahangir Mausoleum in Shahrisabz.jpg
+| photo2b = Shahrisabz Chorsu 01.jpg
+| photo3a = Ensemble Dorout Tilovat (Shahrisabz) (6018370667).jpg
+| photo3c = Walls of Shahrisabz.jpg
+| photo4a = Shahrisabz 05.jpg
+| photo4c = Mosque in Shahrisabz.jpg
+| size = 280
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+| image_alt               = 
+| image_caption           = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Uzbekistan
+| pushpin_label_position  = left
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| elevation_footnotes     = 
+| elevation_m             = 
+| coordinates             = {{Coord|39|03|N|66|50|E|region:UZ_type:city|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Uzbekistan]]
+| subdivision_type1       = [[Regions of Uzbekistan|Region]]
+| subdivision_name1       = [[Qashqadaryo Region]]
+| population_total        = 100,300
+| population_as_of        = 2014
+| population_footnotes    = <ref name="uz.2014"/>
+| timezone1               = 
+| utc_offset1 = +5
+|footnotes = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = Historic Centre of Shakhrisyabz
+   | designation1_date = [[List of World Heritage Sites by year of inscription#2000 (24th session)|2000]] <small>(24th [[World Heritage Committee|session]])</small>
+   | designation1_type = 
+   | designation1_criteria = {{UNESCO WHS type|(iii), (iv)}}(iii), (iv)
+   | Year                    = 2000
+   | area                    = {{convert|240|ha|acre|abbr=on}}
+   | buffer_zone             = {{convert|82|ha|acre|abbr=on}}
+   | designation1_number = [https://whc.unesco.org/en/list/885 885]
+   | designation1_free1name = [[List of World Heritage in Danger|Endangered]]
+   | designation1_free1value = 2016–
+}}
+}}

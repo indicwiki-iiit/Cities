@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type     = lga
+| name     = Latrobe City 
+| state    = vic
+| image    = Australia Victoria Latrobe City.svg
+| caption  = 
+| pop      = 75211
+| pop_year = 2018
+| pop_footnotes = <ref name=ABSLGA>{{cite web|title=3218.0 – Regional Population Growth, Australia, 2017-18: Population Estimates by Local Government Area (ASGS 2018), 2017 to 2018 |url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|website=Australian Bureau of Statistics|publisher=[[Australian Bureau of Statistics]]|date=27 March 2019|access-date=25 October 2019}} Estimated resident population, 30 June 2018.</ref>
+| est      = 1994
+| gazetted = 2 December 1994<ref name=Gazette>{{cite journal |url=http://gazette.slv.vic.gov.au/view.cgi?year=1994&class=S&page_num=3&state=V&classNum=S94 |issue=S94 |title=Order Constituting the Shires of ... La Trobe ... (Part 5) |journal=Victoria Government Gazette |publisher=State Government of Victoria |date=2 December 1994 |page=3 |access-date=10 January 2014}}</ref>
+| area     = 1426
+| area_footnotes = <ref name=ABSLGA/>
+| mayor    = Cr Sharon Gibson
+| seat     = [[Morwell, Victoria|Morwell]]
+| region   = Eastern Victoria
+| stategov = [[Electoral district of Morwell|Morwell]]
+| stategov2= [[Electoral district of Narracan|Narracan]]
+| fedgov   = [[Division of Gippsland|Gippsland]]
+| fedgov2  = [[Division of McMillan|McMillan]]
+| logo     = Latrobe logo.png
+| url      = http://www.latrobe.vic.gov.au/
+| near-n   = [[Shire of Baw Baw|Baw Baw]]
+| near-ne  = [[Shire of Wellington|Wellington]]
+| near-e   = [[Shire of Wellington|Wellington]]
+| near-se  = [[Shire of Wellington|Wellington]]
+| near-s   = [[South Gippsland Shire|South Gippsland]]
+| near-sw  = [[South Gippsland Shire|South Gippsland]]
+| near-w   = [[Shire of Baw Baw|Baw Baw]]
+| near-nw  = [[Shire of Baw Baw|Baw Baw]]
+}}

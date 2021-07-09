@@ -1,0 +1,25 @@
+{{Infobox settlement
+|settlement_type        = City
+|official_name          = Villa Domínico
+|pushpin_map            = Argentina Greater Buenos Aires
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location in [[Greater Buenos Aires]]
+|pushpin_mapsize        = 240
+|subdivision_type       = Country
+|subdivision_name       = {{ARG}}
+|subdivision_type1      = [[Provinces of Argentina|Province]]
+|subdivision_name1      = [[File:Bandera Buenos Aires.svg|24px]]  [[Buenos Aires Province|Buenos Aires]]
+|subdivision_type2      = [[Partidos of Buenos Aires|Partido]]
+|subdivision_name2      = [[Avellaneda Partido|Avellaneda]]
+|established_title      = Founded
+|established_date       = August 11, 1894
+|population_as_of               = {{census-ar|2010}}
+|population_total               = 62315
+|population_density_km2         = auto
+|coordinates            = {{coord|34|41|30|S|58|20|00|W|region:AR|display=inline,title}}
+|elevation_m            = 6
+|postal_code_type       = [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 1874
+|area_code              = +[[Telephone numbers in Argentina|54]] 11
+|website                =
+}}

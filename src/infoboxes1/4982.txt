@@ -1,0 +1,40 @@
+{{Infobox Australian place
+| type                     = city
+| name                     = Bundaberg
+| state                    = qld
+| image                    = File:Bundaberg collage.png
+| caption                  = From top left clockwise: East Water Tower, Bundaberg Post Office, War Memorial, Burnett Bridge
+| coordinates         = {{coord|-24.8661|152.3494|type:city_region:AU-QLD|display=inline,title|name=Bundaberg (town centre)}}
+| pop                 = 50148
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| pop2                = 70921
+| pop2_year           = 2018
+| pop2_footnotes      = <ref name=ABSSUA2018/>
+| established         = 1870
+| postcode            = 4670
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga                 = Bundaberg Region
+| stategov            = [[Electoral district of Bundaberg|Bundaberg]]
+| fedgov              = [[Division of Hinkler|Hinkler]]
+| county              = [[County of Cook, Queensland|Cook]]
+| maxtemp             = 26.5
+| maxtemp_footnotes   = 
+| mintemp             = 16.3
+| mintemp_footnotes   = 
+| rainfall            = 1142.6
+| rainfall_footnotes  = 
+}}

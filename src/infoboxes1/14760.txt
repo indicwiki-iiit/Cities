@@ -1,0 +1,33 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Kupiškis
+|image_skyline = Kupiskis.panorama..jpg
+|image_caption =  City view from northwest
+|settlement_type = City
+|pushpin_map            =Lithuania 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Kupiškis
+|image_shield = Kupiškis COA.svg
+|image_flag= Flag of Kupiškis.png
+|coordinates       = {{coord|55|50|0|N|24|58|0|E|region:LT_type:city(8200)|display=inline,title}}
+|
+|subdivision_type  = [[Countries of the world|Country]]
+|subdivision_name  = {{LTU}}
+|subdivision_type2 = [[Counties of Lithuania|County]]
+|subdivision_name2 = [[File:Panevezys County flag.svg|20px]] [[Panevėžys County]]
+|subdivision_type3 = [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3 = [[Kupiškis district municipality]]
+|subdivision_type4 = [[Elderships of Lithuania|Eldership]]
+|subdivision_name4 = Kupiškis eldership
+|subdivision_type6 = [[Capital (political)|Capital of]]
+|subdivision_name6 = [[Kupiškis district municipality]] <br> Kupiškis eldership
+|established_date  = 1460
+|established_title = First mentioned
+|established_date2 = 1791
+|established_title2= Granted [[Magdeburg rights|city rights]]
+|population_total  = 7,892
+|population_as_of  = 2012
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+}}

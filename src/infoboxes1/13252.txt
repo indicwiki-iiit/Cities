@@ -1,0 +1,48 @@
+{{Infobox kommune
+|name                   = Tromsø
+|native_name            = {{native name|se|Romssa suohkan}}
+|nickname               = Nordens Paris (Paris of the North), Ishavsbyen
+|native_name_lang       =
+|other_name             =
+|official_name          =
+|image_skyline     = {{Photomontage
+|photo1a           = Tromsø sentrum (5835702754).jpg
+|photo3a           = Sommernatt i Tromsø (7466198800).jpg
+|photo4a           = Morketidettermiddag.JPG
+|photo4b           = 
+|size              = 275
+|position          = center
+|spacing           = Number indicating width of spacing between the images (default: 1)
+|color             = Color of spacing between the images (default: black)
+|border            = Number indicating width of border surrounding the montage (default: 1)
+|color_border      = Color of border surrounding the montage (default: black)
+|text              =
+|text_background   = Color of background behind text (default: #F8F8FF)
+|foot_montage      = }}
+|imagesize              = 260px
+|idnumber               = 5401
+|county                 = Troms og Finnmark
+|district               = [[Hålogaland]]
+|capital                = [[Tromsø (city)|Tromsø]]
+|established            = 20 June 1794 (became market town)<br>1 January 1838 (Tromsø Municipality established)
+|demonym                = Tromsøværing
+|language               = Neutral
+|coatofarms             = Tromsø komm.svg
+|flag                   = 
+|munwebpage             = tromso.kommune.no
+|mayor                  = [[Gunnar Wilhelmsen]]
+|mayor_party            = [[Labor Party (Norway)|Ap]]
+|mayor_as_of            = 2019
+|area_rank              = 21
+|area_total_km2         = 2521.27
+|area_land_km2          = 2473.78
+|area_water_km2         = 47.49
+|area_water_percent     = 1.9
+|population_as_of       = 30 September 2019
+|population_rank        = 12
+|population_total       = 77, 095{{increase}}
+|population_density_km2 = 31.1
+|population_increase    = 14.4
+|coordinates            = {{coord|69|40|58|N|18|56|34|E|region:NO|display=inline,title}}
+|utm_zone = 34W |utm_northing = 7731862 |utm_easting = 0420301 | geo_cat = adm2nd
+}}

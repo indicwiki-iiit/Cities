@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Silopi
+| image_skyline                   = Habur Anadolu Lisesi.jpg
+| image_caption                   = Habur Anadolu Lisesi in Silopi  district
+| image_shield                    = 
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|37|16|0|N|42|29|0|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Şırnak Province|Şırnak]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = 
+| leader_title                    = Mayor
+| leader_name                     = Sezer Işiktaş (State-appointed caretaker)
+| leader_title1                   = [[Kaymakam]]
+| leader_name1                    = Sezer Işiktaş
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Şırnak|Silopi}}
+| elevation_m                     = 
+| population_footnotes            = {{Turkey district populations|SOURCE|Şırnak}}
+| population_urban                = {{Turkey district populations|Şırnak|Silopi|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Şırnak|Silopi|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 73400
+| website                         = {{URL| www.silopi.bel.tr | www.silopi.bel.tr }}
+| official_name                   = 
+}}

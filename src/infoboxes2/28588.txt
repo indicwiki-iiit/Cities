@@ -1,0 +1,29 @@
+{{Infobox Australian place
+| type     = town
+| name     = Leonora
+| state    = wa
+| image    = Tower Street, Leonora, 2018 (11).jpg
+| caption  = Tower Street, Leonora
+| lga      = Shire of Leonora
+| coordinates = {{coord|28.883343|S|121.330744|E|display=inline,title}}
+| postcode = 6438
+| est      = 1897
+| pop      = 556
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016Y />
+| elevation= 376
+| maxtemp  = 27.9
+| mintemp  = 13.9
+| rainfall = 234.5
+| stategov = [[Electoral district of Kalgoorlie|Kalgoorlie]]
+| fedgov   = [[Division of O'Connor|O'Connor]]
+| dist1    = 833
+| dir1     = NE
+| location1= Perth
+| dist2    = 237
+| dir2     = N
+| location2= [[Kalgoorlie, Western Australia|Kalgoorlie]]
+| dist3    = 124
+| dir3     = NNW
+| location3= [[Leinster, Western Australia|Leinster]]
+}}

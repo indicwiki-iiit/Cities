@@ -1,0 +1,65 @@
+{{Infobox settlement
+|name            = Mayflower Village, California
+|settlement_type          = [[census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas Mayflower Village highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Mayflower Village in [[Los Angeles County, California|Los Angeles County]], [[California]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 0.687
+| area_land_sq_mi         = 0.687
+| area_water_sq_mi        = 0
+| area_total_km2          = 1.779
+| area_land_km2           = 1.779
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               =
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 5515
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 112
+|elevation_ft             = 367
+|coordinates              = {{coord|34|7|4|N|118|0|34|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 91006 & 91016
+|area_code                = [[Area code 626|626]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-46436
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1867040
+|website                  = 
+|footnotes                = 
+}}

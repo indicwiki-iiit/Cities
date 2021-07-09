@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                     = Fort Lupton, Colorado
+|settlement_type          = [[List of cities and towns in Colorado#Statutory city|Statutory City]]<ref name=COMun>{{cite web |url=https://dola.colorado.gov/lgis/municipalities.jsf|title=Active Colorado Municipalities|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 28, 2021}}</ref>
+|official_name            = City of Fort Lupton<ref name=COMun/>
+|nickname                 = 
+|motto                    = " Where Tradition Builds The Future " 
+<!-- images and maps  ----------->
+|image_skyline            = Fort Lupton, Colorado.JPG
+|imagesize                = 
+|image_caption            = Looking west along 1st Street in Fort Lupton.
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Weld County Colorado Incorporated and Unincorporated areas Fort Lupton Highlighted 0827700.svg
+|map_caption              = Location of the City of Fort Lupton in {{nobreak|[[Weld County, Colorado]].}}
+|pushpin_map              = USA
+|pushpin_label            = {{nobreak|Fort Lupton}}
+|pushpin_label_position   = right
+|pushpin_map_caption      = Location of the City of Fort Lupton in the {{nobreak|[[United States]].}}
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Colorado}}
+|subdivision_type2        = [[List of counties in Colorado|County]]
+|subdivision_name2        = [[Weld County, Colorado|Weld County]]<ref name=COcounty>{{cite web |url=https://dola.colorado.gov/lgis/counties.jsf|title=Colorado Counties|publisher=[[Colorado|State of Colorado]], [[Colorado Department of Local Affairs]], Division of Local Government|access-date=January 28, 2021}}</ref>
+|subdivision_type3        = [[List of cities and towns in Colorado|City]]
+|subdivision_name3        = Fort Lupton<ref name=COMun/>
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[List of cities and towns in Colorado#Statutory city|Statutory City]]<ref name=COMun/>
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = US
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_08.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_km2           = 28.86
+|area_land_km2            = 28.73
+|area_water_km2           = 0.12
+|area_total_sq_mi         = 11.14
+|area_land_sq_mi          = 11.09
+|area_water_sq_mi         = 0.05
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_km2          = 
+|area_blank1_sq_mi        = 
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 7377
+|population_density_km2   = 289.44
+|population_density_sq_mi = 749.68
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = 
+<!-- General information  --------------->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = [[Mountain Time Zone|MDT]]
+|utc_offset_DST           = -6
+|coordinates              = {{coord|40|5|N|104|48|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 1496
+|elevation_ft             = 4908
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 80621
+|area_code                = [[Area code 303|303]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 08-27700
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0180857
+|website                  = [http://www.fortlupton.org/ City of Fort Lupton]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8317
+}}

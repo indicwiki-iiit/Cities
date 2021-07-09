@@ -1,0 +1,44 @@
+{{Infobox Australian place
+| type = town
+| name = Thargomindah
+| state = qld
+| image = ThargomindahRoadHouse.jpg
+| caption = Outback roadhouse of Thargomindah
+| coordinates         = {{coord|-27.9922|143.8197|type:city_region:AU-QLD|display=inline,title|name=Thargomindah (town centre)}}
+| pop                 = 270
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1860s
+| postcode            = 4492
+| area                = 15213
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| elevation           = 130
+| dist1               = 197 <!-- road distances as per template instructions -->
+| dir1                = W
+| location1           = [[Cunnamulla]]
+| dist2               = 490
+| dir2                = W
+| location2           = [[St George, Queensland|St George]]
+| dist3               = 857
+| dir3                = W
+| location3           = [[Toowoomba]]
+| dist4               = 987
+| dir4                = W
+| location4           = [[Brisbane]]
+| lga = Shire of Bulloo
+| stategov = [[Electoral district of Warrego|Warrego]]
+| fedgov = [[Division of Maranoa|Maranoa]]
+| county = [[Wellington County, Queensland|Wellington]]
+| maxtemp = 29.5
+| mintemp = 16.1
+| rainfall = 300.4
+| near-n =  [[Eromanga, Queensland|Eromanga]]
+| near-ne = [[Quilpie, Queensland|Quilpie]]
+| near-e =  [[Yowah, Queensland|Yowah]]
+| near-se = [[Eulo, Queensland|Eulo]]
+| near-s =  [[Hungerford, Queensland|Hungerford]]
+| near-sw = [[Bulloo Downs, Queensland|Bulloo Downs]]
+| near-w =  [[Noccundra, Queensland|Noccundra]]
+| near-nw = [[Eromanga, Queensland|Eromanga]]
+}}

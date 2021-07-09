@@ -1,0 +1,39 @@
+{{Infobox settlement
+|official_name            = Bela Vista
+
+<!-- Maps -->
+|image_map                = Bela Vista.png
+|mapsize                  = 250px
+|map_caption              = Location in the city of [[São Paulo]]
+|image_map1               = Museu de Arte de Sao Paulo 1 Brasil.jpg
+|mapsize1                 =
+|map_caption1             = MASP, [[São Paulo Museum of Art]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[Brazil]]
+|subdivision_type1        = State
+|subdivision_name1        = [[São Paulo (state)|São Paulo]]
+|subdivision_type2        = [[City]]
+|subdivision_name2        = [[São Paulo]]
+|government_footnotes     =
+|government_type          = Subprefecture
+|leader_title             = Subprefect
+|leader_name              = Amauri Luiz Pastorello
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|area_total_km2            = 2.6
+
+<!-- Population -->
+|population_as_of         = 2000
+|population_total         = 63,190
+|population_density_km2   = 24,304
+|blank_name = '''[[Human Development Index|HDI]]'''
+|blank_info = 0.940 –<span style="color:#090">high</span>
+|footnotes                =
+|website                  = [http://se.prefeitura.sp.gov.br Subprefecture of Sé]
+}}

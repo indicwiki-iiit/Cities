@@ -1,0 +1,32 @@
+{{Infobox Australian place
+| type          = city
+| name          = Port Augusta
+| state         = sa
+| image         = Jacaranda Time Port Augusta.jpg
+| caption       = View across Spencer Gulf to Mount Brown
+| coordinates   = {{coord|32|29|33|S|137|45|57|E|display=inline,title}}
+| pop           = 13799
+| pop_year      = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| poprank       =
+| density       =
+| postcode      = 5700<ref>[http://www1.auspost.com.au/postcodes/index.asp?Locality=port+augusta&sub=1&State=SA&Postcode=&submit1=Search Australia Post] – Postcode: Port Augusta, SA (26 June 2008)</ref>
+| area          =
+| timezone      =
+| utc           =
+| timezone-dst  =
+| utc-dst       =
+| dist1         = 322
+| location1     = Adelaide via [[File:Australian National Route A1.svg|20px]]
+| dist2 = 470
+| location2 = [[Ceduna, South Australia|Ceduna]] via [[File:Australian National Route A1.svg|20px]]
+| dist3 = 542
+| location3 = [[Coober Pedy]] via [[File:Australian National Route A87.svg|20px]]
+| lga           = City of Port Augusta
+| stategov      = [[Electoral district of Stuart|Stuart]]<ref name=Stuart>{{cite web|title=District of Stuart Background Profile|url= http://www.ecsa.sa.gov.au/component/edocman/?task=document.download&id=527&Itemid=0 |publisher=ELECTORAL COMMISSION SA|access-date=20 August 2015}}</ref>
+| fedgov        = [[Division of Grey|Grey]]<ref name=AEC>{{cite web|title=Federal electoral division of Grey, boundary gazetted 16 December 2011|url= http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-grey.pdf |publisher=Australian Electoral Commission|access-date=20 August 2015}}</ref>
+| maxtemp = 26.3
+| mintemp = 12.2
+| rainfall = 214.1
+| est      = 1852
+}}

@@ -1,0 +1,38 @@
+{{Infobox settlement
+| name                   = Afula
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|עֲפוּלָה}}|rtl=yes}}
+ | {{Lang|ar|العفولة|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| image_skyline          = File:WikiAir_Flight_IL-13-09_022.jpg
+| imagesize              = 300
+| image_blank_emblem     = Coat of arms of Afula.png
+| blank_emblem_type      = Municipal seal of Afula
+| pushpin_map_alt        = 
+| pushpin_map            = Israel north haifa#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|36|23|N|35|17|17|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 177/224 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1900 BCE <small>(Canaanite settlement)</small><br>7th century <small>(Samaritan town)</small><br>14th century <small>(Arab village)</small><br>1925 <small>(Jewish village)</small>
+| leader_title           = Mayor
+| leader_name            = Avi Elkabetz
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:26909|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Afula}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

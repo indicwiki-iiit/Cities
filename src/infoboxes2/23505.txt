@@ -1,0 +1,88 @@
+{{Infobox settlement
+|name                     = East Hanover Township, New Jersey
+|official_name            = Township of East Hanover
+|settlement_type          = [[Township (New Jersey)|Township]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = File:ELLIS COOK HOUSE, EAST HANOVER, MORRIS COUNTY.jpg
+|imagesize                = 
+|image_caption            = Ellis Cook House
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Morris County New Jersey incorporated and unincorporated areas East Hanover Township highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Morris County, New Jersey|Morris County]] and the state of [[New Jersey]]
+|image_map1               = Census_Bureau_map_of_East_Hanover,_New_Jersey.png
+|mapsize1                 = 250x200px
+|map_caption1             = Census Bureau map of East Hanover, New Jersey
+|pushpin_map              = USA New Jersey Morris County#USA New Jersey#USA
+|pushpin_label            = East Hanover Township
+|pushpin_map_caption      = Location in Morris County##Location in New Jersey##Location in the United States
+|pushpin_relief           = yes
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image|Flag_of_Morris_County,_New_Jersey.gif}} [[Morris County, New Jersey|Morris]]
+|government_footnotes     = <ref name=DataBook/>
+|government_type          = [[Faulkner Act (small municipality)]]
+|governing_body           = Township Council
+|leader_title             = [[Mayor]]
+|leader_name              = Joseph Pannullo ([[Democratic Party (United States)|D]], term ends December 31, 2023)<ref name=Council/><ref>[https://www.state.nj.us/dca/home/2020mayors.pdf 2020 New Jersey Mayors Directory], [[New Jersey Department of Community Affairs]]. Accessed February 1, 2020.</ref>
+|leader_title1            = [[Municipal clerk]]
+|leader_name1             = Paula A. Massaro<ref>[http://www.easthanovertownship.com/Departments/township-clerk Township Clerk], Township of East Hanover. Accessed March 28, 2020.</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 9, 1928
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_cousubs_34.txt 2019 Census Gazetteer Files: New Jersey Places], [[United States Census Bureau]]. Accessed July 1, 2020.</ref>
+|area_magnitude           =
+|area_total_km2           = 20.98
+|area_land_km2            = 20.40
+|area_water_km2           =  0.58
+|area_total_sq_mi         =  8.10
+|area_land_sq_mi          =  7.88
+|area_water_sq_mi         =  0.23
+|area_water_percent       =  2.79
+|area_rank                = 231st of 565 in state<br>19th of 39 in county<ref name=CensusArea/>
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3402719210 DP-1 - Profile of General Population and Housing Characteristics: 2010 for East Hanover township, Morris County, New Jersey] {{Webarchive|url=https://archive.today/20200212112717/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US3402719210 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed March 7, 2012.</ref><ref name=Districts2011/><ref name=LWD2010>[http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_mor/easthanover1.pdf Profile of General Demographic Characteristics: 2010 for East Hanover township] {{Webarchive|url=https://web.archive.org/web/20130723150044/http://lwd.dol.state.nj.us/labor/lpa/census/2010/dp/dp1_mor/easthanover1.pdf |date=July 23, 2013 }}, [[New Jersey Department of Labor and Workforce Development]]. Accessed March 7, 2012.</ref>
+|population_total         = 11157
+|population_rank          = 219th of 566 in state<br>17th of 39 in county<ref name=GCTPH1NJ2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 GCT-PH1 Population, Housing Units, Area, and Density: 2010 - State -- County Subdivision from the 2010 Census Summary File 1 for New Jersey] {{Webarchive|url=https://archive.today/20200212202329/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/GCTPH1.ST16/0400000US34 |date=February 12, 2020 }}, [[United States Census Bureau]]. Accessed December 11, 2012.</ref>
+|population_density_km2   = auto
+|population_density_sq_mi = 1413.7
+|population_density_rank  = 342nd of 566 in state<br>20th of 39 in county<ref name=GCTPH1NJ2010/>
+|population_est           = 10921
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name=PopEst/>
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = <ref>{{Gnis|882192|Township of East Hanover}}, [[Geographic Names Information System]]. Accessed March 5, 2013.</ref>
+|elevation_m              = 
+|elevation_ft             = 226
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|40.818553|-74.363742|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 07936<ref>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=east%20hanover&state=NJ Look Up a ZIP Code for East Hanover, NJ], [[United States Postal Service]]. Accessed March 7, 2012.</ref><ref>[http://www.state.nj.us/infobank/njzips.htm Zip Codes], State of [[New Jersey]]. Accessed October 9, 2013.</ref>
+|area_code                = [[Area codes 862 and 973|973]]<ref>[http://www.area-codes.com/search.asp?frmNPA=&frmNXX=&frmState=NJ&frmCity=East+Hanover Area Code Lookup - NPA NXX for East Hanover, NJ], Area-Codes.com. Accessed October 9, 2013.</ref>
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3402719210<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website] , [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[https://census.missouri.edu/geocodes/?state=34 Geographic codes for New Jersey], Missouri Census Data Center. Accessed December 18, 2012.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0882192<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = {{URL|http://www.easthanovertownship.com}}
+|footnotes                = 
+}}

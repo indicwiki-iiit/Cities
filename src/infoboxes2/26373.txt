@@ -1,0 +1,72 @@
+{{Infobox settlement
+|name            = Ladera Heights, California
+|settlement_type          = [[Unincorporated community]]<br>[[Census-designated place]]
+|nickname                 = “The Black Beverly Hills”
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = LaderaheightsDSCN1827.JPG
+|imagesize                = 
+|image_caption            = Ladera Heights community sign
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = LA County Incorporated Areas Ladera Heights highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Ladera Heights in [[Los Angeles County, California|Los Angeles County]], [[California]].
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 2.966
+| area_land_sq_mi         = 2.966
+| area_water_sq_mi        = 0
+| area_total_km2          = 7.681
+| area_land_km2           = 7.681
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               =
+
+|elevation_footnotes      = <ref>{{Cite GNIS|1867032|Ladera Heights|access-date=October 23, 2014}}</ref>
+|elevation_ft             = 305
+|elevation_m              = 93
+<!-- Population -->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_total         = 6498
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = −8
+|timezone_DST             = PDT
+|utc_offset_DST           = −7
+|coordinates              = {{coord|33|59|20|N|118|22|27|W|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 90056
+|area_code                = [[Area codes 310 and 424|310/424]]/[[Area code 323|323]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|39108}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1867032}}, {{GNIS 4|2408521}}
+|website                  = 
+|footnotes                = 
+}}

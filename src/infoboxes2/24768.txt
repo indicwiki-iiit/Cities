@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Rakitovo 
+| native_name=Ракитово
+|image_skyline = Rakitovo-chitalishte-Budilnik.jpg
+|image_caption=
+| image_shield=BUL Ракитово COA.png
+|map_caption = Location of Rakitovo
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location of Rakitovo
+|coordinates            = {{coord|41|59|N|24|05|E|region:BG|display=inline}}
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+| subdivision_name1=[[Pazardzhik Province|Pazardzhik]]
+|leader_title           =Mayor
+|leader_name=Kostadin Holyanov
+| elevation_m=814
+| population_total=8&nbsp;569
+| population_as_of=2005
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+| postal_code=4640
+| area_code=03542
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|
+| | 
+}}

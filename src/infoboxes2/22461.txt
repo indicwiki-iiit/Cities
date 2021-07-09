@@ -1,0 +1,51 @@
+{{Infobox Australian place
+| type                = town
+| name                = Raymond Terrace
+| state               = nsw
+| image               = Raymond Terrace from Fitzgerald Bridge 02.jpg
+| caption             = Raymond Terrace foreshore from the Fitzgerald bridge
+| coordinates         = {{coord|32|45|41.3|S|151|44|38.6|E|display=inline,title}}
+| relief              = 1
+| local_map           = y
+| zoom                = 9
+| map_alt             = A map of New South Wales showing the location of Raymond Terrace marked by a red dot
+| pop                 = 12820
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=abs2016pop>{{Census 2016 AUS|id=SSC13327|name=Raymond Terrace (State Suburb)|access-date=27 June 2016|quick=on}}</ref><ref group=Note>This is the population figure for most of the suburb. It excludes residents living on two properties to the west of Newline Road in the north of the suburb. These are included in the ABS figures for [[Eagleton, New South Wales|Eagleton]]</ref>
+| density             = 322.9
+| density_footnotes   = <ref group=Note>This is the population density for the entire suburb, which includes rural areas around the town. The population density for the actual township, which covers an area of only {{convert|10.6|km2|sqmi|1|abbr=on}} is considerably higher.</ref>
+| est                 = 1837
+| postcode            = 2324
+| elevation           = 6
+| elevation_footnotes = <ref group=Note>Raymond Terrace is primarily flat however it does have some elevated areas. The figure presented represents the average elevation in the most populous area of the town as shown in 1:100000 map 9232 NEWCASTLE.</ref>
+| area                = 39.7
+| area_footnotes      = <ref group=Note>Area calculation is based on 1:100000 map 9232 NEWCASTLE.</ref>
+| timezone            = AEST
+| utc                 = +10
+| timezone-dst        = AEDT
+| utc-dst             = +11
+| dist1               = 168
+| dir1                = NNE
+| location1           = Sydney
+| dist2               = 25.8
+| dir2                = N
+| location2           = [[Newcastle, New South Wales|Newcastle]]
+| dist3               = 22
+| dir3                = E
+| location3           = [[Maitland, New South Wales|Maitland]]
+| lga                 = [[Port Stephens Council]]<ref name=lga>{{cite web|url=http://www.dlg.nsw.gov.au/dlg/dlghome/dlg_Regions.asp?regiontype=2&slacode=6400&region=HT|title=Suburb Search – Local Council Boundaries – Hunter (HT) – Port Stephens|publisher=[[New South Wales Division of Local Government]]|archive-url=https://web.archive.org/web/20140621120504/http://www.dlg.nsw.gov.au/dlg/dlghome/dlg_Regions.asp?regiontype=2&slacode=6400&region=HT|archive-date=21 June 2014|access-date=8 June 2008}}</ref>
+| region              = [[Hunter Region|Hunter]], [[Mid North Coast]]
+| county              = [[Gloucester County, New South Wales|Gloucester]]<ref name=gnbsuburb>{{NSW GNR|id=ujQlwpsyMn|title=Raymond Terrace|access-date=8 June 2008}}</ref>
+| parish              = Eldon<ref name=gnbsuburb/>
+| stategov            = [[Electoral district of Port Stephens|Port Stephens]]<ref>{{cite web|url=https://www.elections.nsw.gov.au/District-profiles/Port-Stephens|title=Port Stephens|publisher=[[New South Wales Electoral Commission]]|access-date=23 November 2019}}</ref>
+| stategov2           = [[Electoral district of Maitland|Maitland]]<ref>{{cite web|url=https://www.elections.nsw.gov.au/District-profiles/maitland |title=Maitland|publisher=[[New South Wales Electoral Commission]] |access-date=23 November 2019}}</ref>
+| fedgov              = [[Division of Paterson|Paterson]]<ref>{{cite web|url=http://apps.aec.gov.au/esearch/LocalitySearchResults.aspx?filter=Paterson&filterby=Electorate|title=Paterson|publisher=[[Australian Electoral Commission]]|date=26 July 2012|access-date=1 October 2012|url-status=dead|archive-url=https://web.archive.org/web/20091029100345/http://apps.aec.gov.au/esearch/LocalitySearchResults.aspx?filter=Paterson&filterby=Electorate|archive-date=29 October 2009|df=dmy-all}}</ref>
+| near-n              = [[Eagleton, New South Wales|Eagleton]]
+| near-ne             = [[Ferodale, New South Wales|Ferodale]]
+| near-e              = [[Ferodale, New South Wales|Ferodale]], [[Campvale, New South Wales|Campvale]], [[Williamtown, New South Wales|Williamtown]]
+| near-se             = [[Williamtown, New South Wales|Williamtown]]
+| near-s              = [[Heatherbrae, New South Wales|Heatherbrae]], [[Tomago, New South Wales|Tomago]]
+| near-sw             = [[Millers Forest, New South Wales|Millers Forest]]
+| near-w              = [[Nelsons Plains, New South Wales|Nelsons Plains]], [[Millers Forest, New South Wales|Millers Forest]]
+| near-nw             = [[Seaham, New South Wales|Seaham]], [[Nelsons Plains, New South Wales|Nelsons Plains]]
+}}

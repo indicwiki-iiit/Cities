@@ -1,0 +1,12 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Walt Whitman
+| image       = Walt Whitman - George Collins Cox.jpg
+| caption     = Whitman in 1887
+| birth_name  = Walter Whitman
+| birth_date  = {{birth date|1819|5|31}}
+| birth_place = [[West Hills, New York]], U.S.
+| death_date  = {{death date and age|1892|3|26|1819|5|31}}
+| death_place = [[Camden, New Jersey]], U.S.
+| signature   = Walt Whitman signature.svg
+| occupation  = {{hlist|Poet|essayist|journalist}}
+}}

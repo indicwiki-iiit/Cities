@@ -1,0 +1,60 @@
+{{Infobox airport
+| name = Domodedovo
+| nativename = {{nobold|{{lang|ru|Домодедово}}}}
+| image = Domodedovo Airport logo (en).svg
+| image2 = Moscow - Domodedovo (DME - UUDD) AN1951779.jpg
+| image-width = 250
+| image2-width = 250
+| IATA = DME
+| ICAO = UUDD
+| LID = ДМД
+| type = Public
+| owner = 
+| operator = [[East Line Group]]
+| city-served = [[Moscow]]
+| location = [[Domodedovo (town)|Domodedovo]]
+| opened = {{start date and age|df=y|1962|4|7|p=y}}
+| hub = <div>
+* [[Red Wings Airlines]]
+* [[S7 Airlines]]
+* [[Smartavia]]
+* [[Ural Airlines]]
+</div>
+| focus_city = <div> 
+*[[IrAero]]
+*[[NordStar Airlines|NordStar]]
+*[[Yamal Airlines]]</div>
+| metric-elev = yes
+| timezone = [[EEST]]
+| utc = [[UTC+03:00]]
+| elevation-f = 588
+| elevation-m = 179
+| coordinates = {{coord|55|24|31|N|37|54|22|E|type:airport_region:RU|display=it}}
+| pushpin_map = Russia Moscow Oblast#European Russia#Europe
+| pushpin_label = UUDD
+| pushpin_map_caption = Location of the airport in Moscow Oblast##Location of the airport in Russia##Location of the airport in Europe
+| website = [http://www.domodedovo.ru/en/ domodedovo.ru]
+| metric-rwy = y
+| r1-number = 14/32
+| r1-length-f = 12,467
+| r1-length-m = 3,800
+| r1-surface = Cement-concrete
+| r2-number = 14L/32R
+| r2-length-f = 7,776
+| r2-length-m = 2,370
+| r2-surface = Reinforced concrete
+| r3-number = 14R/32L
+| r3-length-f = 11,483
+| r3-length-m = 3,500
+| r3-surface = Cement-concrete
+| stat-year = 2018
+| stat1-header = Passengers
+| stat1-data = 29,403,704
+| stat2-header = Passenger change 16–17
+| stat2-data = {{increase}}7.6%
+| stat3-header = Aircraft movements
+| stat3-data = 234,700
+| stat4-header = Movements change 16–17
+| stat4-data = {{increase}}4.2%
+| footnotes = Sources:  Russian Federal Air Transport Agency (see also provisional 2018 statistics)<ref>{{cite web |url=https://www.favt.ru/dejatelnost-ajeroporty-i-ajerodromy-osnovnie-proizvodstvennie-pokazateli-aeroportov-obyom-perevoz/ |script-title=ru:Объемы перевозок через аэропорты России |language=ru |trans-title=Transportation volumes at Russian airports |publisher=[[Federal Air Transport Agency]] |website=www.favt.ru |access-date=23 October 2018}}</ref>
+}}

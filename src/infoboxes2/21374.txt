@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                    = Prospect Heights
+| native_name             =
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[Neighborhoods of Brooklyn|Neighborhood of Brooklyn]]
+| image_skyline           = Park Place Brooklyn Jan 2010.jpg
+| image_size              = 300px
+| image_alt               =
+| image_caption           =
+| image_map               = {{maplink|frame=y|plain=y|frame-align=center|zoom=12|type=shape|from=Neighbourhoods/New York City/Prospect Heights.map}}
+| map_alt                 =
+| map_caption             = Location in New York City
+| pushpin_map             = <!--New York City-->
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     =
+| coordinates             = {{Coord|40|40|40|N|73|58|10|W|type:city_region:US-NY|display=inline,title}}
+| coor_pinpoint           =
+| coordinates_footnotes   =
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|United States}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{flag|New York}}
+| subdivision_type2       = [[City]]
+| subdivision_name2       = {{flagicon image|Flag of New York City.svg}} [[New York City]]
+| subdivision_type3       = [[Borough (New York City)|Borough]]
+| subdivision_name3       = {{flagicon image|Flag of Brooklyn, New York.png}} [[Brooklyn]]
+| subdivision_type4       = [[Community boards of Brooklyn|Community District]]
+| subdivision_name4       = [[Brooklyn Community Board 8|Brooklyn 8]]<ref name="NYCPlanning">{{cite web |title=NYC Planning {{!}} Community Profiles|url=https://communityprofiles.planning.nyc.gov/brooklyn/8|website=communityprofiles.planning.nyc.gov|publisher=New York City Department of City Planning|access-date=March 18, 2019}}</ref>
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- square miles -->
+| area_total_sq_mi        =
+| area_land_sq_mi         =
+| area_water_sq_mi       =
+| area_urban_sq_mi       =
+| area_rural_sq_mi         =
+| area_metro_sq_mi       =
+| area_blank1_sq_mi      =
+| area_blank2_sq_mi      =
+| elevation_m             =
+
+<!-- population ---------------->
+| population_footnotes    = <ref name=PLP3A/>
+| population_total        = 67,645
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_km2  = <!-- for automatic calculation of any density field, use: auto -->| population_density_sq_mi=
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+
+<!-- demographics (section 1) -->
+| demographics_type1      = Race/Ethnicity
+| demographics1_footnotes = <ref name=PLP5/>
+| demographics1_title1    = White
+| demographics1_info1     = 47.2%
+| demographics1_title2    = Black
+| demographics1_info2     = 30.1
+| demographics1_title3    = Hispanic
+| demographics1_info3     = 11.5
+| demographics1_title4    = Asian
+| demographics1_info4     = 6.6
+| demographics1_title5    = Other
+| demographics1_info5     = 4.6
+
+| timezone1 = [[Eastern Time Zone|Eastern]]
+| utc_offset1 = −5
+| timezone1_DST = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST = −4
+| postal_code_type        = [[ZIP Code]]s
+| postal_code             = 11217, 11238
+| area_code_type          = [[Telephone numbering plan|Area code]]
+| area_code               = [[Area codes 718, 347, and 929|718, 347, 929]], and [[Area code 917|917]]
+}}

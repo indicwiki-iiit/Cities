@@ -1,0 +1,58 @@
+{{Infobox landform
+| water             = 
+| name              = Colorado Western Slope
+| other_name        = 
+| photo             = San Juan Mountains North of Telluride, Colorado (14017067499).jpg
+| photo_width       = 
+| photo_alt         = 
+| photo_caption     = San Juan Mountains North of Telluride, Colorado in the Western Slope
+| map               = Colorado
+| map_width         = 
+| map_caption       = 
+| map_alt           = 
+| relief            = 
+| label             = 
+| label_position    = 
+| mark              = 
+| marker_size       = 
+| location          = West of the [[Continental Divide]] in Colorado
+| grid_ref          = 
+| coordinates       = {{Coord|38|28|41.16|N|107|52|33.96|W|display=inline,title}}
+| coordinates_ref   = 
+| range             = [[Rocky Mountains]]
+| part_of           = 
+| water_bodies      = 
+| elevation_ft      = <!-- or |elevation_m = -->
+| elevation_ref     = 
+| surface_elevation_ft = <!-- or |surface_elevation_m = -->
+| surface_elevation_ref =
+| highest_point     = 
+| highest_elevation = 
+| highest_coords    = 
+| length            = 
+| width             = 
+| area              = <!-- {{Convert|NN|ha|acres}} -->
+| depth             = 
+| drop              = 
+| formed_by         = 
+| geology           = <!-- or |type = -->
+| age               = 
+| orogeny           = 
+| volcanic_arc/belt = 
+| volcanic_arc      = 
+| volcanic_belt     = 
+| volcanic_field    = 
+| eruption          = 
+| last_eruption     = 
+| topo              = 
+| operator          = 
+| designation       = 
+| free_label_1      = 
+| free_data_1       = 
+| free_label_2      = 
+| free_data_2       = 
+| free_label_3      = 
+| free_data_3       = 
+| website           = <!-- {{URL|example.com}} -->
+| embedded          = 
+}}

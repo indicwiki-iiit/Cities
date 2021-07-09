@@ -1,0 +1,21 @@
+{{Infobox writing system
+|name=Sylheti Nagri
+|altname={{Script|Sylo|ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ}}
+|native_name = {{Script|Sylo|ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ}}
+|sample    = Sylheti Nagari in Sylheti Nagari script - example.svg
+|imagesize = 200px
+|caption   = The word ''Silôṭi Nagri'' in Sylheti Nagri
+|type=[[Abugida]]
+|languages=[[Dobhashi|Late Middle Bengali]]<ref name=dHubert>Thibaut d'Hubert, Alexandre Papas (2018). ''Jāmī in Regional Contexts: The Reception of ʿAbd al-Raḥmān Jāmī’s Works in the Islamicate World, ca. 9th/15th-14th/20th Century''. pp.678. BRILL. Retrieved on 9 September 2020.</ref>
+<br/>[[Sylheti language|Sylheti]]<br/>
+|region=[[Greater Sylhet]], [[Greater Mymensingh]]
+|fam1=[[Proto-Sinaitic script|Proto-Sinaitic]]<sup>[a]</sup>
+|footnotes=[a] The Semitic origin of the Brahmic scripts is not universally agreed upon.
+|fam2=[[Brāhmī script|Brāhmī]]
+|fam3=[[Gupta script|Gupta]]
+|fam4=[[Siddham script|Siddham]]<ref name=daniels>{{cite book |last1=Daniels |first1=P. T. |year=2008 |chapter=Writing systems of major and minor languages |editor1-last=Kachru |editor1-first=B. |editor2-last=Kachru |editor2-first=Y. |editor3-last=Sridhar |editor3-first=S. N. |title=Language in South Asia |publisher=Cambridge University Press}}</ref>{{page needed|date=October 2020}}<ref name="masica">{{cite book |last1=Masica |first1=Colin |title=The Indo-Aryan languages |date=1993 |page=143}}</ref>
+|fam5=[[Nāgarī script|Nāgarī]]
+|fam6=[[Kaithi script]]<ref name=unicode2>{{cite web |title=Documentation in support of proposal for encoding Syloti Nagri in the BMP |date=1 November 2002 |page=5 |url=https://www.unicode.org/L2/L2002/02388-syloti-proposal.pdf |website=unicode.org |quote=In the opinion of Qadir (1999) and of Professor Clifford Wright of SOAS (personal communication), Syloti Nagri is a form of Kaithi, a script (or family of scripts) which belongs to the main group of North Indian scripts.}}</ref>
+|iso15924=Sylo
+|unicode=[https://www.unicode.org/charts/PDF/UA800.pdf U+A800&ndash;U+A82F]
+}}

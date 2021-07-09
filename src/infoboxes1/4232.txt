@@ -1,0 +1,81 @@
+{{Infobox settlement
+|name                     = Edinburg, Texas
+|official_name            = 
+|settlement_type          = [[List of cities in Texas|City]]
+|nickname                 = "Gateway City to the Rio Grande Valley"
+|motto                    =
+
+|image_skyline            = Hidalgo_County_Courthouse.jpg{{!}}border
+|imagesize                = 
+|image_caption            = The Hidalgo County Courthouse as seen from University Drive in late 2002
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Hidalgo County Edinburg.svg
+|mapsize                  = 250px
+|map_caption              = Location of Edinburg, Texas
+| pushpin_map             = Texas#USA<!-- name of a location map as per Template:Location_map -->
+| pushpin_map_caption     = Location of Edinburg in Texas##Location of Edinburg in the US
+| pushpin_label           = Edinburg
+| pushpin_label_position  =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|Texas|size=23px}}
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Hidalgo County, Texas.png|size=23px}} [[Hidalgo County, Texas|Hidalgo]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[City Council]]
+|leader_name              = [[Mayor]] Richard Molina <br/>Jorge "Coach" Salinas<br/>Gilbert Enriquez<br/> Homero Jasso <br/> David Torres<ref>[http://www.themonitor.com/news/local/article_400780c0-ca82-11e7-b145-6b9cdffdaabd.html Power shift: New Edinburg council takes office, interim attorney hired] The Monitor. 16 November 2017. Retrieved 26 November 2018.</ref>
+|leader_title1            = [[City Manager]]
+|leader_name1             = Richard M. Hinojosa
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 115.98
+|area_land_km2            = 115.83
+|area_water_km2           = 0.15
+|area_total_sq_mi         = 44.78
+|area_land_sq_mi          = 44.72
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 77100
+|population_footnotes     = 
+|pop_est_as_of            = 2019
+|population_est           = 101170
+|population_density_km2   = 873.43
+<!--2019 est.-->
+|population_density_sq_mi = 2262.15
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 29
+|elevation_ft             = 95
+|coordinates              = {{coord|26|18|15|N|98|9|50|W|region:US-TX_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 78539-78541
+|area_code                = [[Area code 956|956]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-22660<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1335095<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.cityofedinburg.com}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

@@ -1,0 +1,118 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Larkfield-Wikiup
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[census-designated place]]
+|motto                    = 
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Sonoma_County_California_Incorporated_and_Unincorporated_areas_Larkfield-Wikiup_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Sonoma County, California|Sonoma County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+|pushpin_map              = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          = 
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sonoma County, California|Sonoma]]
+|subdivision_type3        = 
+|subdivision_name3        = 
+|subdivision_type4        = 
+|subdivision_name4        = 
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|leader_title2            = 
+|leader_name2             = 
+|leader_title3            = 
+|leader_name3             = 
+|leader_title4            = 
+|leader_name4             = 
+|established_title        = <!-- Settled -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = <!-- Incorporated (city) -->
+|established_date3        = 
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = US
+| area_footnotes          = <ref>[https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt U.S. Census] {{webarchive|url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |date=2012-07-02 }}</ref>
+| area_total_sq_mi        = 5.308
+| area_land_sq_mi         = 5.308
+| area_water_sq_mi        = 0
+| area_total_km2          = 13.747
+| area_land_km2           = 13.747
+| area_water_km2          = 0
+| area_water_percent      = 0
+| area_note               = 
+|area_urban_sq_mi         = 
+|area_metro_sq_mi         = 
+|area_blank1_title        = 
+|area_blank1_sq_mi        = 
+<!-- Population   ----------------------->
+|population_as_of         = 2010
+|population_footnotes     = 
+|population_note          = 
+|population_total         = 8884
+|population_density_sq_mi = auto
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|population_density_urban_km2     = 
+|population_density_urban_sq_mi   = 
+|population_blank1_title          = 
+|population_blank1                = 
+|population_density_blank1_km2    = 
+|population_density_blank1_sq_mi  = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates_footnotes    = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|accessdate=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|coordinates              = {{coord|38|30|31|N|122|45|11|W|display=inline,title}}
+|elevation_footnotes      = 
+|elevation_ft             = 
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95403
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-40426
+|blank1_name              = 
+|blank1_info              = 
+|website                  = http://www.markwest.org/
+|footnotes                = 
+}}

@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name                   = Mableton, Georgia
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[Unincorporated community]] ([[Census-designated place|CDP]])
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = {{Photomontage
+| photo1a = Residential Street in Mableton 4.jpg
+| photo2b = Robert Mable House Front View.jpg
+| photo2c = Mableton Post Office.jpg
+| photo3a = Atlanta Skyline from Mableton.jpg
+
+| size = 305 <!-- Number indicating width of the montage (default: 200) -->
+| spacing = 1 <!-- Number indicating width of spacing between the images (default: 1) -->
+| color = <!-- Color of spacing between the images (default: black) -->
+| border = <!-- Number indicating width of border surrounding the montage (default: 1) -->
+| color_border = <!-- Color of border surrounding the montage (default: black) -->
+| text = <!-- Text displayed below montage but within border, wrapped to montage width -->
+| text_background = <!-- Color of background behind text (default: #F8F8FF) -->
+| foot_montage = <!-- Footer displayed under montage beneath border, not wrapped -->
+}}
+| image_caption                   = From top to bottom, left to right: a residential street in Mableton, Robert Mable's home built in 1843, the Mableton Post Office, the Atlanta skyline from Mt. Harmony Memorial Gardens in Mableton
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_map                       = Cobb_County_Georgia_Incorporated_and_Unincorporated_areas_Mableton_Highlighted.svg
+| mapsize                         = 200px
+| map_caption                     = Location in [[Cobb County, Georgia|Cobb County]] and the state of [[Georgia (U.S. state)|Georgia]]
+| pushpin_map                     = Metro Atlanta
+
+<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->| pushpin_map_caption             = Location within the [[Metro Atlanta|Atlanta Metropolitan Area]]
+| pushpin_mapsize                 = 200
+<!-- Location ------------------>| subdivision_type                = Country
+| subdivision_name                = {{US}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flagdeco|Georgia (U.S. state)}} [[Georgia (U.S. state)|Georgia]]
+| subdivision_type2               = [[List of counties in Georgia (U.S. state)|County]]
+| subdivision_name2               = [[Cobb County, Georgia|Cobb]]
+<!-- Politics ----------------->| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = District Commissioner
+| leader_name                     = Monique Sheffield
+| leader_title1                   = Body
+| leader_name1                    = Cobb County Board of Commissioners
+| established_title               = Settled
+| established_date                = September 11, 1843
+| established_title2              = Incorporated (town)
+| established_date2               = August 19, 1912 - August 17, 1916
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = 
+| area_total_km2                  = 53.7
+| area_land_km2                   = 53.3
+| area_water_km2                  = 0.4
+| area_total_sq_mi                = 20.8
+| area_land_sq_mi                 = 20.6
+| area_water_sq_mi                = 0.2
+| area_water_percent              = 
+| area_urban_sq_mi                = 
+| area_metro_sq_mi                = 
+| area_blank1_sq_mi               = <!-- Population   ----------------------->
+| population_as_of                = 2010
+| population_footnotes            = 
+| population_note                 = 
+| population_total                = 37115
+| population_density_km2          = auto
+| population_density_metro_sq_mi  = 
+| population_density_urban_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| coordinates                     = {{coord|33|48|48|N|84|34|18|W|region:US-GA|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 298
+| elevation_ft                    = 978
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]
+| postal_code                     = 30126
+| area_code                       = [[Area code 770|770]]/[[Area code 678|678]]/[[Area code 404|404]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 13-48288<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0332295<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+| website                         = {{URL|www.mableton.org}}
+| footnotes                       = 
+| name                            = 
+| imagesize                       = 305px
+| pushpin_label                   = Mableton
+| pop_est_as_of                   = 2018
+| population_est                  = 40,464
+}}

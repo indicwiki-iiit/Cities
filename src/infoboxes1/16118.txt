@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Daytona Beach, Florida
+| official_name           = City of Daytona Beach
+| settlement_type         = [[List of municipalities in Florida|City]]
+| image_skyline           = DaytonaBeach Collage-2009-26-04.png
+| image_caption           = From top, left to right: Welcome sign when entering Daytona Beach; [[Daytona Beach Bandshell and Oceanfront Park Complex|Daytona Beach Bandshell]]; [[Ocean Walk Shoppes]]; Daytona Beach Pier; [[Daytona International Speedway]]
+| image_seal              = Seal of Daytona Beach, Florida.png
+| nicknames                = "The World's Most Famous Beach", "The Spring Break Capital of the World"
+| image_map               = Volusia County Florida Incorporated and Unincorporated areas Daytona Beach Highlighted.svg
+| map_caption             = Location in Volusia County and the state of Florida
+| pushpin_map             = Florida#USA
+| pushpin_map_caption     = Location in Florida and the United States 
+| pushpin_label           = Daytona Beach
+| pushpin_relief          = 
+| coordinates             = {{coord|29|11|24|N|81|5|22|W|display=inline,title}}
+| coordinates_footnotes   = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[Florida]]
+| subdivision_type2       = [[List of counties in Florida|County]]
+| subdivision_name2       = [[Volusia County, Florida|Volusia]]
+| established_title       = Founded
+| established_date        = 1870
+| established_title1      = [[Municipal corporation|Incorporated]]
+| established_date1       = July 1876
+| government_type         = {{nowrap|[[Council–manager government|Commission–Manager]]}}
+| leader_title            = [[Mayor]]
+| leader_name             = Derrick Henry
+| unit_pref               = Imperial
+| area_magnitude          = 1 E8
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_sq_mi        = 68.17
+| area_land_sq_mi         = 65.65
+| area_water_sq_mi        = 2.52
+| area_urban_sq_mi        = 190.65
+| elevation_footnotes     = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| elevation_ft            = 13
+| elevation_m             = 4
+| population_footnotes    = <ref name="ua">[http://www2.census.gov/geo/docs/reference/ua/ua_list_all.txt 2010 List of Populations of Urban Areas]. U.S. Census Bureau. census.gov. Accessed 2015-02-22.</ref><ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2015-06-28 |title=U.S. Census website |df=mdy }}</ref><ref name="USCensusEst2014">{{cite web|url=https://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html |title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014 |access-date=June 4, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150523034651/https://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html |archive-date=May 23, 2015 }}</ref>
+| population_total        = 61005
+| population_as_of        = [[2010 United States Census|2010]]
+| pop_est_as_of           = 2019
+| population_est          = 69186
+| population_density_sq_mi = 1053.88
+| population_urban        = 349,064 ([[List of United States urban areas|109th, U.S.]])
+| population_metro        = 609,939 ([[List of Metropolitan Statistical Areas|90th, U.S.]])
+| population_blank1_title = [[Combined Statistical Area|CSA]]
+| population_blank1       = 3,045,707 ([[List of primary statistical areas of the United States|20th, U.S.]])
+| timezone1               = [[Eastern Time Zone|EST]]
+| utc_offset1             = &minus;5
+| timezone1_DST           = [[Eastern Time Zone|EDT]]
+| utc_offset1_DST         = &minus;4
+| postal_code_type        = [[ZIP Code]]s
+| postal_code             = 32114–32126, 32198
+| area_code               = [[Area code 386|386]]
+| blank_name              = [[Federal Information Processing Standard|FIPS code]]
+| blank_info              = 12-16525<ref name="GR2" />
+| blank1_name             = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info             = 0281353<ref name="GR3" />
+| website                 = {{URL|www.codb.us}}
+| footnotes               = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|area_total_km2 = 176.56
+|area_land_km2 = 170.03
+|area_water_km2 = 6.53
+|population_density_km2 = 406.90
+}}

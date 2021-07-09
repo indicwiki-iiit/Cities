@@ -1,0 +1,76 @@
+{{Infobox settlement
+|name                     = Floris, Virginia
+|official_name            = 
+|settlement_type          = [[Census-designated place]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = File:RachelCarsonMiddleSchool Main2.jpg
+|imagesize                = 250px
+|image_caption            = Entrance of Rachel Carson Middle School
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = USA Virginia Northern#USA Virginia#USA
+|pushpin_label            = Floris
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = 
+|pushpin_mapsize          =
+|image_map                =
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 =
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Virginia]]
+|subdivision_type2        = [[List of counties in Virginia|County]]
+|subdivision_name2        = [[Fairfax County, Virginia|Fairfax]]
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           =
+|area_magnitude           =
+|area_total_km2           = 7.20
+|area_land_km2            = 7.16
+|area_water_km2           = 0.05
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     =
+|population_total         = 8375
+|population_density_km2   = 1170.4
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      =
+|elevation_ft             = 360
+|coordinates              = {{coord|38|56|13|N|77|24|47|W|region:US-VA_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 
+|area_code                =
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 51-28528
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1495548
+|website                  =
+|footnotes                =
+}}

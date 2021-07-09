@@ -1,0 +1,40 @@
+{{Infobox settlement
+|settlement_type = Town
+|name             = Cobh
+|native_name      = {{Pad top italic|{{lang|ga|an Cóbh}}}}
+|image_shield     = Cobh Coat of Arms.png
+|motto            = {{lang|la|Statio Fidissima Classi}} ("The Fleet's Safest Post"){{spaces|2}}<small>([[Latin language|Latin]])</small>
+|image_skyline    = Cobh.jpg
+|image_caption    =
+|pushpin_map      = Ireland
+|pushpin_label_position = left
+|pushpin_map_caption = Location in Ireland
+|coordinates      = {{coord|51.851|-8.2967|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1  = Irish Grid Reference
+|blank_info_sec1  = {{iem4ibx|W793666}}
+|unit_pref        = Metric
+|elevation_m      = 47
+|subdivision_type = [[List of sovereign states|Country]]
+|subdivision_name = [[Republic of Ireland|Ireland]]
+|subdivision_type1= [[Provinces of Ireland|Province]]
+|subdivision_name1= [[Munster]]
+|subdivision_type2= [[Counties of Ireland|County]]
+|subdivision_name2= [[County Cork]]
+|subdivision_type3= {{lang|ga|Dáil Éireann|italic=no}}
+|subdivision_name3= [[Cork East (Dáil constituency)|Cork East]]
+|area_urban_footnotes = <ref name=cso2016>{{cite web |url=http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?MainTable=E2014&PLanguage=0&PXSId=0 |title=Population Density and Area Size 2016 |publisher=[[Central Statistics Office (Ireland)]] |access-date=26 December 2017}}</ref>
+|area_urban_km2   = 5.1
+|population_as_of = 2016
+|population_footnotes = <ref name=cso2016/>
+|population_total = 12,800
+|population_density_km2 = 2,521.9
+|website  = {{URL|visitcobh.com}}
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)21 
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =P24
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}

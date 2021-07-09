@@ -1,0 +1,39 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Santana de Parnaíba
+| settlement_type         = Municipality
+| image_skyline           = Igreja matriz de Santana do Parnaíba.jpg
+| image_caption           = Church in Santana de Parnaíba
+| image_flag              =  Bandeira de Santana de Parnaíba.png
+| image_shield            = Santana Parnaíba.PNG
+| image_map               = SaoPaulo Municip SantanadeParnaiba.svg
+| map_caption             = Location in São Paulo state
+| pushpin_map             = Brazil
+| pushpin_map_caption     = Location in Brazil 
+| coordinates             = {{coord|23|26|38|S|46|55|4|W|region:BR_type:city|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Brazil}}
+| subdivision_type1       = Region
+| subdivision_name1       = [[Southeast Brazil]]
+| subdivision_type2       = State
+| subdivision_name2       = [[São Paulo (state)|São Paulo]]
+| subdivision_type3       = Metropolitan Region
+| subdivision_name3       = [[Metropolitan Region of São Paulo|São Paulo]]
+| leader_party            = 
+| leader_title            = Prefect
+| leader_name             = 
+| area_total_km2          = 179.95 
+| elevation_m             = 
+| population_total        = 142,301
+| population_as_of        = 2020 <ref>[https://cidades.ibge.gov.br/brasil/sp/santana-de-parnaiba/panorama IBGE 2020]</ref>
+| population_density_km2  = auto
+| timezone1               = [[Time in Brazil|BRT]]
+| utc_offset1             = -3
+| timezone1_DST           = [[Daylight saving time in Brazil|BRST]]
+| utc_offset1_DST         = -2
+| postal_code_type        = [[Postal code]]
+| postal_code             = 
+| area_code_type          = [[Phone code]]
+| area_code               = 
+| website                 = 
+}}

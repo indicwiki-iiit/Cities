@@ -1,0 +1,29 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Jieshou}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|界首市}}}}}}
+|other_name = Kieshu
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = 
+|map_caption = Location of the city
+|subdivision_type = Country
+|subdivision_name = [[People's Republic of China]]
+|subdivision_type1 = [[Province of China|Province]]
+|subdivision_name1 = [[Anhui]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Fuyang]]
+|area_total_km2 = 667.3
+|population =834000
+|population_as_of = 2019
+|population_density_km2 = auto
+|population_density_urban_km2 = auto
+|coordinates   = {{coord|33.2570|N|115.3746|E|type:adm3rd_region:CN-34_source:Gaode|format=dms|display=it}}
+|elevation_ft = 128
+|elevation_m = 39
+|timezone = [[China Standard Time|CST]]
+|utc_offset = +8
+|postal_code_type =[[List of postal codes in China|Postal Code]]
+|postal_code = 236500
+|website =
+}}

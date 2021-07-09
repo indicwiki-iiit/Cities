@@ -1,0 +1,63 @@
+{{Infobox military installation
+|name=Lackland Air Force Base
+|ensign=Air Education and Training Command.png
+|ensign_size=50px
+|partof=[[Joint Base San Antonio]]
+|location= [[Bexar County, Texas]]
+|coordinates = {{coord|29.3880|-98.6207|type:landmark_region:US|format=dms|display=inline,title}}
+|image= Lackland-parade.jpg
+|image_size= 300px
+|caption=  Military Training Instructors and trainees participating in the Basic Military Training graduation parade.
+|type=Air Force Base
+|code=
+|built=1941
+|builder=
+|materials=
+|height=
+|used=1941–present
+|demolished=
+|condition=
+|ownership= [[United States Department of Defense|Department of Defense]]
+|operator={{air force|USA}}
+| controlledby = [[Air Education and Training Command]] (AETC)
+|garrison= 802d Mission Support Group
+|commanders=
+|occupants=
+|battles=
+|events=
+| gridref = 
+| image_map = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map = Texas
+| pushpin_mapsize = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Location of Lackland Air Force Base
+| pushpin_relief = 
+| pushpin_image = 
+| pushpin_label = '''KSKF'''
+| pushpin_label_position = bottom
+| pushpin_mark = 
+| pushpin_marksize = 
+| website = [http://www.basictraining.af.mil www.basictraining.af.mil]
+<!-- begin airfield information  -->
+| IATA = SKF
+| ICAO = KSKF
+| FAA = SKF
+| TC = 
+| LID = 
+| GPS = 
+| WMO = 
+| elevation = {{cvt|691 |ft|order=flip}}
+| r1-number = 16/34
+| r1-length = {{cvt|11,550 |ft||order=flip}}
+| r1-surface = Concrete
+| h1-number = 
+| h1-length = <!-- {{Convert| |m|0}} -->
+| h1-surface = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->
+| footnotes = '''Source:''' [[Federal Aviation Administration]]<ref>{{Cite web|url=https://adip.faa.gov/agis/public/#/airportData/SKF|title=Airport Data – Lackland AFB (SKF)|date=8 October 2020|website=Federal Aviation Administration|access-date=13 October 2020}}</ref>
+}}

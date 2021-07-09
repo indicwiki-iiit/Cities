@@ -1,0 +1,53 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Rio del Mar
+|native_name              = <!-- for cities whose native name is not in English -->
+|settlement_type          = [[census-designated place]]
+<!-- images and maps  ----------->
+|image_map                = Santa_Cruz_County_California_Incorporated_and_Unincorporated_areas_Rio_del_Mar_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Santa Cruz County, California|Santa Cruz County]] and the state of [[California]]
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Cruz County, California|Santa Cruz]]
+<!-- Area------------------>
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 4.612
+| area_land_sq_mi         = 3.001
+| area_water_sq_mi        = 1.611
+| area_total_km2          = 11.945
+| area_land_km2           = 7.772
+| area_water_km2          = 4.173
+| area_water_percent      = 34.94
+<!-- Population   ----------------------->
+|population_as_of         = 2010
+|population_total         = 9216
+|population_density_km2   = auto
+|population_density_sq_mi = auto
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|36|57|50|N|121|53|16|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 44
+|elevation_ft             = 144
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 95003
+|area_code                = [[Area code 831|831]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-60928
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1659513
+|website                  = 
+|footnotes                = 
+}}

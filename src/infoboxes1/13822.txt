@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = Laurel, Maryland
+|official_name            = City of Laurel
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "Progressio Per Populum"<br />(English: Progress Through People)
+|image_skyline            = LaurelMuseum.jpg
+|imagesize                = 250px
+|image_caption            = The [[Laurel Museum]] in May<!-- 12,--> 2007
+|image_flag               = Laurel md flag.png
+|image_shield             = Laurel md seal.jpg
+|image_map = Prince_George's_County_Maryland_Incorporated_and_Unincorporated_areas_Laurel_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Laurel in Prince George's County and Maryland
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map             = Maryland#USA
+| pushpin_label_position  = 
+| pushpin_label           = Laurel
+| pushpin_map_caption     = Location within the U.S. state of Maryland
+|subdivision_type         = Country
+|subdivision_name         = {{flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{nowrap|{{flagicon image|Flag of Prince George's County, Maryland (1963–present).svg}} [[Prince George's County, Maryland|Prince George's]]}}
+
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Craig A. Moe (2002–present)
+|leader_title1            = [[City Council]]<ref>{{cite news |url=https://www.cityoflaurel.org/council |title=Office of the City Council |publisher=City of Laurel |access-date=September 11, 2018 }}</ref>
+|leader_name1             = {{nowrap|Ward 1: Valerie M. A. Nicholas}}<br>
+Ward 1: Carl DeWalt<br>
+Ward 2: Frederick Smalls<br>
+Ward&nbsp;2: Keith R. Sydnor<br>
+At Large: Michael R. Leszcz
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = 1870
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_24.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 12.53
+|area_land_km2            = 12.47
+|area_water_km2           = 0.06
+|area_total_sq_mi         = 4.84
+|area_land_sq_mi          = 4.82
+|area_water_sq_mi         = 0.02
+|area_urban_sq_mi         = 
+|area_urban_km2           = 
+|area_metro_sq_mi         = 
+|area_metro_km2           = 
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 25631
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 25115
+|population_density_km2   = 2055.42
+|population_density_sq_mi = 5323.16
+|population_note          = 
+|population_metro         = 
+|population_urban         = 
+|timezone                 = [[North American Eastern Time Zone|EST]]
+|utc_offset = &minus;5
+|timezone_DST             = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+|coordinates              = {{coord|39|5|45|N|76|51|35|W|region:US-MD_type:city|display=inline,title}}
+|elevation_m              = 50
+|elevation_ft             = 164
+|postal_code_type         = ZIP codes
+|postal_code              = 20707–20709, 20725–20726
+|area_code                = 240, 301
+|website                  = [http://www.cityoflaurel.org/ cityoflaurel.org]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = 24-45900
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0597667
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

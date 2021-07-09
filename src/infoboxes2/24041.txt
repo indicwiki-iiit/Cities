@@ -1,0 +1,57 @@
+{{Infobox settlement
+| name                    = Moravská Třebová
+| native_name             = 
+| other_name              = 
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Náměstí T.G.Masaryka.jpg
+| image_caption           = [[Tomáš G. Masaryk]] Square
+| image_flag              = Moravská_Třebová_flag_CZ.svg
+| image_shield            = Moravská_Třebová_CoA_CZ.svg
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Pardubice Region|Pardubice]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Svitavy District|Svitavy]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|49|45|29|N|16|39|51|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Tomáš Kolkop
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1270
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 42.205
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 360
+<!-- population -->
+| population_as_of        = 2020-01-01<ref>{{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=2020-04-30}}</ref>
+| population_footnotes    = 
+| population_total        = 9948
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 571 01
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|http://www.mtrebova-city.cz/}}
+| footnotes               = 
+}}

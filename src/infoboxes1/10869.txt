@@ -1,0 +1,31 @@
+{{Infobox mountain
+| name = Huangshan<br />{{nobold|{{lang|zh-hans|黄山}}}}
+| other_name = 
+| photo = Huangshan pic 4.jpg
+| photo_caption = Panoramic view of the Huangshan landscape
+| elevation_m = 1864
+| elevation_ref = <ref name="peaklist">[http://www.peaklist.org/WWlists/ultras/china4.html "Lianhua Feng - Lotus Peak, HP Huang Shan"] on Peaklist.org - Central and Eastern China, Taiwan and Korea. This data is specific to the high point of the range only. Retrieved 2011-10-5.</ref>
+| prominence_m = 1734
+| prominence_ref = <ref name="peaklist"/>
+| map = China Northern Plain#China
+| map_caption = Location in eastern China
+| label_position = bottom
+| listing = [[Ultra prominent peak|Ultra]]
+| location = [[Huangshan City]], [[Anhui]]
+| range = 
+| coordinates = {{coord|30|07|30|N|118|10|00|E|type:mountain_region:CN-34_scale:100000|format=dms|display=inline,title}}
+| coordinates_ref = <ref name="peaklist"/>
+| topo = 
+| type = 
+| easiest_route = 
+| embedded = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Mount Huangshan
+| criteria      = {{UNESCO WHS type|(ii), (vii), (x)}}(ii), (vii), (x)
+| ID            = 547bis
+| year          = 1990
+| extension     = 2012
+| area          = {{convert|16,060|ha|sqmi|abbr=on}}
+| buffer_zone   = {{convert|49,000|ha|sqmi|abbr=on}}
+}}
+}}

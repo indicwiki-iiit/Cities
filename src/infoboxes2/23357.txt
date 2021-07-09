@@ -1,0 +1,33 @@
+{{Infobox station
+| name        ={{TSSN|Y|05|size=50}} {{TSSN|F|05|size=50}}<br /> Hikawadai Station
+| native_name = 氷川台駅
+| native_name_lang = ja
+| type        = 
+| image       = Hikawadai Station entrance 20080614.jpg
+| alt         = 
+| caption     = No. 2 entrance in June 2008
+| other_name  = 
+| address     = 3-38-18 Hikawadai, Nerima-ku, Tokyo
+| country     = Japan
+| coordinates = 
+| operator    = [[File:Tokyo Metro logo.svg|17px]] [[Tokyo Metro]]
+| line        = {{Plainlist|
+* {{TSLS|Y}} [[Tokyo Metro Yurakucho Line]]
+* {{TSLS|F}} [[Tokyo Metro Fukutoshin Line]]
+ }}
+| distance    = 6.8 km from {{STN|Wakoshi}}
+| platforms   = 2 side platforms
+| tracks      = 2
+| connections = 
+| structure   = 
+| code        = F-05, Y-05
+| website     = 
+| opened      = 24 June 1983
+| rebuilt     = 
+| closed      = 
+| former      =  
+| passengers  = 
+| pass_year   = 
+| map_type    = Japan Tokyo#Japan
+| map_dot_label = Hikawadai Station
+}}

@@ -1,0 +1,14 @@
+{{Infobox waterfall
+| name = Niagara Falls
+| photo = 3Falls Niagara.jpg
+| photo_caption =
+| location = [[Niagara River]] into the [[Niagara Gorge]]; border of [[New York (state)|New York]], United States, and [[Ontario]], Canada
+| coords = {{Coord|43.0799|-79.0747|display=inline,title|type:landmark|name=Niagara Falls}}
+| watercourse = [[Niagara River]]
+| type = Cataract
+| height = {{convert|167|ft|abbr=on}}
+| height_longest =
+| number_drops= 3
+| average_flow = {{convert|85000|ft3/s|abbr=on}}
+| world_rank =
+}}

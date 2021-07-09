@@ -1,0 +1,130 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Warkworth
+| native_name             = Mahurangi ([[Māori language|Māori]])</small>
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+|official_name          = 
+|other_name             =  
+|nickname               = 
+|settlement_type        = Town <!-- e.g. Town, Village, City, etc.-->
+|total_type             = Region <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = Location of Warkworth, New Zealand
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = New Zealand Auckland <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{NZ}}
+|subdivision_type1      = [[List of regions in New Zealand|Region]]
+|subdivision_name1      = [[Auckland Region|Auckland]]
+|subdivision_type2      = [[Territorial authorities of New Zealand|Territorial authority]]
+|subdivision_name2      = [[Auckland Council]]
+|subdivision_type3      = [[Auckland Council#Local board|Local board]]
+|subdivision_name3      = [[Rodney Local Board|Rodney]]
+|subdivision_type4      = 
+|subdivision_name4      = 
+|subdivision_type5      = 
+|subdivision_name5      = 
+|subdivision_type6      = 
+|subdivision_name6      = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              =
+|seat                   =
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  =<!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     =
+|p3= 
+|p4=
+|p5=
+|p6=
+|p7=<!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = 
+|leader_name1           =
+|established_title      =
+|established_date       = 
+|established_title1      =  
+|established_date1       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           =<!--Region--> <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = {{NZ population data 2018|||y}}
+|population_footnotes           = {{NZ population data 2018||||y}}
+|population_note                =
+|population_total               = {{NZ population data 2018|Warkworth|y}}
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_urban               =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+<!-- General information  --------------->
+|timezone               = [[Time in New Zealand|NZST]]
+|utc_offset             = +12
+|timezone_DST           = NZDT
+|utc_offset_DST         = +13
+|coor_type              =
+|coordinates            = {{coord|36|24|S|174|40|E|region:NZ|display=inline}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  [[Postcodes in New Zealand|Postcode(s)]]
+|postal_code            = 0910
+|area_code              =
+|website                = 
+|footnotes              = 
+|blank_name            =
+|blank_info            =
+}}

@@ -1,0 +1,23 @@
+{{Infobox UK place
+|country        = England
+|type           = Market town
+|static_image_name = Tring High Street.jpg
+|static_image_caption = Tring High Street
+|official_name  = Tring
+|coordinates    = {{coord|51.7962|-0.6592|display=inline,title}}
+|population     = 11730
+|population_ref = <ref name="tringcensus"/>
+|area_total_km2 = 36.21
+|population_density = {{convert|321.32|/km2|/sqmi|abbr=on}}
+|civil_parish = Tring
+|shire_district = [[Dacorum]]
+|shire_county   = [[Hertfordshire]]
+|region         = East of England
+|constituency_westminster = [[South West Hertfordshire (UK Parliament constituency)|South West Hertfordshire]]
+|post_town      = TRING
+|postcode_district = HP23
+|postcode_area  = HP
+|dial_code      = 01442
+|os_grid_reference = SP924117
+|website        = {{URL|http://www.tring.gov.uk}}
+}}

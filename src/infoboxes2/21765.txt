@@ -1,0 +1,31 @@
+{{Infobox UK place
+| official_name = Morpeth
+| country = England
+| region = North East England
+| static_image_name = <center><imagemap>
+File:Morpeth montage.png|275px|alt=A montage of images from Morpeth, which are images of the [[River Wansbeck]], [[Morpeth Castle]], [[Morpeth Clock Tower]], [[Morpeth Chantry]] and [[Morpeth station]]. Clicking on an image in the picture causes the browser to load the appropriate article.
+rect 0 0 580 425 [[River Wansbeck]]
+rect 581 0 1200 425 [[Morpeth Castle]]
+rect 581 428 1200 1201 [[Morpeth Clock Tower]]
+rect 0 428 581 1201 [[Morpeth Chantry]]
+rect 0 1203 1200 1809 [[Morpeth station]]
+</imagemap></center>
+| static_image_caption = Clockwise from top:  [[River Wansbeck]] at [[Carlisle Park, Morpeth|Carlisle Park]], [[Morpeth Castle]], [[Morpeth Clock Tower]], [[Morpeth station]] and [[Morpeth Chantry]]
+| population = 14,017
+| population_ref = (2011)<ref name=2011census>{{NOMIS2011|id=1170219946|title=Morpeth Parish|access-date=21 March 2018}}</ref>
+| os_grid_reference = NZ2085
+| post_town=MORPETH 
+| london_distance_mi = 261
+| london_direction = SSE
+| edinburgh_distance_mi = 80
+| edinburgh_direction = NW
+| language = English
+| postcode_area=NE
+| postcode_district= NE61, NE65 
+| dial_code = 01670
+| constituency_westminster = [[Wansbeck (UK Parliament constituency)|Wansbeck]]
+| civil_parish = Morpeth
+| unitary_england = [[Northumberland County Council|Northumberland]]
+| lieutenancy_england = [[Northumberland]]
+| coordinates = {{coord|55|10|03|N|01|41|27|W|display=inline,title}}
+}}

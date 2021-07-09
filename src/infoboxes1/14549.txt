@@ -1,0 +1,40 @@
+{{Infobox Australian place | type = suburb
+| name     = Wentworthville
+| city     = Sydney
+| state    = NSW
+| image    = Wentworthville-1-wiki.jpg
+| caption  = View from the railway footbridge
+| image2   ={{maplink
+|frame=yes
+|frame-width=260
+|frame-height=280
+|frame-align=center
+|zoom=13
+|type=shape
+|stroke-colour=#C60C30
+|stroke-width=3
+}}
+| lga      = [[City of Parramatta]]
+| lga2     = [[Cumberland Council, New South Wales|Cumberland City Council]]
+| postcode = 2145
+| est      = 1810
+| pop       = 11,318
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes = <ref name=census>{{Census 2016 AUS|id=SSC14228|name=Wentworthville (State Suburb)|access-date=29 July 2017|quick=on}}</ref>
+| area     = 3.1
+| stategov= [[Electoral district of Granville|Granville]]
+| stategov2= [[Electoral district of Prospect|Prospect]]
+| stategov3 = [[Electoral district of Seven Hills|Seven Hills]]
+| fedgov   = [[Division of Parramatta|Parramatta]]
+| near-nw  = [[Toongabbie, New South Wales|Toongabbie]]
+| near-n   = [[Old Toongabbie, New South Wales|Old Toongabbie]]
+| near-ne  = [[Northmead, New South Wales|Northmead]]
+| near-w   = [[Pendle Hill, New South Wales|Pendle Hill]]
+| near-e   = [[Westmead, New South Wales|Westmead]]
+| near-sw  = [[Greystanes, New South Wales|Greystanes]]
+| near-s   = [[South Wentworthville, New South Wales|South Wentworthville]]
+| near-se  = [[Merrylands West, New South Wales|Merrylands West]]
+| dist1    = 27
+| dir1     = west
+| location1 = Sydney CBD
+}}

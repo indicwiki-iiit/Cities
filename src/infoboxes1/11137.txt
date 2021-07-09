@@ -1,0 +1,62 @@
+{{Infobox settlement
+| official_name           = Brno
+| settlement_type         = [[Statutory city (Czech Republic)|Statutory city]]
+| image_skyline           = Brno Montage IV.png
+| imagesize               = 270px
+| image_caption           = From top: The Liberty Square, [[Cathedral of St. Peter and Paul, Brno|Cathedral of St. Peter and Paul]], [[Lužánky]] Park, [[Villa Tugendhat]], ''[[Ignis Brunensis]]'', [[Brno Exhibition Centre]], [[Špilberk Castle]] 
+| image_flag              = Flag of Brno.svg
+| image_shield            = Brno (znak).svg
+| shield_size             = 80px
+| image_blank_emblem      = Logo_Brno.svg
+| blank_emblem_type       = Logo
+| blank_emblem_size       = 120px
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[South Moravian Region|South Moravian]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Brno-City District|Brno-City]]
+<!-- maps and coordinates -->
+| map_caption             = Location in the Czech Republic
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_label_position  = left
+| coordinates             = {{coord|49|11|33|N|16|36|30|E|region:CZ|display=inline,title}}
+| parts_type              = Administrative divisions
+| parts                   = [[Brno-Bohunice|Bohunice]], [[Brno-Bosonohy|Bosonohy]], [[Brno-Bystrc|Bystrc]], [[Brno-Centre|Centre]], [[Brno-Černovice|Černovice]], [[Brno-Chrlice|Chrlice]], [[Brno-Ivanovice|Ivanovice]], [[Brno-Jehnice|Jehnice]], [[Brno-Jundrov|Jundrov]], [[Brno-Kníničky|Kníničky]], [[Brno-Kohoutovice|Kohoutovice]], [[Brno-Komín|Komín]], [[Brno-Královo Pole|Královo Pole]], [[Brno-Lesná|Lesná]], [[Brno-Líšeň|Líšeň]], [[Brno-Maloměřice and Obřany|Maloměřice and Obřany]], [[Brno-Medlánky|Medlánky]], [[Brno-North|North]], [[Brno-Nový Lískovec|Nový Lískovec]], [[Brno-Ořešín|Ořešín]], [[Brno-Řečkovice and Mokrá Hora|Řečkovice and Mokrá Hora]], [[Brno-Slatina|Slatina]], [[Brno-South|South]], [[Brno-Starý Lískovec|Starý Lískovec]], [[Brno-Tuřany|Tuřany]], [[Brno-Útěchov|Útěchov]], [[Brno-Vinohrady|Vinohrady]], [[Brno-Žabovřesky|Žabovřesky]], [[Brno-Žebětín|Žebětín]], [[Brno-Židenice|Židenice]]
+<!-- government type, leaders -->
+| leader_party            = [[Civic Democratic Party (Czech Republic)|ODS]]
+| leader_title            = Mayor
+| leader_name             = [[Markéta Vaňková]]
+<!-- established -->
+| established_title       = Founded
+| established_date        = ca. 1000<ref>{{cite web|title=History of the City of Brno|url=https://www.brno.cz/en/tourist-leisure/history/history-of-the-city-of-brno/|publisher=The Statutory city of Brno|access-date=2020-06-01|archive-url=https://web.archive.org/web/20160808121331/http://www.brno.cz/en/tourist-leisure/history/history-of-the-city-of-brno|archive-date=8 August 2016|url-status=dead}}</ref>
+<!-- area -->
+| area_total_km2          = 230.18
+| area_land_km2           = 225.66
+| area_water_km2          = 4.52
+| area_metro_km2          = 3170
+<!-- elevation -->
+| elevation_footnotes     = <ref name="witwib">{{cite web |url=http://www2.brno.cz/index.php?lan=en&nav01=2222&nav02=8 |title=Where in the world is Brno? – Statutory city of Brno |access-date=6 September 2011|publisher=The Statutory city of Brno|language=cs|url-status=dead|archive-url=https://web.archive.org/web/20110902004300/http://www.brno.cz/index.php?lan=en |archive-date=2 September 2011}}</ref>
+| elevation_m             = 237
+| elevation_min_m         = 190
+| elevation_max_m         = 497
+<!-- population -->
+| population_total        = 382405
+| population_as_of        = 2021-01-01
+| population_footnotes    = <ref name="pop">{{cite web |title=Population of Municipalities – 1 January 2021|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2021|publisher=[[Czech Statistical Office]]|date=2021-04-30}}</ref>
+| population_density_km2  = auto
+| population_metro        = 605988
+<!-- time zone(s) -->
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 600 00 – 650 00
+| area_code               = 00420 5
+| website                 = {{URL|https://www.brno.cz/}}
+| footnotes               = 
+}}

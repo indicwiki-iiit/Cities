@@ -1,0 +1,62 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| official_name           = Schleswig-Holstein
+| native_name             = 
+| native_name_lang        = de
+| settlement_type         = [[States of Germany|State]]
+| image_skyline           = 
+| imagesize               = 270px
+| image_caption           = 
+| image_flag              = Flag of Schleswig-Holstein.svg
+| flag_size               = 120px
+| image_shield            = DEU Schleswig-Holstein COA.svg
+| shield_size             = 75px
+| anthem                  = 
+| image_map               = {{maplink|frame=y|plain=yes|frame-align=center|zoom=5|type=shape<!--line-->|id=|stroke-color=|stroke-width=2|frame-lat=51.1|frame-long=10.5|frame-width=250|frame-height=300}}
+| mapsize                 = 155px
+| map_caption             = 
+| coordinates             = {{coord|54|28|12|N|9|30|50|E|display=inline}}
+| subdivision_type        = Country
+| subdivision_name        = [[Germany]]
+| seat_type               = Capital
+| seat                    = [[Kiel]]
+| governing_body          = [[Landtag of Schleswig-Holstein]]
+| leader_party            = CDU
+| leader_title            = [[Minister-President]]
+| leader_name             = [[Daniel Günther]]
+| leader_title1           = Governing parties
+| leader_name1            = {{Polparty|Germany|CDU}} / {{Polparty|Germany|Bündnis 90/Die Grünen}} / {{Polparty|Germany|FDP}}
+| leader_title2           = [[Bundesrat of Germany|Bundesrat votes]]
+| leader_name2            = 4 (of 69)
+| total_type              = Total
+| area_footnotes          = 
+| area_total_km2          = 15763.18
+| elevation_m             = 
+| population_footnotes    =<ref>{{cite web |url=https://www.statistik-nord.de/fileadmin/Dokumente/Presseinformationen/SI18_136.pdf |title=Bevölkerung in Schleswig-Holstein 2017 |author=Statistikamt Nord |access-date=29 June 2019}}</ref>
+| population_total        = 2,889,821
+| population_as_of        = 31 December 2017
+| population_density_km2  = auto
+| population_urban        = 
+| population_metro        = 
+| population_demonym      = 
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| registration_plate      = formerly: S<small> (1945–1947)</small>, SH<small> (1947)</small>, BS<small> (1948–1956)</small><ref>By the federal vehicle registration reform of 1 July 1956 distinct prefixes were given for every district.</ref>
+| blank_name_sec1         = [[Gross regional product|GRP (nominal)]]
+| blank_info_sec1         = €98 billion (2019)<ref>{{cite web|url=https://www.statistik-bw.de/VGRdL/tbls/tab.jsp|title=Bruttoinlandsprodukt – in jeweiligen Preisen – 1991 bis 2019|website=statistik-bw.de}}</ref>
+| blank1_name_sec1        = GRP per capita
+| blank1_info_sec1        = €34,000 (2019)
+| blank2_name_sec2         = [[Human Development Index|HDI]] (2018)
+| blank2_info_sec2         = 0.920<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}}</ref><br/>{{color|green|very high}} · [[List of German states by Human Development Index|13th of 16]]
+| iso_code                = DE-SH
+| blank_name_sec2         = [[First level NUTS of the European Union#Germany|NUTS Region]]
+| blank_info_sec2         = DEF
+| website                 = [http://www.schleswig-holstein.de/ schleswig-holstein.de]
+| footnotes               = 
+}}

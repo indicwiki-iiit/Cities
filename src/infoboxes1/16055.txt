@@ -1,0 +1,28 @@
+{{Infobox protected area
+| name = Wood Buffalo National Park
+| iucn_category = II
+| iucn_ref = <ref>{{Cite web|title=Protected Planet {{!}} Wood Buffalo National Park Of Canada|url=https://www.protectedplanet.net/611|access-date=2020-10-13|website=Protected Planet}}</ref>
+| photo = Wood-Buffalo-NP Gros Beak Lake 2 98-07-02.jpg
+| photo_caption = Grosbeak Lake
+| photo_width = 240
+| map = Canada#Alberta
+| map_width = 240
+| map_caption = Location of ''Wood Buffalo National Park''
+| relief = yes
+| location = [[Alberta]] and [[Northwest Territories]], Canada
+| nearest_city = [[Fort Chipewyan]]<br />[[Fort Smith, Northwest Territories|Fort Smith]]
+| embedded1 = 
+  {{Infobox UNESCO World Heritage Site
+  |child = yes
+  |Criteria = Natural: vii, ix, x
+  |ID = 256
+  |Year = 1983
+  }}
+| coordinates = {{coords|59|23|N|112|59|W|type:landmark_region:CA_dim:500000|display=inline,title}}
+| area_km2 = 44807
+| established = 1922
+| visitation_num =
+| visitation_year =
+| governing_body = [[Parks Canada]]
+| website = {{Official URL}}
+}}

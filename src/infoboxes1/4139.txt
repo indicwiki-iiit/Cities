@@ -1,0 +1,82 @@
+{{Infobox settlement
+|name                     = West Valley City, Utah
+|official_name            = City of West Valley City
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto = "Progress as promised."<ref>{{cite web|url=https://www.wvc-ut.gov/1168/About-Us|title=About Us|publisher=West Valley City, Utah|access-date=2018-08-14}}</ref>
+
+<!-- Images -->
+|image_skyline            = E Center outside 2002.jpg 
+|imagesize                = 
+|image_caption            = The [[Maverik Center]] in West Valley City, home of the [[Utah Grizzlies]] ice hockey team.
+|image_flag               = 
+|image_seal               = WVCseal.png
+
+<!-- Maps -->
+|image_map                = Salt Lake County Utah incorporated and unincorporated areas West Valley City highlighted.svg
+|map_caption              = Location within Salt Lake County
+|pushpin_map              = Utah#USA
+|pushpin_map_caption      = Location within Utah##Location within the United States
+|pushpin_relief           = 1
+|pushpin_label            = West Valley City
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{US}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Utah}}
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Salt Lake County, Utah|Salt Lake]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = [[Ron C. Bigelow|Ron Bigelow]] (R)
+|leader_title1            = 
+|leader_name1             = 
+
+| established_title               = Settled
+| established_date                = 1847
+| established_title2              = [[Incorporated town|Incorporated]]
+| established_date2               = 1980
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 92.92
+|area_land_km2            = 92.79
+|area_water_km2           = 0.14
+|area_total_sq_mi         = 35.88
+|area_land_sq_mi          = 35.83
+|area_water_sq_mi         = 0.05
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 129480
+|population_footnotes     = <ref name="USCensusEst2019">{{cite web|url=https://www.census.gov/programs-surveys/popest/data/tables.2019.html|title=Population and Housing Unit Estimates|access-date=May 21, 2020}}</ref>
+|population_density_km2   = 1457.60
+|population_density_sq_mi = 3775.14
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+|timezone_DST             = MDT
+|utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1312
+|elevation_ft             = 4304
+|coordinates              = {{coord|40|41|21|N|111|59|38|W|region:US-UT_type:city|display=inline,title}}
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-83470<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1437843<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{url|http://www.wvc-ut.gov/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|population_est = 135248
+}}

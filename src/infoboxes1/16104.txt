@@ -1,0 +1,85 @@
+{{Infobox settlement
+|official_name            = Lehi, Utah
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Lehi Tabernacle.jpg
+|imagesize                = 
+|image_caption            = [[Lehi Tabernacle]] in 1913
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Utah County Utah incorporated and unincorporated areas Lehi highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Utah County, UT|Utah County]] and the state of [[Utah]]
+
+| pushpin_map = Utah#USA
+| pushpin_map_caption = Location within Utah##Location within the United States
+| pushpin_relief = 1
+| pushpin_label = Lehi
+
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = [[United States]]
+|subdivision_type1        = State
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[List of counties in Utah|County]]
+|subdivision_name2        = [[Utah County, Utah|Utah]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Mark Johnson
+|leader_title1            = 
+|leader_name1             = Tyler Johnson
+|established_title        = Settled
+|established_date         = 1850
+|established_title1       = [[Incorporated town|Incorporated]]
+|established_date1        = February 5, 1852
+|named_for                = [[Lehi (Book of Mormon prophet)|Lehi]]
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 73.69
+|area_land_km2            = 72.74
+|area_water_km2           = 0.94
+|area_total_sq_mi         = 28.45
+|area_land_sq_mi          = 28.09
+|area_water_sq_mi         = 0.36
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 47407
+|population_density_km2   = 958.51
+|population_density_sq_mi = 2482.52
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = 
+|elevation_m              = 1391
+|elevation_ft             = 4564
+|coordinates              = {{coord|40|23|16|N|111|50|57|W|region:US-UT|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 84043
+|area_code                = [[Area codes 385 and 801|385, 801]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 49-44320<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1442553<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = https://www.lehi-ut.gov
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 69724
+}}

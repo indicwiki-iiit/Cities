@@ -1,0 +1,66 @@
+{{Infobox settlement
+<!-- Basic info  -->
+|official_name          = Cancún
+|native_name            = Kàankun
+|settlement_type        = [[City]]
+|image_skyline          = CancúnCollage.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|image_seal             =
+|image_shield           = 
+|nickname               =
+|motto                  = 
+<!-- images and maps  -->
+|image_map              = 
+|mapsize                = 180px
+|map_caption            = 
+|pushpin_map            = Mexico Quintana Roo#Mexico
+|pushpin_label_position = left
+|pushpin_map_caption    = Location in Mexico
+<!-- Location -->
+|coordinates            = {{coord|21|09|38|N|86|50|51|W|region:MX|display=inline,title}}
+|subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{MEX}}
+| subdivision_type1      = [[States of Mexico|State]]
+| subdivision_name1      = {{flag|Quintana Roo}}
+|subdivision_type2      = [[Municipalities of Quintana Roo|Municipality]]
+|subdivision_name2      = {{flagicon image|Flag of Benito Juarez.svg}} [[Benito Juárez Municipality, Quintana Roo|Benito Juárez]]
+<!-- Politics -->
+|established_title      = Founded
+|established_date       = April 20, 1970
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+<!-- Area    -->
+|leader_party           = [[National Regeneration Movement|MORENA]]
+|leader_title           = Mayor
+|leader_name            = Mara Lezama Espinosa
+|unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2         =1,978.75<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2          = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2         =
+<!-- Population   -->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 10
+|elevation_min_m        = 0
+<!-- Area/postal codes & others -->
+|population_total       = 888,797
+|population_as_of       = 2020<ref name="inegi20quin">{{cite web |url=https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_qroo_01_poblacion.xlsx |language=es |access-date=28 January 2021 |publisher=[[INEGI]] |title=INEGI. Censo de Población y Vivienda 2020. Tabulados del Cuestionario Básico – Quintana Roo |trans-title=INEGI. 2020 Population and Housing Census. Basic Questionnaire Tabulations – Quintana Roo |format=Excel |date=2020 |url-status=live |archive-date=28 January 2021 |archive-url=https://web.archive.org/web/20210128023451/https://www.inegi.org.mx/contenidos/programas/ccpv/2020/tabulados/cpv2020_b_qroo_01_poblacion.xlsx |pages=1–4}}</ref>
+|population_footnotes   =
+|population_density_km2 = auto
+|population_demonym     = Cancunense
+<!-- General information  -->
+|population_note        =
+|postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 77500
+|area_code              = 998
+| unemployment_rate = 
+|website                = {{URL|http://www.cancun.gob.mx}}
+|footnotes              = 
+|timezone               = [[Eastern Standard Time (North America)|EST]]
+|utc_offset             = −5
+|elevation_max_m        = 10
+|blank_name             = [[Mexican Federal Highway|Federal Routes]]
+|blank_info             = [[File:Carretera federal 180.svg|20px|link=Mexican Federal Highway 180]] [[File:Carretera federal 307.svg|20px|link=Mexican Federal Highway 307]] 
+}}

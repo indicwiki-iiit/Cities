@@ -1,0 +1,70 @@
+{{Infobox settlement
+|name                     = Inkster, Michigan
+|official_name            = City of Inkster
+|settlement_type          = [[City]]
+|image_skyline            = Michigan Avenue at Beech Daly Road Inkster Michigan.jpg
+|imagesize                = 275
+|image_caption            = Facing west at Beech Daly and [[U.S. Route 12 in Michigan|Michigan Avenue]]
+|image_seal               = 
+|pushpin_map            = Michigan#USA
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label = Inkster
+|pushpin_map_caption    = Location within the state of Michigan##Location within the United States
+|image_map                = Location of Inkster, Michigan in Wayne County.svg
+|mapsize                  = 250
+|map_caption              = Location within [[Wayne County, Michigan|Wayne County]] 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{Nowrap|{{Flagu|United States|size=23px}}}}
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = {{Flag|Michigan|size=23px}} 
+| subdivision_type2       = [[List of counties in Michigan|County]]
+| subdivision_name2       = {{Flagicon image|Flag of Wayne County, Michigan.png|size=23px}} [[Wayne County, Michigan|Wayne]]
+|established_title        = Settled
+|established_date         = 1835
+|established_title2       = Incorporation
+|established_date2        = 1926 (village)<br />1964 (city)
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = [[Mayor]]
+|leader_name1             = Patrick Wimberly
+|leader_title2            = [[City manager]]
+|leader_name2             = Mark Stuhldreher
+|area_magnitude           = 
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2           = 16.20
+|area_total_sq_mi         = 6.25
+|area_land_km2            = 16.19
+|area_land_sq_mi          = 6.25
+|area_water_km2           = 0.00
+|area_water_sq_mi         = 0.00
+|elevation_m              = 
+|elevation_ft             = 623
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 24284
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 25369
+|population_density_km2   = 1499.52
+|population_density_sq_mi = 3883.58
+| population_metro         = 4285832 ([[Metro Detroit]])
+|timezone                 = [[Eastern Standard Time Zone|EST]]
+|utc_offset               = -5
+|coordinates              = {{coord|42|17|33|N|83|18|51|W|region:US-MI|display=inline,title}}
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|postal_code_type         = [[ZIP Code|Zip code(s)]]
+|postal_code              = 48141
+|area_code                = [[Area code 313|313]] and [[Area code 734|734]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-40680<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0629039<ref>{{gnis|0629039}}</ref>
+|website                  = {{URL|http://www.cityofinkster.com/|Official website}}
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|unit_pref = Imperial
+}}

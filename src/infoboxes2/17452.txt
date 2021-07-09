@@ -1,0 +1,45 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Cayambe <!-- at least one of the first two fields must be filled in -->
+|native_name            = Kayampi
+|native_name_lang       = qu
+|settlement_type        = Municipality
+|image_flag             = Bandera de Cayambe.jpg
+|image_seal             = Escudo de Cayambe.jpg
+|motto                  = ''It is my passion'' (''Es mi Pasion'')
+|pushpin_map            = Ecuador<!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Cayambe within Pichincha and Ecuador
+|coordinates            = {{coord|0|02|38|N|78|09|22|W|display=inline,title}}
+|subdivision_type       = [[List of sovereign states|County]]
+|subdivision_name       = [[Ecuador]]
+|subdivision_type1      = [[Provinces of Ecuador|Province]]
+|subdivision_type2      = [[Cantons of Ecuador|Canton]]
+|subdivision_name1      = [[Pichincha Province|Pichincha]]
+|subdivision_name2      = [[Cayambe (canton)|Cayambe]]
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|established_title      =  <!-- Settled -->
+|established_title1     =  <!-- Incorporated (town) -->
+|established_title2     = Legal creation
+|established_date2      = July 23, 1883
+|parts_type             = Urban parishes
+|p1                     = [[Ayora, Cayambe|Ayora]]
+|leader_name            = William Perugachi Cevalles (2009-2014) 
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|elevation_m            = 2830
+|population_total               = 39,028
+|population_as_of               = INEC census 2010-11-28
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+<!-- General information  --------------->
+|population_note                = Decadal national census by the Instituto Nacional de Estadística y Censos (INEC)
+|timezone1               = [[Ecuador Time|ECT]]
+|utc_offset1             = -5
+| unemployment_rate = 
+|website                = 
+|p2                     = [[Cayambe, Cayambe|Cayambe]]
+|p3                     = [[Juan Montalvo, Cayambe|Juan Montalvo]]<!-- etc. up to p50: for separate parts to be listed--> 
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = 14° [[Mediterranean climate#Warm-summer mediterranean climate|Csb]]
+}}

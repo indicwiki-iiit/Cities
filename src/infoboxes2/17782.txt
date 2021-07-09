@@ -1,0 +1,76 @@
+{{Infobox settlement
+|official_name            = Oak Harbor
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+<!-- Images -->
+|image_skyline            = Oak Harbor 1.jpg
+|imagesize                = 
+|image_caption            = Windjammer Park
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Island_County_Washington_Incorporated_and_Unincorporated_areas_Oak_Harbor_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Oak Harbor, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[Island County, Washington|Island]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Robert Severns
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = City
+|established_date         = May 14, 1915
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 31.90
+|area_land_km2            = 25.00
+|area_water_km2           = 6.90
+|area_total_sq_mi         = 12.32
+|area_land_sq_mi          = 9.65
+|area_water_sq_mi         = 2.66
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 23565
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 22075
+|population_urban         = 
+|population_metro         = 84,460 (US: [[List of micropolitan statistical areas|60th]])
+|population_density_km2   = 942.63
+|population_density_sq_mi = 2441.46
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 28
+|elevation_ft             = 92
+|coordinates              = {{coord|48|17|42|N|122|39|31|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 98277–98278
+|area_code                = [[Area code 360|360]]
+|blank_name               = Telephone exchanges
+|blank_info               = 240, 257, 279, 395, 632, 675, 678, 679
+|blank1_name              = [[Federal Information Processing Standard|FIPS code]]
+|blank1_info              = 53-50360
+|blank2_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank2_info              = 1512518<ref name="GR3">{{cite gnis|id=1512518|name=Oak Harbor}}</ref>
+|website                  = {{URL|www.oakharbor.org/}}
+|footnotes                = 
+}}

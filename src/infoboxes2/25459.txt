@@ -1,0 +1,83 @@
+{{Infobox settlement
+|name                     = Port Jefferson, New York
+|official_name            = Incorporated Village of Port Jefferson
+|settlement_type          = [[Village (New York)|Village]]
+|nickname                 = Port Jeff
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = File:Port_Jefferson_montage.png
+|imagesize                = 250px
+|image_caption            = Clockwise from top: a view of shops on Main Street, monument commemorating the village's maritime past, Port Jefferson Village Hall, A ferry passes a local power plant en route to [[Bridgeport, Connecticut]], Port Jefferson Free Library
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+||pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_label            = Port Jefferson
+|pushpin_map_caption      = Location within the state of New York
+|pushpin_mapsize          = 
+|image_map                = Port-jefferson-map.gif
+|mapsize                  = 250px
+|map_caption              = U.S. Census Map
+|pushpin_map              = USA New York Long Island#New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New York}}
+|subdivision_type2        = [[List of counties in New York (state)|County]]
+|subdivision_name2        = [[Suffolk County, New York|Suffolk]]
+|government_footnotes     = 
+|government_type          = Mayor-Council 
+|leader_title             = Mayor
+|leader_name              = Margot Garant
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 8.00
+|area_land_km2            = 7.93
+|area_water_km2           = 0.07
+|area_total_sq_mi         = 3.09
+|area_land_sq_mi          = 3.06
+|area_water_sq_mi         = 0.03
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=Census2010>[https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3659355 DP-1 – Profile of General Population and Housing Characteristics: 2010 from the 2010 Demographic Profile Data for Port Jefferson village, New York] {{Webarchive|url=https://archive.today/20200213095825/https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3659355 |date=2020-02-13 }}, [[United States Census Bureau]]. Accessed April 5, 2019.</ref>
+|population_total         = 7750
+|population_density_km2   = 1026.61
+|population_density_sq_mi = 2659.16
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −05:00
+|timezone_DST             = EDT
+|utc_offset_DST           = −04:00
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 12
+|coordinates              = {{coord|40|56|46|N|73|3|44|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 11777
+|area_code                = [[Area codes 631 and 934|631, 934]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-59355
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0960968
+|website                  = {{URL|www.portjeff.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 8145
+}}

@@ -1,0 +1,79 @@
+{{Infobox settlement
+|name                     = Fernley
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "A Great Place to Live, Work, and Play"
+
+<!-- Images -->
+|image_skyline            = 2015-10-30 10 09 36 View west along Main Street (Nevada State Route 427) in Fernley, Nevada.jpg
+|imagesize                = 
+|image_caption            = Main Street in Fernley
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Lyon_County_Nevada_Incorporated_and_Unincorporated_areas_Fernley_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Fernley, Nevada
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nevada]]
+|subdivision_type2        = [[County (United States)|County]]
+|subdivision_name2        = [[Lyon County, Nevada|Lyon]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Roy Edgington Jr. ([[Republican Party (United States)|R]])
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = {{Start date and age|1904}}
+|established_title2       = Incorporated
+|established_date2        = {{Start date and age|2001|7|1}}
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_32.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 331.62
+|area_land_km2            = 314.18
+|area_water_km2           = 17.44
+|area_total_sq_mi         = 128.04
+|area_land_sq_mi          = 121.31
+|area_water_sq_mi         = 6.74
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 19368
+|population_density_km2   = 68.36
+|population_density_sq_mi = 177.04
+
+<!-- General information -->
+|timezone                 = PST
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 1268
+|elevation_ft             = 4160
+|coordinates              = {{coord|39|35|55|N|119|12|54|W|region:US-NV|display=inline, title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 89408
+|area_code                = [[Area code 775|775]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 32-24900
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0840446
+|website                  = {{URL|www.cityoffernley.org}}
+|footnotes                = 
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 21476
+}}

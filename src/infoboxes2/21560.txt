@@ -1,0 +1,73 @@
+{{Infobox settlement
+|name                     = Stony Point, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = Stony Point Light - Rockland County NY.jpg
+|imagesize                = 
+|image_caption            = [[Stony Point Light]] in Stony Point
+|image_flag               = 
+|image_seal               = 
+||pushpin_map             = New York
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of New York
+|image_map              = Rockland County New York incorporated and unincorporated areas Stony Point highlighted.svg
+|mapsize                = 260px
+|map_caption            = Location in [[Rockland County, New York|Rockland County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Rockland County, New York|Rockland]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Supervisor
+|leader_name              = Jim Monaghan
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Established
+|established_date         = March 20, 1865
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|access-date=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 81.84
+|area_land_km2            = 71.54
+|area_water_km2           = 10.30
+|area_total_sq_mi         = 31.60
+|area_land_sq_mi          = 27.62
+|area_water_sq_mi         = 3.98
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 15059
+|population_density_km2   = 216.30
+|population_density_sq_mi = 560.20
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 86
+|elevation_ft             = 282
+|coordinates              = {{coord|41|14|14|N|74|0|4|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 10980
+|area_code                = [[Area code 845|845]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-71674
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0979532
+|website                  = http://www.townofstonypoint.org
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 15475
+}}

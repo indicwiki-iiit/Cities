@@ -1,0 +1,27 @@
+{{Infobox Australian place
+| type     = town
+| name     = Wonthaggi
+| state    = vic
+| image    =Wonthaggi Main Street Shopping.jpg
+| caption  =Shopping Strip, McBride Avenue
+| lga      = Bass Coast Shire
+| use_lga_map = yes
+| postcode = 3995
+| est      =
+| pop      = 4965
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="abs">{{Census 2016 AUS | id = SSC22814 | name = Wonthaggi (State Suburb) | access-date = 22 August 2020 | quick = on}}</ref>
+| elevation= 52
+| coordinates = {{coord|38|36|20|S|145|35|30|E|display=inline,title}}
+| maxtemp  = 18.7
+| mintemp  = 9.5
+| rainfall = 920.7
+| stategov = [[Electoral district of Bass|Bass]]
+| fedgov   = [[Division of Monash|Monash]]
+| dist1    = 135
+| dir1     = SE
+| location1= [[Melbourne]]
+| dist2    = 39
+| dir2     = S
+| location2= [[Leongatha, Victoria|Leongatha]]
+}}

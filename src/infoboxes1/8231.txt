@@ -1,0 +1,56 @@
+{{Infobox settlement
+| name                            = {{raise|0.2em|Shizuoka Prefecture}}
+| native_name                     = {{lower|0.1em|{{nobold|{{lang|ja|{{Lang|ja|静岡県}}}}}}}}
+| official_name                   = 
+| settlement_type                 = [[Prefectures of Japan|Prefecture]]
+| translit_lang1                  = Japanese
+| translit_lang1_type             = [[Japanese language|Japanese]]
+| translit_lang1_info             = {{lang|ja|{{Lang|ja|静岡県}}}}
+| translit_lang1_type1            = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1            = {{lang|ja-Latn|Shizuoka-ken}}
+| image_flag                      = Flag of Shizuoka Prefecture.svg
+| flag_size                       = 100px
+| image_blank_emblem              = Emblem of Shizuoka Prefecture.svg
+| blank_emblem_size               = 80px
+| blank_emblem_type               = Symbol
+| image_skyline                   =
+| image_map                       = Map of Japan with highlight on 22 Shizuoka prefecture.svg
+| coordinates                     = {{coord|34|55|N|138|19|E|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Japan]]
+| subdivision_type1               = [[List of regions of Japan|Region]]
+| subdivision_name1               = [[Chūbu region|Chūbu]] ([[Tōkai region|Tōkai]])
+| subdivision_type2               = [[List of islands of Japan|Island]]
+| subdivision_name2               = [[Honshu]]
+| seat_type                       = [[List of capitals in Japan|Capital]]
+| seat                            = [[Shizuoka, Shizuoka|Shizuoka]]
+| seat1_type                      = Largest city
+| seat1                           = [[Hamamatsu]]
+| parts_type                      = Subdivisions
+| parts_style                     = para
+| p1                              = [[Districts of Japan|Districts]]: 5
+| p2                              = [[Municipalities of Japan|Municipalities]]: 35
+| leader_title                    = [[List of prefectural governors in Japan|Governor]]
+| leader_name                     = [[Heita Kawakatsu]]
+| area_total_km2                  = 7777.42
+| area_water_percent              = 2.6
+| area_rank                       = [[List of Japanese prefectures by area|13th]]
+| elevation_max_m = 
+3778 
+| elevation_max_point = [[Mount Fuji]] 
+| population_footnotes            = 
+| population_total                = 3637998
+| population_as_of                = {{date|2019-12-01}}
+| population_rank                 = [[List of Japanese prefectures by population|10th]]
+| population_density_km2          = auto
+| iso_code                        = JP-22
+| website                         = {{URL|www.pref.shizuoka.jp/a_foreign/english}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = [[Japanese paradise flycatcher]] (''Terpsiphone atrocaudata'')
+| fish     = 
+| flower   = [[Azalea]] (''Rhododendron'')
+| tree     = [[Sweet osmanthus]] (''Osmanthus fragrans'' var. ''aurantiacus'')
+}}
+
+}}

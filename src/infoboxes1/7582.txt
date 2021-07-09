@@ -1,0 +1,42 @@
+{{Infobox settlement
+| name                   = Tiberias
+| native_name            = {{Hlist
+ | {{Lang|he|טבריה|rtl=yes}}
+ | {{Lang|ar|طبريا|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1948)
+| translit_lang1         = Hebrew
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Tveria, Tveriah (unofficial)
+| image_skyline          = TIBERIAS - GALILEE (7723477802).jpg
+| image_blank_emblem     = Coat of Arms of Tiberias.svg
+| pushpin_map_alt        = 
+| pushpin_map            = Israel
+| pushpin_mapsize        = 150
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|47|40|N|35|32|00|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 201/243 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1200 BCE <small>(Biblical [[Rakkath]])</small><br />20 CE <small>(Herodian city)</small>
+| leader_title           = Mayor
+| leader_name            = [[Boaz Yosef]]<ref>{{cite web |title=לשכת ראש העיר |url=https://www.tiberias.muni.il/city/Lists/List1/CustomDispForm.aspx?ID=8 |website=עיריית טבריה |access-date=14 June 2021 |language=he-il}}</ref>
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:10872|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Tiberias}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = City of [[Tiberius]]
+| website                = [http://www.tiberias.muni.il/ www.tiberias.muni.il]
+}}

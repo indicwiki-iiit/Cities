@@ -1,0 +1,36 @@
+{{Infobox Australian place
+| type     = suburb
+| name     = Merrimac
+| city     = [[Gold Coast, Queensland|Gold Coast]]
+| state    = qld
+| image    = Entry Drive Merrimac, Queensland.jpg
+| caption  = Entry Drive, 2015
+| coordinates         = {{coord|-28.0511|153.3744|type:city_region:AU-QLD|display=inline,title}}
+| pop                 = 7071
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4226
+| area                = 9.0
+| timezone            = [[AEST]]
+| utc                 = +10:00
+
+| lga      = Gold Coast City
+| stategov = [[Electoral district of Mudgeeraba|Mudgeeraba]]
+| fedgov   = [[Division of Macpherson|Macpherson]]
+| fedgov2  = [[Division of Moncrieff|Moncrieff]]
+| dist1    = 10.4 <!-- road distance as per template instructions -->
+| dir1     = SW
+| location1= [[Surfers Paradise, Queensland|Surfers Paradise]]
+| dist2    = 78.7
+| dir2     = SSE
+| location2= [[Brisbane]]
+| near-n              = [[Carrara, Queensland|Carrara]]
+| near-ne             = [[Carrara, Queensland|Carrara]]
+| near-e              = [[Clear Island Waters, Queensland|Clear Island Waters]]
+| near-se             = [[Robina, Queensland|Robina]]
+| near-s              = [[Robina, Queensland|Robina]]
+| near-sw             = [[Mudgeeraba, Queensland|Mudgeeraba]]
+| near-w              = [[Worongary, Queensland|Worongary]]
+| near-nw             = [[Carrara, Queensland|Carrara]]
+}}

@@ -1,0 +1,72 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          =Machakos
+|native_name            =Masaku
+|other_name             =
+|settlement_type        =[[List of cities and towns in Kenya by population|Municipality]]
+|image_skyline          =Buildings at Machakos.jpg
+|imagesize              = 
+|image_caption          = Machakos
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            =Kenya
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Kenya
+|coordinates            = {{coord|1|31|S|37|16|E|region:KE|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       ={{flag|Kenya}}
+|subdivision_type1      = [[Counties of Kenya|County]]
+|subdivision_type3      = 
+|subdivision_type4      = 
+|subdivision_name1      =[[Machakos County]]
+|subdivision_name3      = 
+|subdivision_name4      = 
+<!-- Politics ----------------->
+|established_title      = Founded
+|established_date       = 1887
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        = <!--The leaders of Machakos Town/Municipality are needed, not those of Machakos County-->
+|leader_title           = 
+|leader_name            = <!--The leaders of Machakos Town/Municipality are needed, not those of Machakos County-->
+|unit_pref              = Metric <!--Enter: Metric, if Metric (Imperial) is desired-->
+|area_footnotes         =
+|area_magnitude         = 
+|area_total_km2         = 
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 
+|elevation_ft           = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|population_total       = 150,041<ref name="OpenData Kenya">{{Cite web |url=https://www.opendata.go.ke/Population/2009-Census-Vol-1-Table-3-Rural-and-Urban-Populati/e7c7-w67t/1 |title=Archived copy |access-date=24 January 2014 |archive-url=https://web.archive.org/web/20160729203228/https://www.opendata.go.ke/Population/2009-Census-Vol-1-Table-3-Rural-and-Urban-Populati/e7c7-w67t/1 |archive-date=29 July 2016 |url-status=dead }}</ref>
+|population_as_of       = 2009
+|population_footnotes   =
+|population_density_km2 =
+<!-- General information  --------------->
+|population_note        =
+|postal_code_type       =  Postcode
+|postal_code            =9010O
+|area_code              =
+|website                = 
+|footnotes              = 
+|leader_title2           = 
+|leader_title3           = 
+|leader_name2           =
+|leader_name3           = 
+|timezone               = [[East Africa Time|EAT]]
+|utc_offset             = +3
+|timezone_DST           = 
+|utc_offset_DST         = 
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+}}

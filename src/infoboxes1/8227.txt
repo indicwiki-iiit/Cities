@@ -1,0 +1,32 @@
+{{Infobox station
+| name        = Gōtsu Station
+| native_name = 江津駅
+| native_name_lang = ja
+| type        = 
+| image       = 180503 Gotsu Station Gotsu Shimane pref Japan04n.jpg
+| alt         = 
+| caption     = Gōtsu Station in May 2018
+| other_name  = 
+| address     = 926 Gōtsu-chō, Gōtsu-shi, Shimane-ken 695-0011
+| country     = Japan
+| coordinates = {{Coord|35.012785|132.223208|format=dms|display=inline,title|type:railwaystation_region:JP}}
+| operator    = [[File:JR logo (west).svg|20px]] [[JR West]]
+| line        = {{Plainlist|
+* {{RouteBox|D||#f26122}} [[Sanin Main Line]]
+}}
+| distance    = 453.4 km from {{STN|Kyoto}}
+| platforms   = 1 side + 1 island platform
+| tracks      = 3
+| connections = Bus stop
+| structure   = 
+| code        = 
+| website     = {{Official website|1=http://www.jr-odekake.net/eki/top.php?id=0640758}}
+| opened      = 25 December 1920
+| rebuilt     = 
+| closed      = 
+| former      = Iwami-Gōtsu (until June 1970)
+| passengers  = 
+| pass_year   = 
+| map_type    = Japan
+| map_dot_label =
+}}

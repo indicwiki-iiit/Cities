@@ -1,0 +1,80 @@
+{{Infobox settlement
+| name                            = Bluffton, South Carolina
+| official_name                   = 
+| motto                           = ''A State of Mind''
+| settlement_type                 = [[Town]]
+| image_caption                   = Clockwise from top: the May River, the Heyward House, a gravel path, CareCore Dr, a Post Office, Myrtle Island, and The Store
+| image_skyline                   = Bluffton Montage 2012.png
+| imagesize                       = 250px
+| image_flag                      = 
+| image_seal                      = Town of Bluffton Seal.png
+| seal_size                       = 140px
+| image_map                       = BlufftonImageMap.svg
+| mapsize                         = 250px
+| map_caption                     = Location in [[Beaufort County, South Carolina|Beaufort County]] and [[South Carolina]]
+| image_map1                      = South_Carolina_in_United_States.svg
+| mapsize1                        = 250px
+| map_caption1                    = Location of South Carolina in the United States
+| subdivision_type                = Country
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in South Carolina|Counties]]
+| subdivision_name                = United States
+| subdivision_name1               = [[South Carolina]]
+| subdivision_name2               = [[Beaufort County, South Carolina|Beaufort]]
+| government_type                 = [[Town council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Lisa Sulka
+| leader_party                    = 
+| leader_title1                   = [[Town council]]
+| leader_name1                    = {{collapsible list|bullets=yes
+ | title = Members
+ | 1 = Larry Toomer
+ | 2 = Fred Hamilton
+ | 3 = Dan Wood
+ | 4 = Bridgette Frazier
+ }}
+| established_title               = Settled
+| established_date                = 1728
+| established_title1              = Founded
+| established_date1               = 1852
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_45.txt|publisher=United States Census Bureau|access-date=July 29, 2020}}</ref>
+| area_magnitude                  = 10<sup>8</sup>
+| area_total_km2                  = 140.36
+| area_land_km2                   = 134.60
+| area_water_km2                  = 5.77
+| area_total_sq_mi                = 54.19
+| area_land_sq_mi                 = 51.97
+| area_water_sq_mi                = 2.23
+
+<!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 25557
+| pop_est_as_of                   = 2019
+| population_footnotes            = 
+| population_total                = 12530
+| population_density_km2          = 189.88
+| population_density_sq_mi        = 491.78
+
+<!-- General information -->
+| timezone                        = [[Eastern Time Zone (North America)|EST]]
+| utc_offset                      = -5
+| timezone_DST                    = [[Eastern Time Zone (North America)|EDT]]
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 6
+| elevation_ft                    = 20
+| coordinates                     = {{coord|32|12|45|N|80|53|50|W|region:US-SC|display=inline,title}}
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 29909-29910
+| area_code                       = [[Area codes 843 and 854|843, 854]]
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 45-07210
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1220833
+| website                         = {{URL|www.townofbluffton.sc.gov}}
+| footnotes                       = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

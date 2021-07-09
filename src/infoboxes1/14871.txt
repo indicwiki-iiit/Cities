@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                            = Valandovo
+| native_name                     = {{native name|mk|Валандово|italics=off}}
+| native_name_lang                = mk
+| settlement_type                 = City
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{NMK}}
+| subdivision_type1               = [[Statistical Regions of Macedonia|Region]]
+| subdivision_name1               = [[File:Logo of Southeastern Region, Macedonia.svg|13px]] [[Southeastern Statistical Region|Southeastern]]
+| subdivision_type2               = [[Municipalities of Macedonia|Municipality]]
+| subdivision_name2               = [[File:Coat of arms of Valandovo Municipality.svg|13px]] [[Valandovo Municipality|Valandovo]]
+| pushpin_map                     = Macedonia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location within North Macedonia
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| leader_name                     = Pero Kostadinov ([[SDSM]])
+| image_flag                      = Flag of Valandovo Municipality.svg
+| image_shield                    = Coat of arms of Valandovo Municipality.svg
+| image_skyline                   = Valankovo depuis mnt Plavush.jpg
+| website                         = http://www.valandovo.gov.mk/
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coor_type                       = <!-- can be used to specify what the coordinates refer to -->
+| coordinates                     = {{coord|41|19|1|N|22|33|40|E|display=inline}}
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Humid subtropical climate|Cfa]]
+| official_name                   = 
+| total_type                      = 
+| population_as_of                = 2002
+| population_footnotes            = 
+| population_density_km2          = <!--For automatic calculation, any density field may contain: auto -->
+| population_density_sq_mi        = <!-- General information  --------------->
+| population_total                = 4,402
+}}

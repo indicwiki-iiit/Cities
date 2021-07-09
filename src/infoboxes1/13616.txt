@@ -1,0 +1,51 @@
+{{Infobox settlement
+| name = Rēzekne
+| other_name =
+| settlement_type = [[City]]
+| image_shield = Coat_of_Arms_of_Rēzekne.svg
+| shield_size = 80px
+| image_flag = Flag_of_Rēzekne.svg
+| flag_size = 180px
+| image_skyline = Rezekne castle ruins.jpg
+| imagesize =
+| image_caption = The Rēzekne castle mound with Livonian Order castle ruins
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| established_title = First mentioned
+| established_date = 1285
+| established_title1 = [[Town rights]]
+| established_date1 = 1773
+| pushpin_map = Latvia
+| pushpin_label_position = above
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|56|30|23|N|27|19|50|E|region:LV_type:city|display=inline}}
+| nickname =
+| leader_title = [[Mayor]]
+| leader_name = Aleksandrs Bartaševičs
+| blank_name_sec1 = Number of city council members
+| blank_info_sec1 = 13
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_metro_km2 =
+| elevation_m = 158.2
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_metro =
+| population_density_km2 = auto
+| population_density_metro_km2 = auto
+| population_footnotes = {{wikidata|references|best||P1082}}
+| postal_code_type = [[Postal code]]s
+| postal_code = LV-4601 <br /> LV-4604 <br /> LV-4605 <br /> LV-4606
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = +371 646
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+| website = {{URL|http://www.rezekne.lv}}
+| official_name =
+| leader_party = [[Social Democratic Party "Harmony"|Harmony]]
+}}

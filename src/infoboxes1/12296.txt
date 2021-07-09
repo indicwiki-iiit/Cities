@@ -1,0 +1,30 @@
+{{Infobox settlement
+|settlement_type        = City
+|official_name          = San Francisco Solano
+|image_skyline          = 
+|imagesize              = 200px
+|image_caption          = 
+|image_shield           = 
+|pushpin_map            = Argentina Greater Buenos Aires
+|pushpin_label_position = bottom
+
+|pushpin_map_caption    = Location in [[Greater Buenos Aires]]
+|pushpin_mapsize        = 240
+|subdivision_type       = Argentina
+|subdivision_name       = {{flag|Argentina}}
+|subdivision_type1      = [[Provinces of Argentina|Province]]
+|subdivision_name1    =  [[File:Bandera Buenos Aires.svg|24px]]  [[Buenos Aires Province|Buenos Aires]]
+|subdivision_type2      = [[Partidos of Buenos Aires|Partido]]
+|subdivision_name2      = [[Quilmes Partido|Quilmes]] & [[Almirante Brown Partido|Almirante Brown]]
+|established_title      = Founded
+|established_date       = 1949
+|population_as_of               = {{census-ar|2001}}
+|population_total               = 81,707
+|population_density_km2         =
+|coordinates            = {{coord|34|46|S|58|19|W|region:AR|display=inline,title}}
+|elevation_m            =  12
+|postal_code_type       =  [[Argentine postal code|CPA Base]]
+|postal_code            = [[ISO 3166-2:AR|B]] 1846 & [[ISO 3166-2:AR|B]] 1881
+|area_code              = +[[Telephone numbers in Argentina|54]] 11
+|website                = 
+}}

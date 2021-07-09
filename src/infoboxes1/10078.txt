@@ -1,0 +1,38 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name           = Polatlı
+| settlement_type         = City
+| image_skyline           = Ruins of Gordion 3.JPG
+| image_caption           = The ruins of Gordion, Polatlı
+| image_map               = Ankara districts.png
+| map_caption             = Location of Polatlı within Turkey.
+| pushpin_map             = Turkey
+| coordinates             = {{coord|39|35|03|N|32|08|50|E|region:TR|display=inline,title}}
+| subdivision_type        = [[Countries of the world|Country]]
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type2       = [[Provinces of Turkey|Province]]
+| subdivision_name2       = [[Ankara Province|Ankara]]
+| leader_title            = Mayor
+| leader_name             = Mürsel Yıldızkaya ([[Nationalist Movement Party|MHP]])
+| leader_title1           = Governor
+| leader_name1            = Hüseyin Eker
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Ankara|Polatlı}}
+| elevation_m             = 850
+| population_footnotes    = {{Turkey district populations|SOURCE|Ankara}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_urban        = {{Turkey district populations|Ankara|Polatlı|şehir}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Ankara|Polatlı|toplam}}
+| population_density_blank1_km2 = auto
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| postal_code_type        = [[Postal code]]
+| postal_code             = 06xxx
+| area_code               = 0312
+| blank_name              = [[Turkish car number plates|Licence&nbsp;plate]]
+| blank_info              = 06
+| website = {{URL|http://www.polatli.gov.tr/}}
+}}

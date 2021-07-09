@@ -1,0 +1,78 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Obilić
+| native_name            = Обилић{{native name|sr|/Obilić}}<br />''Obiliq'' or ''Obiliqi'',<br/>''Kastriot'' or {{native name|sq|Kastrioti}}
+| native_native_name     = sr
+| official_name          = 
+| settlement_type        = [[List of cities in Kosovo|Town]] and [[Municipalities of Kosovo|municipality]]
+| other_name = 
+<!-- images and maps  ----------->
+|image_skyline          = Obilic Kastriot Main street 2.JPG
+|imagesize              = 
+|image_caption          = Obilić main street
+|image_seal             =
+|image_flag             =
+| image_blank_emblem    = Stema e Komunës Obiliq.svg
+| blank_emblem_type     = Emblem
+|flag_size              =
+|image_map              =
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Kosovo
+|pushpin_label_position = above
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location of the municipality of Obilić within Kosovo
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = [[Kosovo]]{{efn|name=status}}
+| subdivision_type1      = [[Districts of Kosovo|District]]
+| subdivision_name1      = [[District of Pristina]]
+| subdivision_type2      = 
+| subdivision_name2      = 
+<!-- Politics ----------------->
+| government_footnotes   = 
+| government_type        = 
+| leader_title           = Mayor
+| leader_party           = 
+| leader_name            = Xhafer Gashi 
+| established_title      = Municipality
+| established_date       = 1989
+<!-- Area    --------------------->
+| unit_pref               = Metric
+| area_magnitude          = 
+| area_blank1_title       = Urban
+| area_blank1_km2         = 
+| area_blank2_title       = Municipal
+| area_blank2_km2         = 105
+| area_footnotes          = 
+<!-- Population   ----------------------->
+| population_as_of        = 2011
+| population_footnotes    =
+| population_note         =
+| population_blank1_title = Urban
+| population_blank1       = 6864
+| population_density_blank1_km2 = auto
+| population_blank2_title = Municipal
+| population_blank2       = 21549
+| population_density_blank2_km2 = auto
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| coordinates            = {{coord|42|41|N|21|04|E|region:RS-KM|display=inline}}
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 526
+| elevation_ft           =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 15000
+| area_code              = +383 38
+| blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+| blank_info             = 01
+| blank1_name            =
+| blank1_info            =
+| website                = {{url|http://kk.rks-gov.net/obiliq}}
+| footnotes              =
+}}

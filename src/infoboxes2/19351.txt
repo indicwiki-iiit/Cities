@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage-->
+<!-- Basic info  ---------------->| name                            = Half Moon Bay, California
+| official_name                   = City of Half Moon Bay
+| other_name                      = HMB
+| settlement_type                 = [[City (California)|City]]
+| native_name                     = <!-- for cities whose native name is not in English -->
+<!-- images and maps  ----------->| image_skyline                   = Half_Moon_Bay_California_Main_Street.jpg
+| image_caption                   = Downtown Half Moon Bay
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Seal of Half Moon Bay, California.png
+| nickname                        = "Home of the world famous Half Moon Bay Pumpkin Festival!"
+| motto                           = Vivir, Trabajar, Jugar (Live, Work, Play)
+| image_map                       = File:San Mateo County California Incorporated and Unincorporated areas Half Moon Bay Highlighted 0631708.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Half Moon Bay in San Mateo County, California
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location ------------------>| coordinates                     = {{coord|37|27|32|N|122|26|13|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = July 15, 1959<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+}}</ref>
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Robert Brownstone <ref>{{Cite web
+ | url = https://www.half-moon-bay.ca.us/235/City-Council
+ | title = City Council Homepage
+ | publisher = City of Half Moon Bay
+ | access-date =2020-01-22
+ | archive-url = 
+ | archive-date =
+ }}</ref>
+| leader_title1                   = [[City Manager]]
+| leader_name1                    = Bob Nisbet<ref>{{Cite web
+ | url = http://hmbcity.com/index.php?option=com_content&view=article&id=49&Itemid=66
+ | title = Directory
+ | publisher = City of Half Moon Bay
+ | access-date = April 15, 2015
+ | archive-url = https://web.archive.org/web/20150227032149/http://hmbcity.com/index.php?option=com_content&view=article&id=49&Itemid=66
+ | archive-date = February 27, 2015
+ | url-status = dead
+ }}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 6.25
+| area_total_km2                  = 16.20
+| area_land_sq_mi                 = 6.24
+| area_land_km2                   = 16.17
+| area_water_sq_mi                = 0.01
+| area_water_km2                  = 0.03
+| area_water_percent              = 0.32
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|277528|Half Moon Bay|access-date=November 5, 2014}}</ref>
+| elevation_ft                    = 75
+| elevation_m                     = 23
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0631708.html|title=Half Moon Bay (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 12, 2015|archive-url=https://web.archive.org/web/20150403002947/http://quickfacts.census.gov/qfd/states/06/0631708.html|archive-date=April 3, 2015|url-status=dead}}</ref>
+| population_total                = 11324
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 12932
+| population_density_sq_mi        = 2071.77
+| population_urban                = 20713
+<!-- General information  --------------->| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]
+| postal_code                     = 94019
+| area_code                       = [[Area code 650|650]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|31708}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|277528}}, {{GNIS 4|2410685}}
+| website                         = {{URL|www.half-moon-bay.ca.us}}
+| population_density_km2          = 799.89
+}}

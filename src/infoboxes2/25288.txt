@@ -1,0 +1,33 @@
+{{Infobox Australian place
+| type     = town
+| name     = Kilmore
+| state    = vic
+| image    = StreetscapeKilmore.JPG
+| caption  = The main street of Kilmore
+| coordinates = {{coord|37|17|0|S|144|57|0|E|display=inline,title}}
+| lga      = Shire of Mitchell
+| use_lga_map = NO
+| postcode = 3764
+| est      =
+| pop      = 7,958
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name=abs>{{cite web |title=2016 Census QuickStats Kilmore |url=https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC21344 |website=Australian Bureau of Statistics |access-date=24 March 2021}}</ref>
+| elevation= 370
+| maxtemp  =
+| mintemp  =
+| rainfall =
+| stategov = [[Electoral district of Euroa|Euroa]]
+| fedgov   = [[Division of McEwen|McEwen]]
+| dist1    = 60
+| location1= Melbourne
+| dist2    = 40
+| location2= [[Seymour, Victoria|Seymour]]
+| near-nw  = [[Willowmavin, Victoria|Willowmavin]]
+| near-n   = [[Willowmavin, Victoria|Willowmavin]]
+| near-ne  = [[Broadford, Victoria|Broadford]]
+| near-w   = [[Willowmavin, Victoria|Willowmavin]]
+| near-e   = [[Wandong, Victoria|Wandong]]
+| near-sw  = [[Wallan, Victoria|Wallan]]
+| near-s   = [[Wallan, Victoria|Wallan]]
+| near-se  = [[Wandong, Victoria|Wandong]]
+}}

@@ -1,0 +1,61 @@
+{{Infobox settlement
+| name                    = Lichtenburg
+| image_skyline           = Lichtenburg Hoofstraat.jpg
+| pushpin_map             = South Africa North West#South Africa#Africa
+| coordinates             = {{coord|26|09|S|26|10|E|display=inline,title}}
+| subdivision_type        = [[Country]] 
+| subdivision_name        = [[South Africa]]
+| subdivision_type1       = [[Provinces of South Africa|Province]] 
+| subdivision_name1       = [[North West (South African province)|North West]]
+| subdivision_type2       = [[List of districts of South Africa|District]] 
+| subdivision_name2       = [[Central District Municipality|Central]]
+| subdivision_type3       = [[List of municipalities of South Africa|Municipality]] 
+| subdivision_name3       = [[Ditsobotla Local Municipality|Ditsobotla]]
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1873
+| leader_title            = Councillor
+| area_footnotes          = <ref name="census2011">{{cite web |url=http://census2011.adrianfrith.com/place/668011 |title = Census 2011: Main Place Lichtenburg |work=adrianfrith.com}}</ref>
+| area_total_km2          = 108.90
+| elevation_m             = 1459
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 26338
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = <ref name="census2011" /><ref>{{cite web |url=https://census2011.adrianfrith.com/place/668011002 |title = Census 2011: Lichtenburg SP |work=adrianfrith.com}}</ref>
+| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_info1     = 59.5%
+| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_info2     = 7.9%
+| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_info3     = 1.9%
+| demographics1_title4    = [[White South African|White]]
+| demographics1_info4     = 30.3%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.3%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[First language]]s (2011)
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Tswana language|Tswana]]
+| demographics2_info1     = 52.5%
+| demographics2_title2    = [[Afrikaans]]
+| demographics2_info2     = 38.1%
+| demographics2_title3    = [[South African English|English]]
+| demographics2_info3     = 4.1%
+| demographics2_title4    = [[Sotho language|Sotho]]
+| demographics2_info4     = 1.1%
+| demographics2_title5    = Other
+| demographics2_info5     = 4.2% <!-- the source's value of 1.1% accounts for the 8 languages not listed here --> 
+<!-- blank fields (section 2) -->
+<!-- Other information -->
+| timezone1               = [[South African Standard Time|SAST]]
+| utc_offset1             = +2
+| postal_code_type        = [[List of postal codes in South Africa|Postal code]] (street)
+| postal_code             = 2740
+| postal2_code_type       = [[Post-office box|PO box]]
+| postal2_code            = 2740
+| area_code_type          = [[Telephone numbers in South Africa|Area code]]
+| area_code               = 018
+}}

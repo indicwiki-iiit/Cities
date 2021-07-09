@@ -1,0 +1,59 @@
+{{Infobox settlement
+|name                   = Sîngera
+|nickname               = 
+|settlement_type        =City
+|motto                  =
+|image_skyline          = Cerkiew św. św. Joachima i Anny w Singerze11.jpg
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            =Moldova
+|pushpin_label_position =bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    =Location in Moldova
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Moldova]]
+|subdivision_type1      = Municipalities of Moldova
+|subdivision_name1      = [[Chișinău municipality]]
+|subdivision_type2      = 
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 53.4
+<!-- Population   ----------------------->
+|population_as_of       = [[2014 Moldovan Census|2014]]
+|population_footnotes   = <ref>[http://www.statistica.md/pageview.php?l=en&idc=479 Results of Population and Housing Census in the Republic of Moldova in 2014]: {{cite web | url= http://www.statistica.md/public/files/Recensamint/Recensamint_pop_2014/Rezultate/Tabele/Caracteristici_populatie_Comune_RPL_2014_rom_rus_eng.xls | title= Characteristics - Population (population by communes, religion, citizenship) | publisher= [[National Bureau of Statistics of the Republic of Moldova]] | format= XLS | year=2017 | accessdate = 2017-05-01}}</ref>
+|population_note                =
+|population_total       = 9,966
+|population_density_km2 = auto
+|timezone               = [[Eastern European Time|EET]]
+|utc_offset             =+2
+|timezone_DST           = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST         =+3
+|elevation_footnotes    =  <!--for references: use<ref> </ref> tags-->
+|elevation_m            = 52
+|coordinates            = {{coord|46|54|50|N|28|58|15|E|region:MD_type:city|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+}}

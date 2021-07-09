@@ -1,0 +1,76 @@
+{{Infobox settlement
+| official_name                   = Trondheim kommune
+| settlement_type                 = City
+| image_skyline                   = {{Photomontage
+|photo1a = Nidelva utløp Trondheim.jpg
+|photo2a = Verftsbrua 01.jpg
+|photo2b = Trondheim Central Station 2009.JPG
+|photo3a = 2010-08-04 - Trondheim - Nidarosdom 2 - panoramio - Edgar El.jpg
+|photo4a = Lykkens Portal, Gamble Bybro, Trondheim, West view 20150605 1.jpg
+|photo4b = Dyre Halses gate, Nedre Elvehavn in Trondheim 01.jpg
+|size = 275
+|position = center
+|spacing = Number indicating width of spacing between the images (default: 1)
+|color = Color of spacing between the images (default: black)
+|border = Number indicating width of border surrounding the montage (default: 1)
+|color_border = Color of border surrounding the montage (default: black)
+|text =
+|text_background = Color of background behind text (default: #F8F8FF)
+|foot_montage = 
+}}
+| imagesize                       = 260px
+| image_caption                   = {{small|'''From upper left:''' Outer city with [[Nidelva]] and sea port, [[Verftsbrua]] bridge, [[Trondheim Central Station]] at [[Brattøra]], Inner city with [[Nidaros Cathedral]], [[Old Town Bridge]] with Lykkens portal, Rosenborgbassenget at [[Nedre Elvehavn]]}}
+| image_flag                      = Flag of Trondheim.svg
+| image_shield                    = Trondheim komm.svg
+| shield_size                     = 120px
+| image_map                       = NO 5001 Trondheim.svg
+| map_caption                     = Location of the municipality
+| pushpin_map                     = Trøndelag#Norway
+| pushpin_relief                  = 
+| dot_mapsize                     = 
+| nickname                        = Stiftstaden<br>(English: "The Diocese City")
+| subdivision_type                = [[Country]]
+| subdivision_name                = {{flag|Norway}}
+| subdivision_type1               = [[List of municipalities of Norway|Municipality]]
+| subdivision_name1               = Trondheim
+| subdivision_type2               = [[Counties of Norway|County]]
+| subdivision_name2               = [[Trøndelag]]
+| subdivision_type3               = [[Districts of Norway|District]]
+| subdivision_name3               = [[Trondheim Region]]
+| leader_title                    = Mayor
+| leader_name                     = [[Rita Ottervik]] ([[Labour Party (Norway)|Ap]])
+| established_title               = Established
+| established_date                = 997
+| area_total_km2                  = 321.81
+| area_urban_km2                  = 342.30
+| area_metro_km2                  = 7295
+| area_footnotes                  = 
+| population_as_of                = 18 November 2020
+| population_total                = 205,332 {{increase}}<ref name="SSB">{{cite web|title=Trondheim - 1601 (Sør-Trøndelag)|url=https://www.ssb.no/kommunefakta/trondheim|website=ssb.no/|access-date=27 February 2020|language=no|archive-date=1 February 2020|archive-url=https://web.archive.org/web/20200201220929/https://www.ssb.no/kommunefakta/trondheim|url-status=live}}</ref>
+| population_density_km2          = auto
+| population_blank1_title         = Municipality/Urban rank
+| population_blank1               = [[List of cities in Norway by population|3rd]]/[[List of urban areas in Norway by population|4th]]
+| population_urban                = 186,364<ref>{{cite web|title=Folkemengde og areal i tettsteder 1. januar|url=https://www.ssb.no/befolkning/statistikker/beftett|website=ssb.no/|access-date=1 January 2019|language=no|archive-url=https://web.archive.org/web/20170623173909/http://ssb.no/befolkning/statistikker/beftett|archive-date=23 June 2017|url-status=dead}}</ref>
+| population_density_urban_km2    = auto
+| population_blank2_title         = Metro rank
+| population_blank2               = [[Metropolitan regions of Norway|4th]]
+| population_metro                = 279,234
+| population_footnotes            = 
+| population_density_metro_km2    = auto
+| population_demonym              = Trondheimer,
+                                    Trondhjemmer,
+| demographics_type1              = 
+| demographics1_title1            = 
+| demographics1_info1             = 
+| demographics1_title2            = 
+| demographics1_info2             = 
+| demographics1_title3            = 
+| demographics1_info3             = 
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +01:00
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +02:00
+| coordinates                     = {{coord|63|25|47|N|10|23|36|E|region:NO|display=inline,title}}
+| website                         = {{URL|www.trondheim.kommune.no/}}
+| name                            = 
+}}

@@ -1,0 +1,23 @@
+{{Infobox pandemic
+| name            = COVID-19 pandemic in Greece
+| map1            = Covid-19 Greece Tracking 2021-06-02.png
+| legend1         = Map of the regional measures for COVID-19 in Greece {{as of|2021|June|2|lc=y}}.<ref name="CovidTrackingMapGR">{{Cite web |url=https://covid19.gov.gr/covid-map/ |title=CovidTrackingMapGR |date=2021-05-29 |website=CoVid19.gov.gr |language=el |accessdate=2021-06-07}}</ref>
+{{legend|#009d3a|Επίπεδο 1}}
+{{legend|#eded51|Επίπεδο 2}}
+{{legend|#f3ab35|Επίπεδο 3}}
+{{legend|#f83749|Επίπεδο 4}}
+| map2            = 
+| legend2         = 
+| map3            = 
+| legend3         = 
+| disease         = [[COVID-19]]
+| virus_strain    = [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]]
+| location        = Greece
+| first_case      = [[Thessaloniki]]
+| arrival_date    = 26  February 2020<br />({{Age in years, months, weeks and days|month1=02|day1=26|year1=2020|month3=|day22=|year2=}})
+| origin          = [[Wuhan, Hubei]], China
+| deaths          = 12,687
+| confirmed_cases = 422,456<ref>{{Cite web|url=https://covid19.gov.gr/covid19-live-analytics/|title=Ημερήσια Επισκόπηση|website=covid19.gov.gr}}</ref>
+| fatality_rate   = 
+| website         = {{URL|covid19.gov.gr/}}
+}}

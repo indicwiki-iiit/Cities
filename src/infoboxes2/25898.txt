@@ -1,0 +1,34 @@
+{{Infobox company
+| name             = Emerson Electric Co.
+| logo             = [[Image:Emerson Electric Company.svg|center|200px]]
+| type             = [[Public company|Public]]
+| traded_as        = {{ubl|{{NYSE|EMR}}|[[S&P 100]] component|[[S&P 500]] component}}
+| foundation       = {{Start date and age|1890}}
+| founder          = [[John Wesley Emerson|John W. Emerson]]
+| predecessor      = Emerson Electric Manufacturing Co.
+| area_served      = Worldwide
+| location         = [[Ferguson, Missouri]], U.S.
+| key_people       = {{unbulleted list|
+                     {{nowrap|[[David Farr|David N. Farr]]}}|
+                     {{nowrap|<small>([[Chairman]])</small>}}|
+                     {{nowrap|Lal Karsanbhai <small>([[CEO]])</small>}}|
+                     {{nowrap|Frank Dellaquila <small>([[CFO]])</small>}}}}
+| revenue          = {{decrease}} {{US$|16.785 [[1,000,000,000|billion]]|link=yes}} (2020)
+| operating_income = {{decrease}} US$2.49 billion (2020)<!--Calculated manually: "Earnings from continuing operations" + "Interest expense". Same was done for FY2016 to draw a comparison.-->
+| net_income       = {{decrease}} US$1.99 billion (2020)
+| assets           = {{increase}} US$22.88 billion (2020)
+| equity           = {{increase}} US$8.45 billion (2020)
+| num_employees    = 83,500 (2020)
+| industry         = [[Electrical equipment]]
+| products         = {{unbulleted list|
+                     {{nowrap|Process control systems}}|
+                     {{nowrap|Climate technologies}}|
+                     {{nowrap|Power technologies}}|
+                     {{nowrap|Industrial automation}}|
+                     {{nowrap|Electric motors}}|
+                     {{nowrap|Storage systems}}|
+                     {{nowrap|Professional tools}}}}
+| divisions        = [[#Business_platforms|List of business platforms]]
+| website          = {{URL|emerson.com}}
+| footnotes        = <ref name="10-K2020">{{cite web|url=https://www.sec.gov/ix?doc=/Archives/edgar/data/804328/000172894920000067/qcom-20200927.htm |title=US SEC: 2020 Form 10-K Emerson Electric Co. |publisher=[[U.S. Securities and Exchange Commission]] |date=November 16, 2020 |access-date=February 14, 2021}}</ref>
+}}

@@ -1,0 +1,32 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type   = [[List of cities and towns in Hungary|Town]]
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+
+|blank_emblem_type=City limit sign (rovas script)
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|image_skyline =Pécel - Palace.jpg 
+|image_caption =Ráday palace, Pécel
+|image_flag = Flag of Pécel.svg
+|image_shield = Coa_Hungary_Town_Pécel.svg
+|
+official_name=Pécel|
+map=[[File:PestMegye.png|center|thumb|275px|Location of Pest county in Hungary]]|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Pest county|Pest]]|
+area_total_km2=43.63|
+population_total=14328|
+population_as_of=2007|
+population_density_km2=auto|
+postal_code_type=[[Postal code]]|
+postal_code=2119|
+area_code=28|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Pécel
+|pushpin_mapsize        =
+|coordinates            = {{coord|47.4893|19.33542|region:HU|display=inline,title}}
+}}

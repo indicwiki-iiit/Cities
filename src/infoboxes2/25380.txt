@@ -1,0 +1,34 @@
+{{Infobox Australian place
+| type     = town
+| name     = Kiama
+| state    = NSW
+| image    = Kiama-NSW.jpg
+| caption  = Panorama of the town
+| lga      = [[Municipality of Kiama]]
+| county   = [[Camden County, New South Wales|Camden]]
+| parish   = [[Kiama Parish, Camden|Kiama]]
+| coordinates = {{coord|34|40|15|S|150|51|15|E|display=inline,title}}
+| area     = 13.9
+| postcode = 2533
+| pop      = 7700
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="Census">{{Census 2016 AUS|id=107031138|name=Kiama (SA2)|accessdate=12 July 2017|quick=on}}</ref>
+| density  = 
+| est      =
+| elevation= 10
+| maxtemp  = 21.5
+| mintemp  = 12.7
+| rainfall = 1261.5
+| stategov = [[Electoral district of Kiama|Kiama]]
+| fedgov   = [[Division of Gilmore|Gilmore]]
+| dist1    = 120
+| location1= Sydney
+| near-n   = [[Bombo, New South Wales|Bombo]]
+| near-ne  = 
+| near-e   = [[Tasman Sea]]
+| near-se  = 
+| near-s   = [[Kiama Heights]]
+| near-sw  = [[Saddleback Mountain, New South Wales|Saddleback Mountain]]
+| near-w   = [[Jerrara, New South Wales|Jerrara]]
+| near-nw  = [[Jamberoo]]
+}}

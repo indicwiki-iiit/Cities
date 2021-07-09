@@ -1,0 +1,82 @@
+{{Infobox settlement
+| name                            = Temple City, California
+| settlement_type                 = [[City (California)|City]]
+| official_name                   = City of Temple City
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| motto                           = "Home Of Camellias"
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = Temple City Park
+| image_flag                      = Flag of Temple City, California.gif
+| image_seal                      = Seal of Temple City, California.png
+| image_map                       = LA County Incorporated Areas Temple City highlighted.svg
+| map_caption                     = Location of Temple City in [[Los Angeles County, California|Los Angeles County]], [[California]]
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Flagu|United States}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = {{flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Tom Chavez
+| leader_title1                   = Mayor [[Pro tempore|Pro Tempore]]
+| leader_name1                    = Vincent Yu
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = May 25, 1960<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = November 3, 2014
+}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 4.00
+| area_land_sq_mi                 = 4.00
+| area_water_sq_mi                = 0.00
+| area_total_km2                  = 10.37
+| area_land_km2                   = 10.37
+| area_water_km2                  = 0.00
+| area_water_percent              = 0
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 35558
+| population_density_sq_mi        = 8946.04
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = -7
+| coordinates                     = {{coord|34|6|10|N|118|3|29|W|region:US_type:city|display=inline,title}}
+| elevation_m                     = 122
+| elevation_ft                    = 400
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 91780<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Temple%20City | title = USPS – ZIP Code Lookup – Find a ZIP+ 4 Code By City Results | access-date = 2007-01-18}}</ref>
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 626|626]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Temple%20City | title = Number Administration System – NPA and City/Town Search Results | access-date = 2007-01-18 | url-status = dead | archive-url = https://web.archive.org/web/20070929102755/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Temple%20City | archive-date = 2007-09-29 }}</ref>
+| website                         = {{URL|www.ci.temple-city.ca.us}}
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|78148}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS 4|1656640}}
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 35811
+| population_density_km2          = 3454.13
+| named_for                       = Walter P. Temple
+}}

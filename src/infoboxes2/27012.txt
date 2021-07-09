@@ -1,0 +1,24 @@
+{{Infobox Australian place| type = town
+| name     =  Kununurra
+| state    =  wa
+| image    =  Kununurra from lookout.jpg
+| caption  =  Kununurra in summer from Hidden Valley National Park lookout
+| lga      = [[Shire of Wyndham-East Kimberley]]
+| coordinates = {{coord|15|46|25|S|128|44|19|E|display=inline,title}}
+| pushpin_label_position= left
+| pushpin_map_caption = Location in Western Australia
+| postcode =  6743
+| pop      =  5,308 | pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census">{{Census 2016 AUS|id=SSC50792|name=Kununurra (State Suburb)|accessdate=2019-12-08|quick=on}} Material was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref>
+| est      =  1961
+| stategov = [[Electoral district of Kimberley|Kimberley]]
+| fedgov   = [[Division of Durack|Durack]]
+| dist1    =  3214
+| location1= [[Perth, Western Australia|Perth]]
+| dist2    =  834
+| location2= [[Darwin, Northern Territory|Darwin]]
+| maxtemp  =  35.0
+| mintemp  =  21.6
+| rainfall =  790.7
+| elevation=  47
+}}

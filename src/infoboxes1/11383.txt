@@ -1,0 +1,42 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Burgas
+| native_name                     = {{native name|bg|Бургас|italics=off}}
+| native_name_lang                = bg
+| nicknames                       = ''The city of sea and lakes'' <br/> ''The city of the dreams''
+| image_skyline                   = Burgas-Collage D.jpg
+| image_caption                   = Top to bottom, left to right: View of Slaveikov district at Night, Marine Casino Center in Burgas Sea Garden, A fountain in Tsaritsa Ioanna Square, View of Clock in Transportana shopping area, Panteona Complex Building, Bogorids Street, St. Cyril and Methodius Cathedral, Burgas Art Gallery, View of Burgas Sand Sculptures event in Sea Garden, The Pier at the Burgas Central Beach
+| image_shield                    = Burgas-coat-of-arms.svg
+| image_flag                      = BG-Burgas_flag.png
+| pushpin_map                     = Bulgaria#Europe#Black Sea <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Burgas
+| pushpin_mapsize                 = 290px
+| coordinates                     = {{wikidataCoord|display=it}}
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]] <small>(Oblast)</small>
+| subdivision_name1               = [[Burgas Province|Burgas]]
+| subdivision_type2               = [[Municipalities of Bulgaria|Municipality]]
+| subdivision_name2               = [[Burgas Municipality|Burgas]]
+| leader_title                    = Mayor
+| leader_name                     = Dimitar Nikolov
+| elevation_m                     = 30
+| area_total_km2                  = {{wikidata|property|raw|P2046}}
+| population_total                = {{increase}} 202,694 (within city limits)
+| population_blank2_title         = [[Urban area|Urban]]
+| population_blank2               = {{decrease}} 277,922 <ref name="Urban area populaton - Budapest">{{cite web|url=http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lpop1|title=Functional Urban Areas - Population on 1 January by age groups and sex|work=[[Eurostat]]|date=1 April 2016|access-date=12 April 2016|archive-date=23 Apr 2016|archive-url=https://web.archive.org/web/20160423092357/http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lpop1|url-status=live}}</ref>
+| population_as_of                = <small>2014-31-12</small>
+| population_blank3_title         = [[Metro area|Metro]]
+| population_blank3               = {{increase}} 409,355
+| population_density_km2          = auto
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| postal_code                     = 8000-8034
+| area_code                       = +359 056
+| website                         = [http://www.burgas.bg/en/index/index/ Official website]
+| official_name                   = 
+| settlement_type                 = [[List of cities and towns in Bulgaria|City]]
+}}

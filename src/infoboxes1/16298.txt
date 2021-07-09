@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = Sebring, Florida
+|settlement_type          = [[City]]
+|nickname                 = The City on the Circle
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Welcome to Sebring 448742717.jpg
+|imagesize                = 250x200px
+|image_caption            = Sebring
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Highlands_County_Florida_Incorporated_and_Unincorporated_areas_Sebring_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Highlands County, Florida|Highlands County]] and the state of [[Florida]]
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Florida]]
+|subdivision_type2        = [[List of counties in Florida|County]]
+|subdivision_name2        = <!-- Image with inadequate rationale removed: [[File:Highlands County Fl Seal.png|20px]]  -->[[Highlands County, Florida|Highlands]]
+|government_footnotes     = 
+|government_type          = [[Mayor-council]]
+|leader_title             = Mayor
+|leader_name              = <nowiki>John Shoop</nowiki>
+|established_title        = Settled
+|established_date         = 1912
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = Incorporated (city)
+|established_date3        = 1913
+<!-- Area    --------------------->
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+|area_total_km2           = 41.38
+|area_land_km2            = 26.22
+|area_water_km2           = 15.16
+|area_total_sq_mi         = 15.98
+|area_land_sq_mi          = 10.12
+|area_water_sq_mi         = 5.85
+|area_water_percent       = 37.8
+|area_metro_sq_mi         = <!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census 2010"/>
+|population_note          = 
+|population_total         = 10491
+|population_density_sq_mi = 1047.02
+|population_metro         = <!-- General information  --------------->
+|timezone                 = [[Eastern Time Zone (North America)|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|coordinates              = {{coord|27|29|44|N|81|26|40|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <ref>{{cite web |url=http://www.wunderground.com/US/FL/Sebring.html |title=Sebring, Florida (33870) |publisher=[[Weather Underground (weather service)|Weather Underground]] |access-date=July 20, 2007}}</ref>
+|elevation_m              = 41
+|elevation_ft             = 139
+<!-- Area/postal codes & others -------->
+|postal_code_type         = ZIP code
+|postal_code              = 33870-33872, 33875-33876
+|area_code                = [[Area code 863|863]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 12-64875<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 31, 2008|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0290806<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = {{URL|www.mysebring.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 10600
+|population_density_km2 = 404.24
+}}

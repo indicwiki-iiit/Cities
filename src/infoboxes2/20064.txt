@@ -1,0 +1,57 @@
+{{Infobox settlement
+| official_name            = King of Prussia, Pennsylvania
+| settlement_type          = [[Census-designated place]]
+| nickname = KOP
+<!-- Images -->
+| image_skyline            = King of Prussia Mall entrance between Neiman Marcus and Macy's.jpg
+| image_caption            = [[King of Prussia (shopping mall)|King of Prussia Mall]]
+| image_flag               = 
+| image_seal               =
+
+<!-- Maps -->
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Pennsylvania#USA
+| pushpin_label            = King of Prussia
+<!-- Location -->
+| coordinates              = {{coord|40|05|21|N|75|23|46|W|region:US-PA|display=inline,title}}
+| subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Pennsylvania]]
+| subdivision_type2        = [[List of counties in Pennsylvania|County]]
+| subdivision_name2        = [[Montgomery County, Pennsylvania|Montgomery]]
+| subdivision_type3        = [[List of townships in Pennsylvania|Township]]
+| subdivision_name3        = [[Upper Merion Township, Montgomery County, Pennsylvania|Upper Merion]]
+| established_title        = Founded 
+| established_date         = 1719
+| leader_title             = 
+| leader_name              = 
+| area_total_km2           = 
+| area_total_sq_mi         = 8.5
+| area_land_km2            = 
+| area_land_sq_mi          = 8.4
+| area_water_km2           = 
+| area_water_sq_mi         = 0.1
+| elevation_footnotes      = 
+| elevation_m              = 
+| elevation_ft             = 200
+<!-- Population -->
+| population_footnotes     = <ref name="GR8">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=January 7, 2016|title=U.S. Census website}}</ref>
+| population_total         = 19936
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_km2   = 
+| population_density_sq_mi = 2345.4
+<!-- General information -->
+| timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset               = -5
+| timezone_DST             = EDT
+| utc_offset_DST           = -4
+<!-- Area/postal codes & others -->
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 19406
+| area_code                = [[Area codes 610 and 484|610 and 484]]
+| blank_name               = [[Geographic Names Information System|GNIS]] feature ID
+| blank_info               = 1178473<ref>{{cite gnis|1178473|King of Prussia}}</ref>
+| website                  = 
+}}

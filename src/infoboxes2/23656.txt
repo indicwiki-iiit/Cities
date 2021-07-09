@@ -1,0 +1,27 @@
+{{Infobox protected area
+| name = Ngorongoro Conservation Area
+| photo = File:ngorongoro-1001-2.jpg
+| photo_caption = View of the crater
+| map = Tanzania |relief=1
+| location = [[Arusha Region]], [[Tanzania]]
+| coordinates = {{coord|03|12|36|S|35|27|36|E|display=inline,title}}
+| established = 1959
+| visitation_num = Over 500,000 per year<ref>{{cite web | url=http://dailynews.co.tz/index.php/local-news/8757-dar-registers-three-wonders | title=Dar registers "three wonders" | date=20 August 2012 | publisher=[[Daily News (Tanzania)]] | access-date=28 January 2013 | url-status=dead | archive-url=https://web.archive.org/web/20120922172928/http://www.dailynews.co.tz/index.php/local-news/8757-dar-registers-three-wonders | archive-date=22 September 2012 }}</ref>
+| visitation_year =
+| governing_body = [[Ngorongoro Conservation Area Authority]]
+| embedded1 = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_date = 1979 <small>(3rd [[World Heritage Committee|session]])</small>
+   | designation1_type = Natural
+   | designation1_criteria = (iv)(vii)(viii)(ix)(x)
+   | designation1_number = [https://whc.unesco.org/en/list/39 39]
+   | designation1_free1name = State Party
+   | designation1_free1value = [[Tanzania]]
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in Africa|Africa]]
+   | designation1_free3name = [[List of World Heritage in Danger|Endangered]]
+   | designation1_free3value = 1984&ndash;1989
+}}
+| area_km2 = 8292
+| area_ref = <ref name="Ecology">[http://www.rhinoresourcecenter.com/pdf_files/133/1334728220.pdf "The historical ecology of the large mammal populations of Ngorongoro Crater, Tanzania, east Africa", ''Mammal Review'', authored by Louise Oates and Paul A. Rees, 2012]</ref>
+}}

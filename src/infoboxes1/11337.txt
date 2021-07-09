@@ -1,0 +1,98 @@
+{{Infobox settlement
+| name                            = Porto
+| settlement_type                 = [[Municipality]]
+<!-- images, nickname, motto -->
+| image_skyline                   = {{multiple image
+| border                   = infobox
+| total_width              = 300
+| image_style              = border:1;
+| perrow                   = 1/2/2
+| image1                   = Puente de Don Luis I, Oporto, Portugal, 2019-06-02, DD 29-31 HDR.jpg
+| alt1                     = View of Ribeira district and Luiz I bridge from Vila Nova de Gaia,
+| image2                   = Casa_da_Música_-_Porto_-_Portugal.jpg
+| alt2                     = Casa da Música concert hall
+| image3                   = Ayuntamiento_de_Oporto,_Portugal,_2012-05-09,_DD_03.JPG
+| alt3                     = Porto City Hall
+| image4                   = View of Porto, Portugal.jpg
+| alt4                     = Porto Skyline
+| image5                   = Iglesia_de_San_Ildefonso,_Oporto,_Portugal,_2012-05-09,_DD_01.JPG
+| alt5                     = Church of Saint Ildefonso
+}}
+| image_caption                   = Top to bottom, left to right: View of [[Ribeira Square|Ribeira district]] and [[Dom Luís I Bridge|Luiz I bridge]] from [[Vila Nova de Gaia]], [[Casa da Música]] concert hall, Porto City Hall, Porto Skyline, [[Church of Saint Ildefonso]]
+| image_size                      = 290px
+| image_flag                      = Pt-prt1.png
+| flag_border                     = no
+| image_shield                    = PRT.png
+| motto                           = Antiga, Mui Nobre, Sempre Leal e Invicta (Old, Most Noble, Always Loyal and Undefeated)
+| nickname                        = {{lang|pt|A Cidade Invicta}} ("The Undefeated City"), {{lang|pt|A Cidade da Virgem}} ("The City of the Virgin")
+<!-- location -->| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Portugal}}
+| subdivision_type1               = [[Administrative divisions of Portugal|Region]]
+| subdivision_name1               = [[Norte Region, Portugal|Norte]]
+| subdivision_type2               = [[List of regions and sub-regions of Portugal|Subregion]]
+| subdivision_name2               = [[Grande Porto]]
+| subdivision_type3               = [[Districts of Portugal|District]]
+| subdivision_name3               = [[Porto (district)|Porto]]
+| subdivision_type4               = 
+| subdivision_name4               = 
+| parts_type                      = Civil parishes
+| parts_style                     = para
+| p1                              = [[#Geography|7]]
+<!-- maps and coordinates -->| image_map                       = 
+| map_caption                     = 
+| pushpin_map                     = Portugal#Europe
+| pushpin_map_caption             = Location within Portugal##Location within Europe
+| pushpin_relief                  = 1
+| coordinates                     = {{coord|41|9|43.71|N|8|37|19.03|W|display=inline,title}}
+| coordinates_footnotes           = <!-- government type, leaders -->
+| leader_title                    = Mayor
+| leader_name                     = [[Rui Moreira (politician)|Rui Moreira]]
+| leader_title1                   = [[Assembleia Municipal|Municipal Assembley Chair]]
+| leader_name1                    = Miguel Pereira Leite
+| government_type                 = [[Local administrative unit|LAU]]
+| governing_body                  = [[Câmara Municipal]]
+<!-- established -->| established_title               = Settlement
+| established_date                = 275 BCE
+| established_title1              = [[Municipality]]
+| established_date1               = 868
+<!-- area -->| area_footnotes                  = 
+| area_total_km2                  = 41.42
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = <!-- elevation -->
+| elevation_footnotes             = 
+| elevation_m                     = 104
+| elevation_ft                    = <!-- population -->
+| population_as_of                = 
+| population_footnotes            = 
+| population_total                = 215945<ref name="pordata" />
+| population_density_km2          = auto
+| population_density_sq_mi        = 
+| population_metro                = 1725300<ref name="pordata">{{Cite web | url=https://www.pordata.pt/Municipios/Popula%C3%A7%C3%A3o+residente+total+e+por+grandes+grupos+et%C3%A1rios-390 | title=PORDATA – População residente: Total e por grandes grupos etários | access-date=26 April 2021}}</ref>
+| population_demonym              = <!-- time zone(s) -->
+| timezone1                       = [[Western European Time|WET]]
+| utc_offset1                     = 0
+| timezone1_DST                   = [[Western European Summer Time|WEST]]
+| utc_offset1_DST                 = +1
+<!-- postal codes, area code -->| postal_code_type                = Postal Zone
+| postal_code                     = 4000-286 Porto
+| area_code_type                  = 
+| area_code                       = (+351) 22<ref name="urlPortugal International Dialing Code">{{cite web|url=http://portugal.embassyhomepage.com/portugal_international_dialling_code_portugal_cheap_international_calling_card_lisbon_telephone_area_codes_portugal_postal_codes.htm|title=Portugal International Dialing Code |access-date=12 September 2010}}</ref>
+| geocode                         = 
+| iso_code                        = 
+| blank_name                      = [[Demonym]]
+| blank_info                      = Portuense, Tripeiro (informal)
+| blank1_name                     = [[Patron Saint]]
+| blank1_info                     = [[Our Lady of Vendôme]]
+| blank2_name                     = Municipal Holidays
+| blank2_info                     = 24 June ([[John the Baptist|São João]])
+<!-- website, footnotes -->| website                         = {{URL|http://www.cm-porto.pt}}
+| footnotes                       = Geographic detail from CAOP (2010)<ref>{{citation|url=http://www.igeo.pt/produtos/cadastro/caop/download/Areas_Freg_Mun_Dist_CAOP2010.zip |title=Carta Administrativa Oficial de Portugal |publisher=Instituto Geográfico Português |location=Lisbon, Portugal |language=pt |access-date=1 July 2011 |year=2010 |editor=IGP |url-status=dead |archive-url=https://web.archive.org/web/20140703110142/http://www.igeo.pt/produtos/cadastro/caop/download/Areas_Freg_Mun_Dist_CAOP2010.zip |archive-date=3 July 2014 }}</ref> produced by Instituto Geográfico Português (IGP){{Infobox UNESCO World Heritage Site
+  | Official_name = Historic Centre of Porto
+  | Criteria      = iv 
+  | ID            = 755
+  | Year          = 1996
+  | child         = yes
+}}
+| official_name                   = 
+}}

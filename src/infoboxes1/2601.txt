@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name           = Yambio
+|native_name             = Burekiwe
+|other_name              = {{native name|ar|يامبيو}}
+|settlement_type         = [[List of cities in South Sudan|City]]
+|image_skyline           = https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj0wu7pq-_VAhWJ64MKHWqdBdMQjhwIBQ&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYoung_people_Of_Yambio.jpg&psig=AFQjCNFQh1aTwfD64avXhaL8i64jNUK3Gg&ust=1503645796363449
+|image_flag              = 
+|flag_size               = 
+|image_seal              = 
+|seal_size               = 
+|image_shield            = 
+|shield_size             = 
+|nickname                = 
+|motto                   = 
+<!-- images and maps  ----------->
+|image_map               = 
+|map_caption             = 
+|pushpin_map             = South Sudan<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position  = above
+|pushpin_map_caption     = Location in South Sudan
+<!-- Location ------------------>
+|coordinates             = {{coord|04|33|54|N|28|22|30|E|region:SS|display=inline,title}}
+|subdivision_type        = Country
+|subdivision_name        = {{flag|South Sudan}}
+|subdivision_type1       = [[States of South Sudan|State]]
+|subdivision_type2       = [[County]]
+|subdivision_type3       = 
+|subdivision_type4       = 
+|subdivision_name1       = [[Western Equatoria State]]
+|subdivision_name2       = [[Yambio County]]
+|subdivision_name3       = 
+|subdivision_name4       = 
+<!-- Politics ----------------->
+|established_title       = <!-- Settled -->
+|established_date        = 1800's
+|established_title2      = <!-- Incorporated (town) -->
+|established_date2       = 
+|established_title3      = <!-- Incorporated (city) -->
+|established_date3       = 
+<!-- Area    --------------------->
+|government_footnotes    = 
+|government_type         = 
+|leader_title            = 
+|leader_name             = 
+|leader_title1           = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1            = 
+|area_footnotes          = 
+|area_total_km2          = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2           = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2          = 
+<!-- Population   ----------------------->
+|elevation_footnotes     = <!--for references: use <ref> </ref> tags-->
+|elevation_m             = 650
+|elevation_ft            = 2,129
+<!-- Area/postal codes & others -------->
+|population_total        = 45685
+|population_as_of        = 2014 est.
+|population_footnotes    = 
+|population_density_km2  = auto
+|population_blank1_title = Ethnicities
+|population_blank1       = Muliti-Ethinities, but Azande are known to be the majority
+<!-- General information  --------------->
+|population_blank2_title = Religions
+|population_blank2       = Christianity, Islam and African Traditional Religion
+|population_note         = 
+|postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code             = 
+|area_code               = 
+|website                 = 
+|footnotes               = 
+|timezone               = [[Central Africa Time|CAT]]
+|utc_offset             = +2
+|timezone_DST           = 
+|utc_offset_DST          = 
+}}

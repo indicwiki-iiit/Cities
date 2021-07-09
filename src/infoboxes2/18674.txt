@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Horn Lake, Mississippi
+|settlement_type          = [[City]]
+|nickname                 =   
+|motto                    = "Doorway To Mississippi"
+
+<!-- Images -->
+|image_skyline            = Watertower Horn Lake MS 02.jpg
+|imagesize                = 250px
+|image_caption            = Watertower in Horn Lake
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map = DeSoto_County_Mississippi_Incorporated_and_Unincorporated_areas_Horn_Lake_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Horn Lake, Mississippi
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Mississippi]]
+|subdivision_type2        = [[List of counties in Mississippi|County]]
+|subdivision_name2        = [[DeSoto County, Mississippi|DeSoto]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Allen Latimer ([[Republican Party (United States)|R]])<ref>{{cite web|last1=Maxey|first1=Ron|title=Allen Latimer wins mayor's job in Horn Lake|url=http://www.commercialappeal.com/news/allen-latimer-wins-mayors-job-in-horn-lake-ep-361642247-326702201.html|website=[[The Commercial Appeal]]|access-date=3 February 2016|date=4 June 2013|quote=Latimer, the Republican nominee, finished with 1,491 votes, or about 83 percent, compared to 291 votes, or about 16 percent, for Jackson-McCray, a Democrat.}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_28.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 42.32
+|area_land_km2            = 41.56
+|area_water_km2           = 0.76
+|area_total_sq_mi         = 16.34
+|area_land_sq_mi          = 16.05
+|area_water_sq_mi         = 0.29
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 26066
+|population_density_km2   = 656.18
+|population_density_sq_mi = 1699.51
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 91
+|elevation_ft             = 299
+|coordinates              = {{coord|34|57|31|N|90|2|35|W|region:US-MS_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 38637
+|area_code                = [[Area code 662|662]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 28-33700
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1675449
+|website                  = {{URL|http://www.hornlake.org/}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 27272
+}}

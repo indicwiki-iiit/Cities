@@ -1,0 +1,131 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Maoming}}
+|official_name          = <!-- Official name in English if different from 'name' -->
+|native_name            = {{lower|0.1em|茂名市}}
+|native_name_lang = zh
+|other_name             = Mowming
+|nickname               = {{lang|zh|南方油城}} (Oil City of the South)
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 广东石油化工学院 2014-09-liuzusai - panoramio (1).jpg
+|imagesize              =
+|image_caption          = <!--Please add-->
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7|frame-lat=21.95|frame-long=110.91}}
+|image_map1             = Guangdong subdivisions - Maoming.svg
+|mapsize1               = 
+|map_caption1           = Location of Maoming City jurisdiction in Guangdong
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province (China)|Province]]
+|subdivision_name1      = [[Guangdong]]
+|subdivision_type2      =
+|subdivision_name2      =
+|seat_type              = Municipal seat
+|seat                   = [[Maonan District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Communist Party of China|CPC]] Committee Secretary
+|leader_name            = [[Liang Yimin]]
+|leader_title1          = Mayor <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = [[Li Hongjun]] ({{lang|zh-hans|李红军}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|area_footnotes           =
+|area_total_km2           =11424.8<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =2714
+|area_metro_km2           =487
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 29
+|elevation_ft           =
+|elevation_max_m            =
+|elevation_max_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census<ref>http://www.citypopulation.de/php/china-guangdong-admin.php</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =5817494
+|population_density_km2         =auto <!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =828821
+|population_density_metro_km2   =auto
+|population_urban               =2436312
+|population_density_urban_km2   =auto
+|population_blank1_title        =Major [[Nationalities of China|Nationalities]]
+|population_blank1              =[[Han Chinese|Han]]
+|population_density_blank1_km2  =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Maoming municipal government
+|coordinates            = {{coord|21.6627|N|110.9255|E|type:adm2nd_region:CN-44_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]] <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =525000 (Urban center)<br/>525100-525400 (Other areas)
+|area_code              =668
+|iso_code = [[ISO 3166-2:CN|CN-GD-09]]
+|blank_name             =GDP (2012)
+|blank_info             =[[Renminbi|¥]] 195.118 billion in total;<br/> ¥ 33,537 per capita
+|blank1_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix
+|blank1_info            ={{lang|zh-cn|粤K}}
+|blank2_name            =[[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|blank2_info            =6
+|blank3_name            =[[Administrative divisions of the People's Republic of China#Township level|Township-level divisions]]
+|blank3_info            =
+|blank4_name            =[[Coastline]]
+|blank4_info            ={{convert|220|km|abbr=on}}
+|blank5_name            =
+|blank5_info            =
+|blank6_name            =
+|blank6_info            =
+|website = {{URL|www.maoming.gov.cn}}
+|footnotes              =
+}}

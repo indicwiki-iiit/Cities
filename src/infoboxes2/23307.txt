@@ -1,0 +1,36 @@
+{{Infobox Australian place
+| type     = town
+| name     = Gracemere
+| state    = qld
+| image    =
+| caption  =
+| coordinates = {{coord|23|26|S|150|27|E|display=inline,title}}
+| pushpin_label_position = left
+| pop      = 11315
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="census16">{{Census 2016 AUS|id=SSC31230 |name=Gracemere (State Suburb) |accessdate=29 January 2018 |quick=on}}</ref>
+| est      =
+| postcode = 4702
+| elevation=
+| area     = 76.7
+| dist1    = 635
+| location1= [[Brisbane]]
+| dist2    = 11
+| location2= [[Rockhampton, Queensland|Rockhampton]]
+| lga      = Rockhampton Region
+| stategov = [[Electoral district of Rockhampton|Rockhampton]]
+| stategov2= [[Electoral district of Mirani|Mirani]]
+| fedgov   = [[Division of Capricornia|Capricornia]]
+| maxtemp  =
+| mintemp  =
+| rainfall =
+| near-n              = [[Fairy Bower, Queensland|Fairy Bower]]
+| near-ne             = [[Fairy Bower, Queensland|Fairy Bower]]
+| near-e              = [[Port Curtis, Queensland|Port Curtis]]
+| near-se             = [[Bouldercombe, Queensland|Bouldercombe]]
+| near-s              = [[Bouldercombe, Queensland|Bouldercombe]]
+| near-sw             = [[Kabra, Queensland|Kabra]]
+| near-w              = [[Kabra, Queensland|Kabra]]
+| near-nw             = [[Nine Mile, Queensland|Nine Mile]]
+
+}}

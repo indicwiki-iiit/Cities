@@ -1,0 +1,21 @@
+{{Infobox observatory
+| embedded = {{Infobox NRHP
+| embed                = yes
+| name                 = National Astronomy and Ionosphere Center
+| nrhp_type            = hd
+| nocat                = yes
+| nearest_city         = Arecibo
+| mapframe             = yes
+| mapframe-frame-coord = {{coord|18.34661|-66.75278}}
+| mapframe-zoom        = 7
+| area                 = {{convert|118|acre|ha}}
+| architect            = [[Thomas Christian Kavanagh|Kavanaugh, T. C.]]
+| engineer             = von Seb, Inc., [[Thomas Christian Kavanagh|T. C. Kavanaugh]] of Praeger-Kavanagh, and [[Severud Associates|Severud-Elstad-Krueger Associates]]<ref>{{Cite journal |title=Radio-Radar Telescope Will Probe Solar System |journal=Electrical Engineering |volume=80 |issue=7 |pages=561 |date=July 1961 |doi=10.1109/EE.1961.6433355}}</ref>
+| built                = 1963
+| architecture         =
+| added                = September 23, 2008<ref name=newlistings20081003>{{cite web |url=http://www.nps.gov/history/nr/listings/20081003.HTM |title=Weekly List Actions |author=National Park Service  |date=October 3, 2008 |access-date=February 6, 2018| archive-date=March 29, 2013| archive-url=https://web.archive.org/web/20130329001745/http://www.nps.gov/history/nr/listings/20081003.HTM| url-status=live}}</ref>
+| visitation_num       =
+| visitation_year      =
+| refnum               = 07000525
+| mpsub                = 
+}}}}

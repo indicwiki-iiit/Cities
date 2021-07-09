@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Tayibe
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|טייבה}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|الطيبة}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1990)
+| translit_lang1         = Hebrew
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Tayiba (unofficial)
+| image_skyline          = PikiWiki Israel 16164 Center of Taybee.jpg
+| image_blank_emblem     = Taybe COA.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel
+| pushpin_mapsize        = 150
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|16|0|N|35|00|37|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 151/185 [[Palestine grid|PAL]]
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:18662|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Tayibe}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = The Goodly<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/193/mode/1up 193]</ref>
+}}

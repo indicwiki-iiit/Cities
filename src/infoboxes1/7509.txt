@@ -1,0 +1,76 @@
+{{Infobox military installation
+| name = Camp Taji<BR>Camp Cooke<BR>Al  Taji  Army  Airfield<ref>{{cite web|url=https://phc.amedd.army.mil/PHC%20Resource%20Library/Taji,%20Iraq%20(2003-2009).pdf|title=Periodic Occupational and Environmental Monitoring Summary (POEMS): Name: Camp Taji, Iraq|publisher=US Army Public Health Center|accessdate=November 27, 2020}}</ref>
+| ensign = Flag of the Iraqi Ground Forces.svg
+| ensign_size = 90px
+| native_name = 
+| partof = <!-- for elements within a larger site -->
+| location = [[Taji, Iraq|Taji]], [[Baghdad Governorate]]
+| nearest_town = <!-- used in military test site infobox -->
+| country = Iraq
+| image = [[File:26JUNE2006 Camp Taji sign.jpg|250px]]
+| alt = 
+| caption = 
+| image2 = <!--secondary image, major command emblems for airfields -->
+| alt2 = 
+| caption2 = 
+| type = 
+| coordinates = {{coord|33|31|46|N|44|16|39|E|region:IQ|display=inline,title}}
+| gridref = 
+| image_map = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map = Iraq
+| pushpin_mapsize = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Shown within Iraq
+| pushpin_relief = 
+| pushpin_image = 
+| pushpin_label = Camp Taji
+| pushpin_label_position = 
+| pushpin_mark = 
+| pushpin_marksize = 
+| ownership = [[Ministry of Defence (Iraq)|Ministry of Defence]]
+| operator = [[Iraqi Army]]
+| controlledby = <!-- such as RAF Bomber Command or the Eighth Air Force -->
+| open_to_public = <!-- for out of use sites/sites with museums etc -->
+| site_other_label = <!-- for renaming "Other facilities" in infobox -->
+| site_other = <!-- for other sorts of facilities – radar types etc -->  
+| site_area = <!-- area of site m2, km2 square mile etc -->
+| code = <!--facility/installation code, applies to US -->
+| built = {{Start date|2003}}
+| used = 2003-current<!--{{End date|1946}}-->
+| builder = 
+| materials = 
+| height = <!-- height of tallest part, not above sea level -->
+| length = <!-- for border fences or other DMZs -->
+| fate = <!--changed from demolished parameter-->
+| condition = 
+| battles = 
+| events = 
+| current_commander = <!-- current commander -->
+| past_commanders = <!-- past notable commander(s) -->
+| garrison = <!-- such as the 25th Bombardment Group -->
+| occupants = <!-- squadrons only -->
+| designations = 
+| website = 
+| footnotes = <!-- catchall in case it's needed to preserve something in infobox that doesn't work in new code -->
+<!-- begin airfield information  -->
+| IATA = 
+| ICAO = ORTI
+| FAA = 
+| TC = 
+| LID = 
+| GPS = 
+| WMO = 
+| elevation = <!-- {{Convert| |m|0}} -->
+| r1-number = 
+| r1-length = <!-- {{Convert| |m|0}} -->
+| r1-surface = 
+| h1-number = 
+| h1-length = <!-- {{Convert| |m|0}} -->
+| h1-surface = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->
+}}

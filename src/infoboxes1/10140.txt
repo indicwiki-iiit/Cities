@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Orhangazi
+| image_skyline           = A view from Narlıca, Orhangazi, 2004.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|40|29|20|N|29|18|30|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Bursa Province|Bursa]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Ak Parti]]
+| leader_title            = Mayor
+| leader_name             = Bekir Aydın
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Ertan Peynircioğlu
+| elevation_m             = 
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Bursa|Orhangazi}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Bursa}}
+| population_urban        = {{Turkey district populations|Bursa|Orhangazi|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Bursa|Orhangazi|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 16800
+| website                 = {{URL| www.orhangazi.bel.tr | www.orhangazi.bel.tr  }}
+}}

@@ -1,0 +1,30 @@
+{{Infobox station
+| name        = Okegawa Station
+| native_name = 桶川駅
+| native_name_lang = ja
+| type        = 
+| image       = Okegawa station.JPG
+| alt         = 
+| caption     = Okegawa Station in 2008
+| other_name  = 
+| address     = 1-1-1 Minami, Okegawa-shi, Saitama-ken 363-0015
+| country     = Japan
+| coordinates = {{coord|35.9982|N|139.5642|E|type:railwaystation_region:JP|display=inline, title|format=dms}}
+| operator    = [[File: JR logo (east).svg|22px]] [[East Japan Railway Company|JR East]]
+| line        = {{colorbull|DarkOrange}} [[Takasaki Line]]
+| distance = 11.8 km from {{STN|Ōmiya|Saitama}}
+| platforms   =  1 island + 1 side platform
+| connections = 
+| structure   = 
+| code        = 
+| status      = Staffed 
+| website     = {{Official|1=http://www.jreast.co.jp/estation/station/info.aspx?StationCd=373}}
+| opened      =1 March 1885
+| closed      = 
+| former      =  
+| passengers  =26,296 daily
+| pass_year   = FY2019
+| map_type    = Japan Saitama Prefecture#Japan   
+| map_dot_label       = Okegawa Station
+| services    = 
+}}

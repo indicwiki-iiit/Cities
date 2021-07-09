@@ -1,0 +1,60 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|name                  = Taroudant
+|other_name            = Tarudant / Rudana
+|native_name           = {{lang|ber|ⵜⴰⵔⵓⴷⴰⵏⵜ}}<br/>{{lang|ar|تارودانت}}
+|settlement_type       =
+|imagesize             = 280px
+|image_caption         = Taroudant
+|pushpin_map           = Morocco#Africa
+| pushpin_relief        = 1
+|pushpin_label_position= bottom
+|image_skyline          = {{Photomontage
+| photo1a = TAROUDANNT defensive wall (js).jpg
+| photo2a =
+| photo2b =
+| photo3a = Al Kassbah, Taroudant, Morocco - panoramio.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}  
+|pushpin_mapsize       = 
+|pushpin_map_caption   = Location in Morocco
+|subdivision_type      = [[List of sovereign states|Country]]
+|subdivision_name      = {{MAR}}
+|subdivision_type1     = [[Regions of Morocco|Region]]
+|subdivision_name1     = [[Souss-Massa]]
+|subdivision_type2     = [[Provinces of Morocco|Province]]
+|subdivision_name2     = [[Taroudant Province|Taroudant]]
+|government_type       =
+|leader_title          =
+|leader_name           =
+|established_title     =  <!-- Settled -->
+|established_date      = 
+|area_magnitude        = 
+|unit_pref             = metric
+|area_footnotes        =
+|area_total_km2        = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2         = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|population_as_of      = 2014
+|population_footnotes  = <ref name=census2014>{{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |access-date=29 September 2017}}</ref>
+|population_note       =
+|population_total      = 80149
+|population_density_km2=
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|timezone              = [[Western European Time|WET]] 
+|utc_offset            =  +0
+|timezone_DST          = [[Western European Summer Time|WEST]]
+|utc_offset_DST        = +1
+|coordinates           = {{coord|30|28|15.59|N|8|52|50.16|W|region:MA|display=inline}}
+|elevation_footnotes   =  <!--for references: use <ref> </ref> tags-->
+|elevation_m           = 238
+|elevation_ft          =
+|postal_code_type      = Postal code
+|postal_code           = 83000
+|area_code             =
+}}

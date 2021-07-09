@@ -1,0 +1,74 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Kosti
+|other_name             =
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Kosti residential.jpg
+|imagesize              = 250px
+|image_caption          = Kosti Residential Area
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+| pushpin_map            = Sudan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_image          = Locator map Sudan White Nile.png
+| pushpin_map_caption    = Location in Sudan (White Nile state highlighted)
+| pushpin_label          = '''Kosti'''
+| pushpin_label_position = right
+|coordinates            = {{coord|13|10|N|32|40|E|region:SD|display=inline}}
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Sudan.svg|25px]] [[Sudan]]
+|subdivision_type1      = [[States of Sudan|State]]
+|subdivision_name1      = [[White Nile (state)|White Nile]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = <!-- Settled -->
+|established_date       = 
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|unit_pref                = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+<!-- Population   ----------------------->
+|population_as_of               = 1993
+|population_footnotes           =
+|population_note                =
+|population_total               = 173,699
+|population_density_km2         =auto
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 380
+<!-- Area/postal codes & others -------->
+|postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = 
+|footnotes              = 
+}}

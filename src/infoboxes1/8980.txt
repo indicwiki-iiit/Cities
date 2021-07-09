@@ -1,0 +1,86 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Khasab
+|other_name             =
+|native_name            = {{Nobold|خصب}} <!-- for cities whose native name is not in English -->
+|native_name_lang       = ar
+|nickname               = 
+|settlement_type        = Town
+|motto                  =
+<!-- images and maps  -----------> 
+|image_skyline          =Khasab central square.JPG
+|imagesize              = 
+|image_caption          = Central square of Khasab
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                =
+|map_caption            = 
+|pushpin_map            = Oman#Persian Gulf
+|pushpin_label_position = left
+|pushpin_relief         = yes
+|pushpin_mapsize        =
+|pushpin_map_caption    = Location in Oman
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{OMN}}
+|subdivision_type1      = [[Subdivisions of Oman|Governorate]]
+|subdivision_name1      = [[Musandam Governorate]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =  <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of               = 2003
+|population_footnotes           =
+|population_note                =
+|population_total               = 17730
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        = Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Gulf Standard Time|GST]]
+|utc_offset             = +4
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|26|11|N|56|15|E|region:OM|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

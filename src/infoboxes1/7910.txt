@@ -1,0 +1,25 @@
+{{Infobox person
+| name        = Hideaki Takizawa
+| image               =
+| caption             =
+| image_size          =
+| native_name         = 滝沢秀明
+| native_name_lang    = ja
+| alias               = {{nihongo|Tackey|タッキー}}
+| birth_date  = {{Birth date and age|1982|03|29}}
+| birth_place =  [[Hachiōji, Tokyo]], [[Japan]]
+| instrument          =
+| occupation          = {{flatlist|
+* Singer
+* actor}}
+| module              = {{Infobox musical artist|embed=yes
+| genre               = [[J-pop]]
+| label               = [[Avex Trax]]
+| background          = solo_singer
+| associated_acts     = {{flatlist|
+* [[Tackey & Tsubasa]]
+* Ken Tackey}}
+}}
+| years_active        = {{Start date|1995}}–2018; 2019
+| website             = {{url|avex.jp/tackeytsubasa/}}
+}}

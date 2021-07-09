@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Donghae}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|동해시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal city]]
+| translit_lang1          = Korean
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|동|해|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|東|海|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Donghae-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Tonghae-si
+| image_skyline           = Samhwasa and murung velley.jpg
+| imagesize               = 
+| image_caption           = 
+| image_map               = Gangwon-Donghae.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = South Korea
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Gwandong]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Gangwon dialect|Gangwon]]
+| established_title       = First official recorded 
+| established_date        = 102 AD 
+| established_title2      = City established
+| established_date2       = April 1, 1980
+| area_total_km2          = 180.01
+| population_as_of        = December 31, 2015
+| population_total        = 93895
+| population_density_km2  = 521.61
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 10 ''dong''
+| coordinates             = {{Coord|37.524771|129.114282|type:city_region:KR-42|format=dms|display=it}}
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Humid subtropical climate|Cfa]]
+| image_blank_emblem      = 
+| blank_emblem_type       = 
+}}

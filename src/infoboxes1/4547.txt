@@ -1,0 +1,96 @@
+{{Infobox settlement
+| name                   = Okotoks
+| official_name          = Town of Okotoks
+| other_name             =
+| native_name            = <!-- for cities whose native name is not in English -->
+| nickname               =
+| settlement_type        = Town<!--For Town or Village (Leave blank for the default City)-->
+| motto                  = Historic Past, Sustainable Future
+| image_skyline          = Okotoks2009.JPG
+| image_caption          = A view of Okotoks; overlooking downtown and facing south.
+| image_flag             =
+| image_seal             =
+| image_shield           =
+| image_blank_emblem     = Okotoks AB logo.jpg
+| blank_emblem_size      = 150px
+| image_map              =
+| map_caption            =
+| pushpin_map            = CAN AB Foothills#Canada Alberta#Canada
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = 
+| subdivision_type       = Country
+| subdivision_name       = Canada
+| subdivision_type1      = [[Provinces and territories of Canada|Province]]
+| subdivision_name1      = [[Alberta]]
+| subdivision_type2      = [[List of regions of Canada#Alberta|Region]]
+| subdivision_name2      = [[Calgary Region]]
+| subdivision_type3      = [[List of census divisions of Alberta|Census division]]
+| subdivision_name3      = [[Division No. 6, Alberta|6]]
+| subdivision_type4      = [[List of municipal districts in Alberta|Municipal district]]
+| subdivision_name4      = [[Foothills County]]
+| government_footnotes   = <ref>{{AMOS}}</ref>
+| government_type        =
+| leader_title           = Mayor
+| leader_name            = Bill Robertson
+| leader_title1          = Governing body
+| leader_name1           = {{Collapsible list|title=Okotoks Town Council
+|1=Carrie Fischer |2=Ken Heemeryck |3=Matt Rockley |4=Ed Sands |5=Tanya Thorn |6=[[Ray Watrin]]}}
+| leader_title2          = CAO
+| leader_name2           = Elaine Vincent
+| leader_title3          = [[Current members of the Canadian House of Commons|MP]]
+| leader_name3           = [[John Barlow (Canadian politician)|John Barlow]]
+| leader_title4          = [[Legislative Assembly of Alberta|MLA]]
+| leader_name4           = [[RJ Sigurdson]]
+| established_title      = Founded
+| established_date       = 
+| established_title1     = Incorporated<ref name=AMATownProfiles>{{cite web | url=http://www.municipalaffairs.alberta.ca/cfml/MunicipalProfiles/basicReport/TOWN.PDF | publisher=[[Alberta Municipal Affairs]] | title=Location and History Profile: Town of Okotoks | page=435 | date=June 17, 2016 | access-date=June 19, 2016}}</ref>
+| established_date1      = &nbsp;
+| established_title2     = &nbsp;•&nbsp;[[List of villages in Alberta|Village]]
+| established_date2      = October 25, 1899
+| established_title3     = &nbsp;•&nbsp;[[List of towns in Alberta|Town]]
+| established_date3      = June 1, 1904
+| area_magnitude         =
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           = &nbsp;(2016)<ref name=2016censusABmunis/>
+|area_total_km2           = 
+|area_land_km2            = 19.63
+|area_water_km2           = 
+|area_total_sq_mi         = 
+|area_land_sq_mi          = 
+|area_water_sq_mi         = 
+|area_water_percent       = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|population_as_of               = 2016
+|population_footnotes           = <ref name=2016censusABmunis/>
+|population_note                = 
+|population_total               = 28881 <!-- 2016 StatCan population only per [[WP:CANPOP]];  do not replace with latest municipal census population count; this municipal census population count can go in the population_blank1_title and population_blank1 parameters further below and can be noted in the article body (so long as it doesn't replace the 2016 StatCan population in the body). -->
+|population_density_km2         = 1471
+|population_density_sq_mi       = 
+|population_metro               = 
+|population_density_metro_km2   = 
+|population_density_metro_sq_mi = 
+|population_urban               = 
+|population_density_urban_km2   = 
+|population_density_urban_sq_mi = 
+| population_blank1_title        = [[Municipal census in Canada|Municipal census]] ([[Alberta municipal censuses, 2015|2015]])
+| population_blank1              = 28016<ref name=2015census/>
+|coordinates            = {{coord|50|43.5|N|113|58.5|W|region:CA-AB|display=inline,title}}
+| timezone               = [[Mountain Standard Time|MST]]
+| utc_offset             = −07:00
+| timezone_DST           = MDT
+| utc_offset_DST         = −06:00
+| elevation_footnotes    = <ref>{{cite web | url=http://www.safetycodes.ab.ca/Public/Documents/PSSSOP_Handbook_Version_12_Online_Feb_21_2012b.pdf | title=Alberta Private Sewage Systems 2009 Standard of Practice Handbook: Appendix A.3 Alberta Design Data (A.3.A. Alberta Climate Design Data by Town) | publisher=Safety Codes Council | type=PDF | pages=212–215 (PDF pages 226–229) | date=January 2012 | access-date=October 9, 2013}}</ref>
+| elevation_m            = 1051
+|postal_code_type = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code = [[List of T postal codes of Canada|T1S]]
+| area_code              = [[Area code 403|-1+403]], [[Area code 587|-1+587]]
+| blank_name             = Highways
+| blank_info             = [[Alberta Highway 2A|Highway 2A]]<br>[[Alberta Highway 7|Highway 7]]<br>[[Alberta Highway 549|Highway 549]]
+| blank1_name            = Waterway
+| blank1_info            = [[Sheep River (Alberta)|Sheep River]]
+| website                = {{Official website|www.okotoks.ca}}
+| footnotes              =
+}}

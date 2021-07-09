@@ -1,0 +1,105 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                = Cupertino
+| official_name       = City of Cupertino
+| native_name         = <!-- for cities whose native name is not in English -->
+| other_name          = 
+| settlement_type     = [[City (California)|City]]
+<!-- images and maps  ----------->
+| image_skyline                   = {{Photomontage
+| photo1a                 = Cupertino, United States Jan 04 (cropped).jpeg
+| photo2a                 = Cupertino City Center.jpg
+| photo2b                 = Aerial view of Apple Park dllu (cropped).jpg
+| photo3a                 = Steve Jobs Theater - external (cropped).jpg
+| photo3b                 = Le Petit Trianon (cropped).jpg
+| spacing                 = 1
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 280
+| foot_montage            = Clockwise from top: View of Cupertino and [[Silicon Valley]] from the [[Santa Cruz Mountains]]; [[Apple Park]] ([[Apple Inc.]] HQ); [[Le Petit Trianon]]; [[Steve Jobs Theater]]; Cupertino City Center
+}}
+| image_flag          = Flag of Cupertino, California.svg
+| image_seal          = Seal of Cupertino, California.svg
+| nickname            = 
+| motto               = 
+| image_map           = Santa Clara County California Incorporated and Unincorporated areas Cupertino Highlighted 0617610.svg
+| mapsize             = 250px
+| map_caption         = Location of Cupertino in Santa Clara County, California
+| pushpin_map         = USA
+| pushpin_map_caption = Location within the United States
+| pushpin_relief      = 1
+<!-- Location ------------------>
+| coordinates         = {{coord|37|19|23|N|122|01|55|W|region:US-CA|display=inline,title}}
+| subdivision_type    = [[List of sovereign states|Country]]
+| subdivision_name    = United States
+| subdivision_type1   = [[U.S. state|State]]
+| subdivision_name1   = [[California]]
+| subdivision_type2   = [[List of counties in California|County]]
+| subdivision_name2   = [[Santa Clara County, California|Santa Clara]]
+| subdivision_type3   = [[List of regions of California|Region]]
+| subdivision_name3   = [[San Francisco Bay Area]]
+<!-- Politics ----------------->
+| established_title   = [[Municipal corporation|Incorporated]]
+| established_date    = October 10, 1955<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+| named_for           = [[Stevens Creek (California)|Arroyo San José de Cupertino]]
+| government_type     = [[Council–manager government|Council–manager]]
+| governing_body      = {{Collapsible list
+| title               = City council<ref name=cc>{{Cite web|url=https://www.cupertino.org/our-city/city-council/city-council-members|title=City Council Members|publisher=Cupertino|access-date=April 3, 2019|archive-url=https://web.archive.org/web/20190404012642/https://www.cupertino.org/our-city/city-council/city-council-members|archive-date=April 4, 2019|url-status=live}}</ref>
+| frame_style         = border:none; padding: 0;
+| list_style          = text-align:left;display:none;
+| 1 = • [[Mayor]] Darcy Paul<ref>https://www.cupertino.org/our-city/city-council/city-council-members</ref>
+| 2 = • [[Vice Mayor]] Liang Chao
+| 3 = • Kitty Moore
+| 4 = • Hung Wei 
+| 5 = • Jon Willey
+}}
+<!-- Area------------------>
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2           = 29.17
+| area_total_sq_mi         = 11.26
+| area_land_km2            = 29.17
+| area_land_sq_mi          = 11.26
+| area_water_km2           = 0.00
+| area_water_sq_mi         = 0.00
+| area_water_percent       = 0.01
+| elevation_footnotes      = <ref name=GNIS>{{Cite GNIS|277496|Cupertino|access-date=January 21, 2015}}</ref>
+| elevation_m              = 72
+| elevation_ft             = 236
+<!-- Population ----------->
+| population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0617610.html|title=Cupertino (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 25, 2015|archive-url=https://www.webcitation.org/69ytb08MK?url=http://quickfacts.census.gov/qfd/states/06/0617610.html|archive-date=August 17, 2012|url-status=dead}}</ref>
+| population_total         = 58302
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 59276
+| pop_est_as_of            = 2019
+| population_density_sq_mi = 5263.83
+| population_metro         = 
+| population_density_metro_sq_mi = <!-- Time zones ----------->
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = −8
+| timezone_DST             = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST           = −7
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP code]]s
+| postal_code              = 95014, 95015
+| area_code_type           = [[North American Numbering Plan|Area codes]]
+| area_code                = [[Area codes 408 and 669|408/669]]
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code
+| blank_info               = {{FIPS|06|17610}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|277496}}, {{GNIS 4|2410278}}
+| website                  = {{URL|www.cupertino.org}}
+|population_density_km2    = 2032.36
+}}

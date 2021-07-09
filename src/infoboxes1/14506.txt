@@ -1,0 +1,53 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox settlement-->
+| official_name                   = 
+| settlement_type                 = [[List of cities in Montenegro|Town]] and [[Municipalities of Montenegro|municipality]]
+|pushpin_map            = Montenegro
+|pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location within Montenegro
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{MNE}}
+|subdivision_type1      = [[Municipalities of Montenegro|Municipality]]
+|subdivision_name1      = [[File:Rozaje-grb.png|15px]] [[Rožaje Municipality|Rožaje]]
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| image_skyline                   = Ro panorama.jpg
+| image_size                      = 
+| image_caption                   = View of Rožaje
+| map_caption                     = Location of Rožaje Montenegro.
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| population_as_of                = 2011<ref>{{citation|url=http://monstat.org/userfiles/file/popis2011/saopstenje/knjiga_prvi%20rezultati(1).pdf |title=Prvi rezultati popisa 2011. |publisher=Monstat |language=cnr |date=15 May 2011 |page=9}}</ref>
+| name                            = Rožaje
+| native_name                     = Рожаје<br>Rozhajë
+| leader_title                    = Mayor
+| leader_name                     = Rahman Husović
+| leader_title1                   = Ruling&nbsp;party
+| leader_name1                    = [[Bosniak Party]]
+| area_total_km2                  = 432
+| population_footnotes            = 
+| population_blank1_title         = Municipality
+| population_blank1               = 22,964
+| population_density_km2          = 53
+| population_urban                = 9,422
+| population_rural                = 13,542
+| population_demonym              = Rožajci
+| parts                           = 66
+| parts_type                      = Settlements
+| established_date                = 
+| coordinates                     = {{coord|42.84|20.16|region:ME|display=inline,title}}|
+| area_code_type                  = [[Telephone numbers in Montenegro|Area code]]
+| area_code                       = +382&nbsp;51
+| blank1_info_sec1                = RO
+| blank1_name_sec1                = [[Vehicle registration plates of Montenegro|Car&nbsp;plates]]||
+| postal_code_type                = [[List of postal codes in Montenegro|Postal code]]
+| postal_code                     = 84310
+| blank_info_sec1                 = ME-17
+| blank_name_sec1                 = [[ISO 3166-2:ME|ISO 3166-2&nbsp;code]]|
+| blank_name_sec2                 = [[Köppen climate classification|Climate]]
+| blank_info_sec2                 = [[Oceanic climate|Cfb]]
+| website                         = {{URL|www.rozaje.me}}
+| image_flag                      =
+| image_shield                    =|
+}}

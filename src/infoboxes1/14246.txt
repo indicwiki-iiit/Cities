@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name = Rokiškis
+| image_skyline = Namas su boksteliais, Rokiskis.JPG
+| image_caption = House in Rokiškis center
+|nickname =
+|settlement_type= City 
+|pushpin_map            =Lithuania 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Rokiškis
+|image_shield = Rokiškis COA.svg
+|coordinates       = {{coord|55|58|0|N|25|35|0|E|region:LT_type:city(16700)|display=inline,title}}
+|
+|subdivision_type  = [[Countries of the world|Country]]
+|subdivision_name  = {{LTU}}
+|subdivision_type1 = [[Regions of Lithuania|Ethnographic&nbsp;region]]
+|subdivision_name1 = [[Aukštaitija]]
+|subdivision_type2 = [[Counties of Lithuania|County]]
+|subdivision_name2 = [[File:Panevezys County flag.svg|20px]] [[Panevėžys County]]
+|subdivision_type3 = [[List of municipalities of Lithuania|Municipality]]
+|subdivision_name3 = [[Rokiškis district municipality]]
+|subdivision_type4 = [[Elderships of Lithuania|Eldership]]
+|subdivision_name4 = Rokiškis town eldership
+|subdivision_type6 = [[Capital (political)|Capital of]]
+|subdivision_name6 = [[Rokiškis district municipality]] <br> Rokiškis town eldership <br> Rokiškis rural eldership
+|established_date  = 1499
+|established_title = First mentioned
+|established_date2 = 1920
+|established_title2= Granted city rights
+|population_total  = 11,765
+|population_as_of  = 2020
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+}}

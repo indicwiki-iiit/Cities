@@ -1,0 +1,90 @@
+{{Infobox settlement
+| name                            = Pomona, California
+| settlement_type                 = [[City (California)|City]]
+<!-- Images and maps ------>
+| image_skyline                   = {{Photomontage
+| photo1a                 = L.A. County Fair at Dusk (cropped).JPG
+| photo2a                 = Downtown Pomona 04 - panoramio.jpg
+| photo2b                 = Abraham Lincoln Elementary School, Pomona.jpg
+| photo3a                 = LINCOLN PARK HISTORIC DISTRICT, POMONA LOS ANGELES COUNTY CA (cropped).jpg
+| photo3b                 = CLA Portrait.jpg
+| spacing                 = 2
+| position                = center
+| color_border            = white
+| color                   = white
+| size                    = 260
+| foot_montage            = Clockwise from top: [[Los Angeles County Fair]]; Abraham Lincoln Elementary; [[California State Polytechnic University, Pomona]]; Lincoln Park Historic District; Antiques Row.}}
+| image_flag                      = Flag of Pomona, California.png
+| image_seal                      = Seal of Pomona, California.png
+| nickname                        = P-Town{{Citation needed|date=January 2015}}
+| motto                           = "Vibrant - Safe - Beautiful"<ref>{{cite web|url=  http://www.ci.pomona.ca.us/|title= City of Pomona California Website|publisher= City of Pomona California Website|access-date= September 14, 2012}}</ref>
+| image_map                       = LA County Incorporated Areas Pomona highlighted.svg
+| mapsize                         = 175x175px
+| map_caption                     = Location in [[Los Angeles County, California|Los Angeles County]] and the [[U.S. state]] of [[California]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map                     = Los Angeles#California#USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_label                   = Pomona
+<!-- Location ------------->
+| coordinates                     = {{coord|34|3|39|N|117|45|21|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Flagu|United States|size=23px}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|California|size=23px}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+<!-- History -------------->
+| established_title               = Settled
+| established_date                = 1830s<ref name="collier"/>
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = January 6, 1888<ref name="collier"/>
+| named_for                       = [[Pomona (mythology)|Pomona]], a Roman goddess of fruitful abundance<ref name=about>{{cite web|url=http://www.ci.pomona.ca.us/index.php/about/about-pomona|title=About Pomona|publisher=City of Pomona|access-date=April 8, 2015}}</ref>
+
+<!-- Government ----------->
+| government_type                 = [[Council-manager government|Council-Manager]]
+|leader_title = Mayor
+|leader_name = Tim Sandoval <ref>https://www.ci.pomona.ca.us/index.php/government/city-council/mayor</ref>
+
+<!-- Area ----------------->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 22.99
+| area_total_km2                  = 59.54
+| area_land_sq_mi                 = 22.98
+| area_land_km2                   = 59.52
+| area_water_sq_mi                = 0.01
+| area_water_km2                  = 0.03
+| area_water_percent              = 0.05
+<!-- Elevation ------------>
+| elevation_footnotes             = <ref>{{Cite GNIS|1661247|Pomona|access-date=December 8, 2014}}</ref>
+| elevation_ft                    = 850
+| elevation_m                     = 259
+<!-- Population ----------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quick>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0658072.html|title=Pomona (city) QuickFacts|publisher=United States Census Bureau|access-date=January 28, 2015|archive-url=https://www.webcitation.org/6ACZqqRJ4?url=http://quickfacts.census.gov/qfd/states/06/0658072.html|archive-date=August 26, 2012|url-status=dead}}</ref>
+| population_total                = 149058
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019"/>
+| population_est                  = 151691
+| population_rank                 = [[List of cities in Los Angeles County, California|7th]] in Los Angeles County<br />[[List of largest California cities by population|37th]] in California<br />[[List of United States cities by population|171st]] in the United States
+| population_density_km2          = 2548.73
+<!-- Time zones ----------->| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+<!-- Codes ---------------->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 91766–91768
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 909|909]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|58072}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1661247}}, {{GNIS 4|2411454}}
+| website                         = {{URL|www.ci.pomona.ca.us}}
+| footnotes                       = 
+| population_density_sq_mi        = 6601.29
+| official_name                   = 
+}}

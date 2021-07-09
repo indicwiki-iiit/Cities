@@ -1,0 +1,72 @@
+{{Infobox settlement
+| name                            = Port Chester, New York
+| settlement_type                 = [[Village (New York)|Village]]
+| nickname                        = Gateway To New England
+| motto                           = "Rich History, Great Future"
+
+<!-- Images -->| image_skyline                   = US_Route_1_through_Port_Chester.jpg
+| imagesize                       = 280px
+| image_caption                   = Downtown Port Chester
+| image_flag                      = 
+| image_seal                      = Seal of Port Chester.png
+| image_map                       = Westchester County New York incorporated and unincorporated areas Port Chester highlighted.svg
+| map_caption                     = Location in Westchester County, New York
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[United States]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[List of counties in New York|County]]
+| subdivision_name2               = [[Westchester County, New York|Westchester]]
+| subdivision_type3               = [[Municipalities in Westchester County|Town]]
+| subdivision_name3               = [[Rye (town), New York|Rye]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Luis Marino
+| leader_title1                   = Board of Trustees
+| leader_name1                    = *Daniel Brakewood
+*Bart Didden
+*Frank Ferrara
+*Joan Grangenois-Thomas
+*Alejandro Payan
+| established_title               = 
+| established_date                = <!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 6.22
+| area_land_km2                   = 6.03
+| area_water_km2                  = 0.19
+| area_total_sq_mi                = 2.40
+| area_land_sq_mi                 = 2.33
+| area_water_sq_mi                = 0.07
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 28967
+| population_density_km2          = 4836.38
+| population_density_sq_mi        = 12527.06
+| population_demonym              = Port Chesterian
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = 
+| elevation_m                     = 13
+| elevation_ft                    = 43
+| coordinates                     = {{coord|41|0|18|N|73|40|8|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 10573
+| area_code                       = [[Area code 914|914]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-59223
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0977392
+| website                         = https://portchesterny.com
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 29163
+| official_name                   = Village of Port Chester
+}}

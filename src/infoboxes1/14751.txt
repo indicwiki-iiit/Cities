@@ -1,0 +1,42 @@
+{{Infobox park
+| name = Prospect Park
+| image = Prospect Park New York October 2015 003.jpg
+| photo =
+| image_size = 300px
+| type = [[Urban park]]
+| location = [[Brooklyn]], [[New York City]], United States
+| coords_ref =
+| area = {{convert|526|acre|km2}}
+| length =
+| width =
+| coordinates = {{Coord|40|39|42|N|73|58|15|W|region:US_type:landmark|display=title,inline}}
+| created = 1867–1873
+| owner = [[New York City Department of Parks and Recreation|NYC Parks]]
+| operator = Prospect Park Alliance
+| visitation_num = about 8–10 million annually<ref>{{cite web|url=http://www.prospectpark.org/about-prospect-park/history/timeline|title=Prospect Park Timeline|website=prospectpark.org|access-date=March 20, 2018|url-status=dead|archive-url=https://web.archive.org/web/20140530190154/http://www.prospectpark.org/about-prospect-park/history/timeline|archive-date=May 30, 2014}}</ref><ref>{{Cite web|url=https://brooklyneagle.com/articles/2017/12/26/millions-and-millions-of-visitors-poured-into-brooklyn-bridge-park-this-summer/|title=Millions (and millions) of visitors poured into Brooklyn Bridge Park this summer|date=2017-12-26|website=Brooklyn Eagle|language=en-US|access-date=2019-07-08}}</ref>
+| map_image = {{Maplink|frame=yes|plain=yes|frame-align=center|frame-width=300|frame-height=300|zoom=10|type=shape|stroke-color=#000|frame-lat=40.682|frame-long=-73.965|stroke-width=1|id=Q1049632|title=Prospect Park}}
+| map_width =
+| map_caption = Interactive map showing location of Prospect Park
+| status = Open all year
+| publictransit = [[Prospect Park (Brooklyn)#Transportation|Subway and bus; see below]]
+| website = {{URL|http://www.prospectpark.org}}
+| embedded = {{Infobox NRHP
+| embed                    = yes
+| name                     =
+| image                    =
+| caption                  =
+| nrhp_type                =
+| location                 =
+| area                     =
+| built                    =
+| architect                = [[Frederick Law Olmsted]] (1822–1903), [[Calvert Vaux]] (1824–1895)
+| added                    = September 17, 1980
+| refnum                   = 80002637<ref name="nris">{{NRISref|2006a}}</ref>
+| designated_other2_name   = NYC Landmark
+| designated_other2_date   = November 25, 1975<ref name="nycl"/>
+| designated_other2_abbr   = NYCL
+| designated_other2_link   = New York City Landmarks Preservation Commission
+| designated_other2_number =
+| designated_other2_color  = #FFE978
+}}
+}}

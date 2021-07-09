@@ -1,0 +1,132 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Suining}}
+|official_name          = 
+|other_name             = Sui-ning
+|native_name            = {{lower|0.1em|遂宁市}}
+|native_name_lang = zh-Hans
+|nickname               =
+|settlement_type        = [[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Suining 8022.jpg
+|imagesize              =
+|image_caption          = 
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Sichuan subdivisions - Suining.svg
+|mapsize                = 
+|map_caption            = Location of Suining in Sichuan
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = 
+|pushpin_label_position = 
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Sichuan]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+|seat_type              = Municipal seat
+|seat                   = [[Chuanshan District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary
+|leader_name            = Yang Hongbo
+|leader_title1          = Mayor
+|leader_name1           = Zhao Shiyong
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      = Prefecture-level city established
+|established_date       = February 1985
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 5326<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               = 2010
+|population_footnotes           =
+|population_note                = <ref name="geohive">[http://www.geohive.com/cntry/cn-51.aspx Geohive : ''China : Sichuan : Administrative Units''] {{Webarchive|url=https://web.archive.org/web/20130512034834/http://www.geohive.com/cntry/cn-51.aspx |date=2013-05-12 }}</ref>
+|population_total               = 3252551
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               = 680,000
+|population_density_urban_km2   = 1,064
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Suining municipal government
+|coordinates            = {{coord|30.533|N|105.593|E|type:adm2nd_region:CN-51_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 629000
+|area_code = (0)825
+|iso_code = [[ISO 3166-2:CN|CN-SC-09]]
+|blank_name             = [[GDP]]
+|blank_info             = [[CNY]] 49.523 Billion
+[[USD]] 7.716 Billion
+|blank1_name            = GDP per capita
+|blank1_info            = CNY 14,498
+USD 2,142
+|blank2_name            = [[Vehicle registration plates of China|Licence Plate]] Prefixes
+|blank2_info            = {{lang|zh-cn|川J}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website                =
+|footnotes              =
+}}

@@ -1,0 +1,21 @@
+{{Infobox power station
+|name                = Novovoronezh Nuclear Power Plant
+|image               = RIAN_archive_342604_The_Novovoronezh_nuclear_power_plant.jpg
+|image_caption       = Novovoronezh NPP
+|country             = Russia
+| coordinates = {{coord|51|16|30|N|39|12|0|E|region:RU_type:city|display=inline,title}}
+|operator            = [[Energoatom (Russia)|Energoatom]]
+|construction_began  = 1957
+|commissioned        = September 30, 1964
+|decommissioned      = 
+| np_reactor_type     = 1 × [[VVER|VVER-210]]<br/>1 × [[VVER|VVER-365]]<br/>2 × [[VVER|VVER-440/179]]<br/>1 × [[VVER|VVER-1000/187]]
+| ps_cooling_source      = [[Don River (Russia)|Don River]]
+| ps_cooling_towers      = 7 × [[Natural Draft]]
+|ps_units_operational = 1 × 417&nbsp;MW<br />1 × 1000&nbsp;MW
+|ps_units_decommissioned   = 1 × 210&nbsp;MW<br />1 × 365&nbsp;MW<br />1 × 417&nbsp;MW
+|ps_electrical_capacity = 1417
+|ps_annual_generation  = 12,523
+|ps_electrical_cap_fac = 77.9%
+|status              = O
+|website             = {{URL|http://www.nvnpp.vrn.ru}}
+}}

@@ -1,0 +1,80 @@
+{{Infobox settlement
+|name = Massillon, Ohio
+|official_name            = City of Massillon
+|settlement_type          = [[City]]
+|nickname                 = Tiger Town
+|motto                    = City of Champions
+
+<!-- Images -->
+|image_skyline            = Massillon Ohio.jpg
+|image_caption            = [[Lincoln Highway|Lincoln Way]] in downtown Massillon in 2006
+|imagesize                = 250px
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Massillon.png
+|mapsize                  = 250px
+|map_caption              = Location in Ohio
+|image_map1               = Map of Stark County Ohio Highlighting Massillon City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Massillon in Stark County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Stark County, Ohio|Stark]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor-Council]]
+|leader_title             = [[Mayor]]
+|leader_name              = Kathy Catazaro-Perry ([[Democratic Party (United States)|D]])
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Incorporated
+|established_date         = 1868
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 49.60
+|area_land_km2            = 49.13
+|area_water_km2           = 0.47
+|area_total_sq_mi         = 19.15
+|area_land_sq_mi          = 18.97
+|area_water_sq_mi         = 0.18
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 32584
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 32149
+|population_density_km2   = 663.24
+|population_density_sq_mi = 1717.75
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 289
+|elevation_ft             = 948
+|coordinates              = {{coord|40|47|48|N|81|31|17|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 44646-44647 <ref name=Zip>{{cite web|last=ZipCodes.com|title=MASSILLON, OH - ZIP Code Database, ZIP Code Maps|url=http://www.zip-codes.com/city/OH-MASSILLON.asp|access-date=2012-11-30}}</ref> 
+|area_code                = [[Area code 330|330]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-48244<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1061483<ref name="GR3" />
+|website                  = https://massillonohio.gov/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

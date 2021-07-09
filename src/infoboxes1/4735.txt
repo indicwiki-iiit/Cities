@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Sololá
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             =
+| settlement_type        = Municipality
+<!-- images and maps  ----------->
+| image_skyline          = Parque de Sololá.jpg
+| image_caption          = Sololá, Guatemala.
+| image_flag             = Vlagsolola.gif
+| image_seal             = Coat_of_arms_of_Solola.png
+| image_shield           =
+| nickname               =
+| motto                  =
+| image_map              =
+| map_caption            =
+| pushpin_map            = Guatemala<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Guatemala
+<!-- Location ------------------>
+| coordinates            = {{coord|14|46|N|91|11|W|region:GT|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Guatemala}}
+| subdivision_type1      = [[Departments of Guatemala|Department]]
+| subdivision_name1      = [[File:Vlagsolola.gif|25px]][[Sololá Department|Sololá]]
+| subdivision_type2      = [[Municipalities of Guatemala|Municipality]]
+| subdivision_name2      = Sololá
+| subdivision_type3      =
+| subdivision_name3      =
+| subdivision_type4      =
+| subdivision_name4      =
+| established_title      = Founded <!-- Settled -->
+| established_date       = 1547
+| government_type        = [[Municipal]]
+<!-- Politics ----------------->
+| government_footnotes   =
+| leader_title           = Mayor
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         = 94 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2         =
+| area_water_percent     =
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 2114
+| elevation_max_m        =
+| elevation_min_m        =
+<!-- Population   ----------------------->
+| population_footnotes   = <ref>{{cite web |url=http://www.ine.gob.gt/index.php?view=article&catid=42%3Ademografiaypoblacion&id=75%3Acenso2002&option=com_content&Itemid=69 |title=XI Censo Nacional de Poblacion y VI de Habitación (Censo 2002) |year=2002 |publisher=INE }}</ref>
+| population_total       = 63973
+| population_as_of       = Census 2002
+| population_density_km2 =
+| population_urban       = 30155
+| population_blank1_title = Ethnicities
+| population_blank1       = [[Kaqchikel people|Kaqchikel]], [[K'iche' people|K'iche']], [[Ladino people|Ladino]]
+| population_blank2_title = Religions
+| population_blank2       = [[Roman Catholicism]], [[Evangelicalism]], [[Maya religion|Maya]]
+| population_note         =
+<!-- General information  --------------->
+| timezone                =
+| utc_offset              =
+| timezone_DST            =
+| utc_offset_DST          =
+<!-- Area/postal codes & others -------->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| area_code               =
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+| website                 = [http://www.inforpressca.com/solola/ inforpressca.com/solola]
+| footnotes               =
+}}

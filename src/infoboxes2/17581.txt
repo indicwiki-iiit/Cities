@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Cleburne, Texas
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = "This is Texas"
+
+<!-- Images -->
+|image_skyline            = Cleburne-TX-Courthouse-8041e.jpg
+|imagesize                = 
+|image_caption            = Johnson County courthouse
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Johnson County Texas incorporated and unincorporated areas Cleburne highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Johnson County, Texas|Johnson County]] and the state of [[Texas]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagicon|USA}}United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flagicon|Texas}}[[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Johnson County, Texas|Johnson]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = [[City Council]]
+|established_title        = Established
+|established_date         = March 23, 1867
+|website                  = {{URL|www.cleburne.net}}
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 99.97
+|area_land_km2            = 92.46
+|area_water_km2           = 7.52
+|area_total_sq_mi         = 38.60
+|area_land_sq_mi          = 35.70
+|area_water_sq_mi         = 2.90
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 29337
+|population_density_km2   = 338.48
+|population_density_sq_mi = 876.66
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 233
+|elevation_ft             = 764
+|coordinates              = {{coord|32|21|6|N|97|23|33|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 76031, 76033<ref name="GR7">{{cite web|url=http://tools.usps.com/go/ZipLookupAction!input.action|title=USPS - Look Up a ZIP Code|access-date=2012-02-15|author=United States Postal Service|year=2012}}</ref>
+|area_code                = [[Area code 817|817]] 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-15364<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1332964<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 31295
+}}

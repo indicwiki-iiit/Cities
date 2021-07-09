@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                   = Tamra
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|טַמְרָה, תַמְרָה}}|rtl=yes}}
+ | {{Lang|ar|طمرة|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Palestine|City]] (from 1996)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Ṭámra, Támra
+| image_skyline          = Tamra3.jpg
+| image_caption          = View of Tamra
+| image_blank_emblem     = Tamra_COA.png
+| pushpin_map_alt        = 
+| pushpin_map            = Palestine
+| pushpin_mapsize        = 150
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|51|13|N|35|11|52|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 169/250 [[Palestine grid|PAL]]
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| leader_title           = Mayor
+| leader_name            = Sohil Diab
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:29259|R}}
+| population_footnotes   = {{Palestine  populations|reference}}
+| population_total       = {{Palestine populations|Tamra}}
+| population_as_of       = {{Palestine populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = from make a pit for storing corn<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/117/mode/1up 117]</ref>
+}}

@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+| name                            = Cambria
+| settlement_type                 = [[Census designated place]]
+| other_name                      = 
+| official_name                   = 
+| native_name                     = 
+<!-- Images and maps ------>| image_skyline                   = BurtonDrive CambriaCA.jpg
+| image_caption                   = Burton Drive in Cambria's historic East Village
+| nickname                        = 
+| image_map                       = San_Luis_Obispo_County_California_Incorporated_and_Unincorporated_areas_Cambria_Highlighted.svg
+| map_caption                     = Location in [[San Luis Obispo County, California|San Luis Obispo County]] and the state of [[California]]
+| pushpin_map             = USA California Southern #USA California#USA 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| pushpin_label_position  = 
+<!-- Location ------------->| coordinates                     = {{coord|35|33|15|N|121|5|15|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{USA}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flag|California}}
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[San Luis Obispo County, California|San Luis Obispo]]
+<!-- History -------------->| established_title               = <!-- Founded -->
+| established_date                = 
+| named_for                       = [[Cambria County, Pennsylvania]]
+<!-- Area ----------------->| unit_pref                       = US
+| area_footnotes                  = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi                = 8.508
+| area_total_km2                  = 22.037
+| area_land_sq_mi                 = 8.508
+| area_land_km2                   = 22.037
+| area_water_sq_mi                = 0
+| area_water_km2                  = 0
+| area_water_percent              = 0
+| area_metro_sq_mi                = <!-- Elevation ------------>
+| elevation_footnotes             = <ref>{{Cite GNIS|1652683|Cambria|access-date=November 9, 2014 |df=dmy-all}}</ref>
+| elevation_ft                    = 43
+| elevation_m                     = 13
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 6032
+| population_density_sq_mi        = auto
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- Time zones ----------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = &minus;7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP code]]
+| postal_code                     = 93428
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 805|805]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|10074}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652683}}, {{GNIS 4|2407941}}
+}}

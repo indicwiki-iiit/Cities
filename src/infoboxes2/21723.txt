@@ -1,0 +1,30 @@
+{{Infobox settlement
+|official_name = Radomir
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+|subdivision_name1=[[Pernik Province|Pernik]]
+|subdivision_type2      = [[Municipalities of Bulgaria|Municipality]]
+|subdivision_name2=[[Radomir Municipality]]
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|pushpin_map            =Bulgaria
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Radomir in Bulgaria
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|image_skyline = Radomir2.jpg
+|image_shield=BUL_Радомир_COA.png|
+|native_name=Радомир
+|population_total=14,494
+|population_footnotes=
+|population_as_of=2011
+|elevation_m=764
+|postal_code=2400
+|area_code=0777
+|coordinates            = {{coord|42|33|N|22|57|E|region:BG|display=inline}}
+|leader_name=Plamen Aleksiev}}

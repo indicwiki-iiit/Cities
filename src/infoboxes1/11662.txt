@@ -1,0 +1,47 @@
+{{Infobox settlement
+| native_name       = Земун
+| native_name_lang  = sr
+| official_name     = Zemun
+| other_name        =
+| settlement_type   = [[Subdivisions of Belgrade|Municipality]]
+| image_shield      = Coat of arms of Zemun, Serbia.png
+| image_flag        = Zastava_Zemuna_border.png
+| image_skyline     =
+| image_caption     = Panoramic view of Zemun
+| image_map         = File:Belgrade Municipalities Zemun.png
+| mapsize           = 150px
+| map_caption       = Location of Zemun within the city of Belgrade
+| coordinates       = {{coord|44|51|N|20|24|E|region:RS|display=inline,title}}
+| subdivision_type  = [[List of sovereign states|Country]]
+| subdivision_name  = {{flag|Serbia}}
+| subdivision_type1 = City
+| subdivision_name1 = {{flag|Belgrade}}
+| parts_type        = Settlements
+| parts_style       = para
+| p1                = 4
+| leader_party      = [[Serbian Progressive Party|SNS]]
+| leader_title      = Mayor
+| leader_name       = Gavrilo Kovačević
+| area_blank1_title = Urban
+| area_blank1_km2   = 99.42
+| area_blank2_title = Municipality
+| area_blank2_km2   = 149.77
+| area_footnotes    = <ref>{{Serbian municipalities 2006}}</ref><ref name="area-zemun">{{cite web |title=Насеља општине Земун|url=http://webrzs.stat.gov.rs/axd/Registar/SlikeRegioni/Mapiranemape/BG%20i%20VOJ/ReZemun.pdf |website=stat.gov.rs |publisher=Statistical Office of Serbia |access-date=23 October 2019 |language=sr }}</ref>
+| population_footnotes =
+| population_as_of  =
+| population_blank1_title = Urban
+| population_blank1 =
+| population_blank2_title = Municipality
+| population_blank2 = 168170<ref name="popisi">{{cite book|title= Comparative overview of the number of population in 1948, 1953, 1961, 1971, 1981, 1991, 2002 and 2011 – Data by settlements, page 29|date=2014|publisher= Statistical Office of the Republic of Serbia, Belgrade|isbn=978-86-6161-109-4}}</ref>
+| timezone          = [[Central European Time|CET]]
+| utc_offset        = +1
+| timezone_DST      = [[Central European Summer Time|CEST]]
+| utc_offset_DST    = +2
+| postal_code_type  = [[Postal codes in Serbia|Postal code]]
+| postal_code       = 11080
+| area_code_type    = [[Telephone numbers in Serbia|Area code]]
+| area_code         = +381(0)11
+| blank_name        = [[Vehicle registration plates of Serbia|Car plates]]
+| blank_info        = BG
+| website           = {{url|www.zemun.rs}}
+}}

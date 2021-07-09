@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Kemp Mill, Maryland
+|settlement_type          = [[census-designated place]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = Shalom Kosher exterior 05.jpg
+|imagesize                =
+|image_caption            = Shalom Kosher, a kosher Jewish grocery store in Kemp Mill.
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Montgomery_County_Maryland_Incorporated_and_Unincorporated_areas_Kemp_Mill_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Kemp Mill, Maryland
+|image_map1               =
+|mapsize1                 =
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_type2       = [[List of counties in Maryland|County]]
+| subdivision_name        = {{Flagu|United States}}
+| subdivision_name1       = {{flag|Maryland}}
+| subdivision_name2       = {{Flagicon image|Flag_of_Montgomery_County,_Maryland.svg}} [[Montgomery County, Maryland|Montgomery]]
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           =
+|area_magnitude           =
+|area_total_km2           = 6.2
+|area_land_km2            = 6.2
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 2.54
+|area_land_sq_mi          = 2.54
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     =
+|population_total         = 12,564
+|population_density_km2   = 1593.2
+|population_density_sq_mi = 4952.3
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      =
+|elevation_m              = 102
+|elevation_ft             = 335
+|coordinates              = {{coord|39|2|2|N|77|1|28|W|region:US-MD_type:city|display=inline,title}}
+|postal_code_type         =
+|postal_code              =
+|area_code                =
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 24-43200
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1852594
+|website                  =
+|footnotes                =
+}}

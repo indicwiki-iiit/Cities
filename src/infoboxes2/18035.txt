@@ -1,0 +1,29 @@
+{{Infobox station
+| name        = {{KSSN|SL|22|size=50}}<br />Maebara Station
+| native_name = 前原駅
+| native_name_lang = ja
+| type        = 
+| image       = Maebara-station-east.jpg
+| alt         = 
+| caption     = East exit, Maebara Station
+| other_name  = 
+| address     = 7-17-21 Maebaranishi, Funabashi-shi, Chiba-ken 274-0825
+| country     = Japan
+| coordinates = {{Coord|35.7006|N|140.0275|E|type:railwaystation_region:JP|display=title, inline}}
+| operator    =[[File:Shin-Keisei Logo.SVG|24px]] [[Shin-Keisei Electric Railway]]
+| line        = {{KSLS|SL}} [[Shin-Keisei Line]]
+| distance    = 23.9 km from {{STN|Matsudo}}
+| platforms   =  2 side platforms
+| connections = 
+| structure   = 
+| code        = '''{{Color|#EF59A1|○}}SL22'''
+| website     = {{Official|1=https://www.shinkeisei.co.jp/station/navi_maebara/}}
+| opened      = 13 December 1948
+| closed      = 
+| former      = 
+| passengers  =  9,362 daily
+| pass_year   = 2018
+| map_type    = Japan Chiba Prefecture#Japan   
+| map_dot_label       = Maebara Station
+| services    = 
+}}

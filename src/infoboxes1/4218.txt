@@ -1,0 +1,138 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields which may be available -->
+<!-- Basic info -------------- -->
+| name = Daly City, California
+| official_name = 
+| settlement_type = [[City (California)|City]]
+<!-- images and maps --------- -->
+| image_skyline = Daly City.jpg
+| imagesize = 250px
+| image_caption = Part of Daly City, with [[San Bruno Mountain]] and the [[San Francisco]] neighborhood of [[Crocker-Amazon, San Francisco|Crocker-Amazon]] in the background
+| image_flag = 
+| flag_size = 
+| image_seal = Seal of Daly City, California.png
+| seal_size = 
+| nickname = Gateway to the Peninsula
+| motto = 
+| image_map = File:San Mateo County California Incorporated and Unincorporated areas Daly City Highlighted 0617918.svg
+| mapsize = 250x200px
+| map_caption = Location of Daly City in [[San Mateo County]], [[California]]
+|pushpin_map             = San Francisco Bay Area#California#USA
+|pushpin_map_alt         = 
+|pushpin_map_caption     = Location of Daly City
+|pushpin_label           = Daly City
+<!-- Location ------------------>
+| coordinates = {{coord|37|41|11|N|122|28|06|W|region:US-CA|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+
+<!-- Politics --------------- -->
+| established_title = [[Municipal corporation|Incorporated]]
+| established_date = March 22, 1911<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 }}</ref>
+| founder = <!-- optional The name of the settlement's founder -->
+| named_for = [[John Donald Daly|John Daly]]
+| government_type = [[Council-Manager]]
+| leader_title = Mayor
+| leader_name = Juslyn C. Manalo<ref name="cc">{{Cite web
+ | url = https://www.dalycity.org/409/City-Council
+ | title = City Council Daly City, CA
+ | publisher = City of Daly City, California
+ | access-date = January 23, 2021}}</ref>
+| leader_title1 = [[City council]]<ref name="cc" />
+| leader_name1 = {{Collapsible list
+  |title = Council Members
+  |frame_style = border:none; padding: 0;
+  |list_style = text-align:left;display:none;
+  |1 = Rod Daus-Magbual {{small|(vice-mayor)}}
+  |2 = Glenn R. Sylvester
+  |3 = Pamela DiGiovanni
+  |4 = Raymond A. Buenaventura
+  }}
+| leader_title2 = [[California's 19th State Assembly district|State Assembly]]
+| leader_name2 = {{Representative|caad|19|fmt=sleader}}<ref name="swd">{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | access-date = October 22, 2014
+| publisher = UC Regents
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+| url-status = dead
+ }}</ref>
+| leader_title3 = [[California's 11th State Senate district|State Senator]]
+| leader_name3 = {{Representative|casd|11|fmt=sleader}}<ref name="swd" />
+| leader_title4 = [[California's 14th congressional district|U. S. Rep.]]
+| leader_name4 = {{Representative|cacd|14|fmt=usleader}}<ref>{{Cite GovTrack|CA|14}}</ref>
+
+<!-- Area---------------- -->
+| unit_pref = Imperial
+| area_footnotes =<ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi = 7.64
+| area_land_sq_mi = 7.64
+| area_water_sq_mi = 0.00
+| area_total_km2 = 19.78
+| area_land_km2 = 19.78
+| area_water_km2 = 0.00
+| area_water_percent = 0
+| area_note = <!-- Elevation ------------------------ -->
+| elevation_footnotes =<ref name="GNIS Detail">{{Cite GNIS|2410291|City of Daly City|access-date=April 8, 2015}}</ref>
+| elevation_ft = 344
+| elevation_m = 105
+
+<!-- Population --------- -->
+| population_as_of = 2010
+| population_footnotes =<ref name="quif">{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0617918.html|title=Daly City (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 8, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120811040355/http://quickfacts.census.gov/qfd/states/06/0617918.html|archive-date=August 11, 2012}}</ref>
+| population_total = 101123
+| pop_est_as_of = 2019
+| pop_est_footnotes =<ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est = 106280
+| population_rank = [[San Mateo County, California|1st]] in San Mateo County<br />[[List of largest California cities by population|66th]] in California
+| population_density_sq_mi = 13914.64
+| timezone1 = [[Pacific Time Zone|Pacific]]
+| utc_offset1 = −8
+| timezone1_DST = PDT
+| utc_offset1_DST = −7
+
+<!-- Area/postal codes & others ------ -->
+| postal_code_type = [[ZIP Code]]s<ref name="USPS ZIPs">{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 23, 2014}}</ref>
+ 
+| postal_code = 94014–94017
+ 
+| area_code_type = [[North American Numbering Plan|Area codes]]<ref>{{cite press release
+  | title = North American Numbering Plan Letter
+  | publisher = Bellcore
+  | date = November 22, 1996
+| url = http://www.nanpa.com/pdf_previous/08_02_99/pl_nanp_022.pdf
+  | access-date = June 26, 2009}}</ref><ref>
+{{cite web 
+ |title=NANP Administration System 
+ |publisher=[[North American Numbering Plan Administration]] 
+ |url=http://nanpa.com/nas/public/npa_city_query_step2.do;nanpaid=z20cKF7WNycJChhrcl2QTf5PqcpThWlMThGYCn15JrtFqXzgHQcw!1335039869?method=displayData 
+ |access-date=June 26, 2009 |url-status=dead 
+ |archive-url=https://web.archive.org/web/20100922182833/http://nanpa.com/nas/public/npa_city_query_step2.do%3Bnanpaid%3Dz20cKF7WNycJChhrcl2QTf5PqcpThWlMThGYCn15JrtFqXzgHQcw%211335039869?method=displayData 
+ |archive-date=September 22, 2010 }}</ref>
+| area_code = [[Area codes 415 and 628|415/628]], [[Area code 650|650]]
+| blank_name = [[Federal Information Processing Standard|FIPS]] code
+| blank_info = {{FIPS|06|17918}}<ref name="quif" />
+| blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info = {{GNIS 4|1658369}}, {{GNIS 4|2410291}}<ref name="GNIS Detail" />
+| website = {{URL|www.dalycity.org}}
+| footnotes = 
+|population_density_km2 = 5372.15
+}}
+<!-- Infobox ends -->
+

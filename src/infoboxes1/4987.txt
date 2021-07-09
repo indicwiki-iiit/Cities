@@ -1,0 +1,54 @@
+{{Infobox Australian place
+| type                   = city
+| name                 = Gold Coast
+| state                  = qld
+| image   = Gold Coast skyline.jpg
+| caption = Gold Coast skyline from [[Surfers Paradise, Queensland|Surfers Paradise]] beach
+| pop                    = 679,127
+| pop_year               = 2018
+| pop_footnotes          = <ref name=ABSSUA/>
+| poprank                = 6th
+| density                = 972
+| density_footnotes      =
+| est                    = 
+| force_national_map     = yes
+| coordinates            = {{coord|28|01|0|S|153|24|0|E|display=inline,title|dim:50km}}
+| pushpin_label_position = left
+| elevation              = 
+| elevation_footnotes    = 
+| area                   = 414.3
+| area_footnotes         = 
+| timezone               = [[AEST]]
+| utc                    = +10:00
+| dist1                  = 66
+| dir1                   = SSE
+| location1              = Brisbane<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867&placename=Brisbane&placetype=0&state=0&place1=GOLD+COAST&place1long=153.334396&place1lat=-27.998400|title=Great Circle Distance between Gold Coast and Brisbane|publisher=Geoscience Australia|date=March 2004|url-status=live|archive-url=https://web.archive.org/web/20160808025045/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867&placename=Brisbane&placetype=0&state=0&place1=GOLD+COAST&place1long=153.334396&place1lat=-27.998400|archive-date=8 August 2016|df=dmy-all}}</ref>
+| region                 = 
+| county                 = 
+| lga                    = [[City of Gold Coast]]
+| stategov               = {{plainlist|
+* [[Electoral district of Bonney|Bonney]]
+* [[Electoral district of Broadwater|Broadwater]]
+* [[Electoral district of Burleigh|Burleigh]]
+* [[Electoral district of Coomera|Coomera]]
+* [[Electoral district of Currumbin|Currumbin]]
+* [[Electoral district of Gaven|Gaven]]
+* [[Electoral district of Mermaid Beach|Mermaid Beach]]
+* [[Electoral district of Mudgeeraba|Mudgeeraba]]
+* [[Electoral district of Southport|Southport]]
+* [[Electoral district of Surfers Paradise|Surfers Paradise]]
+* [[Electoral district of Theodore|Theodore]]
+}}
+| fedgov                 = {{plainlist|
+* [[Division of Fadden|Fadden]]
+* [[Division of Forde|Forde]]
+* [[Division of McPherson|McPherson]]
+* [[Division of Moncrieff|Moncrieff]]
+* [[Division of Wright|Wright]]
+}}
+| logo                   =
+| url                    =
+| maxtemp                = 25.4
+| mintemp                = 17.3
+| rainfall               = 1252.9
+}}

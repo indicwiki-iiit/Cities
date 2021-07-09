@@ -1,0 +1,131 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Butembo
+|official_name          = ''Ville de Butembo''
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = City
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =Butembo 2014.JPG
+|imagesize              = 250px
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Democratic Republic of the Congo
+|pushpin_mapsize        =250
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of the Democratic Republic of the Congo.svg|25px]] [[Democratic Republic of the Congo|DR Congo]]
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[North Kivu]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+|parts_type             = Communes
+|parts_style            = para
+|p1                     = [[Bulengera]]
+|p2                     = [[Kimemi]]
+|p3                     = [[Mususa]]
+|p4                     = [[Vulamba]]
+<!-- Politics ----------------->
+|government_footnotes   = <ref>{{cite news |last1=Al Katanty |first1=Djaffar |last2=Jabkhiro |first2=Juliette |title=Clashes in Ebola-affected Congo city kill at least nine |url=https://www.reuters.com/article/us-health-ebola-congo/clashes-in-ebola-affected-congo-city-kill-at-least-nine-idUSKCN1SE1I7 |accessdate=24 August 2019 |work=REUTERS |date=8 May 2019}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Sylvain Kanyamanda Mbusa
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  [[City status]]
+|established_date       =  2001
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         =
+|area_footnotes           =
+|area_total_km2           = 190.34
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2019
+|population_footnotes           =
+|population_note                =
+|population_total               =354,621<ref>[http://worldpopulationreview.com/countries/dr-congo-population/]</ref>
+|population_density_km2         =auto
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Central Africa Time]]
+|utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|00|07|40|N|29|17|15|E|region:CD|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1750
+|elevation_ft           = 5740
+|blank1_name_sec2       = Climate
+|blank1_info_sec2       = [[Tropical rainforest climate|Af]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              =
+}}

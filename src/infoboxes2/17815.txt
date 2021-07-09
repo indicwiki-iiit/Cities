@@ -1,0 +1,100 @@
+{{Infobox country
+| conventional_long_name = Kingdom of Thailand
+| common_name            = Thailand
+| native_name            = {{ubl|{{native name|th|ราชอาณาจักรไทย|italics=off}}|{{lang|th-Latn|Ratcha-anachak Thai}}}}
+| image_flag             = Flag of Thailand.svg
+| image_coat             = Garuda Emblem of Thailand.svg
+| symbol_type            = Emblem
+| national_motto         =
+| national_anthem        = ''[[Thai National Anthem|Phleng Chat Thai]]''<br />({{lang-en|"Thai National Anthem"}})<div style="padding-top:0.5em;">[[File:Thai National Anthem - US Navy Band.ogg|center]]</div>
+| royal_anthem           = ''[[Sansoen Phra Barami]]''<br />({{lang-en|"Glorify His prestige"}})<div style="padding-top:0.5em;">[[File:Thai Royal Anthem - US Navy Band.ogg|center]]</div>
+| image_map              = {{Switcher|[[File:Thailand (orthographic projection).svg|frameless]]|Show globe|[[File:Location Thailand ASEAN.svg|upright=1.15|frameless]]|Show map of ASEAN|default=1}}
+| map_caption = {{map caption |location_color= green |region= Asia |region_color= dark grey |subregion= [[ASEAN]]
+| subregion_color = light green}}
+| capital = [[Bangkok]]
+| coordinates = {{Coord|13|45|N|100|29|E|type:city}}
+| largest_city = [[Bangkok]]
+| official_languages = [[Thai language|Thai]]<ref name=CIA>[https://www.cia.gov/the-world-factbook/countries/thailand/ Thailand], ''The World Factbook''.</ref><!--Thai is the official language. English is a non-official secondary language.-->
+|languages_type = Spoken languages
+|languages = {{hlist|[[Isan language|Isan]]|[[Northern Thai language|Kam Mueang]]|[[Southern Thai language|Pak Tai]]|[[Kelantan-Pattani Malay|Malay]]}}
+| ethnic_groups =  {{unbulleted list
+  | {{nowrap|86% [[Thai people|Thai]]}}<br />{{nowrap|&nbsp;–39% [[Thai people|Central Thai]]}}<br />{{nowrap|&nbsp;–28% [[Isan people|Isan]]}}<br />{{nowrap|&nbsp;–10% [[Northern Thai people|Khon Muang]]}} <br />{{nowrap|&nbsp;–9% [[Thai people|Southern Thai]]}} <br />{{nowrap|3% [[Northern Khmer people|Khmer]]}} <br />{{nowrap|2% [[Thai Malays|Malay]]}}
+  | 9% Other [[Ethnic groups in Thailand|68 minority ethnic groups]] 
+}}
+|ethnic_groups_ref =<ref name="Springer">{{cite journal |url=https://www.researchgate.net/publication/330368922 |author1=John Draper |author2=Joel Sawat Selway |title=A New Dataset on Horizontal Structural Ethnic Inequalities in Thailand in Order to Address Sustainable Development Goal 10 |journal=Social Indicators Research |page=284 |volume=141 |issue=4 |date=January 2019 |doi=10.1007/s11205-019-02065-4 |s2cid=149845432 |access-date=6 Feb 2020}}</ref>
+| ethnic_groups_year = 2019
+| demonym = [[Demographics of Thailand|Thai]]<br />[[Thai people|Siamese]] (historic)
+| government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+| leader_title1    = [[Monarchy of Thailand|Monarch]]
+| leader_name1 = [[Vajiralongkorn]]
+| leader_title2    = [[Prime Minister of Thailand|Prime Minister]]
+| leader_name2 = [[Prayut Chan-o-cha]]
+| leader_title3    = [[List of presidents of the Senate of Thailand|Senate President]]
+| leader_name3 = [[Pornpetch Wichitcholchai]]
+| leader_title4    = [[List of Speakers of the House of Representatives of Thailand|House Speaker]]
+| leader_name4 = [[Chuan Leekpai]]
+| legislature         = [[National Assembly of Thailand|National Assembly]]
+|upper_house      = [[Senate of Thailand|Senate]]
+|lower_house       = [[House of Representatives (Thailand)|House of Representatives]]
+| sovereignty_type = [[History of Thailand|Formation]]
+| established_event1 = [[Sukhothai Kingdom]]
+| established_date1 = 1238–1448
+| established_event2 = [[Ayutthaya Kingdom]]
+| established_date2 = 1351–1767
+| established_event3 = [[Thonburi Kingdom]]
+| established_date3 = 1768–1782
+| established_event4 = [[Rattanakosin Kingdom]]
+| established_date4 = 6 April 1782
+| established_event5 = {{nowrap|[[Siamese revolution of 1932|Constitutional monarchy]]}}
+| established_date5 = 24 June 1932
+| established_event6 = {{nowrap|[[Constitution of Thailand|Current constitution]]}}
+| established_date6 = 6 April 2017
+| area_km2 = 513,120
+| area_rank = 50th
+| area_sq_mi = 198,115 <!--Do not remove per [[WP:Manual of Style/Dates and numbers]]-->
+| percent_water = {{nowrap|0.4 (2,230 km{{smallsup|2}})}}
+| population_estimate = {{IncreaseNeutral}} 69,950,850<ref>{{Cite web|url=https://www.macrotrends.net/countries/THA/thailand/population|title = Thailand Population 1950-2021}}</ref>
+| population_census = 64,785,909<ref>{{in lang|th}} National Statistics Office, [http://popcensus.nso.go.th/doc/8-thailand%20census.doc "100th anniversary of population censuses in Thailand: Population and housing census 2010: 11th census of Thailand"] {{webarchive |url=https://web.archive.org/web/20120712002347/http://popcensus.nso.go.th/doc/8-thailand%20census.doc |date=12 July 2012}}. popcensus.nso.go.th.</ref>
+| population_estimate_year = 2021
+| population_estimate_rank = 22nd
+| population_census_year = 2010
+| population_census_rank = 21st
+| population_density_km2 = 132.1
+| population_density_sq_mi = 342 <!--Do remove per [[WP:Manual of Style/Dates and numbers]]-->
+| population_density_rank = 88th
+| GDP_PPP = {{increase}} $1,340 billions<ref name=IMFWEOTH>{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=578,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database, October 2020|publisher=[[International Monetary Fund]]|access-date=10 April 2021}}</ref>
+| GDP_PPP_year = 2021
+| GDP_PPP_rank = 22nd
+| GDP_PPP_per_capita = {{increase}} $19,169<ref name=IMFWEOTH/>
+| GDP_PPP_per_capita_rank = 69th
+| GDP_nominal = {{increase}} $536.841 billion<ref name=IMFWEOTH/>
+| GDP_nominal_year = 2021
+| GDP_nominal_rank = 25th
+| GDP_nominal_per_capita = {{increase}} $7,674<ref name=IMFWEOTH/>
+| GDP_nominal_per_capita_rank = 80th
+| Gini = 36 <!--number only-->
+| Gini_year = 2015
+| Gini_change =  <!--increase/decrease/steady-->
+| Gini_ref =<ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=TH |title=Gini Index |publisher=World Bank |access-date=3 December 2017 |url-status=live |archive-url=https://web.archive.org/web/20171204065819/https://data.worldbank.org/indicator/SI.POV.GINI?locations=TH |archive-date=4 December 2017 }}</ref>
+| Gini_rank =
+| HDI = 0.777 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase<!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=15 December 2020|access-date=15 December 2020}}</ref>
+| HDI_rank = 79th
+| currency = [[Thai baht|Baht]] (฿)
+| currency_code = THB
+| time_zone = [[UTC+07:00|ICT]]
+| utc_offset = +7
+| drives_on = [[Left- and right-hand traffic|left]]
+| calling_code = [[Telephone numbers in Thailand|+66]]
+| cctld = {{hlist |[[.th]] |[[.ไทย]]}}
+| religion_year = 2015
+| religion = {{plainlist|
+* 94.50% [[Buddhism in Thailand|Buddhism]] 
+* 4.29% [[Islam in Thailand|Islam]] 
+* 1.17% [[Christianity in Thailand|Christianity]] 
+* 0.03% [[Hinduism in Thailand|Hinduism]] 
+* 0.01% [[Irreligion|No religion]]
+}}
+| religion_ref  = <ref name="auto">{{cite web |url=http://web.nso.go.th/en/survey/popchan/data/2015-2016-Statistical%20tables%20PDF.pdf |title=Population by religion, region and area, 2015 |publisher=NSO |access-date=12 October 2017 |url-status=dead |archive-url=https://web.archive.org/web/20171210020110/http://web.nso.go.th/en/survey/popchan/data/2015-2016-Statistical%20tables%20PDF.pdf |archive-date=10 December 2017 }}</ref>}}

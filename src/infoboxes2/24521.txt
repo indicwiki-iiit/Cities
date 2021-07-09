@@ -1,0 +1,61 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                   = Laurentian Valley
+| official_name          = Township of Laurentian Valley
+| other_name             =
+| native_name            = <!-- for cities whose native name is not in English -->
+| nickname               =
+| settlement_type        = [[List of township municipalities in Ontario|Township municipality]] ([[List of municipalities in Ontario#Lower-tier municipalities|lower-tier]])
+| motto                  =
+<!-- images and maps  ----------->
+| image_skyline          = LaurentianValley-Sign.JPG
+| image_caption          = Sign on Round Lake Road
+| pushpin_map            = CAN ON Renfrew#Canada Southern Ontario
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label          =
+| pushpin_map_caption    = 
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = {{CAN}}
+| subdivision_type1      = [[Provinces and territories of Canada|Province]]
+| subdivision_name1      = {{ON}}
+| subdivision_type2      = County
+| subdivision_name2      = [[Renfrew County|Renfrew]]
+| subdivision_type3      =
+| subdivision_name3      =
+<!-- Politics ----------------->
+| government_footnotes   =
+| government_type        =
+| leader_title           = Mayor
+| leader_name            = Steve Bennett 
+| established_title      = Established
+| established_date       = {{Start date|2000|01|01}}
+<!-- Area    --------------------->
+| unit_pref              = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         = <ref name=SC2016>Statistics Canada 2016 Census – [https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=3547075&Geo2=CD&Code2=3547&Data=Count&SearchText=Laurentian%20Valley&SearchType=Begins&SearchPR=01&B1=All&TABID=1 Laurentian Valley Census Profile]</ref>
+| area_total_km2         =
+| area_land_km2          = 551.43
+| area_water_km2         =
+| area_water_percent     =
+<!-- Population   ----------------------->
+| population_as_of       = 2016
+| population_footnotes   = <ref name=SC2016/>
+| population_note        =
+| population_total       = 9,387
+| population_density_km2 = 17.0
+<!-- General information  --------------->
+| timezone               = [[Eastern Time Zone]]
+| utc_offset             = -5
+| timezone_DST           = Eastern Time Zone
+| utc_offset_DST         = -4
+| coordinates            = {{coord|45|46|05|N|77|13|26|W|region:CA-ON_type:city_dim:20km_source:GeographicalNamesBoardofCanada|display=inline,title}}
+| coordinates_footnotes  = <ref name="CGNDB">{{cite cgndb|id= FEVHH|title= Laurentian Valley|accessdate= August 11, 2011}}</ref>
+| elevation_footnotes    = <!--for references: use<ref> tags-->
+| elevation_m            =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = Postal Code
+| postal_code            =
+| area_code              = [[Area codes 613 and 343|613, 343]]
+| website                = {{URL|http://www.lvtownship.ca/}}
+| footnotes              =
+}}

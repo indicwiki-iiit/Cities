@@ -1,0 +1,53 @@
+{{Infobox river
+| name               = Volga
+| name_native        = Волга
+| name_native_lang   = 
+| name_other         = 
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = Yaroslavl. Volga River. Cathedral of the Dormition P5212700 2200.jpg
+| image_size         = 300
+| image_caption      = The Volga at [[Yaroslavl]]
+| map                = volgarivermap.png
+| map_size           = 300
+| map_caption        = Map of the Volga drainage basin
+| pushpin_map        = 
+| pushpin_map_size   = 300
+| pushpin_map_caption= 
+<!---------------------- LOCATION -->
+| subdivision_type1  = Location
+| subdivision_name1  = [[Eastern Europe]]
+| subdivision_type2  = Country
+| subdivision_name2  = [[Russian Federation]]
+| subdivision_type3  = Cities
+| subdivision_name3  = [[Tver]], [[Yaroslavl]], [[Nizhny Novgorod]], [[Cheboksary]], [[Kazan]], [[Ulyanovsk]], [[Samara]], [[Saratov]], [[Volgograd]], [[Astrakhan]]
+<!-----------------PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|3531|km|mi|abbr=on}}<ref name=gvr/>
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= [[Astrakhan]]
+| discharge1_min     ={{convert|5000|m3/s|cuft/s|abbr=on}} 
+| discharge1_avg     = {{convert|8060|m3/s|cuft/s|abbr=on}}
+| discharge1_max     = 
+{{convert|48500|m3/s|cuft/s|abbr=on}}
+| source1            = 
+| source1_location   = [[Valdai Hills]], [[Tver Oblast]]
+| source1_coordinates= {{coord|57|9|N|32|36|E|display=inline}}
+| source1_elevation  = {{convert|228<ref name="readersnatural" />|m|abbr=on}}
+| mouth              = [[Caspian Sea]]
+| mouth_location     = [[Astrakhan Oblast]]
+| mouth_coordinates  = {{coord|45|50|N|47|58|E|display=inline,title}}<ref>{{GEOnet2|32FA87888EC23774E0440003BA962ED3|Volga}}</ref>
+| mouth_elevation    = {{convert|-28<ref name="readersnatural" />|m|abbr=on}}
+| progression        = 
+| river_system       = 
+| basin_size         = {{convert|1360000|km2|abbr=on}}<ref name=gvr/>
+| tributaries_left   = [[Kama (river)|Kama]]
+| tributaries_right  = [[Oka (river)|Oka]]
+| custom_label       = 
+| custom_data        = 
+| extra              = 
+}}

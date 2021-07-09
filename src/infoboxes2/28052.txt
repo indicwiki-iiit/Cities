@@ -1,0 +1,22 @@
+{{Infobox color
+| textcolor=purple
+| title=Purple
+| image={{photomontage
+|
+|photo1a=Ghent Altarpiece D - Popes - Bishops.jpg
+|photo1b=Queen Elizabeth II in March 2015.jpg
+|photo2a=
+|photo2b=Auke Bay Alaska 2.jpg
+|photo2c=Grapes (4737199646).jpg
+|photo3a=CreepingPhlox-CentralMA-20140513.jpg
+| size = 243
+| color_border = #AAAAAA
+| color =  #F9F9F9
+|caption=(clockwise) grapes, an eggplant, a bishop wearing purple,  ([[Phlox stolonifera]]), The Byzantine Empress [[Theodora (6th century)]].
+| foot_montage = }}
+| hex=800080
+| r=128|g=0|b=128|rgbspace=[[sRGB color space|sRGB]]
+| c=0|m=100|y=0|k=50
+| h=300|s=100|v=50
+| source=[[HTML color names|HTML]]
+}}

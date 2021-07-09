@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Uluborlu
+| image_skyline           = Isparta location Uluborlu.png 
+| image_caption           = Map of Uluborlu district. 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|38|04|44|N|30|26|54|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{Flag|Turkey}}
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Isparta Province|Isparta]]
+| subdivision_type2       = [[Districts of Turkey|District]]
+| subdivision_name2       = Uluborlu
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Mehmet Aziz Tuna
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Vedat Yilmaz
+| elevation_m             = 1100
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Isparta|Uluborlu}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Isparta}}
+| population_urban        = {{Turkey district populations|Isparta|Uluborlu|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Isparta|Uluborlu|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 32650
+| website                 = {{URL| www.uluborlu.bel.tr | www.uluborlu.bel.tr }}
+}}

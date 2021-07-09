@@ -1,0 +1,83 @@
+{{Infobox country
+| conventional_long_name = Islamic Republic of Mauritania
+| common_name = Mauritania
+| native_name = {{native name|ar|الجمهورية الإسلامية الموريتانية|italics=off}}<br />{{resize|75%|''{{transl|ar|al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah}}''}}<br/>{{native name|fr|République islamique de Mauritanie}}
+| image_flag = Flag of Mauritania.svg
+| image_coat = File:Seal of Mauritania (2018).svg
+| symbol_type = Seal
+| national_motto = {{native phrase|ar|شرف، إخاء، عدل|italics=off|nolink=on}}<br/>{{small|"Honor, Fraternity, Justice"}}
+| national_anthem = {{lang|ar|النشيد الوطني الموريتاني}}<br />({{lang-en|"[[National anthem of Mauritania|Country of the Proud, Guiding Noblemen]]"}})<div style="padding-top:0.5em;" class="center">[[File:National_anthem_of_Mauritania_(instrumental).ogg]]</div>
+| image_map = Mauritania (orthographic projection).svg
+| map_caption = Location of Mauritania (dark green) in western [[Africa]]
+| capital = [[Nouakchott]]
+| largest_city = capital
+| coordinates = {{Coord|18|09|N|15|58|W|type:city}}
+| official_languages = [[Arabic]]
+| languages_type = Recognised languages
+| languages_sub = yes
+| languages = [[French language|French]]
+| languages2_type = Spoken languages
+|languages2 = {{Collapsible list
+|framestyle=border:none; padding:0;
+|[[French language|French]]
+|[[Arabic language|Arabic]] ([[Hassaniya]])
+|[[English language|English]]
+|[[Soninke language|Soninke]] |[[Wolof language|Wolof]]}}
+| ethnic_groups = <!--Please do not change this without citing a strong, reliable source-->{{ublist|[[Haratin]] 40%|[[Arab-Berber]] 30%| [[Halpulaar]], [[Fulani]], [[Mande peoples|Mande]], and [[Wolof people|Wolof]] 30%<ref name="CIA"/>}}
+| demonym = [[Demographics of Mauritania|Mauritanian]]
+| government_type = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[Islamic republic]]
+| leader_title1 = [[List of heads of state of Mauritania|President]]
+| leader_name1 = [[Mohamed Ould Ghazouani]]
+| leader_title2 = [[List of heads of government of Mauritania|Prime Minister]]
+| leader_name2 = [[Mohammed Ould Bilal]]
+| leader_title3 = [[List of Presidents of the National Assembly of Mauritania|President of the National Assembly]]
+| leader_name3 = Cheikh Ahmed Baye<ref>{{cite news|url=https://www.bbc.com/afrique/region-45793286|title=Ould Baya élu président du parlement mauritanien|date=9 October 2018|access-date=4 May 2019|newspaper=BBC News Afrique|archive-url=https://web.archive.org/web/20190414073903/https://www.bbc.com/afrique/region-45793286|archive-date=14 April 2019|url-status=live}}</ref>
+| legislature = [[National Assembly (Mauritania)|National Assembly]]
+| sovereignty_type = [[Independence]]
+| established_event1 = Republic established
+| established_date1 = 28 November 1958
+| established_event2 = from [[French colonial empire|France]]
+| established_date2 = 28 November 1960
+| established_event3 = Current constitution
+| established_date3 = 12 July 1991
+| area_km2 = 1030000
+| area_footnote = <ref name=census/>
+| area_rank = 28th
+| area_sq_mi = 
+| percent_water = 0.03
+| population_estimate = {{UN_Population|Mauritania}}{{UN_Population|ref}}
+| population_census = 3,537,368<ref name=census>{{cite report |date=July 2015 |title=Recensement Général de la Population et de l'Habitat (RGPH) 2013 |language=fr |chapter=1: Répartition spatiale de la population |chapter-url=http://www.ons.mr/images/rgph2013/Chapitres_RGPH_Fr/Chapitre01_R%C3%A9partition_spatiale_fr.pdf |page=v |publisher=National Statistical Office of Mauritania |access-date=20 December 2015 }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| population_estimate_year = {{UN_Population|Year}}
+| population_census_year = 2013
+| population_density_km2 = 3.4
+| population_density_rank = 
+| GDP_PPP = $18.117&nbsp;billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=83&pr.y=7&sy=2018&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=682&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Mauritania |publisher=International Monetary Fund |access-date=7 June 2020 |archive-url=https://web.archive.org/web/20200522143908/https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=83&pr.y=7&sy=2018&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=682&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |archive-date=22 May 2020 |url-status=live }}</ref>
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 134th
+| GDP_PPP_per_capita = $4,563<ref name=imf2/>
+| GDP_PPP_per_capita_rank = 140th
+| GDP_nominal = $5.200&nbsp;billion<ref name=imf2/>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 154th
+| GDP_nominal_per_capita = $1,309<ref name=imf2/>
+| GDP_nominal_per_capita_rank = 149th
+| Gini = 40.5 <!--number only-->
+| Gini_year = 2008
+| Gini_change = <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |access-date=2 March 2011 |archive-url=https://web.archive.org/web/20150209003326/http://data.worldbank.org/indicator/SI.POV.GINI |archive-date=9 February 2015 |url-status=live }}</ref>
+| Gini_rank = 
+| HDI = 0.546 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 157th
+| currency = [[Mauritanian ouguiya|Ouguiya]]
+| currency_code = MRU
+| utc_offset = {{sp}}
+| time_zone = [[Greenwich Mean Time|GMT]]
+| drives_on = right
+| calling_code = [[+222]]
+| cctld = [[.mr]]
+| footnote_a = According to Article 6 of the Constitution: "The national languages are Arabic, [[Pulaar language|Pulaar]], [[Soninke language|Soninke]], and [[Wolof language|Wolof]]; the official language is Arabic."
+| religion = [[Islam in Mauritania|Islam]]
+}}

@@ -1,0 +1,101 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Cam Ranh
+|official_name          = Cam Ranh City
+|native_name            = Thành phố Cam Ranh
+|other_name             =
+|settlement_type        = [[Provincial city (Vietnam)|City (Class-3)]]<!-- e.g. Town, Village, City, etc.-->
+|image_skyline          = NGOC SUONG RESORT,CAM RANH,KHANH HOA - panoramio (1).jpg
+|imagesize              =
+|image_caption          = A resort in Cam Ranh
+|image_flag             =
+|flag_size              =
+|image_seal             = Emblem of Cam Ranh.png
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|nickname               =
+|motto                  =
+<!-- images and maps  ----------->
+|image_map              = {{Infobox mapframe|frame-width=280}}
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|pushpin_map            =Vietnam <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|pushpin_map_caption    =Location of in Vietnam
+|coordinates            = {{coord|11|54|49|N|109|8|13|E|region:VN|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|subdivision_type       = Country
+|subdivision_name       = {{Flag|Vietnam}}
+|subdivision_type1      = [[Provinces of Vietnam|Province]]
+|subdivision_type2      =
+|subdivision_name1      = [[Khánh Hòa Province|Khánh Hòa]]
+|subdivision_name2      =
+|established_title      =  <!-- Settled -->
+|established_date       =
+<!-- Area    --------------------->
+|seat_type              = Capital
+|seat                   = Cam Ranh
+
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_magnitude         =
+|area_total_km2           = 316<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_land_sq_mi          =
+|area_water_km2           =
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_total               =121,050
+|population_as_of               =2003
+|population_footnotes           =
+|population_density_km2         = <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|website                = http://saobiencamranh.net
+|footnotes              =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+|elevation_max_m            =
+|elevation_max_ft           =
+|timezone               = Indochina Time
+|utc_offset             = +7
+|timezone_DST           =
+|utc_offset_DST         =
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+}}

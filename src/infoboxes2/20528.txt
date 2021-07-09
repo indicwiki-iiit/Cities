@@ -1,0 +1,28 @@
+{{Infobox settlement
+| name                   = Or Akiva
+| native_name            = {{Lang|he|{{Script/Hebrew|אוֹר עֲקִיבָא}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| image_skyline          = Israel by Jim Greenhill 100526-A-3715G-0961 (4643198024).jpg
+| image_blank_emblem     = OR Akiva COA.png
+| pushpin_map_alt        = 
+| pushpin_map            = Israel haifa#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|30|N|34|55|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+{{flag|Haifa District|name=Haifa}}
+| established_title      = Founded
+| established_date       = 1951
+| leader_title           = Mayor
+| leader_name            = [[Yaakov Edri]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:3539|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Or Aqiva}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

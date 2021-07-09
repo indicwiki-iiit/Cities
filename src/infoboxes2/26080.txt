@@ -1,0 +1,74 @@
+{{Infobox settlement
+|official_name            = Soldotna, Alaska
+|settlement_type          = [[City (Alaska)|City]]
+|nickname                 = 
+|motto                    = <!-- Images -->
+|image_skyline            = City of Soldotna Collage.jpg
+|imagesize                = 
+|image_caption            = From top left: Joyce K. Carver Memorial Library, [[Kenai Peninsula Borough, Alaska|Kenai Peninsula Borough]] Building, aerial view of the City of Soldotna, Central Peninsula Hospital, Soldotna Creek Park, and the [[Kenai Peninsula College]].
+|image_flag               = 
+|image_seal               = City of Soldotna Logo.png
+
+<!-- Maps -->
+|image_map                = AKMap-doton-Soldotna.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Soldotna, Alaska
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = <!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Alaska]]
+|subdivision_type2        = [[List of boroughs and census areas in Alaska|Borough]]
+|subdivision_name2        = [[Kenai Peninsula Borough, Alaska|Kenai Peninsula]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Pete Sprague<ref>{{cite web |url=http://soldotna.org/government/mayor-council |title=City of Soldotna Mayor & Council |publisher=City of Soldotna}}</ref>
+|leader_title1            = [[Alaska Senate|State senator]]
+|leader_name1             = [[Peter Micciche]] ([[Republican Party (United States)|R]])
+|leader_title2            = [[Alaska House of Representatives|State rep.]]
+|leader_name2             = ''Vacant''
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = July 1967<ref>{{cite book|title=1996 Alaska Municipal Officials Directory|location=[[Juneau]]|publisher=Alaska Municipal League/[[Alaska Department of Commerce, Community and Economic Development|Alaska Department of Community and Regional Affairs]]|date=January 1996|page=145}}</ref>
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_02.txt|publisher=United States Census Bureau|access-date=June 30, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 19.19
+|area_land_km2            = 18.01
+|area_water_km2           = 1.18
+|area_total_sq_mi         = 7.41
+|area_land_sq_mi          = 6.96
+|area_water_sq_mi         = 0.45
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 4163
+|population_density_km2   = 261.98
+|population_density_sq_mi = 678.50
+|timezone                 = [[Alaska Time Zone|Alaska (AKST)]]
+|utc_offset               = -9
+|timezone_DST             = AKDT
+|utc_offset_DST           = -8
+|elevation_footnotes      = 
+|elevation_m              = 32
+|elevation_ft             = 105
+|coordinates              = {{coord|60|29|12|N|151|4|31|W|region:US-AK|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 99669
+|area_code                = [[Area code 907|907]] {{small|(local exchange prefix: 260, 262)}}
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 02-71640
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1414025}}
+|website                  = {{URL|www.soldotna.org}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4719
+|unit_pref = Imperial
+}}

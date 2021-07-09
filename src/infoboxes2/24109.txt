@@ -1,0 +1,21 @@
+{{Infobox company
+| name = Edwards Lifesciences Corporation
+| logo = Edwards Lifesciences logo.png
+| logo_size = 150px
+| type = [[Public company|Public]]
+| traded_as = {{ubl|{{NYSE|EW}}|[[S&P 500]] component}}
+| location = [[Irvine, California]], U.S.
+| area_served = Worldwide
+| key_people = Michael A. Mussallem<br/>{{small|(Chairman & CEO)}}
+| industry = Medical technology
+| num_employees = 14,000
+| num_employees_year = 2020<ref name=irvine>{{cite web| url=https://www.ocregister.com/2020/04/26/edwards-lifesciences-staff-kitchen-plates-up-meals-for-the-homeless/|title=Edwards Lifesciences' staff kitchen plates up meals for the homeless|publisher=The Orange County Register|date=April 26, 2020}}</ref>
+| revenue = $4.3 billion (2019)<ref>{{cite web| url=http://ir.edwards.com/static-files/d1b87dcf-e5c2-4e2b-8aae-5bff838a5c67|title=EDWARDS LIFESCIENCES REPORTS FOURTH QUARTER RESULTS |publisher=Edwards.com|date=January 30, 2020}}</ref>
+| products = {{Flatlist|
+* [[Artificial heart valves|Heart valves]]
+* [[Intensive care medicine|Critical care technology]]
+* [[Cardiac surgery|Cardiac surgery technology]]
+}}
+| foundation = {{start date and age|1958}}
+| website = {{URL|edwards.com}}
+}}

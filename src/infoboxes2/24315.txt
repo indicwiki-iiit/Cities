@@ -1,0 +1,37 @@
+{{Infobox settlement
+|settlement_type        = Town
+|name                   = Dungarvan
+|native_name             = {{Irish place name|Dún Garbhán}}
+|image_skyline          = Dungarvan ireland harbour.JPG
+|image_caption          = Dungarvan's harbour
+|image_shield           = DungarvanCOA.png
+|motto = ''Ní Maraidhe Go Stiúrthóir'' <br> Not a Mariner Till a Steersman
+|pushpin_map            = Ireland
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Ireland
+|coordinates            = {{coord|52.0845|-7.6397|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|X259930}}
+|subdivision_type       = [[List of Sovereign States|Country]]
+|subdivision_name       = [[Republic of Ireland| Ireland]]
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Munster]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[County Waterford|Waterford]]
+|unit_pref              = Metric
+|area_total_km2    =4.63
+|elevation_m            = 1
+|population_as_of       = 2016
+|population             = 9,227
+|population_density_km2 =
+|population_footnotes   =<ref name="census2016">{{cite web|url = http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=B78922BB-4636-48F5-B6EF-0A373E24F306 | publisher = Central Statistics Office | title = Sapmap Area: Settlements Dungarvan | work = Census 2016 | date = 2016 }}</ref>
+|website                = [http://www.waterfordcoco.ie/en/localauthorities/dungarvantowncouncil/ waterfordcoco.ie]
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)58
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =X35
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}

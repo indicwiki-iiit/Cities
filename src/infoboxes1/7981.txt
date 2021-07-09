@@ -1,0 +1,105 @@
+{{Infobox settlement
+| name = {{raise|0.2em|Fukuchiyama}}
+| official_name = 
+| native_name = {{lower|0.1em|{{nobold|{{nobold|{{lang|ja|福知山市}}}}}}}}
+| native_name_lang = ja
+| settlement_type = [[Cities of Japan|City]]
+| other_name = 
+<!-- images, nickname, motto -->
+| image_skyline = Fukuchiyama City Hall.jpg
+| imagesize = 
+| image_caption = 
+| image_flag = Flag of Fukuchiyama, Kyoto.svg
+| image_seal = Fukuchiyama Kyoto chapter.JPG
+| seal_type = Emblem
+<!-- maps and coordinates -->
+| image_map = Fukuchiyama in Kyoto Prefecture Ja.svg
+| map_alt = 
+| map_caption = Location of Fukuchiyama in [[Kyōto Prefecture]]
+| pushpin_map = Japan
+| pushpin_relief = 
+| pushpin_map_caption = Location in Japan
+| coordinates = {{coord|35|18|N|135|8|E|region:JP|display=inline,title}}
+| coordinates_footnotes = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type = Country
+| subdivision_name = Japan
+| subdivision_type1 = [[List of regions of Japan|Region]]
+| subdivision_name1 = [[Kansai region|Kansai]]
+| subdivision_type2 = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2 = [[Kyōto Prefecture]]
+| subdivision_type3 = [[Districts of Japan|District]]
+| subdivision_name3 = 
+<!-- established -->
+| established_title = <!-- Settled -->
+| established_date = 
+| extinct_title = Now part of
+| extinct_date = 
+| founder = 
+| named_for = 
+<!-- seat, smaller parts -->
+| seat_type = <!-- defaults to: Seat -->
+| seat = 
+<!-- government type, leaders -->
+| government_footnotes = <!-- for references: use <ref> tags -->
+| leader_party = 
+| leader_title = Mayor
+| leader_name = Kazuo Ohashi
+| leader_title1 = Vice Mayor
+| leader_name1 = 
+<!-- display settings -->
+| total_type = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref = Metric
+<!-- area -->
+| area_magnitude = <!-- use only to set a special wikilink -->
+| area_footnotes = <!-- for references: use <ref> tags -->
+| area_total_km2 = 552.54
+| area_land_km2 = 
+| area_water_km2 = 
+| area_water_percent = 
+| area_note = 
+<!-- elevation -->
+| elevation_footnotes = <!-- for references: use <ref> tags -->
+| elevation_m = 
+<!-- population -->
+| population_footnotes =  <!-- for references: use <ref> tags -->
+| population_total = 78935
+| population_as_of = October 1, 2015
+| population_density_km2 = auto
+| population_est = 
+| pop_est_as_of = 
+<!-- time zone(s) -->
+| timezone1 = [[Japan Standard Time|JST]]
+| utc_offset1 = +09:00
+<!-- postal codes, area code -->
+| postal_code_type = 
+| postal_code = 
+| area_code_type = <!-- defaults to: Area code(s) -->
+| area_code = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1 = City hall address
+| blank_info_sec1 = 13-1 Naiki, Fukuchiyama-shi<br />620-8501
+<!-- website, footnotes -->
+| website = {{URL|http://www.city.fukuchiyama.kyoto.jp/}}
+| footnotes = 
+| module = {{Infobox place symbols| embedded=yes
+ | tree = {{flatlist|
+*[[Zelkova serrata|Japanese zelkova]]
+*[[Cyclobalanopsis|oak]]
+*[[Chamaecyparis obtusa|Japanese cypress]]
+*[[Prunus mume|ume]]}}
+ | flower = {{flatlist|
+*[[Chinese bellflower]]
+*[[satsuki azalea]]
+*[[Lespedeza]]
+*Japanese azalea <small>(''[[Rhododendron molle]]'' subsp. ''japonicum'')</small>
+*[[wisteria]]}}
+ | bird = {{flatlist|
+*[[Japanese bush-warbler]]
+*[[green pheasant]]}}
+ | flowering_tree = 
+ | butterfly = 
+ | fish = 
+ | other_symbols = 
+}}
+}}

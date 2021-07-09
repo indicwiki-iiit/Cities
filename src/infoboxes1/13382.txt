@@ -1,0 +1,91 @@
+{{Infobox settlement
+|name                     = Bell, California
+|settlement_type          = [[City (California)|City]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = BellMontageCA.jpg
+|imagesize                = 
+|image_caption            = Images, from top and left to right: James George Bell House, Bell Public Library, City of Bell Police sign
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Bell Highlighted 0604870.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Bell in Los Angeles County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = California#USA#North America
+| pushpin_map_caption = Location in California
+| pushpin_label = Bell
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Los Angeles County, California|Los Angeles]]
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Ali Saleh<ref>{{cite web
+ | url = http://www.cityofbell.org/?NavID=89
+ | title = City Council
+ | publisher = City of Bell
+ | access-date = April 12, 2018}}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = <!-- Founded -->
+|established_date         = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = November 7, 1927<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 2.62
+|area_land_sq_mi          = 2.50
+|area_water_sq_mi         = 0.12
+|area_total_km2           = 6.78
+|area_land_km2            = 6.47
+|area_water_km2           = 0.31
+|area_water_percent       = 4.53
+|area_note                = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0604870.html|title=Bell (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 16, 2015|archive-url=https://web.archive.org/web/20150416020228/http://quickfacts.census.gov/qfd/states/06/0604870.html|archive-date=April 16, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_total         = 35477
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 35521
+|population_density_sq_mi = 14208.40
+|population_metro         = 
+|population_density_metro_sq_mi = 
+|coordinates              = {{coord|33|59|N|118|11|W|region:US-CA|display=inline,title}}
+|elevation_footnotes      = <ref>{{Cite GNIS|1660322|Bell|access-date=October 11, 2014}}</ref>
+|elevation_ft             = 141
+|elevation_m              = 43
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 90201, 90202, 90270<ref>{{cite web| url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Bell | title = USPS - ZIP Code Lookup - Find a ZIP+ 4 Code By City Results | access-date = January 17, 2007}}</ref>
+|area_code                = [[Area code 323|323]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Bell | title = Number Administration System - NPA and City/Town Search Results | access-date = January 18, 2007 | archive-url = https://web.archive.org/web/20070929102832/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Bell | archive-date = September 29, 2007 | url-status = dead }}</ref>
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|04870}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660322}}, {{GNIS 4|2409816}}
+|website                  = {{URL|www.cityofbell.org}}
+|footnotes                = 
+|population_density_km2 = 5486.51
+}}

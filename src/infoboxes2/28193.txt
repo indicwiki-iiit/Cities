@@ -1,0 +1,57 @@
+{{Infobox settlement
+| name                    = Jílové
+| native_name             = 
+| other_name              = 
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = Jilove DC CZ 094.jpg
+| image_caption           = View from south
+| image_flag              = Flag of Jilove.svg
+| image_shield            = Jílové Herb.svg
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = {{CZE}}
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[Ústí nad Labem Region|Ústí nad Labem]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Děčín District|Děčín]]
+<!-- maps and coordinates -->
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = Czech Republic
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location in the Czech Republic
+| coordinates             = {{coord|50|45|45|N|14|6|18|E|display=inline,title}}
+| coordinates_footnotes   = 
+<!-- government type, leaders -->
+| leader_title            = Mayor
+| leader_name             = Miroslav Kalvas
+<!-- established -->
+| established_title       = First mentioned
+| established_date        = 1348
+<!-- area -->
+| area_footnotes          = 
+| area_total_km2          = 36.56
+<!-- elevation -->
+| elevation_footnotes     = 
+| elevation_m             = 276
+<!-- population -->
+| population_as_of        = 2019-01-01<ref>{{cite web |title=Population of municipalities of the Czech republic|url=https://www.czso.cz/documents/10180/91917344/1300721903.pdf/ea01e710-2ae5-49f3-8792-ebb384754346?version=1.0|publisher=Czech Statistical Office|accessdate=2019-04-30}}</ref>
+| population_footnotes    = 
+| population_total        = 5162
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 403 36, 405 02, 405 05, 407 01, 407 02
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = {{URL|http://www.mujilove.cz/}}
+| footnotes               = 
+}}

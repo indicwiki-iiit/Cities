@@ -1,0 +1,30 @@
+{{Infobox German location
+|image_plan         = Baden-Württemberg S.svg
+|plantext           = Location within Baden-Württemberg
+|image_caption      = Clockwise from top left: [[Staatsoper Stuttgart]], [[Mercedes-Benz Museum]], [[Schloss Solitude]], [[Kunstmuseum Stuttgart]], [[New Palace (Stuttgart)|Neues Schloss]], Marquardtbau, Königsbau, [[Stadtbibliothek Stuttgart|Stadtbibliothek]]
+|Bürgermeistertitel = Oberbürgermeister
+|Gemeindeschlüssel  = 08 1 11 000
+|Stand              = October 1990
+|year               = 10th century
+|type               = Stadt
+|image_photo        = Stuttgart Downtown Sights Collage.png
+|image_flag         = Flag of Stuttgart.svg
+|image_coa          = Coat of arms of Stuttgart.svg
+|coordinates        = {{coord|48.782|9.184|type:adm1st_globe:earth_region:DE|display=ti}}
+|state              = Baden-Württemberg
+|region             = Stuttgart
+|district           = {{lang|de|[[Stadtkreis]]}}
+|elevation          = 245
+|area               = 207.33
+|population         = 100001<!-- for Category:Cities, real value is fetched via Gemeindeschlüssel --> 
+|pop_urban          = 2787724 <nowiki>(31 Dec 2018)</nowiki><ref name="pop_urban">{{cite web |url=https://www.statistik-bw.de/BevoelkGebiet/MigrNation/01035055.tab?R=RV11 |title=Bevölkerung nach Nationalität – vierteljährlich |website=statistik-bw.de |access-date=August 7, 2019 |language=de}}</ref>
+|pop_metro          = 5300000 <nowiki>(2015)</nowiki><ref name="pop_metro">{{cite web |url=http://www.deutsche-metropolregionen.org/mitglieder/stuttgart/ |title=Stuttgart |work=Initiativkreis Europäische Metropolregionen |access-date=August 7, 2019 |language=de}}</ref>
+|postal_code        = 70173–70619
+|area_code          = 0711
+|licence            = S
+|demonym = {{lang|de|Stuttgarter}}
+|divisions          = 23 districts
+|website            = {{Official URL}}
+|mayor              = Frank Nopper
+|party              = CDU
+}}

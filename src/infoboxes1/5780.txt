@@ -1,0 +1,141 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Datong}}
+|official_name          = 
+|other_name             = Tatung
+|native_name            = {{lower|0.1em|大同市}}
+|native_name_lang = zh
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+| image_skyline           = {{Photomontage|position=center
+| photo1a = Cityview Datong Shanxi.jpg
+| photo2a = Datong Shanhua Si 2013.08.29 13-19-10.jpg
+| photo2b = Datong Huayan Si 2013.08.29 09-58-58.jpg
+| photo3a = Datong 14 grotta.jpg
+| photo3b = Tower in Lingyan Temple, Yungang Grottoes.jpg
+| photo3c = Datong Wenmiao 2013.08.29 11-59-31.jpg
+| photo4a =Datong Guandi Miao 2013.08.29 10-44-56.jpg
+| photo4b =Wikiwyprawa 2015 IGP5026.jpg
+| photo5a =
+   | size = 260
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = From top down, left to right: Datong panorama; [[Shanhua Temple]]; Huayan Temple; [[Yungang Grottoes]]; Tower at Lingyan Temple; [[Temple of Confucius]] (Wenmiao); [[Guan Yu|Guandi]] Temple; Yinghui Gate of the City Wall
+}}
+|imagesize              =
+|image_caption          =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Datong Prefecture within Shanxi (China).png
+|mapsize                =
+|map_caption            = Location of Datong City jurisdiction in Shanxi
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Shanxi
+|pushpin_map_caption    = Location of the city center in Shanxi
+|pushpin_label_position = right
+|pushpin_mapsize        = 240
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Shanxi]]
+|seat_type              = Municipal seat
+|seat                   = [[Pingcheng District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type = [[Prefecture-level city]]
+|leader_title = [[Communist Party of China|CPC]] Secretary
+|leader_name = 
+|leader_title1 = Party Secretary
+|leader_name1 = [[Zhang Jifu]]
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      =
+|established_title2     = <!-- Incorporated (city) -->
+|established_date2      =
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           =14176
+|area_land_km2            =
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 2080.0 
+| area_urban_km2          = 130.20 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1042
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =
+|population_note                =
+|population_total               =3318057
+|population_density_km2         =auto
+|population_density_metro_km2   =auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 1610000
+| population_urban        = 1259700
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+|population_density_urban_km2   =auto
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Datong municipal government
+|coordinates            = {{coord|40.097|N|113.367|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 037000
+|area_code              = 0352
+|blank_name             =<!-- GDP -->
+|blank_info             =[[Renminbi|¥]]56.6 billion
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =[[Renminbi|¥]]17,852
+|blank2_name            = [[Licence plates of the People's Republic of China|License Plates]]
+|blank2_info            = {{lang|zh-cn|晋B}}
+|blank3_name            =
+|blank3_info            =
+|blank4_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank4_info            =
+|blank5_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank5_info            =140200
+|iso_code = [[ISO 3166-2:CN|CN-SX-02]]
+|website                = {{URL|dt.gov.cn}}
+|footnotes              =
+}}

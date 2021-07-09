@@ -1,0 +1,81 @@
+{{Infobox settlement
+|official_name            = Wilmington, North Carolina
+|nickname                 = The Port City
+|settlement_type          = [[City]]
+|image_skyline            = WilmingtonMontage2.jpg
+|image_caption            = Clockwise, from top left: [[USS North Carolina (BB-55)|USS North Carolina]], the [[Cape Fear Memorial Bridge]], Downtown Wilmington on the [[Cape Fear River]], and Hoggard Hall on the campus of [[UNC Wilmington]]
+|image_flag               = 
+|image_seal               = Wilmington-CitySeal.gif
+|image_blank_emblem       = Wilmington, NC د تبلیغاتو نښه.gif
+|blank_emblem_size        = 200px
+
+<!-- Maps -->
+|motto                    = 
+|image_map                = New Hanover County North Carolina incorporated and unincorporated areas Wilmington highlighted.svg
+|map_caption              = Location within New Hanover County
+|pushpin_map              = North Carolina#USA
+|pushpin_relief           = 1
+|pushpin_label            = Wilmington
+|pushpin_map_caption      = Location within North Carolina##Location within the United States
+<!-- Location -->
+|coordinates              = {{coord|34|13|24|N|77|54|44|W|region:US-NC|display=inline,title}}
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_name2        = [[New Hanover County, North Carolina|New Hanover]]
+|established_title        = Incorporated
+|established_date         = February 20, 1739/40
+
+<!-- Area -->
+|government_footnotes     = 
+|government_type          = 
+| leader_party = [[North Carolina Democratic Party|D]]
+|leader_title             = [[List of mayors of Wilmington, North Carolina|Mayor]]
+|leader_name              = [[Bill Saffo]]
+|leader_title1            = 
+|leader_name1             = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 137.19
+|area_total_sq_mi         = 52.97
+|area_land_km2            = 133.14
+|area_land_sq_mi          = 51.41
+|area_water_km2           = 4.05
+|area_water_sq_mi         = 1.56
+
+<!-- Population -->
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 
+|elevation_ft             = 36
+|population_total         = 106476
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 123744
+|population_density_km2   = 929.42
+|population_density_sq_mi = 2407.19
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_urban         = 254,884 (US: [[List of United States urban areas]])
+|population_metro         = 282,573 (US: [[List of Metropolitan Statistical Areas|167th]])
+|population_region        = 1,013,040 [[Cape Fear Region]]/[[Myrtle Beach, SC]]
+
+<!-- General information -->
+|named_for                = [[Spencer Compton, 1st Earl of Wilmington]]
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 28401-28412
+|area_code                = [[Area code 910|910]]
+|website                  = http://www.wilmingtonnc.gov/
+|footnotes                = 
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = −5
+|timezone_DST             = EDT
+|utc_offset_DST = −4
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-74440
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1023269<ref name=gnis>{{GNIS|1023269}}</ref>
+|blank2_name              = Sister cities
+|blank2_info              = [[Dandong|Dandong, Liaoning, China]]<br />[[Doncaster|Doncaster, South Yorkshire, United Kingdom]]<br />[[Bridgetown|Bridgetown, Barbados]]<br />[[San Pedro Town|San Pedro Town, Belize]]
+}}

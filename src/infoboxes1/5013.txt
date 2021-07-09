@@ -1,0 +1,40 @@
+{{Infobox Australian place
+| type                  = city
+| name                  = Hobart
+| state                 = tas
+| image                 = Franklin Wharf 2015.jpg
+| caption               = Hobart city centre, 2015
+| force_national_map    = yes
+| coordinates           = {{coord|42|52|50|S|147|19|30|E|display=inline,title}}
+| pop                   = 232670
+| pop_year              = 2020
+| pop_footnotes         = <ref name="ABSCapitalPop"/>
+| poprank               = 11th
+| density               = 131.1
+| density_footnotes     = (2016)<ref name=Census2016 />
+| area                  = 1695.5
+| established           = {{start date|1804|02|20|df=yes}}
+| established_footnotes = <ref>{{cite news |url=http://nla.gov.au/nla.news-article27194837 |title=Queen to Honour David Collins in Historic Unveiling |newspaper=[[The Mercury (Hobart)|The Mercury]] |location=Hobart, Tasmania |date=19 February 1954 |page=8, ''Royal Visit Souvenir'' supplement |access-date=17 January 2012}}</ref>
+| timezone              = [[Australian Eastern Standard Time|AEST]]
+| utc                   = +10
+| timezone-dst          = [[Australian Eastern Daylight Time|AEDT]] State: Tasmania.
+| utc-dst               = +11
+| location1             = [[Huonville]]
+| dist1                 = 38
+| location2             = [[Swansea, Tasmania|Swansea]]
+| dist2                 = 134
+| location3             = [[Launceston, Tasmania|Launceston]]
+| dist3                 = 198
+| location4             = [[Queenstown, Tasmania|Queenstown]]
+| dist4                 = 248
+| location5             = [[Burnie, Tasmania|Burnie]]
+| dist5                 = 297
+| stategov              = [[Division of Clark (state)|Clark]], [[Division of Franklin (state)|Franklin]]
+| fedgov                = [[Division of Clark|Clark]], [[Division of Franklin|Franklin]]
+| maxtemp               = 17.0
+| maxtemp_footnotes     = <ref name="BoM"/>
+| mintemp               = 8.4
+| mintemp_footnotes     = <ref name="BoM"/>
+| rainfall              = 613.7
+| rainfall_footnotes    = <ref name="BoM"/>
+}}

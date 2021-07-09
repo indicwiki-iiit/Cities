@@ -1,0 +1,61 @@
+{{Infobox settlement
+|name=Marina del Rey, California
+|native_name              = Marina del Rey <!-- for cities whose native name is not in English -->
+|settlement_type=[[Unincorporated community]]<br>[[Census-designated place]]
+|nickname=
+|motto=
+|image_skyline=Marina Del Rey aerial enhanced.jpg
+|image_caption=Aerial view of Marina del Rey on takeoff from [[Los Angeles International Airport]]
+|image_flag=
+|image_seal=
+|image_map=LA County Incorporated Areas Marina del Rey highlighted.svg
+|mapsize=250x200px
+|map_caption=Location within Los Angeles County
+|image_map1=
+|mapsize1=
+|map_caption1=
+| pushpin_map = Los Angeles#California#USA
+| pushpin_map_caption = Location within the Los Angeles metropolitan area##Location within California##Location within the United States
+| pushpin_relief          = 1
+| pushpin_label           = Marina del Rey
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|unit_pref               =US
+|area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+|area_total_sq_mi        = 1.455
+|area_land_sq_mi         = 0.860
+|area_water_sq_mi        = 0.595
+|area_total_km2          = 3.768
+|area_land_km2           = 2.226
+|area_water_km2          = 1.541
+|area_water_percent      = 40.91
+<!-- Elevation ------------>
+|elevation_footnotes=<ref "name=GNIS">{{Cite GNIS|1852255|Marina del Rey|access-date=March 9, 2015}}</ref>
+|elevation_ft=0
+|elevation_m=0
+<!-- Population ----------->
+|population_as_of=2010
+|population_footnotes=
+|population_total=8866
+|population_density_km2=auto
+|population_density_sq_mi=auto
+|timezone=[[Pacific Time Zone|Pacific (PST)]]
+|utc_offset=-8
+|timezone_DST=PDT
+|utc_offset_DST=-7
+|coordinates             = {{coord|33|58|46|N|118|27|10|W|region:US_type:city|display=inline,title}}
+|postal_code_type=[[ZIP code]]s
+|postal_code=90291–90292, 90295
+|area_code_type=[[North American Numbering Plan|Area code]]
+|area_code=[[Area codes 310 and 424|310/424]]
+|blank_name=[[Federal Information Processing Standard|FIPS code]]
+|blank_info={{FIPS|06|45806}}
+|blank1_name=[[Geographic Names Information System|GNIS]] feature ID
+|blank1_info={{GNIS 4|1852255}}
+|website=
+|footnotes=
+}}

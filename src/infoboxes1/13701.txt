@@ -1,0 +1,11 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Jean de La Fontaine
+| image = Jean de La Fontaine.PNG
+| caption = Portrait by [[Hyacinthe Rigaud]]<br /> (Carnavalet Museum)
+| birth_date = {{birth date|df=y|1621|7|8}}
+| birth_place = [[Château-Thierry]], [[Champagne, France|Champagne]], France
+| death_date = {{death date and age|df=y|1695|4|13|1621|7|8}}
+| death_place = [[Neuilly-sur-Seine]], [[Île-de-France]], France
+| occupation = [[Fable|Fabulist]], poet
+| children = 1
+}}

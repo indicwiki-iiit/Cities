@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| name                            = West Sacramento, California
+| official_name                   = City of West Sacramento
+| other_name                      = 
+| nickname                        = West Sac
+| settlement_type                 = [[City (California)|City]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = Sacramento-river-bank-pyramid-20.4.jpg
+| image_caption                   = [[The Ziggurat]] Building on the [[Sacramento River]] in West Sacramento
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = 
+| seal_size                       = 
+| image_map                       = Yolo County California Incorporated and Unincorporated areas West Sacramento Highlighted.svg
+| map_caption                     = Location in [[Yolo County, California|Yolo County]] and the state of [[California]]
+| pushpin_map                     = California#USA
+| pushpin_label                   = West Sacramento
+| pushpin_label_position          = top
+| pushpin_map_caption             = Location in the State of California##Location in the contiguous United States<!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Yolo County, California|Yolo]]
+<!-- Politics ----------------->| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Martha Guerrero <ref>{{cite web |url=https://www.cityofwestsacramento.org/government/city-council}}</ref>
+| leader_title1                   = City Council <ref>{{cite web |url=https://www.cityofwestsacramento.org/government/departments/city-manager-s-office}}</ref>
+| leader_name1                    = Quirina Orozco<ref name=cc>{{Cite web |url=http://www.cityofwestsacramento.org/city/council/default.asp |title=City Council |publisher=City of West Sacramento |access-date=February 1, 2015 |archive-url=https://web.archive.org/web/20130113112233/http://cityofwestsacramento.org/city/council/default.asp |archive-date=January 13, 2013 |url-status=dead }}</ref>
+Norma Alcala
+Chris Ledesma
+| leader_title2                   = [[City manager]]
+| leader_name2                    = Aaron Laurel
+| leader_title3                   = [[California State Legislature|State leg.]]
+| leader_name3                    = [[California's 6th State Senate district|Sen.]] {{Representative|casd|6|fmt=sleader}} <br /> [[California's 7th State Assembly district|Asm.]] {{Representative|caad|7|fmt=sleader}}
+| leader_title4                   = [[California's 6th congressional district|U.S. Congress]]
+| leader_name4                    = {{Representative|cacd|6|fmt=usleader}}<ref>{{Cite GovTrack|CA|6|access-date=March 8, 2013}}</ref>
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title3              = [[Municipal corporation|Incorporated]]
+| established_date3               = January 1, 1987<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ | url-status = dead
+ }}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 22.80
+| area_land_sq_mi                 = 21.47
+| area_water_sq_mi                = 1.33
+| area_total_km2                  = 59.05
+| area_land_km2                   = 55.61
+| area_water_km2                  = 3.45
+| area_water_percent              = 6.22
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1660149|West Sacramento|access-date=February 1, 2015}}</ref>
+| elevation_ft                    = 20
+| elevation_m                     = 6
+<!-- Population   ----------------------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0684816.html|title=West Sacramento (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 22, 2015|archive-url=https://web.archive.org/web/20150223011347/http://quickfacts.census.gov/qfd/states/06/0684816.html|archive-date=February 23, 2015|url-status=dead}}</ref>
+| population_total                = 48744
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 53519
+| population_density_sq_mi        = 2492.73
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = -8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = -7
+| coordinates                     = {{coord|38|34|50|N|121|31|49|W|type:city_region:US-CA_dim:5000|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 95691, 95605
+| area_code                       = [[Area codes 916 and 279|916 and 279]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|84816}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1660149}}, {{GNIS 4|2412228}}
+| website                         = {{URL|www.cityofwestsacramento.org}}
+| population_density_km2          = 962.46
+}}

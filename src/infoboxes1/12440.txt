@@ -1,0 +1,27 @@
+{{Infobox UK place
+<!---------------BASICS---------------->| official_name = Bury
+| country = England
+| region = North West England
+<!---------------IMAGE/S--------------->| static_image_name = Bury Town Hall April 2017.jpg
+| static_image_caption = [[Bury Town Hall]]
+<!-------------STATISTICS-------------->| area_total_sq_mi = 11.61
+| area_total_km2 = 
+| population = 78,723
+| population_ref = &nbsp;([[United Kingdom Census 2011|2011&nbsp;Census]])
+| shire_district = 
+| population_density_km2 = 
+<!-----------MAP / LOCATION------------>| os_grid_reference = SD805105
+| coordinates = {{coord|53.593|-2.298|display=inline,title}}
+| historic_county = Lancashire
+|post_town = BURY
+| postcode_area = BL
+| postcode_district = BL0, BL8, BL9
+<!------------TELEPHONE INFO----------->| dial_code = 0161
+<!-------------GOVERNANCE-------------->| constituency_westminster = [[Bury North (UK Parliament constituency)|Bury North]]
+<!--------------DISTANCES-------------->
+<!-- As crow flies, i.e. straight-line.-->| london_distance_mi = 169
+| london_distance_km = 272
+| metropolitan_borough = [[Metropolitan Borough of Bury|Bury]]
+| metropolitan_county = [[Greater Manchester]]
+<!--------OTHER LANGUAGES, ETC--------->| website = http://www.bury.gov.uk
+}}

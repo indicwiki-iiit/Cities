@@ -1,0 +1,40 @@
+{{Infobox Australian place
+| type     = town
+| name     = Bowral
+| state    = nsw
+| image    = File:Bowral NSW 2576, Australia - panoramio (106).jpg
+| caption  = Aerial view of Bowral
+| lga      = Wingecarribee Shire
+| postcode = 2576
+| parish   = [[Mittagong Parish, Camden|Mittagong]]
+| county   = [[Camden County, New South Wales|Camden]]
+| est      = 1861
+| coordinates = {{coord|34|28|45|S|150|25|5|E|display=inline,title}}
+| region   = [[Southern Highlands, New South Wales|Southern Highlands]]
+| pop      = 12,949
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census">{{Census 2016 AUS|id=114021284 |name=Bowral (SA2) |access-date=11 July 2017|quick=on}}</ref>
+| elevation= 690
+| elevation_footnotes=
+| maxtemp  = 18.7
+| mintemp  = 7.8
+| rainfall = 905.5
+| dist1    = 136
+| dir1     = SW
+| location1= Sydney
+| dist2    = 5
+| dir2     = SW
+| location2= [[Mittagong, New South Wales|Mittagong]]
+| dist3    = 169
+| dir3     = NE
+| location3= Canberra
+| dist4    = 73
+| dir4     = W
+| location4= [[Wollongong, New South Wales|Wollongong]]
+| stategov = [[Electoral district of Wollondilly|Wollondilly]]
+| fedgov   = [[Division of Whitlam|Whitlam]]
+| near-n   = [[Mittagong, New South Wales|Mittagong]]
+| near-e   = [[East Bowral, New South Wales|East Bowral]]
+| near-s   = [[Burradoo, New South Wales|Burradoo]]
+| near-w   = [[Berrima, New South Wales|Berrima]]
+}}

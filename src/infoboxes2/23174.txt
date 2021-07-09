@@ -1,0 +1,76 @@
+{{Infobox settlement
+|name                     = Brock Hall
+|official_name            = 
+|settlement_type          = [[Census-designated place]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = St._Barnabas_1.jpg
+|imagesize                = 
+|image_caption            = [[St. Barnabas' Episcopal Church, Leeland]]
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = USA Maryland#USA
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location within the state of Maryland
+|pushpin_mapsize          =
+|image_map                = 
+|map_caption              = Location within Prince George's County
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = {{nowrap|{{flag|United States}}}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Maryland}}
+|subdivision_type2        = [[List of counties in Maryland|County]]
+|subdivision_name2        = {{nowrap|{{flagicon image|Flag of Prince George's County, Maryland (1963–present).svg}} [[Prince George's County, Maryland|Prince George's]]}}
+
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = <!-- Mayor -->
+|leader_name              =
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 35.6
+|area_land_km2            = 35.3
+|area_water_km2           = 0.3
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 9552
+|population_density_km2   = auto
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+| utc_offset = &minus;5
+|timezone_DST             = EDT
+| utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_ft             = 
+|coordinates              = {{coord|38|50|54|N|76|45|52|W|type:city_region:US-MD|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 
+|area_code                = [[Area codes 301 and 240|301, 240]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 597135
+|website                  = 
+|footnotes                = 
+}}

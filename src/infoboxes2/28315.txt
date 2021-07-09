@@ -1,0 +1,128 @@
+{{Infobox settlement
+|name                   = Flin Flon
+|official_name          = City of Flin Flon
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = City
+|motto                  =
+|image_skyline          = 
+|imagesize              =
+|image_caption          =
+|image_flag             = Flin Flon Flag.svg
+|flag_size              = 150px
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = 540 Flin Flon, Manitoba.svg
+|mapsize                =
+|map_caption            = City boundaries
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Canada#Manitoba<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location in Canada##Location in Manitoba
+|pushpin_mapsize            =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Canada]]
+|subdivision_type1      = [[Provinces of Canada|Province]]
+|subdivision_name1      = [[Manitoba]], [[Saskatchewan]]
+|subdivision_type2      = District (Saskatchewan)
+|subdivision_name2      = [[Northern Saskatchewan Administration District]]
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Cal Huntley<ref>{{cite web
+| title=Mayor & Council
+| url=https://www.cityofflinflon.ca/mayor-council
+| access-date=2017-07-20}}</ref> 
+|leader_title1          = Council
+|leader_name1           = Flin Flon City Council
+|leader_title2          = [[Member of Parliament (Canada)|MP]]
+|leader_name2           = [[Niki Ashton]] ([[New Democratic Party|NDP]])<br />[[Gary Vidal]] ([[Conservative Party of Canada|CPC]])
+|leader_title3          = [[Member of the Legislative Assembly|MLA]]
+|leader_name3           = [[Tom Lindsey]] ([[Manitoba New Democratic Party|NDP]])<br />[[Doyle Vermette]] ([[Saskatchewan New Democratic Party|NDP]])
+|leader_title4          =
+|leader_name4           =
+|established_title      = Founded
+|established_date       = 1927
+|established_title2     = Incorporated
+|established_date2      = January 1, 1933
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 1 E+7 m²
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           = <ref>{{cite web
+ |title=Manitoba Community Profilies – Flin Flon (Community Overview) 
+ |url=http://www.communityprofiles.mb.ca/cgi-bin/csd/overview.cgi?id=4621064 
+ |access-date=2007-07-30 
+ |archive-url=https://web.archive.org/web/20070407145011/http://communityprofiles.mb.ca/cgi-bin/csd/overview.cgi?id=4621064 
+ |archive-date=2007-04-07 
+ |url-status=dead 
+}}</ref>
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = 11.55
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2016
+|population_footnotes           = <ref>[https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=301&SR=1326&RPP=25&S=86&O=A&CMA=0&PR=0#2016A00054621064 Population and Dwelling Count Highlight Tables, 2016 Census – Census subdivisions]</ref>
+|population_note                =
+|population_total               = 5185
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Central Time Zone (North America)|CST]]
+|utc_offset             = -6
+|timezone_DST           = [[Central Time Zone (North America)#Central Daylight Time|CDT]]
+|utc_offset_DST         = -5
+|coordinates            = {{coord|54|46|0|N|101|52|40|W|region:CA|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use  tags-->
+|elevation_m            =
+|elevation_ft           = 980
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Canadian postal code#Forward sortation areas|Forward sortation area]]
+|postal_code            = [[List of R postal codes of Canada|R8A]]
+|area_code              = [[Area code 204|204]]
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = [http://www.cityofflinflon.ca/ http://www.cityofflinflon.ca/]
+|footnotes              =
+}}

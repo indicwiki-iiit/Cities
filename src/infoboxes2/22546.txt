@@ -1,0 +1,44 @@
+{{Infobox settlement
+<!-- General information -->
+|name                   =Dorog
+|other_name             ={{lang|de|Drotsdorf}} {{in lang|de}}
+|settlement_type        =Town
+|image_shield           =HUN Dorog Címer.svg
+|image_flag             =Flag of Dorog.svg
+|image_skyline          =Dorog művelődési ház.JPG
+<!-- Pushpin map -->
+|pushpin_map            =Hungary
+|pushpin_map_caption    =Location of Dorog in Hungary
+<!-- Political information -->
+|subdivision_type       =Country
+|subdivision_name       ={{HUN}}
+|subdivision_type1      = [[Counties of Hungary|County]]
+|subdivision_name1      = {{Hungarian county link|Komárom-Esztergom}}
+|subdivision_type2      = [[Districts of Hungary|District]]
+|subdivision_name2      = [[Esztergom District|Esztergom]]
+|leader_title           =Mayor
+|leader_name            =János Tittmann [[Independent politician|Independent]]
+<!-- Geographical information -->
+|area_total_km2         =11.54
+|area_magnitude         =1 E6
+|area_footnotes         =<ref name="ksh_cite_area">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=10490 Dorog] at the [[Hungarian Central Statistical Office]] (Hungarian). </ref>
+|coordinates            ={{Coord}}
+<!-- Demographical information -->
+|postal_code            =2510
+|postal_code_type       =[[Postal code]]
+|area_code              =(+36) 33
+|area_code_type         =[[Telephone numbers in Hungary|Area code]]
+|timezone               =[[Central European Time|CET]]
+|utc_offset             =+1
+|timezone_DST           =[[Central European Summer Time|CEST]]
+|utc_offset_DST         =+2
+|total_type             =Total
+|population_total       =11996
+|population_density_km2 =auto
+|population_density_urban_km2 =auto
+|population_density_metro_km2 =auto
+|population_as_of       =2012
+|population_footnotes   =<ref name="ksh_cite_population">[http://www.ksh.hu/apps/!cp.hnt2.telep?nn=10490 Dorog] at the [[Hungarian Central Statistical Office]] (Hungarian). 2012</ref>
+|blank_info             =
+|website                ={{wikidata|property|P856}}
+}}

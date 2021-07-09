@@ -1,0 +1,22 @@
+{{Infobox settlement
+|native_name            = حَجَّة
+|settlement_type        = City
+|image_skyline          = Hajjah 01.jpg
+|imagesize              = 300px
+|pushpin_map            = Yemen<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Yemen
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Yemen}}
+|subdivision_type1      = [[Governorates of Yemen|Governorate]]
+|subdivision_name1      = [[Hajjah Governorate|Hajjah]]
+|subdivision_type2      = [[Districts of Yemen|District]]
+|subdivision_name2      = [[Hajjah District|Hajjah]]
+|population_total               =53887
+|population_blank1_title        =Ethnicities
+|timezone               =Yemen Standard Time
+|utc_offset             = +3
+|coordinates            = {{coord|15|41|42|N|43|35|51|E|region:YE|display=inline}}
+}}

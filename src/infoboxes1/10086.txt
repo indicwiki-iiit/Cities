@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Giresun
+| settlement_type                 = [[Municipality]]
+| image_skyline                   = Giresun Turkey.jpg
+| image_caption                   = General view of eastern part of Giresun city
+| image_shield                    = Giresunbel.JPG
+| pushpin_map                     = Turkey
+| coordinates                     = {{coord|40|54|55|N|38|23|22|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = Turkey
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Giresun Province|Giresun]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Justice and Development Party (Turkey)|AKP]]
+| leader_title                    = Mayor
+| leader_name                     = [[Aytekin Şenlikoğlu]]
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Giresun|Giresun}}
+| elevation_m                     = 
+| population_footnotes            = {{Turkey district populations|SOURCE|Giresun}}
+| population_urban                = {{Turkey district populations|Giresun|Giresun|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Giresun|Giresun|toplam}}
+| population_density_blank1_km2   = auto
+| blank1_name                     = [[Köppen climate classification|Climate]]
+| blank1_info                     = [[Humid subtropical climate|Cfa]]
+| postal_code_type                = 
+| postal_code                     = 
+| website                         = {{URL| www.giresun.bel.tr | www.giresun.bel.tr }}
+| official_name                   = 
+}}

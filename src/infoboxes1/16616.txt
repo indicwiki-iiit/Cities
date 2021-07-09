@@ -1,0 +1,71 @@
+{{Infobox settlement
+|official_name            = City of Palm Desert
+|settlement_type          = [[City (California)|City]]
+|motto                    = "Feel The Warmth"
+|nickname                 = P. D., Palm Deezy
+|image_skyline            =
+|image_caption            = Modern art display on El Paseo's median
+|image_seal               = 
+|image_map                = Riverside County California Incorporated and Unincorporated areas Palm Desert Highlighted.svg
+|map_caption              = Location of Palm Desert, California
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|coordinates              = {{coord|33|43|20|N|116|22|28|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS>{{Cite gnis|id=1652767|name=Palm Desert|access-date=November 29, 2014}}</ref>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Riverside County, California|Riverside]]
+|image_blank_emblem = Palm Desert logo.png
+| government_type          = [[Council–manager government|Council–manager]]<ref name="ABOUT"/>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 26, 1973<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy-all 
+}}</ref>
+
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 27.02
+| area_land_sq_mi         = 26.81
+| area_water_sq_mi        = 0.20
+| area_total_km2          = 69.97
+| area_land_km2           = 69.44
+| area_water_km2          = 0.53
+| area_water_percent      = 0.76
+|elevation_footnotes      = <ref name=GNIS/>
+|elevation_ft             = 220
+|elevation_m              = 67
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0655184.html|title=Palm Desert (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 11, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120901195020/http://quickfacts.census.gov/qfd/states/06/0655184.html|archive-date=September 1, 2012|df=mdy-all}}</ref>
+|population_total         = 48445
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 53275
+|population_density_km2   = 767.17
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 92210, 92211, 92255, 92260, 92261
+|area_code_type           = [[North American Numbering Plan|Area codes]]
+|area_code                = [[Area codes 442 and 760|442/760]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|55184}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1652767}}, {{GNIS 4|2411356}}
+|website                  = {{URL|www.cityofpalmdesert.org}}
+|population_density_sq_mi = 1986.98
+}}

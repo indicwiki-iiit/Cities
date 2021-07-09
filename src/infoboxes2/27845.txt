@@ -1,0 +1,74 @@
+{{Infobox settlement
+|name                     = Alva, Oklahoma
+|settlement_type          = City
+|nickname                 = 
+|motto                    = 
+
+|image_skyline            = Alva Oklahoma Mural.jpg
+|image_caption            = The "Charles Share" mural painted by artist Don Gray under commission from the Alva Mural Society in 2004.<ref name="travok">{{cite web|title=Charles Share Mural |url=http://www.travelok.com/listings/view.profile/id.23443 |publisher=Travel OK |archive-url=https://web.archive.org/web/20170414014913/http://www.travelok.com/listings/view.profile/id.23443 |archive-date=April 14, 2017 |access-date=April 13, 2017 |url-status=dead }}</ref>
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OKMap-doton-Alva.PNG
+|map_caption              = Location of Alva within [[Oklahoma]]
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Oklahoma]]
+|subdivision_type2        = [[List of counties in Oklahoma|County]]
+|subdivision_name2        = [[Woods County, Oklahoma|Woods]]
+
+<!-- Government -->
+|government_footnotes     = <ref>{{cite web|title=Alva City Mayor |url=http://www.alvaok.org/mayor.htm |publisher=City of Alva |archive-url=https://web.archive.org/web/20160304035107/http://www.alvaok.org/mayor.htm |archive-date=March 4, 2016 |access-date=April 13, 2017 |url-status=dead }}</ref>
+|government_type          = [[council-manager government|Council-manager]]
+|leader_title             = Mayor
+|leader_name              = Mayor Kelly Parker
+|leader_title1            = [[City manager]]
+|leader_name1             = Angelica Brady <ref>{{cite web |url=https://www.alvareviewcourier.com/story/2020/06/19/local/brady-hired-as-alva-business-manager/63989.html | author=Marione Martin  |title=Brady hired as Alva business manager  |publisher=Alva Review Courier |publication-place=Alva, Oklahoma|date=2020-06-19 |access-date=2021-01-22 | archive-url=https://web.archive.org/web/20200712210930/https://www.alvareviewcourier.com/story/2020/06/19/local/brady-hired-as-alva-business-manager/63989.html | archive-date=2020-06-19 | url-status=live}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = {{Start date and age|1893}}
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_40.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_total_sq_mi         = 6.40
+|area_land_sq_mi          = 6.40
+|area_water_sq_mi         = 0.00
+|area_total_km2           = 16.57
+|area_land_km2            = 16.57
+|area_water_km2           = 0.00
+|unit_pref                = Imperial
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name="Census2010">{{cite web|title=2010 City Population and Housing Occupancy Status |url=http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table |publisher=U.S. Census Bureau |access-date=October 18, 2013 |df=mdy }}{{dead link|bot=medic|date=April 2020}}{{cbignore|bot=medic}}</ref>
+|population_total         = 4945
+|population_density_sq_mi = 774.15
+|population_density_km2   = 298.89
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 411
+|elevation_ft             = 1348
+|coordinates              = {{coord|36|48|21|N|98|40|04|W|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 73717
+|area_code                = [[Area code 580|580]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 40-01800<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website |df=mdy }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1089605<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007}}</ref>
+|website                  = [http://www.alvaok.org/ alvaok.org]
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 4953
+}}

@@ -1,0 +1,42 @@
+{{Infobox Australian place
+| type                = city
+| name                = Hervey Bay
+| state               = qld
+| image               = Hbay.JPG
+| caption             = Torquay Beach, Hervey Bay
+| coordinates         = {{coord|-25.29|152.84|type:city_region:AU-QLD|display=inline,title|name=Hervey Bay (town centre)}}
+| pop                 = 54674
+| pop_year            = 2018
+| pop_footnotes       = <ref name=ABSSUA/>
+| poprank             = 27th
+| pop2                = 52073
+| pop2_year           = {{CensusAU|2016}}
+| pop2_footnotes      = <ref name=Census2016/>
+| established         = 
+| postcode            = 4655
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = 29.6 <!-- road distances as per template instructions -->
+| dir1                = NNE
+| location1           = [[Maryborough, Queensland|Maryborough]]
+| dist2               = 110
+| dir2                = SE
+| location2           = [[Bundaberg]]
+| dist3               = 286
+| dir3                = N
+| location3           = [[Brisbane]]
+| dist4               = 
+| dir4                = 
+| area                = 93.2
+| area_footnotes      = <ref name="ABSSUAProf">{{cite web|title=2011 Census Community Profiles: Hervey Bay|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/3008|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=15 September 2016|url-status=live|archive-url=https://web.archive.org/web/20180305075807/http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/3008|archive-date=5 March 2018|df=dmy-all}}</ref> (2011 urban)
+| lga                      = [[Fraser Coast Region]]
+| region                   = [[Wide Bay-Burnett]]
+| stategov                 = [[Electoral district of Hervey Bay|Hervey Bay]]
+| fedgov                   = [[Division of Hinkler|Hinkler]]
+| maxtemp                  = 26.2
+| maxtemp_footnotes        = 
+| mintemp                  = 16.6
+| mintemp_footnotes        = 
+| rainfall                 = 1061.6
+| rainfall_footnotes       = 
+}}

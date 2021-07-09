@@ -1,0 +1,41 @@
+{{Infobox settlement
+| name                    = {{raise|0.1em|Jeongeup}}
+| native_name = {{lower|0.1em|{{lang|ko-Hang|정읍시}}}}
+| settlement_type         = [[Cities of South Korea|Municipal City]]
+| translit_lang1          = Korean
+| translit_lang1_type1 = [[Hangul]]
+| translit_lang1_info1 = {{lang|ko-Hang|{{linktext|정|읍|시}}}}
+| translit_lang1_type2 = [[Hanja]]
+| translit_lang1_info2 = {{lang|ko-Hant|{{linktext|井|邑|市}}}}
+| translit_lang1_type3    = {{nowrap|Revised Romanization}}
+| translit_lang1_info3    = Jeongeup-si
+| translit_lang1_type4    = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4    = Chŏngŭp-si
+| image_skyline           = Jeongeup seen from Seonghwangsan - 2009-02-04.JPG
+| imagesize               = 
+| image_caption           = Jeongeup seen from Seonghwangsan
+| image_map               = North Jeolla-Jeongeup.svg
+| mapsize                 = 
+| map_caption             = Location in South Korea
+| subdivision_type = Country
+| subdivision_name        = [[South Korea]]
+| subdivision_type1       = [[Regions of Korea|Region]]
+| subdivision_name1       = [[Honam]]
+| subdivision_name2       = [[North Jeolla]]
+| subdivision_type2       = [[Provinces of South Korea|Province]]
+| population_blank1_title = Dialect
+| population_blank1       = [[Jeolla dialect|Jeolla]]
+| area_total_km2          = 692.66
+<!--
+| population_as_of        = 2009
+| population_total        = 122,935
+-->
+| population_as_of        = 2015
+| population_total        = 110,194 
+| population_density_km2  = 1=159.1
+| parts_type              = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                   = 1 ''eup'', 14 ''myeon'', 12 ''dong''
+| coordinates             = {{coord|35|34|N|126|51|E|type:city_region:KR-45|display=it}}
+| image_flag              = Jeongeup logo.png
+| blank_emblem_type       = Emblem of Jeongeup
+}}

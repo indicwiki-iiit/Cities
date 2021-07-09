@@ -1,0 +1,77 @@
+{{Infobox settlement
+| name                            = Marshalltown, Iowa
+| settlement_type                 = [[City]] and [[County seat]]
+
+<!-- Images -->
+| image_skyline                   = Main Street Marshalltown.jpg
+| image_caption                   = Main Street Marshalltown (2011)
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Marshall County Iowa Incorporated and Unincorporated areas Marshalltown Highlighted.svg
+| map_caption                     = Location within [[Marshall County, Iowa|Marshall County]] and [[Iowa]]
+| image_map1                      = 
+| map_caption1                    = <!-- Location -->
+| coordinates_footnotes           = 
+| coordinates                     = {{coord|42|2|30|N|92|54|52|W|region:US-IA_type:city|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{US}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{flagdeco|Iowa}} [[Iowa (U.S. state)|Iowa]]
+| subdivision_type2               = [[List of counties in Iowa|County]]
+| subdivision_name2               = [[Marshall County, Iowa|Marshall]]
+| subdivision_type3               = [[List of townships in Iowa|Township]]
+| subdivision_name3               = <!-- Established -->
+| established_title               = Founded
+| established_date                = 1853
+| established_title1              = [[Platted]]
+| established_date1               = 
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = March 5, 1923<ref name="cdMarshalltown">{{cite web|url=http://www.city-data.com/city/Marshalltown-Iowa.html|title=City-Data|publisher=Marshaltown|access-date=2010-12-13}}</ref>
+| named_for                       = <!-- Government -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Joel Greer<ref>{{Cite web|url=https://www.marshalltown-ia.gov/154/Mayor-and-City-Council|title=MAYOR & City Council {{!}} Marshalltown, IA|website=www.marshalltown-ia.gov|language=en|access-date=2018-10-26}}</ref>
+| leader_title1                   = [[City Manager|City Administrator]]
+| leader_name1                    = Jessica Kinser
+
+<!-- Area -->
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_19.txt|publisher=United States Census Bureau|access-date=July 17, 2020}}</ref>
+| area_total_sq_mi                = 19.22
+| area_land_sq_mi                 = 19.19
+| area_water_sq_mi                = 0.03
+| area_total_km2                  = 49.78
+| area_land_km2                   = 49.71
+| area_water_km2                  = 0.07
+| unit_pref                       = Imperial
+
+<!-- Elevation -->| elevation_footnotes             = 
+| elevation_ft                    = 942
+
+<!-- Population -->
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_as_of                = [[2010 United States Census|2010]]
+| population_total                = 27552
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| pop_est_as_of                   = 2019
+| population_est                  = 26666
+| population_density_sq_mi        = 1389.29
+| population_rank                 = [[List of largest Iowa cities by population|17th]] in Iowa
+
+<!-- General information -->
+| timezone                        = [[Central Time Zone|CST]]
+| utc_offset                      = &minus;6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = &minus;5
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 50158
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 641|641]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 19-49755
+| blank1_name                     = [[Geographic Names Information System|GNIS ID]]
+| blank1_info                     = 0458824
+| website                         = {{Official website|http://www.ci.marshalltown.ia.us}}
+| official_name                   = 
+|population_density_km2 = 536.41
+}}

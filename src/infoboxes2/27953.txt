@@ -1,0 +1,24 @@
+{{Infobox NRHP
+  | name                           = Massanetta Springs Historic District
+  | nrhp_type                      = hd
+  | nocat                          = yes
+  | designated_other1              = Virginia Landmarks Register
+  | designated_other1_date         = March 16, 2005<ref name=register>{{cite web|title=Virginia Landmarks Register|url=http://www.dhr.virginia.gov/registers/register_counties_cities.htm|publisher=Virginia Department of Historic Resources|accessdate=5 June 2013}}</ref>
+  | designated_other1_number       = 082-0509
+  | designated_other1_num_position = bottom
+  | image                          = Massanetta Springs Hotel.jpg
+  | caption                        = Front of the hotel
+  | location                       = 712 Massanetta Springs Rd., [[Harrisonburg, Virginia]]
+  | coordinates                    = {{coord|38|24|3|N|78|50|10|W|display=inline,title}}
+  | locmapin                       = Virginia#USA
+  | map_caption                    = Location in [[Virginia]]##Location in United States
+  | built                          = 1816
+  | builder                        = Fred  K.  Betts (camp)<br>Heatwole & Hedrick (lodge & church)<br>Sam Shrum (hotel addition)
+  | architect                      = W. Glen Wallace (camp)<br>Joseph  Nielsen (hotel addition)
+  | customarchitect                = Charles F. Gillette
+  | customarchitect_title          = Lot planner
+  | architecture                   = [[Second Empire architecture|Second Empire]], [[Queen Anne style architecture in the United States|Queen Anne]]
+  | added                          = May 26, 2005
+  | area                           = {{convert|70|acre}}
+  | refnum                         = 05000477<ref name="nris">{{NRISref|version=2010a}}</ref>
+}}

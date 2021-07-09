@@ -1,0 +1,55 @@
+{{Infobox settlement
+<!--See the Table at JB_Power System Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Koforidua
+|other_name             =City of Koforidua
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = Kof City
+|settlement_type        = City <!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize                 = 260px
+|image_caption         = ''Firs top left picture'': Daasebre Highway in Koforidua, ''Second top right picture'': [[New-Juaben Municipal District|New-Juaben Municipal]] and [[Eastern Region (Ghana)|Eastern Regional]] Library in Koforidua, ''Third bottom picture'': [[All Nations University]] Entrance in Koforidua.
+|image_flag                =
+|image_blank_emblem     = New-Juaben Municipal District logo.jpg
+|blank_emblem_type      = Koforidua Municipal Assembly logo
+|blank_emblem_link      = New-Juaben Municipal District
+|blank_emblem_size      = 150px
+|pushpin_map           = Ghana
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location of Koforidua in [[Eastern Region, Ghana|Eastern region]], Ghana
+<!-- Location ------------------>
+|subdivision_type       =Country
+|subdivision_name       ={{flag|Ghana}}
+|subdivision_type1      = Region
+|subdivision_name1      = [[Eastern Region, Ghana|Eastern Region]]
+|subdivision_type2      = District
+|subdivision_name2      = [[New-Juaben Municipal District|New-Juaben Municipal]]
+|subdivision_type3 =
+|subdivision_name3  =
+|area_total_km2 =
+|elevation_m = 238
+<!-- Population   ----------------------->
+|population_as_of               = 2012
+|population_footnotes       =
+|population_note                =
+|population_total               =183,727<ref name="World Gazetteer">{{cite web|url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com |url-status=dead |archive-url=https://web.archive.org/web/20120111172126/http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |archive-date=11 January 2012 }}</ref>
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title     = Ethnicities
+|population_blank1              =
+|population_blank2_title     = [[Demonym]]
+|population_blank2              = <!--Koforiduan-->
+|population_density_blank1_km2 = 
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             =
+|timezone_DST    = [[Greenwich Mean Time|GMT]]
+|utc_offset_DST  =
+|coordinates            = {{coord|6|06|N|0|16|W|region:GH|display=inline}}
+|area_code = 034
+}}

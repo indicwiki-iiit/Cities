@@ -1,0 +1,52 @@
+{{Infobox settlement
+|settlement_type        = Town
+|name                   = Killarney
+|native_name            = {{Pad top italic|Cill Airne}}
+|image_shield           = Killarney COA.png
+| image_skyline                   = {{Photomontage
+| photo1a = Killarney Cathedral, 2021-06-21, 02.jpg
+| photo1b = High Street, Killarney, 2021-06-21, 02.jpg
+| photo2a = Red Deer of Ireland, Killarney, 2021-06-22.jpg
+| photo2b = Killarney House Garden, 2021-06-21, 02.jpg
+| size = 260
+| spacing = 1
+| color = white
+| border = 0
+}}
+| image_caption                   = From top, left to right: [[St Mary's Cathedral, Killarney|St Mary's Cathedral]], High Street, Red Deer sculpture, [[Killarney House]] garden
+|mapsize                = 230px
+|map_caption            = Location of Killarney in Ireland
+|pushpin_map            = Ireland#Europe
+|pushpin_relief         = 1
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Ireland
+|coordinates            = {{coord|52.0588|-9.5072|dim:100000_region:IE|display=inline,title}}
+|blank_name_sec1        = Irish Grid Reference
+|blank_info_sec1        = {{iem4ibx|V969909}}
+|unit_pref              = Metric
+|elevation_m            = 50
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[Republic of Ireland|Ireland]]
+|subdivision_type1      = [[Provinces of Ireland|Province]]
+|subdivision_name1      = [[Munster]]
+|subdivision_type2      = [[Counties of Ireland|County]]
+|subdivision_name2      = [[County Kerry|Kerry]]
+|subdivision_type3      = [[Local government in the Republic of Ireland|Council]]
+|subdivision_name3      = [[Kerry County Council]]
+|subdivision_type4      = [[Dáil Éireann]]
+|subdivision_name4      = [[Kerry (Dáil constituency)|Kerry]]
+|subdivision_type5      = [[European Parliament]]
+|subdivision_name5      = [[South (European Parliament constituency)|South]]
+|population_total       = 14,504
+|population_as_of       = 2016
+|population_footnotes   = <ref name="sapmap2016">{{cite web|url =http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=9EF412D8-1334-4146-85B1-9F0699E18ED5#SAPMAP_T1_100 | publisher = [[Central Statistics Office (Ireland)|CSO]] | work = Census 2016 | title = Sapmap Area - Settlements - Killarney | date = 2016 | access-date = 12 January 2018 }}</ref>
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)64
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =V93
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+|website                = {{URL|www.killarney.ie}}
+}}

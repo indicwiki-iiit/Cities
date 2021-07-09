@@ -1,0 +1,30 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage--><!-- Basic info  ---------------->
+|official_name          = Deir Atiyah
+|native_name            = {{lang|ar|ديرعطية}}
+|pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+
+|pushpin_mapsize        =250
+|pushpin_map_caption    =Location in Syria
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{Flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Rif Dimashq Governorate|Rif Dimashq]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[An-Nabek District|an-Nabek]]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_name3      = Deir Atiyah
+|settlement_type        =
+<!-- Area    --------------------->
+|unit_pref                =Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+<!-- Population   ----------------------->
+|population_as_of               = 2004 census
+|population_footnotes           = <ref name="CBS"/>
+|population_total               =10984 
+<!-- General information  --------------->
+|coordinates            = {{coord|34|05|N|36|46|E|region:SY|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1250
+}}

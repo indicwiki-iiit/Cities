@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-------- Basic info------>
+|name           = Ifrane
+|other_name     =  
+|native_name    = Ifran / ⵉⴼⵔⴰⵏ / إفران
+|nickname       = 
+|settlement_type =
+|motto          =
+<!-------- images and maps------->
+|image_skyline          = {{Photomontage
+| photo1a = Neige ifrane.jpg
+| photo2a = Caucasian weather.jpg
+| photo2b = Ifrane snow.jpg
+| photo3a = Barbary macaque in cedar.JPG
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|imagesize      = 300px
+|image_caption  = Ifrane in winter (Clockwise from top: Chalet-style apartments; a road through the forest; a [[barbary macaque]] in the forest; the campus of [[Al Akhawayn University]])
+|image_flag     = 
+|flag_size      =
+|image_seal     = 
+|seal_size      =
+|image_shield   = 
+|shield_size    =
+|image_map      = Openstreetmap of Ifrane_Morocco.PNG
+|mapsize        = 300px
+|map_caption    = Openstreetmap of Ifrane
+|pushpin_map            = Morocco#Africa
+|pushpin_label_position =bottom
+|pushpin_mapsize     = 300
+|pushpin_relief      = y
+|pushpin_map_caption = Location in Morocco
+<!-------- Location ----->
+|subdivision_type    = Country
+|subdivision_name    = {{flag|Morocco}}
+|subdivision_type1   = [[Regions of Morocco|Region]]
+|subdivision_name1   = [[Fès-Meknès]]
+|subdivision_type2   = [[Provinces of Morocco|Province]]
+|subdivision_name2   = [[Ifrane Province|Ifrane]]
+|<!-------- Politics ------>
+|government_footnotes=
+|government_type     =
+|leader_title        =
+|leader_name         =
+|leader_title1       =<!--for places with, say, both mayor and a city manager -->
+|leader_name1        =
+|established_title   =  <!-- Settled -->
+|established_date    = 
+<!-------- Area --------->
+|area_magnitude      = 
+|unit_pref           = Imperial
+|area_footnotes      =
+|area_total_km2      = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2       =
+<!-------- Population---->
+|population_est=
+|pop_est_as_of=
+|population_as_of    =2014
+|population_footnotes=<ref>{{cite web|title=recensement général de la population et de l'habitat 2004|url=http://www.hcp.ma/Recensement-general-de-la-population-et-de-l-habitat-2004_a633.html|publisher=Haut commisariat au plan|access-date=28 October 2011}}</ref><ref name=MBpop/>
+|population_total    = 73,782 
+|population_density_km2 =
+|population_density_sq_mi =
+|population_metro    =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+<!-------- General information ---->
+|timezone                       = [[Central European Time|CET]]
+|utc_offset                     = +1
+|coordinates         = {{coord|33|32|N|5|07|W|region:MA|display=inline}}
+|elevation_footnotes = <ref name=HKO/>
+|elevation_m   = 1665
+|elevation_ft  = 5,460
+<!-------- Area/postal codes & others-->
+|postal_code_type =<!--enter ZIP code, Postcode, Postal code...-->
+|postal_code   =
+|area_code     =
+|blank_name    =
+|blank_info    =
+|website       = 
+|footnotes     = 
+}}

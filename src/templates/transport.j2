@@ -1,0 +1,101 @@
+{%- macro airWays() -%}
+	=== విమానాశ్రయాలు ===
+	{{city_name}} నగరం లోని విమానాశ్రయాలు నుండి దేశంలోని అన్ని ముఖ్యపట్టణాలకు, అంతర్జాతీయ గమ్యస్థానాలకు విమానయాన సౌకర్యం కలదు. 
+	{% set align=["right"] | random %}
+	<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+	{% if airports_im != [] -%}
+			[[File: {{airports_im[0][1]}}|'''{{airports_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+	{%- endif -%}
+	{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+	|+ {{city_name}} లోని విమానాశ్రయాలు
+	|-
+	! క్ర.సం. !! విమానాశ్రయం 
+	|-
+	{% for i in range(airports|length) -%}
+	|-
+	| {{i+1}} || {{airports[i][0]}} 
+	{% endfor -%}
+	|}
+	</div>
+{%- endmacro -%}
+
+{%- macro railWays() -%}
+===రైల్వే స్టేషన్లు===
+{{city_name}}, దేశంలోని అన్ని ముఖ్య నగరాలతో రైలు మార్గం ద్వారా అనుసంధానమై ఉంది. 
+{%- set align=["right"] | random %}
+<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+{% if railways_im != [] -%}
+		[[File: {{railways_im[0][1]}}|'''{{railways_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+{%- endif -%}
+{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+|+ {{city_name}} లోని రైల్వే స్టేషన్లు
+|-
+! క్ర.సం. !! రైల్వే స్టేషన్ 
+|-
+{% for i in range(railways|length) -%}
+|-
+| {{i+1}} || {{railways[i][0]}} 
+{% endfor -%}
+|}
+</div>
+{%- endmacro -%}
+
+{%- macro roadWays() -%}
+=== బస్ స్టేషన్లు ===
+{{city_name}}, దేశంలోని చాలా నగరాలతో రోడ్డుద్వారా అనుసంధానమై ఉంది.
+{%- set align=["right"] | random %}
+<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+{% if busstands_im != [] -%}
+		[[File: {{busstands_im[0][1]}}|'''{{busstands_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+{%- endif -%}
+{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+|+ {{city_name}} లోని బస్ స్టేషన్లు
+|-
+! క్ర.సం. !! బస్ స్టేషన్ 
+|-
+{% for i in range(busstands|length) -%}
+|-
+| {{i+1}} || {{busstands[i][0]}} 
+{% endfor -%}
+|}
+</div>
+{%- endmacro -%}
+
+
+{%- macro seaWays() -%}
+=== ఓడరేవులు ===
+{%- set align=["right"] | random %}
+<div style="overflow-y: scroll; overflow-x: hidden; max-height : 25em; max-width : 75%;">
+{% if ports_im != [] -%}
+		[[File: {{ports_im[0][1]}}|'''{{ports_im[0][0]}}'''|thumb|{{align}}]]{{'\n'}}
+{%- endif -%}
+{| class = "wikitable mw-collapsible autocollapsible" style="margin-left: auto; margin-right: auto; border: none;"
+|+ {{city_name}} లోని ఓడరేవులు
+|-
+! క్ర.సం. !! ఓడరేవు 
+|-
+{% for i in range(ports|length) -%}
+|-
+| {{i+1}} || {{ports[i][0]}} 
+{% endfor -%}
+|}
+</div>
+{%- endmacro -%}
+
+{# Function Calls Below #}
+==రవాణా==
+{%- if airports!= [] %}
+{{ airWays() -}}
+{%- endif -%}
+
+{%- if railways!= [] %}
+{{ railWays() -}}
+{%- endif -%}
+
+{%- if busstands!= [] %}
+{{ roadWays() -}}
+{%- endif -%}
+
+{%- if ports!= [] %}
+{{ seaWays() -}}
+{%- endif -%}

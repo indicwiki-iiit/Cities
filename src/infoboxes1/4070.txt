@@ -1,0 +1,81 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = Akron
+| official_name = City of Akron
+| etymology = [[Ancient Greek]]: [[:wikt:ἄκρον|ἄκρον]] ''ákron'' (summit, high point)
+| settlement_type = [[City]]
+<!-- images, nicknames, motto --->
+| image_skyline = AkronOhioSky.jpg
+| imagesize = 
+| image_caption = 
+| image_seal = New Seal of Akron.png
+| nicknames = {{nowrap|Rubber City}}, {{nowrap|City of Invention}}, {{nowrap|Rubber Capital of the World (''historical'')}}
+<!-- maps and coordinates ------>
+| image_map = Summit County Ohio incorporated and unincorporated areas Akron highlighted.svg
+| mapsize = 260px
+| map_caption = Location in [[Summit County, Ohio|Summit County]] and the state of Ohio
+| pushpin_map = USA Ohio#USA#North America
+| pushpin_label = Akron
+| pushpin_label_position = right
+| pushpin_mapsize = 250
+| pushpin_map_caption = Location in Ohio
+| subdivision_type = Country
+| subdivision_type1 = [[U.S. state|State]]
+| subdivision_type2 = [[List of counties in Ohio|County]]
+| subdivision_name = {{flagdeco|US}} [[United States]]
+| subdivision_name1 = {{flagdeco|Ohio}} [[Ohio]]
+| subdivision_name2 = [[Summit County, Ohio|Summit]]
+<!-- established --------------->
+| established_title = Founded
+| established_date = 1825
+| established_title2 = Incorporated
+| established_date2 = 1836 (village)
+| established_title3 = Incorporated
+| established_date3 = 1865 (city)
+<!-- government type, leaders -->
+| government_type = [[Mayor–council government|Strong Mayor–council]]
+| leader_title = Mayor
+| leader_name = [[Dan Horrigan]] ([[Democratic Party (United States)|D]])
+<!-- area ---------------------->
+| area_land_km2 = 160.41
+| area_water_km2 = 0.88
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_total_km2 = 161.29
+| area_total_sq_mi = 62.27
+| area_land_sq_mi = 61.93
+| area_water_sq_mi = 0.34
+| area_water_percent = 0.55
+<!-- elevation ----------------->
+| elevation_m = 306
+| elevation_ft = 1004
+| coordinates = {{coord|41|4|23|N|81|31|4|W|region:US-OH|display=inline,title}}
+| population_as_of = [[2010 United States Census|2010]]
+| population_est = 197597
+| pop_est_as_of = 2019
+| pop_est_footnotes = <ref name="USCensusEst2019"/>
+| population_footnotes = <ref name="wwwcensusgov"/>
+| population_total = 199110
+| population_rank = US: [[List of United States cities by population|125th]]
+| population_density_km2 = 1231.86
+| population_density_sq_mi = 3190.50
+| population_urban = 569,499 (US: [[List of United States urban areas|71st]])
+| population_metro = 705,686 (US: [[List of Metropolitan Statistical Areas|77th]])
+| population_demonym = Akronite
+<!-- time zone(s) -------------->
+| timezone = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+| timezone_DST = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = &minus;4
+<!-- postal codes, area code --->
+| postal_code_type = ZIP code
+| postal_code = 44301-44321, 44325, 44326, 44328, 44333, 44334, 44372, 44396, 44398
+| area_codes = [[Area codes 234 and 330|234, 330]]
+<!-- blank fields (section 1) -->
+| blank_name = [[Federal Information Processing Standard|FIPS code]]
+| blank_info = 39-01000
+| blank1_name = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info = 1064305<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=October 25, 2007|url-status=live|archive-url=https://web.archive.org/web/20120204035720/http://geonames.usgs.gov/|archive-date=February 4, 2012|df=mdy-all}}</ref>
+<!-- website, footnotes -------->
+| website = {{URL|https://www.akronohio.gov/}}
+|unit_pref = Imperial
+}}

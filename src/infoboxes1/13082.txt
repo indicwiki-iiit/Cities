@@ -1,0 +1,71 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                     = Altadena, California
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = [[Census-designated place]]
+<!-- images and maps  ----------->
+| image_skyline            = Eaton canyon from the air.jpg
+| image_caption            = Aerial view of Altadena and [[Eaton Canyon]]
+| nickname                 = 
+| motto                    = 
+| image_map                = LA County Incorporated Areas Altadena highlighted.svg
+| mapsize                  = 250x200px
+| map_caption              = Location of Altadena in [[Los Angeles County, California|Los Angeles County]], [[California]]
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the United States
+<!-- Location ------------------>
+| coordinates              = {{coord|34|11|19|N|118|8|5|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+| established_title        = <!-- Founded -->
+| established_date         = 
+| government_type          = 
+<!-- Politics ----------------->
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+<!-- Area------------------>
+| unit_pref                = Imperial
+| area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 19, 2017}}</ref>
+| area_total_km2           = 22.61
+| area_total_sq_mi         = 8.73
+| area_land_km2            = 22.57
+| area_land_sq_mi          = 8.71
+| area_water_km2           = 0.04
+| area_water_sq_mi         = 0.02
+| area_water_percent       = 0.19
+| area_note                = 
+| elevation_footnotes      = <ref>{{Cite GNIS|1652662|Altadena|access-date=October 19, 2014}}</ref>
+| elevation_m              = 414
+| elevation_ft             = 1358
+<!-- Population   ----------------------->
+| population_footnotes     = <ref>{{cite web |title=American Fact Finder: 2013-2017 American Community Survey 5-Year Estimates |url=https://factfinder.census.gov/faces/tableservices/jsf/pagesproductview.xhtml?src=CF |website=[[US Census Bureau]] |access-date=25 January 2019 }}{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| population_total         = 45,236
+| population_as_of         = 2017
+| population_density_sq_mi = NaN
+| population_note          = 2016 estimate: 45,001
+<!-- General information  --------------->
+| timezone                 = [[Pacific Time Zone|Pacific]]
+| utc_offset               = &minus;8
+| timezone_DST             = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST           = &minus;7
+<!-- Area/postal codes & others -------->
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 91001, 91003
+| area_code                = [[Area code 626|626]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = {{FIPS|06|01290}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info              = {{GNIS 4|1652662}}, {{GNIS 4|2407732}}
+| website                  = 
+| footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = 
+|population_est = N/A
+|population_density_km2 = NaN
+}}

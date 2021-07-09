@@ -1,0 +1,37 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields  that may be available-->
+<!-- Basic info ---------------->| name                            = Hollywood<!-- at least one of the first two fields must be filled in -->
+| official_name                   = 
+| nickname                        = 
+| settlement_type                 = [[List of districts and neighborhoods of Los Angeles|Neighborhood of Los Angeles]] <!-- e.g. Town, Village, City, etc.-->
+| motto                           = <!-- images and maps ----------->
+| image_skyline                   = View from behind Hollywood Sign overlooking LA.jpg
+| image_size                      = 300
+| image_blank_emblem              = 
+| image_caption                   = Hollywood as seen from the [[Hollywood Sign]]
+| image_map                       = Map of Hollywood district, Los Angeles, California.png
+| map_caption                     = Map of the Hollywood neighborhood of Los Angeles <br />as delineated by the ''Los Angeles Times''
+| pushpin_map                     = United States Los Angeles Central
+| pushpin_label_position          = right
+| pushpin_map_caption             = Location within Central Los Angeles
+| pushpin_mapsize                 = 250
+| coordinates                     = {{coord|34|06|06|N|118|19|36|W|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Los Angeles County, California|Los Angeles]]
+| subdivision_type3               = [[List of cities in California|City]]
+| subdivision_name3               = [[Los Angeles]]
+| established_title1              = [[Municipal corporation|Incorporated]]
+| established_date1               = 1903
+| established_title2              = Merged with Los Angeles
+| established_date2               = 1910
+| elevation_footnotes             = <ref>{{Cite GNIS|1660757|Hollywood|access-date=January 7, 2018}}</ref>
+| unit_pref        = US
+| elevation_ft                    = 354
+| elevation_m                     = 108
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 323|323]]
+}}

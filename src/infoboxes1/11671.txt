@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Dhamar
+| native_name             = {{lang-ar|ذَمَار}}
+| native_name_lang        = ar
+| settlement_type         = Governorate
+| image_skyline           = Baynun.jpg
+| image_caption           = Baynun in Al-Hada' District of Dhamar Governorate
+| image_map               = Dhamar in Yemen.svg
+| map_alt                 =
+| map_caption             =
+| coordinates             = {{Coord|15|40|N|43|56|E|region:YE-DH_type:adm1st_source:dewiki|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Yemen]]
+| seat_type               =
+| seat                    = [[Dhamar, Yemen]]
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 9495
+| area_land_km2           =
+| area_water_km2          =
+| population_footnotes    = <ref name=yearbook2011/>
+| population_total        = 1,603,000
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_note         =
+| iso_code                =
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               =
+}}

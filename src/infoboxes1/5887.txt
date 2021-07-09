@@ -1,0 +1,112 @@
+{{Infobox settlement
+|name                          = {{raise|0.2em|Pu'er}}
+|official_name                 = <!-- Official name in English if different from 'name' -->
+|native_name                   = {{lower|0.1em|普洱市}}
+|native_name_lang = zh
+|other_name                    = 
+|settlement_type               = [[Prefecture-level city]]
+|motto                         = 
+<!-- images and maps  ----------->
+|image_skyline                 = 
+|imagesize                     = 
+|image_caption                 = 
+|image_seal                    = 
+|seal_size                     = 
+|image_map                     = Yunnan subdivisions - Pu'er.svg
+|mapsize                       = 
+|map_caption                   = Location of Pu'er City jurisdiction in Yunnan
+|image_map1                    = 
+|mapsize1                      = 
+|map_caption1                  = 
+|image_dot_map                 = 
+|dot_mapsize                   = 
+|dot_map_caption               = 
+|dot_x                         = 
+|dot_y                         = 
+|pushpin_map                   = Yunnan
+|pushpin_label_position        = 
+|pushpin_map_caption           = Location of the city centre in Yunnan
+|pushpin_mapsize               = 
+<!-- Location ------------------>
+| subdivision_type = Country
+|subdivision_name              = [[China|People's Republic of China]]
+|subdivision_type1             = [[Provinces of China|Province]]
+|subdivision_name1             = [[Yunnan]]
+|subdivision_type2             = [[:zh:中华人民共和国行政区划代码|GB/T 2260 CODE]]
+|subdivision_name2             = 530800
+|subdivision_type3             = 
+|subdivision_name3             = 
+|subdivision_type4             = 
+|subdivision_name4             = 
+|seat_type                     = [[Administrative centre|Admin HQ]]
+|seat                          = [[Simao District]]
+|parts_type                    = [[List of administrative divisions of Yunnan|Admin units]]
+|parts_style                   = Coll
+|parts                         = 
+|p1                            = [[Simao District|Simao]]
+|p2                            = [[Ning'er Hani and Yi Autonomous County|Ning'er]]
+|p3                            = [[Mojiang Hani Autonomous County|Mojiang]]
+|p4                            = [[Jingdong Yi Autonomous County|Jingdong]]
+|p5                            = [[Jinggu Dai and Yi Autonomous County|Jinggu]]
+|p6                            = [[Zhenyuan Yi, Hani and Lahu Autonomous County|Zhenyuan]]
+|p7                            = [[Jiangcheng Hani and Yi Autonomous County|Jiangcheng]]
+|p8                            = [[Menglian Dai, Lahu and Va Autonomous County|Menglian]]
+|p9                            = [[Lancang Lahu Autonomous County|Lancang]]
+|p10                           = [[Ximeng Va Autonomous County|Ximeng]]
+<!-- Politics ----------------->
+|government_footnotes          = 
+|government_type               = 
+|leader_title                  = 
+|leader_name                   = 
+|leader_title1                 = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1                  = 
+|leader_title2                 = 
+|leader_name2                  = 
+|leader_title3                 = 
+|leader_name3                  = 
+|leader_title4                 = 
+|leader_name4                  = 
+|established_title             = <!-- Settled -->
+|established_date              = 
+|established_title2            = <!-- Incorporated (town) -->
+|established_date2             = 
+|established_title3            = <!-- Incorporated (city) -->
+|established_date3             = 
+<!-- Area    --------------------->
+|area_magnitude                = 
+|unit_pref                     = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes                = 
+|area_total_km2                = 44,264.79
+|area_land_km2                 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|population_as_of              = 2010
+|population_footnotes          = 
+|population_note               = 
+|population_total              = 2,542,898
+|population_density_km2        = auto
+|population_blank1_title       = 
+|population_blank1             = 
+|population_density_blank1_km2 = 
+|population_blank2_title       = 
+|population_blank2             = 
+<!-- General information  --------------->
+|timezone                      = [[Time in China|China Standard Time]]
+|utc_offset                    = +8
+|coor_pinpoint = [[Simao District]] government
+|coordinates                   = {{coord|22.7868|N|100.9771|E|type:adm2nd_region:CN-53_source:Gaode|format=dms|display=it}}
+|elevation_footnotes           = <ref name = "City Intro"/>
+|elevation_m                   = 1306
+|elevation_max_m               = 3306
+|elevation_min_m               = 376
+<!-- Area/postal codes & others -------->
+|postal_code_type              = [[List of postal codes in China|Postal code]]
+|postal_code                   = 665000
+|area_code                     = [[Telephone numbers in China|0879]]
+|iso_code = [[ISO 3166-2:CN|CN-YN-08]]
+|blank_name                    = [[Vehicle registration plates of China|Licence plate prefixes]]
+|blank_info                    = {{lang|zh-cn|云J}}
+|blank1_name                   = 
+|blank1_info                   = 
+|website = {{URL|www.puershi.gov.cn/}} {{in lang|zh-hans}}
+|footnotes                     = Yunnan Statistics Bureau<ref>{{cite web|language=zh-cn|url=http://www.stats.yn.gov.cn/|script-title=zh:云南省统计局 |publisher=Yunnan Bureau of Statistics|access-date=2009-01-28|archive-url=https://web.archive.org/web/20180312224239/http://www.stats.yn.gov.cn/|archive-date=2018-03-12|url-status=dead}}</ref> Yunnan Portal<ref>{{cite web|language=zh-cn|url=http://www.yn.gov.cn/|script-title=zh:云南省人民政府门户网站|publisher=Yunnan People's Government|access-date=2009-01-28|archive-url=https://web.archive.org/web/20110716142319/http://www.yn.gov.cn/|archive-date=2011-07-16|url-status=dead}}</ref>
+}}

@@ -1,0 +1,90 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->| official_name                   = Goleta, California
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| settlement_type                 = [[City (California)|City in California]]
+<!-- images and maps  ----------->| image_skyline                   = Aerial-GoletaArea.jpg
+| image_caption                   = Aerial photo of the Goleta area from offshore.
+| image_flag                      = 
+| flag_size                       = 
+| image_seal                      = Goleta city seal.jpg
+| nickname                        = The Good Land
+| motto                           = 
+| image_map                       = File:Santa Barbara County California Incorporated and Unincorporated areas Goleta Highlighted 0630378.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location of Goleta in Santa Barbara County, California.
+| pushpin_map                     = California#USA
+| pushpin_map_caption             = Location in the United States
+| pushpin_label                   = Goleta
+| pushpin_label_position          = top
+<!-- Location ------------------>| coordinates                     = {{coord|34|26|26|N|119|48|49|W|region:US_type:city|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Santa Barbara County, California|Santa Barbara]]
+<!-- Politics ----------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = February 1, 2002<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy-all 
+}}</ref>
+| government_footnotes            = 
+| government_type                 = [[Council–manager government|Council–Manager]]<ref name=general>{{Cite web|url=http://www.cityofgoleta.org/city-hall/about-us|title=About Us|publisher=City of Goleta|access-date=July 14, 2017}}</ref>
+| leader_title                    = [[Mayor]]
+| leader_name                     = Paula Perotte<ref>{{cite web|title=Paula Perotte|url=http://www.cityofgoleta.org/city-hall/mayor-and-city-council/paula-perotte|website=City of Goleta|access-date=14 July 2017}}</ref>
+| leader_title1                   = Mayor [[pro tempore|Pro Tem]]
+| leader_name1                    = James Kyriaco<ref>{{cite web|title=James Kyriaco|url=https://www.cityofgoleta.org/city-hall/mayor-and-city-council/james-kyriaco}}</ref>
+| leader_title2                   = [[City council]]
+| leader_name2                    = Roger S. Aceves<ref>{{cite web|title=Roger S. Aceves|url=http://www.cityofgoleta.org/city-hall/mayor-and-city-council/roger-s-aceves|website=City of Goleta|access-date=14 July 2017}}</ref><br />Stuart Kasdin<ref>{{cite web|title=Stuart Kasdin|url=https://www.cityofgoleta.org/city-hall/mayor-and-city-council/stuart-kasdin}}</ref><br />Kyle Richards<ref>{{cite web|title=Kyle Richards|url=https://www.cityofgoleta.org/city-hall/mayor-and-city-council/kyle-richards}}</ref>
+| leader_title3                   = [[California State Legislature|State legislators]]
+| leader_name3                    = [[California's 19th State Senate district|Sen.]] {{Representative|casd|19|fmt=sleader}} <br/> [[California's 37th State Assembly district|Asm.]] {{Representative|caad|37|fmt=sleader}}
+| leader_title4                   = [[California's 24th congressional district|U. S. Rep.]]
+| leader_name4                    = {{Representative|cacd|24|fmt=usleader}}<ref>{{Cite GovTrack|CA|24|access-date=September 29, 2014}}</ref>
+<!-- Area------------------>| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 7.92
+| area_total_km2                  = 20.53
+| area_land_sq_mi                 = 7.85
+| area_land_km2                   = 20.33
+| area_water_sq_mi                = 0.07
+| area_water_km2                  = 0.19
+| area_water_percent              = 0.90
+| area_metro_sq_mi                = 
+| area_metro_km2                  = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1660687|Goleta|access-date=October 18, 2014}}</ref>
+| elevation_ft                    = 20
+| elevation_m                     = 6
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=https://www.census.gov/quickfacts/fact/table/goletacitycalifornia|title=Goleta (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=July 14, 2017}}</ref>
+| population_total                = 29888
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 30911
+| population_density_sq_mi        = 3937.21
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| timezone                        = [[Pacific Time Zone]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+<!-- Area/postal codes & others -------->| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 93111, 93116{{ndash}}93118, 93160, 93199
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 805|805]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|30378}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = {{GNIS 4|1660687}}, {{GNIS 4|2015546}}
+| website                         = {{URL|www.cityofgoleta.org}}
+| population_density_km2          = 1520.16
+| name                            = 
+}}

@@ -1,0 +1,115 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em| Nakanojō}}
+| official_name           = 
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|中之条町}}}}}}   
+| native_name_lang        = ja
+| settlement_type         = [[Towns of Japan|Town]]
+<!-- images, nickname, motto -->
+| image_skyline           = Nakanojo town-office.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Nakanojō town office
+| image_flag              = Flag of Nakanojo Gunma.JPG
+| flag_alt                = 
+| image_seal              = Symbol of Nakanojo Gunma.svg
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| image_blank_emblem      = 
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Nakanojo in Gunma Prefecture Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Nakanojō in Gunma Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp;
+| coordinates             = {{coord|36|35|23.4|N|138|50|27.6|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Kantō region|Kantō]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Gunma Prefecture|Gunma]]
+| subdivision_type3       = [[Districts of Japan|District]]
+| subdivision_name3       = [[Agatsuma District, Gunma|Agatsuma]]
+<!-- established -->
+| established_title       = <!-- Settled -->
+| established_date        = 
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = 
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 439.28
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 15571
+| population_as_of        = August 2020
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Symbols
+| blank_info_sec1         = &nbsp;
+| blank1_name_sec1        = • Tree
+| blank1_info_sec1        = [[Zelkova serrata|''Keyaki'']]
+| blank2_name_sec1        = • Flower
+| blank2_info_sec1        = Mountain [[lily]]
+| blank3_name_sec1        = • Bird
+| blank3_info_sec1        = [[Japanese bush warbler]]
+| blank4_name_sec1        = 
+| blank4_info_sec1        = 
+| blank5_name_sec1        = 
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 0279-75-2111
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1091 Nakanojō, Nakanojō-machi, Agatsuma-gun, Gunma-ken 377-0404
+<!-- website, footnotes -->
+| website                 = {{Official|1=http://www.town.nakanojo.gunma.jp/}}
+| footnotes               = 
+}}

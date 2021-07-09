@@ -1,0 +1,71 @@
+{{Infobox settlement
+|official_name          = Grand Falls
+|other_name             = Grand-Sault
+|nickname               =
+|motto                  = ''Cor Unum''{{spaces|2}}<small>([[Latin]]: "For One Heart")</small>
+|settlement_type        = Town
+|image_skyline          = Grand Falls NB downtown.jpg
+|image_caption          = 
+|image_flag             =
+|image_shield           = Grand falls coat of arms.png
+|shield_size            = 120x90px
+|image_blank_emblem     = Grand Falls Logo.jpg
+|blank_emblem_type      = Logo
+|pushpin_map            = New Brunswick
+|subdivision_type       = Country
+|subdivision_name       = {{CAN}}
+|subdivision_type1      = [[Provinces of Canada|Province]]
+|subdivision_name1      = {{flag|New Brunswick}}
+||subdivision_type2     = [[List of counties of New Brunswick|County]]
+|subdivision_name2      = [[Victoria County, New Brunswick|Victoria County]]
+|subdivision_type3      = [[List of parishes in New Brunswick|Parishes]]
+|subdivision_name3      = [[Grand Falls Parish, New Brunswick|Grand Falls Parish]]
+|government_type        = Town Council
+|leader_title           = Mayor
+|leader_name            = Marcel Deschênes 
+|leader_title1          = Deputy - Mayor
+|leader_name1           = Denise Lagacé-Rioux
+|leader_title2          =  Councillors
+|leader_name2           =
+{{Collapsible list
+  |framestyle=border:none; padding:0; <!--Hides borders and improves row spacing-->
+  |title=List of Members
+  |1=Renaud Ouellette |2=Jean-Maurice Gagnon |3=Michel "Rocky" Ouellette |4=Rino Long |5=Denise Lagacé-Rioux |6=Jean-Réal Michaud
+}}
+|leader_title3          = [[House of Commons of Canada|MP]]
+|leader_name3           = [[Richard Bragdon]] <small>([[Conservative Party of Canada|Con..]])</small>
+|leader_title4          = [[Legislative Assembly of New Brunswick|MLA]]
+|leader_name4           = [[Chuck Chiasson]] <small>([[New Brunswick Liberal Association|Lib.]])</small>
+|established_title      = Settled
+|established_date       = 1791
+|established_title1     = Incorporated
+|established_date1      = April 23, 1890
+|area_magnitude         =
+|area_footnotes         = <ref name="census2016"/>
+|area_total_km2         = 18.09
+|population_as_of       = 2016
+|population_footnotes   = <ref name="census2016">{{cite web |title=Census Profile, 2016 Census: Grand Falls, New Brunswick |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=1312019&Geo2=PR&Code2=01&SearchText=Grand%20falls&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0 |publisher=Statistics Canada |access-date=August 20, 2019}}</ref>
+|population_note        =
+|population_total       = 5,326
+|population_metro       = 
+|population_urban       =
+|population_density_km2 = 294.4
+|timezone               = [[Atlantic Standard Time Zone|Atlantic (AST)]]
+|utc_offset             = −4
+|timezone_DST           = ADT
+|utc_offset_DST         = −3
+|coordinates            = {{coord|format=dms|region:CA-NB|display=inline,title}}
+|elevation_m            = 160
+|website                = {{Official URL}}
+|postal_code_type       = Canadian Postal code
+|postal_code            = [[List of E Postal Codes of Canada|E]]3Z
+|area_code              = [[Area code 506|506]]
+|blank_name             = Telephone Exchange
+|blank_info             = 426, 473, 475, 477, 479, 481, 582
+|blank1_name            = [[National Topographic System|NTS]] Map
+|blank1_info            = 021O04
+|blank2_name            = [[Geographical Names Board of Canada|GNBC]] Code
+|blank2_info            = DAICU
+|footnotes              =
+}} <!-- Infobox ends -->
+

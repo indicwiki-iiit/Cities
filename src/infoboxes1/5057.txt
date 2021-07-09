@@ -1,0 +1,32 @@
+{{Infobox Australian place | type = lga 
+| name     = City of Wanneroo
+| state    = wa
+| image    = Wanneroo LGA WA.png
+| image_upright = 1
+| caption  = 
+| pop      = 188,212
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="Census2016">{{Census 2016 AUS|id=LGA58760 |name=Wanneroo (C) |accessdate=26 November 2017 |quick=on}}</ref>
+| pop2               = 203679
+| pop2_year          = 2018 est.
+| pop2_footnotes     = <ref name=ABS3218.0>{{cite web|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3218.02017-18|title=3218.0 – Regional Population Growth, Australia, 2017-18|publisher=Australian Bureau of Statistics|date=27 March 2019|access-date=31 December 2019}} Estimated resident population (ERP) at 30 June 2018.</ref>
+| poprank  = 27th
+| area     = 685.8
+| est      = 1902
+| seat     = [[Wanneroo]]
+| mayor    = Tracey Roberts
+| region   = North metropolitan [[Perth]]
+| logo     = Wanneroologo2.svg
+| logo_upright   = 1.2
+| url      = http://www.wanneroo.wa.gov.au
+| stategov = [[Electoral district of Wanneroo|Wanneroo]], [[Electoral district of Burns Beach|Burns Beach]], [[Electoral district of Butler|Butler]], [[Electoral district of Girrawheen|Girrawheen]], [[Electoral district of Mirrabooka|Mirrabooka]], [[Electoral district of West Swan|West Swan]]
+| fedgov   = [[Division of Cowan|Cowan]], [[Division of Moore|Moore]], [[Division of Pearce|Pearce]]
+| near-nw  = 
+| near-n   = [[Shire of Gingin|Gingin]]
+| near-ne  = [[Shire of Chittering|Chittering]]
+| near-e   = [[City of Swan|Swan]]
+| near-w   = ''Indian Ocean''
+| near-sw  = 
+| near-s   = [[City of Joondalup|Joondalup]]
+| near-se  = [[City of Stirling|Stirling]]
+}}

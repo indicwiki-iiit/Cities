@@ -1,0 +1,106 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = City of Cotati
+|settlement_type          = [[City (California)|City]]
+|native_name              = <!-- for cities whose native name is not in English -->
+<!-- Images and maps ------>
+|image_skyline            = Photo-CA-cotati.jpg
+|image_caption            = Cotati downtown scene
+|image_seal               = 
+|seal_size                = 
+|image_blank_emblem       = CotatiLogoEd2664.jpg
+|blank_emblem_type        = [[Logo]]
+|nickname                 = The Hub of Sonoma County<ref>Draper, p. 8</ref>
+|motto                    = 
+|image_map                = File:Sonoma County California Incorporated and Unincorporated areas Cotati Highlighted 0616560.svg
+|map_caption              = Location of Cotati in Sonoma County, California
+|image_map1               = CotatiCensusMap76485024.png
+|map_caption1             = City boundaries as of 2000
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief = 1
+<!-- Location ------------->
+|coordinates              = {{coord|38|19|40|N|122|42|33|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS/>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Sonoma County, California|Sonoma]]
+<!-- History -------------->
+|established_title        = <!-- Founded -->
+|established_date         = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = July 16, 1963<ref name="CalAFCo">{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=July 2, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+|named_for                = Rancho Cotate
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = [[Mayor]]
+|leader_name              = John C. Moore<ref name=cityCouncil/>
+|leader_title2            = [[City manager]]
+|leader_name2             = Damien O'Bid<ref name=cityManager>{{Cite web
+ | url = http://ci.cotati.ca.us/sections/departments/
+ | title = City Manager / City Clerk
+ | publisher = City of Cotati
+ | access-date = May 16, 2015}}</ref>
+<!-- Area ----------------->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 1.88
+|area_total_km2           = 4.86
+|area_land_sq_mi          = 1.87
+|area_land_km2            = 4.85
+|area_water_sq_mi         = 0.00
+|area_water_km2           = 0.01
+|area_water_percent       = 0.17
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref name=GNIS>{{Cite GNIS|2410240|City of Cotati|access-date=February 25, 2015}}</ref>
+|elevation_ft             = 112
+|elevation_m              = 34
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_note          = [[California Department of Finance]] estimate
+|population_footnotes     = <ref name=DoF>{{Cite web
+ | url = http://www.dof.ca.gov/Forecasting/Demographics/Estimates/e-1/
+ | access-date = November 27, 2016
+ | title = E-1 Population Estimates for Cities, Counties, and the State — January 1, 2015 and 2016
+ | date = May 2016
+ | publisher = California Department of Finance}}</ref>
+|population_total         = 7265
+|population_density_sq_mi = 3954.11
+|population_demonym       = Cotatian
+<!-- Time zone ------------>
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s<ref>{{Cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 20, 2014}}</ref>
+|postal_code              = 94926–94928, 94931
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|16560}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1655927}}, {{GNIS 4|2410240}}
+|website                  = {{URL|ci.cotati.ca.us}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 7410
+|population_density_km2 = 1526.38
+}}

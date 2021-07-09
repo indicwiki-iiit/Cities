@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- curious info  ------>| name                            = Los Gatos, California
+| official_name                   = Town of Los Gatos
+| other_name                      = 
+| settlement_type                 = [[Town (California)|Town]]
+| image_skyline                   = La Canada Building.jpg
+| image_caption                   = La Cañada Building in April 2016
+| image_flag                      = Flag of Los Gatos, California.png
+| flag_size                       = 
+| image_seal                      = Seal of Los Gatos, California.png
+| seal_size                       = 
+| nickname                        = 
+| motto                           = <!-- images and maps  ----------->
+| image_map                       = Santa Clara County California Incorporated and Unincorporated areas Los Gatos Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Santa Clara County, California|Santa Clara County]] and the U.S. state of [[California]]
+| pushpin_map                     = San Francisco Bay Area#California#USA
+| pushpin_label                   = Los Gatos
+| pushpin_map_caption             = Location in the United States
+| pushpin_relief                  = 1
+<!-- Location ------------------>
+| coordinates                     = {{coord|37|14|10|N|121|57|42|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name1               = [[California]]
+| subdivision_name2               = [[Santa Clara County, California|Santa Clara]]
+<!-- Politics ----------------->
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = August 10, 1887<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=February 21, 2013 
+}}</ref>
+<!-- Area------------------>
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Marcia Jensen<ref>{{Cite web
+ | url = http://www.losgatosca.gov/16/Town-Council
+ | title = Town Council
+ | publisher = Los Gatos
+ | access-date = April 5, 2019}}</ref>
+| leader_title1                   = [[Town Manager]]
+| leader_name1                    = Laurel Prevetti<ref>{{Cite web
+ | url = http://www.losgatosca.gov/423/About-Town-Manager
+ | title = About Town Manager
+ | publisher = Los Gatos, CA
+ | access-date = December 14, 2014}}</ref>
+|total_type                  = Total
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 29.64
+| area_total_sq_mi                = 11.44
+| area_land_km2                   = 29.43
+| area_land_sq_mi                 = 11.36
+| area_water_km2                  = 0.21
+| area_water_sq_mi                = 0.08
+| area_water_percent              = 0.71
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| elevation_footnotes             = <ref>{{Cite GNIS|1659017|Los Gatos|access-date=November 2, 2014}}</ref>
+| elevation_m                     = 105
+<!-- Population ----------->
+| elevation_ft                    = 344
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0644112.html|title=Los Gatos (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 30, 2015|url-status=dead|archive-url=https://web.archive.org/web/20120819083931/http://quickfacts.census.gov/qfd/states/06/0644112.html|archive-date=August 19, 2012|df=mdy-all}}</ref>
+| population_total                = 29413
+| population_density_sq_mi        = 2659.68
+| population_est                  = 30222
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 95030{{ndash}}95033
+| area_code                       = [[Area codes 408 and 669|408/669]]
+| area_code_type                  = [[North American Numbering Plan|Area codes]]
+| website                         = {{URL|www.losgatosca.gov}}
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = {{FIPS|06|44112}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1659017}}, {{GNIS 4|2412917}}
+| population_density_km2          = 1026.95
+}}

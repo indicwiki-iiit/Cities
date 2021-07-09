@@ -1,0 +1,89 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+<!-- Basic info  ---------------->
+|name = Belmont, California
+|official_name            = City of Belmont
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[List of municipalities in California|City]]
+|motto                    = <!-- images and maps  ----------->
+|image_skyline            = Aerial view of Belmont, September 2019.JPG
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Seal of Belmont, California.png
+|seal_size                = 
+|image_blank_emblem       = 
+|image_map                = File:San Mateo County California Incorporated and Unincorporated areas Belmont Highlighted 0605108.svg
+|map_caption              = Location of Belmont in San Mateo County, California
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+| subdivision_name        = United States
+| subdivision_type1       = [[U.S. state|State]]
+| subdivision_name1       = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Mateo County, California|San Mateo]]
+<!-- Politics ----------------->
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Charles Stone<ref>{{cite web|title=City Council - City of Belmont|url=https://www.belmont.gov/our-city/city-government/council-commissions-committees-boards/city-council|access-date=Dec 21, 2019}}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = October 29, 1926<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 4.64
+| area_land_sq_mi         = 4.63
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 12.01
+| area_land_km2           = 11.99
+| area_water_km2          = 0.02
+| area_water_percent      = 0.19
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1658029|Belmont|access-date=October 20, 2014}}</ref>
+|elevation_ft             = 43
+|elevation_m              = 13
+<!-- Population ----------->
+|population_as_of        = [[2010 United States Census|2010]]
+|population_footnotes    = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0605108.html|title=Belmont (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 31, 2015|archive-url=https://web.archive.org/web/20150402152520/http://quickfacts.census.gov/qfd/states/06/0605108.html|archive-date=April 2, 2015|url-status=dead|df=mdy-all}}</ref>
+|population_total        = 25835
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 26941
+|population_density_sq_mi = 5820.05
+|population_metro         = 
+|population_density_metro_sq_mi = <!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              = {{coord|37|31|5|N|122|17|30|W|region:US-CA|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 94002
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 650|650]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|05108}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1658029}}, {{GNIS 4|2409826}}
+|website                  = {{URL|www.belmont.gov}}
+|population_density_km2 = 2246.92
+}}

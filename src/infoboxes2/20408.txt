@@ -1,0 +1,75 @@
+{{Infobox settlement
+|official_name            = Milton Township
+|settlement_type          = [[Civil township|Township]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Map highlighting Milton Township, DuPage County, Illinois.svg
+|mapsize                  = 
+|map_caption              = Location in DuPage County
+|image_map1               = Map of Illinois highlighting DuPage County.svg 
+|mapsize1                 = 150px 
+|map_caption1             = DuPage County's location in Illinois
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Illinois}}
+|subdivision_type2        = [[List of counties in Illinois|County]]
+|subdivision_name2        = [[DuPage County, Illinois|DuPage]]
+|government_footnotes     = 
+|government_type          = [[List of Illinois townships|Illinois Township]]
+|leader_title             = Supervisor
+|leader_name              = O. Chris Heidorn
+|leader_title1            = Assessor     
+|leader_name1             = Chris E. LeVan
+|established_title        = '''Settled'''
+|established_date         = {{start date|1849|11|06}}
+
+<!-- Area -->
+|area_footnotes           = 
+|area_magnitude           = 
+|unit_pref                = Imperial
+|area_total_sq_mi         = 35.27
+|area_land_sq_mi          = 34.36
+|area_water_sq_mi         = 0.92
+|area_water_percent       = 2.61
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 117067
+|population_density_sq_mi = 3407.4
+
+<!-- General information -->
+|elevation_footnotes      = 
+|elevation_m              = 235
+|elevation_ft             = 771
+|coordinates              = {{coord|41|51|31|N|88|05|22|W|region:US-IL|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|timezone                 = [[North American Central Time Zone|CST]]
+|utc_offset               = -6
+|timezone_DST             = [[North American Central Time Zone|CDT]]
+|utc_offset_DST           = -5
+|postal_code_type         = ZIP Codes
+|postal_code              = 60137, 60139, 60148, 60187, 60188, 60189, 60190, 60515, 60563
+|area_code_type           = Area codes
+|area_code                = [[Area codes 630 and 331|630, 331]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 17-043-49451
+|website                  = {{URL|https://miltontownship.net/}}
+|footnotes                = 
+|pop_est_as_of = 2018
+|pop_est_footnotes = <ref name="USCensusEst2018"/>
+|population_est = 117475
+}}

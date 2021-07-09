@@ -1,0 +1,52 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name                   = Vidin
+| native_name                     = {{native name|bg|Видин|italics=off}}
+| native_name_lang                = bg
+| image_skyline                   = {{Photomontage|position=center
+|photo1a = Baba Vida Castle (27379217451).jpg
+|photo2a = Theater House in Vidin (27460729905).jpg
+|photo2b = Antifascist monument reliefs Vidin.jpg
+|photo3a = Видин, май 2013 - panoramio (51).jpg
+|photo3b = Видин, май 2013 - panoramio (5).jpg
+|photo4a = Vidin St Demetrius Cathedral 2.jpg
+|photo4b = Видин, май 2013 - panoramio (63).jpg
+|photo5a = Most-Vidin-2012.jpg
+|size = 270
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+|foot_montage = }}
+| image_caption                   = Vidin
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = [[Bulgaria]]
+| subdivision_type1               = [[Provinces of Bulgaria|Province]]<br /><small>(Oblast)</small>
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+| pushpin_map                     = Bulgaria
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = Location of Vidin
+| pushpin_mapsize                 = 
+| leader_title                    = Mayor
+| population_demonym              = Vidinite
+| postal_code_type                = [[List of postal codes in Bulgaria|Postal Code]]
+| subdivision_name1               = [[Vidin Province|Vidin]]
+| image_shield                    = Coat of arms of Vidin.svg
+| population_total                = 48,071
+| population_urban                = 63,257
+| population_footnotes            = <ref name="census 2011"/>
+| population_as_of                = <small>Census February 2011</small>
+| elevation_m                     = 34
+| postal_code                     = 3700
+| area_code                       = 094
+| coordinates                     = {{coord|44|00|N|22|52|E|region:BG|display=inline,title}}
+| leader_name                     = Tsvetan Tsenkov
+| image_map                       = Vidin Province, Bulgaria.jpg
+| map_caption                     = Location of [[Vidin Province]] in [[Bulgaria]]
+| area_total_km2                  = 63.218
+| population_density_km2          = auto
+| website                         = [http://vidin.bg/?lang=en Official website]
+| name                            = 
+| settlement_type                 = [[List of cities and towns in Bulgaria|Town]]
+}}

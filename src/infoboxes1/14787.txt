@@ -1,0 +1,91 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                    = Ranilug
+| native_name             = Ранилуг{{native name|sr|/Ranilug}}<br>''Ranillug'' or {{native name|sq|Ranillugu}}
+| native_name_lang        = sr
+| other_name              = 
+| settlement_type         = [[List of cities in Kosovo|Village]] and [[Municipalities of Kosovo|municipality]]
+| official_name           = 
+<!-- images and maps  ----------->
+| image_skyline          = 
+| imagesize              = 
+| image_caption          = 
+| image_flag             = 
+| flag_size              = 
+| image_seal             = 
+| seal_size              = 
+| image_shield           = 
+| shield_size            = 
+| image_blank_emblem     = Stema e Komunës Ranillug.svg
+| blank_emblem_type      = Emblem
+| blank_emblem_size      = 
+| image_map              = File:Ranillug in Kosovo.svg
+| mapsize                = 
+| map_caption            = Location of the municipality of Ranilug within Kosovo
+| pushpin_map            = 
+| pushpin_label_position = 
+| pushpin_mapsize        = 
+| pushpin_map_caption    = 
+<!-- Location ------------------>
+| subdivision_type       = Country
+| subdivision_name       = [[Kosovo]]{{efn|name=status}}
+| subdivision_type1      = [[Districts of Kosovo|District]]
+| subdivision_name1      = [[District of Gjilan]]
+| subdivision_type2      = Settlements
+| subdivision_name2      = 12
+<!-- Politics ----------------->
+| government_footnotes   = 
+| government_type        = 
+| leader_title           = Provisional president
+| leader_name            = Vladica Aritonović
+| leader_party           = [[Serb List (Kosovo)|GIS]]
+| established_title      = Municipality
+| established_date       = 5 January 2010
+<!-- Area    --------------------->
+| area_magnitude         = 
+| unit_pref                = 
+| area_footnotes           =
+| area_total_km2           = 77.62
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2           =
+| area_total_sq_mi         =
+| area_land_sq_mi          =
+| area_water_sq_mi         =
+| area_water_percent       =
+| area_metro_km2           =
+| area_metro_sq_mi         =
+<!-- Population   ----------------------->
+| population_as_of               = 2015
+| population_footnotes           =
+| population_note                = est.
+| population_total               = 5,800
+| population_density_km2         = auto
+| population_density_sq_mi       = 
+| population_metro               =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_urban               =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+<!-- General information  --------------->
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| coordinates            = {{coord|42|29|31.194|N|21|33|32.4|E|type:city(50000)_region:CS|display=inline,title}}
+| elevation_footnotes    = <!--for references: use <ref> tags-->
+| elevation_m            = 603
+| elevation_ft           =
+<!-- Area/postal codes & others -------->
+| postal_code_type       = Postal code
+| postal_code            = 38267
+| area_code              = +383(0)280
+| blank_name             = [[Vehicle registration plates of Kosovo|Car plates]]
+| blank_info             = 
+| blank1_name            =
+| blank1_info            =
+| website                = {{url|http://kk.rks-gov.net/ranillug}}
+| footnotes              =
+}}

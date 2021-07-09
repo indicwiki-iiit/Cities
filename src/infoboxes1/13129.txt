@@ -1,0 +1,75 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Minas Gerais
+| official_name                   = ''Estado de Minas Gerais''<br/>State of Minas Gerais
+| native_name                     =
+| native_name_lang                = pt<!-- ISO 639-2 code e.g. "fr" for French. -->
+| settlement_type                 = [[States of Brazil|State]]
+| image_skyline                   = 
+| image_alt                       = 
+| image_caption                   = 
+| image_flag                      = Bandeira de Minas Gerais.svg
+| flag_alt                        = 
+| image_shield                    = Brasão de Minas Gerais.svg
+| shield_alt                      = 
+| nickname                        = 
+| motto                           = ''Libertas Quæ Sera Tamen'' <small>([[Latin language|Latin]])<br/>"Freedom albeit Late"</small>
+| anthem                          = [[:pt:Hino de Minas Gerais|Hino de Minas Gerais]] <center>[[File:HINO DE MINAS GERAIS.wav]]</center>
+| image_map          =   Minas Gerais in Brazil.svg
+| map_alt            = 
+| map_caption        = Location of the state of Minas Gerais in Brazil
+| coordinates        = {{coord|19|49|S|43|57|W|type:adm1st_region:BR-MG|display=inline,title}}
+| coor_pinpoint     = 
+| coordinates_footnotes          = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Brazil|size=23px}}
+| established_title               = 
+| established_date                = 
+| founder                         = 
+| seat_type                       = [[Capital (political)|Capital]] and largest city
+| seat                            = {{flagicon image|Bandeira de Belo Horizonte.svg|size=23px}} [[Belo Horizonte]]
+| government_footnotes            = 
+| leader_title                    = [[Governor (Brazil)|Governor]]
+| leader_name                     = [[Romeu Zema]] ([[New Party (Brazil)|NOVO]])
+| leader_title1                   = Vice Governor
+| leader_name1                    = Paulo Brant  (Non Affiliated)
+| leader_title2                   = [[Brazilian Senate|Senators]]
+| leader_name2                    = [[Antonio Anastasia]] ([[Brazilian Social Democracy Party|PSDB]])<br>{{ill|Carlos Viana|pt}} ([[Social Democratic Party (Brazil, 2011)|PSD]])<br>[[Rodrigo Pacheco (politician)|Rodrigo Pacheco]] ([[Democrats (Brazil)|DEM]])
+| unit_pref                       = Metric<!-- or US or UK -->
+| area_footnotes                  = 
+| area_magnitude                  = 1 E10
+| area_total_km2                  = 586528.29
+| area_rank                       = [[List of Brazilian states by area|4th]]
+| elevation_footnotes             = 
+| elevation_m                     = 
+| population_footnotes            = <ref>{{cite web|url=http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm |title=Instituto Brasileiro de Geografia e Estatística |publisher=IBGE |date=2012-08-31 |access-date=2013-06-08}}</ref><ref name="IBGE MG">{{cite web|title=Minas Gerais|url=http://www.ibge.gov.br/estadosat/perfil.php?sigla=mg|website=IBGE|publisher=IBGE|access-date=16 January 2016}}</ref>
+| population_total                = 19,597,330
+| population_as_of                = 2007
+| population_est                  = 21,168,791
+| pop_est_as_of                   = 2019
+| population_rank                 = [[List of Brazilian states by population|2nd]]
+| population_density_km2          = auto
+| population_density_rank         = [[List of Brazilian states by population density|14th]]
+| population_demonym              = Mineiro
+| population_note                 = 
+| demographics_type1              = [[Gross domestic product|GDP]]
+| demographics1_footnotes         = <!-- for references: use <ref> tags -->
+| demographics1_title1            = Year
+| demographics1_info1             = 2015&nbsp;estimate
+| demographics1_title2            = Total
+| demographics1_info2             = US$280 billion (PPP) US$157.374 billion (nominal) ([[List of Brazilian states by gross domestic product|3rd]])
+| demographics1_title3            = Per capita
+| demographics1_info3             = US$13,267 (PPP) US$7,458 (nominal) ([[List of Brazilian states by gross domestic product|11th]])
+| demographics_type2              = [[Human Development Index|HDI]]
+| demographics2_footnotes         = <!-- for references: use <ref> tags -->
+| demographics2_title1            = Year
+| demographics2_info1             = 2017
+| demographics2_title2            = Category
+| demographics2_info2             = 0.787<ref name="PNUD_2017">{{Cite web|url=http://atlasbrasil.org.br/2013/data/rawData/Radar%20IDHM%20PNADC_2019_Book.pdf|title=Radar IDHM: evolução do IDHM e de seus índices componentes no período de 2012 a 2017|publisher=PNUD Brasil|language=pt|access-date=18 April 2019|archive-date=15 July 2019|archive-url=https://web.archive.org/web/20190715184118/http://atlasbrasil.org.br/2013/data/rawData/Radar%20IDHM%20PNADC_2019_Book.pdf|url-status=dead}}</ref> – <span style="color:#0c0">high</span> ([[List of Brazilian states by Human Development Index|6th]])
+| postal_code_type                = Postal Code
+| postal_code                     = 30000-000 to 39990-000
+| timezone1                       = [[Time in Brazil|BRT]]
+| utc_offset1                     = -3
+| iso_code                        = [[ISO 3166-2:BR|BR-MG]]
+| website                         = [http://www.mg.gov.br/ mg.gov.br]
+| footnotes                       = 
+}}

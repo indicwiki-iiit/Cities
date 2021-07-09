@@ -1,0 +1,59 @@
+{{Infobox settlement |
+official_name = [https://banos-ecuador.com/ Baños de Agua Santa]|
+nickname = Baños|
+<!-- images and maps  ----------->
+|image_skyline          = Baños, Ecuador.JPG
+|imagesize              = 
+|image_caption          = Baños from the east
+|image_flag             = Bandera de Baños.png
+|flag_size              = 100px
+|image_seal             = 
+|seal_size              = 80px
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =Ecuador <!-- name of a location map as per Template:Location_map -->
+|pushpin_label_position = <!-- position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_type1      = [[Provinces of Ecuador|Province]]
+|subdivision_type2      = [[Cantons of Ecuador|Canton]]
+|subdivision_name       = [[Ecuador]]
+|subdivision_name1      = [[Tungurahua Province|Tungurahua]]
+|subdivision_name2      = [[Baños Canton|Baños]]
+<!-- Politics ----------------->
+|government_type=Mayor and council
+|leader_title = [[Mayor]]
+|leader_name = [[Marlon Fabricio Guevara Silva]]
+<!-- Elevation -------------------------->
+|elevation_footnotes = <!-- for references: use<ref></ref> tags -->
+|elevation_m = 1820
+|elevation_ft = 5971
+<!-- Population ----------------------->
+|population_as_of = 2010
+|population_total = 14,653<ref>[http://redatam.inec.gob.ec/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CPV2010&MAIN=WebServerMain.inl Ecuadorian National Institute of Statistics and Census]</ref> |
+|population_blank1_title=[[Demonym]]
+|population_blank1=Baneño(-a)
+<!-- General information --------------->
+|timezone = [[Ecuador Time|ECT]]
+|utc_offset = -5
+|coordinates            = {{coord|1|23|47|S|78|25|29|W|region:EC|display=inline,title}}
+|area_code=(0)3
+|blank_name = [[Köppen climate classification|Climate]]
+|blank_info = [[Oceanic climate|Cfb]]
+|website = {{URL|http://www.municipiobanos.gob.ec/}}
+}}

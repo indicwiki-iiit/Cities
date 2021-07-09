@@ -1,0 +1,45 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Nagyatád
+| settlement_type        = [[List of cities and towns of Hungary|Town]]
+| image_skyline          = Henészi kápolna, Nagyatád.jpg
+| image_caption          = Chapel of Henész in Nagyatád
+| image_shield           = HUN Nagyatád Címer.svg
+| image_flag             = Flag of Nagyatád.svg
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{HUN}}
+| subdivision_type1      = [[List of regions of Hungary|Region]]
+| subdivision_name1      = [[Southern Transdanubia]]
+| subdivision_type2      = [[Counties of Hungary|County]]
+| subdivision_name2      = [[Somogy County|Somogy]]
+| subdivision_type3      = [[Districts of Hungary|District]]
+| subdivision_name3      = [[Nagyatád District|Nagyatád]]
+| subdivision_type4      = [[List of Catholic dioceses in Hungary|RC Diocese]]
+| subdivision_name4      = [[Roman Catholic Diocese of Kaposvár|Kaposvár]]
+| leader_title           = Mayor
+| leader_name            = ''István Ormai'' (''Nagyatádért'')
+| area_total_km2         = 70.6
+| population_total       = 10348<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=17941 Nagyatád, KSH]</ref>
+| population_as_of       = 2017
+| population_density_km2 = auto
+| population_demonym     = nagyatádi
+| postal_code_type       = [[Postal codes in Hungary|Postal code]]
+| postal_code            = 7500
+| area_code_type         = [[Telephone numbers in Hungary|Area code]]
+| area_code              = (+36) 82
+| website                = {{URL|http://www.nagyatad.hu/|Nagyatád Online}}
+| pushpin_map            = Hungary Somogy#Hungary
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location of Nagyatád
+| pushpin_mapsize        = 
+| coordinates            = {{coord|46.22265|17.36428|region:HU|display=inline,title}}
+| blank_name             = [[Patron Saint]]
+| blank_info             = [[Saint Roch]]
+| blank4_name_sec1       = [[NUTS statistical regions of Hungary|NUTS 3 code]]
+| blank4_info_sec1       = HU232
+| blank5_name_sec2       = [[List of members of the National Assembly of Hungary (2018–22)|MP]]
+| blank5_info_sec2       = [[László Szászfalvi]] ([[KDNP]])
+}}

@@ -1,0 +1,95 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info ---------------->
+|name                       = {{raise|0.2em|Fushun}}
+|official_name              = 
+|native_name                = {{lower|0.1em|抚顺市}}
+|native_name_lang           = zh-Hans
+|nickname                   = 
+|other_name                 = 
+|settlement_type            = [[Prefecture-level city]]
+|total_type                 = <!-- to set a non-standard label for total area and population rows -->
+|motto                      = 
+<!-- images and maps ----------->
+|image_skyline              = Fushun Skyline.jpg
+|image_caption              = Fushun Skyline
+|image_seal                 = 
+|seal_size                  = 
+|image_shield               = 
+|shield_size                = 
+|image_map                  = Location of Fushun Prefecture within Liaoning (China).png
+|map_caption                = Fushun administrative area in Liaoning
+|pushpin_map                = Liaoning
+|pushpin_map_caption        = Location of the city center in Liaoning
+|pushpin_mapsize            = 
+<!-- Location ------------------>
+|subdivision_type           = Country
+|subdivision_name           = People's Republic of China
+|subdivision_type1          = [[Province of China|Province]]
+|subdivision_name1          = [[Liaoning]]
+|subdivision_type2          = 
+|subdivision_name2          = 
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type                  = Municipal seat
+|seat                       = 
+|parts_type                 = Districts and counties
+|parts_style                = coll
+|parts                      = <!-- parts text, or header for parts list -->
+|p1                         = Shuncheng District
+|p2                         = Xinfu District
+|p3                         = Dongzhou District
+|p4                         = Wanghua District
+|p5                         = Fushun County
+|p6                         = Xinbin Manchu Autonomous County
+|p7                         = Qingyuan Manchu Autonomous County
+<!-- Politics ----------------->
+|government_footnotes       = 
+|government_type            = 
+|leader_title               = [[Communist Party of China|CPC]] Fushun
+|leader_name                = Committee Secretary
+|leader_title1              = Mayor
+|leader_name1               = 
+|established_title          = <!-- Settled -->
+|established_date           = 
+<!-- Area --------------------->
+|unit_pref                  = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes             = 
+|area_total_km2             = 11272
+|area_land_km2              = 
+|area_water_km2             = 
+|area_water_percent         = 
+|area_blank1_title          = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+|area_blank1_km2            = 1409.8
+|area_urban_km2             = 605.50
+|area_urban_footnotes       = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref><!-- Elevation -------------------------->
+|elevation_footnotes        = <!--for references: use <ref> tags-->
+|elevation_m                = 
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population ----------------------->
+|population_as_of           = 2012
+|population_footnotes       = 
+|population_note            = 
+|population_total           = 2,193,000
+|population_density_km2     = auto<!--For automatic calculation, any density field may contain: auto -->
+|population_blank1_title    = Districts<ref name="CUCSY_2017"/>
+|population_blank1          = 1429000
+|population_urban           = 1307200
+|population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information --------------->
+|timezone                   = [[China Standard Time|China Standard]]
+|utc_offset                 = +8
+|coordinates                = {{coord|41.881|N|123.957|E|type:adm2nd_region:CN-21_source:Gaode|format=dms|display=it}}
+|coor_pinpoint              = Fushun municipal government
+<!-- Area/postal codes & others -------->
+|postal_code_type           = [[Postal code of China|Postal code]]
+|postal_code                = 113000
+|area_code                  = [[Telephone numbers in China|24]]
+|blank_name                 = [[Vehicle registration plates of China|Licence plates]]
+|blank_info                 = {{lang|zh-cn|辽D}}
+|blank1_name                = [[Administrative division codes of the People's Republic of China|Administrative division code]]
+|blank1_info                = 210400
+|iso_code                   = [[ISO 3166-2:CN|CN-LN-04]]
+|website                    = [http://www.fushun.gov.cn www.fushun.gov.cn] <br /> [http://www.fsgs.gov.cn www.fsgs.gov.cn]
+|footnotes                  = 
+}}

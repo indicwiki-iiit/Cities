@@ -1,0 +1,43 @@
+{{Infobox settlement
+|settlement_type        =[[City of regional significance (Ukraine)|City of regional significance]]
+|name                   =Pervomaiskyi
+|native_name            =Первомайський
+|founded                =1869
+|nickname               = [[Likhachova]]
+|image_skyline                  =Likhachove South Railway UZ (SU-HS) 20.10.2018 Station 2.jpg
+|imagesize              = 250px
+|image_caption          = Railway station
+|image_flag             = 1may har prapor.png
+|image_shield           = 1may har gerb.png
+|shield_size            = 90px
+|<!-- Location ------------------>
+|coordinates            = {{coord|49|23|13|N|36|12|51|E|region:UA|display=inline}}
+|subdivision_type       = Country
+|subdivision_name       = Ukraine
+|subdivision_type1      = [[Oblasts of Ukraine|Oblast]]
+|subdivision_name1      = Kharkiv Oblast
+|pushpin_map            = Ukraine Kharkiv Oblast
+
+<!-- Area    --------------------->
+|area_total_km2           =30.8
+
+<!-- Population   ----------------------->
+|population_as_of               =2020
+|population_footnotes           =
+|population_note                =
+|population_total               =29059<ref>[http://kh.ukrstat.gov.ua/index.php/chyselnist-naselennia-shchomisiachna-informatsiia Чисельність населення (за оцінкою) на 1 листопада 2020 року] // Головне управління статистики у Харківській області</ref>
+
+<!-- General information  --------------->
+|timezone               = [[Eastern European Time|CET]]
+|utc_offset             = +2
+|timezone_DST           = [[Eastern European Summer Time|CEST]]
+|utc_offset_DST         = +3
+| leader_title            = Mayor
+| leader_name = Mykola Baksheev<ref name="tyzhden249674"/>
+| leader_party            = [[All-Ukrainian Union "Fatherland"|Fatherland]]<ref name="tyzhden249674">{{in lang|uk}} {{Cite web|url=https://m.tyzhden.ua/publication/249674|title=Elections in Kharkiv Region: Kernes' Son in the Regional Council and Local Success "Servants of the People"|date=2020-11-11|website=[[The Ukrainian Week]]|access-date=2020-11-11}}</ref>
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 64102-6
+|area_code              = +380-5748
+|website                ={{url|pervom-rada.gov.ua/}}
+}}

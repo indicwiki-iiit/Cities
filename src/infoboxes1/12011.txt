@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+|name                     = Gilroy, California
+|settlement_type          = [[City (California)|City]]
+|official_name            = City of Gilroy
+<!-- images and maps  ----------->
+|image_skyline            = Old City Hall, 7410 Monterey St., Gilroy, CA 9-23-2012 3-25-51 PM.JPG
+|imagesize                =
+|image_caption            = Old City Hall in Downtown Gilroy
+|image_flag               = Flag of Gilroy, California.png
+|image_seal               = Seal of Gilroy, California.svg
+|nickname                 = 
+|motto                    = 
+|image_map                = File:Santa Clara County California Incorporated and Unincorporated areas Gilroy Highlighted 0629504.svg
+|mapsize                  = 250px
+|map_caption              = Location of Gilroy in Santa Clara County, California
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|coordinates              = {{coord|37|0|43|N|121|34|48|W|region:US-CA|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Santa Clara County, California|Santa Clara]]
+|subdivision_type3        = [[Combined Statistical Area|CSA]]
+|subdivision_name3        = [[San Jose-San Francisco-Oakland, CA Combined Statistical Area|San Jose-San Francisco-Oakland]]
+|subdivision_type4        = [[Metropolitan statistical area|Metro]]
+|subdivision_name4        = [[San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area|San Jose-Sunnyvale-Santa Clara]]
+<!-- History -------------->
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = March 12, 1870<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+|named_for                = John Gilroy
+<!-- Government ----------->
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Marie Blankley<ref>{{Cite web
+ |url=http://cityofgilroy.org/341/City-Council
+}}</ref>
+|leader_title1            = [[City manager|City administrator]]
+|leader_name1             = Gabriel Gonzalez<ref>{{Cite web
+ |url=http://www.cityofgilroy.org/cityofgilroy/city_hall/administration/city_administrator/default.aspx 
+ |title=City Administrator 
+ |publisher=City of Gilroy 
+ |access-date=January 21, 2015 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20150306085408/http://www.cityofgilroy.org/cityofgilroy/city_hall/administration/city_administrator/default.aspx 
+ |archive-date=March 6, 2015 
+ |df=mdy 
+}}</ref>
+<!-- Area------------------>
+|total_type               = [[City (California)|City]]
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 16.52
+|area_total_km2           = 42.78
+|area_land_sq_mi          = 16.51
+|area_land_km2            = 42.75
+|area_water_sq_mi         = 0.01
+|area_water_km2           = 0.03
+|area_water_percent       = 0.06
+|area_metro_km2           = 6979
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|277523|Gilroy|access-date=October 7, 2014}}</ref>
+|elevation_ft             = 200
+|elevation_m              = 61
+<!-- Population   ----------------------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0629504.html|title=Gilroy (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=September 13, 2016|archive-url=https://web.archive.org/web/20160121122735/http://quickfacts.census.gov/qfd/states/06/0629504.html|archive-date=January 21, 2016|url-status=dead}}</ref>
+|population_total         = 48821
+|pop_est_as_of           = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 59032
+|population_density_km2   = 1380.75
+|population_metro         = 1836911
+|population_density_metro_km2 = auto
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone]]
+|utc_offset               = &minus;8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = &minus;7
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95020, 95021
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area codes 408 and 669|408/669]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|29504}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277523}}, {{GNIS 4|2410591}}
+|website                  = {{URL|www.ci.gilroy.ca.us}}
+|footnotes                = 
+|population_density_sq_mi = 3576.18
+}}
+<!-- Infobox ends -->
+

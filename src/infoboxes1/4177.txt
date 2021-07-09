@@ -1,0 +1,87 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+| name                            = Palm Bay, Florida
+| official_name                   = City of Palm Bay
+| settlement_type                 = [[City]]
+| image_skyline                   = PalmBayFL2020.png
+| imagesize                       = 280px
+| image_caption                   = Top, left to right: Palm Bay, Palm Bay City Hall, Palm Bay overpass sign on [[Interstate 95]], [[Turkey Creek (Indian River tributary)|Turkey Creek]]
+| image_flag                      = Flag of the City of Palm Bay, Florida.svg
+| flag_size                       = 
+| image_seal                      = Seal of Palm Bay, Florida.png
+| seal_size                       = 
+| image_shield                    = 
+| shield_size                     = 
+| image_blank_emblem              = 
+| blank_emblem_type               = 
+| blank_emblem_size               = 
+| motto                           = "A perfect place to grow!"<ref name="About Palm Bay">[http://www.palmbayflorida.org/citycouncil/about/emb.html City Council/City Clerk - City Emblems] {{Webarchive|url=https://web.archive.org/web/20130821132240/http://palmbayflorida.org/citycouncil/about/emb.html |date=2013-08-21 }}, Palm Bay City Emblems.</ref>
+<!-- images and maps  ----------->
+| image_map                       = Brevard_County_Florida_Incorporated_and_Unincorporated_areas_Palm_Bay_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Brevard County, Florida|Brevard County]] and the U.S. state of [[Florida]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location ------------------>
+| coordinates                     = {{coord|27|59|52.52|N|80|40|12.03|W|region:US-FL|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = {{nowrap|{{US}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name1               = {{flag|Florida}}
+| subdivision_name2               = {{flagicon image|Flag of Brevard County, Florida.png}} [[Brevard County, Florida|Brevard]]
+| established_title               = <!-- Settled -->
+| established_date                = 
+| established_title2              = <!-- Incorporated (town) -->
+| established_date2               = 
+| established_title3              = <!-- Incorporated (city) -->
+| established_date3               = <!-- Area    --------------------->
+| government_footnotes            = 
+| government_type                 = [[Council-Manager]]
+| leader_title                    = Mayor
+| leader_name                     = Rob Medina
+| leader_title1                   = City Manager
+| leader_name1                    = Suzanne Sherman
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 261.69
+| area_total_sq_mi                = 101.04
+| area_land_km2                   = 253.46
+| area_land_sq_mi                 = 97.86
+| area_water_km2                  = 8.23
+| area_water_sq_mi                = 3.18
+| area_water_percent              = 4.56
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_sq_mi               = <!-- Population   ----------------------->
+<!---Please do not put bogus guesses in here from the Palm Bay site. This is NOT a PB promo site. It is an encyclopedia that we would like people to trust. They can't trust us when we stop quoting the US census and take local "guesses" as to possible population.--->
+| elevation_footnotes             = 
+| elevation_m                     = 5
+| elevation_ft                    = 19
+<!-- Area/postal codes & others -------->
+| population_total                = 103190
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name="Census 2010">{{cite web| url=https://www.census.gov| title=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data (DP-1): Palm Bay city, Florida| publisher=[[United States Census Bureau]]| access-date=January 30, 2012}}</ref>
+| population_density_sq_mi        = 1180.75
+| population_metro                = 543376
+| population_density_metro_sq_mi  = <!-- General information  --------------->
+| population_note                 = 
+| postal_code_type                = ZIP code
+| postal_code                     = 32905-32911
+| area_code                       = [[Area code 321|321]]
+| website                         = {{URL|http://www.palmbayflorida.org/|www.PalmBayFlorida.org}}
+| footnotes                       = 
+| timezone                        = [[Eastern Time Zone (North America)|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-54000<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0288389<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 115552
+| population_density_km2          = 455.89
+}}

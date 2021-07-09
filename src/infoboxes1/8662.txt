@@ -1,0 +1,71 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| name                            = Butwal
+| native_name                     = '''बुटवल'''
+| image_skyline                   = Butwalcity1.jpg
+| imagesize                       = 
+| image_caption                   = Butwal city from hillside.
+| image_flag                      = 
+| image_seal                      = 
+| nickname                        = 
+| motto                           = <!-- images and maps  -->
+| image_map                       = 
+| mapsize                         = 
+| map_caption                     = Map of Rupandehi District, Butwal is shaded in light blue at the top.
+| pushpin_map                     = Nepal Lumbini Province#Nepal <!-- the name of a location map as per http://en..org/wiki/Template:Location_map -->
+| pushpin_label_position          = top
+| pushpin_mapsize                 = 280
+| pushpin_map_caption             = Location of Butwal in province
+<!-- Location -->| coordinates                     = {{coord|27.70|N|83.466|E|region:NP_type:city_source:enwiki-GNS|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{NPL}}
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = [[Provinces of Nepal|Province]]
+| subdivision_name2               = [[Lumbini Province]]
+| subdivision_type3               = [[Districts of Nepal|District]]
+| subdivision_name3               = [[Rupandehi District]]
+| subdivision_type4               = [[List of cities in Nepal#Alphabetical list|Metropolitan]]
+| subdivision_name4               = Butwal
+| established_title               = 
+| established_date                = <!-- Area    -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Shiva Prasad Subedi ([[Nepal Communist Party|NCP]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Goma Acharya ([[Nepal Communist Party|NCP]])
+| unit_pref                       = <!--Enter: nepal-->
+| area_footnotes                  = 
+| area_total_km2                  = 101.61
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| population_total                = 118,462
+| population_as_of                = 2011
+| population_footnotes            = 
+| population_density_km2          = 80
+| population_blank1_title         = Ethnicities
+<!-- General information  -->| population_note                 = Nepal Census 2011<ref>{{cite web
+ |url=http://www.digitalhimalaya.com/collections/nepalcensus/form.php?selection=1
+ |title=Nepal Census 2011
+ |work=Nepal's Village Development Committees
+ |publisher=[[Digital Himalaya]]
+ |access-date=6 December 2008
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20081012163506/http://www.digitalhimalaya.com/collections/nepalcensus/form.php?selection=1
+ |archive-date=12 October 2008
+}}</ref>
+| postal_code_type                = [[Post code]]
+| postal_code                     = 32907
+| area_code                       = 071
+| website                         = {{url|https://butwalmun.gov.np/}}
+| footnotes                       = 
+| unemployment_rate               = |<!-- Politics -->
+| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| blank_name                      = 
+| blank_info                      = 
+| official_name                   = 
+}}

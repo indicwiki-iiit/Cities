@@ -1,0 +1,39 @@
+{{Infobox settlement
+|official_name            = Pinheiros
+
+<!-- Maps -->
+|image_map                = Pinheiros.png
+|mapsize                  = 250px
+|map_caption              = Location in the city of [[São Paulo]]
+|image_map1               = Avenida Rebouças.jpg
+|mapsize1                 =
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[Brazil]]
+|subdivision_type1        = State
+|subdivision_name1        = [[São Paulo (state)|São Paulo]]
+|subdivision_type2        = [[City]]
+|subdivision_name2        = [[São Paulo]]
+|government_footnotes     =
+|government_type          = Subprefecture
+|leader_title             = Subprefect
+|leader_name              = Coronel Bucheroni
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|area_total_km2            = 8
+
+<!-- Population -->
+|population_as_of         = 2000
+|population_total         = 62.997
+|population_density_km2   = 7.875
+|blank_name = '''[[Human Development Index|HDI]]'''
+|blank_info = 0.960 – <span style="color:#093">very high</span>
+|footnotes                =
+|website                  = [http://portal.prefeitura.sp.gov.br/subprefeituras/sppi Subprefecture of Pinheiros]
+}}

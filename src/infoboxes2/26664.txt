@@ -1,0 +1,35 @@
+{{Infobox station
+| name = Ōishida Station
+| native_name = 大石田駅
+| native_name_lang = ja
+| type = 
+| image = JR Ooishida sta 001.jpg
+| alt = 
+| caption = The east entrance in October 2010
+| other_name = 
+| address = 585 Ōishida-otsu, [[Ōishida, Yamagata|Ōishida]], [[Kitamurayama District, Yamagata]]
+| country     = Japan
+| distance = 126.9 km from {{STN|Fukushima|Fukushima}}
+| coordinates = {{coord|38.595689|140.375292|format=dms|display=inline,title|type:railwaystation_region:JP}}
+| operator    = [[File:JR logo (east).svg|20px]] [[JR East]]
+| line = {{Plainlist|
+* [[file:Shinkansen-E.png|16px]] [[Yamagata Shinkansen]]
+* {{colorbull|DarkOrange}} [[Ōu Main Line]]
+ }}
+| platforms   =  2 side platforms
+| connections = 
+| structure   = 
+| status = Staffed (''[[Midori no Madoguchi]]'')
+| code        = 
+| website             = {{Official|1=http://www.jreast.co.jp/estation/station/info.aspx?StationCd=56}}
+| opened      =  21 October 1901
+| closed      = 
+| former      =  
+| passengers  = 792
+| pass_year   = FY2018
+| map_type    = Japan Yamagata Prefecture#Japan   
+| map_dot_label       = Ōishida Station
+| services = {{Adjacent stations|system=JR East
+|line1=Yamagata Shinkansen|left1=Murayama|right1=Shinjō
+|line2=Yamagata|left2=Sodesaki|right2=Kita-Ōishida}}
+}}

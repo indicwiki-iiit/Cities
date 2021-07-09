@@ -1,0 +1,70 @@
+{{Infobox settlement
+<!-- Basic info  -->
+|name                   = Damak City
+
+|native_name            = दमक सहर
+|nickname               = DMK City
+|settlement_type        = Municipality
+|motto                  = "Green City, Prosperous Damak"
+"हरित नगर समृद दमक"
+<!-- images and maps  -->
+[[File:Damak Landscape.jpg|300px|thumb]]
+|imagesize              = 300px
+|image_caption          =Damak Chowk 
+|image_flag             =
+|image_seal             =
+|image_map              = <!-- NepalJhapaDistrictmap.png -->
+|mapsize                = 300px
+|map_caption            = 
+|pushpin_map            = Nepal Province1#Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Province No. 1
+<!-- Location -->
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = Development Region
+|subdivision_name1      = Eastern
+|subdivision_type2      = [[Provinces of Nepal|Province]]
+|subdivision_name2      = [[Province No. 1]]
+|subdivision_type3      = [[Zones of Nepal|Zone]]
+|subdivision_name3      = [[Mechi Zone]]
+|subdivision_type4      = [[Districts of Nepal|District]]
+|subdivision_name4      = [[Jhapa District]]
+<!-- Politics -->
+|government_footnotes   =
+|government_type   = 
+|leader_title      = [[Mayor]]
+|leader_name       = Mr. Romnath Oli ([[Nepal Communist Party|NCP]])
+|leader_title1     = [[Deputy Mayor]]
+|leader_name1      = Mrs. Gita Adhikari ([[Nepal Communist Party|NCP]])
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|unit_pref                =  
+|area_footnotes           =
+|area_total_km2           = 75.74 
+<!-- Population   -->
+|population_as_of               = 2011
+|population_footnotes           =
+|population_note                =
+|population_total               = 75743
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+<!-- General information  -->
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|26.63|87.70|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+|elevation_footnotes    = 
+|elevation_m            = 71
+<!-- Area/postal codes & others -->
+|postal_code_type       = [[Postal code]] 
+|postal_code            = 57217
+|area_code              = 023
+|blank_name             =
+|blank_info             =
+|website                = {{url|https://damakmun.gov.np/}}
+|facebook page          = [https://www.facebook.com/mundamak/]
+}}

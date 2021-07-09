@@ -1,0 +1,40 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                       = Haldia
+| settlement_type            = City
+| image_skyline              = HIT.JPG
+| nickname                   = Port City
+| skyline_caption            = Haldia Institute of Technology
+| coordinates                = {{coord|22.0667|N|88.0698|E|display=inline,title}}
+| locator_position           = right
+| pushpin_map                = India West Bengal#India3
+| subdivision_type           = Country
+| subdivision_name           = India
+| subdivision_type1          = [[States and territories of India|State]]
+| subdivision_name1          = {{flagicon image|..West Bengal Flag(INDIA).png}} [[West Bengal]]
+| subdivision_type2          = [[List of districts of India|District]]
+| subdivision_name2          = [[Purba Medinipur district]]
+| government_type            = [[Municipal Corporations in India|Municipality]]
+| governing_body             = {{Bulleted list|Haldia Municipality|Haldia Development Authority}}
+| leader_title               = 
+| leader_name                = 
+| altitude                   = 8
+| population_as_of           = 2011
+| population_footnotes       = <ref name='HDA'>{{cite web|title=HDA|url=https://www.hda.gov.in/content/about-us&haldia-planning-area}}</ref>
+| population_total           = 200762
+| population_metro           = 2749364
+| population_metro_footnotes = <ref name='HDA'/>
+| population_density         = auto
+| area_magnitude             = sq. km
+| area_footnotes             = <ref>{{cite web|title=Haldia City|url=http://haldiamunicipality.org/new/public/notice/WaterLosses.pdf}}</ref><ref>{{cite web|title=Haldia Info|url=https://www.sudawb.org/wbdma_oldversion/HTM/DIS/MUNI_ULB_Haldia.htm}}</ref>
+| area_total_km2             = 109
+| area_metro_km2             = 1982
+| area_metro_footnotes       = <ref name='HDA'/>
+| area_telephone             = 03224 42200
+| postal_code                = 
+| vehicle_code_range         = 
+| sex_ratio                  = 
+| unlocode                   = 
+| website                    = 
+| footnotes                  = 
+}}

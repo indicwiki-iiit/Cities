@@ -1,0 +1,34 @@
+{{Infobox Australian place | type = town 
+| name     = Clifton Springs
+| state    = vic
+| image    = Image-Clifton Springs Jetty.jpg
+| caption  = The Clifton Springs jetty in 2007
+| use_lga_map = yes
+| coordinates = {{coord|38|09|S|144|34|E|display=inline,title}}
+| pushpin_label_position = top
+| lga      = City of Greater Geelong
+| postcode = 3222
+| pop      = 7519
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes = <ref name="abs">{{Census 2016 AUS | id = SSC20572 | name = Clifton Springs (State Suburb) | accessdate = 27 October 2017| quick = on}}</ref>
+| est      = 
+| stategov = [[Electoral district of Bellarine|Bellarine]]
+| fedgov = [[Division of Corangamite|Corangamite]]
+| dist1    = 97
+| dir1     = SW
+| location1= [[Melbourne]]
+| dist2    = 22
+| dir2     = E
+| location2= [[Geelong]]
+| dist3    = 10
+| dir3     = SW
+| location3= [[Portarlington, Victoria|Portarlington]]
+| near-nw  = ''[[Corio Bay|Corio Bay (Outer Harbour)]]''
+| near-n   = ''[[Corio Bay|Corio Bay (Outer Harbour)]]''
+| near-ne  = [[Bellarine, Victoria|Bellarine]]
+| near-w   = [[Curlewis, Victoria|Curlewis]]
+| near-e   = [[Drysdale, Victoria|Drysdale]]
+| near-sw  = [[Curlewis, Victoria|Curlewis]]
+| near-s   = [[Drysdale, Victoria|Drysdale]]
+| near-se  = [[Drysdale, Victoria|Drysdale]]
+}}

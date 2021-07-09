@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                     = Chapakot
+|other_name               =
+|native_name              = चापाकोट
+|nickname                 =
+|settlement_type          = [[Municipality]]
+|motto                    =
+<!-- images and maps  -->
+| image_skyline           = {{Photomontage
+| photo1a                 = Chapakot Municipality.jpg
+| photo2a                 = Majuwa.jpg
+| photo2b                 = Bhattarai Danda 1.jpg
+| photo3a                 = Radio Chapakot.jpg
+| photo3b                 = Radha Damodar Sanskrit Vidhyapith.jpg
+| photo4a                 = Keladighat Temple.jpg
+| photo4b                 = Headquarter of Sankhar.jpg
+| photo5a                 = Keladighat.jpg
+| spacing                 = 1
+| position                = centre
+| size                    = 300
+| foot_montage            = From Top left to right<br />[[Gandaki River]], [[Keladighat]], [[Radio Chapakot]], [[Majuwa, Nepal|Majuwa]], [[Radhadamodar Sanskrit Vidyapeeth]], [[Keladighat Temple]], [[Patsar]] & [[Keladighat bridge]]
+}}
+|image_map                =
+|mapsize                  =
+|map_caption              =
+|pushpin_map              = Chapakot#Syangja#Nepal Gandaki Province#Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position   = 
+|pushpin_mapsize          = 300px
+|pushpin_map_caption      = Chapakot Municipality
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = {{flag|Nepal}}
+|subdivision_type1        = [[Provinces of Nepal|Province]]
+|subdivision_name1        = [[Gandaki Pradesh]]
+|subdivision_type2        = [[Districts of Nepal|District]]
+|subdivision_name2        = [[Syangja District]]
+<!-- Politics -->
+|government_footnotes     =
+|government_type          =
+|leader_title             = [[Mayor]]
+|leader_name             =  Shiva Kumar Giri <ref>{{cite web|title=Nepal Local Elections 2074|url=http://election.ekantipur.com/?lng=eng&pradesh=&panto=syangja&location=395|website=[[Kathmandu Post]]|accessdate=19 May 2017}}</ref>
+|leader_title1            = [[Deputy Mayor]]<!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = Bimala Shrestha
+<ref>http://www.chapakotmun.gov.np/en</ref>
+|established_title        = <!-- Settled -->
+|established_date         =
+<!-- Area    -->
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 120.59<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+<!-- Population   -->
+|population_as_of         = [[2011 Nepal census]]
+|population_footnotes     =
+|population_note          =
+|population_total         = 26042
+|population_density_km2   = auto
+|population_blank1_title  = Ethnicities
+<!-- General information  -->
+|timezone                 = [[Nepal Standard Time|NST]]
+|utc_offset               = +5:45
+|timezone_DST             =
+|utc_offset_DST           =
+|coordinates              = {{coord|27.90|83.82|type:city_region:NP|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              =
+<!-- Area/postal codes & others -->
+|postal_code_type         =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code              =
+|area_code                =
+|blank_name               =
+|blank_info               =
+|website                  = {{URL|http://www.chapakotmun.gov.np}}
+|footnotes                =
+}}

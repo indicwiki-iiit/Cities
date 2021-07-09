@@ -1,0 +1,81 @@
+{{Infobox Nepal municipality
+| name                          = Phalewas<!--Do not add the word "Municipality" -->
+| nickname                      = 
+| native_name                   = फलेवास नगरपालिका
+| native_name_lang              =
+| motto                         =
+<!-- image, map-->
+| image_skyline                 = 
+| imagesize                     =
+| image_alt                     =
+| image_caption                 = 
+| map                           =  
+| mapsize                       =
+| map_alt                       =
+| map_caption                   =
+| map1                          =
+| mapsize1                      =
+| map_alt1                      =
+| map_caption1                  =
+<!--pushpin, coord, geo-->
+| pushpin_province              = Nepal Gandaki Province<!--for a map of province (Nepal map automatically show)-->
+| pushpin_mapsize               = 300
+| pushpin_map_caption           =Location of the municipality in Province
+| pushpin_label_position        =
+| pushpin_relief                =1
+| coordinates                   ={{coord|28.17|83.67|type:adm2nd_region:NP_source:unmaps-enwiki|display=inline,title}}
+| coordinates_footnotes         =
+| province                      = [[Gandaki Province]]
+| district                      = [[Parbat District]]
+| ward                          = 11
+<!--established, headquarters-->
+| established                   = 10 March 2017
+| incorporated_vdc              = [[Karkineta]], [[Thapathana]], [[Shankar Pokhari]], [[Mudikuwa]], [[Phalebas Khanigaun]], [[Devisthan, Parbat|Devisthan]], [[Limithana]], [[Thana Maulo]], [[Bhangara, Nepal|Bhangara]], [[Kurgha, Parbat|Kurgha]] and [[Pangrang]]
+| incorporated_date             =
+| hq     = [[Phalebas Khanigaun]]
+<!--government-->
+| government_footnotes          =
+| mayor                         = Mr. Padampani Sharma
+| mayor_party                   =
+| deputy_mayor                  = Mrs. Manju Adhikari
+| deputy_mayor_party            =
+| parliamentary_constituency    =
+| mp_name                       = <!--mp=Member of parliament-->
+| mp_party                      =
+| provincial_constituency       =
+| mla_name                      = <!--mla=Member of legislative assembly-->
+| mla_party                     =
+<!--area-->
+| area_magnitude                =
+| area_footnotes                =
+| area_total_km2                = 85.70
+| area_note                     =
+| area_rank                     =
+<!--elevation-->
+| elevation_footnotes           =
+| elevation_m                   =
+| elevation_min_m               =
+| elevation_max_m               =
+<!--population-->
+| population_footnotes          =
+| population                    = 24,687
+| population_as_of              =2011
+| population_density_km2        =
+| population_note               =
+| population_rank               =
+| households                    =
+<!--others-->
+| ethnicity                     = <!-- ethnic group-->
+| female_percent                =
+| male_per_100_female           =
+| income                        =
+| poverty                       =
+| literacy                      =
+| life_expectancy               =
+| languages                     =
+| highways                      =
+| postal_code                   =
+| area_code                     =
+| website                       ={{website|phalewasmun.gov.np}}
+| footnotes                     =
+}}

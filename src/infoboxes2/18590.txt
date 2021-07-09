@@ -1,0 +1,75 @@
+{{Infobox settlement
+|name                     = 
+|official_name            = Fridley
+|settlement_type          = [[City]]
+|nickname                 = "Friendly Fridley"
+|native_name_lang         = {{lang}}
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Fridley,_Minnesota_Civic_Campus.jpg 
+|imagesize                = 
+|image_caption            = Fridley Civic Campus
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Anoka Cnty Minnesota Incorporated and Unincorporated areas Fridley Highlighted.png
+|mapsize                  = 250px
+|map_caption              = Location of the city of Fridley<br>within Anoka County, Minnesota
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Minnesota]]
+|subdivision_type2        = [[List of counties in Minnesota|County]]
+|subdivision_name2        = [[Anoka County, Minnesota|Anoka]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Council–manager government|Council–manager]]
+|leader_title             = Mayor
+|leader_name              = Scott Lund
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 1949
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 28.20
+|area_land_km2            = 26.35
+|area_water_km2           = 1.86
+|area_total_sq_mi         = 10.89
+|area_land_sq_mi          = 10.17
+|area_water_sq_mi         = 0.72
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 27826
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 27208
+|population_density_km2   = 1056.17
+|population_density_sq_mi = 2735.55
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 262
+|elevation_ft             = 860
+|coordinates              = {{coord|45|5|8|N|93|15|34|W|region:US-MN|display=inline}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 55421, 55432
+|area_code                = [[Area code 763|763]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 27-22814<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0643953<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = [http://www.ci.fridley.mn.us City of Fridley]
+|footnotes                = 
+}}

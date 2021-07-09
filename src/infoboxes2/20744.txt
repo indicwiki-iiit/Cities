@@ -1,0 +1,76 @@
+{{Infobox settlement
+| name                            = Hannibal, Missouri
+| settlement_type                 = [[City]]
+| nickname                        = America's Hometown
+| motto                           = <!-- Images -->
+| image_skyline                   = MarkTwainBoyhoodHouseMuseumHannibalMO.jpg
+| image_caption                   = [[Mark Twain|Mark Twain's]] boyhood home in Hannibal
+| image_flag                      = 
+| image_seal                      = <!-- Maps -->
+| image_map                       = Marion_County_Missouri_Incorporated_and_Unincorporated_areas_Hannibal_Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location within [[Marion County, Missouri|Marion County]] (left) and [[Missouri]] (right)
+
+<!-- Location -->
+| coordinates                     = {{coord|39|42|15|N|91|22|39|W|region:US-MO_type:city_source:GNIS|display=inline,title}}
+| coordinates_footnotes           = 
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Missouri|Counties]]
+| subdivision_name                = United States
+| subdivision_name1               = [[Missouri]]
+| subdivision_name2               = [[Marion County, Missouri|Marion]], [[Ralls County, Missouri|Ralls]]
+
+<!-- Government -->
+| government_footnotes            = 
+| government_type                 = City manager and council
+| leader_title                    = [[Mayor]]
+| leader_name                     = James Hark
+| leader_title1                   = City manager
+| leader_name1                    = Lisa Peck
+| established_title               = Platted
+| established_date                = 1819
+| established_title1              = [[Municipal corporation|Incorporated]]
+| established_date1               = 1845
+
+<!-- Area -->
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_29.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+| area_total_sq_mi                = 16.46
+| area_land_sq_mi                 = 15.99
+| area_water_sq_mi                = 0.47
+| area_total_km2                  = 42.62
+| area_land_km2                   = 41.41
+| area_water_km2                  = 1.21
+| unit_pref                       = Imperial
+
+<!-- Elevation -->| elevation_footnotes             = 
+| elevation_ft                    = 502
+| elevation_m                     = 153
+
+<!-- Population -->
+| population_footnotes            = <ref name ="wwwcensusgov"/>
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 17346
+| pop_est_as_of                   = 2019
+| population_total                = 17916
+| population_metro                = 
+| population_density_sq_mi        = 1084.94
+| population_density_km2          = 418.91
+
+<!-- General information -->| timezone                        = [[Central Time Zone|CST]]
+| utc_offset                      = -6
+| timezone_DST                    = CDT
+| utc_offset_DST                  = -5
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 63401
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 573|573]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 29-30214<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0735640<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = {{official URL}}
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| official_name                   = 
+}}

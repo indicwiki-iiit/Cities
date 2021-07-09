@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Elk Grove Village
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = Village
+| image_skyline           = Aerial view of warehouses in Elk Grove Village, IL.jpg
+| image_alt               = 
+| image_caption           = Aerial view of the Elk Grove Village industrial area
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = "The Exceptional Community"
+| image_map = File:DuPage County Illinois Incorporated and Unincorporated areas Elk Grove Village Highlighted.svg
+| mapsize = 260px
+| map_caption = Location of Elk Grove Village in Cook County and DuPage County, Illinois.
+| image_map1 = Illinois in United States (US48).svg
+| map_caption1 = Location of Illinois in the United States
+| coordinates             = {{coord|42|0|11|N|87|59|47|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = [[United States]]
+| subdivision_type1       = State
+| subdivision_name1       = [[Illinois]]
+| subdivision_type2       = [[County (United States)|Counties]]
+| subdivision_name2       = [[Cook County, Illinois|Cook]], [[DuPage County, Illinois|DuPage]]
+| subdivision_type3       = [[Civil township|Townships]]
+| subdivision_name3       = [[Elk Grove Township, Cook County, Illinois|Elk Grove]], [[Schaumburg Township, Cook County, Illinois|Schaumburg]], Addison
+| established_title       = [[Municipal corporation|Incorporated]]
+| established_date        = July 17, 1956<ref name="ilsos.gov">{{Cite web|title=Name Index to Illinois Local Governments|url=https://www.ilsos.gov/isa/localGovNameIndexSearch.do|website=www.ilsos.gov|access-date=2020-05-14}}</ref>
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = [[Council-Manager government|Council-manager]]
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = Craig B. Johnson<ref>{{cite web|url=http://www.elkgrove.org/government/elected-officials/mayor-trustees|title=Mayor & Board of Trustees - Elk Grove Village|website=www.elkgrove.org}}</ref>
+| leader_title1           = 
+| leader_name1            = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref name="auto"> </ref> -->
+| area_rural_footnotes    = <!-- <ref name="auto"/> -->
+| area_metro_footnotes    = <!-- <ref name="auto"/> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 0.61
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = <!-- square miles -->
+| area_total_sq_mi        = 11.68
+| area_land_sq_mi         = 11.62
+| area_water_sq_mi        = 0.06
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = <!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_ft            = 
+| population_footnotes    = 
+| population_total        = 33127
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_sq_mi = 2788.54
+| population_demonym      = 
+| population_note         = Down 4.61% from 2000
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[ZIP code|<span style="white-space:nowrap;">ZIP codes</span>]]
+| postal_code             = 60007, 60009, 60143
+| area_code_type          = [[North American Numbering Plan|<span style="white-space:nowrap;">Area codes</span>]]
+| area_code               = [[Area codes 847 and 224|847/224]] and [[Area codes 630 and 331|630]]
+| blank1_name             = [[Geographic Names Information System|GNIS]] ID
+| blank1_info             = {{GNIS4|2398803}}
+| website                 = {{URL|www.elkgrove.com}}
+| footnotes               = <!-- demographics (section 1) -->
+| demographics_type1      = Standard of living ([[American Community Survey|2009-11]])
+| demographics1_footnotes = 
+| demographics1_title1    = [[Per capita income]]
+| demographics1_info1     = $31,387
+| demographics1_title2    = [[Real estate appraisal|Median home value]]
+| demographics1_info2     = $273,000
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 32400
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 17-23256
+|area_total_km2 = 30.24
+|area_land_km2 = 30.09
+|area_water_km2 = 0.15
+|population_density_km2 = 1076.66
+}}

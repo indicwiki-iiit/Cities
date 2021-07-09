@@ -1,0 +1,101 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          =   Borgarnes
+|other_name             =
+|native_name            = <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        =Town<!--For Town or Village (Leave blank for the default City)-->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline                    = {{multiple image
+| border                 = infobox
+| total_width            = 290
+| image_style            = border:1;
+| perrow                 = 1/3/2/2
+| image1                 = 1 borgarnes aerial pano 2017.jpg
+| image2                 = Borgarnes - Kirche.jpg
+| image3                 = Egill Skallagrímsson 1995-IS-02-00.jpg
+| image4                 = 2009 Borgarnes Stadtkern.jpg
+| image5                 = 2005-05-25 11 58 59 Iceland-Borgarnes.jpg
+| image6                 = Island (160706775).jpeg
+| image7                 = View of Borgarnes Iceland.jpg
+| image8                 = The Boat (161127103).jpeg
+}}
+|imagesize              =
+|image_caption          = Borgarnes
+|image_flag             = 
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = 
+|shield_size            = 
+|image_map              = Borgarbyggd map.png
+|mapsize                = 
+|map_caption            = Location of the Municipality of Borgarbyggð
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Iceland<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Iceland
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = Iceland
+|subdivision_type1      = [[Constituencies of Iceland|Constituency]]
+|subdivision_name1      = [[Northwest Constituency]]
+|subdivision_type2      = [[Regions of Iceland|Region]]
+|subdivision_name2      = [[Western Region (Iceland)|Western Region]]
+|subdivision_type3      = [[Municipalities of Iceland|Municipality]]
+|subdivision_name3      = [[Borgarbyggð]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  
+|established_date       = 
+|established_title2     =  
+|established_date2      =
+|established_title3    =
+|established_date3      = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_urban_km2           =
+|area_metro_km2           =
+<!-- Population   ----------------------->
+|population_as_of               = 2015
+|population_footnotes           =
+|population_note                =
+|population_total               = 1,875
+|population_density_km2         =
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =
+<!-- General information  --------------->
+| timezone      = [[Greenwich Mean Time|GMT]]
+| utc_offset    = +0
+| timezone_DST  = 
+| utc_offset_DST=
+|coordinates            = {{coord|64|32|N|21|55|W|region:IS|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =Post Code  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              = 
+}}

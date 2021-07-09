@@ -1,0 +1,67 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Port Said
+| native_name            = بورسعيد
+| settlement_type        = 
+| image_skyline          = {{Photomontage
+| photo1a = ميناء بورسعيد البحرى.jpg
+| photo2a = مسجد الشاطئ.jpg
+| photo2b = US Navy 031013-N-6187M-001 The nuclear powered aircraft carrier USS Enterprise (CVN 65) passes an Islamic mosque on the western bank of the Suez Canal while transiting to the Red Sea.jpg
+| photo3a = احدى شواطئ . بورسعيد.jpg
+| photo3b = Port said egypt (6).JPG
+| photo3c = مصر - بورسعيد - حديقة فندق بورسعيد.jpg
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+ }}
+| image_caption          = '''Clockwise from top:''' <br /> Docks of Port Said, Beach Mosque, Mosque on Entrance of the Canal, Port Said Beaches, Seagulls on the Canal, Port Said Hotel Gardens. 
+| image_flag             = Flag of Port Said Governorate.PNG
+| image_seal             = Coat of arms of Port Said Governorate.PNG
+| image_shield           = 
+| nickname               = ''The valiant city''
+| motto                  = 
+| image_map              = 
+| map_caption            = Port Said, and the entrance to the Suez Canal, viewed from the [[International Space Station|ISS]]
+| pushpin_map            = Egypt<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location in Egypt
+| coordinates            = {{coord|31|15|N|32|18|E|region:EG|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Egypt}}
+| subdivision_type1      = [[Governorates of Egypt|Governorate]]
+| subdivision_name1      = [[Port Said Governorate|Port Said]]
+| subdivision_type2      = 
+| subdivision_name2      = 
+| established_title      = Founded <!-- Settled -->
+| established_date       = 1859
+| government_type        = 
+<!-- Politics ----------------->
+| government_footnotes   = 
+| leader_title           = Governor
+| leader_name            = Adel Mohamed Ibrahim <ref>{{cite web|url=http://english.ahram.org.eg/NewsContent/1/64/177478/Egypt/Politics-/Egypts-new-provincial-governors-Whos-who.aspx|title=Egypt's new provincial governors: Who's who?|publisher=Ahram Online|access-date=17 October 2016|archive-url=https://web.archive.org/web/20160121002549/http://english.ahram.org.eg/NewsContent/1/64/177478/Egypt/Politics-/Egypts-new-provincial-governors-Whos-who.aspx|archive-date=21 January 2016|url-status=live|df=dmy-all}}</ref>
+<!-- Area    --------------------->
+| area_footnotes         = 
+| area_total_km2         = 1351.1<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| elevation_footnotes    = <!--for references: use  tags-->
+| elevation_m            = 3
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 603787
+| population_as_of       = 2010
+| population_density_km2 = auto
+| population_note        = CAPMS 2010 Census
+<!-- General information  --------------->
+| timezone               = [[Egypt Standard Time|EGY]]
+| utc_offset             = +2
+| timezone_DST           = 
+| utc_offset_DST         = 
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            = 
+| area_code              = [[+20]]-66
+| website                = [http://www.portsaid.gov.eg/default.aspx PortSaid.gov.eg] {{in lang|ar}}
+| footnotes              = 
+}}

@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| name                            = Nida
+| nickname                        = 
+| settlement_type                 = Town
+| pushpin_map                     = Lithuania#Europe
+|pushpin_relief=1
+| pushpin_map_caption             = Location of Nida
+| pushpin_label_position          = left
+| image_shield                    = 
+| image_skyline                   = File:Nida from bird's-eye view.jpg
+| image_caption                   = Nida from air
+| image_blank_emblem              = Symbols of Neringa (Nida).svg
+| coordinates                     = {{coord|55|18|12|N|21|00|20|E|region:LT-AL|display=inline,title}}
+| subdivision_type                = [[Countries of the world|Country]]
+| subdivision_name                = {{LTU}}
+| subdivision_type2               = [[Counties of Lithuania|County]]
+| subdivision_name2               = [[Image:LIT okręg kłajpedzki COA.svg|17px]] [[Klaipėda County]]
+| subdivision_type3               = [[List of municipalities of Lithuania|Municipality]]
+| subdivision_name3               = [[Neringa Municipality]]
+| subdivision_type4               = [[Elderships of Lithuania|Eldership]]
+| subdivision_name4               = Juodkrantė eldership
+| subdivision_type5               = 
+| subdivision_name5               = 
+| established_title               = First mentioned
+| population_total                = 2,385
+| population_as_of                = 2012
+| timezone                        = [[Eastern European Time|EET]]
+| utc_offset                      = +2
+| timezone_DST                    = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST                  = +3
+}}

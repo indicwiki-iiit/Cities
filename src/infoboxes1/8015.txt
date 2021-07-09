@@ -1,0 +1,113 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Tagajō }}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|多賀城市}}}}}}
+| official_name           = 
+| native_name_lang        = ja
+| settlement_type         = City
+<!-- images, nickname, motto -->
+| image_skyline           = TagajoShiyakusho2007.jpg
+| imagesize               = 
+| image_alt               = 
+| image_caption           = Tagajō City Hall
+| image_flag              = Flag of Tagajō, Miyagi.svg
+| flag_alt                = 
+| image_blank_emblem      = Emblem of Tagajō, Miyagi.svg
+| blank_emblem_type       = Emblem
+| nickname                = 
+| motto                   = 
+<!-- maps and coordinates -->
+| image_map               = Tagajo in Miyagi Prefecture - Ja.svg
+| map_alt                 = 
+| map_caption             = Location of Tagajō in Miyagi Prefecture
+| pushpin_map             = Japan
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_alt         = 
+| pushpin_map_caption     = &nbsp; 
+| coordinates             = {{coord|38|17|37.8|N|141|0|15.3|E|region:JP|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location -->
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = [[Japan]]
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Tōhoku region|Tōhoku]]
+| subdivision_type2       = [[Prefectures of Japan|Prefecture]]
+| subdivision_name2       = [[Miyagi Prefecture|Miyagi]]
+| subdivision_type3       = 
+| subdivision_name3       =  
+<!-- established -->
+| established_title    = First official recorded 
+| established_date     = 7th century AD
+| established_title2   = City settled
+| established_date2    = November 1, 1971
+| founder                 = 
+| named_for               = 
+<!-- seat, smaller parts -->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    = 
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| leader_party            = 
+| leader_title      = Mayor
+| leader_name       = [[:ja:深谷晃祐|Kōsuke Fukaya]] (from October 2020)
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  -->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_total_km2          = 19.69
+| area_land_km2           = 
+| area_water_km2          = 
+| area_water_percent      = 
+| area_note               = 
+<!-- elevation -->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+<!-- population -->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        =62869
+| population_as_of        = June 1, 2020
+| population_density_km2  = auto
+| population_est          = 
+| pop_est_as_of           = 
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         = 
+<!-- time zone(s) -->
+| timezone1               = [[Japan Standard Time]]
+| utc_offset1             = +9
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+<!-- postal codes, area code -->
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = City Symbols
+| blank1_name_sec1        = - Tree
+| blank1_info_sec1        = [[Camellia sasanqua]]
+| blank2_name_sec1        = - Flower
+| blank2_info_sec1        = [[Iris sanguinea]]
+| blank3_name_sec1        = - Bird
+| blank3_info_sec1        = 
+| blank4_name_sec1        = - Insect
+| blank4_info_sec1        = 
+| blank5_name_sec1        = - Fish
+| blank5_info_sec1        = 
+| blank6_name_sec1        = 
+| blank6_info_sec1        = 
+| blank7_name_sec1        = 
+| blank7_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = Phone&nbsp;number
+| blank_info_sec2         = 022-368-1141
+| blank1_name_sec2        = Address
+| blank1_info_sec2        = 1-1 Chūō 2-chōme, Tagajō-shi, Miyagi-ken 985-8531
+<!-- website, footnotes -->
+| website                 = {{Official|http://www.city.tagajo.miyagi.jp/}}
+| footnotes               =
+}}

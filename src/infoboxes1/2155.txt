@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name          = Kagara
+|native_name            =  
+|other_name             =
+|settlement_type        = Town 
+|image_skyline          =
+|imagesize              = 
+|image_caption          =
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|nickname               = 
+|motto                  =Home of peace and tourism
+|image_map              =
+|mapsize                = 
+|map_caption            =
+|pushpin_map            = Nigeria
+|pushpin_label_position =
+|pushpin_mapsize=250
+|pushpin_map_caption    = Location in Nigeria
+|coordinates            = {{coord|10|11|04|N|6|15|12|E|type:adm2nd_region:NG|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nigeria}}
+|subdivision_type1      = [[States of Nigeria|State]] 
+|subdivision_type2      =
+|subdivision_type3      = 
+|subdivision_name1      = [[Niger State]]
+|subdivision_name2      =
+|subdivision_name3      = 
+|established_title      =  
+|established_date       =
+
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|unit_pref                =Metric 
+|area_footnotes           =
+|area_magnitude         = 
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->
+|elevation_footnotes    =  
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 
+|population_as_of               = 
+|population_footnotes           = 
+|population_density_km2         =
+|population_density_urban_sq_mi =
+|population_blank1_title        = Ethnicities
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_blank2_title        = Religions
+|population_note                =
+|postal_code_type       = 3-digit postal code prefix
+|postal_code            = 922 
+|area_code             =
+|iso_code              = 
+| unemployment_rate = 
+|website                = 
+|footnotes              = 
+|population_blank1 = 
+|population_blank2 = 
+||timezone               =[[West Africa Time|WAT]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+}}

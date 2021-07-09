@@ -1,0 +1,107 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   ={{raise|0.2em|Baicheng}}
+|official_name          =
+|other_name             =
+|native_name            ={{lower|0.1em|白城市}}
+|native_name_lang = zh
+|nickname               =
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 站前广场 - Railway Station Square - 2010.10 - panoramio.jpg
+|imagesize              =
+|image_caption          = Baicheng Station Square
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Baicheng Prefecture within Jilin (China).png
+|mapsize                =
+|map_caption            = Location of Baicheng City (yellow) in Jilin (light grey)
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Jilin]]
+|parts_type             = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+|parts_style            = para
+|p1                     = 5
+|seat_type              = City seat
+|seat                   =Taobei District
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type = [[Prefecture-level city]]
+|leader_title = [[Communist Party of China|CPC]] Baicheng Secretary
+|leader_name = Li Jinxiu ({{lang|zh-hans|李晋修}})
+|leader_title1 = Mayor
+|leader_name1 = An Guiwu ({{lang|zh|安桂武}})
+|leader_title2          =
+|leader_name2           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title1     =   Incorporated (town) 
+|established_date1      =1915
+|established_title2     = Incorporated (city)
+|established_date2      =1958
+|established_title3     =
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_footnotes         =
+|area_total_km2         = 25683
+|area_land_km2          = <!--See table @ Template:Infobox settlement for details on unit conversion-->
+|area_water_km2         =
+|area_water_percent     =
+|area_metro_km2         =
+
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =154
+|elevation_max_m            =
+|elevation_min_m            =
+<!-- Population   ----------------------->
+|population_as_of               = 2010
+|population_footnotes           =<ref name="Census2010"/>
+|population_note                =
+|population_total               = 2033058
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 2568.8 
+| area_urban_km2          = 67.50 
+| area_urban_footnotes    = &nbsp;(2017)<ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=50 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 508000
+| population_urban        = 284500
+| population_urban_footnotes = &nbsp;(2017)<ref name="CUCSY_2017"/>
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Baicheng municipal government
+|coordinates            = {{coord|45.620|N|122.838|E|type:adm2nd_region:CN-22_source:Gaode|format=dms|display=it}}
+|pushpin_map            = Jilin
+|pushpin_label_position = 
+|pushpin_map_caption    = Location of the city centre in Jilin
+|pushpin_mapsize        = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 137000
+|area_code              = 0436
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             =<!-- [[Renminbi|¥]]320.66 billion (2006) -->
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank2_info             ={{lang|zh-cn|吉G}}
+|iso_code = [[ISO 3166-2:CN|CN-JL-08]]
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =<!-- [[Han Chinese|Han]] - 95.48% -->
+|website = {{URL|www.bc.jl.gov.cn/}}
+|footnotes              =
+}}

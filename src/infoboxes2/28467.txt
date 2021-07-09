@@ -1,0 +1,34 @@
+{{Infobox Australian place
+| type     = town
+| name     = Smithton
+| state    = tas
+| image    = 
+| caption  = 
+| coordinates = {{coord|40|50|30|S|145|07|30|E|display=inline,title}}
+| pushpin_label_position = right
+| lga      = Circular Head Council
+| postcode = 7330
+| est      = 
+| pop      = 3881
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes=<ref name="ABS">{{cite web|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC60600?opendocument|title=2016 Census QuickStats|author=Smithton (State Suburb)|access-date=10 December 2017}}</ref>
+| elevation= 7
+| elevation_footnotes=<ref name="bom.gov.au">[http://www.bom.gov.au/climate/averages/tables/cw_091292_All.shtml Bureau of Meteorology - Smithton Aerodrome] Retrieved on 2020-03-24</ref>
+| maxtemp  = 17.3
+| mintemp  = 7.7
+| rainfall = 913.8
+| stategov = [[Division of Braddon (state)|Braddon]]
+| fedgov   = [[Division of Braddon|Braddon]]
+| dist1    = 389
+| dir1     = NW
+| location1= [[Hobart]]
+| dist2    = 231
+| dir2     = W
+| location2= [[Launceston, Tasmania|Launceston]]
+| dist3    = 132
+| dir3     = W
+| location3= [[Devonport, Tasmania|Devonport]]
+| dist4    = 85
+| dir4     = W
+| location4= [[Burnie, Tasmania|Burnie]]
+}}

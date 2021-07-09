@@ -1,0 +1,79 @@
+{{Infobox settlement
+| official_name                   = Schenectady
+| settlement_type                 = [[City (New York)|City]]
+| nickname                        = 
+| motto                           = "The city that lights and hauls the world."
+
+<!-- Images -->
+| image_skyline                   = Nott Memorial Hall, Union College, Schenectady, NY.jpg
+| imagesize                       = 
+| image_caption                   = Nott Memorial Hall, Union College
+| image_flag                      = 
+| image_seal                      = Schenectady City Seal.gif
+
+<!-- Maps -->
+| image_map                       = Schenectady County New York incorporated and unincorporated areas Schenectady highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location in [[Schenectady County, New York|Schenectady County]] and the state of [[New York (state)|New York]].
+|pushpin_map = USA
+<!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[New York (state)|New York]]
+| subdivision_type2               = [[Administrative divisions of New York#County|County]]
+| subdivision_name2               = [[Schenectady County, New York|Schenectady]]
+| subdivision_type3               = [[New York (state)#Regions|Region]]
+| subdivision_name3               = [[Capital District, New York|Capital District]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Gary R. McCarthy
+| leader_title1                   = 
+| leader_name1                    = 
+| established_title               = Settled
+| established_date                = 1661
+| established_title1              = Incorporated
+| established_date1               = 1798
+
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_36.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 28.43
+| area_land_km2                   = 27.95
+| area_water_km2                  = 0.48
+| area_total_sq_mi                = 10.98
+| area_land_sq_mi                 = 10.79
+| area_water_sq_mi                = 0.18
+
+<!-- Population -->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_total                = 66135
+| population_density_km2          = 2335.22
+| population_density_sq_mi        = 6048.28
+| population_metro                = 1170483
+
+<!-- General information -->
+| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = &minus;5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = &minus;4
+| elevation_footnotes             = 
+| elevation_m                     = 
+| elevation_ft                    = 
+| coordinates                     = {{coord|42|48|51|N|73|56|14|W|region:US-NY|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 12301–12309, 12325, 12345
+| area_code                       = [[Area code 518|518]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 36-65508
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 0964570
+| website                         = {{url|http://www.cityofschenectady.com/}}
+| footnotes                       = 
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 65273
+| name                            = 
+}}

@@ -1,0 +1,55 @@
+{{Infobox settlement
+|official_name          = Jijel
+|native_name            = جيجل
+|native_name_lang   = ar
+|settlement_type        = [[City]] 
+|motto                  = "From the people, for the people"
+|image_skyline          = Jijel 39, Wilaya de Jijel (Algérie).JPG
+|image_caption          = Jijel
+|image_map              = DZ 18 Jijel.svg
+|mapsize                = 180px
+|map_caption            = Location of Jijel in the [[Jijel Province]]
+|pushpin_map            = Algeria
+|pushpin_label_position = bottom
+|pushpin_map_caption    = Location of Jijel in [[Algeria]]
+|pushpin_relief         = 1
+|coordinates             = {{coord|36|49|N|05|45|E|type:city_region:DZ|display=inline,title}}
+|subdivision_type            = [[Countries of the world|Country]]
+|subdivision_name          = {{flag|Algeria}}
+|subdivision_type1          = [[Provinces of Algeria|Province]] 
+|subdivision_name1        = [[Jijel Province]]
+|subdivision_type2          = [[Districts of Algeria|District]]
+|subdivision_name2        = [[Jijel District]]
+|government_type          = [[Municipality]]
+|leader_title                    = [[Mayor]]
+|leader_name                = Yazid Abdellah
+|established_title           = APC
+|established_date         = 2012-2017
+|area_total_km2           = 62.38
+|population_as_of         = 2008 census
+|population_total         = 131513
+|population_density_km2   = auto
+|timezone                 = [[Central European Time|CET]] 
+|utc_offset               =  +1
+|elevation_m              = 10
+|iso_code                   = CP
+|postal_code_type     = [[List of postal codes in Algeria|Postal code]]
+|postal_code              = 18000
+|website                       = {{URL|http://www.jijel-dz.org/}}
+|module = {{Infobox lighthouse
+| embed = yes
+| qid = Q106097461
+| yearbuilt = 1907<ref name=rasafia>{{cite web|url=http://www.onsm-dz.com/?p=detailphares&equipement_id=24|title=Ra's Afia|website=Office Nationale de Signalisation Maritime|publisher= Ministere des Travaux Publics|access-date=30 April 2017}}</ref>
+| foundation = stone base
+| construction = masonry tower
+| shape = octagonal tower with balcony and lantern attached to the front 2-storey keeper’s house
+| marking = white tower, red lantern
+| height = {{convert|16.8|m|ft}}<ref name=rasafia/>
+| focalheight = {{convert|45.2|m|ft}}<ref name=rasafia/>
+| lightsource = main power
+| intensity = 1,000 W<ref name=rasafia/>
+| range = {{convert|21|nmi}}<ref name=rasafia/>
+| characteristic = Fl R 5s.<ref>{{cite ngall|113|2015|}}</ref>
+| ARLHS = ALG-029<ref>{{Cite rowlett|dzae|access-date=30 April 2017}}</ref>
+| managingagent = Office Nationale de Signalisation Maritime
+}}}}

@@ -1,0 +1,42 @@
+{{Infobox settlement
+| settlement_type = Town
+| name        = Ennis
+| native_name  = {{Pad top italic|Inis}}
+| mapsize                         = 230px
+| map_caption                     = Location of Ennis in Ireland
+| pushpin_map                     = Ireland#Europe
+| pushpin_relief                  = 1
+| pushpin_label_position = right
+| pushpin_map_caption    = Location in Ireland
+| coordinates       = {{coord|52.8463|-8.9807|dim:25000_region:IE|display=inline,title}}
+| blank_name_sec1  = Irish Grid Reference
+| blank_info_sec1  = {{iem4ibx|R333780}}
+| unit_pref         = Metric
+| elevation_m    =  3
+| subdivision_type       = Country
+| subdivision_name       = Ireland
+| subdivision_type1 = [[Provinces of Ireland|Province]]
+| subdivision_name1 = [[Munster]]
+| subdivision_type2 = [[Counties of Ireland|County]]
+| subdivision_name2 = [[County Clare]]
+| subdivision_type3 = Dáil Éireann
+| subdivision_name3 = [[Clare (Dáil constituency)|Clare]]
+| population_rank   = [[List of urban areas in the Republic of Ireland by population|12th]]
+| population_urban  = 25,276
+| population_footnotes = <ref name="sapmap2016">{{cite web|url =http://census.cso.ie/sapmap2016/Results.aspx?Geog_Type=ST2016&Geog_Code=3CC0C007-2D95-4666-9E4E-ED7FA9A3AF5E#SAPMAP_T1_100 | publisher = [[Central Statistics Office (Ireland)|CSO]] | work = Census 2016 | title = Sapmap Area - Settlements - Ennis | date = 2016 | access-date = 12 January 2018 }}</ref>
+| population_as_of = 2016
+| image_skyline  = Ennis 01.jpg
+| image_caption  = O'Connell Street, 2005
+| image_shield                    = Ennis_coat_of_arms.svg
+| shield_size                     = 100px
+| website  = {{URL|http://www.visitennis.com/}}
+| area_code_type = [[Telephone numbers in the Republic of Ireland|Telephone area code]]
+| area_code = +353(0)65
+| Demonym(s)= Ennisite
+| postal_code_type        =[[Eircode]] routing key
+| postal_code             =V95
+|timezone                = [[Western European Time|WET]]
+|utc_offset              = ±0
+|timezone_DST            = [[Irish Standard Time|IST]]
+|utc_offset_DST          = +1
+}}

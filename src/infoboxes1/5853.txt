@@ -1,0 +1,94 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+|name                    = {{raise|0.2em|Hotan}}
+|official_name           = <!-- Official name in English if different from 'name' -->
+|native_name             = {{lower|0.1em|{{nobold|{{lang|ug|خوتەن شەھىرى}}<br>{{lower|0.2em|{{lang|zh-hans|和田市}}}}}}}}
+|other_name              = {{lower|0.2em|Khotan, Gaustana, Gosthana}}
+|settlement_type         = [[County-level city]]
+|pushpin_map             = Xinjiang
+|pushpin_label_position  = 
+|pushpin_map_caption     = Location in Xinjiang
+|pushpin_mapsize         =
+|pushpin_relief          = yes
+|coordinates             = {{coord|37|06|N|80|01|E|region:CN-65|display=inline,title}}
+|image_skyline           = Kurban Tulum with Mao Zedong, Hotan, China.jpg
+|imagesize               = 
+|image_alt               = 
+|image_caption           = [[Tuanjie Square]]
+|image_map               = 
+|mapsize                 = 
+|map_alt                 = 
+|map_caption             = 
+|image_map1              = 
+|mapsize1                = 
+|map_alt1                = 
+|map_caption1            = 
+|image_dot_map           = 
+|dot_mapsize             = 
+|dot_map_base_alt        = 
+|dot_map_alt             = 
+|dot_map_caption         = 
+|dot_x = |dot_y          = 
+|coor_pinpoint           = 
+|coordinates_footnotes   = 
+|subdivision_type        = Country
+|subdivision_name        = People's Republic of China
+|subdivision_type1       = [[Autonomous regions of China|Autonomous region]]
+|subdivision_name1       = [[Xinjiang]]
+|subdivision_type2       = [[Prefectures of China|Prefecture]]
+|subdivision_name2       = [[Hotan Prefecture|Hotan]]
+|subdivision_type3       = Township-level divisions
+|subdivision_name3       =
+|established_title       = 
+|established_date        = 
+|founder                 = 
+|named_for               = 
+|seat_type               = 
+|seat                    = Nurbag Subdistrict ({{nowrap|{{lang|zh-hans|奴尔巴格街道}}}})
+|government_footnotes    = 
+|government_type         = 
+|leader_party            = 
+|leader_title            = 
+|leader_name             = 
+|leader_title1           = 
+|leader_name1            = 
+|total_type              = 
+|unit_pref               = 
+|area_magnitude          = 
+|area_footnotes          = <ref name="xzqhhotancity"/>
+|area_total_km2          = 465.84
+|area_land_km2           = 
+|area_water_km2          = 
+|area_water_percent      = 
+|elevation_footnotes     = 
+|elevation_m             = 1382
+|population_footnotes    = <ref>{{Cite web|date=12 November 2019|title=(新疆）2018年和田市国民经济和社会发展统计公报|url=http://m.ahmhxc.com/tongjigongbao/16523.html|url-status=live|access-date=12 March 2021|language=zh}}</ref>
+|population_total        = 408,894
+|population_as_of        = 2018
+|population_density_km2  = auto 
+|population_est          = 
+|pop_est_as_of           = 
+|population_note         = 
+|demographics_type2              = [[List of ethnic groups in China|Ethnic groups]]
+|demographics2_title1            = Major ethnic groups
+|demographics2_info1             = [[Uyghurs|Uyghur]]<ref name="1997xzqhhotan">{{cite web|url=http://www.xzqh.org/html/show/xj/22439.html|script-title=zh:1997年和田市行政区划|trans-title=1997 Hotan City Administrative Divisions|date=6 January 2011|access-date=3 April 2020|website=XZQH.org|quote={{lang|zh-hans|面积189平方千米，人口14.8万，有维吾尔、汉、回、哈萨克、蒙古、锡伯、柯尔克孜等13个民族，其中维吾尔族占85％，辖4个街道1镇3乡。}}}}</ref>
+|timezone1               = [[China Standard Time|China Standard]]
+|utc_offset1             = +8 
+|postal_code_type        = [[Postal code of China|Postal code]]
+|postal_code             = 839000
+|area_code_type          = 
+|area_code               = 0903
+|website                 = [http://www.hts.gov.cn Hotan Government Website (in Chinese)] 
+|blank_name             = [[Gross regional product|GDP]] (Nominal)<ref>{{Cite web|date=12 November 2019|title=(新疆）2018年和田市国民经济和社会发展统计公报|url=http://m.ahmhxc.com/tongjigongbao/16523.html|url-status=live|access-date=12 March 2021|language=zh}}</ref>
+|blank_info                      = 2018
+|blank1_name                     = &nbsp;- Total
+|blank1_info                     = ¥8.274 billion<br/>$1.247 billion
+|blank2_name                     = &nbsp;- Per Capita
+|blank2_info                     = ¥20,399<br/>$3,076
+|blank3_name                     = &nbsp;- Growth
+|blank3_info                     = {{increase}} 7.1%
+|blank4_name = Local languages
+|blank4_info = [[Uyghur language|Uyghur]], [[Mandarin Chinese]]
+|blank5_name = [[License plates of the People's Republic of China|License plate]] prefix
+|blank5_info = 新R
+}}

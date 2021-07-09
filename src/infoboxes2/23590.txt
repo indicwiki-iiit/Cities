@@ -1,0 +1,36 @@
+{{Infobox historic subdivision
+|  |Name       = Sussex
+| subdivision_type      = [[historic counties of England|Historic county]]
+  |Image      = [[File:Flag of Sussex.svg|160px|Flag of Sussex]]<br/> [[Flag of Sussex]]
+  |HQ         = [[Chichester]] or [[Lewes]]
+  |Government = 
+  |Origin     = [[Kingdom of Sussex]]
+  |Status     = [[Historic counties of England|Historic county]] (current)<ref name="CLG-EP"/><ref name="Ind-EP"/><br/> [[Ceremonial counties of England|Ceremonial county]] (until 1974)
+  |Start      = [[Historic counties of England|5th century]]
+  |End        = 
+  |Code       = SSX
+  |CodeName   = [[Chapman code]]
+  |Replace    = [[East Sussex]] and [[West Sussex]]
+  |Motto      = ''"[[We wunt be druv]]"''
+  |Divisions  = [[Rape (county subdivision)|Rapes]]
+  |DivisionsMap= [[File:Rapes of Sussex.svg|250px|Rapes of Sussex]]
+  |DivisionsNames= [[Rape of Chichester|1 Chichester]] • [[Rape of Arundel|2 Arundel]] • [[Rape of Bramber|3 Bramber]] • [[Rape of Lewes|4 Lewes]] • [[Rape of Pevensey|5 Pevensey]] • [[Rape of Hastings|6 Hastings]]
+  |Map         = [[File:SussexBrit5.PNG|250px|Ancient extent of Sussex]]<br />''Sussex within the United Kingdom''
+  |coordinates = {{coord|51|0|format=dms|type:landmark|display=title,inline}}
+  |Arms        = 
+  |Civic       = 
+
+  |PopulationFirst     = 602,255<ref name=pop>National Statistics - [http://www.statistics.gov.uk/census2001/bicentenary/pdfs/sussex.pdf 200 Years of the Census in Sussex]</ref>
+  |PopulationFirstYear = 1901
+  |AreaFirst           = {{convert|1456.89|mi2|km2|0}}<ref name=pop/>
+  |AreaFirstYear       = 1901
+  |DensityFirst        = {{convert|413.384|PD/sqmi|PD/sqkm}}
+  |DensityFirstYear    = 1901
+
+  |PopulationLast     = 1,609,600<ref name="ONS2011"/>
+  |PopulationLastYear = 2011
+  |AreaLast           = {{convert|1460.78|mi2|km2|0}}<ref name=pop/>
+  |AreaLastYear       = 2011
+  |DensityLast        = {{convert|1101.8|PD/sqmi|PD/sqkm}}
+  |DensityLastYear    = 2011
+}}

@@ -1,0 +1,26 @@
+{{Infobox UK place
+|official_name = Port Glasgow
+|static_image_name= Port Glasgow.jpg
+|static_image_caption= Port Glasgow
+|static_image_width= 250px
+|country = Scotland
+|area_total_km2 = 4.75
+|area_footnotes = <ref>{{cite web |url=https://www.citypopulation.de/php/uk-scotland.php?cityid=S19001135 |title=Port Glasgow (Inverclyde, Scotland, United Kingdom) - Population Statistics, Charts, Map, Location, Weather and Web Information |website=www.citypopulation.de |access-date=14 April 2019}}</ref>
+| population = {{Scottish locality populations|name|POP=Port Glasgow}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|edinburgh_distance_mi = 58
+|london_distance_mi = 358
+|os_grid_reference= NS321746
+|coordinates = {{coord|55.9340|-4.6906|display=inline,title}}
+|historic_county = [[Renfrewshire]]
+|post_town= PORT GLASGOW
+|postcode_area= PA
+|postcode_district = PA14
+|dial_code= 01475
+|constituency_westminster= [[Inverclyde (UK Parliament constituency)|Inverclyde]]
+|gaelic_name= Port Ghlaschu
+|scots_name= Port Glesga
+|unitary_scotland= [[Inverclyde]]
+|lieutenancy_scotland= [[Renfrewshire]]
+|constituency_scottish_parliament= [[Greenock and Inverclyde (Scottish Parliament constituency)|Greenock and Inverclyde]]
+}}

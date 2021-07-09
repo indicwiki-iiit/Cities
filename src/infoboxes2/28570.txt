@@ -1,0 +1,36 @@
+{{Infobox Australian place | type = town
+| name     = Barcaldine
+| state    = qld
+| image    = QLD Town of Barcaldine in June 1962.jpg
+| caption  = Barcaldine, 1962
+| lga      = [[Barcaldine Region]]
+| elevation= 266.9
+| coordinates         = {{coord|-23.5555|145.2888|type:city_region:AU-QLD|display=inline,title}}
+| pop                 = 1422
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1885
+| postcode            = 4725
+| area                = 745.7
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| maxtemp  = 30.0
+| mintemp  = 16.2
+| rainfall = 497.7
+| stategov = [[Electoral district of Gregory|Gregory]]
+| fedgov   = [[Division of Maranoa|Maranoa]]
+| dist1    =  1073
+| location1= [[Brisbane]]
+| dist2    = 520
+| location2= [[Rockhampton, Queensland|Rockhampton]]
+| dist3    = 107
+| location3= [[Longreach, Queensland|Longreach]]
+| near-n              = [[Aramac, Queensland|Aramac]]
+| near-ne             = [[Jericho, Queensland|Jericho]]
+| near-e              = [[Jericho, Queensland|Jericho]]
+| near-se             = [[Blackall, Queensland|Blackall]]
+| near-s              = [[Blackall, Queensland|Blackall]]
+| near-sw             = [[Ilfracombe, Queensland|Ilfracombe]]
+| near-w              = [[Ilfracombe, Queensland|Ilfracombe]]
+| near-nw             = [[Ilfracombe, Queensland|Ilfracombe]]
+}}

@@ -1,0 +1,105 @@
+{{Infobox settlement
+| official_name           = Gödöllő
+| other_name              = {{lang|de|Getterle}} {{in lang|de}}<br/>{{lang|sk|Jedľovo}} {{in lang|sk}}
+| settlement_type         = [[List of cities and towns of Hungary|Town]]
+| image_blank_emblem      = 
+| image_skyline          = {{Photomontage
+  | photo1a = University of Gödöllő 02.JPG{{!}}
+  | photo1b = Gödöllői királyi kastély 02.JPG{{!}}
+  | photo2a = Királyi pavilon 03.JPG{{!}}
+  | photo2b = Hotel Queen Elisabeth, Gödöllő 01.JPG{{!}}
+  | photo3a = Besnyo5FotoThalerTamas.JPG{{!}}
+  | photo3b = Town Museum of Gödöllő 06.JPG{{!}}
+  | photo4a = Royal Waiting Room, Gödöllő.JPG{{!}}
+  | photo4b = Művészetek Háza 04.JPG{{!}}
+  | spacing = 0
+  | position = center
+  | color_border = white
+  | color = white
+  | size = 300
+  | foot_montage = Descending from top: Main building of the [[Szent István University]], [[Gödöllő Palace]], Royal Pavilion, Hotel Queen Elisabeth, ''Basilica of Our Lady of Assumption'' (in ''Máriabesnyő''), Old Town Hall, Royal Waiting Room, House of Arts}}
+| image_shield            = Gödöllő Coat of Arms.svg
+| image_flag              = Flag of Gödöllő.svg
+| nickname                = City of Sissi
+| pushpin_map             = Hungary#Europe
+| pushpin_relief          = 1
+| pushpin_map_caption     = Location of Gödöllő
+<!-- | pushpin_map1            = Hungary Pest -->
+<!-- | pushpin_map_caption1    = Location of Gödöllő -->
+| coordinates             = {{coord|47|36|0.00|N|19|22|0.12|E|region:HU|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{HUN}}
+| subdivision_type1       = [[List of regions of Hungary|Region]]
+| subdivision_name1       = [[Central Hungary]]
+| subdivision_type2       = [[Counties of Hungary|County]]
+| subdivision_name2       = [[Pest County|Pest]]
+| subdivision_type3       = [[Districts of Hungary|District]]
+| subdivision_name3       = [[Gödöllő District|Gödöllő]]
+| established_title       = Settled
+| established_date        = 1349
+| established_title1      = [[Municipal corporation|Incorporated]]
+| established_date1       = 1868
+| leader_title            = Mayor
+| leader_name             = [[György Gémesi]]
+| area_total_km2          = 61.92
+| area_land_km2           = 58.36
+| area_water_km2          = 3.56
+| area_rank               = 97th in Hungary
+| elevation_m             = 207
+| elevation_ft            = 690
+| elevation_max_m         = 317
+| elevation_min_m         = 189
+| population_footnotes    = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=32559 Gödöllő, KSH]</ref>
+| population_total        = 32408
+| population_as_of        = 2017
+| population_rank         = [[List of cities in Hungary|29th]]
+| population_density_km2  = 511.53
+| population_urban        = 104471
+| population_blank1_title = Demonym
+| population_blank1       = gödöllői
+<!-- demographics (section 1) -->
+| demographics_type1      = [[Demographics of Hungary|Population by ethnicity]]
+| demographics1_footnotes = <ref name="MAGYARORSZÁG HELYSÉGNÉVTÁRA, 2012">{{cite web|url=http://www.ksh.hu/apps/!cp.hnt2.telep?nn=32559 |title=MAGYARORSZÁG HELYSÉGNÉVTÁRA, 2012 |publisher=Ksh.hu |access-date=2013-08-22}}</ref>
+| demographics1_title1    = [[Hungarians]]
+| demographics1_info1     = 94.4%
+| demographics1_title2    = [[Romani people in Hungary|Gypsies]]
+| demographics1_info2     = 1.1%
+| demographics1_title3    = [[Hungarian Germans|Germans]]
+| demographics1_info3     = 0.6%
+| demographics1_title4    = [[Slovaks in Hungary|Slovaks]]
+| demographics1_info4     = 0.4%
+| demographics1_title5    = [[Ukrainians in Hungary|Ukrainians]]
+| demographics1_info5     = 0.1%
+| demographics1_title6    = [[Pole and Hungarian cousins be|Poles]]
+| demographics1_info6     = 0.05%
+| demographics1_title7    = [[Romanians in Hungary|Romanians]]
+| demographics1_info7     = 0.04%
+| demographics1_title8    = Others
+| demographics1_info8     = 3.31%
+<!-- demographics (section 2) -->
+| demographics_type2      = [[Demographics of Hungary|Population by religion]]
+| demographics2_footnotes = <ref name="MAGYARORSZÁG HELYSÉGNÉVTÁRA, 2012"/>
+| demographics2_title1    = [[Catholic Church in Hungary|Roman Catholic]]
+| demographics2_info1     = 52.0%
+| demographics2_title2    = [[Hungarian Greek Catholic Church|Greek Catholic]]
+| demographics2_info2     = 1.2%
+| demographics2_title3    = [[Atheists]]
+| demographics2_info3     = 15.3%
+| demographics2_title4    = [[Reformed Church in Hungary|Calvinists]]
+| demographics2_info4     = 14.8%
+| demographics2_title5    = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+| demographics2_info5     = 3.1%
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        = [[Postal codes in Hungary|Postal code]]
+| postal_code             = 2100
+| area_code_type          = [[Telephone numbers in Hungary|Area code]]
+| area_code               = (+36) 28
+| blank_name              = Motorways
+| blank_info              = [[M3 motorway (Hungary)|M3]], [[M31 motorway (Hungary)|M31]]
+| blank2_name             = Distance from Budapest
+| blank2_info             = {{convert|30.7|km|abbr=on}} Southwest
+| website                 = {{URL|http://www.godollo.hu/}}
+}}

@@ -1,0 +1,26 @@
+{{Infobox UK place
+|country = Scotland
+|official_name= Neilston
+|gaelic_name= Baile Nèill<ref>[http://www.gaelicplacenames.org/databasedetails.php?id=533 Ainmean-Àite na h-Alba ~ Gaelic Place-Names of Scotland]</ref>
+|scots_name= Neilstoun<ref name=railwaynames>[http://newsnetscotland.com/index.php/component/content/article/2999-list-of-railway-station-names.html List of railway station names in English, Scots and Gaelic – NewsNetScotland] {{webarchive |url=https://web.archive.org/web/20130122064223/http://newsnetscotland.com/index.php/component/content/article/2999-list-of-railway-station-names.html |date=January 22, 2013 }}</ref>
+| population = {{Scottish locality populations|name|POP=Neilston}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ |population_density= {{convert|11484|/sqmi|/km2|abbr=on}}
+|os_grid_reference= NS480572
+|map_type=Scotland
+|coordinates = {{coord|55.784663|-4.423396|display=inline,title}}
+|unitary_scotland= [[East Renfrewshire]]
+|lieutenancy_scotland= [[Renfrewshire (historic)|Renfrewshire]]
+|constituency_westminster= [[East Renfrewshire (UK Parliament constituency)|East Renfrewshire]]
+|constituency_scottish_parliament= [[Renfrewshire South (Scottish Parliament constituency)|Renfrewshire South]]
+|historic_county=[[Renfrewshire (historic)|Renfrewshire]]
+|post_town= GLASGOW
+|postcode_district = G78
+|postcode_area= G
+|dial_code= 0141
+|edinburgh_distance= {{convert|44|mi|abbr=on}} [[Boxing the compass|EbN]]
+|london_distance= {{convert|343|mi|abbr=on}} [[Boxing the compass|SSE]]
+|static_image_name=Editted Neilston village (Glasgow beyond).jpg
+|static_image_caption= A view of the village of Neilston, with the city of [[Glasgow]] in the distance
+|area_total_sq_mi=0.45
+}}

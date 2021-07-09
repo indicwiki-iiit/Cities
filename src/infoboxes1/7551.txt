@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Lod
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|לוד}}|rtl=yes}}
+ | {{Lang|ar|{{lang|ar|اللد}}|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]]
+| image_skyline          = Downtown_area_of_Lod,_Israel_00262.JPG
+| image_caption          = Lod city center
+| image_blank_emblem     = [[File:Coat of arms of Lod.svg|60px]]
+| pushpin_map_alt        = 
+| pushpin_map            = Israel
+| pushpin_mapsize        = 150
+| pushpin_label_position = 
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|57|7|N|34|53|17|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 5600–5250 BCE <small>(Initial settlement)</small><br>1465 BCE <small>(Canaanite/Israelite town)</small>
+| leader_title           = Mayor
+| leader_name            = Yair Revivo
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:12226|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Lod}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

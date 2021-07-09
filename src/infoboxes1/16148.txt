@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|official_name          = Suan Miang
+|other_name             = 
+|native_name            = สวนเมี่ยง
+|nickname               = 
+|settlement_type        = Tambon
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+<!-- Location ------------------>
+|subdivision_type      = District
+|subdivision_name      = [[Chat Trakan District|Chat Trakan]]
+|subdivision_type2      = Province
+|subdivision_name2      = [[Phitsanulok Province|Phitsanulok]]
+|subdivision_type3      = Country
+|subdivision_name3      = [[Thailand]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|established_title      = 
+|established_date       = 
+|established_title2     = 
+|established_date2      = 
+|established_title3     =
+|established_date3      =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           =
+|area_metro_km2           =
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Population   ----------------------->
+|population_as_of               = 2005
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 5,559
+|population_density_km2         = 
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[Time in Thailand|ICT]]
+|utc_offset             = +7
+|coordinates            = 
+|elevation_footnotes    =  
+|elevation_m            = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = 65170
+|area_code              = 
+|blank_name             = Geocode
+|blank_info             = 650303
+|blank1_name            =
+|blank1_info            =
+|website                =  
+|footnotes              = 
+}}

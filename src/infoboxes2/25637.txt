@@ -1,0 +1,28 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Lyubimets
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Lyubimets|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Lyubimets
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|
+native_name=Любимец|
+subdivision_name1=[[Haskovo Province|Haskovo]]|
+population_total=7,670|population_footnotes=<ref name="statistika"/>|
+population_as_of=31.12.2009|
+elevation_m=56|
+postal_code=6550|
+area_code=03751
+|coordinates            = {{coord|41|50|N|26|5|E|region:BG|display=inline,title}}
+|leader_name=Anastas Anastasov|
+}}

@@ -1,0 +1,39 @@
+{{Infobox Australian place
+| type         =city
+| name         = Warrnambool
+| state        = vic
+| image        = View from Pickering Point, Warrnambool.JPG
+| caption      = Warrnambool foreshore from Pickering Point
+| pop          = 35214
+| pop_year     = 2018
+| pop_footnotes = <ref name=ABSSUA/>
+| poprank      =
+| density      =
+| lga          = [[City of Warrnambool]]
+| postcode     = 3280
+| county       =
+| est          = 1855
+| area         =
+| coordinates  = {{coord|38|23|0|S|142|29|0|E|display=inline,title}}
+| timezone     = [[UTC10|AEST]]
+| utc          = +10
+| maxtemp      = 17.9
+| mintemp      = 9.6
+| rainfall     = 741.9
+| timezone-dst = [[UTC11|AEST]]
+| utc-dst      = +11
+| stategov     = [[Electoral district of South-West Coast|South-West Coast]]
+| fedgov       = [[Division of Wannon|Wannon]]
+| dist1    = 265
+| dir1     = SW
+| location1= [[Melbourne, Victoria|Melbourne]]
+| dist2    = 114
+| dir2     = W
+| location2= [[Colac, Victoria|Colac]]
+| dist3    = 115
+| dir3     = SE
+| location3= [[Hamilton, Victoria|Hamilton]]
+| dist4    = 106
+| dir4     = E
+| location4= [[Portland, Victoria|Portland]]
+}}

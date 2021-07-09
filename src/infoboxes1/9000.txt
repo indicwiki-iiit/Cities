@@ -1,0 +1,25 @@
+{{Infobox airport
+| name         = RAFO Thumrait
+| nativename   = 
+| image        = 
+| IATA         = TTH
+| ICAO         = OOTH
+| pushpin_map            = Oman
+| pushpin_map_caption    = {{nobold|Location of airport in Oman}}
+| pushpin_label          = RAFO
+| pushpin_label_position = top
+| type         = Military
+| owner        = [[Sultan of Oman's Armed Forces]]
+| operator     = [[Royal Air Force of Oman]]
+| location     = [[Thumrait]], [[Oman]]
+| elevation-f  = 1526
+| elevation-m  = 
+| coordinates  = {{coord|17|39|57|N|054|01|28|E|region:OM_type:airport}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 17/35
+| r1-length-m  = 4,000
+| r1-length-f  = 13,123
+| r1-surface   = Asphalt
+| footnotes    = Sources:<ref name="WAD">[http://www.worldaerodata.com/wad.cgi?airport=OOTH Airport information for OOTH] from [[DAFIF]] (effective October 2006)</ref><ref name="GCM">{{GCM|TTH|source=DAFIF}}</ref>
+}}

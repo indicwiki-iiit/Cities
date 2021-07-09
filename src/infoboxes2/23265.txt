@@ -1,0 +1,26 @@
+{{Infobox UK place
+|gaelic_name                       = An Leargaidh Ghallda <ref>[http://www.ainmean-aite.org/database.asp?intent=details&id=530/''Ainmean-Àite na h-Alba ~ Gaelic Place-names of Scotland]{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|official_name                     = Largs
+|type = [[Town]] 
+|static_image_name                 = DPP 00226.JPG
+|static_image_caption              = Part of Largs seafront showing part of the town centre of Largs
+|static_image_width                = 260px
+| population = {{Scottish locality populations|name|POP=Largs}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+|unitary_scotland                  = [[North Ayrshire]]
+|lieutenancy_scotland              = [[Ayrshire and Arran]]
+|constituency_westminster          = [[North Ayrshire and Arran (UK Parliament constituency)|North Ayrshire and Arran]]
+|constituency_scottish_parliament  = [[Cunninghame North (Scottish Parliament constituency)|Cunninghame North]]
+|country                           = Scotland
+|coordinates                       = {{coord|55.794|-4.867|region:GB_type:city|display=inline,title}}
+|os_grid_reference                 = NS203592
+|map_type                          = 
+|historic_county = [[Ayrshire]]
+|post_town                         = LARGS
+|postcode_district                 = KA30
+|postcode_area                     = KA
+|dial_code                         = 01475
+|edinburgh_distance_mi             = 66
+|london_distance_mi                = 354
+|website                           = 
+}}

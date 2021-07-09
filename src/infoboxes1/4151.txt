@@ -1,0 +1,99 @@
+{{Infobox settlement
+|name = Thousand Oaks, California
+|official_name = City of Thousand Oaks
+|settlement_type = [[City (California)|City]]
+|image_skyline = Mount-Clef-Ridge-Wildwood-Thousand-Oaks-Mountclef.jpg
+|image_caption = Mount Clef Ridge as seen from Tarantula Hill, Thousand Oaks
+|image_flag = 
+|flag_size = 
+|image_seal = Seal of Thousand Oaks, California.png
+|nickname = 
+|motto = 
+|image_map = Ventura County California Incorporated and Unincorporated areas Thousand Oaks Highlighted.svg
+|map_caption = Location in [[Ventura County, California|Ventura County]] and the U.S. state of [[California]]
+| pushpin_map = Los Angeles##USA California#USA
+| pushpin_map_caption = Location in the [[Los Angeles Metropolitan Area]]##Location in [[California]]##Location in the [[United States]]
+|pushpin_relief           = 
+|pushpin_label = Thousand Oaks
+<!-- Location ------------->
+|coordinates = {{coord|34|11|22|N|118|52|30|W|type:city_region:US-CA|display=it}}
+| subdivision_type = Country
+|subdivision_name = United States
+|subdivision_type1 = [[U.S. state|State]]
+|subdivision_name1 = [[California]]
+|subdivision_type2 = [[List of counties in California|County]]
+|subdivision_name2 = [[Ventura County, California|Ventura]]
+<!-- History -------------->
+|established_title2 = [[Municipal corporation|Incorporated]]
+|established_date2 = October 7, 1964<ref>{{cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Government ----------->
+|government_type = [[Council-manager government|Council/Manager]]<ref name=govt>{{cite web|url=http://www.toaks.org/government/default.asp|title=City Government|publisher=Thousand Oaks|access-date=March 20, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150317123410/http://www.toaks.org/government/default.asp|archive-date=March 17, 2015}}</ref>
+|leader_title1 = Mayor
+|leader_name1 = Claudia Bill-de la Pena
+|leader_title2 = [[California's 27th State Senate district|State Senator]]
+|leader_name2 = {{Representative|casd|27|fmt=sleader}}<ref name=swd>{{cite web
+ |url          = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ |title        = Statewide Database
+ |publisher    = UC Regents
+ |access-date   = November 30, 2014
+ |df           = mdy-all
+ |archive-url  = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ |archive-date = February 1, 2015
+ |url-status   = dead
+}}</ref>
+|leader_title3 = [[California's 44th State Assembly district|CA Assembly]]
+|leader_name3 = {{Representative|caad|44|fmt=sleader}}<ref name=swd />
+|leader_title4 = [[California's 26th congressional district|U. S. Rep.]]
+|leader_name4 = {{Representative|cacd|26|fmt=usleader}}<ref>{{Cite GovTrack|CA|26|access-date=October 5, 2014}}</ref>
+<!-- Area ----------------->
+|unit_pref = Imperial
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi = 55.41
+|area_total_km2 = 143.51
+|area_land_sq_mi = 55.26
+|area_land_km2 = 143.13
+|area_water_sq_mi = 0.14
+|area_water_km2 = 0.38
+|area_water_percent = 0.27
+|area_metro_sq_mi = 
+|area_metro_km2 = <!-- Elevation ------------>
+|elevation_footnotes = <ref>{{Cite GNIS|1661567|Thousand Oaks|access-date=January 31, 2015}}</ref>
+|elevation_ft = 886
+|elevation_m = 270
+<!-- Population ----------->
+|population_as_of = [[2010 United States Census|2010]]
+|population_footnotes = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0678582.html|title=Thousand Oaks (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=February 9, 2015|url-status=live|archive-url=https://web.archive.org/web/20120920194141/http://quickfacts.census.gov/qfd/states/06/0678582.html|archive-date=September 20, 2012}}</ref>
+|population_total = 126683
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|population_est = 126813
+|population_rank = [[Ventura County, California|2nd]] in Ventura County<br />[[List of largest California cities by population|47th]] in California
+|population_density_sq_mi = 2294.68
+|population_metro = 
+|population_density_metro_sq_mi = 
+|population_density_metro_km2 = <!-- Time zones ----------->
+|timezone = [[Pacific Time Zone|Pacific]]
+|utc_offset = −8
+|timezone_DST = PDT
+|utc_offset_DST = −7
+<!-- Codes ---------------->
+|postal_code_type = [[ZIP Code]]s
+|postal_code = 91320, 91359–91362
+|area_code = [[Area codes 805 and 820|805/820]]
+|blank_name = [[Federal Information Processing Standard|FIPS code]]
+|blank_info = {{FIPS|06|78582}}
+|blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info = {{GNIS 4|1661567}}, {{GNIS 4|2412065}}
+|website = {{URL|www.toaks.org}}
+|population_density_km2 = 885.98
+}}

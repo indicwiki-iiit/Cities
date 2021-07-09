@@ -1,0 +1,41 @@
+{{Infobox Australian place
+| type                = suburb
+| name                = Urraween
+| city                = Hervey Bay 
+| state               = qld
+| image               = 
+| caption             = 
+| coordinates         = {{coord|-25.2955|152.8219|type:city_region:AU-QLD|display=inline|name=Urraween (centre of suburb)}}
+| pop                 = 6969
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 
+| postcode            = 4655
+| area                = 7.5
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga                 = Fraser Coast Region
+| stategov            = [[Electoral district of Hervey Bay|Hervey Bay]]
+| stategov2           = [[Electoral district of Maryborough (Queensland)|Maryborough]]
+| fedgov              = [[Division of Hinkler|Hinkler]]
+| near-n              = [[Pialba, Queensland|Pialba]]
+| near-ne             = [[Pialba, Queensland|Pialba]]
+| near-e              = [[Kawungan, Queensland|Kawungan]]
+| near-se             = [[Kawungan, Queensland|Kawungan]]
+| near-s              = [[Nikenbah, Queensland|Nikenbah]]
+| near-sw             = [[Nikenbah, Queensland|Nikenbah]]
+| near-w              = [[Dundowran, Queensland|Dundowran]]
+| near-nw             = [[Eli Waters, Queensland|Eli Waters]]
+}}

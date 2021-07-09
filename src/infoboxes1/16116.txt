@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->| official_name                   = City of Lake Elsinore
+| settlement_type                 = [[City (California)|City]]
+<!-- Images and maps ------>| image_skyline                   = Lake-elsinore-view.png
+| image_caption                   = View of Lake Elsinore
+| image_logo                      = 
+| image_seal                      = 
+| image_blank_emblem              = Lakeelsinorelogo.jpg
+| blank_emblem_size               = 235px
+| motto                           = "Dream Extreme"<ref>{{cite web|url= http://www.lake-elsinore.org/ |title= City of Lake Elsinore, California Website |publisher= City of Lake Elsinore, California Website |access-date= September 14, 2012}}</ref>
+| image_map                       = File:Riverside County California Incorporated and Unincorporated areas Lake Elsinore Highlighted 0639486.svg
+| map_caption                     = Location of Lake Elsinore in Riverside County, California
+| pushpin_map                     = California#USA
+| pushpin_map_caption             = Location in California
+| pushpin_relief                  = 1
+<!-- Location ------------->| coordinates                     = {{coord|33|40|53|N|117|20|43|W|region:US-CA|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Riverside County, California|Riverside]]
+<!-- History -------------->| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = April 9, 1888<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Government ----------->| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Bob Magee
+| leader_title1                   = [[City treasurer|Treasurer]]
+| leader_name1                    = Allen P. Baldwin<ref>{{Cite web
+ | url = http://www.lake-elsinore.org/index.aspx?page=338
+ | title = City Treasurer
+ | publisher = City of Lake Elsinore
+ | access-date = September 22, 2014
+ | archive-url = https://web.archive.org/web/20140810091152/http://www.lake-elsinore.org/index.aspx?page=338
+ | archive-date = August 10, 2014
+ | url-status = dead
+ }}</ref>
+<!-- Area ----------------->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi                = 43.51
+| area_total_km2                  = 112.70
+| area_land_sq_mi                 = 38.24
+| area_land_km2                   = 99.03
+| area_water_sq_mi                = 5.28
+| area_water_km2                  = 13.67
+| area_water_percent              = 13.14
+| area_metro_sq_mi                = 
+| area_metro_km2                  = <!-- Elevation ------------>
+| elevation_footnotes             = <ref>{{Cite GNIS|1652704|Lake Elsinore|access-date=November 3, 2014}}</ref>
+| elevation_ft                    = 1296
+| elevation_m                     = 395
+<!-- Population ----------->| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0639486.html|title=Lake Elsinore (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=May 18, 2015|archive-url=https://web.archive.org/web/20150426221605/http://quickfacts.census.gov/qfd/states/06/0639486.html|archive-date=April 26, 2015|url-status=dead}}</ref>
+| population_total                = 51821
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 69283
+| population_density_sq_mi        = 1811.94
+| population_density_km2          = 699.59
+| population_metro                = 
+| population_density_metro_sq_mi  = <!-- Time zone ------------>
+| timezone                        = [[Pacific Time Zone|PST]]
+| utc_offset                      = &minus;8
+| timezone_DST                    = PDT
+| utc_offset_DST                  = &minus;7
+<!-- Codes ---------------->| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 92530&ndash;92532
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 951|951]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS]] code
+| blank_info                      = {{FIPS|06|39486}}
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|1652704}}, {{GNIS 4|2411601}}
+| website                         = {{URL|www.lake-elsinore.org}}
+| name                            = 
+}}

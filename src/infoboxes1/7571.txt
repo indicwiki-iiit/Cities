@@ -1,0 +1,40 @@
+{{Infobox settlement
+| name                   = Ramla
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|רַמְלָה}}|rtl=yes}}
+ | {{Lang|ar|الرملة|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Ramla
+| translit_lang1_type3   = Also spelled
+| translit_lang1_info3   = Ramleh (unofficial)
+| image_skyline          = כנסיית_טרה_סנטה_במבט_מהמגדל_הלבן_-_משמאל_קריית_הממשלה,_מימין_המסגד_הלבן_וברקע_העיר_מודיעין.JPG
+| image_caption          = Ramla seen from the [[White Mosque, Ramla|White Tower]] with the eastern hills around [[Modi'in]] in the background, 2013
+| image_blank_emblem     = Coat of Arms of Ramla.svg
+| blank_emblem_type      = Emblem of Ramla
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = right
+| pushpin_map_caption    = Location within Israel
+| coordinates            = {{coord|31|55|39|N|34|51|45|E|region:IL|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = {{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = c. 705–715
+| leader_title           = Mayor
+| leader_name            = Michael Vidal
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:9993|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Ramla}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+}}

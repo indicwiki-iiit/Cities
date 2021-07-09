@@ -1,0 +1,63 @@
+{{Infobox settlement
+| name                    = Český Krumlov
+| native_name             = 
+| other_name              = {{lang|de|(Böhmisch) Krumau}}
+| settlement_type         = Town
+<!-- images, nickname, motto -->
+| image_skyline           = View from Seminární zahrada, Český Krumlov, Czechia.jpg
+| image_caption           = View over Český Krumlov
+| image_flag              = Flag of Český Krumlov.svg
+| image_shield            = Cesky Krumlov CoA CZ.png
+| etymology               = 
+<!-- location -->
+| subdivision_type        = Country
+| subdivision_name        = Czech Republic
+| subdivision_type1       = [[Regions of the Czech Republic|Region]]
+| subdivision_name1       = [[South Bohemian Region|South Bohemian]]
+| subdivision_type2       = [[Districts of the Czech Republic|District]]
+| subdivision_name2       = [[Český Krumlov District|Český Krumlov]]
+<!-- maps and coordinates -->
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Czech Republic
+| pushpin_relief         = 1
+| pushpin_map_caption    = Location in the Czech Republic
+| coordinates            = {{coord|48|48|40|N|14|18|55|E|display=inline,title}}
+| coordinates_footnotes  = 
+<!-- government type, leaders -->
+| leader_title           = Mayor
+| leader_name            = Dalibor Carda
+<!-- established -->
+| established_title      = First mentioned
+| established_date       = 1253
+<!-- area -->
+| area_footnotes         = 
+| area_total_km2         = 22.16
+<!-- elevation -->
+| elevation_footnotes    = 
+| elevation_m            = 492
+<!-- population -->
+| population_as_of        = 2020-01-01<ref>{{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=3 April 2020}}</ref>
+| population_footnotes    = 
+| population_total        = 12981
+| population_density_km2  = auto
+<!-- time zone(s) -->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code -->
+| postal_code_type        = Postal code
+| postal_code             = 381 01
+| area_code_type          = 
+| area_code               = 
+<!-- website, footnotes -->
+| website                 = [http://www.ckrumlov.info/docs/en/kaktualita.xml www.ckrumlov.info]
+| footnotes               = {{Infobox UNESCO World Heritage Site
+  | Official_name = Historic Centre of Český Krumlov
+  | Criteria      = iv 
+  | ID            = 617
+  | Year          = 1992
+  | child         = yes
+}}
+}}

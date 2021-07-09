@@ -1,0 +1,29 @@
+{{Infobox military conflict
+| conflict = Battle of Shiloh<br />{{small|Battle of Pittsburg Landing}}
+| partof = the [[Western Theater of the American Civil War]]
+| image = Thure de Thulstrup - Battle of Shiloh (cropped).jpg
+| image_size = 300px
+| caption = The '' '''Battle of Shiloh''' '' by [[Thure de Thulstrup|Thulstrup]]<!-- EDITORS NOTE: Please do not change this caption as it currently conforms to TemplateData for Infobox military conflict. Thank you. -->
+| date = April 6–7, 1862
+| place = [[Hardin County, Tennessee|Hardin County]], [[Tennessee in the American Civil War|Tennessee]]
+| coordinates = {{coord|35|08|19|N|88|20|32|W|region:US-TN_type:event|display=inline,title}}
+| result = Union victory
+| combatant1 = {{flag|United States|1861}}
+| combatant2 = {{flag|Confederate States|1861}}
+| commander1 = [[Ulysses S. Grant]]<br /> [[Don Carlos Buell]]
+| commander2 = [[Albert Sidney Johnston]]{{KIA}}<br /> [[P. G. T. Beauregard]]
+| units1 =
+* [[Army of the Tennessee]]{{sfn|Official Records|1884|pp=100–05}}
+* [[Army of the Ohio]]{{sfn|Official Records|1884|pp=105–08}}{{sfn|Eicher|2001|p=222}}
+| units2 = [[Army of Mississippi]]{{sfn|Official Records|1884|pp=382–84}}{{efn|name="ArmyMiss"}}
+| strength1 = ~63,000 (estimated):{{sfn|Stephens|2010|pp=80, 90–93}}{{efn|66,812 according to {{harvnb|Eicher|2001|pp=222–23}} (Army of the Tennessee: 48,894; Army of the Ohio: 17,918)}}
+* Army of the Tennessee: 44,894{{sfn|Official Records|1884|p=112}}<ref name="Eicher p. 222">48,894 according to {{harvnb|Eicher|2001|p=222}}.</ref>
+* Army of the Ohio:<br />~17,918<ref>17,918 {{harvnb|Eicher|2001|p=223}}.</ref>
+| strength2 = 40,335{{sfn|Official Records|1884|p=396}}<ref name=CF>44,699 according to {{harvnb|Eicher|2001|p=222}}</ref>
+| casualties1 = '''13,047'''{{sfn|Official Records|1884|p=108}}{{sfn|Cunningham|2007|pp=422–24}} <div style="line-height:1.2em;">(1,754 killed;<br />&nbsp;8,408 wounded;<br />&nbsp;2,885 captured/missing)</div>
+| casualties2 = '''10,699'''{{sfn|Official Records|1884|p=395}}{{sfn|Cunningham|2007|p=422}} <div style="line-height:1.2em;">(1,728 killed;<br />&nbsp;8,012 wounded;<br />&nbsp;959 captured/missing)</div>
+| map_type = Tennessee#USA
+| map_label = Shiloh
+| map_caption= Location within the state of [[Tennessee]]
+| campaignbox = {{Campaignbox Federal Penetration up the Cumberland and Tennessee Rivers}}
+}}

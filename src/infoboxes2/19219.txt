@@ -1,0 +1,77 @@
+{{Infobox settlement
+|official_name            = Lincolnton, North Carolina
+|settlement_type          = [[City]]
+|nickname                 = 
+|named_for                = [[Benjamin Lincoln]]
+|motto                    = "Near the City. Near the Mountains. Near Perfect."
+
+<!-- Images -->
+|image_skyline            = Lincolnton-Main-St.jpg
+|imagesize                = 250px
+|image_caption            = View along Main Street ([[North Carolina Highway 27|NC 27]])
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = NCMap-doton-Lincolnton.PNG
+|mapsize                  = 250x200px
+|map_caption              = Location of Lincolnton, North Carolina
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[North Carolina]]
+|subdivision_type2        = [[List of counties in North Carolina|County]]
+|subdivision_name2        = [[Lincoln County, North Carolina|Lincoln]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Ed Hatley
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_37.txt|publisher=United States Census Bureau|access-date=July 27, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 22.66
+|area_land_km2            = 22.47
+|area_water_km2           = 0.19
+|area_total_sq_mi         = 8.75
+|area_land_sq_mi          = 8.68
+|area_water_sq_mi         = 0.07
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 10486
+|population_density_km2   = 498.48
+|population_density_sq_mi = 1291.07
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name=gnis>{{GNIS|1021154}}</ref>
+|elevation_m              = 
+|elevation_ft             = 833
+|coordinates              = {{coord|35|28|25|N|81|15|16|W|region:US_type:city|display=inline,title}}<ref name=gnis/>
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 28092-28093
+|area_code                = [[Area code 704|704]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 37-38320<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID = 1021154<ref name=gnis/>
+|website                  = {{URL|www.ci.lincolnton.nc.us}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 11200
+}}

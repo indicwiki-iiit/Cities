@@ -1,0 +1,62 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->| name                            = Dudhauli
+| other_name                      = 
+| native_name                     = दुधौली
+| nickname                        = 
+| settlement_type                 = [[Municipality]]
+| motto                           = <!-- images and maps  -->
+| image_skyline                   = Sindhuli_Fort_01.jpg
+| image_caption                   = 
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = 
+| mapsize                         = 300px
+| map_caption                     = A view of Dudhauli.
+| pushpin_map                     = Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = right
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location in Nepal
+<!-- Location -->| subdivision_type                = Country
+| subdivision_name                = {{flag|Nepal}}
+| subdivision_type1               = [[Development regions of Nepal|Region]]
+| subdivision_name1               = [[Central (Madhyamanchal), Nepal|Central]]
+| subdivision_type2               = [[Zones of Nepal|Zone]]
+| subdivision_name3               = [[Janakpur]]
+now
+[[3 No. State]]
+| subdivision_type4               = [[Districts of Nepal|District]]
+| subdivision_name4               = [[Sindhuli District]]
+| subdivision_type5               = [[Municipality]]|<!-- Politics -->
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Ghana Shyam Raut ([[Nepal Communist Party|NCP]])
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Bal Kumari Adhikari Danuwar ([[Nepal Communist Party|NCP]])
+| established_title               = <!-- Settled -->
+| established_date                = <!-- Area    -->
+| unit_pref                       = <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 390.39
+<!-- Population   -->| population_as_of                = 2011
+| population_footnotes            = A populated Place Of Sindhuli District.
+| population_note                 = 65302
+| population_density_km2          = auto
+| population_blank1_title         = Ethnicities
+<!-- General information  -->| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| coordinates                     = {{coord|26|58|10|N|86|16|15|E|region:NP_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = <!-- Area/postal codes & others -->
+| postal_code_type                = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 
+| area_code                       = 
+| blank_name                      = 
+| blank_info                      = 
+| website                         = http://dudhaulimun.gov.np
+| footnotes                       = 
+| official_name                   = 
+}}

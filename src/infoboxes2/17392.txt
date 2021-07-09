@@ -1,0 +1,81 @@
+{{Infobox settlement
+|name                     = Cedar City, Utah
+|settlement_type          = [[City (Utah)|City]]
+|nickname                 = Festival City USA<ref>{{Cite web| url=https://www.cedarcity.org| title=Cedar City: Festival City USA| publisher=City of Cedar City| access-date=April 12, 2018}}</ref> 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Cedar City Utah 02.jpg{{!}}border
+|imagesize                = 
+|image_caption            = Main Street in September 2005
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Iron County Utah incorporated and unincorporated areas Cedar City highlighted.svg
+|map_caption              = Location in [[Iron County, Utah|Iron County]] and the state of [[Utah]]
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = State
+|subdivision_name1        = [[Utah]]
+|subdivision_type2        = [[County (United States)|County]]
+|subdivision_name2        = [[Iron County, Utah|Iron]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Maile Wilson
+|leader_party             = [[Utah Republican Party|R]]<ref>{{cite web|url=https://money.cnn.com/2014/12/05/news/economy/ozy-millennial-politicians/index.html|title=Millennial politicians take on small towns
+|website=CNN Money|date=5 December 2014
+|access-date=June 19, 2020}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Founded
+|established_date         = November 11, 1851
+|established_title1       = [[Incorporated town|Incorporated]]
+|established_date1        = February 18, 1868
+|named_for                = [[Juniper]] ("cedar") trees
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_49.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 93.10
+|area_land_km2            = 92.89
+|area_water_km2           = 0.21
+|area_total_sq_mi         = 35.94
+|area_land_sq_mi          = 35.86
+|area_water_sq_mi         = 0.08
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 28857
+|pop_est_as_of            = 2019
+|population_est           = 34764
+|population_density_km2   = 374.25
+|population_density_sq_mi = 969.33
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+| utc_offset = &minus;7
+|timezone_DST             = MDT
+| utc_offset_DST = &minus;6
+|elevation_footnotes      = <ref name=gnis/>
+|elevation_m              = 
+|elevation_ft             = 5846
+|coordinates              = {{coord|37|40|39|N|113|03|43|W|region:US-UT_type:city|display=inline,title}}<ref name=gnis/>
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 84720-84721
+|area_code                = [[Area code 435|435]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 49-11320<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1426441<ref name=gnis>{{Cite GNIS|1426441|Cedar City}}</ref>
+|website                  = {{URL|www.cedarcity.org}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

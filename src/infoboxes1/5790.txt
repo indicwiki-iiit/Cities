@@ -1,0 +1,138 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.2em|Jinzhong}}
+|official_name          = 
+|other_name             =
+|native_name            = {{lower|0.1em|晋中市}}
+|native_name_lang = zh-Hans
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Hall of Great Acomplishement in the Confucious Temple of Pingyao.JPG
+|imagesize              = 
+|image_caption          = Hall of Great Accomplishment in the Confucious Temple of Pingyao
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = Location of Jinzhong Prefecture within Shanxi (China).png
+|mapsize                =  
+|map_caption            = Location of Jinzhong City jurisdiction in Shanxi
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            =  Shanxi
+|pushpin_map_caption    =  Location of the city center in Shanxi
+|pushpin_label_position =  right
+|pushpin_mapsize       =  240
+|subdivision_type       = Country
+|subdivision_name       = People's Republic of China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Shanxi]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China|County-level&nbsp;divisions]]
+|subdivision_name2      = 12
+|seat_type              = Municipal seat
+|seat                   = Yuci District
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type = [[Prefecture-level city]]
+|leader_title = [[Communist Party of China|CPC]] Jinzhong Secretary
+|leader_name = Zhang Pu ({{lang|zh-hans|张璞}})
+|leader_title1 = Mayor
+|leader_name1 = Wu Qinghai ({{lang|zh-hans|吴清海}})
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 16,408<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+| area_blank1_title       = [[District (China)|Districts]]<ref name="CUCSY_2017"/>
+| area_blank1_km2         = 1311.0 
+| area_urban_km2          = 450.00 
+| area_urban_footnotes    = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=46 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>
+
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_max_m            = 
+|elevation_min_m            = 
+<!-- Population   ----------------------->
+|population_as_of               =2010
+|population_footnotes           =
+<ref name="Census2010">{{cite web
+ |language=zh-cn
+ |url=http://www.sxjzwb.com/jznews/showarticle.asp?articleid=27131
+ |archive-url=https://archive.is/20130203065352/http://www.sxjzwb.com/jznews/showarticle.asp?articleid=27131
+ |url-status=dead
+ |archive-date=3 February 2013
+ |script-title=zh:晋中市2010年第六次全国人口普查主要数据公报
+ |trans-title=Sixth National Population Census of the People's Republic of China
+ |publisher=[[National Bureau of Statistics of China]] 
+ |access-date=30 August 2012 
+}}</ref>
+|population_note                =
+|population_total               =3,249,425
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_density_metro_km2   =auto
+| population_blank1_title = Districts<ref name="CUCSY_2017"/>
+| population_blank1       = 757000
+| population_urban        = 561200
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+|population_density_urban_km2   =auto
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Jinzhong municipal government
+|coordinates            = {{coord|37.6880|N|112.7526|E|type:adm2nd_region:CN-14_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+
+<!-- Location ------------------>
+|postal_code_type       =  [[Postal code of China|Postal code]] 
+|postal_code            = 030600
+|area_code              = 0354
+|blank_name             =<!-- [[GDP]] -->
+|blank_info             = 
+|blank1_name            =<!-- GDP per capita -->
+|blank1_info            =
+|blank2_name             =[[Vehicle registration plates of China|Licence plates]]
+|blank2_info             ={{lang|zh-cn|晋K}}
+|blank3_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]] 
+|blank3_info            =140700
+|iso_code = [[ISO 3166-2:CN|CN-SX-07]]
+|website                = {{URL|sxjz.gov.cn/}}
+|footnotes              = 
+}}

@@ -1,0 +1,120 @@
+{{Infobox country
+| conventional_long_name = Republic of Equatorial Guinea
+| common_name        = Equatorial Guinea
+| native_name        = {{native name|es|República de Guinea Ecuatorial}}<br>{{native name|fr|République de Guinée Équatoriale}}<br>{{native name|pt|República da Guiné Equatorial}}
+| image_flag         = Flag of Equatorial Guinea.svg
+| image_coat         = Coat of arms of Equatorial Guinea.svg
+| symbol_type        = Coat of arms
+| national_motto     = {{native name|es|"Unidad, Paz, Justicia"|italics=off|nolink=on}}<br>{{native name|fr|Unité, Paix, Justice}}<br>{{small|"Unity, Peace, Justice"}}
+| national_anthem    = {{native name|es|[[Caminemos pisando las sendas de nuestra inmensa felicidad]]|nolink=yes}}<br />''Let Us Tread the Path of Our Immense Happiness''<br /><center>[[File:Equatorial Guinea's national anthem, performed by the United States Navy Band.oga]]</center>
+| image_map          = {{Switcher|[[File:GNQ orthographic.svg|frameless]]|Show globe|[[File:Location Equatorial Guinea AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption        = 
+| capital            = [[Malabo]] (''current'')<br> [[Ciudad de la Paz]] (''under construction'')
+| coordinates        = {{Coord|3|45|N|8|47|E|type:city}}
+| largest_city       = [[Bata, Equatorial Guinea|Bata]]
+| official_languages = 
+{{Plainlist|
+*[[Spanish language|Spanish]]
+*[[Portuguese language|Portuguese]]
+* [[French language|French]]<ref>{{cite web|url=http://www.guineaecuatorialpress.com/noticia.php?id=5434|title=Equatorial Guinea, member of the Community of Portuguese Language Countries|author=Government of the Republic of Equatorial Guinea}}</ref><ref>{{cite web|url=http://www.guineaecuatorialpress.com/noticia.php?id=7775|title=Acts continue to mark Portuguese Language and Portuguese Culture Day|author=Government of the Republic of Equatorial Guinea}}</ref><ref>{{cite web|url=http://www.prnewswire.com/news-releases/equatorial-guinea-adds-portuguese-as-the-countrys-third-official-language-131882808.html|title=Equatorial Guinea Adds Portuguese as the Country's Third Official Language|access-date=18 July 2015|author=PRNewsWire}}</ref>
+}} 
+| regional_languages = [[English language|English]]
+| languages          = {{Collapsible list
+|framestyle=border:none; padding:0;
+|[[French language|French]]
+|[[Portuguese language|Portuguese]]
+|[[Hindi language|Hindi]]<ref>{{e23|country/gq/languages}}</ref>
+|[[Arabic language|Arabic]]
+|[[Spanish language|Spanish]]
+|[[English language|English]]
+|[[Fulani language|Fulani]]
+|[[Mandinka language|Mandinka]]
+|[[Susu language|Susu]]
+|[[Myene language|Myene]]
+|[[Fang language|Fang]]
+|[[Punu language|Punu]]
+|[[Nzebi language|Nzebi]]
+|[[Igbo language|Igbo]]
+|[[Bube language|Bube]]
+|[[Annobonese language|Annobonese]]
+|[[Combe language|Combe]]}}
+|languages_type = Spoken languages
+| ethnic_groups          = {{unbulleted list
+  | 80.3% [[Fang people|Fang]]
+  | 6.5% [[Bubi people|Bubi]]
+  | 3.6% [[Demographics of Equatorial Guinea#Peoples considered as natives|Ndowe]]
+  | 1.6% Annobon
+  | 1.1% [[Kwasio people|Bujeba]]
+  | 5.4% [[Igbo people|Igbo]]
+ }}
+| ethnic_groups_year = 1994<ref name=CIA>[https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/ Equatorial Guinea]. Cia World Factbook.</ref>
+| religion               = {{ublist |item_style=white-space:nowrap;
+  |86.8% [[Christianity]]
+  |—79.9% [[Catholic Church|Roman Catholic]]
+  |—3.2% [[Protestant]]
+  |—3.7% Other [[List of Christian denominations|Christian]]
+  |4.9% [[Irreligious|No religion]]
+  |4.1% [[Islam]]
+  |2.1% [[African Traditional Religion|Traditional faiths]]
+  |2.1% Others
+  }}
+| religion_year          =
+| religion_ref           =<ref>{{Cite web|url=https://www.britannica.com/place/Equatorial-Guinea|title=Equatorial Guinea - Religion|website=Encyclopedia Britannica}}</ref>
+| demonym                = [[Demographics of Equatorial Guinea|Equatoguinean]]
+| government_type        = [[Unitary state|Unitary]] [[Dominant-party system|dominant-party]] [[Presidential system|presidential]] [[constitutional republic]]
+| leader_title1          = [[List of Presidents of Equatorial Guinea|President]]
+| leader_name1           = [[Teodoro Obiang Nguema Mbasogo]]
+| leader_title2          = [[Vice President of Equatorial Guinea|Vice President]]
+| leader_name2           = [[Teodoro Nguema Obiang Mangue]]
+| leader_title3          = [[List of Prime Ministers of Equatorial Guinea|Prime Minister]]
+| leader_name3           = [[Francisco Pascual Obama Asue]]
+| leader_title4          = 
+| leader_name4           = 
+| legislature            = [[Parliament of Equatorial Guinea|Parliament]]
+| upper_house            = [[Senate (Equatorial Guinea)|Senate]]
+| lower_house            = [[Chamber of Deputies (Equatorial Guinea)|Chamber of Deputies]]
+| sovereignty_type       = Independence
+| established_event1     = from [[Francoist Spain|Spain]]
+| established_date1      = 12 October 1968
+| area_km2               = 28,050
+| area_rank = 141st <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 10,830 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = negligible
+| population_estimate    = 1,454,789<ref>https://web.archive.org/web/20170420050225/http://www.inege.gq/</ref>
+| population_census      = 1,225,377<ref name=AnuarioEstadistico2018>{{cite web|url=http://www.inege.gq/index.php/anuario-estadistico-de-guinea-ecuatorial-2018|title=Anuario Estadístico de Guinea Ecuatorial 2018|publisher=Instituto Nacional de Estadisticas de Guinea Ecuatorial|access-date=15 June 2020}}</ref>
+| population_estimate_year = 2020
+| population_estimate_rank = 154th
+| population_census_year = 2015
+| population_density_km2 = 
+| population_density_sq_mi = <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 
+| GDP_PPP                = $29.162 billion
+| GDP_PPP_year = 2019
+| GDP_PPP_rank = 135th
+| GDP_PPP_per_capita     = $21,442<ref name="imf.org">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=62&pr.y=7&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=642&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org|access-date=17 April 2019}}</ref>
+| GDP_nominal            = $12.432 billion
+| GDP_nominal_year = 2019
+| GDP_nominal_rank = 140th
+| GDP_nominal_per_capita = $9,141<ref name="imf.org" />
+| Gini                   = <!--number only-->
+| Gini_year = 
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               = 
+| Gini_rank = 
+| HDI                    = 0.592 <!--number only-->
+| HDI_year = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank = 145th
+| currency               = [[Central African CFA franc]]
+| currency_code          = XAF
+| time_zone              = [[West Africa Time|WAT]]
+| utc_offset             = +1
+| utc_offset_DST         = 
+| time_zone_DST          = 
+| drives_on              = right
+| calling_code           = [[+240]]
+| cctld                  = [[.gq]]
+| footnote_a             = Including [[Equatoguinean Spanish]] (''Español ecuatoguineano'').
+| today                  = 
+}}

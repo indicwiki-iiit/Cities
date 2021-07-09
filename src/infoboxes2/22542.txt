@@ -1,0 +1,15 @@
+{{Infobox river
+| name              = Krtíš
+| image             = 
+| image_caption     = 
+| subdivision_type1 = Country
+| subdivision_name1 = [[Slovakia]]
+| source1_location  = 
+| source1_elevation = 
+| mouth             = [[Ipeľ]]
+| mouth_coordinates = {{coord|48.0886|19.3080|display=it|region:SK_type:river}}
+| progression       = [[Ipeľ]]→ {{RDanube}}
+| length            = {{convert|35.5|km|abbr=on}}
+| basin_size        = {{convert|234|km2|abbr=on}}
+| discharge1_avg    = 
+}}

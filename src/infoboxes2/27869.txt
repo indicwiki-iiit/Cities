@@ -1,0 +1,85 @@
+{{Infobox settlement
+| name                            = Jonesborough, Tennessee
+| official_name                   = Town of Jonesborough
+| settlement_type                 = [[Town]]
+| nickname                        = Tennessee's Oldest Town,<ref name="welcome">{{cite web |title=Welcome Page |url=https://jonesborough.com/ |website=Town of Jonesborough |access-date=November 6, 2020}}</ref> Storytelling Capital of the World<ref name="welcome"/>
+| motto                           = <!-- Images -->
+| image_skyline                   = Washington-county-courthouse-tn1.jpg
+| imagesize                       = 250px
+| image_caption                   = Washington County Courthouse in Jonesborough
+| image_flag                      = 
+| image_seal                      = 
+| image_blank_emblem              = Town_of_Jonesborough_Logo.png
+| blank_emblem_type               = Logo
+| blank_emblem_size               = 95px
+
+<!-- Maps -->| image_map                       = File:Washington County Tennessee Incorporated and Unincorporated areas Jonesborough Highlighted 4738540.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Jonesborough in Washington County, Tennessee.
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = <!-- Location -->
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[Tennessee]]
+| subdivision_type2               = [[List of counties in Tennessee|County]]
+| subdivision_name2               = [[Washington County, Tennessee|Washington]]
+
+<!-- Government -->| government_footnotes            = <ref name="mtas">{{cite web |title=Jonesborough |url=http://www.mtas.tennessee.edu/city/jonesborough |website=Municipal Technical Advisory Service |publisher=[[University of Tennessee]] |access-date=November 6, 2020}}</ref>
+| government_type                 = [[Mayor-council-administrator government|Mayor-council-administrator]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Chuck Vest
+| leader_title1                   = [[Town Administrator]]
+| leader_name1                    = Glenn Rosenoff
+| leader_title2                   = [[Town Council]]
+| leader_name2                    = {{Collapsible list
+|title = Aldermen
+|frame_style = border:none; padding: 0;
+|list_style = text-align:left;display:none;
+|1 = Stephen Callahan
+|2 = Virginia Causey
+|3 = Terry Countermine
+|4 = Adam Dickson
+}}
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = 1779<ref name="mtas"/>
+| named_for                       = [[Willie Jones (statesman)|Willie Jones]]
+
+<!-- Area -->| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_47.txt|publisher=United States Census Bureau|access-date=July 30, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 13.34
+| area_land_km2                   = 13.34
+| area_water_km2                  = 0.00
+| area_total_sq_mi                = 5.15
+| area_land_sq_mi                 = 5.15
+| area_water_sq_mi                = 0.00
+
+<!-- Population -->| population_as_of                = [[2020 United States Census|2020]]
+| population_footnotes            = <ref name="GR9"/>
+| population_total                = 5791
+| population_density_km2          = 420.71
+| population_density_sq_mi        = 1089.73
+
+<!-- General information -->| timezone                        = [[North American Eastern Time Zone|Eastern (EST)]]
+| utc_offset                      = -5
+| timezone_DST                    = EDT
+| utc_offset_DST                  = -4
+| elevation_footnotes             = <ref name="gnis"/>
+| elevation_m                     = 527
+| elevation_ft                    = 1729
+| coordinates                     = {{coord|36|17|39|N|82|28|21|W|region:US_type:city|display=inline,title}}
+| postal_code_type                = [[ZIP code]]
+| postal_code                     = 37659
+| area_code                       = [[Area code 423|423]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 47-38540<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 2405919<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref><ref name="gnis">{{cite web |url= {{GNIS3|2405919}} |title= Town of Jonesborough |work= [[Geographic Names Information System]] |publisher= [[United States Geological Survey]] |access-date= November 6, 2020}}</ref>
+| website                         = {{url|http://www.jonesborough.com}}
+| footnotes                       = 
+| pop_est_as_of                   = 2021
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est                  = 5791
+}}

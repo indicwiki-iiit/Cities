@@ -1,0 +1,57 @@
+{{Infobox river
+| name               = Adelaide
+| name_native        = 
+| name_native_lang   = 
+| name_other         = 
+| name_etymology     = [[Adelaide of Saxe-Meiningen|Queen Adelaide]]
+<!---------------------- IMAGE & MAP -->
+| image              = Adelaide River.JPG
+| image_size         = 250px
+| image_caption      = The Adelaide River
+| map                = 
+| map_size           = 250
+| map_caption        = 
+| pushpin_map        = Australia Northern Territory
+| pushpin_map_size   = 250
+| pushpin_map_caption= Location of the Adelaide River [[Mouth (river)|mouth]] <br />in the [[Northern Territory]]
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[Australia]]
+| subdivision_type2  = [[States and territories of Australia|Territory]]
+| subdivision_name2  = [[Northern Territory]]
+| subdivision_type3  = 
+| subdivision_name3  = 
+| subdivision_type4  = [[Local government in the Northern Territory|LGA]]
+| subdivision_name4  = [[Coomalie Shire|Coomalie]], [[Litchfield Municipality|Litchfield]]
+| subdivision_type5  = Townships
+| subdivision_name5  = [[Adelaide River, Northern Territory|Adelaide River]]
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|238|km|mi|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = 
+| discharge1_avg     = {{convert|1980|m3/s|cuft/s|abbr=on}}
+| discharge1_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = 
+| source1_location   = 
+| source1_coordinates= 
+| source1_elevation  = {{convert|149|m|abbr=on}}
+| mouth              = Adam Bay
+| mouth_location     = [[Clarence Strait (Northern Territory)|Clarence Strait]]
+| mouth_coordinates  = {{coord|12|13|S|131|14|E|display=inline,title}}
+| mouth_elevation    = {{convert|0|m|abbr=on}}
+| progression        = 
+| river_system       = 
+| basin_size         = {{convert|7640|km2|abbr=on}}
+| tributaries_left   = 
+| tributaries_right  = 
+| custom_label       = National park
+| custom_data        = [[Litchfield National Park]]
+| extra              = <ref name=bonzle>{{cite web|url=http://www.bonzle.com.au/c/a?a=p&p=210361&cmd=sp|title=Map of Adelaide River, NT|access-date=27 April 2015|work=Bonzle Digital Atlas of Australia}}</ref><ref name=catch/>
+}}

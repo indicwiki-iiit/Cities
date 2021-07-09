@@ -1,0 +1,84 @@
+{{Infobox settlement
+|official_name          = Lunenburg
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = [[List of towns in Canada|Town]] <!--For Town or Village (Leave blank for the default City) -->
+|motto                  =
+|image_skyline          = Lunenburg Aerial.jpg
+|image_caption          = Aerial photo of Lunenburg
+|image_flag             =
+|image_seal             = Lunenburg NS logo.jpg
+|image_shield           =
+|image_map              =
+|map_caption            =
+|pushpin_map            = Nova Scotia
+|pushpin_label_position = right
+|pushpin_map_caption    = Location of Lunenburg, Nova Scotia
+|pushpin_mapsize        = 275
+|coordinates            = {{coord|44|23|N|64|19|W|region:CA-NS|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = Canada
+|subdivision_type1      = Province
+|subdivision_name1      = [[Nova Scotia]]
+|subdivision_type2      = County
+|subdivision_name2      = [[Lunenburg County, Nova Scotia|Lunenburg]]
+|seat_type              = Electoral&nbsp;Districts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />[[List of Canadian federal electoral districts|Federal]]
+|seat                   = <br />[[South Shore—St. Margarets]]
+|parts_type             = [[List of Nova Scotia provincial electoral districts|Provincial]]
+|parts                  = [[Lunenburg (provincial electoral district)|Lunenburg]]
+|government_footnotes   =
+|government_type        =
+|governing_body         = Lunenburg Town Council
+|leader_title           = [[List of mayors of Lunenburg, Nova Scotia|Mayor]]
+|leader_name            = Matt Risser
+|leader_title1          = MLA
+|leader_name1           = [[Suzanne Lohnes-Croft]] [[Nova Scotia Liberal Party|(L)]]
+|leader_title2          = MP
+|leader_name2           = [[Bernadette Jordan]] [[Liberal Party of Canada|(L)]]
+|established_title      = Founded
+|established_date       = 1753
+|established_title2     = Incorporated
+|established_date2      = October 31, 1888
+|unit_pref              = Metric<!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         = &nbsp;(2016)<ref name=2016censusNSmunis/>
+|area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2          = 4.04<!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|area_water_km2         =
+|population_as_of       = [[Canada 2016 Census|2016]]
+|population_footnotes   = <ref name=2016censusNSmunis/>
+|population_note        =
+|population_total       = 2263
+|population_density_km2 = auto
+|timezone               = [[Atlantic Standard Time|AST]]
+|utc_offset             = −4
+|timezone_DST           = ADT
+|utc_offset_DST         = −3
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|postal_code_type       = Postal code
+|postal_code            = [[List of B Postal Codes of Canada|B]]0J
+|area_code              = [[Area code 902|902]] & [[Area code 782|782]]
+|blank_name             = [[List of highways in Nova Scotia|Highways]]
+|blank_info             ={{jct|state=NS|Trunk|3}}<br />{{jct|state=NS|Route|332}}<br />{{jct|state=NS|Route|324}}
+|website                = [http://www.explorelunenburg.ca/ Town of Lunenburg]
+{{Designation list |embed=yes |
+| designation1 = WHS
+| designation1_date = 1995 <small>(19th [[World Heritage Committee|session]])</small>
+| designation1_number = [https://whc.unesco.org/en/list/741 741]
+| designation1_criteria = iv, v
+| designation1_type = Cultural
+| designation1_free1name = State Party
+| designation1_free1value = {{CAN}}
+| designation1_free2name = Region
+| designation1_free2value = [[List of World Heritage Sites in North America|Europe and North America]]
+| designation1_offname= Old Town Lunenburg
+| designation2 = NHSC
+| designation2_offname= Old Town Lunenburg Historic District National Historic Site of Canada
+| designation2_date = 1991
+| designation3 = Nova Scotia
+| designation3_type= Heritage Conservation District
+| designation3_date = 2000
+}}
+|footnotes              = 
+}}

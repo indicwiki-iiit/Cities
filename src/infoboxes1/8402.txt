@@ -1,0 +1,54 @@
+{{Infobox settlement
+|name                   = Azraq refugee camp
+|other_name             =
+|native_name            =             <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = Refugee camp
+<!-- images and maps  ----------->
+
+|image_skyline          = <!-- need an overview/aerial image of the camp -->
+|imagesize              = 
+|image_caption          =
+|image_flag             =
+|flag_size              = 180px
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Jordan<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        =300
+|pushpin_map_caption    =Location in Jordan
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Jordan}}
+|subdivision_type1      = [[Governorates of Jordan|Governorate]]
+|subdivision_name1      = [[Zarqa Governorate]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|established_title      = Settled <!-- Settled -->
+|established_date       = April 2014
+|established_title2      =  <!-- Settled -->
+|established_date2       =
+<!-- Population   ----------------------->
+|population_as_of               = 2019
+|population_footnotes           =
+|population_note                = figures from August 2019
+|population_total               = 35,752
+<!-- General information  --------------->
+|timezone               =[[UTC]]+2
+|utc_offset             = +2
+|timezone_DST           =[[UTC]]+3
+|utc_offset_DST         = +3
+|coordinates            = {{coord|31.9054|N|36.5809|E|region:JO_type:city|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|website                =
+|footnotes              =
+}}

@@ -1,0 +1,27 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone=[[Central European Time|CET]]
+|utc_offset=+1
+|timezone_DST=[[Central European Summer Time|CEST]]
+|utc_offset_DST=+2
+|
+official_name=Bátaszék|
+map=[[File:TolnaMegye.png|center|thumb|275px|Location of Tolna county in Hungary]]|
+subdivision_type1=[[Counties of Hungary|County]]|
+subdivision_name1=[[Tolna County|Tolna]]|
+image_shield=HUN_Bátaszék_Címer.svg|
+image_flag = Flag of Bátaszék.svg|
+area_total_km2=63.54|
+population_total=6217|
+population_as_of=2015|
+population_density_km2=auto|
+postal_code_type=[[Postal code]]|
+postal_code=7140|
+area_code=74|
+pushpin_map            =Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Bátaszék
+|pushpin_mapsize        =
+|coordinates            = {{coord|46.19248|18.72258|region:HU|display=inline,title}}
+}}

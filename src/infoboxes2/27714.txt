@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Oak Point, Texas
+|settlement_type          = [[Village]]
+|nickname                 = 
+|motto                    = A Country Place
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = Denton County Texas Incorporated Areas Oak Point highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Oak Point in [[Denton County, Texas|Denton County]], [[Texas]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Denton County, Texas|Denton]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Council-Manager
+|leader_title             = Mayor
+|leader_name              = Dena Meek
+|leader_title1            = City Manager
+|leader_name1             = Stephen Ashley 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 15.80
+|area_land_km2            = 14.99
+|area_water_km2           = 0.81
+|area_total_sq_mi         = 6.10
+|area_land_sq_mi          = 5.79
+|area_water_sq_mi         = 0.32
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 2786
+|population_density_km2   = 384.51
+|population_density_sq_mi = 995.85
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = 
+|elevation_m              = 183
+|elevation_ft             = 600
+|coordinates              = {{coord|33|10|56|N|96|59|43|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 75068
+|area_code                = [[Area code 972|972]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-53130<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1388580<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|www.oakpointtexas.com}}
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 5762
+}}

@@ -1,0 +1,50 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Yamanashi Prefecture}}
+| native_name             = {{lower|0.1em|{{nobold|{{lang|ja|山梨県}}}}}}
+| settlement_type         = [[Prefectures of Japan|Prefecture]]
+| translit_lang1          = Japanese
+| translit_lang1_type     = [[Japanese language|Japanese]]
+| translit_lang1_info     = {{lang|ja|山梨県}}
+| translit_lang1_type1    = [[Romanization of Japanese|Rōmaji]]
+| translit_lang1_info1    = {{lang|ja-Latn|Yamanashi-ken}}
+| image_flag              = Flag of Yamanashi Prefecture.svg
+| flag_size               = 100px
+| image_blank_emblem      = Symbol of Yamanashi Prefecture.svg
+| blank_emblem_size       = 80px
+| blank_emblem_type       = Symbol
+| image_map               = Map of Japan with highlight on 19 Yamanashi prefecture.svg
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Japan}}
+| subdivision_type1       = [[List of regions of Japan|Region]]
+| subdivision_name1       = [[Chūbu region|Chūbu]] ([[Kōshin'etsu region|Kōshin'etsu]]) ([[Tōkai region|Tōkai]])
+| subdivision_type2       = [[List of islands of Japan|Island]]
+| subdivision_name2       = [[Honshu]]
+| seat_type               = [[List of capitals in Japan|Capital]]
+| seat                    = [[Kōfu]]
+| parts_type              = Subdivisions
+| parts_style             = para
+| p1                      = [[Districts of Japan|Districts]]: 5 
+| p2                      = [[Municipalities of Japan|Municipalities]]: 27
+| leader_title            = [[List of prefectural governors in Japan|Governor]]
+| leader_name             = [[Kotaro Nagasaki]] (from February 2019)
+| area_total_km2          = 4,465.27
+| area_water_percent      = 1.3
+| area_rank               = [[List of Japanese prefectures by area|32nd]]
+| elevation_max_m = 3778
+| elevation_max_point = [[Mount Fuji]]
+| population_footnotes    = 
+| population_total        = 817,192
+| population_as_of        = January 1, 2019
+| population_rank         = [[List of Japanese prefectures by population|41st]]
+| population_density_km2  = 183
+| iso_code                = JP-19
+| website                 = {{URL|http://www.pref.yamanashi.jp/}}
+| module                          = {{Infobox place symbols| embedded=yes
+| country  = Japan
+| bird     = Uguisu ([[Japanese bush warbler|bush warbler]])
+| fish     = 
+| flower   = Fujizakura ([[Prunus incisa|Fuji cherry]])
+| tree     = Kaede ([[Japanese maple]])
+}}}}

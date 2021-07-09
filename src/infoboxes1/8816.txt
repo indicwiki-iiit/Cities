@@ -1,0 +1,64 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Besishahar 
+|native_name            = वेसीशहर 
+|other_name             = 
+|settlement_type        = [[List of cities in Nepal|Municipality]]
+<!-- images and maps  -->
+|image_skyline          = File:Besi Sahar.JPG
+|image_caption          = Main street of Besishahar Municipality in the morning.
+|image_flag             =
+|image_seal             =
+|nickname               = 
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Nepal
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|coordinates            = {{coord|28|13|52|N|84|22|39|E|region:NP_type:city|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Nepal}}
+|subdivision_type1      = [[Nepalese Federal States|Province]]
+|subdivision_type2      = [[Districts of Nepal|District]]
+|subdivision_name1      = [[Gandaki Pradesh]]
+|subdivision_name2      = [[Lamjung District]]
+<!-- Politics -->
+|established_title      = Established
+|established_date       = 15 May 2014
+<!-- Area    -->
+|government_footnotes   =
+|government_type        = [[Mayor–council government]]
+|leader_title           = [[Mayor]]
+|leader_name            = Guman Singh Aryal ([[Nepal Communist Party|NCP]])
+|leader_title1          = [[Deputy Mayor]]
+|leader_name1           = Laxmi Devi Adhikari ([[Nepal Communist Party|NCP]])
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 127.64
+|area_total_sq_mi         =
+<!-- Population   -->
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 760
+<!-- Area/postal codes & others -->
+|population_total               = 39,356
+|population_as_of               = 2011
+|population_footnotes           =
+|population_density_km2         = auto
+<!-- General information  -->
+|population_note                =
+|postal_code_type       = [[Postal Code]]
+|postal_code            = 33600
+|area_code              = 066
+|website                = [http://www.besishaharmun.gov.np/ besishaharmun.gov.np]
+|footnotes              = 
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Humid subtropical climate|Cwa]]
+}}

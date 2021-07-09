@@ -1,0 +1,73 @@
+{{Infobox company
+| name = Toyota Motor Corporation
+| native_name = トヨタ自動車株式会社
+| native_name_lang = ja
+| romanized_name = Toyota Jidōsha kabushiki gaisha
+| logo = Toyota carlogo.svg
+| image = Toyota Headquarter Toyota City.jpg
+| image_caption = Headquarters in [[Toyota City]], Japan
+| type = [[Public company|Public]] [[Kabushiki gaisha|KK]]
+| traded_as = {{unbulleted list
+  | {{TYO|7203}}
+  | {{NAG|7203}}
+  | {{NYSE|TM}}
+  | {{LSE|TYT}}
+  | [[Nikkei 225]] component (TYO)
+  | [[TOPIX]] Core30 component (TYO)
+  }}
+| ISIN = JP3633400001
+| founder = [[Kiichiro Toyoda]]
+| area_served = Worldwide
+| key_people = {{unbulleted list
+  | [[Takeshi Uchiyamada]] ([[Chairman]])
+  | Shigeru Hayakawa (Vice chairman)
+  | [[Akio Toyoda]] ([[President (corporate title)|President]]) 
+  }}
+| industry = [[Automotive industry|Automotive]]
+| products = [[Automobiles]], [[luxury vehicle]]s, [[commercial vehicle]]s, [[engines]], [[robots]].
+| production = {{decrease}} 9,472,556 (FY2021) <br>  {{decrease}} 9,213,195 (2020)<ref>{{cite press release |url=https://global.toyota/en/company/profile/production-sales-figures/202103.html |title = Toyota Global Sales and Production Secures 90 Percent Level Year-on-Year in FY2021 |publisher=Toyota Motor Corporation |location=Japan |date=April 28, 2021 |access-date=April 28, 2021}}</ref>
+| services = [[Banking]], [[financing]], [[leasing]]
+| revenue = {{decrease}} {{yen|27,214,594 million|link=yes}} <br>{{decrease}} {{USD|256.7 billion}} ([[Fiscal Year|FY]]2021)<ref group="note">The FY (Fiscal Year) 2021 as reported by Toyota is from April 1, 2020 to March 31, 2021.</ref><ref name="FY2021">{{cite web|url=https://global.toyota/pages/global_toyota/ir/financial-results/2021_4q_summary_en.pdf |title=Toyota Annual Report 2021|publisher=Toyota Motor Corporation|date=May 12, 2021|access-date=May 12, 2021|archive-url=https://web.archive.org/web/20200527113819/https://global.toyota/pages/global_toyota/ir/financial-results/2020_4q_summary_en.pdf|archive-date=May 27, 2020|url-status=live}}</ref>
+| operating_income = {{decrease}} {{yen|2,197,748 million}} (FY2021)<ref name="FY2021"/>
+| net_income = {{increase}} {{yen|2,282,378 million}} (FY2021)<ref name="FY2021"/>
+| aum = <!-- Only used with financial services companies -->
+| assets = {{increase}} {{yen|62,267,140 million}}
+<br>{{increase}} {{USD|562 billion}} (FY2021)<ref name="FY2021"/>
+| equity = {{increase}} {{yen|24,288,329 million}} (FY2021)<ref name="FY2021"/>
+| owner = 
+| num_employees = {{increase}} 366,283 (FY2021)<ref name="FY2021"/>
+| divisions = {{unbulleted list
+  | Toyota
+  | [[Lexus]]
+  | [[Hino Motors|Hino]]
+  | [[Ranz]]
+  | [[Scion (automobile)|Scion]] (defunct)<!-- Scion still gets listed as a division in a historical context -->
+  | [[Toyota Racing Development|TRD]]
+  | [[Toyota Gazoo Racing|Gazoo Racing]]
+  }}
+| subsid = 606<ref name=20f>{{cite press release | url = http://www.toyota-global.com/pages/contents/investors/ir_library/sec/pdf/20-F_201803_final.pdf | title = Toyota Motor Corporation – FORM 20-F | publisher = Toyota | location = US | date = March 31, 2018 | access-date = July 8, 2018 | quote = As of March 31, 2030, Toyota Motor Corporation had 299 Japanese subsidiaries and 307 overseas subsidiaries. As of March 31, 2018, Toyota operated through 606 consolidated subsidiaries (including variable interest entities) and 199 affiliated companies, of which 57 companies were accounted for through the equity method. | archive-url = https://web.archive.org/web/20180709153719/http://www.toyota-global.com/pages/contents/investors/ir_library/sec/pdf/20-F_201803_final.pdf | archive-date = July 9, 2018 | url-status = live }}</ref> {{Unbulleted list
+  | '''Japan:'''
+  | [[Hino Motors|Hino]] (57.21%)
+  | [[Woven Planet]]
+  | [[Daihatsu]]
+  | [[Toyota Auto Body]]
+  | [[Toyota Financial Services]]
+  | [[Toyota Motor East Japan]]
+  | [[Denso|DENSO]] (24.77%)
+  | '''International:'''
+  | [[Indus Motors Company|Toyota Indus]]
+  | [[Toyota-Astra Motor]] (50%)
+  | [[Toyota Motor North America]]
+  | [[Toyota Kirloskar Motor|Toyota Kirloskar India]] (89%)
+  | [[Toyota Motor Europe]]
+  | [[Toyota Motor Philippines]]
+  | [[Toyota Motor Thailand]] (86.43%)
+  | [[Toyota Motor Corporation Australia]]
+  | [[Toyota South Africa Motors]]
+  }}
+| homepage = {{URL|https://global.toyota}}
+| foundation = {{start date and age|1937|08|28}}
+| location_city = [[Toyota City]]
+| location_country = Japan
+| parent = [[Toyota Group]]
+}}

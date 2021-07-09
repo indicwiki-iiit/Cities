@@ -1,0 +1,33 @@
+{{Infobox Australian place
+| type      = city
+| name      = Busselton
+| state     = wa
+| image     = BusseltonJetty1 gobeirne.jpg
+| caption   = At {{convert|1841|m}}, the [[Busselton Jetty]] is the longest wooden jetty (pier) in the Southern Hemisphere
+| lga       = City of Busselton
+| postcode  = 6280
+| timezone  = [[Australian Western Standard Time|AWST]]
+| utc       = +8
+| pop       = 25329
+| pop_year  = {{CensusAU|2016}}
+| pop_footnotes =<ref name=ABS/>
+| pop2       = 27584
+| pop2_year  = 2018
+| pop2_footnotes = <ref name=ABSSA2/>
+| area = 105.7
+| area_footnotes = <ref>{{Census 2016 AUS |id=UCL512002|name=Busselton (Urban Centres and Localities) |access-date=7 July 2019}}</ref>
+| est       = 1832
+| coordinates = {{coord|33|38|52|S|115|20|45|E|display=inline,title}}
+| stategov  = [[Electoral district of Vasse|Vasse]]
+| fedgov    = [[Division of Forrest|Forrest]]
+| dist1     = 220
+| location1 = [[Perth]]
+| dist2     = 52
+| location2 = [[Bunbury, Western Australia|Bunbury]]
+| dist3     = 50
+| location3 = [[Margaret River, Western Australia|Margaret River]]
+| maxtemp   = 22.0
+| mintemp   = 10.4
+| rainfall  = 812.6
+| elevation = 4
+}}

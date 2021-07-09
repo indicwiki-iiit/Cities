@@ -1,0 +1,106 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->| name                            = Pinecrest, Florida
+| official_name                   = Village of Pinecrest
+| other_name                      = 
+| native_name                     = <!-- for cities whose native name is not in English -->
+| nickname                        = 
+| settlement_type                 = [[List of communities in Miami-Dade County, Florida|Village]]
+| motto                           = <!-- images and maps  ----------->
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_flag                      = Miami-Dade_County_Florida_Incorporated_and_Unincorporated_areas_Pinecrest_Highlighted.svg
+| mapsize                         = 250x200px
+| map_caption                     = Location in [[Miami-Dade County, Florida|Miami-Dade County]] and the state of [[Florida]]
+| image_map1                      = Pinecrest.gif
+| mapsize1                        = 250x200px
+| map_caption1                    = U.S. Census Bureau map showing village boundaries
+| image_dot_map                   = 
+| dot_mapsize                     = 
+| dot_map_caption                 = 
+| dot_x                           = 
+| dot_y                           = 
+| pushpin_map                     = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption             = 
+| pushpin_mapsize                 = <!-- Location ------------------>
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{Nowrap|{{Flag|United States of America|size=23px}}}}
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = {{Flag|Florida|size=23px}}
+| subdivision_type2               = [[List of counties in Florida|County]]
+| subdivision_name2               = {{Flagicon image|Flag of Miami-Dade County, Florida.png|size=23px}} [[Miami-Dade County, Florida|Miami-Dade]]
+| subdivision_type3               = 
+| subdivision_name3               = 
+| subdivision_type4               = 
+| subdivision_name4               = <!-- Politics ----------------->
+| government_footnotes            = 
+| government_type                 = [[council-manager government|Council-Manager]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = Joseph Corradino
+| leader_title1                   = [[Vice Mayor]]
+| leader_name1                    = Anna Hochkammer
+| leader_title2                   = [[city council|Councilmembers]]
+| leader_name2                    = Doug Kraft, Katie Abbott, James McDonald
+| leader_title3                   = [[city manager|Village Manager]]
+| leader_name3                    = Yocelyn Galiano
+| leader_title4                   = [[city clerk|Village Clerk]]
+| leader_name4                    = Guido H. Inguanzo, Jr.
+| established_title               = [[Municipal corporation|Incorporated]]
+| established_date                = March 12, 1996
+<!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_12.txt|publisher=United States Census Bureau|access-date=July 2, 2020}}</ref>
+| area_total_km2                  = 19.52
+| area_land_km2                   = 19.30
+| area_water_km2                  = 0.23
+| area_total_sq_mi                = 7.54
+| area_land_sq_mi                 = 7.45
+| area_water_sq_mi                = 0.09
+| area_water_percent              = 0.13
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population   ----------------------->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_footnotes            = 
+| population_note                 = 
+| population_est                  = 19155
+| pop_est_as_of                   = 2019
+| population_total                = 18223
+| population_density_km2          = 992.62
+| population_density_sq_mi        = 2570.80
+| population_metro                = 5422200
+| population_density_metro_km2    = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone                        = [[Eastern Time Zone|EST]]
+| utc_offset                      = -5
+| timezone_DST                    = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST                  = -4
+| coordinates                     = {{coord|25|40|N|80|18|W|region:US_type:city|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+| elevation_m                     = 1
+| elevation_ft                    = 3
+<!-- Area/postal codes & others -------->
+| postal_code_type                = [[Zip Code]]s
+| postal_code                     = 33156
+| area_code                       = [[area code 305|305]], [[area code 786|786]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 12-56625<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 1764896<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+| website                         = http://pinecrest-fl.gov
+| footnotes                       = 
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

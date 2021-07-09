@@ -1,0 +1,108 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|official_name            = City of Suisun City
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City (California)|City in California]]
+|motto                    = "Discover The Experience"
+<!-- images and maps  ----------->
+|image_skyline            = Suisun City Marina and City Hall.jpg
+|imagesize                = 
+|image_caption            = Suisun City Marina with City Hall in the background
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Suisun City California Seal.png
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_type        = 
+|blank_emblem_size        = 
+|image_map                = Solano_County_California_Incorporated_and_Unincorporated_areas_Suisun_City_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Solano County, California|Solano County]] and the state of [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[California]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Solano County, California|Solano]]
+<!-- Politics ----------------->
+|government_footnotes     = 
+|government_type          = [[Council-Manager]]
+|leader_title             = [[City council]]<ref name=cc>{{Cite web
+ | url = http://www.suisun.com/government/city-council
+ | title = Suisun City Council
+ | publisher = City of Suisun City
+ | access-date = September 18, 2014}}</ref>
+|leader_name              = [[Mayor]] [[Lori Wilson (Politician, 1976) | Lori Wilson]]<br/>[[Pro tempore|Mayor Pro-tem]] Wanda Williams<br/>Jane Day<br/>Mike Segala<br/>Anthony Adams
+|leader_title1            = [[California's 3rd State Senate district|State senator]]
+|leader_name1             = {{Representative|casd|3|fmt=sleader}}<ref name=swd>{{Cite web |url=http://statewidedatabase.org/gis/gis2011/index_2011.html |title=Statewide Database |publisher=UC Regents |access-date=January 27, 2015 |archive-url=https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html |archive-date=February 1, 2015 |url-status=dead }}</ref>
+|leader_title2            = [[California's 11th State Assembly district|Assemblymember]]
+|leader_name2             = {{Representative|caad|11|fmt=sleader}}<ref name=swd/>
+|leader_title3            = [[California's 3rd congressional district|U. S. rep.]]
+|leader_name3             = {{Representative|cacd|3|fmt=usleader}}<ref>{{Cite GovTrack|CA|3|access-date=March 9, 2013}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = October 9, 1868<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 4.04
+| area_land_sq_mi         = 3.98
+| area_water_sq_mi        = 0.06
+| area_total_km2          = 10.47
+| area_land_km2           = 10.31
+| area_water_km2          = 0.16
+| area_water_percent      = 1.39
+| area_note               = 
+|area_urban_km2           = 
+|area_urban_sq_mi         = 
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|1656340|Suisun|access-date=January 27, 2015}}</ref>
+|elevation_ft             = 7
+|elevation_m              = 2
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0675630.html|title=Suisun City (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 18, 2015|archive-url=https://web.archive.org/web/20120901235325/http://quickfacts.census.gov/qfd/states/06/0675630.html|archive-date=September 1, 2012|url-status=dead}}</ref>
+|population_total         = 28111
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 29663
+|population_density_sq_mi = 7453.02
+|population_metro         = 
+|population_density_metro_sq_mi = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|38|14|42|N|122|1|1|W|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 94534, 94585
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = {{FIPS|06|75630}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1656340}}, {{GNIS 4|2411995}}
+|website                  = {{URL|http://www.suisun.com}}
+|footnotes                = 
+|population_density_km2 = 2877.40
+}}

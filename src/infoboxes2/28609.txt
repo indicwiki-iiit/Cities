@@ -1,0 +1,43 @@
+{{Infobox Australian place
+| type     = town
+| name     = Karumba
+| state    = qld
+| image    = Karumba-beach-gulf-savannah-queensland-australia.jpg
+| caption  = Karumba Beach Gulf Savannah
+| coordinates         = {{coord|-17.4838|140.8397|type:city_region:AU-QLD|display=inline,title}}
+| pushpin_label_position = right
+| pop                 = 531
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| lga      = Shire of Carpentaria
+| postcode = 4891
+| area                = 144.3
+| est      = 
+| elevation= 2
+| elevation_footnotes=<ref>[http://www.bom.gov.au/climate/averages/tables/cw_029028.shtml Bureau of Meteorology] {{webarchive|url=https://web.archive.org/web/20080726175008/http://www.bom.gov.au/climate/averages/tables/cw_029028.shtml |date=26 July 2008 }}. Retrieved on 5 July 2008</ref>
+| maxtemp  = 30.7
+| mintemp  = 20.1
+| rainfall = 889.8
+| stategov = [[Electoral district of Traeger|Traeger]]
+| fedgov   = [[Division of Kennedy|Kennedy]]
+| dist1    = 2159
+| dir1     = NW
+| location1= Brisbane
+| dist2    = 756
+| dir2     = W
+| location2= [[Cairns, Queensland|Cairns]]
+| dist3    = 570
+| dir3     = N
+| location3= [[Mount Isa]]
+| dist4    = 71
+| dir4     = NW
+| location4= [[Normanton, Queensland|Normanton]]
+| near-n              = ''[[Gulf of Carpentaria]]''
+| near-ne             = [[Howitt, Queensland|Howitt]]
+| near-e              = [[Howitt, Queensland|Howitt]]
+| near-se             = [[Normanton, Queensland|Normanton]]
+| near-s              = [[Normanton, Queensland|Normanton]]
+| near-sw             = [[Normanton, Queensland|Normanton]]
+| near-w              = ''[[Gulf of Carpentaria]]''
+| near-nw             = ''[[Gulf of Carpentaria]]''
+}}

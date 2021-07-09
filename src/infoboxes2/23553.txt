@@ -1,0 +1,24 @@
+{{Infobox UK place
+|country = Scotland
+|official_name= Methil
+|gaelic_name=
+|scots_name=
+|os_grid_reference= NT365995
+|coordinates = {{coord|56.1844|-3.0223|display=inline,title}}
+| population = {{Scottish locality populations|name|POP=Methil}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref name="a">{{Scotland settlement population citation}}</ref>
+|area_total_km2 = 4.79
+|area_footnotes =<ref name="a"/>
+|unitary_scotland= [[Fife]]
+|historic_county = Fife
+|post_town= Leven
+|postcode_district = KY8
+|postcode_area= KY
+|dial_code= 01333
+|constituency_westminster= [[Glenrothes (UK Parliament constituency)|Glenrothes]]
+|constituency_scottish_parliament= [[Kirkcaldy (Scottish Parliament constituency)|Kirkcaldy]]
+|static_image_name= East Wemyss and Methil from the air (geograph 5836521).jpg
+|static_image_caption= East Wemyss, Buckhaven, Methil  and Leven from the air
+|edinburgh_distance_mi = 17
+|london_distance_mi = 344
+}}

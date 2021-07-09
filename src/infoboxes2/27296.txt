@@ -1,0 +1,70 @@
+{{Infobox settlement
+|name                     = Gardnerville, Nevada
+|settlement_type          = [[Unincorporated towns in Nevada|Unincorporated town]]
+
+<!-- Images -->
+|image_skyline            = Downtown Gardnerville, Nevada 06-26-2012.jpg
+|image_caption            = Downtown Gardnerville (2012)
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Douglas_County_Nevada_Incorporated_and_Unincorporated_areas_Gardnerville_Highlighted.svg
+|map_caption              = Location within [[Douglas County, Nevada|Douglas County]] and [[Nevada]]
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Nevada]]
+|subdivision_type2        = [[List of counties in Nevada|County]]
+|subdivision_name2        = [[Douglas County, Nevada|Douglas]]
+|government_footnotes     =
+|government_type          =
+|leader_title             =
+|leader_name              =
+|leader_title1            =
+|leader_name1             =
+|established_title        =
+|established_date         =
+
+<!-- Area -->
+|unit_pref  =  Imperial
+|area_footnotes           =
+|area_magnitude           =
+|area_total_km2           = 12.4
+|area_land_km2            = 12.4
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 4.8
+|area_land_sq_mi          = 4.8
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     =
+|population_total         = 5,656
+|population_density_km2   = 270.2
+|population_density_sq_mi = 699.9
+
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      =
+|elevation_m              = 1448
+|elevation_ft             = 4751
+|coordinates              = {{coord|38|56|27|N|119|44|37|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 89410, 89460
+|area_code                = [[Area code 775|775]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 32-26300
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0859798
+|website                  =
+|footnotes                =
+
+<!-- Registry designation -->
+{{designation list|embed=yes|designation1=Nevada Historical Marker|designation1_number=129}}
+}}

@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Al Mahrah
+| image_skyline           = File:Hawf-Mahrah-Yemen.jpg
+| image_caption           = The area of Hawf in Al-Mahrah
+| native_name             = {{lang|ar|ٱلْمَهْرَة}}
+| native_name_lang        = ar
+| settlement_type         = Governorate
+| image_map               = Al Mahrah in Yemen.svg
+| image_flag              = 
+| map_alt                 = 
+| map_caption             = 
+| coordinates             = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{YEM}}
+| seat_type               = 
+| seat                    = [[Al Ghaydah]]
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = Governor
+| leader_name             = Rajeh Said Bakrit
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 82,405
+| area_land_km2           = 
+| area_water_km2          = 
+| population_footnotes    = <ref name=yearbook2011>{{cite web|title=Statistical Yearbook 2011|url=http://www.cso-yemen.org/publiction/yearbook2011/population.xls|publisher=Central Statistical Organisation|access-date=24 February 2013|archive-url=https://web.archive.org/web/20121009023840/http://www.cso-yemen.org/publiction/yearbook2011/population.xls|archive-date=9 October 2012|url-status=dead}}</ref> 
+| population_total        = 500,000
+| population_density_km2  = auto
+| population_note         = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

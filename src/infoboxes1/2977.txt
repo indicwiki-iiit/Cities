@@ -1,0 +1,86 @@
+{{Infobox settlement
+
+<!-- Basic info  ---------------->
+|official_name          = Kwekwe
+|native_name            =
+|other_name             = 
+|settlement_type        = City
+|image_skyline          = Kwekwe.jpg
+|imagesize              = 300px
+|image_caption          = Main Street
+|image_flag             =
+|flag_size              =
+|image_seal             = 
+|seal_size              = 
+|image_shield           = Kwekwe seal.jpg
+|shield_size            = 100px
+|nickname               = Kwelaz
+|motto                  = The Now City in Touch with Tomorrow
+<!-- images and maps  ----------->
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|pushpin_map            = Zimbabwe
+|pushpin_label_position =
+|pushpin_mapsize        = 300
+<!-- Location ------------------>
+|pushpin_map_caption    =
+|coordinates            = {{coord|18|55|S|29|49|E|region:ZW|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[Zimbabwe]]
+|subdivision_type1      = [[Provinces of Zimbabwe|Province]]
+|subdivision_type2      = [[Districts of Zimbabwe|District]]
+|subdivision_name1      = [[Midlands (Zimbabwe)|Midlands]]
+|subdivision_name2      = [[Kwekwe District|Kwekwe]]
+<!-- Politics ----------------->
+|established_title      =  Established
+|established_date       = 1898
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        = City council
+|leader_title           = Mayor
+|leader_name            = [[Angeline Kasipo]]
+|leader_title1          = Member of Parliament, MP
+|leader_name1           = Masango Matambanadzo
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1220
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 100900
+|population_density_km2         = auto
+|population_density_sq_mi       =
+|population_metro               = 
+|population_note                = 2012 census
+|postal_code_type       =  <!-- enter ZIP code, Post/al code... -->
+|postal_code            =
+|area_code              = 055
+|website                = http://www.kwekwecity.org.zw/
+|footnotes              =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  
+|dot_y =
+||timezone = [[Central Africa Time|CAT]]
+|utc_offset = +2
+|timezone_DST =
+|utc_offset_DST =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Hot semi-arid climate|BSh]]
+}}

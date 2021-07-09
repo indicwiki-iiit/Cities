@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name                     = Chesterfield, Missouri
+|official_name            = City of Chesterfield
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Chesterfield, Missouri.jpg
+|imagesize                = 
+|image_caption            = From top left: [[Butterfly House, Missouri Botanical Garden|Butterfly House]], Faust Park, Residential area, Old Chesterfield
+|image_flag               = 
+|image_seal               = 
+|image_blank_emblem       = Chesterfield, Missouri logo.png
+<!-- Maps -->
+|image_map = St._Louis_County_Missouri_Incorporated_and_Unincorporated_areas_Chesterfield_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Chesterfield, Missouri
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Missouri]]
+|subdivision_type2        = [[List of counties in Missouri|County]]
+|subdivision_name2        = [[St. Louis County, Missouri|St. Louis]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Bob Nation<ref>{{cite web|title=Mayor's Office|url=http://www.chesterfield.mo.us/mayors-office.html|website=Chesterfield, Missouri|publisher=City of Chesterfield, Missouri|access-date=5 May 2015}}</ref>
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = [[municipal corporation|Incorporated]]
+|established_date         = 1988
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_29.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 87.14
+|area_land_km2            = 82.56
+|area_water_km2           = 4.58
+|area_total_sq_mi         = 33.65
+|area_land_sq_mi          = 31.88
+|area_water_sq_mi         = 1.77
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 47538
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 47484
+|population_density_km2   = 575.81
+|population_density_sq_mi = 1491.34
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+| utc_offset = &minus;6
+|timezone_DST             = CDT
+| utc_offset_DST = &minus;5
+|elevation_footnotes      = 
+|elevation_m              = 146
+|elevation_ft             = 479
+|coordinates              = {{coord|38|39|12|N|90|33|15|W|region:US-MO|display=inline,title}}
+|postal_code_type         = [[Zip code]]
+|postal_code              = 63005, 63017
+|area_code                = [[area code 314|314]], [[area code 636|636]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 29-13600<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0755881<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.chesterfield.mo.us/}}
+|footnotes                = <ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

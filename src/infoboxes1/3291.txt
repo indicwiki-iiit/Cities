@@ -1,0 +1,72 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Barcarena
+|other_name               =
+|native_name              =  <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = Municipality
+|motto                    =
+<!-- images and maps  ----------->
+|image_skyline            =
+|imagesize                = 
+|image_caption            = 
+|image_flag               = File:Flag of Barcarena - PA - Brazil.png
+|flag_size                =
+|image_seal               = File:Coat of Arms of Barcarena - PA - Brazil.png
+|seal_size                =
+|image_map                = File:Para Municip Barcarena.svg
+|map_caption              = Location in [[Pará]]
+|pushpin_map              = Brazil
+|pushpin_map_caption      = Location in [[Brazil]]
+|subdivision_type         = Country
+|subdivision_name         = {{flag|Brazil}}
+|subdivision_type1        = [[Regions of Brazil|Region]] 
+|subdivision_name1        = [[North Region, Brazil|Northern]]
+|subdivision_type2        = [[States of Brazil|State]]
+|subdivision_name2        = [[Pará]]
+|subdivision_type3        = [[Mesoregion (Brazil)|Mesoregion]]
+|subdivision_name3        = [[Mesoregion of Belém|Belém]]
+|subdivision_type4        = [[Microregion (Brazil)|Microregion]]
+|subdivision_name4        = [[Microregion of Belém|Belém]]
+<!-- Politics ----------------->
+|government_footnotes     =
+|government_type          =
+|leader_title             = [[Mayor]]
+|leader_name              = Renato Ogawa
+|established_title        = Cont. inhabited
+|established_date         = [[Portuguese discoveries|Prior to Portuguese rule]]<ref name="barcarena01">{{cite web|url=http://biblioteca.ibge.gov.br/visualizacao/dtbs/para/barcarena.pdf|title = Barcarena - Pará - PA|language = pt | publisher=[[Brazilian Institute of Geography and Statistics|Brazilian Institute of Geography and Statistics (IBGE)]]|access-date=2018-03-22}}</ref>
+|established_title1       = [[Freguesia]]
+|established_date1        = 1758
+|established_title2       = Incorporated ([[Municipal corporation#Brazil|municipality]])
+|established_date2        = May 10, 1897 <ref name="barcarena01"/>
+<!-- Area    --------------------->
+|area_magnitude           = 
+|area_total_km2           = 1310.588
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_footnotes           = <ref name ="IBGE_area">{{cite web |url=https://www.ibge.gov.br/geociencias-novoportal/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?t=destaques&c=1501303 | title = Área dos municípios|language=pt |trans-title=Area of Municipalities |publisher=[[Brazilian Institute of Geography and Statistics|Brazilian Institute of Geography and Statistics (IBGE)]] | access-date=2018-03-22}}</ref>
+<!-- Population   ----------------------->
+|population_as_of         = 2020 <ref>[https://cidades.ibge.gov.br/brasil/pa/barcarena/panorama IBGE 2020]</ref>
+|population_note          =
+|population_total         = 127,027
+|population_density_km2   =
+|population_footnotes     = 
+<!-- General information  --------------->
+|timezone                 = [[Time in Brazil|BRT]]
+|utc_offset               = -3
+|timezone_DST             =
+|utc_offset_DST           =
+|coordinates              = {{coord|01|30|21|S|48|37|33|W|region:BR|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> tags-->
+|elevation_m              = 15
+|elevation_ft             = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[Código de Endereçamento Postal|CEP]] postal code
+|postal_code              = 68445-000
+|area_code_type           = [[List of dialling codes in Brazil|Area code]]
+|area_code                = 91
+|blank_name               =
+|blank_info               =
+|website                  = [https://barcarena.pa.gov.br barcarena.pa.gov.br]
+|footnotes                = 
+}}

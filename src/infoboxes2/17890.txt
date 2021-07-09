@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Lake Stevens
+|settlement_type          = [[City (Washington)|City]]
+|nickname                 = 
+|motto                    = "One community, around the lake"
+<!-- Images -->
+|image_skyline            = Lake Stevens northeast shore.jpg
+|imagesize                = 
+|image_caption            = Northeast shore of lake on which the city is located
+|image_flag               = 
+|image_seal               = 
+<!-- Maps -->
+|image_map                = Snohomish_County_Washington_Incorporated_and_Unincorporated_areas_Lake_Stevens_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Lake Stevens, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[Snohomish County, Washington|Snohomish]]
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = [[Mayor–council government|Mayor–council]]
+|leader_title             = [[Mayor]]
+|leader_name              = Brett Gailey
+|established_title1       = Founded
+|established_date1        = 1889
+|established_title2       = [[Municipal incorporation|Incorporated]]
+|established_date2        = November 29, 1960
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_53.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 24.09
+|area_land_km2            = 23.74
+|area_water_km2           = 0.35
+|area_total_sq_mi         = 9.30
+|area_land_sq_mi          = 9.17
+|area_water_sq_mi         = 0.14
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 33911
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEstimate2019"/>
+|population_footnotes     = <ref name="Census-QuickFacts"/>
+|population_total         = 28069
+|population_density_km2   = 1428.40
+|population_density_sq_mi = 3699.65
+<!-- General information -->
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = −8
+|timezone_DST             = PDT
+|utc_offset_DST           = −7
+|elevation_footnotes      = 
+|elevation_m              = 66
+|elevation_ft             = 217
+|coordinates              = {{coord|48|1|11|N|122|3|58|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]
+|postal_code              = 98258
+|area_code                = [[Area code 425|425]] 
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-37900
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1512695<ref name="GR3">{{cite gnis |id=1512695 |name=Lake Stevens |entrydate=September 10, 1979 |access-date=May 17, 2020}}</ref>
+|website                  = {{URL|lakestevenswa.gov}}
+|footnotes                = 
+}}

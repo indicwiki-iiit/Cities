@@ -1,0 +1,22 @@
+{{Infobox company
+| name             = Iron Mountain Incorporated
+| logo             = Iron Mountain (logo).svg
+| logo_caption     = 
+| type             = [[Public company|Public]]
+| traded_as        = {{nyse|IRM}}<br />[[S&P 500]] Component
+| key_people       = William Meaney, [[Chief Executive Officer|CEO]]
+| industry         = [[Computer data storage|Information storage]]<br /> [[Enterprise information management]]
+| products         = 
+| revenue          = {{decrease}}US$4.147 billion (Fiscal Year End 2020)<ref name="2020Annual">{{cite web|url=https://s23.q4cdn.com/202968100/files/doc_financials/2020/ar/2020-Annual-Report-FINAL.pdf |title=Iron Mountain 2020 Annual Report |website=ironmountain.com|access-date=8 April 2021}}</ref>
+| operating_income = {{increase}}US$934.79 million (FIscal Year End 2020)<ref name="2020Annual"></ref>
+| net_income       = {{increase}}US$343.096 million (Fiscal Year End 2020)<ref name="2020Annual"></ref>
+| assets           = {{increase}}US$14.149 billion (Fiscal Year End 2020)<ref name="2020Annual"></ref>
+| equity           = {{decrease}}US$1.136 billion (Fiscal Year End 2020)<ref name="2020Annual"></ref>
+| num_employees    = 24,000 <ref name="s1.q4cdn.com">{{cite web|url=http://s1.q4cdn.com/415773695/files/doc_financials/2016/Q4/Q42016-Release-Slides-and-Supplemental.pdf |title=Iron Mountain Reports Fourth Quarter and Full Year 2016 Results |website=S1.q4cdn.com|access-date=2017-03-26}}</ref>
+| num_employees_year = 2016
+| foundation       = {{start date and age|1951}}
+| location_city    = [[Boston]], Massachusetts
+| location_country = USA
+| locations        = 2,000+
+| homepage         = {{URL |www.ironmountain.com}}
+}}

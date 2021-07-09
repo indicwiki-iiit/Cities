@@ -1,0 +1,121 @@
+{{Infobox settlement
+|name                   = Putian
+|native_name            = 莆田市
+|native_name_lang = zh
+|nickname               = 
+|other_name             = Putien
+|settlement_type        =[[Prefecture-level city]]
+<!-- images and maps  ----------->
+|image_skyline          = Putian Guanghua Si Shijiawenfo Ta 20120302-26.jpg
+|imagesize              = 
+|image_caption          =
+|image_map              = Locator map Putian in Fujian.svg
+|mapsize                =  
+|map_caption            = Location of Putian in Fujian
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China
+|pushpin_label_position = 
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = China
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Fujian]]
+|seat_type              = Municipal seat
+|seat                   = [[Chengxiang District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = CPC Secretary
+|leader_name            = Lin Baojin
+|leader_title1          = Deputy Mayor
+|leader_name1           = Li Jianhui
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = 4119<!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           = 2284
+|area_metro_km2           = 2284
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               =2010 census
+|population_footnotes           =<ref name="stat">{{cite web |url=http://www.stats-pt.gov.cn/NewsView.aspx?ID=1513 |script-title=zh:莆田市2015年国民经济和社会发展统计公报 |access-date=2010-05-03 |date=2010-02-20 |publisher=Putian Municipal Statistic Bureau |language=zh |title=Archived copy |archive-url=https://web.archive.org/web/20160201164934/http://www.stats-pt.gov.cn/NewsView.aspx?ID=1513 |archive-date=2016-02-01 |url-status=dead }}</ref>
+|population_note                =
+|population_total               =2778508
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =1953801
+|population_density_metro_km2   = auto
+|population_urban               =1953801
+|population_density_urban_km2   = auto
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             =  +8
+|coor_pinpoint = Putian Government Plaza
+|coordinates            = {{coord|25.4526|N|119.0078|E|type:adm2nd_region:CN-35_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postal code of China|Postal code]]
+|postal_code            = 351100
+|area_code              = 0594
+|iso_code = [[ISO 3166-2:CN|CN-FJ-03]]
+|blank_name             = [[Gross domestic product|GDP]]
+|blank_info             = 2015<ref name="stat" />
+|blank1_name            = &nbsp;- Total
+|blank1_info            = [[Renminbi|CNY]] 167.0 billion (US$25.70 billion)
+|blank2_name            = &nbsp;- per capita
+|blank2_info            = [[Renminbi|CNY]] 58,596 (US$9,014)
+|blank3_name            = &nbsp;- Growth
+|blank3_info            = {{increase}} 14.5%
+|blank4_name            = [[Licence plates of the People's Republic of China|License Plate Prefixes]]
+|blank4_info            = {{lang|zh-cn|闽B}}
+|blank5_name            = [[varieties of Chinese|Local variety]]
+|blank5_info            = [[Puxian Min]]
+|blank6_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank6_info            =
+|website                = {{url|www.putian.gov.cn}}
+|footnotes              = 
+}}

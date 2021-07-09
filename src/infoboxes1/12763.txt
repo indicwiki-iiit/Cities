@@ -1,0 +1,39 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|name                   = Békéscsaba
+|other_name             = {{lang|sk|Békešská Čaba}} {{in lang|sk}}<br/>{{lang|ro|Bichișciaba}} {{in lang|ro}}
+|settlement_type        = [[Town with county rights|City with county rights]]
+|official_name          = {{lang|hu|Békéscsaba Megyei Jogú Város}}
+|image_skyline          = Békéscsaba városháza.JPG
+|image_caption          = Békéscsaba city hall
+|image_shield           = HUN Békéscsaba Címer.svg
+|image_flag             = Flag of Békéscsaba.svg
+|subdivision_type       = Country
+|subdivision_name       = {{HUN}}
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|pushpin_map            = Hungary Békés#Hungary#Europe
+|pushpin_relief         = 
+|pushpin_map_caption    = 
+|pushpin_mapsize        = 
+|subdivision_type1      = [[Counties of Hungary|County]]
+|subdivision_name1      = [[Békés County|Békés]]
+|subdivision_type2      = [[Districts of Hungary|District]]
+|subdivision_name2      = [[Békéscsaba District|Békéscsaba]]
+|area_total_km2         = 193.93
+|population_total       = 59732<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=15200 Békéscsaba, KSH]</ref>
+|population_rank        = [[List of cities and towns of Hungary|16th in Hungary]]
+|population_footnotes   = 
+|population_as_of       = 2017
+|population_density_km2 = auto
+|elevation_m            = 89
+|leader_title           = Mayor
+|leader_name            = [[Péter Szarvas]] (Independent)
+|postal_code_type       = [[Postal codes in Hungary|Postal code]]
+|postal_code            = 5600, 5623, 5671
+|area_code_type         = [[Telephone numbers in Hungary|Area code]]
+|area_code              = (+36) 66
+|coordinates            = {{coord|46.679|21.091|region:HU|display=inline,title}}
+|website                = {{URL|http://www.bekescsaba.hu/}}
+}}

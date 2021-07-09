@@ -1,0 +1,56 @@
+{{Infobox settlement <!-- modelled after [[Seoul]] and [[Daegu]] -->
+| name                            = {{raise|0.1em|Sejong}}
+| official_name                   = Sejong Special Self-Governing City
+| native_name                     = {{lower|0.1em|{{lang|ko-Hang|세종시}}}}
+| settlement_type                 = [[Special cities of South Korea|Special Self-Governing city]]
+| translit_lang1                  = &nbsp;
+| image_skyline                   = File:Hannuridaero and Bangchukcheon.jpg
+| image_caption                   = 
+| image_flag                      = Flag of Sejong City, South Korea.svg
+| image_blank_emblem              = Symbol of Sejong.png
+| blank_emblem_type               = Logo
+| image_shield                    = 
+| image_map                       = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=8}}
+| mapsize                         = 
+| map_caption                     = 
+| pushpin_map                     = #South Korea#Asia#Earth
+| pushpin_label_position          = right
+| pushpin_mapsize                 = 
+| pushpin_map_caption             = 
+| pushpin_relief                  = 1
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = South Korea
+| subdivision_type1               = [[Regions of Korea|Region]]
+| subdivision_name1               = [[Hoseo]]
+| established_title               = First settled
+| established_date                = 2012
+| parts_type                      = Neighbourhood<br>Town<br>Townships
+| parts                           = 10<br>1<br>9
+| area_code                       = +82-44
+<!-- Counties             = 1 -->| government_type                 = [[Mayor–council government|Mayor–Council]]
+| leader_title                    = [[Mayor of Sejong City|Mayor]]
+| leader_name                     = [[Lee Choon-hee]] {{small|([[Democratic Party of Korea|Democratic]])}}
+| leader_title1                   = Body
+| leader_name1                    = [[Sejong City Council]]
+| area_total_km2                  = 465.23
+| population_total                = 351,007<ref name="pop">{{cite web |url= https://www.sejong.go.kr/viewer/default/doc.html?fn=BBS_202011060140153093.xlsx&rs=/viewer/result/R0263// |script-title=ko:한눈에보는 세종 > |last=세종특별자치시청|website=www.sejong.go.kr}}</ref>
+| population_as_of                = October 2020
+| population_density_km2          = 
+| population_blank1_title         = Dialect
+| population_blank1               = [[Chungcheong dialect|Chungcheong]]
+| website                         =   {{url|1=https://www.sejong.go.kr/eng.do|2=Official website (English)}}
+| translit_lang1_type1            = [[Hangul|Korean]]
+| translit_lang1_info1            = {{lang|ko-Hang|{{linktext|세종}}{{linktext|특별|자|치|시}}}}
+| translit_lang1_type2            = [[Hanja]]
+| translit_lang1_info2            = {{lang|ko-Hant|{{linktext|世|宗|特別|自|治|市}}}}
+| translit_lang1_type3            = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3            = {{nowrap|Sejong Teukbyeol-jachisi}}
+| translit_lang1_type4            = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info4            = {{nowrap|Sejong T’ŭkpyŏl-chach’isi}}
+| blank_name                      = Flower
+| blank_info                      = [[Peach]]
+| blank1_name                     = Tree
+| blank1_info                     = [[Pine]]
+| blank2_name                     = Bird
+| blank2_info                     = [[Dollarbird]]
+}}

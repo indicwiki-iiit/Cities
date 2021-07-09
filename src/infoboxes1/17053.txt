@@ -1,0 +1,100 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name                     = Eureka, California
+|settlement_type          = [[City (California)|City in California]]
+|official_name            = City of Eureka
+<!-- Images and maps ------>
+|image_skyline            = Humboldt Bay and Eureka aerial view.jpg
+|image_caption            = Aerial view: Eureka on Humboldt Bay
+|image_seal               = Seal of Eureka, California.png
+|nickname                 = 
+|motto                    = Eureka! (I have found it!)<ref name="Commission1987">{{cite book|author=California Coastal Commission|title=California Coastal Resource Guide|url=https://archive.org/details/californiacoasta00cali|url-access=registration|date=January 1, 1987|publisher=University of California Press|isbn=978-0-520-06186-6|pages=[https://archive.org/details/californiacoasta00cali/page/104 104]–}}</ref>
+|image_map                = Humboldt County California Incorporated and Unincorporated areas Eureka Highlighted 0623042.svg
+|map_caption              = Location within Humboldt County
+|mapsize                  = 250x200px
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|pushpin_map              = California#USA
+|pushpin_map_caption      = Location within California##Location within the United States
+|pushpin_relief           = 1
+|pushpin_label            = Eureka
+<!-- Location ------------->
+|coordinates              = {{coord|40|48|07|N|124|09|49|W|region:US-CA|display=inline,title}}
+|coordinates_footnotes    = <ref name=GNIS/>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[Humboldt County, California|Humboldt]]
+<!-- History -------------->
+|established_title        = Founded
+|established_date         = May 13, 1850
+|established_title2       = [[Municipal corporation|Incorporated]] (town)
+|established_date2        = April 18, 1856<ref>{{cite web|url=http://www.calafco.org/docs/Cities_by_incorp_date.doc |title=California Cities by Incorporation Date |format=Word |publisher=California Association of [[Local Agency Formation Commission]]s |access-date=April 7, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc |archive-date=November 3, 2014  }}</ref>
+|established_title3       = Re-incorporated (city)
+|established_date3        = February 19, 1874
+<!-- Government ----------->
+|government_type          = [[Council–manager government|Council-Manager]]<ref>{{cite web | url = http://www.amlegal.com/nxt/gateway.dll/California/eureka/cityofeurekacaliforniamunicipalcode?f=templates$fn=default.htm$3.0$vid=amlegal:eureka_ca | title = Charter of the City of Eureka | publisher = American Legal Publishing | access-date = February 13, 2015}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = Susan Seaman<ref name="Mayor">{{cite web
+  | title = City of Eureka, CA – Mayor | work = Mayor & City Council Bios | publisher = City of Eureka | url = http://www.ci.eureka.ca.gov/council/meet_the_mayor_council/mayor.asp | access-date = April 14, 2021 }}</ref>
+|leader_title1            = [[City manager]]
+|leader_name1             = Greg Sparks<ref>{{cite web
+ | title = Message from the City Manager   | publisher = City of Eureka  | url = http://www.ci.eureka.ca.gov/depts/cm/default.asp  | access-date = December 30, 2014 }}</ref>
+|leader_title2            = [[California's 2nd State Senate district|State senator]]
+|leader_name2             = {{Representative|casd|2|fmt=sleader}}<ref name=SS>{{cite web  | title = Senators   | url = http://senate.ca.gov/senators   | access-date = April 7, 2013  | publisher = State of California }}</ref>
+|leader_title3            = [[California's 2nd State Assembly district|Assemblymember]]
+|leader_name3             = {{Representative|caad|2|fmt=sleader}}<ref name=SA>{{cite web  | url = http://assembly.ca.gov/assemblymembers  | title = Members Assembly  | access-date = April 7, 2013  | publisher = State of California }}</ref>
+|leader_title4            = [[California's 2nd congressional district|U. S. rep.]]
+|leader_name4             = {{Representative|cacd|2|fmt=usleader}}<ref name=GovTrack>{{Cite GovTrack|CA|2  | access-date = April 7, 2013 }}</ref>
+<!-- Area------------------>
+|total_type               = [[City (California)|City]]
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_sq_mi         = 14.45
+|area_total_km2           = 37.43
+|area_land_sq_mi          = 9.38
+|area_land_km2            = 24.30
+|area_water_sq_mi         = 5.07
+|area_water_km2           = 13.13
+|area_water_percent       = 35.07
+|area_urban_sq_mi         = 18.498
+|area_urban_km2           = 47.908
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref name=GNIS>{{Cite GNIS|277605|Eureka|access-date=November 5, 2014}}</ref>
+|elevation_ft             = 39
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0623042.html |title=Eureka (city) QuickFacts |publisher=[[United States Census Bureau]] |access-date=March 11, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20120907193835/http://quickfacts.census.gov/qfd/states/06/0623042.html |archive-date=September 7, 2012 }}</ref>
+|population_total         = 27191
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 26710
+|population_density_sq_mi = 2846.33
+|population_urban         = 45034<ref name="USCurc">{{cite web  | title =2010 Census Urban and Rural Classification   | publisher = U.S. Census Bureau | url =https://www.census.gov/geo/www/ua/2010urbanruralclass.html  | access-date = December 9, 2012 }}</ref><ref name="GECC">{{cite web | title = Starting a Business in Eureka | publisher = Greater Eureka Chamber of Commerce | url = http://eurekachamber.com/starting-business-eureka | access-date = December 9, 2012 | archive-url = https://web.archive.org/web/20170525101630/http://eurekachamber.com/starting-business-eureka | archive-date = May 25, 2017 | url-status = dead }}</ref>
+|population_demonym       = Eurekan
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+<!-- Codes ---------------->
+|postal_code_type         = [[ZIP code]]s<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 23, 2014}}</ref>
+|postal_code              = 95501–95503, 95534
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 707|707]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|23042}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277605}}, {{GNIS 4|2410463}}
+|website                  = {{URL|www.ci.eureka.ca.gov}}
+|footnotes                = <ref name="CoE-pop">{{cite web  | title = Population and Housing, City of Eureka  | work = City of Eureka: Marina Center Mixed Use Development Project IV.L-1 ESA  | publisher = Eureka, California | url =http://www.ci.eureka.ca.gov/civica/filebank/blobdload.asp?BlobID=5053  | format = PDF | access-date = December 9, 2012 }}</ref>
+{{Designation list|embed=yes|designation1=California|designation1_number=477}}
+|population_density_km2 = 1098.96
+}}

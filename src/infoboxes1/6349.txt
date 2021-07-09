@@ -1,0 +1,24 @@
+{{Infobox musical artist
+| name             = Jam City
+| image            =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| birth_name       = Jack Latham
+| native_name      =
+| native_name_lang =
+| alias            = Vincent L'Traques
+| birth_date       =
+| birth_place      = [[London|London, United Kingdom]]
+| origin           =
+| death_date       = <!-- {{death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = {{hlist|[[UK bass]]|[[electronic music|electronic]]|[[pop music|pop]]}}
+| occupation       = DJ, producer
+| instrument       = Laptop, guitar
+| years_active     = 2010-present
+| label            = [[Night Slugs]]
+| associated_acts  = [[Bok Bok]], [[Main Attrakionz]], [[Kelela]], [[Troye Sivan]], [[Gaika (musician)|Gaika]]
+| website          = {{URL|http://www.jam-city.net}}
+}}

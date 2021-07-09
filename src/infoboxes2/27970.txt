@@ -1,0 +1,78 @@
+{{Infobox settlement
+|official_name            = Highland Lakes, New Jersey
+|settlement_type          = [[Census-designated place]]
+|nickname                 =
+|motto                    =
+
+<!-- Images -->
+|image_skyline            =
+|imagesize                =
+|image_caption            =
+|image_flag               =
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Highland_lake_cdp_nj_037.png
+|mapsize                  = 250x200px
+|map_caption              = Map of Highland Lakes in Sussex County. Inset: Location of Sussex County highlighted in the state of New Jersey
+|pushpin_mapsize          =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|New Jersey}}
+|subdivision_type2        = [[List of counties in New Jersey|County]]
+|subdivision_name2        = {{flagicon image||size=23x23px|link=Sussex County, New Jersey}} [[Sussex County, New Jersey|Sussex]]
+|subdivision_type3        = [[Township (New Jersey)|Township]]
+|subdivision_name3        = [[Vernon Township, New Jersey|Vernon]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name=CensusArea>[http://www2.census.gov/geo/docs/maps-data/data/gazetteer/2010_place_list_34.txt Gazetteer of New Jersey Places], [[United States Census Bureau]]. Accessed July 21, 2016.</ref>
+|area_magnitude           = 
+|area_total_km2           = 15.797
+|area_land_km2            = 13.134
+|area_water_km2           =  2.663
+|area_total_sq_mi         =  6.099
+|area_land_sq_mi          =  5.071
+|area_water_sq_mi         =  1.028
+|area_water_percent       = 16.86
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010 Census]]
+|population_footnotes     = <ref name=Census2010>[http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3431405 DP-1 - Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data for Highland Lake CDP, New Jersey], [[United States Census Bureau]]. Accessed February 26, 2013.</ref>
+|population_total         = 4933
+|population_density_km2   = auto
+|population_density_sq_mi = 972.8
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = [[Eastern Daylight Time|Eastern (EDT)]]
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref>{{Gnis|2389926|Highland Lake Census Designated Place}}, [[Geographic Names Information System]]. Accessed February 26, 2013.</ref>
+|elevation_m              = 389
+|elevation_ft             = 1276
+|coordinates_footnotes    = <ref name=CensusArea/><ref name="GR1">[https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html US Gazetteer files: 2010, 2000, and 1990], [[United States Census Bureau]]. Accessed September 4, 2014.</ref>
+|coordinates              = {{coord|41.174024|-74.455183|region:US_type:city|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 07422<ref name=USPS>[http://tools.usps.com/go/ZipLookupResultsAction!input.action?resultMode=0&city=highland%20lakes&state=NJ Look Up a ZIP Code for Highland Lakes, NJ], [[United States Postal Service]]. Accessed February 26, 2013.</ref>
+|area_code                = [[Area codes 862 and 973|973]] [[Telephone exchange|Exchange]]:764
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 3431405<ref name=CensusArea/><ref name="GR2">[https://www.census.gov U.S. Census website], [[United States Census Bureau]]. Accessed September 4, 2014.</ref><ref>[http://mcdc2.missouri.edu/webrepts/commoncodes/ccc_nj.html A Cure for the Common Codes: New Jersey], Missouri Census Data Center. Accessed February 26, 2013.</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 02389926<ref name=CensusArea/><ref name="GR3">[http://geonames.usgs.gov US Board on Geographic Names], [[United States Geological Survey]]. Accessed September 4, 2014.</ref>
+|website                  = 
+|footnotes                = 
+}}

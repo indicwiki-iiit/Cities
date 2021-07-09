@@ -1,0 +1,68 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name            = Lashkargah
+| native_name              = لښکرګاه<!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = City
+<!-- images and maps  ----------->
+| image_skyline            = {{Photomontage
+|photo1a = Sunset over Helmand River.JPG{{!}}Sunset over the Helman River
+|photo1b = Mosque in Lashkar Gah.jpg{{!}}Lashkar Gah Mosque
+|photo2a = Houses near to the River.jpg{{!}}Lashkar Gah streets
+|photo2b = Mirwais Neka Park.JPG{{!}}Mirwais Nikka Park
+|size    = 300
+|border  = 0
+|color   = Gray }}
+| image_caption            = From top left to right: Sunset over the Helmand River; [[Lashkargah Mosque]]; Lashkargah streets; [[Mirwais Nika Park]].
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Afghanistan <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = bottom
+| pushpin_mapsize          = 300
+| pushpin_map_caption      = Location in Afghanistan
+| coordinates              = {{coord|31|34|59|N|64|22|9|E|region:AF|display=inline,title}}
+<!-- Location ------------------>
+| subdivision_type         = Country
+| subdivision_name         = {{flag|Afghanistan}}
+| subdivision_type1        = [[Provinces of Afghanistan|Province]]
+| subdivision_name1        = [[Helmand Province]]
+| subdivision_type2        = District
+| subdivision_name2        = 
+| established_title        = <!-- Settled -->
+| established_date         = 
+| leader_title             = Mayor
+| leader_name              = Matiullah Baheer
+| area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_total_sq_mi         = 
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 
+| area_water_km2           = 
+| area_water_sq_mi         = 
+| elevation_footnotes      = <!--for references: use<ref> </ref> tags-->
+| elevation_m              = 773
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_footnotes     = 
+| population_total         = 201,546
+| population_as_of         = 2006
+| population_density_km2   = 
+| population_density_sq_mi = 
+| population_urban         = 276,831<ref>{{cite web|title=The State of Afghan Cities report2015 |url=http://unhabitat.org/books/soac2015/ |ref=UN-Habitat |url-status=dead |archive-url=https://web.archive.org/web/20151031111515/http://unhabitat.org/books/soac2015/ |archive-date=31 October 2015 }}</ref>
+| population_note          = <ref name=demography/>
+<!-- General information  --------------->
+| timezone                 = [[UTC+4:30]]
+| utc_offset               = 
+| timezone_DST             = 
+| utc_offset_DST           =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              = 
+| area_code                =
+| blank_name               = [[Köppen climate classification|Climate]]
+| blank_info               = [[Desert climate#Hot desert climates|BWh]] 
+| website                  = {{URL|http://www.lashkargahmun.gov.af}}
+}}

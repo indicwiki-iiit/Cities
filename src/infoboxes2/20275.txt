@@ -1,0 +1,20 @@
+{{Infobox German location
+|type              = Stadt
+|image_coa         = Coat of Arms of Weil der Stadt.svg
+|coordinates       = {{coord|48|45|3|N|8|52|14|E|format=dms|display=inline,title}}
+|image_plan        = Weil der Stadt in BB.svg
+|state             = Baden-Württemberg
+|district          = Böblingen
+|elevation         = 406
+|area              = 43.17
+|population        = 19113<!-- In der Infobox bitte nur die Daten des Statistischen Landesamtes verwenden, damit eine vergleichbare Grundlage da ist. Siehe [[Vorlage Diskussion:Infobox Ort in Deutschland]] -->
+|Stand             = 2005-12-31
+|Gemeindeschlüssel = 08115050
+|postal_code       = 71255–71263
+|area_code         = 07033
+|licence           = BB
+|website           = [https://www.weil-der-stadt.de/ www.weil-der-stadt.de]
+|mayor             = Christian Walter
+|image_photo       = WdSt-PeterundPaul.jpg
+|image_caption     = Church of Saints [[Saint Peter|Peter]] and [[Paul the Apostle|Paul]]
+}}

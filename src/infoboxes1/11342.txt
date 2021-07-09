@@ -1,0 +1,41 @@
+{{Infobox settlement
+
+| name                    = {{raise|0.1em|Anju}}
+| native_name             = {{lower|0.1em|{{nobold|안주시}}}}
+| native_name_lang        = ko
+| official_name           = 
+| settlement_type         = [[List of cities in North Korea|Municipal City]]
+| translit_lang1          = Korean 
+|translit_lang1_type      = [[Hangul|Chosŏn'gŭl]]
+|translit_lang1_info      = {{linktext|안|주|시}}
+| translit_lang1_type1    = [[Hancha]]
+| translit_lang1_info1    = {{linktext|安|州|市}}
+| translit_lang1_type2    = {{nowrap|[[McCune-Reischauer]]}}
+| translit_lang1_info2    = Anju-si
+| translit_lang1_type3    = {{nowrap|[[Revised Romanization]]}}
+| translit_lang1_info3    = Anju-si
+| image_skyline           = Anjucity.jpg
+| imagesize               = 
+| image_caption           = View of Anju
+| image_map               = DPRK2006 Pyongnam-Anju.PNG
+| map_caption             = Map of South Pyongan showing the location of Anju
+| mapsize                 = 270px
+| image_map1              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=9}}
+| pushpin_map             = North Korea
+| pushpin_map_caption     = Location within North Korea
+| coordinates             = {{coord|39|37|12|N|125|39|36|E|region:KP_type:city|display=title, inline}}
+| subdivision_type        = Country
+| subdivision_name        = [[North Korea]]
+| subdivision_type1       = [[Provinces of North Korea|Province]]
+| subdivision_name1       = [[South Pyongan Province|South P'yongan]]
+| area_total_km2          = 
+| population_as_of        = 2008<ref name="NKCSB">North Korean Central Statistic Bureau, [http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/North_Korea/Final%20national%20census%20report.pdf 2008 Census].</ref> 
+| population_total        = 240117
+| population_density_km2  = 
+| population_blank1_title = Dialect
+| population_blank1       = [[Pyongan dialect|P'yŏngan]]
+| parts_type              = [[Administrative divisions of North Korea|Administrative divisions]]
+| parts                   = 20 ''tong'', 22 ''ri''
+| timezone               = [[Time in North Korea|Pyongyang Time]]
+| utc_offset             = +9
+}}

@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                   = Lake Charles, Louisiana
+| native_name            =
+| native_name_lang       = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type        = [[City]]
+| image_skyline          = Lake Charles Collage.png
+| imagesize              = 300px
+| image_caption          = Top to bottom, L-R: Downtown Lake Charles, L'Auberge du Lac Casino, [[McNeese State University]], [[John McNeese]] statue, [[Israel LaFleur Bridge]], Lake Charles City Court, Henderson Bayou
+| image_flag             = Flag of Lake Charles.png
+| flag_size              = 118px
+| image_blank_emblem     = Lake Charles seal.png
+| blank_emblem_type      = Logo of Lake Charles
+| image_seal             = Seal of Lake Charles.png
+|seal_size               = 93px
+| nickname               = The Lake Area
+| pushpin_map            = USA Louisiana#USA
+| pushpin_label_position = none
+| pushpin_map_caption    = Location of Lake Charles in [[Louisiana]]
+| coordinates            = {{coord|30|12|53|N|93|12|31|W|display=it}}<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=April 23, 2011|date=February 12, 2011|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+| subdivision_type       = Country
+| subdivision_name       = {{flag|United States}}
+| subdivision_type1      = [[U.S. state|State]]
+| subdivision_name1      = {{flag|Louisiana}}
+| subdivision_type2      = [[List of parishes in Louisiana|Parish]]
+| subdivision_name2      = [[Calcasieu Parish, Louisiana|Calcasieu]]
+| established_title      = Founded
+| established_date       = March 7, 1861 as Charleston
+| established_title1     = Renamed
+| established_date1      = March 16, 1867 as Lake Charles
+| founder                = [[Charles Sallier]]
+| named_for              = Charles Sallier
+| leader_party           =
+| leader_title           = [[Mayor]]
+| leader_name            = Nicholas E. "Nic" Hunter ([[Republican Party (United States)|R]])
+| leader_title1          = [[City Council]]<ref>{{cite web|title=City of Lake Charles|url=http://www.cityoflakecharles.com/department/index.php?fDD=4-0|website=Cityoflakecharles.com|access-date=April 6, 2014}}</ref>
+| leader_name1           = {{Collapsible list
+| title                  = Members list
+| frame_style            = border:none; padding: 0;
+| title_style            = <!-- (optional) -->
+| list_style             = text-align:left;display:none;
+| 1 = Dist A: Mary Morris
+| 2 = Dist B: Luvertha W. August
+| 3 = Dist C: Rodney Geyen
+| 4 = Dist D: John Ieyoub
+| 5 = Dist E: Stuart Weatherford
+| 6 = Dist F: Dana Carl Jackson
+| 7 = Dist G: Mark Eckard
+}}
+| unit_pref                = Imperial
+| area_total_sq_mi         = 47.70
+| area_land_sq_mi          = 44.89
+| area_water_sq_mi         = 2.81
+| elevation_footnotes      =
+| elevation_ft             = 15
+| population_footnotes     =
+| population_total         = 71993
+| population_as_of         = [[2010 United States Census|2010]]
+| population_density_sq_mi = 1746.44
+| population_urban         = 132977
+| population_metro         = 194138
+| population_demonym       = Lake Charlesian
+| timezone1                = [[North American Central Time Zone|CST]]
+| utc_offset1 = −6
+| timezone1_DST            = [[North American Central Time Zone|CST]]
+| utc_offset1_DST = −5
+| postal_code_type         = [[ZIP Code]]s
+| postal_code              = 70601, 70602, 70605, 70606, 70607, 70609, 70615, 70616, 70629
+| area_code_type           = [[Area Code]]
+| area_code                = 337
+| website                  = {{URL|www.cityoflakecharles.com}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 78396
+|population_density_km2 = 674.30
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 22-41155
+|area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_22.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_total_km2 = 123.55
+|area_land_km2 = 116.26
+|area_water_km2 = 7.28
+|image_map = File:Calcasieu Parish Louisiana Incorporated and Unincorporated areas Lake Charles Highlighted.svg
+|map_caption = Location of Lake Charles in Calcasieu Parish, Louisiana
+}}

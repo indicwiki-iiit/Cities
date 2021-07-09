@@ -1,0 +1,112 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info ---------------->| name = Los Altos, California
+| settlement_type = [[City (California)|City]]
+| other_name = 
+| official_name = 
+| native_name = <!-- for cities whose native name is not in English -->
+| nickname = 
+| motto = <!-- images and maps ----------->
+| image_skyline = Los Altos entrance sign 2a.jpg
+| imagesize = 
+| image_caption = A City of Los Altos entrance marker, located in Lincoln Park just off of Main Street
+| image_flag = 
+| flag_size = 
+| image_seal = Seal of Los Altos, California.png
+| seal_size = 
+| image_shield = 
+| shield_size = 
+| image_blank_emblem = 
+| blank_emblem_type = 
+| blank_emblem_size = 
+| image_map = Santa_Clara_County_California_Incorporated_and_Unincorporated_areas_Los_Altos_Highlighted.svg
+| mapsize = 250x200px
+| map_caption = Location in [[Santa Clara County, California|Santa Clara County]] and the state of California
+| image_map1 = 
+| mapsize1 = 
+| map_caption1 = 
+| image_dot_map = 
+| dot_mapsize = 
+| dot_map_caption = 
+| dot_x = 
+| dot_y = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+<!-- Location ------------------>
+| subdivision_type = [[List of sovereign states|Country]]
+| subdivision_name = United States
+| subdivision_type1 = [[U.S. state|State]]
+| subdivision_name1 = [[California]]
+| subdivision_type2 = [[List of counties in California|County]]
+| subdivision_name2 = [[Santa Clara County, California|Santa Clara]]
+| subdivision_type3 = 
+| subdivision_name3 = 
+| subdivision_type4 = 
+| subdivision_name4 = <!-- Politics ----------------->
+| government_footnotes = 
+| government_type = [[Council–manager government|Council/Manager]]<ref>{{Cite web|url=http://www.losaltosca.gov/citymanager|title=Welcome to the Office of the City Manager|publisher=City of Los Altos|access-date=February 2, 2015}}</ref>
+| leader_title = [[Mayor]]
+| leader_name = Neysa Fligor<ref>{{Cite web|url=https://www.losaltosonline.com/news/sections/news/297-news-features/63687-neysa-fligor-blazes-a-trail-as-los-altos-first-black-mayor|title=Neysa Fligor blazes a trail as Los Altos' first Black mayor|publisher=Los Altos Town Crier|access-date=December 14, 2020}}</ref>
+| leader_title1 = [[Vice mayor]]
+| leader_name1 = Anita Enander<ref>{{Cite web|url=https://www.losaltosonline.com/news/sections/news/199-city-affairs/63663-neysa-fligor-elected-as-los-altos-new-mayor-makes-history|title=Neysa Fligor elected as Los Altos' new mayor, makes history|publisher=Los Altos Town Crier|access-date=December 14, 2020}}</ref>
+| established_title3 = [[Municipal corporation|Incorporated]]
+| established_date3 = December 1, 1952<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title=California Cities by Incorporation Date
+ |format=Word
+ |publisher=California Association of [[Local Agency Formation Commission]]s
+ |access-date=August 25, 2014
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date=November 3, 2014
+}}</ref>
+<!-- Area------------------>
+| area_magnitude = 
+| unit_pref = Imperial
+| area_footnotes = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi = 6.54
+| area_land_sq_mi = 6.54
+| area_water_sq_mi = 0.00
+| area_total_km2 = 16.94
+| area_land_km2 = 16.94
+| area_water_km2 = 0.00
+| area_water_percent = 
+| area_note = 
+| area_urban_km2 = 
+| area_urban_sq_mi = 
+| area_metro_km2 = 
+| area_metro_sq_mi = 
+| area_blank1_title = 
+| area_blank1_km2 = 
+| area_blank1_sq_mi = 
+| elevation_footnotes = <ref>{{Cite GNIS|1659745|Los Altos|access-date=October 13, 2014}}</ref>
+| elevation_ft = 157
+| elevation_m = 48
+<!-- Population ----------->
+| population_as_of = [[2010 United States Census|2010]]
+| population_footnotes = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0643280.html |title=Los Altos (city) QuickFacts |publisher=[[United States Census Bureau]] |access-date=April 7, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20120819084421/http://quickfacts.census.gov/qfd/states/06/0643280.html |archive-date=August 19, 2012 }}</ref>
+| population_total = 28976
+| pop_est_as_of = 2019
+| pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est = 30089
+| population_density_sq_mi = 4600.76
+| population_metro = 
+| population_density_metro_sq_mi = <!-- General information --------------->
+| timezone = [[Pacific Time Zone]]
+| utc_offset = −8
+| timezone_DST = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST = −7
+| coordinates = {{coord|37|22|5|N|122|5|51|W|region:US-CA|display=inline, title}}
+| postal_code_type = [[ZIP code]]s
+| postal_code = 94022–94024
+| area_code_type = [[North American Numbering Plan|Area code]]
+| area_code = [[Area code 650|650]]
+| blank_name = [[Federal Information Processing Standard|FIPS]] code
+| blank_info = {{FIPS|06|43280}}
+| blank1_name = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info = {{GNIS 4|1659745}}, {{GNIS 4|2410876}}
+| website = {{URL|www.losaltosca.gov}}
+| footnotes = 
+| population_density_km2 = 1776.47
+}}

@@ -1,0 +1,127 @@
+{{Infobox settlement
+<!-- See Template:Infobox Settlement for additional fields that may be available -->
+<!-- See the Table at Infobox Settlement for all fields and descriptions of usage -->
+<!-- Basic info  -------------- -->
+|name                   = Worthing <!-- at least one of the first two fields must be filled in -->
+|official_name          = 
+|other_name             = Borough of Worthing
+|native_name            =  <!-- if different from the English name -->
+|etymology             = [[Old English]] ''Weoroingas'' – (place of) Worth/Weorð/Worō's people
+|nickname               = Sunny Worthing
+|settlement_type        = [[Town status in the United Kingdom|Town]] & [[Borough status in the United Kingdom|borough]]
+|total_type             = Borough
+|motto                  = "''Ex terra copiam e mari salutem''"<br/>([[Latin language|Latin]] for "From the land plenty and from the sea health")
+| population_demonym    = Worthingite
+<!-- images and maps  --------- -->
+| image_skyline = {{Photomontage
+   | photo1a = Worthing sea front from the pier - geograph.org.uk - 413383.jpg {{!}}Worthing seafront from Worthing Pier
+   | photo2a = Worthing Pier - geograph.org.uk - 826346.jpg{{!}}Worthing Pier
+   | photo2b = Worthing - the Dome - geograph.org.uk - 2616571.jpg{{!}}Dome Cinema
+   | photo3a = Connaught Theatre, Worthing.jpg{{!}}Connaught Theatre
+   | photo3b = Footpath, Cissbury Rings - geograph.org.uk - 1334691.jpg{{!}}Cissbury Ring
+   | photo3c = North_side_of_Castle_Goring.jpg{{!}}North side of Castle Goring
+   | size = 280
+   | color_border =
+   | color = 
+   | spacing = 2
+   | foot_montage =
+ }}
+ | image_caption = Clockwise, from top: Worthing seafront from Worthing Pier, [[Dome Cinema, Worthing|Dome Cinema]], [[Castle Goring]], [[Cissbury Ring]] in the [[South Downs National Park]], [[Connaught Theatre]], [[Worthing Pier]]
+|imagesize              = 
+|image_blank_emblem     = Coat of arms of Worthing.jpg
+|blank_emblem_type      = Coat of Arms of the Borough Council
+|blank_emblem_size      = 150px
+| image_map              = Worthing UK locator map.svg
+| map_caption                     = Location within [[West Sussex]]
+| pushpin_map                     = England#UK#Europe
+| pushpin_map_caption             = Location within England##Location within the United Kingdom##Location within Europe
+| pushpin_relief                  = 1
+| image_dot_map                   = 
+
+<!-- Location ---------------- -->
+|subdivision_type       = [[List of sovereign states|Sovereign state]]
+|subdivision_name       = {{flag|United Kingdom}}
+|subdivision_type1      = [[Countries of the United Kingdom|Country]]
+|subdivision_name1      = {{flag|England}}
+|subdivision_type2      = [[Regions of England|Region]]
+|subdivision_name2      = [[South East England]]
+|subdivision_type3      = [[Historic counties of England|Historic county]]
+|subdivision_name3      = {{flag|Sussex}}
+|subdivision_type4      = [[Ceremonial counties of England|County]]
+|subdivision_name4      = [[West Sussex]]
+|subdivision_type5      = [[Districts of England|Borough]]
+|subdivision_name5      = Worthing
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = Borough
+|governing_body         = [[Worthing Borough Council]]
+
+|leader_title       = [[Executive arrangements#Leader and cabinet|Leadership]]
+|leader_name        = [[Local Government Act 2000#Options for council executive forms|Leader and cabinet]]
+
+|leader_title1      = [[Political make-up of local councils in the United Kingdom#Unitary authorities|Executive]]
+|leader_name1       = {{English district control|GSS=E07000229}}
+
+|leader_title2         = Leader of Council
+|leader_name2          = Cllr Daniel Humphreys [[Conservative Party (UK)|(C)]]
+
+|leader_title3         = Chief Executive
+|leader_name3          = Alex Bailey
+
+|leader_title4          = [[List of MPs elected in the 2015 United Kingdom general election|MPs]]  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name4           = [[Peter Bottomley]] (C)<br/> [[Tim Loughton]] (C)
+
+|established_title      =  Founded
+|established_date       =  In antiquity
+|established_title2 = Town charter
+|established_date2 = {{Start date and age|df=yes|1803}}
+|established_title3 = Borough status
+|established_date3 = {{Start date and age|df=yes|1890}}
+
+| seat_type          = Administrative HQ
+| seat = [[Worthing Town Hall]]
+
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_rank               = [[List of English districts by area|{{English district area rank|GSS=E07000229}}]]
+|area_total_km2           = 32.48
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use<ref> </ref> tags-->
+|elevation_m            = 7
+|elevation_ft           = 25
+|elevation_max_m            = 184
+|elevation_max_ft           = 603
+<!-- Population   ----------------------->
+|population_as_of               = {{English statistics year}}
+|population_footnotes           =
+|population_note                =
+| population_total = {{English district population|GSS = E07000229}} ([[List of English districts by population|ranked {{English district rank|GSS = E07000229}}]])
+|population_density_km2         = {{English district density|GSS=E07000229}}<!--For automatic calculation, any density field may contain: auto -->
+|population_urban               = 474,485
+|population_blank1_title        =Ethnicity<br /><small>([[Office for National Statistics]] 2011 Census)<ref>{{cite web |author=Neighbourhood Statistics |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |title=2011 Census: KS201EW Ethnic group, local authorities in England and Wales |publisher=Office for National Statistics |access-date=27 November 2013 |archive-date=24 February 2016 |archive-url=https://web.archive.org/web/20160224143452/http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |url-status=live }}</ref></small> 
+|population_blank1              =93.8% [[White people|White]]<br/>3.2% [[British Asian]]<br/>1.7% [[Mixed (United Kingdom ethnicity category)|Mixed Race]]<br/>0.9% Black<br/>0.4% Arab and other
+<!-- General information  ------------- -->
+|timezone               = [[GMT]]
+|utc_offset             =
+|timezone_DST           = [[British Summer Time]]
+|utc_offset_DST         =
+|coordinates            = {{coord|50|48|52.96|N|0|22|16.99|W|format=dms|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- Area/postal codes & others ------ -->
+|postal_code_type       =  Postcode
+|postal_code            =  BN11–BN14
+|area_code              =  01903
+|blank_name             = ONS code
+|blank_info             = 45UH
+|blank1_name            = Highest point
+|blank1_info            = Cissbury Ring (184m)
+|blank2_name            = Grid reference
+|blank2_info            = SU775075
+|website                = [https://www.adur-worthing.gov.uk/ Adur & Worthing councils]
+|footnotes              =
+}}

@@ -1,0 +1,34 @@
+{{Infobox Australian place | type = town
+| name     = Bicheno
+| state    = tas
+| image    = Tasmania bicheno town view.jpg
+| caption  = 
+| coordinates = {{coord|41|52|S|148|17|E|display=inline,title}}
+| pushpin_label_position = left 
+| lga      = Glamorgan Spring Bay Council
+| postcode = 7215
+| est      = 
+| pop      = 943
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="ABS">{{Census 2016 AUS
+ | id = SSC60044
+ | name = Bicheno (State Suburb) 
+ | quick = on
+ | accessdate = 27 January 2018}}</ref>
+| area = 151.1
+| density = 5.6
+| elevation= 
+| maxtemp  = 17.9
+| mintemp  = 9.5
+| rainfall = 678.8
+| stategov = [[Division of Lyons (state)|Lyons]]
+| fedgov   = [[Division of Lyons|Lyons]]
+| dist1    = 37
+| location1= [[Coles Bay, Tasmania|Coles Bay]]
+| dist2    = 43
+| location2= [[Swansea, Tasmania|Swansea]]
+| dist3    = 44
+| location3= [[St Marys, Tasmania|St Marys]]
+| dist4    = 106
+| location4= [[Campbell Town, Tasmania|Campbell Town]]
+}}

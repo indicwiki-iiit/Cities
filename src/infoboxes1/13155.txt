@@ -1,0 +1,80 @@
+{{Infobox UK place
+<!-- BASICS -->
+| official_name                     = Small Heath
+| local_name                        = 
+| country                           = England
+| region                            = West Midlands
+| region1                           = <!-- for places split between regions -->
+<!-- IMAGES -->
+| static_image                      = <!-- now deprecated in favour of static_image_name (below); this is used for a static image (most commonly a skyline or landmark) -->
+<!-- specified as [[File:filename.jpg|240px]] -->
+| static_image_name                 = Green Lane Mosque sym.jpg
+| static_image_width                = <!-- allows control of the image width. Should be omitted in most cases (will default to 240) -->
+| static_image_caption              = [[Green Lane Masjid]], formerly Green Lane Public Library and Baths ([[Martin & Chamberlain]] 1893–1902)
+| static_image_alt                  = <!-- for a description of the image per [[WP:ALT]] -->
+| static_image_2                    = <!-- now deprecated in favour of static_image_2_name (below); this is used for a second static image (for example a town crest) -->
+<!-- specified as [[File:filename.jpg|240px]] -->
+| static_image_2_name               = <!-- for a second static image, such as a town crest; specified as filename.jpg -->
+| static_image_2_width              = <!-- allows control of the image width. Should not exceed 240 -->
+| static_image_2_caption            = <!-- optional caption for static image -->
+| static_image_2_alt                = <!-- for a description of the image per [[WP:ALT]] -->
+<!-- STATISTICS -->
+| area_total_sq_mi                  = <!-- square mile data as a number - will automatically provide conversion to  km<sup>2</sup> -->
+| area_total_km2                    = <!-- sq km data as a number - will automatically provide 
+conversion to sq mi (if blank) -->
+| area_footnotes= <!-- to cite the values used in the area fields. Use the <ref> </ref> tags -->
+| population                        = 36,898
+| population_ref                    = <!-- include a reference: e.g. <ref>Census, 2001</ref> -->
+<!-- a good place to check for these figures is http://neighbourhood.statistics.gov.uk/ -->
+<!-- any non-numeric population values should also go here, such as "c.500" or "<500" -->
+| population_density                = <!-- for /sq mi ...use convert template {{Pop density mi2 to km2|(enter value) |precision=1|abbr=yes}} -->
+<!-- if pop density/km<sup>2</sup> is known use {{Pop density km2 to mi2|(enter value) |precision=1|abbr=yes}} -->
+<!-- note: if population is given and either area_total_sq_mi or area_total_km2 is given then population_density will be calculated -->
+| statistic                         =
+| statistic_title                   =
+| statistic1                        =
+| statistic_title1                  =
+| statistic2                        =
+| statistic_title2                  =
+| population_demonym                = 
+<!-- MAP & LOCATION -->
+| os_grid_reference                 = SP1085
+| map_type                          = 
+| map_alt                           = <!-- alt text for map, for visually impaired and other readers who cannot see the image; see </nowiki>[[WP:ALT]]<nowiki> -->
+| coordinates                       = {{coord|52.46285|-1.85424|display=inline,title}}
+| label_position                    = <!-- adjust position of label by dot – defaults to right -->
+| historic_county = Warwickshire
+|post_town                         = BIRMINGHAM
+| postcode_area                     = B
+| postcode_district                 = B10
+| dial_code                         = 0121
+<!-- GOVERNANCE -->
+| constituency_westminster          = [[Birmingham Hall Green (UK Parliament constituency)|Birmingham Hodgehill ]]
+| civil_parish                      = <!-- for places within a parish. Use a link, e.g. [[Odd Rode]] -->
+| civil_parish1                     = <!-- for places in more than one parish. Use a link. -->
+<!-- DISTANCES -->
+<!-- you can use the template {{convert|(enter data)|mi|precision=0}} to help convert miles to km automatically; both are displayed -->
+| london_distance_mi                = <!-- for UK articles (outside of Greater London), distance to London as the crow flies -->
+| london_distance_km                = 
+| london_distance                   = 
+| london_direction                  = 
+<!-- ENGLAND-SPECIFIC -->
+|metropolitan_borough               = [[Birmingham]]
+|metropolitan_county                = [[West Midlands (county)|West Midlands]]
+| shire_district                    = 
+| shire_district1                   = <!-- for places in more than one -->
+| shire_county                      = <!-- Use a link. e.g. [[Devon]] -->
+| shire_county1                     = <!-- for places in more than one -->
+| unitary_england                   = 
+| unitary_england1                  = <!-- for places in more than one -->
+| lieutenancy_england               = <!-- not required where shire or metropolitan is the same -->
+| lieutenancy_england1              = <!-- for places in more than one -->
+<!-- ALL AREAS -->
+| other_language_name               = <!-- any other alternative language name -->
+| other_language                    = <!-- any other alternative language name -->
+| language                          = <!-- any locally spoken languages -->
+| language1                         = <!-- any locally spoken languages -->
+| language2                         = <!-- any locally spoken languages -->
+| website                           = <!-- Council website for place (specifically) -->
+| hide_services                     = <!-- Set to Yes to turn off Police/Fire/Ambulance -->
+}}

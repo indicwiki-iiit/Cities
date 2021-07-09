@@ -1,0 +1,35 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name          = Dombóvár
+|other_name             = {{lang|la|Iowia}} {{in lang|la}} <br>{{lang|de|Dombowa}} {{in lang|de}}
+|settlement_type        = [[List of cities and towns of Hungary|Town]]
+|image_skyline          = Dombóvár légifotó.jpg
+|image_caption          = Aerial view of Dombóvár
+|image_shield           = Coa Hungary Town Dombóvár.svg
+|image_flag             = Flag of Dombóvár.svg
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = {{HUN}}
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|map                    = [[File:TolnaMegye.png|center|thumb|275px|Location of Tolna county in Hungary]]
+|subdivision_type1      = [[Counties of Hungary|County]]
+|subdivision_name1      = [[Tolna County|Tolna]]
+|subdivision_type2      = [[Districts of Hungary|District]]
+|subdivision_name2      = [[Dombóvár District|Dombóvár]]
+|area_total_km2         = 78.48
+|population_total       = 20655
+|population_footnotes   = 
+|population_as_of       = 2004
+|population_density_km2 = 263.18
+|postal_code_type       = [[Postal codes in Hungary|Postal code]]
+|postal_code            = 7200
+|area_code_type         = [[Telephone numbers in Hungary|Area code]]
+|area_code              = (+36) 74
+|website                = {{URL|http://www.dombovar.hu/}}
+|pushpin_map            = Hungary 
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Dombóvár
+|pushpin_mapsize        = 
+|coordinates            = {{coord|46.38196|18.14217|region:HU|display=inline,title}}
+}}

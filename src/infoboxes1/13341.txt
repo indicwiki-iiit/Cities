@@ -1,0 +1,30 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    =  Abasolo
+| settlement_type         = City
+| image_skyline           = Plaza Cívica en Abasolo, Tamaulipas.jpg
+| image_alt               = 
+| image_caption           = Plaza Cívica in Abasolo, Tamaulipas
+| image_shield            =  Abasolo tamaulipas escudo.jpg
+| shield_alt              = Shield of Abasolo, Tamaulipas
+| image_map               = Abasolo tamaulipas mapa.png
+| map_alt                 = Map of Abasolo, Tamaulipas
+| map_caption             = Map of Abasolo, Tamaulipas
+| subdivision_type        = Country
+| subdivision_name        = [[Mexico]]
+| subdivision_type1       = [[Mexican state|State]]
+| subdivision_name1       = [[Tamaulipas]]
+| subdivision_type2       = [[Municipalities of Mexico|Municipality]]
+| subdivision_name2       = [[Abasolo Municipality, Tamaulipas|Abasolo]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+| leader_party            = [[Institutional Revolutionary Party|PRI]]
+| leader_title            = Pdte. municipal 
+| leader_name             = Juan Antonio Curiel Curiel
+| unit_pref               = Metric
+<!-- square kilometers -->
+| area_total_km2          = 1960.46
+| population_total        = 11862
+| population_density_km2  = auto
+| elevation_m             = 70
+}}

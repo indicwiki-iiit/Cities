@@ -1,0 +1,111 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                     = Hawaiian Gardens, California
+|official_name            = City of Hawaiian Gardens
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = "Our Youth, Our Future"
+|settlement_type          = [[City (California)|City]]
+
+<!-- images and maps  ----------->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|flag_size                = 
+|image_seal               = Hawaiian_Gardens_seal.jpg
+|seal_size                = 
+|image_shield             = 
+|shield_size              = 
+|image_blank_emblem       = 
+|blank_emblem_size        = 
+|image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Hawaiian Gardens Highlighted 0632506.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Hawaiian Gardens in Los Angeles County, California.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|image_dot_map            = 
+|dot_mapsize              = 
+|dot_map_caption          = 
+|dot_x                    = 
+|dot_y                    = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|government_type          = City Council-Administrator
+|leader_title             = [[Mayor]]
+|leader_name              = Jesse Alvarado<ref name=cc>{{Cite web
+ | url = http://hgcity.org/?cat=28
+ | title = City Council
+ | publisher = City of Hawaiian Gardens
+ | access-date = April 23, 2017}}</ref>
+|leader_title1            = [[Pro Tempore|Mayor Pro Tem]]
+|leader_name1             = Luis Roa<ref name=cc/>
+|leader_title2            = [[City Council|Council Members]]<ref name=cc/>
+|leader_name2             = Myra Maravilla <br/> Victor Farfan <br/> Hank Trimble
+|established_title        = <!-- Founded -->
+|established_date         = 
+|established_title2       = <!-- Incorporated (town) -->
+|established_date2        = 
+|established_title3       = Incorporated (city)
+|established_date3        = April 9, 1964<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20131017052413/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = October 17, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 0.96
+| area_land_sq_mi         = 0.95
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 2.48
+| area_land_km2           = 2.45
+| area_water_km2          = 0.03
+| area_water_percent      = 1.09
+|area_metro_km2           = 
+|area_metro_sq_mi         = <!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0632506.html|title=Hawaiian Gardens (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=April 16, 2015|archive-url=https://web.archive.org/web/20150416015653/http://quickfacts.census.gov/qfd/states/06/0632506.html|archive-date=April 16, 2015|url-status=dead}}</ref>
+|population_total         = 14254
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 14159
+|population_density_sq_mi = 14935.65
+|population_metro         = 
+|population_density_metro_sq_mi   = <!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|PST]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates              = {{coord|33|49|43|N|118|4|25|W|region:US_type:city|display=inline,title}}
+|elevation_footnotes      = <!--for references: use <ref> </ref> tags-->
+|elevation_m              = 10
+|elevation_ft             = 33
+<!-- Area/postal codes & others -------->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 90716
+|area_code                = [[Area code 562|562]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 06-32506
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1652716
+|website                  = {{URL|hgcity.org}}
+|footnotes                = 
+|population_density_km2 = 5768.48
+}}

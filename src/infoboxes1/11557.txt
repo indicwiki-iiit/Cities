@@ -1,0 +1,51 @@
+{{Infobox settlement
+| name = Gliwice
+| image_skyline = {{Photomontage|
+ |color=#ffffff
+ |photo1a = Gliwice - panoramio (140).jpg{{!}}Mickiewicz Square
+ |photo1b = Radiostacja - panoramio (3).jpg{{!}}Gliwice Radio Tower
+ |photo2a = Ratusz gliwicki 01.JPG{{!}}Town Hall
+ |photo2b = Budynek Poczty 06.JPG{{!}}Main Post Office
+ |photo3a = Gliwice - Dworzec Kolejowy V.jpg{{!}}Main Train Station
+ | spacing = 2
+ | border = 0
+ | size = 276
+}}
+<small>Left to right: Mickiewicz Square{{•}}Gliwice Radio Tower{{•}}<br/>Town Hall{{•}}Post Office{{•}}Main Train Station</small>
+| image_flag = POL_Gliwice_flag_1.svg
+| image_shield = POL Gliwice COA.svg
+| pushpin_map = Poland Silesian Voivodeship#Poland
+| pushpin_label_position = bottom
+| subdivision_type = [[List of sovereign states|Country]]
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = {{flag|Silesian Voivodeship|name=Silesian}}
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = ''city county''
+| leader_title = Mayor
+| leader_name = Adam Neumann
+| established_title = Established
+| established_date = 13th century
+| established_title3 = Town rights
+| established_date3 = 1250
+| elevation_min_m = 200
+| elevation_max_m = 278
+| area_total_km2 = 133.88
+| population_as_of = 31 December 2019
+| population_total = 178,603 {{decrease}} ([[List_of_cities_and_towns_in_Poland|19th]])<ref name="population">{{cite web|url=https://bdl.stat.gov.pl/BDL/dane/teryt/jednostka|title=Local Data Bank|access-date=22 June 2020|publisher=Statistics Poland}} Data for territorial unit 2466000.</ref>
+| population_density_km2 = 1330
+| population_urban = 2746000
+| population_metro = 4620624
+| timezone = [[Central European Time|CET]]
+| utc_offset = +1
+| timezone_DST = [[Central European Summer Time|CEST]]
+| utc_offset_DST = +2
+| coordinates = {{coord|50|17|N|18|40|E|region:PL|display=inline}}
+| postal_code_type = Postal code
+| postal_code = 44-100 to 44-164
+| area_code = +48 32
+| blank_name = [[Polish car number plates|Car plates]]
+| blank_info = SG
+| blank1_name = [[Köppen climate classification|Climate]]
+| blank1_info = [[Oceanic climate|Cfb]]
+| website = http://www.gliwice.eu/ }}

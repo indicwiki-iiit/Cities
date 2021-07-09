@@ -1,0 +1,30 @@
+{{Infobox Australian place
+| type     = town
+| name     = Yamba
+| state    = NSW
+| image    = Clarence Head lighthouse.jpg
+| caption  = Clarence Head lighthouse, Yamba
+| coordinates = {{coord|29|26|S|153|21|E|display=inline,title}}
+| pushpin_label_position = left
+| pop      = 6043
+| pop_year = 2016
+| pop_footnotes = <ref name="ABS" />
+| postcode = 2464
+| elevation= 29
+| dist1    = 671
+| dir1     = NE
+| location1= [[Sydney]]
+| dist2    = 61
+| dir2     = NE
+| location2= [[Grafton, New South Wales|Grafton]]
+| dist3    = 18
+| dir3     = E
+| location3= [[Maclean, New South Wales|Maclean]]
+| lga      = Clarence Valley Council
+| stategov = [[Electoral district of Clarence|Clarence]]
+| fedgov   = [[Division of Page|Page]]
+| maxtemp  = 23.4
+| mintemp  = 15.5
+| rainfall = 1466.4
+| est      =1854
+}}

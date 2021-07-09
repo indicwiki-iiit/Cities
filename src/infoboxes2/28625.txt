@@ -1,0 +1,43 @@
+{{Infobox Australian place 
+| type = town
+| name     = Camooweal
+| state    = qld
+| image = Post Office Hotel, Camooweal, 2019.jpg
+| caption = Post Office Hotel, 2019
+| coordinates         = {{coord|-19.9211|138.1194|type:city_region:AU-QLD|display=inline|name=Camooweal (town centre)}}
+| pop                 = 208
+| pop_year            = {{CensusAU|2016}}
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1884
+| postcode            = 4828
+| area                = 9537.0
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| lga      = City of Mount Isa
+| stategov = [[Electoral district of Traeger|Traeger]]
+| fedgov   = [[Division of Kennedy|Kennedy]]
+| maxtemp  = 32.9
+| elevation= 231.2
+| mintemp  = 17.7
+| rainfall = 399.4
+| near-n              = [[Lawn Hill, Queensland|Lawn Hill]]
+| near-ne             = [[Gregory, Queensland|Gregory]]
+| near-e              = [[Gunpowder, Queensland|Gunpowder]]
+| near-se             = [[Mount Isa (locality), Queensland|Mount Isa (locality)]]
+| near-s              = [[Barkly, Queensland|Barkly]]
+| near-sw             = ''[[Northern Territory]]''
+| near-w              = ''[[Northern Territory]]''
+| near-nw             = ''[[Northern Territory]]''
+}}

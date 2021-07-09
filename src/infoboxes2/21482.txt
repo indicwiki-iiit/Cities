@@ -1,0 +1,35 @@
+{{Infobox station
+| name        = Moritake Station
+| native_name = 森岳駅
+| native_name_lang = ja
+| type        = 
+| image       = Moritake Station 20190512a.jpg
+| alt         = 
+| caption     = Moritake Station in May 2019
+| other_name  = 
+| address     = Moritake, Mitane-cho, Yamamoto-gun, Akita-ken 018-2303
+| country     = Japan
+| coordinates = {{coord|40|6|11.48|N|140|4|15.19|E|type:railwaystation_region:JP-05|display=title, inline}}
+| status      = Staffed
+| operator    = [[File:JR logo (east).svg|20px]] [[JR East]]
+| line        = {{colorbull|DarkOrange}} [[Ōu Main Line]]
+| distance    = 345.1 km from {{STN|Fukushima|Fukushima}}
+| platforms   = 2 side platforms
+| tracks      = 2
+| connections = 
+| structure   = 
+| code        = 
+| website     = {{Official website|1=http://www.jreast.co.jp/estation/station/info.aspx?StationCd=1566}}
+| opened      = 1 August 1902
+| rebuilt     = 
+| closed      = 
+| former      =  
+| passengers  = 181 daily
+| pass_year   = FY2018
+| map_type    = Japan Akita Prefecture#Japan   
+| map_dot_label       = Moritake Station
+| services    = {{Adjacent stations|system=JR East
+|line1=Tsugaru|left1=Hachirōgata|right1=Higashi-Noshiro
+|line2=Ou Main|left2=Hachirōgata|right2=Higashi-Noshiro|type2=Rapid
+|line3=Ou Main|left3=Kado|right3=Kita-Kanaoka|note-mid3=Local}}
+}}

@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Yakoruda
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Provinces]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|map_caption = Location of Yakoruda|
+|image_skyline = Yakoruda Klearchos.jpg
+|image_caption = Sunset in Yakoruda
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Yakoruda
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+native_name=Якоруда|
+|
+subdivision_name1=[[Blagoevgrad Province|Blagoevgrad]]|
+population_total=6299|population_footnotes=|
+population_as_of=15.06.2010|
+elevation_m=888|
+postal_code=2790|
+area_code=07442|
+blank_info=E|blank_name= [[Bulgarian car number plates|License plate]]|
+|coordinates            = {{coord|42|1|N|23|41|E|region:BG|display=inline,title}}
+|leader_name=Nuredin Kafelov
+}}

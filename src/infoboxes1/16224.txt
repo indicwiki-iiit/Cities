@@ -1,0 +1,90 @@
+{{Infobox settlement
+| official_name                   = Eden Prairie
+| settlement_type                 = [[City]]
+| nickname                        = EP<ref>{{cite web|url=http://www.edenprairiehistory.org/26.TXT |title=Eden Prairie History |publisher=Eden Prairie History |author=Ernie Shuldhiess |access-date=2008-07-11 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=https://maps.google.com/maps?f=l&source=s_l&abauth=a42a7858%3A0s1j39fuIXAAIgEjCarSxeWNlEY&view=text&hl=en&q=EP&near=Eden+Prairie+MN&btnG=Search+Businesses#|title=Google search on "EP" businesses in "Eden Prairie, MN"|author=self|publisher=Google Maps|access-date=2008-07-11}}</ref>
+| motto                           = Live, Work, Dream<ref>{{cite web |url=http://www.edenprairie.org/vCurrent/live/article.asp?r=1303 |title=About Eden Prairie |publisher=City of Eden Prairie |year=2008 |url-status=dead |archive-url=https://web.archive.org/web/20080504033141/http://www.edenprairie.org/vCurrent/live/article.asp?r=1303 |archive-date=2008-05-04 }}</ref>
+| image_skyline                   = EPCH.jpg
+| imagesize                       = 250px
+| image_caption                   = Eden Prairie City Center
+| image_flag                      = 
+| image_seal                      = 
+| image_map                       = Hennepin County Minnesota Incorporated and Unincorporated areas Eden Prairie Highlighted.svg
+| mapsize                         = 250px
+| map_caption                     = Location of Eden Prairie<br>within [[Hennepin County, Minnesota]]
+| image_map1                      = 
+| mapsize1                        = 
+| map_caption1                    = 
+| pushpin_map = Minnesota#USA
+| pushpin_map_caption = Location in Minnesota##Location in the United States
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_type2               = [[List of counties in Minnesota|County]]
+| subdivision_name                = {{US}}
+| subdivision_name1               = {{Flag|Minnesota}}
+| subdivision_name2               = [[Hennepin County, Minnesota|Hennepin]]
+| government_type                 = 
+| leader_title                    = Mayor
+| leader_name                     = Ron Case (DFL)
+| established_title               = Founded
+| established_title2              = Incorporated
+| established_date                = 1858
+| established_date2               = October 22, 1962<ref>Warren Upham, ''Minnesota Place Names: A Geographical Encyclopedia'' (Minnesota Historical Society Press, 2001) p227</ref>
+| founder                         = Robert Anderson
+<!-- Area -->
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_27.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+| area_magnitude                  = 
+| area_total_km2                  = 91.31
+| area_land_km2                   = 84.23
+| area_water_km2                  = 7.07
+| area_total_sq_mi                = 35.25
+| area_land_sq_mi                 = 32.52
+| area_water_sq_mi                = 2.73
+| area_urban_sq_mi                = 
+| area_urban_km2                  = 
+| area_metro_sq_mi                = 
+| area_metro_km2                  = <!-- Population -->
+| population_as_of                = [[2010 United States Census|2010]]
+| population_est                  = 64893
+| pop_est_as_of                   = 2019
+| pop_est_footnotes               = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_footnotes            = <ref name="wwwcensusgov"/>
+| population_total                = 60797
+| population_rank                 = US: 568th 
+                                       Minnesota: [[List of cities in Minnesota|12th]]
+| population_density_km2          = 770.39
+| population_density_sq_mi        = 1995.30
+| population_urban                = 2,650,890 (US: [[List of United States urban areas|16th]])
+| population_metro                = 3,524,583 (US: [[List of Metropolitan Statistical Areas|16th]])
+| timezone                        = Central (CST)
+| utc_offset                      = &minus;6
+| timezone_DST                    = Central (CDT)
+| utc_offset_DST                  = &minus;5
+| coordinates                     = {{coord|44|51|17|N|93|28|15|W|region:US-MN|display=inline,title}}
+| elevation_m                     = 270
+| elevation_ft                    = 886 <!--usgs.gov-->
+| postal_code_type                = [[ZIP code]]s
+| postal_code                     = 55344, 55346, 55347
+| area_code                       = [[Area code 952|952|612]]
+| blank_name                      = [[Federal Information Processing Standard|FIPS code]]
+| blank_info                      = 27-18116
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info                     = 643164<ref name=GNIS1>{{Cite GNIS|643164|Eden Prairie}}</ref>
+| blank_name_sec2                 = Airport
+| blank_info_sec2                 = [[Flying Cloud Airport]] (Public/Reliever)
+| blank1_name_sec2                = [[Interstate Highway System|Interstates]]
+| blank1_info_sec2                = [[File:I-494.svg|21px|link=Interstate 494]]
+| blank2_name_sec2                = [[U.S. Routes]]
+| blank2_info_sec2                = [[File:US 169.svg|21px|link=U.S. Route 169 in Minnesota]] [[File:US 212.svg|21px|link=U.S. Route 212 in Minnesota]]
+| blank3_name_sec2                = [[State highways in Minnesota|State Routes]]
+| blank3_info_sec2                = [[File:MN-5.svg|21px|link=Minnesota State Highway 5]] [[File:MN-62.svg|21px|link=Minnesota State Highway 62]] [[File:MN-101.svg|21px|link=Minnesota State Highway 101]]
+| blank4_name_sec2                = [[County roads in Hennepin County, Minnesota|County roads]]
+| blank4_info_sec2                = [[File:Hennepin_County_61.svg|21px|link=County Road 61 (Hennepin County, Minnesota)]]
+| blank5_name_sec2                = Public transportation
+| blank5_info_sec2                = [[Southwest Transit]]
+| blank6_name_sec2                = [[Light Rail]]
+| blank6_info_sec2                = {{rint|minnesota|metro}} [[Southwest LRT]] ''(Opening 2023)''
+| website                         = [http://www.edenprairie.org/ City of Eden Prairie]
+| footnotes                       = 
+| name                            = 
+}}

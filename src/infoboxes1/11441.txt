@@ -1,0 +1,33 @@
+{{Infobox settlement
+| name                   = {{raise|0.2em|Pingzhen}}
+| official_name          = Pingzhen District
+| native_name            = {{lower|0.1em|{{nobold|{{lang|zh-hant|平鎮區}}}}}}
+| other_name             = Pingjhen
+| settlement_type        = [[District (Taiwan)|District]]
+| image_skyline          = Pingzhen city view.jpg
+| image_caption          =
+| image_flag             =
+| image_seal             =
+| nickname               =
+| image_map              = Taoyuan-Pingzhen.svg
+| pushpin_map            = <!--Taiwan  -->
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption    = Location in the Taiwan
+| coordinates            = {{coord|24|56|38|N|121|12|58|E|region:TW-TAO|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = [[Taiwan]]
+| subdivision_type1      = Municipality
+| subdivision_name1      = [[Taoyuan City]]
+| seat_type              = Capital
+| seat                   =
+| leader_title           =
+| leader_name            =
+| area_footnotes         =
+| area_total_km2         = 47.7532
+| population_footnotes   =
+| population_total       = 218290
+| population_as_of       = January 2016
+| population_density_km2 = auto
+| population_note        =
+| website                = {{Official URL}} {{in lang|zh}}
+}}

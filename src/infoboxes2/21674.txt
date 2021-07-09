@@ -1,0 +1,84 @@
+{{Infobox settlement
+|official_name            = Washington Court House, Ohio
+|settlement_type          = [[City (Ohio)|City]]
+|nickname                 = Washington C.H.
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Downtown Washington Court House from the courthouse lawn.jpg
+|imagesize                = 250px
+|image_caption            = Downtown Washington Court House from the courthouse lawn
+|image_flag               = 
+|image_seal               = WCHseal.jpg
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Washington Court House.png
+|mapsize                  = 250px
+|map_caption              = Location of Washington Court House, Ohio
+|image_map1               = Map of Fayette County Ohio Highlighting Washington Court House City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Washington Court House in Fayette County
+
+<!-- Location -->
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1 = State
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Fayette County, Ohio|Fayette]]
+|subdivision_type3        = [[List of townships in Ohio|Township]]
+|subdivision_name3        = [[Union Township, Fayette County, Ohio|Union]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[City manager]]
+|leader_name              = Joseph J. Denen
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|access-date=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 22.93
+|area_land_km2            = 22.77
+|area_water_km2           = 0.16
+|area_total_sq_mi         = 8.85
+|area_land_sq_mi          = 8.79
+|area_water_sq_mi         = 0.06
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 16000
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 14192
+|population_density_km2   = 618.80
+|population_density_sq_mi = 1602.71
+
+<!-- General information -->
+|timezone                 = [[Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = −5
+|timezone_DST             = EDT
+|utc_offset_DST           = −4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = {{coord|39|32|11|N|83|26|8|W|region:US-OH|display=inline,title}}
+
+<!-- Area/postal codes & others -->
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 43160
+|area_code                = [[Area code 740|740]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 39-81214<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = 
+|blank1_info              = 
+|website                  = http://www.cityofwch.com/
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+|unit_pref = Imperial
+}}

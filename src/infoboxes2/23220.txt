@@ -1,0 +1,92 @@
+{{Infobox settlement
+|official_name            = City of Cedarburg, Wisconsin
+|settlement_type          = [[Administrative divisions of Wisconsin#City|City]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = The Washington Building.JPG
+|imagesize                = 250px
+|image_caption            = Cedarburg City Hall, located in the [[Washington Avenue Historic District (Cedarburg, Wisconsin)|Washington Avenue Historic District]]
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = File:Ozaukee County Wisconsin Incorporated and Unincorporated areas Cedarburg Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Cedarburg in Ozaukee County, Wisconsin.
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{flag|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|Wisconsin}}
+|subdivision_type2        = [[List of counties in Wisconsin|County]]
+|subdivision_name2        = [[Ozaukee County, Wisconsin|Ozaukee]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = Mayor/Council
+|leader_title             = Mayor
+|leader_name              = Mike O’Keefe
+|leader_title1            = [[City manager|Administrator]]
+|leader_name1             = Mikko Hilvo
+|leader_title2            = [[Municipal clerk|Clerk]]
+|leader_name2             = Tracie Sette
+| leader_title3           = [[City council|Common council]]
+| leader_name3            = {{collapsible list|bullets=yes
+ | title = Aldermen
+ | 1 = Sherry Bublitz
+ | 2 = Jack Arnett
+ | 3 = Kristin Burkart
+ | 4 = Rick Verhaalen
+ | 5 = Robert Simpson
+ | 6 = Patricia Thome
+ | 7 = Barbara Lythjohan
+ }} 
+|established_date         = 1840s 
+|established_title        = Settled
+|established_title1       = [[Municipal corporation|Incorporated]]
+|established_date1        = {{Start date and age|1885}}
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_55.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 12.65
+|area_land_km2            = 12.52
+|area_water_km2           = 0.12
+|area_total_sq_mi         = 4.88
+|area_land_sq_mi          = 4.84
+|area_water_sq_mi         = 0.05
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 11603
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 11412
+|population_density_km2   = 926.40
+|population_density_sq_mi = 2399.30
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=January 31, 2008|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 239
+|elevation_ft             = 784
+|coordinates              = {{coord|43|17|18|N|87|59|15|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = Zip Code
+|postal_code              = 53012
+|area_code                = [[Area code 262|262]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 55-13375<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=January 31, 2008 |title=U.S. Census website }}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1562869 <ref name="GR3" />
+|website                  = [http://www.ci.cedarburg.wi.us/ ci.cedarburg.wi.us]
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

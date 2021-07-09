@@ -1,0 +1,78 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+| official_name          = Tata
+| other_name             = {{lang|la|Dotis}} {{in lang|la}} <br>{{lang|de|Totis}} {{in lang|de}}
+| settlement_type        = [[List of cities and towns of Hungary|Town]]
+| image_skyline          = {{nowrap|[[File:Tatai vár- az Öreg tó felől.JPG|252px]]<br/>[[File:City Hospital.jpg|87px]][[File:V. Kapucinus templom (6405. számú műemlék) 2.jpg|89px]][[File:KSigmandiHamaryDaniel-haz.jpg|77px]]<br/>[[File:Angolkert (11480. számú műemlék).jpg|133px]][[File:The Jewish cemetery in Tata.jpg|119px]]}}
+| image_caption          = 
+| image_shield           = Coat of arms of Tata, Hungary.svg
+| image_flag             = Flag of Tata.svg
+| pushpin_map            = Hungary
+| pushpin_map_caption    = Location of Tata in Hungary
+| coordinates            = {{coord|47.6526|18.3238|region:HU|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{HUN}}
+| subdivision_type1               = [[List of regions of Hungary|Region]]
+| subdivision_name1               = [[Central Transdanubia]]
+| subdivision_type2      = [[Counties of Hungary|County]]
+| subdivision_name2      = [[Komárom-Esztergom County|Komárom-Esztergom]]
+| subdivision_type3      = [[Districts of Hungary|District]]
+| subdivision_name3      = [[Tata District|Tata]]
+| leader_title           = [[Mayor]]
+| leader_name            = [[József Michl]] ([[Fidesz]]-[[Christian Democratic People's Party (Hungary)|KDNP]]) 
+| area_total_km2         = 78.17
+| population_footnotes   = 
+| population_total       = 23217<ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=20127 Tata, KSH]</ref>
+| population_as_of       = 2017
+| population_density_km2 = auto
+| population_blank1_title = Demonym
+| population_blank1      = tatai
+<!-- demographics (section 1) -->
+|demographics_type1     = [[Demographics of Hungary|Population by ethnicity]]
+|demographics1_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=20127 KSH - Tata, 2011]</ref>
+|demographics1_title1   = [[Hungarians]]
+|demographics1_info1    = 85.3%
+|demographics1_title2   = [[Hungarian Germans|Germans]]
+|demographics1_info2    = 2.7%
+|demographics1_title3   = [[Romani people in Hungary|Gypsies]]
+|demographics1_info3    = 0.8%
+|demographics1_title4   = [[Slovaks in Hungary|Slovaks]]
+|demographics1_info4    = 0.3%
+|demographics1_title5   = [[Romanians in Hungary|Romanians]]
+|demographics1_info5    = 0.2%
+|demographics1_title6   = [[Croats in Hungary|Croats]]
+|demographics1_info6    = 0.1%
+|demographics1_title7   = Others
+|demographics1_info7    = 1.3%
+<!-- demographics (section 2) -->
+|demographics_type2     = [[Demographics of Hungary|Population by religion]]
+|demographics2_footnotes = <ref>[http://www.ksh.hu/apps/hntr.telepules?p_lang=EN&p_id=20127 KSH - Tata, 2011]</ref>
+|demographics2_title1   = [[Catholic Church in Hungary|Roman Catholic]]
+|demographics2_info1    = 31.5%
+|demographics2_title2   = [[Hungarian Greek Catholic Church|Greek Catholic]]
+|demographics2_info2    = 0.4%
+|demographics2_title3   = [[Reformed Church in Hungary|Calvinists]]
+|demographics2_info3    = 13.7%
+|demographics2_title4   = [[Evangelical-Lutheran Church in Hungary|Lutherans]]
+|demographics2_info4    = 1.4%
+|demographics2_title5   = [[Jews in Hungary|Jews]]
+|demographics2_info5    = 0.1%
+|demographics2_title6   = Other
+|demographics2_info6    = 1.1%
+|demographics2_title7   = [[Non-religious]]
+|demographics2_info7    = 21.0%
+|demographics2_title8   = Unknown
+|demographics2_info8    = 30.7%
+| timezone               = [[Central European Time|CET]]
+| utc_offset             = +1
+| timezone_DST           = [[Central European Summer Time|CEST]]
+| utc_offset_DST         = +2
+| postal_code_type       = [[Postal codes in Hungary|Postal code]]
+| postal_code            = 2890
+| area_code_type         = [[Telephone numbers in Hungary|Area code]]
+| area_code              = (+36) 34
+| blank_name             = Motorways
+| blank_info             = [[M1 motorway (Hungary)|M1]]
+| blank2_name            = Distance from Budapest
+| blank2_info            = {{convert|68.2|km|abbr=on}} East
+| website                = {{URL|http://www.tata.hu/}}
+}}

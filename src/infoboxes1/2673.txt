@@ -1,0 +1,27 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Biharamulo District
+|other_name          = 
+|settlement_type        = [[Districts of Tanzania|District]]
+<!-- images and maps  ----------->
+|image_map              = Kagera-Biharamulo.svg
+|mapsize                = 200px
+|map_caption            = Biharamulo District's location within Kagera Region.
+|pushpin_map            = Tanzania#Africa#World
+|pushpin_label_position = bottom
+|pushpin_relief = yes
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|coordinates            = {{coord|02|38|S|031|19|E|type:adm2nd|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[Tanzania]]
+|subdivision_type1      = [[Regions of Tanzania|Region]]
+|subdivision_name1      = [[Kagera Region]]
+<!-- Population   ----------------------->
+|population_as_of       = 2012
+|population_total       = 323,486
+|area_code = 028
+|website = {{URL|http://www.kagera.go.tz/}}
+
+}}

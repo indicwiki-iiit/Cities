@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Bunia
+|official_name          = ''Ville de Bunia''
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Provincial capital and city
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Bunia.JPG 
+|imagesize              = 250px
+|image_caption          = Bunia from the air, looking north toward the Nyakasanza district
+|image_dot_map          =
+|dot_map_caption        =
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =left
+|pushpin_map_caption    =Location in Democratic Republic of the Congo
+|pushpin_mapsize       =250
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of the Democratic Republic of the Congo.svg|25px]] [[Democratic Republic of the Congo]]
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[Ituri Province|Ituri]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Ferdinand Fimbo Lebilye<ref>{{cite news |title=Ituri : les chefs de quartiers et des avenues achèvent un atelier de formation sur la gouvernance participative |url=https://acpcongo.com/ituri-les-chefs-de-quartiers-et-des-avenues-achevent-un-atelier-de-formation-sur-la-gouvernance-participative/ |access-date=7 August 2019 |work=ACP Média Public |agency=ACP |date=6 August 2019 |language=fr }}{{Dead link|date=June 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|total_type             = City
+|area_magnitude         = 
+|area_footnotes           =
+|area_total_km2           = 576<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = 
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           = 53
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2015
+|population_footnotes           = <ref>[https://www.caid.cd/index.php/donnees-par-villes/ville-de-bunia/?domaine=fiche https://www.caid.cd/index.php/donnees-par-villes/ville-de-bunia/?domaine=fiche]</ref>
+|population_note                =
+|population_total               = 900666
+|population_density_km2         =auto
+
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban_footnotes     = <ref>[https://populationstat.com/democratic-republic-of-the-congo/bunia PopulationStat.com]</ref>
+|population_urban               = 486000
+|population_density_urban_km2   = auto
+|population_density_urban_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_blank2_title        =
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Central Africa Time]]
+|utc_offset             = +2
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|1|34|N|30|15|E|region:CD|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1277
+|elevation_ft           =
+|blank_name_sec1        = [[Köppen climate classification|Climate]]
+|blank_info_sec1        = [[Tropical rainforest climate|Af]]
+|blank_name_sec2        = [[Languages of the Democratic Republic of the Congo|National language]]
+|blank_info_sec2        = [[Swahili language|Swahili]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

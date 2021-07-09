@@ -1,0 +1,52 @@
+{{Infobox settlement
+<!-- Basic info  ---------------->
+|name                   =Dajabón
+|official_name                   =San Joaquín de Dajabón
+|settlement_type        =
+|total_type             =&nbsp;
+<!-- images and maps  ----------->
+|image_skyline          =File:Monumento a la Guerra de Restauración de la República Dominicana..jpg
+|imagesize              =300px
+|image_caption          =Monument to the [[Dominican Restoration War|Dominican War of Restoration]] in Dajabon
+|image_seal             =Escudo_de_la_Provincia_Dajabón.png
+|pushpin_map            =Dominican Republic
+|pushpin_relief          = 1
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       =Country
+|subdivision_name       =[[Dominican Republic]]
+|subdivision_type1      =Province
+|subdivision_name1      =[[Dajabón Province|Dajabón]]
+<!-- Politics ----------------->
+|established_title      =Founded
+|established_date       =1776
+|established_title1     =Municipality
+|established_date1      =1864
+|named_for              =[[Dajabón River]]
+<!-- Area    --------------------->
+|area_footnotes           =<ref name="listado">Superficies a nivel de municipios, [http://one.gob.do/index.php?option=com_content&task=view&id=63&Itemid=283 Oficina Nacional de Estadistica] {{webarchive |url=https://web.archive.org/web/20090417021712/http://one.gob.do/index.php?option=com_content&task=view&id=63&Itemid=283 |date=April 17, 2009 }}</ref>
+|area_total_km2           =253.41
+<!-- Elevation -------------------------->
+|elevation_footnotes    =<ref>{{cite book
+  | last = De la Fuente
+  | first = Santiago
+  | title = Geografía Dominicana
+  | publisher = Editora Colegial Quisqueyana
+  | year = 1976
+  | location = Santo Domingo, Dominican Republic
+  | language = es }}</ref>
+|elevation_m            =35
+<!-- Population   ----------------------->
+|population_as_of               =2012
+|population_footnotes           =<ref name="censo">Censo 2012 de Población y Vivienda, [http://one.gob.do/ Oficina Nacional de Estadistica]</ref>
+|population_note                =Including population of [[Cañongo, Dajabón|Cañongo]].
+|population_total               =25983
+|population_density_km2         =auto
+|population_urban               =18725
+<!-- General information  --------------->
+|coordinates            = {{coord|19|34|0|N|71|42|36|W|region:DO|display=inline}}
+<!-- Area/postal codes & others -------->
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Tropical savanna climate|Aw]]
+|footnotes              =
+}}

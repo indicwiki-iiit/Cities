@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                   = Yavne
+| native_name            = {{Lang|he|{{Script/Hebrew|יַבְנֶה}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Yabne
+| image_skyline          = Yavne panoramic view2.JPG
+| imagesize              = 275px
+| image_blank_emblem     = Coat of Arms of Yavne.svg
+| blank_emblem_type      = Emblem of Yavne
+| pushpin_map_alt        = 
+| pushpin_map            = Israel center ta#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|31|53|N|34|44|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Central District (Israel)|Central]]
+| established_title      = Founded
+| established_date       = 2000 BCE <small>(Canaanite city)</small><br />37 BCE <small>(Herodian rule)</small><br />Islamic period <small>(Arab village)</small><br />1949 <small>(Israeli city)</small>
+| leader_title           = Mayor
+| leader_name            = Zvi Gov-Ari
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:10700|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Yavne}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = {{url|www.yavne.muni.il}}
+}}

@@ -1,0 +1,108 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| official_name           = City of Park Ridge
+| name                    = Park Ridge, Illinois
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = [[City]]
+| image_skyline           = Park Ridge IL Photo Collage.jpg
+| imagesize               = 270
+| image_alt               = 
+| image_caption           = 
+| image_flag              = Flag of Park Ridge, Illinois.svg
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| nickname                = 
+| motto                   = 
+| image_map = File:Cook County Illinois Incorporated and Unincorporated areas Park Ridge Highlighted.svg
+| mapsize = 250px
+| map_caption = Location of Park Ridge in Cook County, Illinois.
+| image_map1 = 
+| map_caption1 = 
+| coordinates             = {{coord|42|0|43|N|87|50|30|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = State
+| subdivision_name1       = Illinois
+| subdivision_type2       = [[County (United States)|County]]
+| subdivision_name2       = [[Cook County, Illinois|Cook]]
+| subdivision_type3       = [[Civil township|Township]]
+| subdivision_name3       = [[Maine Township, Cook County, Illinois|Maine]], [[Leyden Township, Cook County, Illinois|Leyden]], [[Norwood Park Township, Cook County, Illinois|Norwood Park]]
+| established_title       = [[Municipal corporation|Incorporated]]
+| established_date        = 1873
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| government_type         = [[Council–manager government|Council–manager]]
+| leader_party            = 
+| leader_title            = [[Mayor]]
+| leader_name             = 
+Marty Maloney 
+| leader_title1           = Budget
+| leader_name1            = $47,684,900 (2004-2005) (fiscal year: 2006-07)
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_17.txt|publisher=United States Census Bureau|access-date=July 14, 2020}}</ref>
+| area_urban_footnotes    = <!-- <ref></re> -->
+| area_rural_footnotes    = <!-- <ref></re> -->
+| area_metro_footnotes    = <!-- <ref></re> -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_note               = 
+| area_water_percent      = 0.56
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = <!-- square miles -->
+| area_total_sq_mi        = 7.13
+| area_land_sq_mi         = 7.09
+| area_water_sq_mi        = 0.05
+| area_urban_sq_mi        = 
+| area_rural_sq_mi        = 
+| area_metro_sq_mi        = 
+| area_blank1_sq_mi       = 
+| area_blank2_sq_mi       = <!-- acres -->
+| area_total_acre         = 
+| area_land_acre          = 
+| area_water_acre         = 
+| area_urban_acre         = 
+| area_rural_acre         = 
+| area_metro_acre         = 
+| area_blank1_acre        = 
+| area_blank2_acre        = 
+| length_mi               = 
+| width_mi                = 
+| dimensions_footnotes    = 
+| elevation_footnotes     = 
+| elevation_ft            = 
+| population_footnotes    = <ref name="Census 2010 DP">{{cite web| url=http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US1757875| archive-url=https://archive.today/20200212142655/http://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US1757875| url-status=dead| archive-date=February 12, 2020| title=Profile of General Population and Housing Characteristics: 2010 Demographic Profile Data (DP-1): Park Ridge city, Illinois| publisher=U.S. Census Bureau, American Factfinder| access-date=February 13, 2013}}</ref>
+| population_total        = 37480
+| population_as_of        = [[2010 United States Census|2010]]
+| population_density_sq_mi = 5213.04
+| population_demonym      = Park Ridgian
+| population_note         = Down 0.8% from 2000
+| timezone1               = 
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = [[ZIP code|<span style="white-space:nowrap;">ZIP code(s)</span>]]
+| postal_code             = 60068
+| area_code_type          = [[North American Numbering Plan|<span style="white-space:nowrap;">Area code(s)</span>]]
+| area_code               = 847, 224
+| iso_code                = 
+| geocode                 = 
+| website                 = {{URL|www.parkridge.us}}
+| footnotes               = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 36950
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 17-57875
+|area_total_km2 = 18.48
+|area_land_km2 = 18.36
+|area_water_km2 = 0.12
+|population_density_km2 = 2012.90
+}}

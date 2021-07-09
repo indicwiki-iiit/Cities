@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->
+<!-- Basic info  ---------------->
+|name                     = Turlock, California
+|official_name            = City of Turlock
+|native_name              = <!-- for cities whose native name is not in English -->
+|other_name               = 
+|settlement_type          = [[City (California)|City in California]]
+|image_skyline            = Turlock Main Street.JPG
+|image_caption            = Main Street in Turlock
+|image_flag               = 
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|nickname                 = 
+|image_map                = Stanislaus_County_California_Incorporated_and_Unincorporated_areas_Turlock_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in [[Stanislaus County, California|Stanislaus County]] and the U.S. state of [[California]]
+|pushpin_map              = USA
+|pushpin_map_caption      = Location in the United States
+|pushpin_relief           = 1
+|coordinates              = {{coord|37|30|21|N|120|50|56|W|region:US-CA|display=inline,title}}
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name1        = [[California]]
+|subdivision_name2        = [[Stanislaus County, California|Stanislaus]]
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = February 15, 1908<ref>{{Cite web
+ | url = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | title = California Cities by Incorporation Date
+ | format = Word
+ | publisher = California Association of [[Local Agency Formation Commission]]s
+ | access-date = August 25, 2014
+ | url-status = dead
+ | archive-url = https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ | archive-date = November 3, 2014
+ | df = mdy-all
+ }}</ref>
+|government_type          = [[Council–manager government|Council–manager]]<ref name=about>{{Cite web|url=http://www.ci.turlock.ca.us/aboutturlock/|title=About Turlock|publisher=City of Turlock|access-date=February 6, 2015|archive-url=https://web.archive.org/web/20150215182818/http://www.ci.turlock.ca.us/aboutturlock/|archive-date=February 15, 2015|url-status=dead|df=mdy-all}}</ref>
+|leader_title             = [[Mayor]]
+|leader_name              = Amy Bublak<ref name=cc>{{Cite web
+ | url = http://turlock.ca.us/government/turlockcitycouncil/councilmembers.asp
+ | title = Council Members
+ | publisher = City of Turlock
+ | access-date = June 24, 2016}}</ref>
+|leader_title1            = [[Vice Mayor]]
+|leader_name1             = Gil Esquer<ref name=cc/>
+|leader_title2            = [[City Council]]<br/> Bill DeHart, Jr.<ref name=cc/> <br/> Gil Esquer<ref name=cc/><br/> Andrew Nosrati<ref name=cc/>
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+|area_total_km2           = 43.85
+|area_total_sq_mi         = 16.93
+|area_land_km2            = 43.78
+|area_land_sq_mi          = 16.91
+|area_water_km2           = 0.07
+|area_water_sq_mi         = 0.03
+|area_water_percent       = 0
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+|elevation_footnotes      = <ref>{{Cite GNIS|277622|Turlock|access-date=October 19, 2014}}</ref>
+|elevation_m              = 31
+|elevation_ft             = 62
+|population_total         = 68549
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quick>{{Cite web
+ | url = https://www.census.gov/quickfacts/table/PST045215/0680812,00
+ | title = Turlock (city) QuickFacts
+ | publisher = [[United States Census Bureau]]
+ | access-date = August 18, 2016}}</ref>
+|population_density_sq_mi = 4355.58
+|population_est           = 73631
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 95380–95382
+|area_code                = [[Area code 209|209]]
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|website                  = {{URL|www.cityofturlock.org}}
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = &minus;8
+|timezone_DST             = PDT
+|utc_offset_DST           = &minus;7
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|80812}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|277622}}, {{GNIS 4|2412114}}
+|population_density_km2 = 1681.72
+}}

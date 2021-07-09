@@ -1,0 +1,63 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Ayn al-Arab District
+| native_name             = منطقة عين العرب
+| native_name_lang        = ar
+| type                    = [[Districts of Syria|District]]
+| image_skyline           = 
+| image_size              = 
+| image_alt               = 
+| image_caption           = 
+| image_map               = Ayn Al Arab District.png
+| mapsize                 = 250x250px
+| map_alt                 = Ayn al-Arab District in Syria
+| map_caption             = Location of Ayn al-Arab District {{nobreak|within Aleppo Governorate}}
+| coordinates             = {{coord|3=type:adm2nd}}
+| coor_pinpoint           = [[Kobani]]
+| pushpin_map             = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position  = bottom
+| pushpin_map_caption     = Location in Syria
+| pushpin_mapsize         = 250
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Syria}}
+| subdivision_type1       = [[Governorates of Syria|Governorate]]
+| subdivision_name1       = [[Aleppo Governorate|Aleppo]]
+| subdivision_type2       = [[Districts of Syria|District]]
+| subdivision_name2       = 
+| parts_type              = Subdistricts
+| parts_style             = para
+| p1                      = 4 [[nahiyah|nawāḥī]]
+| established_title       = Established
+| established_date        = 
+| established_title2      = 
+| established_date2       = 
+| founder                 = 
+| named_for               = 
+| seat_type               = [[Administrative center|Seat]]
+| seat                    = [[Kobani]]
+| government_footnotes    = 
+| government_type         = 
+| area_total_km2          = {{#invoke:Wikidata|getRawValue|P2046|FETCH_WIKIDATA}}
+| area_footnotes          =
+| elevation_m             = 
+| elevation_point         = [[Kobani]]
+| elevation_max_m         = 
+| elevation_max_point     = 
+| elevation_min_m         = 
+| elevation_min_point     = 
+| elevation_footnotes     = 
+| population              = 192513
+| population_density_km2  = auto
+| population_as_of        = 2004
+| population_footnotes    = <ref name=census2004>{{cite web|title=General Census of Population and Housing 2004 |url=http://www.cbssyr.sy/General%20census/census%202004/pop-man.pdf |publisher=Syrian [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] |language=ar |access-date=15 October 2015 |url-status = dead|archive-url=https://web.archive.org/web/20151208115353/http://www.cbssyr.sy/General%20census/census%202004/pop-man.pdf |archive-date=8 December 2015 }} Also available in English: {{cite web|title=2004 Census Data |url=https://www.humanitarianresponse.info/en/operations/syria/dataset/syrian-arab-republic-other |publisher=[[United Nations Office for the Coordination of Humanitarian Affairs|UN OCHA]] |access-date=15 October 2015 }}</ref>
+| population_est          = 
+| pop_est_as_of           = 
+| pop_est_footnotes       = 
+| population_demonym      = 
+| population_note         = 
+| area_code_type          = [[Telephone numbers in Syria|Area code]]
+| area_code               = 
+| geocode                 = SY0206
+| website                 = 
+| footnotes               = 
+}}

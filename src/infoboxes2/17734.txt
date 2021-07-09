@@ -1,0 +1,73 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info ---------------->
+| official_name = Kapuas Regency
+| other_name =
+| native_name = ''Kabupaten Kapuas''
+| native_name_lang = id
+| nickname =
+| settlement_type = [[Regencies of Indonesia|Regency]]
+| motto =
+<!-- images and maps ----------->
+| image_skyline =
+| imagesize =
+| image_caption =
+| image_flag =
+| flag_size =
+| image_shield = Lambang Kabupaten Kapuas.png
+| shield_size =
+| image_map = Lokasi Kalimantan Tengah Kabupaten Kapuas.svg
+| mapsize =
+| map_caption = Location within [[Central Kalimantan]]
+| pushpin_map = Indonesia_Kalimantan#Indonesia
+| pushpin_map_size =
+| pushpin_label_position = right
+| pushpin_map_caption = Location in [[Kalimantan]] and [[Indonesia]]
+| subdivision_type = [[List of sovereign states|Country]]
+| subdivision_name = [[Indonesia]]
+| subdivision_type1 = [[Regions of Indonesia|Region]]
+| subdivision_name1 = [[Kalimantan]]
+| subdivision_type2 = [[Provinces of Indonesia|Province]]
+| subdivision_name2 = [[Central Kalimantan]]
+| subdivision_type3 = [[Capital (political)|Capital]]
+| subdivision_name3 = [[Kuala Kapuas]]
+<!-- Politics ----------------->
+| government_footnotes =
+| government_type =
+| leader_title = Regent 
+| leader_name = Ben Brahim S. Bahat
+| leader_title1 = Vice Regent
+| leader_name1 = Muhajirin
+| established_title = <!-- Settled -->
+| established_date =
+<!-- Area --------------------->
+| area_magnitude =
+| unit_pref = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes =
+| area_total_km2 = 14999
+| area_land_km2 = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population ----------------------->
+| population_as_of = 2017
+| population_footnotes =<ref name="Kapuas 2018">{{cite web|url=https://kapuaskab.bps.go.id/publication/2018/08/16/8959c4b4cc49b1930bc32c30/kabupaten-kapuas-dalam-angka-2018.html|title=Kapuas Regency in Figures 2018|last=|first=|publisher=BPS Kapuas Regency|accessdate=13 September 2018}}</ref>
+| population_note =
+| population_total = 353844
+| population_density_km2 = auto
+<!-- General information --------------->
+| timezone = [[Time in Indonesia|IWST]]
+| utc_offset = +7
+| timezone_DST =
+| utc_offset_DST =
+| coordinates = {{coord|3|00|00|S|114|22|48|E|region:ID_source:kolossus-mswiki}}
+| elevation_footnotes = <!--for references: use <ref> tags-->
+| elevation_m =
+| elevation_ft = <!-- accord. to Google Earth-->
+<!-- Area/postal codes & others -------->
+| postal_code_type = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code = 
+| area_code_type = [[Telephone numbers in Indonesia|Area code]]
+| area_code = (+62) 513
+| blank_name =
+| blank_info =
+| website = {{url|kapuaskab.go.id}}
+| footnotes =
+}}

@@ -1,0 +1,48 @@
+{{Infobox settlement
+| name                    = Mgbidi
+| native_name             = 
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| settlement_type         = 
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = 
+| shield_alt              = 
+| etymology               = 
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Nigeria
+| pushpin_label_position  = bottom
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location of Mgbidi in Nigeria
+|coordinates             = {{coord|5|44|9|N|6|53|0|E|region:NG|display=inline}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{NGR}}
+| subdivision_type1      = [[States of Nigeria|State]]
+| subdivision_name1      = [[Imo State|Imo]]
+|subdivision_type2       = Local Government Area
+|subdivision_name2       = [[Oru West]]
+| leader_party            = [[All Progressives Congress|APC]]
+| leader_title            = [[List of Nigerian state governors|Governor]]
+| leader_name             = [[Rochas Okorocha]]
+| unit_pref               = Metric
+<!-- ALL fields with measurements have automatic unit conversion -->
+| area_land_km2           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       = 3-digit postal code prefix
+|postal_code            = 474
+|area_code             =
+|iso_code              = NG.IM.OE.OM
+|website                = 
+|footnotes              =
+
+}}

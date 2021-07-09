@@ -1,0 +1,31 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Sredets
+|native_name = Средец
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]
+|subdivision_type2 =[[Municipalities of Bulgaria|Municipality]]
+|subdivision_name2 =[[Sredets Municipality|Sredets]]
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|image_skyline = Sredets-library-Probuda.jpg
+|image_caption = The Probuda cultural centre (''[[chitalishte]]'')
+|map_caption = Location of Sredets|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Sredets
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|subdivision_name1=[[Burgas Province|Burgas]]
+|population_total=8872 
+|population_footnotes=
+|population_as_of=2013
+|elevation_m=47
+|postal_code=8300
+|area_code=05551
+|coordinates            = {{coord|42|21|N|27|12|E|region:BG|display=inline,title}}
+|leader_name= Ivan Zhabov ([[GERB]])|
+}}

@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Mentor-on-the-Lake, Ohio
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = OHMap-doton-Mentor-on-the-Lake.png
+|mapsize                  = 250px
+|map_caption              = Location of Mentor-on-the-Lake, Ohio
+|image_map1               = Map of Lake County Ohio Highlighting Mentor-on-the-Lake City.png
+|mapsize1                 = 250px
+|map_caption1             = Location of Mentor-on-the-Lake in Lake County
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Ohio]]
+|subdivision_type2        = [[List of counties in Ohio|County]]
+|subdivision_name2        = [[Lake County, Ohio|Lake]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = David R Eva{{Citation needed|date=February 2020}}
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_39.txt|publisher=United States Census Bureau|accessdate=July 28, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 4.28
+|area_land_km2            = 4.18
+|area_water_km2           = 0.10
+|area_total_sq_mi         = 1.65
+|area_land_sq_mi          = 1.61
+|area_water_sq_mi         = 0.04
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 7390
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 7443
+|population_density_km2   = 1768.78
+|population_density_sq_mi = 4581.53
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = <ref name="GR3">{{cite web|url=http://geonames.usgs.gov|accessdate=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|elevation_m              = 189
+|elevation_ft             = 620
+|coordinates              = {{coord|41|42|49|N|81|21|53|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 44060
+|area_code                = [[Area code 440|440]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 39-49098<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|accessdate=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1056421<ref name="GR3" />
+|website                  = {{URL|www.citymol.org}}
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019"/>
+}}

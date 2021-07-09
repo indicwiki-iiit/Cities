@@ -1,0 +1,120 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = City of Freeport
+|other_name             = 
+|settlement_type        = 
+|image_skyline          = Lucayan Harbor JonWorth.jpg
+|imagesize              = 260px
+|image_caption          =
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = 
+|shield_size            = 
+|nicknames               =The Industrial Capital<br>The Second City
+|motto                  = 
+<!-- images and maps  ----------->
+|image_map              = 
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|pushpin_map            = Bahamas<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|pushpin_map_caption    =
+|coordinates            = {{coord|26|31|43|N|78|41|48|W|region:BS|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = {{flag|The Bahamas}}
+|subdivision_type1      = [[List of islands of the Bahamas|Island]]
+|subdivision_type2      = [[Districts of the Bahamas|District]]
+|subdivision_type3      =
+|subdivision_type4      =
+|subdivision_name1      = [[File:Crest of Grand Bahama.gif|border|20px]] [[Grand Bahama]]
+|subdivision_name2      = City of Freeport
+|subdivision_name3      =
+|subdivision_name4      =
+<!-- Politics ----------------->
+|established_title      = [[Hawksbill Creek Agreement|Established]]
+|established_date       = 1955
+|established_title2     = 
+|established_date2      =
+|established_title3     =
+|established_date3      =
+<!-- Area    --------------------->
+|government_footnotes   =
+|government_type        = District Council 
+|leader_title           = Chief Councillor
+|leader_name            = Kendal Culmer
+|leader_title1          = 
+|leader_name1           = 
+|unit_pref                =
+|area_footnotes           =
+|area_magnitude         =
+|area_total_km2           = 558
+|area_total_sq_mi         = 215
+|area_land_km2            =
+|area_land_sq_mi          =
+|area_water_km2           =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 10
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|population_total               = 26,914
+|population_as_of               = 2000
+|population_footnotes           =
+|population_density_km2         = 48
+|population_density_sq_mi       = 125
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_metro               = 55,500
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =
+|postal_code            =
+|area_code              = [[Area code 242|242]]
+|website                = http://gbpa.com/home/
+|city_logo              =
+|citylogo_size          =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =   
+|dot_y =
+<!-- |governing body         = City of Freeport District Council UNUSED -->
+|leader_title2          = Deputy Chief Councillor
+|leader_name2           = Ernie Barr 
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|timezone               = [[Eastern Time Zone]]
+|utc_offset             = -5
+|timezone_DST           =
+|utc_offset_DST         =
+|blank_name             =[[IATA airport code]]
+|blank_info             ='''FPO'''
+|blank1_name            = [[ICAO airport code]]
+|blank1_info            ='''MYGF'''
+}}

@@ -1,0 +1,43 @@
+{{Infobox settlement
+| name                   = Sakhnin
+| native_name            = {{Hlist
+ | {{Lang|he|{{Script/Hebrew|סַחְ'נִין, סִכְנִין}}|rtl=yes}}
+ | {{Lang|ar|سخنين|rtl=yes}}
+ }}
+| settlement_type        = [[List of cities in Israel|City]] (from 1995)
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Saḥnin, Saknin (Israeli pronunciation)
+| image_skyline          = PikiWiki Israel 17664 Cities in Israel.jpg
+| image_caption          = View of Sakhnin
+| image_blank_emblem     = Sakhnin COA.png
+| blank_emblem_type      = Emblem of Sakhnin
+| pushpin_map_alt        = 
+| pushpin_map            = Israel northwest#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = left
+| pushpin_map_caption    = 
+| coordinates            = {{coord|32|52|N|35|18|E|region:IL|format=dms|display=inline,title}}
+| grid_name              = Grid&nbsp;position
+| grid_position          = 177/252 [[Palestine grid|PAL]]
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{flag|Israel}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Northern District (Israel)|Northern]]
+| established_title      = Founded
+| established_date       = 1500 BCE <small>(as Sagone)</small><br> 1995 <small>(Israeli city)</small>
+| leader_title           = Mayor
+| leader_name            = Mazen Ghnayim
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:9816|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Sakhnin}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| blank_name_sec1        = Name meaning
+| blank_info_sec1        = Sukhnin, from personal name,<ref>Palmer, 1881, p. [https://archive.org/stream/surveyofwesternp00conduoft#page/116/mode/1up 116]</ref>
+}}

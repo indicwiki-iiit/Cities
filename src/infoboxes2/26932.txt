@@ -1,0 +1,63 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                   = Port Mathurin
+| native_name            = {{native name|mfe|Por Matirin}}
+| other_name             =
+| settlement_type        =
+<!-- images and maps  ----------->
+| image_skyline          = Port Mathurin.jpg
+| imagesize              = 300px
+| image_caption          = Port Mathurin as seen from Mount Fanal
+| nickname               =
+| motto                  =
+| image_map              = Rodrigues Zonenkarte de.png
+| mapsize                = 300px
+| map_caption            = 14 Zones of Rodrigues,<br />with Port Mathurin due north
+| pushpin_map            = <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = Location in Mauritius
+<!-- Location ------------------>
+| coordinates            = {{coord|19|41|S|63|25|E|region:MU|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Mauritius}}
+| subdivision_type1      = Island
+| subdivision_name1      = [[Rodrigues (island)|Rodrigues]]
+| subdivision_type2      =
+| subdivision_name2      =
+| established_title      = <!-- Settled -->
+| established_date       =
+| government_type        =
+<!-- Politics ----------------->
+| government_footnotes   =
+| leader_title           =
+| leader_name            =
+<!-- Area    --------------------->
+| unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes         =
+| area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| elevation_footnotes    =
+| elevation_m            =
+| elevation_ft           =
+<!-- Population   ----------------------->
+| population_footnotes   =
+| population_total       = 6,000
+| population_as_of       =
+| population_density_km2 = auto
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Mauritius Time|MUT]]
+| utc_offset             = +4
+| timezone_DST           =
+| utc_offset_DST         = +5
+<!-- Area/postal codes & others -------->
+| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code            =
+| area_code              =
+| blank_name             = [[Köppen climate classification|Climate]]
+| blank_info             = [[Tropical savanna climate|Aw]]
+| website                =
+| footnotes              =
+}}

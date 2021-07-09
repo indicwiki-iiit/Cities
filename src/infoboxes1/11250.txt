@@ -1,0 +1,75 @@
+{{Infobox settlement
+| name                            = Graz
+| native_name                     = 
+| settlement_type                 =
+<!-- Images -->
+| image_skyline                   = {{Photomontage|position=center
+   | photo1a = Innere Stadt, 8010 Graz, Austria - panoramio (22).jpg
+   | photo1b = Innere Stadt, 8010 Graz, Austria - panoramio (14).jpg
+   | photo3b = Graz Katharinenkirche Front 3.JPG
+   | photo2a = 19-06-14-Graz-Murinsel-Schloßberg-RalfR.jpg
+   | photo3a = Catedrala Sf. Egidiu din Graz3.jpg
+   | size = 250
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = From top down, left to right: Brunnen am Eisernen Tor, Freiheitsplatz, the [[Mur (river)|Mur River]] and [[Schlossberg (Graz)|Schlossberg]], [[Graz Cathedral]], Katharinenkirche}}
+| imagesize                       = 
+| image_caption                   =
+| image_shield                    = AUT Graz COA.svg
+| shield_size                     = 80x110px
+| shield_link                     = <!-- Maps -->
+| pushpin_map                     = Austria Styria#Austria
+| pushpin_mapsize                 = 250
+| pushpin_map_caption             = Location within Austria
+| image_map                       = 
+| map_alt                         = 
+| map_caption                     = Location within [[Statutory city (Austria)|Statutory city]] district
+<!-- Location -->| coordinates                     = {{coord|47|4|N|15|26|E|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = [[Austria]]
+| subdivision_type1               = [[States of Austria|State]]
+| subdivision_name1               = [[Styria]]
+| parts_type                      = 
+| parts_style                     = para
+| p1                              = <!-- Leaders -->
+| leader_title                    = [[Burgomaster|Mayor]]
+| leader_name                     = [[Siegfried Nagl]] ([[Austrian People's Party|ÖVP]])
+| leader_party                    = 
+| leader_title1                   = 
+| leader_name1                    = <!-- Statistics -->
+| area_footnotes                  = {{Austria population Wikidata|area_footnotes}}
+| area_total_km2                  = {{Austria population Wikidata|area_total_km2}}
+| elevation_m                     = 353
+| elevation_max_m                 = 
+| elevation_min_m                 = 
+| population_as_of                = 01-01-2020
+| population_footnotes            = <ref>{{cite web|url=https://www.graz.at/cms/beitrag/10034466/7772565/Zahlen_Fakten_Bevoelkerung_Bezirke_Wirtschaft.html|title=Zahlen + Fakten|access-date=June 23, 2020}}</ref>
+| population_total                = 294,630
+| population_urban                = 
+| population_metro                = 
+| population_note                 = 
+| population_density_km2          = auto
+| population_demonym              = Grazer
+| established_title               = 
+| established_date                = 
+| timezone                        = [[Central European Time|CET]]
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset                      = +1
+| utc_offset_DST                  = +2
+| registration_plate              = [[Vehicle registration plates of Austria|G]]
+| postal_code_type                = [[List of postal codes in Austria|Postal code]]
+| postal_code                     = A-801x, A-802x, A-803x, A-804x, A-805x
+| area_code_type                  = [[Telephone numbers in Austria|Area code]]
+| area_code                       = +43 316
+| website                         = [https://www.graz.at www.graz.at]
+| module                          = {{Infobox UNESCO World Heritage Site
+|child = yes
+|Official_name = City of Graz – Historic Centre and [[Schloss Eggenberg]]
+|ID = 931
+|Year = 1999
+|Extension = 2000
+|Criteria = Cultural: ii, iv
+ }}
+| official_name                   = 
+}}

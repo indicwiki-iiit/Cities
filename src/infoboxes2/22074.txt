@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Pecos, Texas
+|settlement_type          = [[City]]
+|nickname                 = Tarilas 
+|motto                    = 
+
+<!-- Images -->
+|image_skyline            = Pecos texas stores.jpg
+|imagesize                = 250px
+|image_caption            = Storefronts in downtown Pecos
+|image_flag               = 
+|image_seal               = 
+
+<!-- Maps -->
+|image_map                = TXMap-doton-Pecos.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Pecos, Texas
+|image_map1               = Reeves County Pecos.svg
+|mapsize1                 = 250px
+|map_caption1             = 
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Texas]]
+|subdivision_type2        = [[List of counties in Texas|County]]
+|subdivision_name2        = [[Reeves County, Texas|Reeves]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = David Flores
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = 
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_48.txt|publisher=United States Census Bureau|access-date=August 7, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 57.56
+|area_land_km2            = 57.56
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 22.22
+|area_land_sq_mi          = 22.22
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 8780
+|population_density_km2   = 181.75
+
+<!-- General information -->
+|timezone                 = [[North American Central Time Zone|Central (CST)]]
+|utc_offset               = -6
+|timezone_DST             = CDT
+|utc_offset_DST           = -5
+|elevation_footnotes      = <ref name="GR3"/>
+|elevation_m              = 
+|elevation_ft             = 2582
+|coordinates              = {{coord|31|24|56|N|103|30|0|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 79772
+|area_code                = [[Area code 432|432]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 48-56516<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1364996<ref name="GR3">{{GNIS|1364996}}</ref>
+|website                  = http://www.pecostx.gov/
+|footnotes                = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 10461
+|population_density_sq_mi = 470.73
+}}

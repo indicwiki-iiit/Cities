@@ -1,0 +1,115 @@
+{{Infobox country
+| conventional_long_name = Democratic Republic of<br /> Timor-Leste
+| native_name            = {{ubl|{{native name|tet|Repúblika Demokrátika<br />Timór-Leste}}|{{native name|pt|República Democrática de<br /> Timor-Leste}}}}
+| common_name            = East Timor
+| image_flag             = Flag of East Timor.svg
+| image_coat             = Coat of arms of East Timor.svg
+| national_motto         = {{native phrase|pt|Unidade, Acção, Progresso|nolink=on}}<br/>{{native phrase|tet|Unidade, Asaun, Progresu|nolink=on}}<br/>({{Lang-en|"Unity, Action, Progress"}})
+| national_anthem        = {{native phrase|pt|[[Pátria]]|nolink=on}}<br/>({{Lang-en|"Fatherland"}})<br/><div style="display:inline-block;margin-top:0.2em;"></div><center>[[File:East Timorese national anthem.wav]]</center>
+| image_map              = File:Improved Quality Timor Leste Map.png
+| map_width              = 230px
+<!--|map_caption = Location of East Timor (red) toward the eastern end of the [[Indonesian Archipelago]]. -->| image_map2             =
+| capital                = [[Dili]]
+| coordinates            = {{Coord|8.55|S|125.56|E|display=inline,title}}
+| largest_city           = Dili
+| official_languages     = {{plainlist|
+* [[Tetum]] 
+* [[Portuguese language|Portuguese]]<sup>a</sup>}}
+| languages_type         = {{nobold|[[National language]]s}}
+| languages              = {{Collapsible list|title=15 languages|titlestyle = background:transparent;text-align:left;font-weight:normal;|
+* [[Atauru language|Atauru]]
+* [[Uab Meto language|Baikeno]]
+* [[Bekais language|Bekais]]
+* [[Bunak language|Bunak]]
+* [[Fataluku language|Fataluku]]
+* [[Galoli language|Galoli]]
+* [[Habun language|Habun]]
+* [[Idalaka language|Idalaka]]
+* [[Kawaimina languages|Kawaimina]]
+* [[Kemak language|Kemak]]
+* [[Makalero dialect|Makalero]]
+* [[Makasae language|Makasae]]
+* [[Makuv'a language|Makuva]]
+* [[Mambai language (Timor)|Mambai]]
+* [[Tokodede]]}}
+| languages2_type         = {{nobold|Working languages}}
+| languages2              = [[English language|English]]<br>[[Indonesian language|Indonesian]]
+| religion                = {{ublist |item_style=white-space:nowrap;
+  |99.53% [[Christianity]]
+  |—97.57% [[Catholicism]]
+  |—1.96% [[Protestantism]]
+  |0.24% [[Islam]]
+  |0.23% Other
+  }}
+| religion_year                = 2015 census
+| religion_ref                 =  <ref name="religion">{{cite web|url=http://www.statistics.gov.tl/wp-content/uploads/2016/11/3_2015-V2-Nationality-Citizenship-Religion.xls|title=Nationality, Citizenship, and Religion|date=25 October 2015|access-date=29 January 2020|publisher=Government of Timor-Leste|url-status=dead|archive-url=http://www.statistics.gov.tl/category/publications/census-publications/|archive-date=13 November 2019 }}</ref>
+| demonym                = {{plainlist|
+* East Timorese
+* Timorese
+* Maubere (informal)<ref>{{Cite book|url=https://books.google.com/books?id=EEKDBAAAQBAJ&q=east+timor+maubere&pg=PA199|title=Rhetoric and the Decolonization and Recolonization of East Timor|first=David|last=Hicks|date=15 September 2014|publisher=Routledge|via=Google Books|isbn=9781317695356}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=WRpHAAAAQBAJ&q=east+timor+maubere&pg=PA281|title=No Return, No Refuge: Rites and Rights in Minority Repatriation|first=Howard|last=Adelman|date=28 June 2011|publisher=Columbia University Press|via=Google Books|isbn=9780231526906}}</ref>}}
+| government_type        = {{nowrap|[[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]]}} [[Republic|constitutional republic]]<ref name="Divided">{{Cite journal|last=Shoesmith|first=Dennis|date=March–April 2003|title=Timor-Leste: Divided Leadership in a Semi-Presidential System|journal=[[Asian Survey]]|volume=43|issue=2|pages=231–252|issn=0004-4687|oclc=905451085|doi=10.1525/as.2003.43.2.231|url=http://espace.cdu.edu.au/view/cdu:1248|quote=The semi-presidential system in the new state of Timor-Leste has institutionalized a political struggle between the president, Xanana Gusmão, and the prime minister, Mari Alkatiri. This has polarized political alliances and threatens the viability of the new state. This paper explains the ideological divisions and the history of rivalry between these two key political actors. The adoption of Marxism by Fretilin in 1977 led to Gusmão's repudiation of the party in the 1980s and his decision to remove Falintil, the guerrilla movement, from Fretilin control. The power struggle between the two leaders is then examined in the transition to independence. This includes an account of the politicization of the defense and police forces and attempts by Minister of Internal Administration Rogério Lobato to use disaffected Falintil veterans as a counterforce to the Gusmão loyalists in the army. The December 4, 2002, Dili riots are explained in the context of this political struggle.}}</ref><ref name="SpL">{{cite journal|last1=Neto|first1=Octávio Amorim|last2=Lobo|first2=Marina Costa|year=2010|title=Between Constitutional Diffusion and Local Politics: Semi-Presidentialism in Portuguese-Speaking Countries|url=https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1666842_code1512429.pdf|journal=APSA 2010 Annual Meeting Paper|ssrn=1644026|access-date=25 August 2017}}</ref><ref name="InstET">{{cite book|last=Beuman|first=Lydia M.|year=2016|title=Political Institutions in East Timor: Semi-Presidentialism and Democratisation|url=https://books.google.com/books?id=8GCFCwAAQBAJ|location=Abingdon, Oxon|publisher=[[Routledge]]|isbn=978-1317362128|lccn=2015036590|oclc=983148216|access-date=18 August 2017|via=Google Books}}</ref>
+| leader_title1            = [[President of East Timor|President]]
+| leader_name1             = [[Francisco Guterres]]
+| leader_title2            = [[Prime Minister of East Timor|Prime Minister]]
+| leader_name2             = [[Taur Matan Ruak|José Maria Vasconcelos]]
+| legislature              = [[National Parliament of East Timor|National Parliament]]
+| sovereignty_type         = [[East Timor (Indonesian province)|Independence]]
+| sovereignty_note         = from [[Portugal]] and [[Indonesia]]
+| established_event1       = [[Portuguese Timor]]
+| established_date1        = 16th century
+| established_event2       = Independence declared
+| established_date2        = 28 November 1975
+| established_event3       = [[East Timor (Indonesian province)|Annexation by Indonesia]]
+| established_date3        = 17 July 1976
+| established_event4       = Administered by [[United Nations Transitional Administration in East Timor|UNTAET]]
+| established_date4        = 25 October 1999
+| established_event5       = Independence restored
+| established_date5        = {{start date and age|20 May 2002}}
+| area_km2                 = 15,007<ref name="auto">{{Cite web|url=http://www.easttimorgovernment.com/geography.htm|title=East Timor Geography|website=www.easttimorgovernment.com}}</ref>
+| area_rank                = 154th <!-- Area rank should match [[List of countries and dependencies by area]] -->
+| area_sq_mi               = 5,794 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water            = negligible
+| population_estimate      = 1,340,513
+| population_census        = 1,183,643<ref name="census">{{cite web|url=http://www.statistics.gov.tl/wp-content/uploads/2016/11/2_2015-V2-Population-by-Age-Sex.xls|title=Population by Age & Sex|date=25 October 2015|access-date=29 January 2020|publisher= Government of Timor-Leste|url-status=dead|archive-url=http://www.statistics.gov.tl/category/publications/census-publications/|archive-date=13 November 2019 }}</ref>
+| population_census_year   = 2015
+| population_density_km2   = 78
+| population_density_sq_mi = 201
+| population_estimate_rank = 153rd
+| population_estimate_year = 2021 
+<!--Do not remove per [[WP:MOSNUM]]-->
+| GDP_PPP                = $5.315 billion
+| GDP_PPP_year           = 2020
+| GDP_PPP_per_capita     = $4,031<ref name="imf.org">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=84&pr.y=15&sy=2017&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=537&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org|access-date=4 May 2019}}</ref>
+| GDP_nominal            = $1.920 billion
+| GDP_nominal_year       = 2020
+| GDP_nominal_per_capita = $1,456<ref name="imf.org"/>
+| Gini                   = <!--number only-->
+| Gini_year              =
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               =
+| Gini_rank              =
+| HDI                    = 0.606<!--number only-->
+| HDI_year               = 2019<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = decrease <!--increase/decrease/steady-->
+| HDI_ref                = <ref name="HDI">{{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}}</ref>
+| HDI_rank               = 141st
+| currency               = [[United States dollar]]<sup>b</sup>
+| currency_code          = USD
+| time_zone              =
+| utc_offset             = +9
+| utc_offset_DST         =
+| time_zone_DST          =
+| drives_on              = left
+| calling_code           = [[+670]]
+| iso3166code            = TL
+| cctld                  = [[.tl]]<sup>c</sup>
+| footnote_a             = Fifteen further "national languages" are recognised by the Constitution.
+<!----ORPHANED:
+| footnote_ = [[Indonesia]] invaded East Timor on 7 December 1975 and left in 1999.
+| footnote_ = Defined as a restoration by the Constitution.----->
+| footnote_b             = [[East Timor centavo coins|Centavo coins]] also used.
+| footnote_c             = [[.tp]] has been phased out.
+| country_code           =
+| official_website       = [http://timor-leste.gov.tl/ timor-leste.gov.tl]
+| today                  =
+}}

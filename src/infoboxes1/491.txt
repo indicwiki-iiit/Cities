@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kolwezi
+|other_name             = 
+|official_name          = ''Ville de Kolwezi''
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = Provincial capital and city
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|pushpin_map            = Democratic Republic of the Congo<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =right
+|pushpin_mapsize        =
+|pushpin_map_caption    =Location in the Democratic Republic of the Congo
+<!-- Location ------------------>
+|subdivision_type       = [[Country]]
+|subdivision_name       = {{flagdeco|DRC}} [[DR Congo]]
+|subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]]
+|subdivision_name1      = [[Lualaba Province|Lualaba]]
+|subdivision_type2      =
+|subdivision_name2      =
+|subdivision_type3      =
+|subdivision_name3      =
+|parts_type             = Communes
+|parts_style            = para
+|p1                     = [[Dilala]]
+|p2                     = [[Manika, Kolwezi|Manika]]
+|<!-- Politics ----------------->
+|government_footnotes   = <ref>{{cite news |title=Lualaba : organisation de la première foire de fleurs à Kolwezi |url=https://acpcongo.com/lualaba-organisation-de-la-premiere-foire-de-fleurs-a-kolwezi/ |access-date=21 August 2019 |work=ACP Média Public |date=7 August 2019 |language=fr}}</ref>
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Véronique Upite Kamina
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = Founded
+|established_date       = 1938
+|established_title1     = [[City status]]
+|established_date1      = 1971
+|established_title2     = [[Districts of the Democratic Republic of the Congo|District]]
+|established_date2      = {{Start-date|1976}}–{{End-date|2015}}
+|founder                = [[Union Minière du Haut Katanga|Union Minière]]
+<!-- Area    --------------------->
+|total_type= City
+|area_magnitude         =
+|area_footnotes           =
+|area_total_km2           = 213
+|area_land_km2            = 
+<!-- Population   ----------------------->
+|population_as_of               =2015<ref>https://www.caid.cd/index.php/donnees-par-villes/ville-de-kolwezi/?domaine=fiche</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =572942
+|population_density_km2         =auto
+|population_density_sq_mi       =
+|population_urban_footnotes     = <ref>[https://populationstat.com/democratic-republic-of-the-congo/kolwezi PopulationStat.com]</ref>
+|population_urban               = 480000
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_density_blank1_km2 =
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Central Africa Time]]
+|utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         =
+|coordinates            = {{coord|10|43|S|25|28|E|region:CD|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1448
+|elevation_ft           =
+|blank1_name_sec2       = [[Köppen climate classification|Climate]]
+|blank1_info_sec2       = [[Humid subtropical climate|Cwa]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              =
+}}

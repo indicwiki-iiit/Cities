@@ -1,0 +1,42 @@
+{{Infobox peninsulas
+|name = Crimean Peninsula
+|local_name =
+|image_name = Satellite picture of Crimea, Terra-MODIS, 05-16-2015.jpg
+|image_caption = May 2015 satellite image of the Crimean Peninsula
+|image_alt =
+|map_image = Crimea (orthographic projection).svg
+|map_size = 220
+|location = [[Eastern Europe]]
+|waterbody = <div>[[Black Sea]]<br />[[Sea of Azov]]</div>
+{{Infobox|child=yes
+|rowclass1 = mergedrow
+|label1 = Largest city
+|data1 = [[Sevastopol]]
+}}
+|coordinates = {{Coord|45.3|34.4|scale:2000000|display=inline,title}}
+|area_km2 = 27,000
+|highest_mount = [[Roman-Kosh]]
+|elevation_m = 1545
+|country = {{Infobox|child=yes
+|rowclass1 = mergedrow
+|label1 = [[Political status of Crimea|Status]]
+|data1 = Controlled and governed as part of the [[Russian Federation]] (except Ukrainian-controlled [[Henichesk Raion|part]] of [[Arabat Spit]]), though [[United Nations General Assembly Resolution 68/262|internationally recognised]] as part of Ukraine
+}}
+|country1 = <!--Note: Do not add flag icons for geographic articles per MOS:INFOBOXFLAG-->[[Ukraine]] {{nobold|(''de jure'')}}
+|country1_admin_divisions_title = [[Oblasts of Ukraine#List of regions|Regions]]
+|country1_admin_divisions = {{anchor|Henichesk Raion}}[[Kherson Oblast]] <small>(northern part of Arabat Spit, [[Henichesk Raion]])</small>
+|country1_admin_divisions_title_1 = Uncontrolled regions
+|country1_admin_divisions_1 = [[Autonomous Republic of Crimea]]<br />[[Sevastopol]]
+|country2 = <!--Note: Do not add flag icons for geographic articles per MOS:INFOBOXFLAG-->[[Russia]] {{nobold|(''de facto'')}}
+|country2_admin_divisions_title = [[Federal districts of Russia|Federal district]]
+|country2_admin_divisions = {{nowrap|[[Southern Federal District]]}}
+|country2_admin_divisions_title_1 = [[Federal subjects of Russia|Federal subjects]]
+|country2_admin_divisions_1 = {{nowrap|[[Republic of Crimea]]}}<br />[[Sevastopol]]
+|demonym = [[Crimean people|Crimean]]
+|population = {{increase}} 2,416,856<ref>{{cite web|url=https://rosstat.gov.ru/storage/mediabank/of43wDjn/PrPopul2021_Site.xls|format=XLS|script-title=ru:Численность населения Российской Федерации по муниципальным образованиям на 1 января 2021 года|trans-title=The population of the Russian Federation by municipalities as of January 1, 2021|language=ru|work=[[Russian Federal State Statistics Service]]|access-date=31 January 2021}}</ref>
+|population_as_of = 2021
+|density_km2 = 84.6
+|ethnic_groups=65.3% [[Russians]] <small>(1.492 [[Million|mln]])</small><br />15.1% [[Ukrainians]] <small>(344.5 thousand)</small><br />10.8% [[Crimean Tatars]] <small>(246.1 thousand)</small><br />0.9% [[Belarusians]] <small>(21.7 thousand)</small><br />0.5% [[Armenians]] <small>(11 thousand)</small><br />7.4% Others <small>(169.1 thousand)</small>, including:<br />[[Pontic Greeks]]<br />[[Krymchaks]]<br/ >[[Crimean Karaites]]<br/ >[[Ashkenazi Jews]]<br/ >[[Crimea Germans]]<br/ >[[Italians of Crimea]] 
+ (2014)<ref>{{cite web |url=http://en.krymedia.ru/nationality/3373760-Only-33-of-Crimeans-Mention-Ukrainian-as-Their-Native-Language |title=Archived copy |access-date=7 January 2016|url-status=dead |archive-url=https://archive.today/20150420155818/http://en.krymedia.ru/nationality/3373760-Only-33-of-Crimeans-Mention-Ukrainian-as-Their-Native-Language |archive-date=20 April 2015}}</ref><ref>{{cite web|url=http://www.kasparov.ru/material.php?id=552E31B8AFC23 |title=Катастрофический фактор {{pipe}} Все блоги {{pipe}} Блоги {{pipe}} Каспаров.Ru |publisher=Kasparov.ru |access-date=3 July 2018}}</ref><ref name="eurasianstudies.wordpress.com">{{cite web |url=https://eurasianstudies.wordpress.com/2015/03/19/russian-census-of-crimea-nationality-results/ |title=Archived copy |access-date=20 April 2015|url-status=dead |archive-url=https://web.archive.org/web/20150427124650/https://eurasianstudies.wordpress.com/2015/03/19/russian-census-of-crimea-nationality-results/ |archive-date=27 April 2015}}</ref>
+|additional_info=
+}}

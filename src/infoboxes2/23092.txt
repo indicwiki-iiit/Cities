@@ -1,0 +1,31 @@
+{{Infobox Australian place
+| type                = town
+| name                = Mareeba
+| state               = qld
+| image               = Mareeba.jpg
+| caption             = 
+| pop                 = 11,079
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes            = <ref name="census16">{{Census 2016 AUS|id=SSC31779 |name=Mareeba (State Suburb) |accessdate=23 January 2018 |quick=on}}</ref>
+| est                 = 1877
+| postcode            = 4880
+| elevation           = 400
+| dist1               = 
+| dir1                = 
+| location1           = 
+| coordinates         = {{coord|16|59|0|S|145|25|0|E|display=inline,title}}
+| lga                 = [[Shire of Mareeba]]
+| stategov            = [[Electoral district of Cook|Cook]]
+| fedgov              = [[Division of Kennedy|Kennedy]]
+| maxtemp             = 29.0
+| mintemp             = 16.6
+| rainfall            = 915.3
+| near-n              = [[Biboohra, Queensland|Biboohra]]
+| near-ne             = [[Koah, Queensland|Koah]]
+| near-e              = [[Lamb Range, Queensland|Lamb Range]]
+| near-se             = [[Danbulla, Queensland|Danbulla]]<br>[[Tinaroo, Queensland|Tinaroo]]
+| near-s              = [[Tolga, Queensland|Tolga]]
+| near-sw             = [[Walkamin, Queensland|Walkamin]]
+| near-w              = [[Chewko, Queensland|Chewko]]
+| near-nw             = [[Paddys Green, Queensland|Paddys Green]]
+}}

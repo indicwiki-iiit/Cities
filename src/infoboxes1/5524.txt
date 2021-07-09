@@ -1,0 +1,70 @@
+{{Infobox settlement
+|name                     = {{raise|0.2em|Guangshui}}
+|official_name            = <!-- Official name in English if different from 'name' -->
+|native_name              = {{lower|0.1em|{{nobold|{{lang|zh-hans|广水市}}}}}}
+|other_name               = Kwangshui
+| settlement_type         = [[County-level city]]
+| image_skyline           =
+| image_alt               =
+| image_caption           =
+| flag_alt                =
+| image_seal              =
+| seal_alt                =
+| image_shield            =
+| shield_alt              =
+| nickname                =
+| motto                   =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             = China Hubei
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location in Hubei
+| coordinates             = {{coord|31.617|N|113.826|E|type:adm3rd_region:CN-42_source:Gaode|format=dms|display=it}}
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = People's Republic of China
+| subdivision_type1       = [[Provinces of the People's Republic of China|Province]]
+| subdivision_name1       = [[Hubei]]
+| subdivision_type2       = [[Prefecture-level city]]
+| subdivision_name2       = [[Suizhou]]
+| subdivision_type3       =
+| subdivision_name3       =
+| established_title       =
+| established_date        =
+| founder                 =
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric<!-- or US or UK -->
+| area_total_km2          = 2645.5 
+| area_urban_km2          = 73.85 
+| area_footnotes          = <ref name="CUCSY_2017">{{cite book |editor1=Ministry of Housing and Urban-Rural Development |editor-link=Ministry of Housing and Urban-Rural Development |title=China Urban Construction Statistical Yearbook 2017 |date=2019 |publisher=China Statistics Press |location=Beijing |page=66 |url=http://www.mohurd.gov.cn/xytj/tjzljsxytjgb/jstjnj/w02019012421874448287322500.xls |access-date=11 January 2020}}</ref>| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| elevation_footnotes     =
+| elevation_m             =
+| population_footnotes    = <ref name="xzqhgs"/>
+| population_total        = 755910
+| population_as_of        = 2010
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| population_est          = 962000
+| pop_est_as_of           = 2017
+| population_urban        = 317700
+| population_urban_footnotes = <ref name="CUCSY_2017"/>
+| timezone1               = [[China Standard Time|China Standard]]
+| utc_offset1             = +8
+| postal_code_type        =
+| postal_code             =
+| area_code_type          =
+| area_code               =
+| iso_code                =
+| website                 = {{URL|http://www.zggsw.gov.cn/}}
+| footnotes               =
+}}

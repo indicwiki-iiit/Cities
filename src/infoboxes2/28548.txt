@@ -1,0 +1,43 @@
+{{Infobox Australian place
+| type        = town
+| name        = Kingston SE
+| state       = sa
+| image       = Kingston SE lobster.JPG
+| caption     = Lobster sculpture located at the entrance to the town
+| postcode    = 5275<ref name=postcode>{{cite web|title= Postcode for Kingston SE, South Australia |url= http://www.postcodes-australia.com/areas/sa/country+south+australia/kingston+se |publisher= postcodes-australia.com |access-date=31 August 2016}}</ref>
+| pop         = 1648
+| pop_year    = {{CensusAU|2016}}
+| pop_footnotes = <ref name=Census2016Y />
+
+| established              = 1861 (town) <br/>3 December 1998 (locality)
+| established_footnotes    = <ref name=PLB/><ref name=SAGG-1998>{{cite journal |title= GEOGRAPHICAL NAMES ACT 1991 Notice to Assign Boundaries and Names to Places (in the District Council of Lacepede) |journal= The South Australian Government Gazette |date= 3 December 1998 |page= 1711 |url= http://www9.austlii.edu.au/au/other/sa_gazette/1998/173/1711.pdf |access-date= 4 December 2018 |publisher= Government of South Australia}}</ref>
+
+| elevation   = 
+| coordinates = {{coord|36|49|S|139|51|E|display=inline,title}}
+| coord_ref = <ref name=PLB>{{cite web |title=Search result for "Kingston SE(Locality Bounded)" (Record no SASA0036846) with the following layers selected – "Suburbs and Localities", "Place names (gazetteer)" and "Development Plan Layers" |url=http://maps.sa.gov.au/plb/# |work=Property Location Browser |publisher=Government of South Australia |access-date=31 August 2016 |archive-url=https://web.archive.org/web/20161012010923/http://maps.sa.gov.au/plb/ |archive-date=12 October 2016 |url-status=dead }}</ref>
+| maxtemp     = 19.2
+| mintemp     = 10.3
+| rainfall    = 495.6
+| lga         = [[Kingston District Council]]<ref name=PLB/>  
+| stategov = [[Electoral district of MacKillop|MacKillop]]<ref name=ECSA>{{cite web|title=District of MacKillop Background Profile |url=http://www.ecsa.sa.gov.au/component/edocman/?task=document.download&id=564&Itemid=0 |publisher=Electoral Commission SA |access-date=29 March 2016}}</ref>
+| fedgov = [[Division of Barker|Barker]]<ref name=AEC>{{cite web|title=Federal electoral division of Barker |url=http://www.aec.gov.au/profiles/sa/files/2011/2011-aec-a4-map-sa-barker.pdf |publisher=Australian Electoral Commission|access-date=28 March 2016}}</ref>
+| dist1       = 240
+| dir1        = SE
+| location1   = [[Adelaide city centre]]
+| dist2       = 138
+| dir2        = NW
+| location2   = [[Mount Gambier, South Australia|Mount Gambier]]
+| timezone    = [[UTC9:30|ACST]]
+| utc         = +9:30
+| timezone-dst= [[UTC10:30|ACDT]]
+| utc-dst     = +10:30
+| near-n             = [[West Range, South Australia|West Range]]
+| near-ne            = [[Blackford, South Australia|Blackford]]	
+| near-e             = [[Blackford, South Australia|Blackford]]	<br/>[[Reedy Creek, South Australia|Reedy Creek]]	
+| near-se            =[[Reedy Creek, South Australia|Reedy Creek]]
+| near-s             = [[Wyomi, South Australia|Wyomi]]<br/>[[Sandy Grove, South Australia|Sandy Grove]]<br/>[[Wangolina, South Australia|Wangolina]]<br/>[[Reedy Creek, South Australia|Reedy Creek]]
+| near-sw            = ''[[Lacepede Bay]]''  	
+| near-w             = ''[[Lacepede Bay]]''<br/>[[Rosetown, South Australia|Rosetown]]<br/>''[[Lacepede Bay]]'' 
+| near-nw            = ''[[Lacepede Bay]]''
+|footnotes=Locations<ref name=postcode/><br/>Adjoining Localities<ref name=PLB/> 
+}}

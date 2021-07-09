@@ -1,0 +1,109 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name = Varaždin
+|official_name          = ''Grad Varaždin''<br /> City of Varaždin
+|other_name             =
+|native_name            =
+|nickname               =
+|settlement_type        = [[List of cities and towns in Croatia|City]]
+|motto                  = Probitati et bonis artibus<br /><small>({{lang-en|For Honesty and Good Virtues}})</small>
+<!-- images and maps  ----------->
+|image_photo            = 
+|image_skyline          = 
+{{Photomontage|position=center
+| photo1a = Varazdin 17.jpg
+| photo2a = Korzo Varaždin.jpg
+| photo2b = Varazdin-place.JPG
+| photo3a = Sport Hall Varaždin.jpg
+| size = 250
+| spacing = 1
+| color = #FFFFFFu
+| border = 0
+| foot_montage = Top: Varaždin Castle; Center left: Korzo; Center right: Croatian National Theater; Bottom: [[Varaždin Arena]]}}
+|image_flag             = Flag of Varaždin.svg
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           = Varaždin (grb).gif
+|shield_size            =
+|city_logo              =
+|citylogo_size          =
+|image_map              = 
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Croatia
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = Location of Varaždin within Croatia
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{flag|Croatia}}
+| subdivision_type1 = [[Counties of Croatia|County]]
+|subdivision_name1      = [[File:Flag of Varaždin County.png|border|23px]] [[Varaždin County|Varaždin]]
+|subdivision_type2      =
+|subdivision_name2      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+| leader_name = [[Ivan Čehok]]
+| leader_party = [[Independent politician|Ind.]]
+|leader_title1          = City Council
+|leader_name1           = {{Collapsible list
+ |title   = 25 members
+ |frame_style= border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Independent politician|Ind.]] [[Ivan Čehok]] (9)
+ |2     =• [[Social Democratic Party of Croatia|SDP]], [[Croatian People's Party – Liberal Democrats|HNS]] (7)
+ |3     =• [[Croatian Democratic Union|HDZ]] (5)
+ |4     =• [[People's Party - Reformists|NS-R]] (2)
+ |5     =• [[Ligue for Varaždin|LV]] (2)
+}}
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = 59.45
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_water_percent       =
+|area_urban_km2           = 34.22
+|area_metro_km2           =
+<!-- Population   ----------------------->
+| population_as_of = 2011
+| population_footnotes = <ref name="census2011">{{Croatian Census 2011|S|05|4723}}</ref>
+| population_total = 46690
+| population_density_km2         = auto
+| population_urban = 38839
+| population_density_urban_km2 = auto
+<!-- General information  --------------->
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|46|18|N|16|20|E|region:HR|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 173
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       = Postal code
+|postal_code            = HR-42 000
+|area_code              = +385 42
+|registration_plate     = [[Vehicle registration plates of Croatia|VŽ]]
+|blank_name             = [[Patron saint]]s
+|blank_info             = [[St. Nicholas]]
+|website                = [http://www.varazdin.hr varazdin.hr]
+|footnotes              =
+}}

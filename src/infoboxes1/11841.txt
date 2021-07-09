@@ -1,0 +1,45 @@
+{{Infobox Australian place
+| type                = City
+| name                = Darwin
+| state               = nt
+| image               = 
+| image2              = City landscape of Darwin, Northern Territory.jpg
+| caption             =
+| caption2            = The Darwin skyline seen from [[Bayview, Northern Territory|Bayview]] in 2015
+| force_national_map  = yes
+| coordinates         = {{coord|12|26|17|S|130|50|28|E|display=inline,title}}
+| pushpin_map_caption = Location in Australia
+| pop                 = 147,255
+| pop_year            = 2019
+| pop_footnotes       = <ref>{{cite web
+ | url =https://www.abs.gov.au/statistics/people/population/regional-population/2018-19
+ | title =Regional population, 2018-19 financial year
+ | website =abs.gov.au
+ | publisher = Australian Bureau of Statistics
+ | access-date = 3 February 2021
+ }}</ref>
+| poprank             = 15th
+| density             =
+| density_footnotes   =
+| est                 = 1869
+| area                = 3163.8
+| area_footnotes      = <ref name="ABSGCCSAProf">{{cite web|title=2011 Census Community Profiles: Greater Darwin|url=http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/communityprofile/7GDAR|website=ABS Census|publisher=[[Australian Bureau of Statistics]]|access-date=15 September 2016}}</ref> (2011 urban)
+| timezone            = ACST
+| utc                 = +9:30
+| lga                 = [[City of Darwin|Darwin]], [[City of Palmerston|Palmerston]], [[Shire of Litchfield|Litchfield]]
+| stategov            = [[Electoral division of Port Darwin|Port Darwin]] (and 14 others)
+| fedgov              = [[Division of Solomon|Solomon]]
+| county              = [[Palmerston County, Northern Territory|Palmerston County]]
+| dist1               = 2616
+| location1           = [[Adelaide]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=163285&placename=adelaide&placetype=0&state=0&place1=DARWIN&place1long=130.842438&place1lat=-12.461530|title=Great Circle Distance between DARWIN and ADELAIDE|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist2               = 2651
+| location2           = [[Perth]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=304529&placename=perth&placetype=0&state=0&place1=DARWIN&place1long=130.842438&place1lat=-12.461530|title=Great Circle Distance between DARWIN and PERTH|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist3               = 2846
+| location3           = [[Brisbane]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867&placename=brisbane&placetype=0&state=0&place1=DARWIN&place1long=130.842438&place1lat=-12.461530|title=Great Circle Distance between DARWIN and BRISBANE|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist4               = 1679
+| location4           = [[Cairns]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=113272&placename=Darwin&placetype=R&state=NT+&place1=CAIRNS&place1long=145.775818&place1lat=-16.922079|title=Great Circle Distance between Carins and Darwin|publisher=Geoscience Australia|access-date=27 January 2016}}</ref>
+| mintemp             = 23.4
+| maxtemp             = 32.2
+| rainfall            = 1811.7
+| mayor               = [[Katrina Fong Lim]]
+}}

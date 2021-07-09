@@ -1,0 +1,24 @@
+{{Infobox UK place
+ |country                          = Scotland
+ |official_name                    = Ellon
+ |gaelic_name                      = Eilean
+ |static_image_name                = Ellon Town Centre and the River Ythan.jpg
+ |static_image_caption             = Ellon Town Centre and the River Ythan
+ |static_image_width               = 
+| population = {{Scottish locality populations|name|POP=Ellon}}
+| population_ref = ({{United Kingdom statistics year|ScotSettlement}})<ref>{{Scotland settlement population citation}}</ref>
+ |os_grid_reference                = NJ948306
+ |edinburgh_distance_mi            = 106
+ |london_distance_mi               = 412
+ |map_type                         = Scotland
+ |unitary_scotland                 = [[Aberdeenshire]]
+ |lieutenancy_scotland             = [[Aberdeenshire]]
+ |constituency_westminster         = [[Gordon (UK Parliament constituency)|Gordon]]
+ |constituency_scottish_parliament = [[Aberdeenshire East (Scottish Parliament constituency)|Aberdeenshire East]]
+ |coordinates                      = {{coord|57.366|-02.086|display=inline,title}}
+ |historic_county = [[Aberdeenshire (historic)|Aberdeenshire]]
+|post_town                        = ELLON
+ |postcode_district                = AB41
+ |postcode_area                    = AB
+ |dial_code                        = 01358
+ }}

@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|settlement_type        = City & Municipality
+|name = Tarija
+|official_name          = 
+|other_name             = 
+|native_name            = 
+|nickname               = 
+|motto                  =
+<!-- images and maps  ----------->
+| image_skyline                   = {{Photomontage
+| photo1a = La Casa Dorada..jpg
+| photo2a = Catedral de San Bernardo (Catedral Metropolitana).jpg
+| photo2b = Plaza in Tarija.jpg
+| photo3a = Museo Tarija - Bolivia.jpg
+| photo4a = Bolivia-tarija2.jpg
+| photo4b = Valle de Concepción.jpg
+| size    = 260
+| spacing = 1
+| color   = transparent
+| border  = 0}}
+|imagesize              = 
+|image_caption          = Clockwise, from top: Museum of Paleontology; the Plaza Luis de Fuentes y Vargas; Casa Dorada; Lago San Jacinto; and the Church of San Francisco;
+|image_seal             = 
+|seal_size              =
+|image_shield           =  EscudoTarija.gif 
+|shield_size            = 125px
+|image_blank_emblem     = Flag of Tarija.svg
+|blank_emblem_type      = Flag
+|image_map              = 
+|map_caption            = 
+|pushpin_map            = Bolivia#South America<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_relief         = 1
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location in Bolivia
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Bolivia.svg|25px]] [[Bolivia]]
+|subdivision_type1      = [[Departments of Bolivia|Department]]
+|subdivision_name1      = [[Tarija Department|Tarija]]
+|subdivision_type2      = [[Provinces of Bolivia|Province]]
+|subdivision_name2      = [[Cercado Province (Tarija)|Cercado]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Rodrigo Paz
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|established_title      = Founded
+|established_date       = July 4, 1574
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_sq_mi         =
+|area_metro_sq_mi         =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2012 Census
+|population_footnotes           =<ref>{{cite web|url=http://www.world-gazetteer.com/wg.php?x=1&men=gcis&lng=en&des=gamelan&geo=-38&col=abcdefghinoq&msz=1500&pt=c&va=&srt=pnao|title=World Gazetteer|archive-url=https://archive.is/vxUkl|archive-date=11 January 2013}}</ref>
+|population_note                =
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               = 268,000
+|population_metro               = 330,000
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+<!-- General information  --------------->
+|timezone               = BOT
+|utc_offset             = -4
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|21|32|S|64|44|W|region:BO|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            = 1854 
+|elevation_ft           = 
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = +591 4
+|website                = {{Official website|http://www.tarija.bo}}
+|footnotes              = 
+}}

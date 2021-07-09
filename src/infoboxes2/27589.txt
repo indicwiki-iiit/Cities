@@ -1,0 +1,83 @@
+{{Infobox settlement
+|name                     = Houlton, Maine
+|settlement_type          = [[New England town|Town]]
+|nickname                 = Capital of Aroostook
+|motto                    = Valuing the past, planning for the future
+
+<!-- Images -->
+|image_skyline            = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               = Houlton_NB_seal.gif
+
+<!-- Maps -->
+||pushpin_map            =Maine#USA
+|pushpin_label           =Houlton
+|pushpin_label_position =left 
+|pushpin_map_caption    =Location in the state of Maine
+|pushpin_mapsize        =
+|image_map                = Aroostook County Maine incorporated and unincorporated areas Houlton highlighted.svg 
+|mapsize                  = 250px
+|map_caption              = Location of Houlton, Maine
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Maine]]
+|subdivision_type2        = [[List of counties in Maine|County]]
+|subdivision_name2        = [[Aroostook County, Maine|Aroostook]]
+|parts_type               = Villages
+|parts                    = [[Houlton (CDP), Maine|Houlton]]<br>Carys&nbsp;Mills
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = Settled
+|established_date         = 1807
+|established_title1       = Incorporated
+|established_date1        = March 8, 1831
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="Gazetteer files"/>
+|area_magnitude           = 
+|area_total_km2           = 95.13
+|area_land_km2            = 95.08
+|area_water_km2           = 0.05
+|area_total_sq_mi         = 36.73
+|area_land_sq_mi          = 36.71
+|area_water_sq_mi         = 0.02
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 6065
+|pop_est_as_of            = 2012<ref name="2012 Pop Estimate">{{cite web |title=Population Estimates |url=https://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |publisher=[[United States Census Bureau]] |access-date=2013-07-06 |url-status=dead |archive-url=https://web.archive.org/web/20130611010502/http://www.census.gov/popest/data/cities/totals/2012/SUB-EST2012.html |archive-date=2013-06-11 }}</ref>
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_total         = 6123
+|population_density_km2   = 64.4
+|population_density_sq_mi = 166.8
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 119
+|elevation_ft             = 390
+|coordinates              = {{coord|46|7|32|N|67|50|23|W|region:US-ME|display=inline,title}}
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 04730, 04761
+|area_code                = [[Area code 207|207]] Exchange: 532
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 23-33980
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0582525
+|website                  = [http://www.houlton-maine.com/ houlton-maine.com]
+}}

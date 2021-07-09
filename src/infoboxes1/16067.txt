@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Placetas
+|other_name             = 
+|native_name            = 
+|nickname               = La Villa de los Laureles (Laurel City)
+|settlement_type        = [[Municipalities of Cuba|Municipality]]
+|motto                  = 
+<!-- images and maps  ----------->
+|image_skyline          = File:Placetas.jpg
+|image_caption          = [[José Martí Pioneer Organization|OPJM]] pioneers in town center
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 120x90px
+|image_map              = Placetas (Cuban municipal map).png
+|map_caption            = Placetas municipality (red) within <br> Villa Clara Province (yellow) and Cuba
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Cuba]]
+|subdivision_type1      = [[Provinces of Cuba|Province]]
+|subdivision_name1      = [[Villa Clara Province|Villa Clara]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|leader_title2          = 
+|leader_name2           = 
+|leader_title3          = 
+|leader_name3           = 
+|leader_title4          = 
+|leader_name4           = 
+|established_title      = Established
+|established_date       = 1861<ref name=guije/>
+|established_title2     = Incorporated
+|established_date2      = 1881 (town)
+|established_title3     = &nbsp;
+|established_date3      = 1925 (city)
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref              = 
+|area_footnotes         = <ref name=statoids/>
+|area_total_km2         = 601
+|area_land_km2          = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2         = 
+|area_land_sq_mi        = 
+|area_blank1_title      = 
+|area_blank1_km2        = 
+<!-- Population   ----------------------->
+|population_as_of       = 2004
+|population_footnotes   = <ref name=atenas/>
+|population_note        = 
+|population_total       = 71208
+|population_density_km2 = 119.5
+<!-- General information  --------------->
+|timezone               = [[Eastern Time Zone|EST]]
+|utc_offset             = -5
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|22|18|57|N|79|39|20|W|region:CU|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 205
+<!-- Area/postal codes & others -------->
+|postal_code_type       = 
+|postal_code            = 
+|area_code              = +53-428
+|blank_name             = Highways
+|blank_info             = [[Carretera Central (Cuba)|Carretera Central]]
+|website                = 
+|footnotes              = 
+}}

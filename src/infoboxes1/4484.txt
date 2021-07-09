@@ -1,0 +1,74 @@
+{{Infobox settlement
+| name                   = Sept-Îles
+| official_name          = 
+| native_name            = (Uashat)
+| other_name             = 
+| settlement_type        = [[City (Quebec)|City]]
+| image_skyline          = Sept-Îles (lever de Soleil).jpg
+| image_caption          = Sept-Îles in August 2008
+| image_flag             = 
+| image_seal             = 
+| image_shield           = Blason ca ville Sept-Îles (Sept-Rivières).svg
+| shield_size            = 100x80px
+| image_map              = 
+| map_caption            = 
+| pushpin_map            = Côte-Nord Region Quebec
+| pushpin_label          = {{nowrap|Sept-Îles}}
+| pushpin_map_caption    = Location in Côte-Nord region of Quebec.
+| coordinates            = {{coord|50|13|N|66|23|W|region:CA-QC|display=inline,title}}
+| coordinates_footnotes  = <ref name="toponymie"/>
+| subdivision_type       = Country
+| subdivision_name       = Canada
+| subdivision_type1      = [[Provinces and territories of Canada|Province]]
+| subdivision_name1      = [[Quebec]]
+| subdivision_type2      = [[Region (Quebec)|Region]]
+| subdivision_name2      = [[Côte-Nord]]
+| subdivision_type3      = [[Regional county municipality|RCM]]
+| subdivision_name3      = [[Sept-Rivières Regional County Municipality|Sept-Rivières]]
+| established_title      = 
+| established_date       = 
+| established_title1     = Constituted
+| established_date1      = February 12, 2003
+| government_footnotes   = <ref name=mamrot>Ministère des Affaires municipales, des Régions et de l'Occupation du territoire - Répertoire des municipalités: [http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/municipalite/97007/ Sept-Îles]</ref>
+| leader_title           = Mayor
+| leader_name            = Réjean Porlier
+| leader_title1          = [[List of Canadian federal electoral districts|Federal riding]]
+| leader_name1           = [[Manicouagan (electoral district)|Manicouagan]]
+| leader_title2          = [[List of Quebec provincial electoral districts|Prov. riding]]
+| leader_name2           = [[Duplessis (provincial electoral district)|Duplessis]]
+| area_footnotes         = <ref name=mamrot/><ref name="cp2011"/><!-- defined by template:Canada census -->
+| area_total_km2         = 2140.10
+| area_land_km2          = 1764.13
+| area_water_km2         = 
+| area_urban_footnotes   = <ref name="cp2011-PC">[http://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=412&GK=CMA&LANG=Eng&TOPIC=1]</ref>
+| area_urban_km2         = 19.69
+| area_metro_footnotes   = <ref name="cp2011-CA">[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMA&Code1=412&Geo2=PR&Code2=24&Data=Count&SearchText=Sept-Iles&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=412&TABID=1 Statistics Canada 2011 Census Census Profiles: Sept-Îles (Census agglomeration)]. The census agglomeration consists of Sept-Îles, [[Maliotenam, Quebec|Maliotenam]], [[Uashat, Quebec|Uashat]]. This was unchanged from the 2006 census.</ref>
+| area_metro_km2         = 1770.52
+| elevation_footnotes    = <!--for references: use tags-->
+| elevation_m            = 
+| population_footnotes   = <ref name="cp2011"/><!-- defined by template:Canada census -->
+| population_total       = 28534
+| population_as_of       = 2016
+| population_density_km2 = 16.1
+| population_urban_footnotes = <ref name="cp2011-PC"/>
+| population_urban       = 23326
+| population_density_urban_km2 = 1184.5
+| population_metro_footnotes = <ref name="cp2011-CA"/>
+| population_metro = 28487
+| population_density_metro_km2 = 16.1
+| population_blank1_title = Pop&nbsp;{{small|2011-2016}}
+| population_blank1       = {{increase}} 0.2%
+| population_blank2_title = Dwellings
+| population_blank2       = 12275
+| timezone                = [[Eastern Time Zone|EST]]
+| utc_offset              = −5
+| timezone_DST            = [[Eastern Daylight Time|EDT]]
+| utc_offset_DST          = −4
+| postal_code_type        = [[Canadian postal code|Postal code(s)]]
+| postal_code             = [[List of G postal codes of Canada|G4R, G4S]]
+| area_code               = [[Area codes 418 and 581|418 and 581]]
+| blank_name              = Highways
+| blank_info              = {{jct|state=QC|QC|138}}
+| website                 = {{URL|www.ville.sept-iles.qc.ca}}
+}}
+

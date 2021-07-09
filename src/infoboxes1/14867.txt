@@ -1,0 +1,50 @@
+{{Infobox settlement
+| name = Valka
+| other_name =
+| settlement_type = Town
+| image_shield = Coat of Arms of Valka.svg
+| shield_size = 75px
+| image_flag =Flag_of_Valka.svg
+| flag_size = 125px
+| image_skyline = Valkas baznīca.jpg
+| imagesize =
+| image_caption = Lugaži Lutheran Church in Valka.
+| subdivision_type = Country
+| subdivision_name = {{flag|Latvia}}
+| subdivision_type1 = [[Municipalities of Latvia|Municipality]]
+| subdivision_name1 = [[Valka Municipality]]
+| established_title = [[Town rights]]
+| established_date = 1584
+| pushpin_map = Latvia
+| pushpin_label_position = above
+| pushpin_mapsize = 300
+| pushpin_map_caption = Location in Latvia
+| coordinates = {{coord|57|46|N|26|0|E|region:LV_type:city|display=inline,title}}
+| nickname =
+| motto = ''1 pilsēta, 2 valstis'' (1 city, 2 countries)
+| leader_title = [[Mayor]]
+| leader_name = [[Vents Armands Krauklis]]
+| blank_name_sec1 = Number of municipality council members
+| blank_info_sec1 = 15
+| area_total_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}
+| area_footnotes = {{wikidata|reference|best||P2046|P518=Q16868672}}
+| area_water_km2 = {{#expr:{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q16868672}}-{{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}}}
+| area_land_km2 = {{#invoke:wd|properties|raw|qualifiers|best|raw||P2046|P518=Q11081619}}
+| area_metro_km2 =
+| elevation_m = 50
+| population_total = {{wikidata|property|qualifier|best||P1082}}
+| population_footnotes = {{wikidata|references|best||P1082}}
+| population_as_of = {{#invoke:WikidataIB|formatDate|{{wikidata|qualifier|best|raw||P1082|P585}}|df=y}}
+| population_metro = 19500 in Valga-Valka 
+| population_density_km2 = auto
+| population_density_metro_km2 = auto
+| postal_code_type = [[Postal code]]
+| postal_code = LV-470(1-2)
+| area_code_type = [[Telephone numbering plan|Calling code]]
+| area_code = +371 647
+| timezone1 = [[Eastern European Time|EET]]
+| utc_offset1 = +2
+| timezone1_DST = [[Eastern European Summer Time|EEST]]
+| utc_offset1_DST = +3
+| webpage = http://www.valka.lv
+}}

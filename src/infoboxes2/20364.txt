@@ -1,0 +1,98 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Izra'
+|other_name             =
+|native_name            = إِزْرَع<!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = Town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Church of Saint Elias, Izra.jpg
+|imagesize              = 
+|image_caption          = Church of Saint Elias
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Syria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        = 250
+|pushpin_map_caption    =Location in Syria
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{Flag|Syria}}
+|subdivision_type1      = [[Governorates of Syria|Governorate]]
+|subdivision_name1      = [[Daraa Governorate|Daraa]]
+|subdivision_type2      = [[Districts of Syria|District]]
+|subdivision_name2      = [[Izra' District|Izra']]
+|subdivision_type3      = [[Nahiyah|Subdistrict]]
+|subdivision_name3      = Izra'
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Metric <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               = 2004 census
+|population_footnotes           =
+|population_note                =
+|population_total               = 19,158
+|population_density_km2         =
+<!-- General information  --------------->
+|coordinates            = {{coord|32|50|43.45|N|36|14|59.48|E|region:SY|display=inline,title}}
+|grid_name              = [[Palestine grid|PAL]]
+|grid_position          =  267/253
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 600
+|elevation_ft           = 1968
+|timezone               = [[Eastern European Time|EET]] 
+|utc_offset             = +2
+|timezone_DST           = +3
+|utc_offset_DST         =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = 
+|website                = 
+|footnotes              = 
+}}

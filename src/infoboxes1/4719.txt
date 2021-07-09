@@ -1,0 +1,68 @@
+{{Infobox settlement
+| official_name            = Esquipulas
+| native_name              = <!-- for cities whose native name is not in English -->
+| other_name               = 
+| settlement_type          = Municipality and town
+| image_skyline            = Basilique d'Esquipulas.jpg
+| imagesize                = 300px
+| image_caption            = Basilica of Esquipulas
+| image_flag               = 
+| image_seal               = 
+| image_shield             = 
+| nickname                 = 
+| motto                    = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Guatemala<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position   = bottom
+| pushpin_map_caption      = Location in Guatemala
+<!-- Location ------------------>
+| coordinates              = {{coord|14|34|N|89|21|W|region:GT|display=inline,title}}
+| subdivision_type         = Country
+| subdivision_name         = {{flag|Guatemala}}
+| subdivision_type1        = [[Departments of Guatemala|Department]]
+| subdivision_name1        = [[File:..Chiquimula Flag(GUATEMALA).png|25px]] [[Chiquimula Department]]
+| subdivision_type2        = 
+| subdivision_name2        = 
+| established_title        = <!-- Settled -->
+| established_date         = 
+| government_type          =
+<!-- Politics ----------------->
+| government_footnotes     = 
+| leader_title             = 
+| leader_name              = 
+| leader_title1            = for places with, say, both a mayor and a city manager
+| leader_name1             =
+<!-- Area    --------------------->
+| unit_pref                = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes           = 
+| area_total_km2           = 495
+| area_total_sq_mi         = 
+| area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_land_sq_mi          = 
+| area_water_km2           = 
+| area_water_sq_mi         = 
+| area_water_percent       =
+<!-- Population   ----------------------->
+| population_footnotes     = <ref>[https://www.citypopulation.de/en/guatemala/admin/ Citypopulation.de] Population of departments and municipalities in Guatemala</ref>
+| population_total         = 53556
+| population_as_of         = 2018 census
+| population_density_km2   = auto
+| population_density_sq_mi = 
+| population_note          =
+<!-- General information  --------------->
+| timezone                 = 
+| utc_offset               = 
+| timezone_DST             = 
+| utc_offset_DST           = 
+| elevation_footnotes      = 
+| elevation_m              = 
+| elevation_ft             =
+<!-- Area/postal codes & others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              = 
+| area_code                = 
+| blank_name               = [[Köppen climate classification|Climate]]
+| blank_info               = [[Tropical savanna climate|Aw]]
+| website                  = 
+}}

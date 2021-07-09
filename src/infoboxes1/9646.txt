@@ -1,0 +1,23 @@
+{{Infobox settlement
+| name                            = 
+| official_name                   = al-Namas <br/>النماص
+| pushpin_map                     = Saudi Arabia
+| pushpin_mapsize                 = 200
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Saudi Arabia}}
+| subdivision_type1               = [[Provinces of Saudi Arabia|Province]]
+| subdivision_name1               = [['Asir Province]]
+| coordinates                     = {{coord|19|07|12|N|42|07|48|E|region:SA|display=inline,title}}
+| coordinates_footnotes           = <ref name="namas_coords_wikimapia" /><!-- a better reference would be welcome -->
+| latitude                        = 
+| longitude                       = 
+| population_footnotes            = 
+| population_total                = 
+| population_as_of                = 
+| population_rank                 = 
+| area_code                       = +966 17
+| population_density_km2          = <!-- for automatic calculation of any density field, use: auto -->
+| population_density_sq_mi        = 
+| population_est                  = 
+| pop_est_as_of                   = 
+}}

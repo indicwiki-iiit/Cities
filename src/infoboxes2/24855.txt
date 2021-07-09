@@ -1,0 +1,12 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name       = Alexander Serafimovich
+| image       = Alexander Serafimovich.jpg
+| imagesize   = 200px
+| caption     =
+| birth_date  = {{birth date|1863|1|19}}
+| birth_place = [[stanitsa]] Nizhnekurmoyarskaya, [[Don Host Oblast]], [[Russian Empire]] (present-day Tsimlyansky District, [[Rostov Oblast]], Russia)
+| death_date  = {{death date and age|1949|1|19|1863|1|19}}
+| death_place = [[Moscow]], [[USSR]]
+| genre      = Fiction
+| notableworks = ''The Iron Flood''
+}}

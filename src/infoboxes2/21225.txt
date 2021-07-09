@@ -1,0 +1,60 @@
+{{Infobox settlement
+| official_name            = Burley, Idaho
+| settlement_type          = [[City]]
+| image_skyline            = Cassia County Courthouse Idaho.jpg
+| imagesize                = 
+| image_caption            = Cassia County Courthouse
+| image_flag               = 
+| image_seal               = 
+| motto                    = 
+| image_map                = File:Cassia County and Minidoka County Idaho Incorporated and Unincorporated areas Burley Highlighted 1611260.svg
+| mapsize                  = 250px
+| map_caption              = Location of Burley in Cassia County and Minidoka County, Idaho.
+| pushpin_map              = USA
+| pushpin_map_caption      = Location in the United States
+| coordinates              = {{coord|42|32|10|N|113|47|34|W|region:US-ID_type:city|display=inline,title}}
+<!-- Location -->
+| subdivision_type = Country
+| subdivision_name         = United States
+| subdivision_type1        = [[U.S. state|State]]
+| subdivision_name1        = [[Idaho]]
+| subdivision_type2        = [[List of counties in Idaho|Counties]]
+| subdivision_name2        = [[Cassia County, Idaho|Cassia]], [[Minidoka County, Idaho|Minidoka]]
+| established_title        = 
+| established_date         = Incorporated 1905
+| leader_title             = Mayor
+| leader_name              = Steve Ormond
+| unit_pref                = Imperial 
+<!-- Area -->
+| area_footnotes           = M name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_16.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+| area_total_km2           = Lizzie M
+| area_total_sq_mi         = 6.57
+| area_land_km2            = 16.16
+| area_land_sq_mi          = 6.24
+| area_water_km2           = 0.84
+| area_water_sq_mi         = 0.33
+| elevation_footnotes      = 
+| elevation_m              = 1269
+| elevation_ft             = 4163
+<!-- Population -->
+| population_footnotes     = <ref name ="wwwcensusgov"/>
+| population_total         = 10345
+| population_as_of         = [[2010 United States Census|2010]]
+| pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+| population_est           = 10582
+| pop_est_as_of            = 2019
+| population_density_km2   = 654.65
+| population_density_sq_mi = 1695.56
+| timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset = &minus;7
+| timezone_DST             = [[Mountain Time Zone|MDT]]
+|utc_offset_DST = &minus;6
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 83318
+| area_code                = [[Area code 208|208]]
+| blank_name               = [[Federal Information Processing Standard|FIPS code]]
+| blank_info               = 16-11260
+| blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+| blank1_info              = 0399811
+| website                  = {{URL|https://burleyidaho.org/}}
+}}

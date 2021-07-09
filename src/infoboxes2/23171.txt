@@ -1,0 +1,23 @@
+{{Infobox mountain
+| name              = Cascade Range
+| other_name        = Cascade Mountains (in Canada)<br/>"The Cascades"
+| photo             = Mount Rainier and other Cascades mountains poking through clouds.jpg
+| photo_size        = 280
+| photo_caption     = The Cascades in Washington, with [[Mount Rainier]], the range's highest mountain, standing at {{convert|14411|ft|m|0|abbr=on}}. Seen in the background (left to right) are [[Mount Adams (Washington)|Mount Adams]], [[Mount Hood]], and [[Mount St. Helens]].
+| highest           = Mount Rainier
+| elevation_ft      = 14411
+| coordinates       = {{coord|46|51|1.9|N|121|45|35.6|W|type:mountain|format=dms|display=inline,title}}
+| coordinates_ref   = 
+| country_type      = Countries
+| country           = {{enum|United States|Canada}}
+| subdivision1      = {{enum|[[British Columbia]]|[[Washington (state)|Washington]]|[[Oregon]],|[[California]]}}
+| subdivision1_type = Provinces/States
+| range_coordinates = 
+| length_mi         = 700
+| width_mi          = 80
+| length_orientation= north-south
+| geology           = 
+| map               = 
+| map_size          = 
+| map_caption       = 
+}}

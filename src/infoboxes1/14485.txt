@@ -1,0 +1,59 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Novo Brdo
+| native_name                     = {{unbulleted list |item_style=font-size:81%; | Ново Брдо / {{native name|sr|Novo Brdo}}<br />''Novobërda'' or ''Novobërdë'',<br/>''Artana'' or {{native name|sq|Artanë}} }}
+| official_name                   = 
+| settlement_type                 = [[Municipalities of Kosovo|Municipality]]
+| other_name                      = <!-- images and maps  ----------->
+| image_skyline                   = File:NovoBrdoKosovoAbove.jpg
+| imagesize                       = 
+| image_caption                   = View on Novo Brdo
+| image_flag                      = 
+| image_seal                      = Stema e Komunës Novobërdë.svg
+| image_shield                    = 
+| image_map                       = File:Novoberda in Kosovo.svg
+| mapsize                         = 
+| map_caption                     = Location of the municipality of Novo Brdo
+| pushpin_map                     = 
+| pushpin_label_position          = 
+| pushpin_map_caption             = 
+| subdivision_type                = Country
+| subdivision_name                = [[Kosovo]]{{efn|name=status}}
+| subdivision_type1               = [[Districts of Kosovo|District]]
+| subdivision_name1               = [[District of Pristina|Pristina]]
+| government_footnotes            = 
+| government_type                 = 
+| leader_title                    = Provisional president
+| leader_party                    = [[Serb List (Kosovo)|GIS]]
+| leader_name                     = Svetislav Ivanović
+| established_title               = 
+| established_date                = <!-- Area    --------------------->
+| area_magnitude                  = 
+| unit_pref                       = 
+| area_footnotes                  = 
+| area_total_km2                  = 204.25
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_metro_km2                  = <!-- Population   ----------------------->
+| population_as_of                = 2011
+| population_total                = 6729
+| population_density_km2          = auto
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+| coordinates                     = {{coord|42|36|N|21|26|E|region:{{Xb|KOS}}|display=inline,title}}
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+| elevation_m                     = 946
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code                     = 16000
+| area_code                       = +381(0)38
+| registration_plate              = [[Vehicle registration plates of Kosovo|01]]
+| website                         = {{URL|http://kk.rks-gov.net/novoberde}}
+| footnotes                       = 
+| parts                           = 26
+| parts_type                      = Settlements
+| population_est                  = 7121
+| pop_est_as_of                   = 2020
+}}

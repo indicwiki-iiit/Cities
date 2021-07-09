@@ -1,0 +1,45 @@
+{{Infobox Australian place 
+| type               = city
+| name               = Melbourne 
+| state              = vic <!-- "vic" codes as "Victoria (Australia)". Please leave it as "vic" or else it will point to a disambig page -->
+| image              = Melbourne montage 2019.jpg
+| caption            = From top, left to right: [[Flinders Street railway station|Flinders Street Station]], [[Shrine of Remembrance]], [[Federation Square]], [[Melbourne Cricket Ground]], [[Royal Exhibition Building]], the Melbourne skyline.
+| coordinates        = {{coord|37|48|49|S|144|57|47|E|display=inline,title}}
+| force_national_map = yes
+| image2             = Free printable and editable vector map of Melbourne Australia.svg
+| image2_alt         = Map of Melbourne, Australia, printable and editable
+| caption2           = Map of Melbourne, Australia, printable and editable
+| pop                = 5,159,211 <!-- Please do not change the population figure without discussing it on the
+                                      talk page first. The 5 million figure is an approximation published by
+                                      local media, not an accurate population measurement. (See talk page) -->
+| pop_year           = 2020
+| pop_footnotes      = <ref name="ABSERP19">{{cite web|title=3218.0 – Regional Population Growth, Australia, 2018–19, ESTIMATED RESIDENT POPULATION – States and Territories - Greater Capital City Statistical Areas, 30 June 2019 |date=25 March 2020|url=http://www.abs.gov.au/ausstats/abs@.nsf/mf/3218.0|publisher=[[Australian Bureau of Statistics]] |access-date=25 March 2020}}</ref>
+| poprank            = 2nd
+| density            = 
+| density_footnotes  = 
+| established        = {{start date and age|1835|8|30|df=y}}
+| elevation          = 31
+| area               = 9993
+| area_footnotes     = (GCCSA)<ref>https://www.censusdata.abs.gov.au/CensusOutput/copsub2016.NSF/All%20docs%20by%20catNo/2016~Community%20Profile~2GMEL/$File/GCP_2GMEL.zip?OpenElement</ref>
+| timezone           = [[Australian Eastern Standard Time|AEST]]
+| utc                = +10
+| timezone-dst       = [[Australian Eastern Daylight Time|AEDT]]
+| utc-dst            = +11
+| dist1              = 465
+| location1          = [[Canberra]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=131&placename=canberra&placetype=0&state=ACT&place1=MELBOURNE&place1long=144.975555&place1lat=-37.817661|title=Great Circle Distance between MELBOURNE and CANBERRA|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist2              = 654
+| location2          = [[Adelaide]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=163285&placename=adelaide&placetype=0&state=SA+&place1=MELBOURNE&place1long=144.975555&place1lat=-37.817661|title=Great Circle Distance between MELBOURNE and ADELAIDE|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist3              = 713
+| location3          = [[Sydney]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=87421&placename=sydney&placetype=0&state=NSW&place1=MELBOURNE&place1long=144.975555&place1lat=-37.817661|title=Great Circle Distance between MELBOURNE and SYDNEY|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist4              = 1374
+| location4          = [[Brisbane]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867&placename=brisbane&placetype=0&state=QLD&place1=MELBOURNE&place1long=144.975555&place1lat=-37.817661|title=Great Circle Distance between MELBOURNE and BRISBANE|publisher=Geoscience Australia|date=March 2004}}</ref>
+| dist5              = 2721
+| location5          = [[Perth]]<ref>{{cite web|url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=304529&placename=perth&placetype=0&state=WA+&place1=MELBOURNE&place1long=144.975555&place1lat=-37.817661|title=Great Circle Distance between MELBOURNE and PERTH|publisher=Geoscience Australia|date=March 2004}}</ref>
+| lga                = [[Local Government Areas of Victoria#Municipalities of Greater Melbourne|31 Municipalities across Greater Melbourne]]
+| county             = [[County of Grant, Victoria|Grant]], [[County of Bourke, Victoria|Bourke]], [[County of Mornington|Mornington]]
+| stategov           = [[:File:Vic_Melbourne_Metro_state_districts_2014.png|55 electoral districts and regions]]
+| fedgov             = [[:File:Map4.gif|23 Divisions]]
+| maxtemp            = 20.4
+| mintemp            = 11.4
+| rainfall           = 602.6
+}}

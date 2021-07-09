@@ -1,0 +1,29 @@
+{{Infobox settlement|
+official_name=Belene|
+native_name=Белене|
+settlement_type=Town|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+|image_skyline = Belene, Bulgaria.jpg
+<!-- Location ------------------>
+|subdivision_type       = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]|
+
+subdivision_type1= [[Provinces of Bulgaria|Province]] (Oblast)|
+subdivision_name1=Pleven |
+population_total=8,905|population_footnotes=<ref name="statistika"/>|
+population_as_of=December 2009|
+unit_pref=Imperial
+|
+elevation_m=27|
+timezone=[[Eastern European Time]]|utc_offset=+2|timezone_DST=[[Eastern European Summer Time]]|utc_offset_DST=+3|
+postal_code_type=[[List of postal codes in Bulgaria|Postal code]]|
+postal_code=5930|
+area_code=0658
+|coordinates            = {{coord|43|39|N|25|7|E|region:BG|display=inline,title}}
+|
+leader_title=Mayor|leader_name=Milen Dulev|
+website = http://belene.bg/|
+}}

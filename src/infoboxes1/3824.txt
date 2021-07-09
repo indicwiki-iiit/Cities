@@ -1,0 +1,84 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+|settlement_type        = City & Municipality
+|official_name          = Potosí
+|native_name            = Putusi
+|nickname               = {{lang|es|Villa Imperial}}
+<!-- images and maps  ----------->
+| image_skyline                   = {{Photomontage
+| photo1a = Casa de la Moneda de Potosí (Bolivia).jpg
+| photo2a = 20170807 Bolivia 1373 crop Potosí sRGB (37270469644).jpg
+| photo2b = Potosí con la Catedral basílica al fondo.jpg
+| photo3a = Vista panorámica de Potosí.jpg
+| photo4a = Potosí (168739785).jpeg
+| photo4b = Calle principal de Potosí.jpg
+| size    = 260
+| spacing = 1
+| color   = transparent
+| border  = 0}}
+|imagesize              = 
+|image_caption          = View of Potosí
+|image_flag             = Flag of Potosí.svg
+|flag_size              = 100px
+|image_shield           = Coat of Arms of Potosi (Bolivia).svg
+|shield_size            = 100px
+|coordinates            = {{coord|19|35|S|65|45|W|region:BO|display=inline,title}}
+|pushpin_map            = Bolivia#South America <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_relief         = 1
+|pushpin_map_caption    = Location in Bolivia
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Bolivia]]
+|subdivision_type1      = [[Departments of Bolivia|Department]]
+|subdivision_name1      = [[Potosí Department|Potosí]]
+|subdivision_type2      = [[Provinces of Bolivia|Province]]
+|subdivision_name2      = [[Tomás Frías Province|Tomás Frías]]
+|subdivision_type3      = [[Municipalities of Bolivia|Municipality]]
+|subdivision_name3      = [[Potosí Municipality]]
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           = Mayor
+|leader_name            = Jhonny Llally ([[Popular Civic Movement|MPC]])<ref>{{Cite web|title=Jhonny Llally es el nuevo alcalde de Potosí|url=https://www.paginasiete.bo/nacional/2021/3/9/jhonny-llally-es-el-nuevo-alcalde-de-potosi-286858.html|access-date=2021-05-09|website=www.paginasiete.bo|language=spanish}}</ref>
+|established_title      = Founded
+|established_date       = April 1, 1545
+<!-- Area    --------------------->
+|area_total_km2         = 118.218
+|area_land_km2            =
+|area_water_km2           =
+|area_total_sq_mi         = 45.6
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_sq_mi         =
+|area_metro_sq_mi         =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of       = 2020 Estimate
+|population_footnotes   = <ref>{{cite web|url=http://www.world-gazetteer.com/wg.php?x=1&men=gcis&lng=en&des=gamelan&geo=-38&col=abcdefghinoq&msz=1500&pt=c&va=&srt=pnao|title=World Gazetteer|archive-url=https://archive.is/20130111125234/http://www.world-gazetteer.com/wg.php?x=1&men=gcis&lng=en&des=gamelan&geo=-38&col=abcdefghinoq&msz=1500&pt=c&va=&srt=pnao|archive-date=2013-01-11|url-status=dead}}</ref>
+|population_note        =
+|population_urban       = 264,402
+|population_metro       =
+|population_density_km2 = auto
+<!-- General information  --------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 4090
+|timezone               = [[UTC]]-4
+|utc_offset             =
+| footnotes                       = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = City of Potosí
+   | designation1_date =1987 <small>(11th [[World Heritage Committee|session]])</small>
+   | designation1_type = Cultural
+   | designation1_criteria = ii, iv, vi
+   | designation1_number = [http://whc.unesco.org/en/list/420/ 420]
+   | designation1_free1name = State Party
+   | designation1_free1value = Bolivia
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in North America|Latin America and the Caribbean]]
+ | designation1_free3name   = [[List of World Heritage in Danger|Endangered]]
+ | designation1_free3value  = {{start date|2014}}–present
+  }}
+|website                = {{Official URL}}
+}}

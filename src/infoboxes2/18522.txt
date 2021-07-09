@@ -1,0 +1,77 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Alga
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = <!--For Town or Village (Leave blank for the default City)-->town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|pushpin_map            = Kazakhstan#Asia <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    =Location in Aktobe Province, Kazakhstan
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Kazakhstan]]
+|subdivision_type1      = [[Regions of Kazakhstan|Region]]
+|subdivision_name1      = [[Aktobe Region]]
+|subdivision_type2      = [[Districts of Kazakhstan|District]]
+|subdivision_name2      = 
+|subdivision_type3      = 
+|subdivision_name3      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 1961
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_metro_km2           =
+<!-- Population   ----------------------->
+|population_as_of               = 2009
+|population_footnotes           =<ref name="kz2009Census"/>
+|population_note                =
+|population_total               = 19 705
+|population_density_km2         =
+<!-- General information  --------------->
+|timezone               = [[Yekaterinburg Time]] 
+|utc_offset             = +5
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|49|54|10|N|57|20|0|E|region:KZ_type:city|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 270
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            = 030200
+|area_code              = +7 71337
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

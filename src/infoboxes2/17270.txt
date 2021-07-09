@@ -1,0 +1,68 @@
+{{Infobox settlement
+|official_name            = Municipality of Penn Hills
+|settlement_type          = [[Township (Pennsylvania)|Township]] with [[Home Rule Municipality (Pennsylvania)|home rule]]
+|nickname                 = 
+|motto                    = “A Home Rule Community”
+
+<!-- Images -->
+|image_flag               = 
+|image_seal               = Penn_Hills_logo.png
+|image_skyline            = LongueVueClubandGolfCourse.jpg
+|imagesize                = 
+|image_caption            = [[Longue Vue Club and Golf Course]], founded in 1920
+
+<!-- Maps -->
+|image_map                = Allegheny County Pennsylvania incorporated and unincorporated areas Penn Hills township highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Allegheny County, Pennsylvania|Allegheny County]] and state of [[Pennsylvania]]
+
+<!-- Location -->
+| subdivision_type = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Pennsylvania]]
+|subdivision_type2        = [[List of counties in Pennsylvania|County]]
+|subdivision_name2        = [[Allegheny County, Pennsylvania|Allegheny]]
+|government_footnotes     = 
+|government_type          = [[Home Rule Municipality (Pennsylvania)|Home Rule Municipality]]
+|established_title        = [[Municipal Corporation|Incorporated]]
+|established_date         = 1850
+
+<!-- Area -->
+|unit_pref  = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_42.txt|publisher=United States Census Bureau|access-date=Aug 13, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 50.13
+|area_land_km2            = 49.52
+|area_water_km2           = 0.62
+|area_total_sq_mi         = 19.36
+|area_land_sq_mi          = 19.12
+|area_water_sq_mi         = 0.24
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 42329
+|population_density_km2   = 839.24
+|population_density_sq_mi = 2173.61
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset = &minus;5
+|timezone_DST             = EDT
+|utc_offset_DST = &minus;4
+|elevation_footnotes      = 
+|elevation_m              = 
+|elevation_ft             = 
+|coordinates              = {{coord|40|28|34|N|79|50|0|W|region:US-PA_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 15147, 15235
+|area_code                = [[Area code 412|412]], [[Area code 878|878]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 42-003-59032
+|website                  = http://www.pennhills.org
+|footnotes                = 
+|pop_est_as_of = 2018
+|pop_est_footnotes = <ref name="USCensusEst2018"/>
+|population_est = 40974
+}}

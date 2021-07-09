@@ -1,0 +1,35 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| official_name          = Techiman
+| native_name            = <!-- for cities whose native name is not in English -->
+| other_name             = 
+| settlement_type        = Town <!--For Town or Village (Leave blank for the default City)-->
+| nickname               = 
+| motto                  =
+<!-- images and maps  ----------->
+| pushpin_map            = Ghana<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location of Techiman, Capital of [[Bono East Region]], Ghana
+<!-- Location ------------------>
+| coordinates            = {{coord|07|34|38|N|01|55|45|W|region:GH-BE|display=inline,title}}
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Ghana}}
+| subdivision_type1      = Region
+| subdivision_name1      = [[Bono East Region]]
+| subdivision_type2      = District
+| subdivision_name2      = [[Techiman Municipal District|Techiman Municipal]]
+| elevation_footnotes    =<ref>http://www.daftlogic.com/</ref> <!--for references: use tags-->
+| elevation_m            =
+<!-- Population   ----------------------->
+| population_footnotes   = 
+| population_total       = 104,212<ref name="World Gazetteer">{{cite web |url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com }}</ref>
+| population_as_of       = 2013
+| population_density_km2 = 
+| population_note        =
+<!-- General information  --------------->
+| timezone               = [[Greenwich Mean Time|GMT]]
+| utc_offset             = 
+| timezone_DST           = [[Greenwich Mean Time|GMT]]
+| utc_offset_DST         = 
+}}

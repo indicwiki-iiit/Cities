@@ -1,0 +1,97 @@
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|name                     = Diamond Bar, California
+|settlement_type          = [[City (California)|City]]
+|other_name               = 
+|official_name            = City of Diamond Bar
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|motto                    = 
+|image_skyline            = Diamond Bar City Hall 20141215.JPG
+|imagesize                = 
+|image_caption            = Diamond Bar City Hall in 2014, during the 25th anniversary celebration
+|image_flag               = Diamond_Bar_CA_Flag.gif
+|flag_size                = 
+|image_seal               = 
+|seal_size                = 
+|image_map                = File:Los Angeles County California Incorporated and Unincorporated areas Diamond Bar Highlighted 0619192.svg
+|map_caption              = Location of Diamond Bar in Los Angeles County, California
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States|size=23px}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{Flag|California|size=23px}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = {{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = Nancy A. Lyons<ref name=cc>{{Cite web
+ | url = https://www.diamondbarca.gov/716/Mayor-Nancy-A-Lyons
+ | title = Council Members
+ | publisher = City of Diamond Bar
+ | access-date = December 16, 2014
+ | archive-url = https://web.archive.org/web/20150206032017/http://cityofdiamondbar.com/index.aspx?page=281
+ | archive-date = February 6, 2015
+ | url-status = dead
+ }}</ref>
+|leader_title1            = <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1             = 
+|established_title        = <!-- Founded -->
+|established_date         = 
+|established_title3       = [[Municipal corporation|Incorporated]]
+|established_date3        = April 18, 1989<ref>{{Cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=August 25, 2014 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+}}</ref>
+<!-- Area------------------>
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 14.88
+| area_land_sq_mi         = 14.87
+| area_water_sq_mi        = 0.01
+| area_total_km2          = 38.53
+| area_land_km2           = 38.51
+| area_water_km2          = 0.01
+| area_water_percent      = 0.04
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1660549|Diamond Bar|access-date=February 26, 2015}}</ref>
+|elevation_ft             = 696
+|elevation_m              = 212
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = <ref name=quif>{{Cite web|url=http://quickfacts.census.gov/qfd/states/06/0619192.html|title=Diamond Bar (city) QuickFacts|publisher=[[United States Census Bureau]]|access-date=March 15, 2015|archive-url=https://web.archive.org/web/20150718013439/http://quickfacts.census.gov/qfd/states/06/0619192.html|archive-date=July 18, 2015|url-status=dead}}</ref>
+|population_total         = 55544
+|pop_est_as_of            = 2019
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est           = 55720
+|population_density_sq_mi = 3747.14
+|population_density_km2   = 1446.81
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+<!-- Time zones ----------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|coordinates              = {{coord|34|0|6|N|117|49|15|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 91765,<ref>{{cite web | url = http://zip4.usps.com/zip4/zcl_1_results.jsp?visited=1&pagenumber=0&state=ca&city=Diamond%20Bar | title = USPS – ZIP Code Lookup – Find a ZIP+ 4 Code By City Results | access-date = 2007-01-18}}</ref> 91789 (91789 is shared with [[Walnut, CA]])
+|area_code_type           = [[North American Numbering Plan|Area code]]<ref>{{cite web | url = http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Diamond%20Bar | title = Number Administration System – NPA and City/Town Search Results | access-date = 2007-01-18 | archive-url = https://web.archive.org/web/20070926212527/http://www.nanpa.com/nas/public/npa_city_query_step2.do?method=displayData&cityToNpaModel.stateAbbr=CA&cityToNpaModel.city=Diamond%20Bar | archive-date = 2007-09-26 | url-status = dead }}</ref>
+|area_code                = [[Area code 909|909]]
+|blank_name               = [[Federal Information Processing Standards|FIPS]] code
+|blank_info               = {{FIPS|06|19192}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs
+|blank1_info              = {{GNIS 4|1660549}}, {{GNIS 4|2410334}}
+|named_for                = Diamond Bar Ranch
+|website                  = {{URL|https://www.diamondbarca.gov/}}
+}}

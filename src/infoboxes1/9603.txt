@@ -1,0 +1,22 @@
+{{Infobox islands
+|name = Farasan Islands
+|country_largest_city = Farasan
+|postal_code=88XXX
+|utc_offset=+3
+|timezone = [[Arabian Standard Time|AST]]
+|country_admin_divisions_title_1 = Governorate
+|island_type = [[Coral island|Coral]]
+|country_largest_city_type = city
+|country_admin_divisions = [[Jazan Region|Jazan Province]]
+|native_name = {{Nobold|{{lang|ar|جزر فرسان}}}}
+|country_admin_divisions_title = Province
+|country={{flag|Saudi Arabia}}
+|coordinates = {{Coord|16|48|00|N|41|51|00|E|type:isle|display=inline,title}}
+|pushpin_map = Saudi Arabia
+|pushpin_label_position = top
+|pushpin_relief = 1
+|image_caption = The Farasan Islands viewed from the [[International Space Station|ISS]]
+|image=ISS-42 Red Sea in the Middle East.jpg
+|native_name_lang=ar 
+|total_islands=176
+}}

@@ -1,0 +1,34 @@
+{{Infobox mountain
+| name = Mount Yoshino
+| native_name = 吉野山
+| native_name_lang = ja
+| photo = Cherry blossoms at Yoshinoyama 02.jpg
+| photo_caption = Cherry blossoms at Mount Yoshino
+| elevation = 
+| prominence = 
+| listing = 
+| language = [[Japanese language|Japanese]]
+| location = [[Yoshino, Nara|Yoshino-cho]], [[Yoshino District, Nara|Yoshino-gun]], [[Nara Prefecture|Nara]], [[Japan]]
+| range = 
+| coordinates = 
+| topo = 
+| type = spikey mountain 
+| age = 
+| last_eruption = 
+| first_ascent = 420 BC
+| easiest_route = 
+| embedded = {{Infobox UNESCO World Heritage Site
+| child         = yes
+| official_name = Yoshino and Ômine - Yoshinoyama
+| part_of       = [[Sacred Sites and Pilgrimage Routes in the Kii Mountain Range]]
+| criteria      = {{UNESCO WHS type|(ii), (iii), (iv), (vi)}}(ii), (iii), (iv), (vi)
+| ID            = 1142bis-001
+| coordinates   = {{coord|34|21|24|N|135|52|14|E|region:JP-19|display=title, inline|format=dms}}
+| year          = 2004
+| extension     = 2016
+| area          = {{convert|33.7|ha|acre|abbr=on}}
+| buffer_zone   = {{convert|916|ha|acre|abbr=on}}
+| locmapin      = Japan
+| map_caption   = 
+}}
+}}

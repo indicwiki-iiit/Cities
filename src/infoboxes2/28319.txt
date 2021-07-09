@@ -1,0 +1,73 @@
+{{Infobox settlement
+|official_name            = Firthcliffe, New York
+|settlement_type          = [[Census-designated place|CDP]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+||pushpin_map            =New York
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location within the state of New York
+|image_map                = Orange County New York incorporated and unincorporated areas Firthcliffe highlighted.svg
+|mapsize                  = 260px
+|map_caption              = Location in [[Orange County, New York|Orange County]] and the state of [[New York (state)|New York]].
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Orange County, New York|Orange]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 7.9
+|area_land_km2            = 7.8
+|area_water_km2           = 0.1
+|area_total_sq_mi         = 3.0
+|area_land_sq_mi          = 3.0
+|area_water_sq_mi         = 0.0
+
+<!-- Population -->
+|population_as_of         = [[United States Census, 2010|2010]]
+|population_footnotes     = 
+|population_total         = 4,949
+|population_density_km2   = 
+|population_density_sq_mi =
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 91
+|elevation_ft             = 299
+|coordinates              = {{coord|41|26|24|N|74|2|2|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 36-25857
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0950117
+|website                  = 
+|footnotes                = 
+}}

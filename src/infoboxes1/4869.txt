@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+<!-- Name and transliteration -->
+| name                    = Liberia
+| settlement_type         = [[Districts of Costa Rica|District]]
+<!-- Images, nickname, motto -->
+| image_skyline           = {{Photomontage|position=center
+| photo1a = Liberia, Costa Rica - Church.png
+| photo1b = Liberia (Costa Rica).jpg
+| photo2a = Liberia, Costa Rica - Airplane taking off from international airport.png
+| photo3a = Liberia, Costa Rica - Chorotega.png
+| photo3b = Monument in Parque Mario Cañas Ruiz, Liberia, Costa Rica.JPG
+   | size = 260
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+   | foot_montage = Images, from top down, left to right: Immaculate Church of Concepcion de Maria, Central Park, [[Daniel Oduber Quirós International Airport]], the Chorotega, Mario Cañas Ruiz Park Monument.}}
+| image_alt               =
+| image_caption           = 
+| image_flag              = 
+| flag_size               = 
+| flag_alt                =
+| image_shield            = Liberia.canton.gif
+| shield_size             = 100x80px
+| shield_alt              =
+| nickname                = 
+| motto                   = De la patria por nuestra voluntad{{nbsp|2}}<small>([[Spanish language|Spanish]])<br/>''"From The Homeland Out of Our Own Will"''</small>
+|image_map              = {{maplink|frame=yes|plain=yes|frame-align=center|type=shape|title=Liberia district}}
+|map_caption            = Liberia district
+|pushpin_map             = Costa Rica
+|pushpin_map_caption     = Location of Liberia within Costa Rica
+| coordinates             = {{coord|10|38|N|85|26|W|display=inline,title}}
+| coor_pinpoint           = 
+| coordinates_footnotes   = 
+| subdivision_type        = Country
+| subdivision_name        = [[Costa Rica]]
+| subdivision_type1       = [[Provinces of Costa Rica|Province]]
+| subdivision_name1       = [[Guanacaste Province|Guanacaste]]
+| subdivision_type2       = [[Cantons of Costa Rica|Canton]]
+| subdivision_name2       = [[Liberia (canton)|Liberia]]
+| subdivision_type3       = 
+| subdivision_name3       = 
+| established_title       = Founded
+| established_date        = 1836
+| founder                 = 
+| seat_type               = 
+| seat                    = 
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric<!-- or US or UK -->
+<!-- ALL fields with measurements have automatic unit conversion -->
+<!-- for references: use <ref> tags -->
+| area_footnotes          = 
+| area_urban_footnotes    = <!-- <ref> </ref> -->
+| area_rural_footnotes    = <!-- <ref> </ref> -->
+| area_metro_footnotes    = <!-- <ref> </ref> -->
+| area_magnitude          = <!-- <ref> </ref> -->
+| area_note               = 
+| area_water_percent      = 
+| area_rank               = 
+| area_blank1_title       = 
+| area_blank2_title       = 
+<!-- square kilometers -->
+| area_total_km2          = 561.57
+| area_land_km2           = 
+| area_water_km2          = 
+| area_urban_km2          = 
+| area_rural_km2          = 
+| area_metro_km2          = 
+| area_blank1_km2         = 
+| area_blank2_km2         = 
+| elevation_footnotes     = 
+| elevation_m             = 144
+| population_footnotes    = 
+| population_total        = 53382
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_demonym      = Liberiano
+| population_note         = 
+| timezone1               = [[UTC−06:00]]
+| utc_offset1             = 
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| postal_code_type        = Postal code
+| postal_code             = 50101
+| area_code_type          = 
+| area_code               = 
+| iso_code                = 
+| website                 = <!-- {{URL|example.com}} -->
+| footnotes               = 
+}}

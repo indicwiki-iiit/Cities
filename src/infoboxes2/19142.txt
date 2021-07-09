@@ -1,0 +1,79 @@
+{{Infobox settlement
+|official_name            = Norton Shores, Michigan
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Muskegon_County_Michigan_Incorporated_and_Unincorporated_areas_Norton_Shores_Highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Norton Shores, Michigan
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Michigan]]
+|subdivision_type2        = [[List of counties in Michigan|County]]
+|subdivision_name2        = [[Muskegon County, Michigan|Muskegon]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Gary Nelund
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 63.78
+|area_land_km2            = 60.20
+|area_water_km2           = 3.58
+|area_total_sq_mi         = 24.63
+|area_land_sq_mi          = 23.24
+|area_water_sq_mi         = 1.38
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 24664
+|pop_est_as_of            = 2019
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 23994
+|population_density_km2   = 409.70
+|population_density_sq_mi = 1061.14
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 187
+|elevation_ft             = 614
+|coordinates              = {{coord|43|10|08|N|86|15|50|W|region:US-MI_type:city_source:GNIS|display=inline}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 49441
+|area_code                = [[Area code 231|231]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 26-59140<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0633743<ref>{{gnis|0633743}}</ref>
+|website                  = http://www.nortonshores.org
+|footnotes                = 
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+}}

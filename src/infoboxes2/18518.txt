@@ -1,0 +1,50 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|settlement_type       = [[List of cities and towns of Hungary|Town]]
+<!-- General information -->
+|name                  = Ajka
+|native_name           = 
+|official_name         = 
+|other_name            = 
+|subdivision_type      = [[Countries of the world|Country]]
+|subdivision_name      = {{HUN}}
+<!-- Images and maps -->
+|image_skyline         = Templomdomb, Ajka.jpg
+|image_caption         = Aerial view
+|image_shield          = HUN Ajka Címer.svg
+|image_flag            = Flag of Ajka.svg
+|pushpin_map           = Hungary#Europe
+|pushpin_relief         = 1
+|pushpin_label_position= <!-- the position of the pushpin label: left, right, top, bottom, none -->
+<!-- Political information -->
+|subdivision_type1     = [[Counties of Hungary|County]]
+|subdivision_name1     = [[Veszprém County|Veszprém]]
+|subdivision_type2     = [[Districts of Hungary|District]]
+|subdivision_name2     = [[Ajka District|Ajka]]
+|diocese               = 
+|rank                  = 
+|ksh_code              = 
+|mayor                 = 
+<!-- Geographic information -->
+|area_total_km2        = 95.05
+|area_urban_km2        = 
+|area_metro_km2        = 
+|area_magnitude        = 
+|coordinates           = {{coord|47.1006|17.5522|region:HU|display=inline}}
+|elevation_m           = 
+|elevation_min_m       = 
+|elevation_max_m       = 
+<!-- Demographic information -->
+|population_total      = 29058
+|population_urban      = 
+|population_metro      = 
+|population_as_of      = 2012
+|population_footnotes  = 
+<!-- Codes, website, ... -->
+|postal_code_type      = [[Postal codes in Hungary|Postal code]]
+|postal_code           = 8400
+|area_code_type        = [[Telephone numbers in Hungary|Area code]]
+|area_code             = (+36) 88
+|blank_info            = 
+|footnotes             = 
+|website               = {{URL|https://www.ajka.hu/}}
+}}

@@ -1,0 +1,45 @@
+{{Infobox Australian place
+| type         = city
+| name         = Mildura
+| state        = vic
+| image        = LangreeAvenueMildura 2007.jpg
+| caption      = Langtree Avenue, Mildura
+| coordinates  = {{coord|34|11|20|S|142|09|30|E|display=inline,title}}
+| pop          = 32738
+| pop_year     = {{CensusAU|2016}}
+| pop_footnotes = <ref name="ABSCensusUCL">{{Census 2016 AUS|id=UCL212001 |name=Mildura - Buronga (Mildura Part)|accessdate=1 November 2017|quick=on}}</ref>
+| poprank      =
+| pop2         = 51903
+| pop2_year    = 2018
+| pop2_footnotes = <ref name=ABSSUA/> 
+| density      =
+| elevation    = 51
+| area         =
+| timezone     = [[UTC10|AEST]]
+| utc          = +10
+| timezone-dst = [[UTC11|AEDT]]
+| utc-dst      = +11
+| dist1        = 400
+| location1    = Adelaide
+| dist2        = 550
+| location2    = Melbourne
+| dist3       = 425
+| location3    = Bendigo 
+| lga          = [[Rural City of Mildura]]
+| region       = Sunraysia
+| county = [[County of Karkarooc|Karkarooc]]
+| stategov     = [[Electoral district of Mildura|Mildura]]
+| fedgov       = [[Division of Mallee|Mallee]]
+| maxtemp      = 23.9
+| mintemp      = 10.4
+| rainfall     = 289.6
+| near-n   = [[Dareton]]
+| near-ne  = [[Buronga, New South Wales|Buronga]]
+| near-e   = [[Nichols Point, Victoria|Nichols Point]]
+| near-se  = [[Irymple, Victoria|Irymple]]
+| near-s   = [[Irymple, Victoria|Irymple]]
+| near-sw  = [[Koorlong, Victoria|Koorlong]]
+| near-w   = [[Cabarita, Victoria|Cabarita]]
+| near-nw  = [[Birdwoodton, Victoria|Birdwoodton]]
+| est          = 1887
+}}

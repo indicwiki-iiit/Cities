@@ -1,0 +1,31 @@
+{{Infobox settlement
+|official_name          = Ayrum
+|native_name            = Այրում 
+|image_skyline          = Ayrum town.jpg
+|image_caption          = A view of Ayrum
+|pushpin_map            = Armenia
+|mapsize                = 150px
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = {{flag|Armenia}}
+|subdivision_type1      = [[Administrative divisions of Armenia|Province]]
+|subdivision_name1      = [[Tavush Province|Tavush]]
+|leader_title           = Mayor
+|leader_name            = 
+|established_title      = Founded
+|established_date       = 1937
+|area_total_km2         = 1.3
+|area_footnotes         = 
+|population_footnotes   = <ref name="2011census">{{Cite web|url=http://armstat.am/file/doc/99484283.pdf|title=2011 Armenia census, Tavush Province|author=[[Statistical Committee of Armenia]]}}</ref>
+|population_as_of       = [[Census in Armenia|2011]]
+|population_total       = 2,126
+|population_density_km2 = auto
+|timezone               = [[Armenia Time|AMT]] 
+|utc_offset             = +4
+|timezone_DST           =
+|utc_offset_DST         = 
+|coordinates            = {{coord|41|11|42|N|44|53|33|E|region:AM|display=inline}}
+|elevation_m            = 550 
+|area_code              = 
+|website                = 
+|footnotes              = {{GEOnet2|32FA881E72CC3774E0440003BA962ED3}}
+}}

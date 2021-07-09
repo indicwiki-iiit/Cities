@@ -1,0 +1,25 @@
+{{Infobox settlement
+|name                    = Al-'Uyayna
+|native_name             = {{lang|ar|العيينة}}
+|settlement_type         = Village
+|image_skyline           = Al Oyainah 01.JPG
+|imagesize               = 
+|image_alt               = 
+|image_caption           = 
+|etymology               = 
+|nickname                = 
+|pushpin_map             = Saudi Arabia 
+|pushpin_map_alt         = 
+|pushpin_map_caption     = 
+|pushpin_label_position  = 
+|pushpin_relief          = yes
+|coordinates             = {{coord|24|54|19|N|46|23|29|E|display=inline,title}}
+|population_total        = 
+|subdivision_type        = Country
+|subdivision_name        = {{KSA}}
+|subdivision_type1       = [[Provinces of Saudi Arabia|Province]]
+|subdivision_name1       = [[Riyadh Province]]
+|subdivision_type2       = [[List of governorates of Saudi Arabia|Governorate]]
+|subdivision_name2       = [[Diriyah Governorate|Diriyah]]
+|website                 = <!-- {{URL|example.com}} -->
+}}

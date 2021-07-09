@@ -1,0 +1,30 @@
+{{Infobox waterfall
+| name =  Victoria Falls
+| alt_name = Mosi-oa Tunya<br>Shungu Namutitima
+| photo = Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_06.jpg
+| photo_width = 240
+| location = [[Livingstone, Zambia]]<br />[[Victoria Falls, Zimbabwe]]<ref name="nationalgeographic.co.uk">{{Cite web|url=https://www.nationalgeographic.co.uk/travel/2019/03/soar-above-one-most-awe-inspiring-waterfalls-earth|title=Soar Above One of the Most Awe-Inspiring Waterfalls on Earth|date=19 March 2019|website=National Geographic|language=en|access-date=9 June 2020}}</ref>
+| coords = {{coord|17|55|28|S|25|51|24|E |type:waterbody_scale:60000_region:ZM |display=inline,title}}
+| map = Africa Zambezi River
+|relief = yes
+| map_caption = Location on the Zambezi
+| watercourse = [[Zambezi River]]
+| embedded = {{designation list | embed=yes
+   | designation1 = WHS
+   | designation1_offname = Mosi-oa-Tunya / Victoria Falls
+   | designation1_date = 1989 <small>(13th [[World Heritage Committee|session]])</small>
+   | designation1_type = Natural
+   | designation1_criteria = vii, viii
+   | designation1_number = [https://whc.unesco.org/en/list/509 509]
+   | designation1_free1name = State Party
+   | designation1_free1value = [[Zambia]] and [[Zimbabwe]]
+   | designation1_free2name = Region
+   | designation1_free2value = [[List of World Heritage Sites in Africa|Africa]]
+}}
+| type = Cataract waterfall
+| height = {{convert|355|ft|abbr=on|order=flip}} (at centre)
+| height_longest =
+| number_drops = 2
+| average_flow = 1088 m<sup>3</sup>/s (38,430 cu ft/s)
+| world_rank =
+}}

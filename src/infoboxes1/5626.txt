@@ -1,0 +1,132 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+|name = {{raise|0.2em|Taizhou}}
+|official_name          = 
+|other_name             = The Cieu 
+|native_name            ={{lower|0.1em|台州市}}
+|native_name_lang = zh
+|nickname               = 
+|settlement_type        =[[Prefecture-level city]]
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Taizhou City 01.jpg
+|imagesize              = 
+|image_caption          = View of Taizhou
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}
+|image_map1             = ChinaZhejiangTaizhou.png
+|mapsize1               =  
+|map_caption1           = Location of Taizhou City in Zhejiang
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = China
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in China
+|pushpin_mapsize        = 240
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[People's Republic of China]]
+|subdivision_type1      = [[Province of China|Province]]
+|subdivision_name1      = [[Zhejiang]]
+|subdivision_type2      = [[Administrative divisions of the People's Republic of China#County level|County-level divisions]]
+|subdivision_name2      =  9
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      = 
+|seat_type              = Municipal seat
+|seat                   = [[Jiaojiang District]]
+|parts_type             =
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|p1                     =
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =CPC Secretary
+|leader_name            =Li Yueqi({{lang|zh-hans|李跃旗}})
+|leader_title1          =[[Mayor]]
+|leader_name1           =Wu Haiping ({{lang|zh-hans|吴海平}})
+|leader_title2          =
+|leader_name2           =
+<!-- Basic info  ---------------->
+
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title1     =  <!-- Incorporated (town) -->
+|established_date1      = 
+|established_title2     = <!-- Incorporated (city) --> 
+|established_date2      = 
+|established_title3     =  
+|established_date3      =
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|area_magnitude         = <!-- use only to set a special wikilink --> 
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = 9411<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           = 
+|area_water_percent       =
+|area_urban_km2           =1536
+|area_metro_km2           =2372
+|area_blank1_title        =
+|area_blank1_km2          =
+<!-- Elevation -------------------------->
+|elevation_footnotes    = <ref name=tz/>
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 1382
+|elevation_min_m            = 0
+<!-- Population   ----------------------->
+|population_as_of               =2010 census<ref>{{Cite web|url=https://www.citypopulation.de/en/china/zhejiang/admin/|title=China: Zhèjiāng (Prefectures, Cities, Districts and Counties) - Population Statistics, Charts and Map|website=www.citypopulation.de}}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               =5968838
+|population_density_km2         =auto<!--For automatic calculation, any density field may contain: auto -->
+|population_metro               =3269304
+|population_density_metro_km2   =auto
+|population_urban               =1902510
+|population_density_urban_km2   =auto 
+|population_blank1_title        =
+|population_blank1              =
+|population_density_blank1_km2 =   
+<!-- General information  --------------->
+|timezone               = [[China Standard Time|China Standard]]
+|utc_offset             = +8
+|coor_pinpoint = Taizhou municipal government
+|coordinates            = {{coord|28.6557|N|121.4208|E|type:adm2nd_region:CN-33_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       =[[Postal code of China|Postal code]]
+|postal_code            =318000, 317000
+|area_code              =576
+|iso_code = [[ISO 3166-2:CN|CN-ZJ-10]]
+|blank_name             =[[GDP]] 2018<ref name="2018 GDP">{{Cite web|url=http://www.zjtz.gov.cn/tzgl/|title=2018 GDP of Taizhou}}</ref>
+|blank_info             =¥487.5 billion
+|blank1_name            =GDP per capita 2018
+|blank1_info            =¥79541 (USD 12020)
+|blank2_name            =[[Licence plates of the People's Republic of China|License Plate]] Prefix 
+|blank2_info            ={{lang|zh-cn|浙J}}
+|blank3_name            =<!-- Major [[Nationalities of China|Nationalities]] -->
+|blank3_info            =
+|website = {{URL|www.zjtz.gov.cn/}}
+|footnotes              =  <center>'''City trees'''<br> [[Prunus mume|Mei]] (''Prunus mume''),<br>
+[[Cinnamomum camphora|Camphor tree]] (''Cinnamomum camphora'')'''City flowers'''<br>[[Osmanthus fragrans|Sweet Osmanthus]] (''Osmanthus fragrans'')</center>
+<br>''The Taizhou urban area commonly refer as the whole of Jiaojiang, Huayan, Luqiao districts and the metropolitan Taizhou includes Wenling City, citation is need for the original urban and metropolitan data.'' {{Citation needed|date=October 2013}}
+}}

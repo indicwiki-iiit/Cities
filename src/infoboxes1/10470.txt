@@ -1,0 +1,33 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Gürün
+| image_skyline           = Gurun.jpg
+| image_caption           = 
+| image_shield            = 
+| pushpin_map             = Turkey
+| coordinates             = {{coord|38|43|21|N|37|16|39|E|format=dms|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[Turkey]]
+| subdivision_type1       = [[Provinces of Turkey|Province]]
+| subdivision_name1       = [[Sivas Province|Sivas]]
+| subdivision_type2       = 
+| subdivision_name2       = 
+| leader_party            = [[Nationalist Movement Party|MHP]]
+| leader_title            = Mayor
+| leader_name             = Nami Çiftçi
+| leader_title1           = [[Kaymakam]]
+| leader_name1            = Ömer Kalaylı
+| elevation_m             = 1334
+| area_footnotes          = {{Turkey district areas|SOURCE}}
+| area_blank1_title       = District
+| area_blank1_km2         = {{Turkey district areas|Sivas|Gürün}}
+| population_footnotes    = {{Turkey district populations|SOURCE|Sivas}}
+| population_urban        = {{Turkey district populations|Sivas|Gürün|şehir}}
+| population_as_of        = {{Turkey district populations|YEAR}}
+| population_blank1_title = District
+| population_blank1       = {{Turkey district populations|Sivas|Gürün|toplam}}
+| population_density_blank1_km2  = auto
+| postal_code_type        = Post code
+| postal_code             = 58800
+| website                 = {{URL| www.gurun.bel.tr | www.gurun.bel.tr }}
+}}

@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+| name                     = Lubuklinggau
+| official_name            = City of Lubuklinggau
+| settlement_type          = [[Cities of Indonesia|City]] <!-- e.g. Town, Village, City, etc.-->
+| total_type               = <!-- to set a non-standard label for total area and population rows -->
+| motto                    = Sebiduk Semare
+<!-- images and maps  ----------->
+| image_skyline            = Monumen Perjuangan Subkoss Garuda Sriwijaya.jpg
+| imagesize                = 
+| image_caption            = Museum of the Lubuk Linggau army detachment
+| image_flag               =
+| flag_size                =
+| image_seal               = 
+| seal_size                =
+| image_shield             = Lambang Kota Lubuklinggau.jpeg
+| shield_size              =
+| image_blank_emblem       = 
+| blank_emblem_type        =
+| blank_emblem_size        =
+| image_map                = Lokasi Sumatra Selatan Kota Lubuklinggau.svg
+| mapsize                  =
+| map_caption              = Location within [[South Sumatra]]
+| image_map1               =
+| mapsize1                 =
+| map_caption1             =
+| pushpin_map              = Indonesia_Sumatra South#Indonesia_Sumatra#Indonesia
+| pushpin_label_position   = bottom
+| pushpin_map_caption      = Location in Southern Sumatra, [[Sumatra]] and [[Indonesia]]
+| subdivision_type         = [[Countries of the world|Country]]<!--Country-->
+| subdivision_name         = {{INA}} <!--the name of the country-->
+| subdivision_type1        = [[Provinces of Indonesia|Province]]
+| subdivision_name1        = {{flag|South Sumatra}}
+| subdivision_type2        =
+| subdivision_name2        =
+<!-- Politics ----------------->
+| government_footnotes     =
+| government_type          =
+| leader_title             = Mayor
+| leader_name              = Prana Putra Sohe
+| leader_title1            = Vice Mayor
+| leader_name1             = Sulaiman Kohar
+| established_title        = Founded
+| established_date         = 21 June 2001
+<!-- Area    --------------------->
+| area_magnitude           =
+| unit_pref                = Metric
+| area_footnotes           =
+| area_total_km2           = 419.80<!-- ALL fields with measurements are subject to automatic unit conversion-->
+| area_land_km2            = 360.74<!--See table @ Template:Infobox Settlement for details on unit conversion-->
+| area_water_km2           = 40.76
+| area_total_sq_mi         =
+| area_land_sq_mi          =
+| area_water_sq_mi         =
+| area_water_percent       =
+<!-- Elevation -------------------------->
+| elevation_footnotes      = <!--for references: use &lt;ref> tags-->
+| elevation_m              =
+| elevation_ft             =
+<!-- Population   ----------------------->
+| population_as_of         = 2010
+| population_footnotes     = <ref name="penduduk">{{cite web| title =Hasil Populasi Sensus 2010| publisher =BPS| url =http://www.bps.go.id/aboutus.php?sp=0&amp;kota=18| accessdate =2010-12-26| url-status =dead| archiveurl =https://web.archive.org/web/20110927031732/http://www.bps.go.id/aboutus.php?sp=0&kota=18| archivedate =2011-09-27}}</ref>
+| population_note          =
+| population_total         = 216064
+| population_est           =
+| pop_est_as_of            = 2014
+| population_density_km2   = auto<!--For automatic calculation, any density field may contain: auto -->
+| population_density_sq_mi =
+|population_density_rank=79
+<!-- General information  --------------->
+| timezone1                = [[Time in Indonesia|Indonesia Western Time]]
+| utc_offset1              = +7
+| timezone1_DST            =
+| utc_offset1_DST          =
+| coordinates              = {{coord|3|17|48|S|102|51|42|E|type:city|display=inline}}
+<!-- Area/postal codes &amp; others -------->
+| postal_code_type         = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code              =
+| area_code_type           = [[Telephone numbers in Indonesia|Area code]]
+| area_code                = (+62) 733
+| website                  = {{URL|http://lubuklinggaukota.go.id/|lubuklinggaukota.go.id}}
+| footnotes                =
+}}

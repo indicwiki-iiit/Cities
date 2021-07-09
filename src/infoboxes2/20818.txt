@@ -1,0 +1,78 @@
+{{Infobox settlement
+|name = Santa Fe Springs, California
+|official_name            = City of Santa Fe Springs
+|settlement_type          = [[City (California)|City]]
+|image_skyline            = Little Lake Park, Santa Fe Springs CA viewing field.jpg
+|imagesize                = 
+|image_caption            = Little Lake Park, Santa Fe Springs
+|image_seal               = Seal of Santa Fe Springs, California.png
+|image_map                = LA County Incorporated Areas Santa Fe Springs highlighted.svg
+|mapsize                  = 250x200px
+|map_caption              = Location of Santa Fe Springs in [[Los Angeles County, California|Los Angeles County]], [[California]]
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+| pushpin_map = USA
+| pushpin_map_caption = Location in the United States
+| pushpin_relief = 1
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{Flagu|United States}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        =  {{flagicon image|Flag of Los Angeles County, California.svg}} [[Los Angeles County, California|Los Angeles]]
+|government_type          = 
+|leader_title             = [[Mayor]]
+|leader_name              = William K. Rounds<ref>{{Cite web|url=http://www.santafesprings.org/cityhall/council/city_council_biographies/mayor/default.asp|title=Mayor|publisher=Santa Fe Springs|access-date=February 23, 2015}}</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = May 15, 1957<ref>{{Cite web
+ |url         = http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |title       = California Cities by Incorporation Date
+ |format      = Word
+ |publisher   = California Association of [[Local Agency Formation Commission]]s
+ |access-date  = August 25, 2014
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20130221091414/http://www.calafco.org/docs/Cities_by_incorp_date.doc
+ |archive-date = February 21, 2013
+ |df          = mdy-all
+}}</ref>
+<!-- Area------------------>
+|area_magnitude           = 
+| unit_pref               = Imperial
+| area_footnotes          = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_sq_mi        = 8.91
+| area_land_sq_mi         = 8.87
+| area_water_sq_mi        = 0.04
+| area_total_km2          = 23.08
+| area_land_km2           = 22.98
+| area_water_km2          = 0.10
+| area_water_percent      = 0.45
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1661404|Santa Fe Springs|access-date=February 26, 2015}}</ref>
+|elevation_ft             = 135
+|elevation_m              = 41
+|coordinates              = {{coord|33|56|15|N|118|4|2|W|region:US-CA|display=inline,title}}
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 16223
+|population_density_km2   = 767.15
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = −8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = −7
+|latitude = 
+|longitude = 
+|postal_code_type         = [[ZIP Code]]s
+|postal_code              = 90605, 90670, 90671
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 562|562]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|69154}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1661404}}
+|footnotes                = 
+|website                  = {{URL|www.santafesprings.org}}
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 17630
+|population_density_sq_mi = 1986.93
+}}

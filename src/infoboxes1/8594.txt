@@ -1,0 +1,93 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.1em|Bayankhongor}}
+|native_name            = Баянхонгор<br>{{lower|0.2em|{{MongolUnicode|ᠪᠠᠶ᠋ᠠᠩᠬᠣᠩᠭ᠋ᠤᠷ}}}}
+|native_name_lang       = mn
+|nickname               = 
+|settlement_type        = [[Districts of Mongolia|District]]
+|official_name          = {{raise|0.1em|Bayankhongor District}}
+|translit_lang1= Official Cyrillic
+|translit_lang1_type= [[Mongolian Cyrillic alphabet|Mongolian Cyrillic]]
+|translit_lang1_info= Баянхонгор 
+|translit_lang2= Classical Mongolian
+|translit_lang2_type= [[Mongolian script]]
+|translit_lang2_info= {{lower|0.2em|{{MongolUnicode|ᠪᠠᠶ᠋ᠠᠩᠬᠣᠩᠭ᠋ᠤᠷ}}}}
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          =  File:Erdenetsogt Soum (Эрдэнэцогт сум), South - panoramio.jpg
+|imagesize              =
+|image_caption          =  
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|pushpin_map            = Mongolia<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =right
+|pushpin_map_caption    =Location in Mongolia
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[Image:Flag of Mongolia.svg|25px]] [[Mongolia]]
+|subdivision_type1      = [[Provinces of Mongolia|Province]]
+|subdivision_name1      = [[Bayankhongor Province|Bayankhongor]]
+|subdivision_type2      = 
+|subdivision_name2      = 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  
+|established_date2      = 
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           =64.0 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_urban_km2           =
+|area_metro_km2           =
+<!-- Population   ----------------------->
+|population_as_of               = 2017
+|population_footnotes           =
+|population_note                =
+|population_total               = 30931
+|population_density_km2         = auto
+|population_metro               =
+|population_density_metro_km2   =
+|population_urban               =
+|population_density_urban_km2   =
+<!-- General information  --------------->
+|timezone               =  UTC+8
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|46|11|30|N|100|43|04|E|region:MN|display=inline,title}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 1874
+|elevation_ft = 
+|blank_name_sec1        = [[Köppen climate classification|Climate]]
+|blank_info_sec1        = [[Semi-arid climate#Cold semi-arid climates|BSk]]
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =+976 (0)144
+|blank_name_sec2             =License plate
+|blank_info_sec2             =БХ_ (_ variable)
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}

@@ -1,0 +1,84 @@
+{{Infobox settlement
+|name                     = Chanute, Kansas 
+|settlement_type          = [[City]]
+
+<!-- Images -->
+|image_skyline            = Aerial photo of Chanute, Kansas 09-04-2013.JPG
+|image_caption            = Aerial view of Chanute (2013)
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map                = Neosho_County_Kansas_Incorporated_and_Unincorporated_areas_Chanute_Highlighted.svg
+|map_caption              = Location within [[Neosho County, Kansas|Neosho County]] and [[Kansas]]
+|image_map1               = Map of Neosho Co, Ks, USA.png
+|map_caption1             = [[Kansas Department of Transportation|KDOT]] map of [[Neosho County, Kansas|Neosho County]] ([[:File:Kansas official transportation map legend.png|legend]])
+
+<!-- Location -->
+|coordinates_footnotes    = 
+|coordinates              = {{coord|37|40|37|N|95|27|23|W|region:US-KS_type:city|display=inline,title}}
+|subdivision_type         = Country
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Kansas]]
+|subdivision_type2        = [[List of counties in Kansas|County]]
+|subdivision_name2        = [[Neosho County, Kansas|Neosho]]
+|subdivision_type3        = [[List of townships in Kansas|Township]]
+|subdivision_name3        =
+
+<!-- Established -->
+|established_title        = Founded
+|established_date         = 1873
+|established_title1       = [[Platted]]
+|established_date1        = 
+|established_title2       = [[Municipal corporation|Incorporated]]
+|established_date2        = 1873
+|named_for                = [[Octave Chanute]]
+
+<!-- Government -->
+|government_footnotes     = 
+|government_type          = <!-- [[Mayor–council government|Mayor–Council]] -->
+|leader_title             = [[Mayor]]
+|leader_name              = Jacob LaRue
+|leader_title1            = [[City Manager]]
+|leader_name1             = Todd Newman <ref>{{cite web|url=http://www.chanute.org/107/City-Managers-Office|title=City Manager's Office - Chanute, KS - Official Website|website=chanute.org|access-date=January 3, 2020}}</ref>
+
+<!-- Area -->
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_20.txt|publisher=United States Census Bureau|access-date=July 24, 2020}}</ref>
+|area_total_sq_mi         = 7.22
+|area_land_sq_mi          = 7.10
+|area_water_sq_mi         = 0.12
+|area_total_km2           = 18.70
+|area_land_km2            = 18.38
+|area_water_km2           = 0.32
+|unit_pref                = Imperial
+
+<!-- Elevation -->
+|elevation_footnotes      = 
+|elevation_ft             = 958
+
+<!-- Population -->
+|population_footnotes     = <ref name="wwwcensusgov"/>
+|population_as_of         = [[2010 United States Census|2010]]
+|population_total         = 9119
+|pop_est_footnotes        = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|pop_est_as_of            = 2019
+|population_est           = 9042
+|population_density_sq_mi = 1273.88
+|population_density_km2   = 491.84
+
+<!-- General information -->
+|timezone                 = [[Central Time Zone|CST]]
+|utc_offset               = &minus;6
+|timezone_DST             = CDT
+|utc_offset_DST           = &minus;5
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 66720
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 620|620]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 20-12500
+|blank1_name              = [[Geographic Names Information System|GNIS ID]]
+|blank1_info              = 0484936<ref name="GR3">{{cite web|url=http://geonames.usgs.gov|access-date=2008-01-31|title=US Board on Geographic Names|publisher=[[United States Geological Survey]]|date=2007-10-25}}</ref>
+|website                  = {{URL|http://www.chanute.org/|chanute.org}}
+}}

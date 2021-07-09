@@ -1,0 +1,30 @@
+{{Infobox settlement <!--more fields are available for this Infobox--See Template:Infobox Settlement-->
+|official_name = Momchilgrad
+|native_name = Момчилград
+|subdivision_type = [[Countries of the world|Country]]
+|subdivision_name       = [[Bulgaria]]
+|subdivision_type1      = [[Provinces of Bulgaria|Province]]<br><small>(Oblast)</small>
+|timezone=[[Eastern European Time|EET]]
+|utc_offset=+2
+|timezone_DST=[[Eastern European Summer Time|EEST]]
+|utc_offset_DST=+3
+|image_skyline = Momchilgrad-square.JPG
+|image_caption = Town square
+|map_caption = Location of Momchilgrad|
+|pushpin_map            =Bulgaria <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    =Location of Momchilgrad
+|pushpin_mapsize        =
+|leader_title           =Mayor
+|postal_code_type       =[[List of postal codes in Bulgaria|Postal Code]]
+|
+|
+subdivision_name1=[[Kardzhali Province|Kardzhali]]|
+population_total=7831<ref>[http://www.nsi.bg/ORPDOCS/Census2011_1.pop_by_age.xls Population by province, municipality, settlement and age by 01.02.2011; Bulgarian National Statistical Institute] {{in lang|bg}}</ref>|population_footnotes=|
+population_as_of=01.02.2011|
+elevation_m=452|
+postal_code=6800|
+area_code=03631
+|coordinates            = {{coord|41|32|N|25|25|E|region:BG|display=inline,title}}
+|leader_name=Sunay Hasan Halil
+}}

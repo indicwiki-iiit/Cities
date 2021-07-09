@@ -1,0 +1,72 @@
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+|name=Bel Air
+|settlement_type=[[Neighborhood of Los Angeles]] <!-- e.g. Town, Village, City, etc.-->
+|total_type=<!-- to set a non-standard label for total area and population rows -->
+|image_skyline=belair.jpg
+|imagesize=300px
+|image_caption=The Bel Air west gate at Sunset and Bellagio
+|image_flag=
+|flag_size=
+|image_sea=
+|seal_size=
+|image_shield=
+|shield_size=
+|image_map=Map of Bel Air neighborhood, Los Angeles, California.jpg
+|mapsize=
+|map_caption=Boundaries of Bel Air as drawn by the ''Los Angeles Times''
+|pushpin_map=United States Los Angeles Western
+|pushpin_label_position=right
+|pushpin_map_caption=Location within [[West Los Angeles]]
+|pushpin_mapsize=250
+<!-- Location ------------------>
+|subdivision_type= [[List of sovereign states|Country]]
+|subdivision_name={{Flag|United States|name=United States of America|size=23px}}
+|subdivision_type1=[[U.S. state|State]]
+|subdivision_name1={{Flag|California|size=23px}}
+|subdivision_type2=[[County (United States)|County]]
+|subdivision_name2={{Flagicon image|Flag of Los Angeles County, California.svg|size=23px}} [[Los Angeles County, California|Los Angeles]]
+|subdivision_type3=
+|subdivision_name3={{flagicon image|Flag of Los Angeles, California.svg|size=23px}} [[Los Angeles]]
+|subdivision_type4=
+|subdivision_name4=
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type=
+|seat=
+|government_footnotes=
+|government_type=
+|leader_title=
+|leader_name=
+|leader_title1=
+|leader_name1=
+|leader_title2=
+|leader_name2=
+|leader_title3=
+|leader_name3=
+|established_date=
+|area_magnitude=
+|unit_pref=
+|area_footnotes=
+|area_total_sq_mi=
+|area_land_sq_mi=
+|area_water_sq_mi=
+|area_water_percent=
+|elevation_footnotes=<!--for references: use <ref> </ref> tags-->
+|elevation_m=
+|elevation_ft=
+|elevation_max_m=
+|elevation_max_ft=
+|elevation_min_m=
+|elevation_min_ft=
+|population_as_of=
+|population_footnotes=
+|population_note=
+|population_total=
+|population_density_sq_mi=
+|timezone= Pacific
+|utc_offset=
+|timezone_DST=
+|utc_offset_DST=
+|coordinates = {{coord|34.08333|-118.44778|display=inline}}
+}}

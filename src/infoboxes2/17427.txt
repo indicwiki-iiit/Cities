@@ -1,0 +1,36 @@
+{{Infobox settlement
+|official_name          = Borlänge
+|image_skyline          = Borlange sveatorget.jpg
+|image_caption          = ''Sveatorget'' in Borlänge in 2005
+|pushpin_map            = Sweden Dalarna#Sweden
+|pushpin_label_position = 
+|image_blank_emblem     = Borlänge vapen.svg
+|subdivision_type       = [[Country]]
+|subdivision_name       = {{flag|Sweden}}
+|subdivision_type3      = [[Municipalities of Sweden|Municipality]]
+|subdivision_name3      = [[Borlänge Municipality]]
+|subdivision_type2      = [[Counties of Sweden|County]]
+|subdivision_name2      = [[Dalarna County]]
+|subdivision_type1      = [[Provinces of Sweden|Province]]
+|subdivision_name1      = [[Dalarna]]
+|established_title      = Founded
+|established_date       = 1944
+|area_footnotes         = <ref name=scb>{{cite web |url=http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |title=Tätorternas landareal, folkmängd och invånare per km<sup>2</sup> 2005 och 2010 |date=14 December 2011 |publisher=[[Statistics Sweden]] |language=sv |archive-url=https://www.webcitation.org/64arqC15e?url=http://www.scb.se/Statistik/MI/MI0810/2010A01/Tatorternami0810tab1_4.xls |archive-date=10 January 2012 |url-status=live |access-date=10 January 2012 }}</ref>
+|area_total_km2         = 34.36
+|population_as_of       = 2017
+|population_footnotes   = <ref name="Tätorter2019">{{cite web|url=https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/markanvandning/tatorter/|title=Tätorter|language=sv|publisher=[[Statistiska Centralbyrån|SCB]]|access-date=2 May 2020}}</ref>
+|population_total       = 51,604
+|population_density_km2 = auto
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = [[Central European Summer Time|CEST]]
+|utc_offset_DST         = +2
+|coordinates            = {{coord|60|29|08|N|15|26|11|E|region:SE|display=inline,title}}
+|elevation_m            = 151
+|postal_code_type       = Postal code
+|postal_code            = 781 xx
+|area_code              = (+46) 24
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Humid continental climate#Mild/cool summer subtype|Dfb]]
+|website                = {{official_website|www.borlange.se}}
+}}

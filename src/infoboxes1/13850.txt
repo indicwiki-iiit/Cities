@@ -1,0 +1,83 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name                            = Vukovar
+| official_name                   = City of Vukovar<br />''Grad Vukovar''<br />Град Вуковар
+| other_name                      = 
+| native_name                     = Вуковар
+| settlement_type                 = [[List of cities and towns in Croatia|City]]
+| image_skyline                   = {{Photomontage|position=center
+| photo1a = Panorama Vukovara.jpg
+| photo2a = Radnički dom u Vukovaru.JPG
+| photo2b = Vukovar_Street_scene.JPG
+| photo3a = Vukovar samostan i crkva sv Filipa i Jakova.JPG
+| photo3b = Vukovarski vodotoranj.jpg
+| photo4a = Dvorac Eltz 09.jpg
+| size = 250
+| spacing = 1
+| color = #FFFFFFu
+| border = 0
+| foot_montage = Clockwise, from top: Panoramic view of Vukovar and [[Danube]] river; downtown with [[arcade (architecture)|arcade]]s; [[Vukovar water tower]]; [[Eltz Manor]]; [[Church of Saints Philip and James, Vukovar|Franciscan monastery with church of Saints Philip and James]] and Workers' Hall}}
+| image_flag                      = Vlag vukovar.gif
+| flag_size                       = 135px
+| image_seal                      = 
+| image_shield                    = Vukovar Wappen.gif
+| nickname                        = ''Grad Heroj'' ([[Hero City#Similar awards in other countries|Hero City]])
+| motto                           = 
+| map_caption                     = Location of Vukovar Municipality
+| image_map                       = Vukovar.png
+| pushpin_map                     = Croatia
+| pushpin_label_position          = left
+| pushpin_map_caption             = Location of Vukovar within Croatia
+<!-- Location ------------------>| coordinates                     = {{coord|45|21|00|N|19|00|12|E|region:HR|display=inline,title}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flag|Croatia}}
+| subdivision_type1               = [[Regions of Croatia|Region]]
+| subdivision_name1               = [[Podunavlje]]
+| subdivision_type2               = [[Counties of Croatia|County]]
+| subdivision_name2               = {{flag|Vukovar-Srijem|name=Vukovar-Syrmia}}
+<!-- Politics ----------------->| established_title               = <!-- Settled -->
+| established_date                = 
+| leader_party                    = Independent, supported by [[Homeland Movement (Croatia)|DP]]
+| leader_title                    = Mayor
+| leader_name                     = Ivan Penava
+| leader_title1                   = City Council
+| leader_name1                    = {{Collapsible list
+ |title   = 23 members
+ |frame_style = border: none; padding: 0;
+ |list_style=text-align:left;display:none;
+ |1     =• [[Independent politician|Independent]] (14)
+ |2     =• [[Social Democratic Party of Croatia|SDP]] (3)
+ |3     =• [[Democratic Union of Serbs|DSS]] (2)
+ |4     =• [[Independent Democratic Serb Party|SDSS]] (2)
+ |5     =• [[Milan Bandić 365 - The Party of Labour and Solidarity|MB 365]] (1)
+ |6     =• [[Human Shield (political party)|ŽZ]] (1)
+}}
+<!-- Area    --------------------->| area_footnotes                  = 
+| area_total_km2                  = 100.26
+| area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_metro_km2                  = 
+| elevation_footnotes             = <!--for references: use<ref> </ref>  tags-->
+| elevation_m                     = 108
+<!-- Population   ----------------------->| population_footnotes            = <ref name="census2011">{{Croatian Census 2011|S|16|5185}}</ref>
+| population_total                = 27683
+| population_as_of                = 2011
+| population_density_km2          = auto
+| population_urban                = 26468
+| population_density_urban_km2    = 
+| population_metro                = 
+| population_density_metro_km2    = 
+| population_note                 = <!-- General information  --------------->
+| timezone                        = [[Central European Time|CET]]
+| utc_offset                      = +1
+| timezone_DST                    = [[Central European Summer Time|CEST]]
+| utc_offset_DST                  = +2
+<!-- Area/postal codes & others -------->| postal_code_type                = Postal code
+| postal_code                     = 32 000
+| area_code                       = 032
+| registration_plate              = [[Vehicle registration plates of Croatia|VU]]
+| website                         = {{URL|http://www.vukovar.hr}}
+| population_demonym              = {{lang|hr|Vukovarac}} (masculine)<br>{{lang|hr|Vukovarka}} (feminine)
+}}

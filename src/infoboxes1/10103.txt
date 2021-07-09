@@ -1,0 +1,34 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Iğdır
+| settlement_type                 = City & [[Municipality]]
+| image_skyline                   = Iğdır ve Ağrı Dağı.jpg
+| image_caption                   = Iğdır in the evening
+| image_shield                    = 
+| pushpin_map                     = Turkey#Europe
+| coordinates                     = {{coord|39|55|15|N|44|02|40|E|format=dms|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = [[Turkey]]
+| subdivision_type1               = [[Provinces of Turkey|Province]]
+| subdivision_name1               = [[Iğdır Province|Iğdır]]
+| subdivision_type2               = 
+| subdivision_name2               = 
+| leader_party                    = [[Peoples' Democratic Party (Turkey)|HDP]]
+| leader_title                    = Elected Mayor
+| leader_name                     = Yaşar Akkuş (deposed)
+| leader_title2           = Acting Mayor (Governor of Iğdır Province)
+| leader_name2            = Enver Ünlü
+| area_footnotes                  = {{Turkey district areas|SOURCE}}
+| area_blank1_title               = District
+| area_blank1_km2                 = {{Turkey district areas|Iğdır|Iğdır}}
+| elevation_m                     = 850
+| population_footnotes            = {{Turkey district populations|SOURCE|Iğdır}}
+| population_urban                = {{Turkey district populations|Iğdır|Iğdır|şehir}}
+| population_as_of                = {{Turkey district populations|YEAR}}
+| population_blank1_title         = District
+| population_blank1               = {{Turkey district populations|Iğdır|Iğdır|toplam}}
+| population_density_blank1_km2   = auto
+| postal_code_type                = Post code
+| postal_code                     = 76000
+| website                         = {{URL| www.igdir.bel.tr | www.igdir.bel.tr }}
+| official_name                   = 
+}}

@@ -1,0 +1,49 @@
+{{Infobox Australian place
+| type                = city
+| name                = Cairns
+| state               = qld
+| image               = {{Photomontage|position=center
+   | photo1a = Cairns Landscape.jpg
+   | photo2a = Cairns view of CBD 3.jpg
+   | photo2b = CAIRNS映象 - panoramio - fisher0528 (10).jpg
+   | photo3a = Lagoon, Esplanade, Cairns, 2015 (06).JPG
+   | size = 270
+   | spacing = 2
+   | color = #FFFFFF
+   | border = 0
+}}
+| caption             = From top down, left to right: panorama view, city centre, sea side and Cairns Esplanade
+| coordinates         = {{coord|-16.9219|145.7758|type:city_region:AU-QLD|display=inline,title|name=Cairns (town centre)}}
+| pop                 = 153951
+| pop_year            = 2019
+| pop_footnotes       = <ref name="ABSSUA2019" />
+| elevation           = 7
+| established         = 1876
+| postcode            = 4870
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1               = <!-- road distances as per template instructions -->
+| dir1                = 
+| location1           = 
+| dist2               = 
+| dir2                = 
+| location2           = 
+| dist3               = 
+| dir3                = 
+| location3           = 
+| dist4               = 
+| dir4                = 
+| location4           =
+| poprank             = 14th
+| area                = 254.3
+| lga                 = Cairns Region
+| county              = [[County of Nares|Nares]]
+| stategov            = [[Electoral district of Cairns|Cairns]]
+| stategov2           = [[Electoral district of Barron River|Barron River]]
+| stategov3           = [[Electoral district of Mulgrave (Queensland)|Mulgrave]]
+| fedgov              = [[Division of Leichhardt|Leichhardt]]
+| fedgov2             = [[Division of Kennedy|Kennedy]]
+| maxtemp             = 29.4
+| mintemp             = 21.0
+| rainfall            = 1981.5
+}}

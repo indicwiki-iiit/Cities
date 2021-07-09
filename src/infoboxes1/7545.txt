@@ -1,0 +1,37 @@
+{{Infobox settlement
+| name                   = Kiryat Gat
+| native_name            = {{Lang|he|{{Script/Hebrew|קִרְיַת גַּת}}|rtl=yes}}
+| settlement_type        = [[List of cities in Israel|City]] 
+| translit_lang1         = Hebrew
+| translit_lang1_type1   = [[ISO 259]]
+| translit_lang1_info1   = Qiryat Gat
+| image_skyline          = PikiWiki Israel 16194 kiryat gat.jpg
+| image_flag             = Flag of Qiryat Gat.svg
+| image_blank_emblem     = Coat of arms of Kiryat Gat.png
+| blank_emblem_type      = Coat of arms
+| pushpin_map_alt        = 
+| pushpin_map            = Israel ashkelon#Israel
+| pushpin_mapsize        = 
+| pushpin_label_position = bottom
+| pushpin_map_caption    = Location of Kiryat Gat in Israel
+| coordinates            = {{coord|31|36|22|N|34|46|18|E|region:IL|format=dms|display=inline,title}}
+| subdivision_type       = [[List of sovereign states|Country]]
+| subdivision_name       = 
+{{ISR}}
+| subdivision_type1      = 
+| subdivision_name1      = 
+| subdivision_type2      = [[Districts of Israel|District]]
+| subdivision_name2      = 
+[[Southern District (Israel)|Southern]]
+| established_title      = Founded
+| established_date       = 1954
+| leader_title           = Mayor
+| leader_name            = [[Aviram Dahari]]
+| unit_pref              = dunam
+| area_total_dunam       = {{formatnum:17,102|R}}
+| population_footnotes   = {{Israel populations|reference}}
+| population_total       = {{Israel populations|Qiryat Gat}}
+| population_as_of       = {{Israel populations|Year}}
+| population_density_km2 = auto
+| website                = {{url|www.qiryat-gat.muni.il}}
+}}

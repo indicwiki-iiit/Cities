@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Diana, New York
+|settlement_type          = [[Administrative divisions of New York#Town|Town]]
+|nickname                 = 
+|motto                    =
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|pushpin_map              = New York#USA
+|pushpin_label            = Diana
+|pushpin_label_position   = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption      = Location in New York##Location in the United States
+|pushpin_mapsize          = 
+|image_map                = 
+|mapsize                  = 
+|map_caption              = 
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[New York (state)|New York]]
+|subdivision_type2        = [[List of counties in New York|County]]
+|subdivision_name2        = [[Lewis County, New York|Lewis]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2016">{{cite web|title=2016 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2016_Gazetteer/2016_gaz_place_36.txt|publisher=United States Census Bureau|accessdate=Jul 5, 2017}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 364.75
+|area_land_km2            = 355.08
+|area_water_km2           = 9.67
+|area_total_sq_mi         = 140.83
+|area_land_sq_mi          = 137.10
+|area_water_sq_mi         = 3.73
+
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_footnotes     = 
+|population_total         = 1709
+|population_density_km2   = 4.80
+|population_density_sq_mi = 12.43
+
+<!-- General information -->
+|timezone                 = [[North American Eastern Time Zone|Eastern (EST)]]
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 266
+|elevation_ft             = 873
+|coordinates              = {{coord|44|6|4|N|75|21|9|W|region:US-NY|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 13648
+|area_code                = [[Area code 315|315]]
+|blank_name               = [[Federal Information Processing Standards|FIPS code]]
+|blank_info               = 36-049-20555
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 978902<ref name=gnis>{{GNIS|978902}}</ref>
+|website                  = 
+|footnotes                = 
+|pop_est_as_of = 2016
+|pop_est_footnotes = <ref name="USCensusEst2016"/>
+|population_est = 1704
+}}

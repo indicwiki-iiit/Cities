@@ -1,0 +1,69 @@
+{{Infobox settlement
+<!--See the table at Infobox settlement for all fields and descriptions of usage-->
+<!-- Basic info  -->
+|name                   = Changunarayan
+|native_name            = चाँगुनारायण
+|other_name             =
+|settlement_type        = Municipality
+|image_skyline          = Changunarayan.jpg
+|imagesize              = 300px
+|image_caption          = Changunarayan
+|image_flag             =
+|image_seal             =
+|nickname               =
+|motto                  =
+<!-- images and maps  -->
+|image_map              =
+|mapsize                =300px
+|map_caption            =
+|pushpin_map            = Nepal Bagmati Province#Nepal<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in Nepal
+<!-- Location -->
+|coordinates            = {{coord|27|43|00|N|85|25|47|E|type:city_region:NP|display=inline,title}}
+|subdivision_type       = Country
+|subdivision_name       = [[Nepal]]
+| subdivision_type1     = [[Provinces of Nepal|Province]]
+| subdivision_type2     = [[Districts of Nepal|District]]
+| subdivision_name1     = [[Bagmati Pradesh]]
+| subdivision_name2     = [[Bhaktapur District|Bhaktapur]]
+<!-- Politics -->
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|government_footnotes   =
+|government_type        =
+|leader_title           = [[Mayor]]
+|leader_name            = Mr.Som Parsad Mishra
+|leader_title1          = [[Deputy Mayor]]<!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           = Mrs.Bina Banstola
+|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 62.98
+|area_total_sq_mi         =
+<!-- Population   -->
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+<!-- Area/postal codes & others -->
+|population_total               = 55430
+|population_as_of               = 2011
+|population_footnotes           =
+|population_density_km2         = auto
+|population_blank1_title        = Ethnicities
+|population_blank2_title        = Religions
+|population_blank2              =[[Hindu]]
+<!-- General information  -->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|footnotes              = 
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +5:45
+|timezone_DST           =
+|utc_offset_DST         =
+|blank_name             =
+|blank_info             =
+| website               = {{url|http://changunarayanmun.gov.np}}
+}}

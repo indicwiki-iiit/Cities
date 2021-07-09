@@ -1,0 +1,58 @@
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->
+|name                   = El Alamein
+|other_name             =
+|native_name            = {{lang|ar|العلمين}}
+|nickname               = 
+| settlement_type = [[List of cities in Egypt|City]]
+|image_skyline    = {{Photomontage
+| photo1a = Porto marina resort and spa.jpg
+| photo2a = El Alamein Deutsches Kriegsgraeberdenkmal.jpg
+| photo2b = Porto Marina (El Alamein).jpg
+| photo3a = Sunset At north coast.JPG
+| size = 275
+| spacing = 2
+| color = transparent
+| border = 0
+}}
+|image_caption    = '''Clockwise from top:''' <br/> Marina's Porto Resort, Alamein Port, Sunset on Alamein's Beaches, [[El_Alamein#Germany|German Memorial
+s]]
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_map              =  
+|mapsize                = 300px
+|map_caption            = Map of '''El Alamein''' ('''Al 'Alamayn''')
+|pushpin_map            = Egypt<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position = bottom
+|pushpin_mapsize        = 300
+|pushpin_map_caption    = Location in North Africa
+|subdivision_type       = Country
+|subdivision_name       = {{Flagu|Egypt}}
+|subdivision_type1      = [[Governorates of Egypt|Governorate]]
+|subdivision_name1      = [[Matrouh Governorate|Matrouh]]
+|subdivision_type2      =
+|subdivision_name2      = 
+|subdivision_type3      =
+|subdivision_name3      = 
+|government_footnotes   =
+|government_type        =
+|established_date       = 
+|area_magnitude         = 
+|unit_pref              = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes         =
+|area_total_km2         = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2          = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+|population_as_of       = 2007
+|population_footnotes   =
+|population_note        =
+|population_total       = 7,397
+| timezone               = [[Eastern European Time|EET]]
+| utc_offset             = +2
+|timezone_DST           =
+|utc_offset_DST         = 
+|coordinates            = {{coord|30|50|N|28|57|E|region:EG|display=inline}}
+}}

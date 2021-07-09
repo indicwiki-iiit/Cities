@@ -1,0 +1,85 @@
+{{Infobox settlement
+<!-- See Template: Infobox settlement for additional fields that may be available -->
+<!-- See the Table at Infobox settlement for all fields and descriptions of usage -->
+<!-- Basic info ---------------->
+| name = Gojra
+| official_name =
+| native_name =<br/> {{Nastaliq|گوجرہ}}
+| other_name =
+| settlement_type =[[Largest cities of Pakistan|City]]
+<!-- images and maps --------- -->
+| nickname =
+| image_skyline=Noor masjid gojra.jpg
+| pushpin_map = Punjab Pakistan#Pakistan
+| pushpin_label_position = left<!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption = Location within Pakistan
+<!-- Location ---------------- -->
+| coordinates = {{coord|31|9|N|72|41|E|display=inline}}
+| coor_pinpoint =
+| subdivision_type = Country
+| subdivision_name = [[Pakistan]]
+| subdivision_type1 = [[Subdivisions of Pakistan|Province]]
+| subdivision_name1 = [[Punjab, Pakistan|Punjab]]
+| subdivision_type2 = [[Districts of Pakistan|District]]
+| subdivision_name2 = [[Toba Tek Singh District]]
+<!-- Smaller parts (e. g. boroughs of a city) and seat of government -->
+| established_title = Established
+| established_date = 1896
+<!-- Area ------------------- -->
+| seat_type =
+| seat =
+| parts_type =No. of Towns
+| parts_style = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+ Default is list if up to 5 items, coll if more than 5-->
+| parts =1 <!-- parts text, or header for parts list -->
+| p1 =
+| government_footnotes =
+| government_type =
+| leader_title ={{nowrap|[[Union councils of Pakistan|Union Council]]s}}
+| leader_name = 24
+| leader_title1 =<!-- [[Nazim]]&nbsp; (Mayor) -->
+| leader_name1 =
+| unit_pref =Imperial<!-- Enter: Imperial, to display imperial before metric -->
+| area_footnotes =
+| area_magnitude =
+| area_metro_km2 =1,115 <!-- ALL fields with measurements are subject to automatic unit conversion -->
+| area_land_km2 = <!-- See table @ Template: Infobox settlement for details on unit conversion -->
+| area_land_sq_mi =
+| area_water_km2 =
+| area_water_sq_mi =
+| area_water_percent =
+<!-- Elevation ------------------------ -->
+| elevation_footnotes = <!-- for references: use<ref>tags -->
+| elevation_m =465
+| elevation_ft =1526
+| elevation_min_m =
+| elevation_min_ft =
+<!-- Population --------------------- -->
+| population_total =174,860
+| population_as_of =[[2017 Census of Pakistan|2017]]
+| population_footnotes =<ref>{{cite web |title=PAKISTAN: Provinces and Major Cities |url=http://www.citypopulation.de/Pakistan-100T.html |website=PAKISTAN: Provinces and Major Cities |publisher=citypopulation.de |access-date=4 May 2020}}</ref>
+|population_rank=[[List of largest cities in Pakistan|51st, Pakistan]]
+| population_density_km2 =auto <!-- For automatic calculation, any density field may contain: auto -->
+| population_blank1_title =
+| population_blank1 =
+
+<!-- General information ------------- -->
+| population_note =
+| postal_code_type =Zip Code
+| postal_code =36120
+| area_code =+9246
+
+| website={{URL|www.mcgojra.lgpunjab.org.pk}}
+| p2 = <!-- etc. up to p50: for separate parts to be listed -->
+<!-- Politics --------------- -->
+| elevation_max_m =
+| elevation_max_ft =
+| timezone = [[Pakistan Standard Time|PST]]
+| utc_offset = +5
+| timezone_DST = PDT
+| utc_offset_DST = +6
+| image_blank_emblem = Municipal Committee Gojra.jpg
+| blank_emblem_size = 100px
+| blank_emblem_type = Municipal Committee logo
+| blank_emblem_alt = Municipal Committee Gojra
+}}

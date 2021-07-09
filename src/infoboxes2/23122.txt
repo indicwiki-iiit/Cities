@@ -1,0 +1,34 @@
+{{Infobox settlement
+| name                   = Jarabulus
+| native_name            = جَرَابُلُس
+| native_name_lang       = ar
+| other_name             = Cerablus
+| type                   = Town
+| pushpin_map            = Syria
+| pushpin_label_position = bottom
+| pushpin_mapsize        = 250
+| pushpin_map_caption    = Location of Jarabulus in Syria
+| coordinates            = {{coord|region:SY-HL|format=dms|display=inline,title}}
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = {{flag|Syria}}
+| subdivision_type1       = [[Governorates of Syria|Governorate]]
+| subdivision_name1       = [[Aleppo Governorate|Aleppo]]
+| subdivision_type2       = [[Districts of Syria|District]]
+| subdivision_name2       = [[Jarabulus District|Jarabulus]]
+| subdivision_type3       = [[Nahiyah|Subdistrict]]
+| subdivision_name3       = [[Nahiya Jarabulus|Jarabulus]]
+| parts_type              = [[Turkish occupation of northern Syria|Control]]
+| parts_style             = para
+| p1                      = {{TUR}}<br>{{flagicon|Syrian opposition}} [[Syrian Interim Government]]
+| elevation_m             = 367
+| population              = 11,570
+| population_density_km2  = auto
+| population_as_of        = 2004
+| population_footnotes    = {{#tag:ref|{{cite web |title=2004 Census Data for ''Nahiya Jarabulus''|url=http://www.cbssyr.sy/new%20web%20site/General_census/census_2004/NH/TAB02-39-2004.htm |publisher=Syrian [[Central Bureau of Statistics (Syria)|Central Bureau of Statistics]] |language=ar }} Also available in English: {{cite web |author=UN OCHA |author-link=United Nations Office for the Coordination of Humanitarian Affairs |title=2004 Census Data |url=https://data.humdata.org/dataset/syrian-arab-republic-other-0-0-0-0-0-0-0 |publisher=Humanitarian Data Exchange }}|name=census2004}}
+| timezone                = [[Eastern European Time|EET]]
+| utc_offset              = +2
+| timezone_DST            = [[Eastern European Summer Time|EEST]]
+| utc_offset_DST          = +3
+| geocode                 = C2227
+| website                 = 
+}}

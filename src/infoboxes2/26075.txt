@@ -1,0 +1,102 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name                   = Kawerau
+|official_name          = 
+|other_name             =
+|native_name            = <!-- if different from the English name -->
+|nickname               = 
+|settlement_type        = [[Urban areas of New Zealand|Minor urban area]]
+|total_type             = District <!-- to set a non-standard label for total area and population rows -->
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Plunket St, Kawerau, March 2014.jpg
+|imagesize              = 
+|image_caption          = Kawerau, with [[Putauaki]] in the background
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = {{Infobox mapframe|coord={{coord|38|06|S|176|42|E}}|zoom=6}}
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|pushpin_map            = 
+|pushpin_label_position = left
+|pushpin_map_caption    =
+|pushpin_mapsize        =
+<!-- Location ------------------>
+|subdivision_type       = [[List of sovereign states|Country]]
+|subdivision_name       = [[New Zealand]]
+|subdivision_type1      = [[Regions of New Zealand|Region]]
+|subdivision_name1      = [[Bay of Plenty]]
+|subdivision_type2      = [[Territorial authorities of New Zealand|Territorial authority]]
+|subdivision_name2      = Kawerau District
+<!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|seat_type              = [[New Zealand electorates|Electorates]]
+|seat                   = [[East Coast (New Zealand electorate)|East Coast]] (general) <br> [[Waiariki (New Zealand electorate)|Waiariki]] (Māori)
+|parts_type             = 
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list --> 
+|p1                     = 
+|p2                     = <!-- etc. up to p50: for separate parts to be listed--> 
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        = 
+|leader_title          = Mayor
+|leader_name           = [[Malcolm Campbell (mayor)|Malcolm Campbell]]
+|leader_title1          = Deputy Mayor
+|leader_name1           = [[Faylene Tunui]]
+|established_title      = Established
+|established_date       = 1953
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = <!--Enter: Imperial, to display imperial  before metric-->
+|area_footnotes           =
+|area_total_km2           = 21.94 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          = 
+|area_water_sq_mi         =
+|area_water_percent       =
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+|elevation_max_m            = 
+|elevation_max_ft           =
+|elevation_min_m            = 
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_as_of               = {{NZ population data 2018|||y}}
+|population_footnotes           = {{NZ population data 2018||||y}}
+|population_note                = 
+|population_total               = {{NZ population data 2018|Kawerau district|y}}
+|population_urban   = {{NZ population data 2018|Kawerau|y}}
+|population_density_km2         = auto 
+|population_density_sq_mi       =
+<!-- General information  --------------->
+|timezone               = [[NZST]]
+|utc_offset             = +12
+|timezone_DST           = [[NZDT]]
+|utc_offset_DST         = +13
+|coor_type              = <!-- can be used to specify what the coordinates refer to -->
+|coordinates            = {{coord|38|06|S|176|42|E|region:NZ|display=inline,title}}
+<!-- Area/postal codes & others -------->
+|postal_code_type       = [[Postcodes in New Zealand|Postcode]]
+|postal_code            = 3127
+|area_code              = 07
+|website                = [http://www.kaweraudc.govt.nz/ Kawerau District Council]
+|footnotes              = 
+}}

@@ -1,0 +1,24 @@
+{{Infobox German location
+| name                 = Marburg
+| type                  = Stadt
+| image_photo          = Marburg Schloss.jpg
+| image_caption        = View of Marburg, dominated by [[Marburger Schloss|the castle]] and [[St. Elizabeth's Church, Marburg|St. Elizabeth's Church]]
+| image_coa               = Wappen Marburg.svg
+| coordinates          = {{coord|50|48|36|N|08|46|15|E|format=dms|display=inline,title}}
+| image_plan             = Marburg Biedenkopf Marburg.png
+| plantext = <!-- Description of image "Lageplan" Default: "Location of XX" -->
+| state           = Hessen
+| district            = Marburg-Biedenkopf
+| elevation                 = 173-412
+| area               = 123.92
+| postal_code                  = 35001-35043
+| PLZ-alt              = 35050
+| area_code              = 06421
+| licence                  = MR
+| Gemeindeschlüssel    = 06 5 34 014
+| divisions           = 20 [[:Category:Districts of Marburg|Stadtteile]]
+| website              = [https://www.marburg.de/ www.marburg.de]
+| mayor        = Thomas Spies
+| Bürgermeistertitel   = Oberbürgermeister
+| party               = SPD
+}}

@@ -1,0 +1,132 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Antsirabe<!-- at least one of the first two fields must be filled in -->
+| official_name           =
+| native_name_lang        = <!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| other_name              =
+| settlement_type         = <!-- such as Town, Village, City, Borough etc. -->
+<!-- images, nickname, motto --->
+| image_skyline           = Antsirabe_-_rue_principale02.JPG
+| imagesize               = 240px
+| image_alt               =
+| image_caption           = [[Pousse-pousse]]s in central Antsirabe
+| image_flag              =
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_seal              =
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| image_shield            = Antsirabe.png
+| shield_size             = 100px
+| shield_alt              =
+| shield_link             =
+| nickname                =
+| motto                   =
+| anthem                  =
+<!-- maps and coordinates ------>
+| image_map               =
+| mapsize                 =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             = Madagascar<!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  =bottom <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         = 180
+| pushpin_map_caption     =  Location of Antsirabe in Madagascar
+| coordinates             = {{coord|19|52|S|47|02|E|region:MG|display=inline,title}}
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{MAD}}
+|subdivision_type1      = [[Regions of Madagascar|Region]]
+|subdivision_name1      = [[Vakinankaratra]]
+|subdivision_type2      = [[Districts of Madagascar|District]]
+|subdivision_name2      = [[Antsirabe I District]]
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+<!-- established --------------->
+| established_title       = Founded <!-- Settled -->
+| established_date        = 1872
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       =
+| established_title3      =
+| established_date3       =
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = <!-- defaults to: Seat -->
+| seat                    =
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      =
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         =
+| governing_body          =
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = Honoré Gabriel Rasaminmanana<ref>[https://region-vakinankaratra.mg/antsirabe-i/ Region Vakinankaratra]</ref>
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| area_total_km2          = 180<!-- ALL fields with measurements have automatic unit conversion -->
+| area_land_km2           =
+| area_water_km2          =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             =1500
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 265018
+| population_as_of        = 2018 census
+| population_rank         =
+| population_density_km2  = auto<!-- for automatic calculation of any density field, use: auto -->
+| population_demonym      = <!-- demonym, ie. Liverpudlian for someone from Liverpool -->
+| population_note         =
+<!-- time zone(s) -------------->
+| timezone1               =
+| utc_offset1             =
+| timezone1_DST           =
+| utc_offset1_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+<!-- twin cities --------------->
+| twin1                   =
+| twin1_country           =
+| twin2                   =
+| twin2_country           = <!-- etc., up to twin9 / twin9_country -->
+<!-- website, footnotes -------->
+| blank_name              = [[Köppen climate classification|Climate]]
+| blank_info              = [[Oceanic climate#Subtropical highland variety (Cwb)|Cwb]]
+| website                 =
+| footnotes               =
+}}

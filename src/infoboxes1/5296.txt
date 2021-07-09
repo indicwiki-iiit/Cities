@@ -1,0 +1,132 @@
+{{Infobox settlement
+<!--See Template:Infobox Settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                            = {{raise|0.2em|Longyan}}
+|official_name                   = 
+|other_name                      = Lungyen
+|native_name                     = {{lower|0.1em|龙岩市}}
+|native_name_lang = zh-Hans
+|nickname                        = 
+|settlement_type                 = [[Prefecture-level city]]
+|total_type                      = <!-- to set a non-standard label for total area and population rows -->
+|motto                           = 
+<!-- images and maps  ----------->
+|image_skyline                   = Chuxi tulou cluster.JPG
+|imagesize                       = 
+|image_caption                   = Chuxi tulou cluster in Chuxicun, Xiyang, [[Yongding County]].
+|image_seal                      = 
+|seal_size                       = 
+|image_shield                    = 
+|shield_size                     = 
+|image_blank_emblem              = 
+|blank_emblem_type               = 
+|blank_emblem_size               = 
+|image_map                       = Locator map Longyan in Fujian.svg
+|mapsize                         =  
+|map_caption                     = Location of Longyan City in Fujian
+|image_map1                      = 
+|mapsize1                        = 
+|map_caption1                    = 
+|image_dot_map                   = 
+|dot_mapsize                     = 
+|dot_map_caption                 = 
+|dot_x                           = 
+|dot_y                           = 
+|pushpin_map                     = China
+|pushpin_label_position          = 
+|pushpin_map_caption             = Location in China
+|pushpin_mapsize                 = 
+<!-- Location ------------------>
+|subdivision_type                = Country
+|subdivision_name                = People's Republic of China
+|subdivision_type1               = [[Province of China|Province]]
+|subdivision_name1               = [[Fujian]]
+|seat_type                       = Municipal seat
+|seat                            = [[Xinluo District|Xinluo]]
+|parts_type                      = 
+|parts_style                     = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                           = <!-- parts text, or header for parts list -->
+|p1                              = 
+|p2                              = <!-- etc. up to p50: for separate parts to be listed-->
+<!-- Politics ----------------->
+|government_footnotes            = 
+|government_type                 = 
+|leader_title                    = <!-- CPC Secretary -->
+|leader_name                     = 
+|leader_title1                   = <!-- Mayor -->
+|leader_name1                    = 
+|leader_title2                   = 
+|leader_name2                    = 
+|leader_title3                   = 
+|leader_name3                    = 
+|leader_title4                   = 
+|leader_name4                    = 
+|established_title               = <!-- Settled -->
+|established_date                = 
+|established_title1              = <!-- Incorporated (town) -->
+|established_date1               = 
+|established_title2              = <!-- Incorporated (city) -->
+|established_date2               = 
+|established_title3              =  
+|established_date3               = 
+|founder                         = 
+|named_for                       = 
+<!-- Area    --------------------->
+|area_footnotes                  = <ref>{{cite web |language=zh-hans |url=http://lytjj.longyan.gov.cn/tjsj/ndsj/200906/t20090605_92729.htm |script-title=zh:2008年行政区划 |access-date=2009-12-08 |date=2009-06-05 |publisher=Longyan Municipal Statistic Bureau}}</ref>
+|area_total_km2                  = 19069 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_land_km2                   = <!--See table @ Template:Infobox Settlement for details on unit conversion-->
+|area_water_km2                  = 
+|area_water_percent              = 
+|area_urban_km2                  = 
+|area_metro_km2                  = 
+|area_blank1_title               = 
+|area_blank1_km2                 = 
+<!-- Elevation -------------------------->
+|elevation_footnotes             = <!--for references: use <ref> </ref> tags-->
+|elevation_m                     = 
+|elevation_ft                    = 
+|elevation_max_m                 = 
+|elevation_max_ft                = 
+|elevation_min_m                 = 
+|elevation_min_ft                = 
+<!-- Population   ----------------------->
+|population_as_of                = 2010
+|population_footnotes            = 
+|population_note                 = 
+|population_total                = 2559545
+|population_density_km2          = auto
+|population_metro                = 
+|population_density_metro_km2    = 
+|population_urban                = 
+|population_density_urban_km2    = 
+|population_blank1_title         = 
+|population_blank1               = 
+|population_density_blank1_km2   =   
+<!-- General information  --------------->
+|timezone                        = [[China Standard Time|China Standard]]
+|utc_offset                      = +8
+|coor_pinpoint = Longyan municipal government
+|coordinates                     = {{coord|25.076|N|117.017|E|type:adm2nd_region:CN-35_source:Gaode|format=dms|display=it}}
+<!-- Area/postal codes & others -------->
+|postal_code_type                = [[Postal code of China|Postal code]]
+|postal_code                     = 364000, 366000
+|area_code                       = [[Telephone numbers in China|597]]
+|blank_name                      = [[Gross domestic product|GDP]]
+|blank_info                      = 2009<ref name="stat">{{cite web |language=zh-hans |url=http://lytjj.longyan.gov.cn/tjgb/201004/t20100401_134115.htm |script-title=zh:2009年龙岩市国民经济和社会发展统计公报 |access-date=2010-05-03 |date=2010-03-12 |publisher=Longyan Municipal Statistic Bureau |title=Archived copy |archive-url=https://web.archive.org/web/20150402150344/http://lytjj.longyan.gov.cn/tjgb/201004/t20100401_134115.htm |archive-date=2015-04-02 |url-status=dead }}</ref>
+|blank1_name                     = &nbsp;- Total
+|blank1_info                     = [[Renminbi|CNY]] 74.845 billion (US$10.97 billion)
+|blank2_name                     = &nbsp;- per capita
+|blank2_info                     = [[Renminbi|CNY]] 26,971 (US$3,952)
+|blank3_name                     = &nbsp;- Growth
+|blank3_info                     = {{increase}} 14.1%
+|blank4_name                     = [[Licence plates of the People's Republic of China|License Plate]]
+|blank4_info                     = {{lang|zh-cn|闽F}}
+|blank5_name            =[[Administrative division codes of the People's Republic of China|Administrative division code]]
+|blank5_info            =350800
+|iso_code = [[ISO 3166-2:CN|CN-FJ-08]]
+|blank6_name                     = [[Spoken Chinese|Local dialect]]
+|blank6_info                     = [[Longyan Min]] and [[Hakka Chinese]]
+|website = {{URL|www.longyan.gov.cn/}}
+|footnotes                       = 
+}}

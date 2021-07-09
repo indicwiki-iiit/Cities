@@ -1,0 +1,32 @@
+{{Infobox Australian place| type = city
+| name     = Wodonga
+| state    = vic
+| image    = Looking down High Street in Wodonga (2).jpg
+| caption  = Looking down High St in the CBD of Wodonga
+| coordinates = {{coord|36|07|17|S|146|53|17|E|display=inline,title}}
+| pushpin_label_position = bottom
+| pushpin_map_caption = Location in Victoria
+| lga      = [[City of Wodonga]]
+| postcode = 3690
+| est      = 1852
+| pop      = 35,130
+| pop_year = {{CensusAU|2016}}
+| pop_footnotes =<ref name="ABSPopUCL16">{{Census 2016 AUS| id = UCL211001 | name = Albury - Wodonga (Wodonga Part) | quick = on| access-date = 12 October 2018}}</ref>
+| stategov = [[Electoral district of Benambra|Benambra]]
+| fedgov   = [[Division of Indi|Indi]]
+| region   = Northeast Victoria
+| elevation = 152
+| maxtemp = 22.2
+| mintemp = 8.9 
+| rainfall = 714.9
+| location1 = [[Sydney]]
+| dist1 = 557.7
+| location2 = [[Melbourne]]
+| dist2= 307.4
+| location3 = [[Canberra]]
+| dist3= 351.7
+| location4= [[Bendigo]]
+| dist4= 278.7
+| location5= [[Wangaratta]]
+| dist5 = 70
+}}

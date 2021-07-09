@@ -1,0 +1,80 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name            = Acworth
+|other_name               = 
+|native_name              = <!-- for cities whose native name is not in English -->
+|nickname                 = 
+|settlement_type          = [[City]]
+|motto                    = The Lake City
+<!-- images and maps  ----------->
+|image_skyline          = Downtown Acworth, GA Feb 2020.jpg
+|imagesize              = 
+|image_caption          = Downtown Acworth
+|image_flag             = 
+|flag_size              = 
+|image_seal             = 
+|seal_size              = 
+|image_shield           = 
+|shield_size            = 
+|image_map              = Cobb_County_Georgia_Incorporated_and_Unincorporated_areas_Acworth_Highlighted.svg
+|mapsize                = 250px
+|map_caption            = Location in [[Cobb County, Georgia|Cobb County]] and the state of Georgia
+|pushpin_map            = USA Georgia#USA#North America
+|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+|pushpin_map_caption    = 
+|pushpin_mapsize        = <!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Georgia (U.S. state)|Georgia]]
+|subdivision_type2        = [[List of counties in Georgia (U.S. state)|County]]
+|subdivision_name2      = [[Cobb County, Georgia|Cobb]]
+<!-- Politics ----------------->
+|government_footnotes   = 
+|government_type        = 
+|leader_title           = [[Mayor]]
+|leader_name            = Tommy Allegood
+|established_title      = Incorporated
+|established_date       = 1840
+|established_title2     = <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     = <!-- Incorporated (city) -->
+|established_date3      = <!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_13.txt|publisher=United States Census Bureau|access-date=July 9, 2020}}</ref>
+|area_total_km2           = 25.08
+<!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = 23.27
+<!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           = 1.81
+|area_total_sq_mi         = 9.68
+|area_land_sq_mi          = 8.98
+|area_water_sq_mi         = 0.70
+|area_water_percent       = <!-- Population   ----------------------->
+|population_as_of               = [[2010 United States Census|2010]]
+|population_footnotes           = 
+|population_note                = 
+|population_total               = 20425
+|population_density_km2         = 980.70
+|population_density_sq_mi       = 2540.13
+|timezone = [[Eastern Standard Time Zone|EST]]
+|utc_offset = -5
+|timezone_DST = [[Eastern Daylight Time|EDT]]
+|utc_offset_DST = -4
+|coordinates            = {{coord|34|03|46|N|84|40|12|W|display=inline,title}}
+|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           = <!-- Area/postal codes & others -------->
+|postal_code_type       = ZIP code
+|postal_code            = 30101, 30102
+|area_code              = [[Area code 770|770]]/[[Area codes 678 and 470|678/470]]
+|website                = {{URL|www.acworth.org}}
+|footnotes              = 
+|pop_est_as_of = 2019
+|pop_est_footnotes = <ref name="USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse"/>
+|population_est = 22818
+|blank_name = [[Federal Information Processing Standards|FIPS code]]
+|blank_info = 13-00408
+}}

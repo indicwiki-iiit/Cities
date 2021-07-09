@@ -1,0 +1,39 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name = Pozharan
+| native_name = 
+{{unbulleted list |item_style=font-size:81%;
+ |{{native name|sq|Pozharan|italics=off}}
+ |{{native name|sr|Пожарање/Požaranje|italics=off}}
+}}
+| settlement_type = Village
+| pushpin_map = Kosovo
+| pushpin_label_position = 
+| pushpin_map_alt = 
+| pushpin_mapsize = 
+| pushpin_map_caption = 
+| coordinates       = {{coord|42.364808|N|21.337234|E|region:XK|display=inline,title}}
+| subdivision_type  = Country
+| subdivision_name  = {{flag|Kosovo}}
+| subdivision_type1 = District
+| subdivision_name1 = [[District of Gjilan|Gjilan]]
+| subdivision_type2 = [[Municipalities of Kosovo|Municipality]]
+| subdivision_name2 = [[Vitina Municipality|Vitina]]
+| established_title = 
+| established_date = 
+| population_as_of        = 2011
+| population_footnotes    = <ref>[http://pop-stat.mashke.org/kosovo-ethnic-loc2011.htm 2020 Kosovo Census results]</ref>
+| population_total        = 11,749
+| population_density_km2  = auto
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| postal_code_type        =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| area_code               =
+| blank_name              = 
+| blank_info              = 
+| website                 = 
+| footnotes               =
+}}

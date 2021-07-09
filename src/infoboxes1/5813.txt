@@ -1,0 +1,35 @@
+{{Infobox settlement
+|name = {{raise|0.2em|Jiangyou}}
+|official_name = <!-- Official name in English if different from 'name' -->
+|native_name = {{lower|0.1em|{{nobold|{{lang|zh-hans|江油市}}}}}}
+|postal_code = 621700
+|postal_code_type = [[Postal code of China|Postal code]]
+|pushpin_map = China Sichuan
+|pushpin_map_caption = Location in Sichuan
+|pushpin_mapsize = 250
+|seat = Zhongba ({{lang|zh-hans|中坝镇}})
+|seat_type = City seat
+|settlement_type = [[County-level city]]
+|image_skyline = 
+|image_map = Location of Jiangyou within Sichuan (China).png
+|map_caption = Location of Jiangyou within [[Mianyang]], [[Sichuan]]
+|mapsize = 250px
+|subdivision_type = Country
+|subdivision_name = [[China|People's Republic of China]]
+|subdivision_type1 = [[Province (China)|Province]]
+|subdivision_name1 = [[Sichuan]]
+|subdivision_type2 = [[Prefecture-level city]]
+|subdivision_name2 = [[Mianyang]]
+|area_code = 0816
+|area_total_km2 = 2719
+|population = 
+|population_as_of = 2004
+|population_density_km2 = auto
+|population_total = 870000
+|coordinates = {{coord|31|46|15.6|N|104|45|18|E|type:adm3rd_region:CN-51|display=inline,title}}
+|elevation_ft = 
+|elevation_m = 
+|timezone = [[China Standard Time|China Standard]]
+|utc_offset = +8
+|website = {{URL|www.jiangyou.gov.cn/}}
+}}

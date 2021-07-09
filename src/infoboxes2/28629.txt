@@ -1,0 +1,41 @@
+{{Infobox Australian place
+| type = town
+| name     = Birdsville
+| state    = qld
+| image    = Birdsville Hotel.jpg
+| caption  = The Birdsville Hotel, adjacent to the apron of [[Birdsville Airport]]
+| coordinates         = {{coord|-25.8986|139.3513|type:city_region:AU-QLD|display=inline|name=Birdsville (town centre)}}
+| pop                 = 140
+| pop_year            = {{CensusAU|2016}} locality
+| pop_footnotes       = <ref name=Census2016/>
+| established         = 1887
+| postcode            = 4482
+| area                = 32956.2
+| timezone            = [[AEST]]
+| utc                 = +10:00
+| dist1    = 1593
+| location1= [[Brisbane]]
+| dist2    = 1573
+| location2= [[Adelaide]]
+| dist3    = 674
+| location3= [[Mount Isa]]
+| dist4    = 191
+| location4= [[Bedourie, Queensland|Bedourie]]
+| dist5    = 518
+| location5= [[Marree, South Australia|Marree]], ([[South Australia|S.A.]])
+| elevation= 46.5
+| maxtemp  = 30.6
+| mintemp  = 15.9
+| rainfall = 168.9
+| lga                 = Shire of Diamantina
+| stategov = [[Electoral district of Gregory|Gregory]]
+| fedgov   = [[Division of Maranoa|Maranoa]]
+| near-n              = [[Bedourie, Queensland|Bedourie]]
+| near-ne             = [[Farrars Creek, Queensland|Farrars Creek]]
+| near-e              = [[Tanbar, Queensland|Tanbar]]
+| near-se             = [[Tanbar, Queensland|Tanbar]]
+| near-s              = ''[[South Australia]]''
+| near-sw             = ''[[South Australia]]''
+| near-w              = ''[[Northern Territory]]''
+| near-nw             = ''[[Northern Territory]]''
+}}
