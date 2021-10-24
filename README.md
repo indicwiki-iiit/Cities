@@ -21,9 +21,3 @@ $ pip install -r requirements.txt
 ```
 requirements.txt comes along with the Project Directory. 
 
-## Road Map
-### Version 1
-This version of the project focuses on initiating the task by working on 100 sample cities. All the files suffixed with '1' (ex: cities1.csv) are related to first version.
-### Version 2.0
-This version has increased the dimensions of its sample dataset to 1000 articles. All the files corresponding to this version are named with suffix '2' (ex : cities2.csv). 
-
